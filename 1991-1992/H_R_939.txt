@@ -1,0 +1,547 @@
+ 
+--H.R.939--
+H.R.939
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend title 38, United States Code, with respect to housing loans for
+veterans.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Veterans Home Loan Program Amendments of 1992'.
+SEC. 2. ELIGIBILITY OF SELECTED RESERVE.
+  (a) SELECTED RESERVE- Chapter 37 of title 38, United States Code,
+  is amended--
+  (1) in section 3701(b), by adding at the end the following:
+  `(5)(A) The term `veteran' also includes an individual who is not otherwise
+  eligible for the benefits of this chapter and who has completed a total
+  service of at least 6 years in the Selected Reserve and, following the
+  completion of such service, was discharged from service with an honorable
+  discharge, was placed on the retired list, was transferred to the Standby
+  Reserve or an element of the Ready Reserve other than the Selected Reserve
+  after service in the Selected Reserve characterized by the Secretary
+  concerned as honorable service, or continues serving in the Selected Reserve.
+  `(B) The term `Selected Reserve' means the Selected Reserve of the Ready
+  Reserve of any of the reserve components (including the Army National Guard
+  of the United States and the Air National Guard of the United States)
+  of the Armed Forces, as required to be maintained under section 268(b)
+  of title 10.'; and
+  (2) in section 3702(a)(2), by adding at the end the following:
+  `(E) For the 7-year period beginning on the date of enactment of this
+  subparagraph, each veteran described in section 3701(b)(5) of this title.'.
+  (b) FEES- (1) Section 3729(a)(2) of such title is amended--
+  (A) by striking out `and' at the end of subparagraph (B);
+  (B) by striking out the period at the end of subparagraph (C) and inserting
+  in lieu thereof a semicolon; and
+  (C) by adding after subparagraph (C) the following new subparagraph:
+  `(D) in the case of a loan made to, or guaranteed or insured on behalf of,
+  a veteran described in section 3701(b)(5) of this title under this chapter,
+  the amount of such fee shall be--
+  `(i) two percent of the total loan amount;
+  `(ii) in the case of a loan for any purpose specified in section 3712 of
+  this title, one percent of such amount; or
+  `(iii) in the case of a loan for a purchase (other than a purchase referred
+  to in section 3712 of this title) or for construction with respect to
+  which the veteran has made a downpayment of 5 percent or more of the total
+  purchase price or construction cost--
+  `(I) 1.50 percent of the total loan amount if such downpayment is less
+  than 10 percent of such price or cost; or
+  `(II) 1.25 percent of the total loan amount if such downpayment is 10
+  percent or more of such price or cost; and'.
+  (2) Subparagraphs (A) and (B) of section 3725(c)(2) of such title are
+  amended by inserting `(other than loans described in section 3729(a)(2)(D)
+  of this title)' after `for each loan'.
+  (c) REPORT- The Secretary of Veterans Affairs shall transmit a report to the
+  Committees on Veterans' Affairs of the Senate and House of Representatives
+  no later than December 31, 1994, and annually thereafter. The report
+  shall contain--
+  (1) a declaration of the number of veterans (as defined by section 3701(b)(5)
+  of title 38, United States Code) who receive mortgage loans guaranteed by
+  the Secretary as a result of the amendments made by subsection (a);
+  (2) a comparison of the default rate of veterans described in paragraph
+  (1) with the default rate for all other veterans who have received loans
+  guaranteed or insured by the Secretary; and
+  (3) a comparison of the proportion of veterans who receive mortgage loans
+  guaranteed by the Secretary as a result of the amendments made by subsection
+  (a) who are first time homebuyers with the proportion of all other veterans
+  who receive mortgage loans guaranteed or insured by the Secretary and who
+  are first time homebuyers.
+SEC. 3. ADJUSTABLE RATE MORTGAGE DEMONSTRATION PROGRAM.
+  (a) IN GENERAL- (1) Chapter 37 of title 38, United States Code, is amended
+  by adding after section 3706 the following new section:
+`Sec. 3707. Adjustable rate mortgages
+  `(a) The Secretary shall carry out a demonstration project under this section
+  during fiscal years 1993, 1994, and 1995 for the purpose of guaranteeing
+  loans in a manner similar to the manner in which the Secretary of Housing
+  and Urban Development insures adjustable rate mortgages under section 251
+  of the National Housing Act.
+  `(b) Interest rate adjustment provisions of a mortgage guaranteed under
+  this section shall--
+  `(1) correspond to a specified national interest rate index approved by
+  the Secretary, information on which is readily accessible to mortgagors
+  from generally available published sources;
+  `(2) be made by adjusting the monthly payment on an annual basis on the
+  anniversary of the date on which the loan was closed;
+  `(3) be limited, with respect to any single annual interest rate adjustment,
+  to a maximum increase or decrease of 1 percentage point; and
+  `(4) be limited, over the term of the mortgage, to a maximum increase of
+  5 percentage points above the initial contract interest rate.
+  `(c) The Secretary shall promulgate underwriting standards for loans
+  guaranteed under this section, taking into account--
+  `(1) the status of the interest rate index referred to in subsection (b)(1)
+  and available at the time an underwriting decision is made, regardless of
+  the actual initial rate offered by the lender;
+  `(2) the maximum and likely amounts of increases in mortgage payments that
+  the loans would require;
+  `(3) the underwriting standards applicable to adjustable rate mortgages
+  insured under title II of the National Housing Act; and
+  `(4) such other factors as the Secretary finds appropriate.
+  `(d) The Secretary shall require that the mortgagee make available to the
+  mortgagor, at the time of loan application, a written explanation of the
+  features of the adjustable rate mortgage, including a hypothetical payment
+  schedule that displays the maximum potential increases in monthly payments
+  to the mortgagor over the first five years of the mortgage term.'.
+  (2) The table of sections for chapter 37, of title 38, United States
+  Code, is amended by inserting after the item relating to section 3706 the
+  following new item:
+`3707. Adjustable rate mortgages.'.
+  (b) REPORT- The Secretary shall transmit a report to the Committees on
+  Veterans' Affairs of the Senate and House of Representatives no later than
+  December 31, 1993, containing a description of the project carried out under
+  section 3707 of title 38, United States Code (as added by subsection (a)),
+  and shall continue to make annual reports to the Committees with respect
+  to the default rate and other information concerning the loans guaranteed
+  under such section. Such reports shall--
+  (1) compare the number of adjustable rate mortgages guaranteed under such
+  section with the number of fixed rate loans guaranteed or insured under
+  chapter 37 of such title and contrast this ratio with a corresponding
+  ratio for loans for single family housing insured by the Secretary of
+  Housing and Urban Development pursuant to the National Housing Act;
+  (2) compare the initial interest rate of the adjustable rate mortgages
+  guaranteed under such section with the fixed interest rate on loans
+  guaranteed or insured under chapter 37 of such title;
+  (3) describe the monthly mortgage payment savings to the veteran, if any,
+  under an adjustable rate mortgage guaranteed under such section compared
+  with the payments that would have been required if the loan bore interest
+  at a maximum fixed rate established by the Secretary;
+  (4) discuss whether the market share for housing loans guaranteed under
+  chapter 37 of such title has increased or decreased since the implementation
+  of such section;
+  (5) compare the default rate on mortgages guaranteed under such section
+  with the default rate of fixed-rate mortgages guaranteed or insured under
+  chapter 37 of such title; and
+  (6) compare the number of first time homebuyers using adjustable rate
+  mortgage loans under such section with the number of first time homebuyers
+  using any other loan guaranteed under chapter 37 of such title.
+SEC. 4. ENHANCED LOAN ASSET SALE AUTHORITY.
+  Section 3720(h)(2) of title 38, United States Code, is amended by striking
+  out `December 31, 1992' and inserting in lieu thereof `December 31, 1995'.
+SEC. 5. FEES FOR REFINANCING LOANS.
+  Section 3729(a)(2) of title 38, United States Code (as amended by section
+  2(b) of this Act), is amended--
+  (1) in subparagraph (A), by inserting `(other than section 3712(a)(1)(F))'
+  after `section 3712'; and
+  (2) by inserting after subparagraph (D) the following new subparagraph:
+  `(E) in the case of a loan guaranteed under section 3710(a)(8),
+  3710(a)(9)(B)(i), or 3712(a)(1)(F) of this title, the amount of such fee
+  shall be 0.5 percent of the total loan amount.'.
+SEC. 6. GUARANTY AMOUNT RELATIVE TO LOAN REFINANCINGS.
+  Chapter 37 of title 38, United States Code, is amended--
+  (1) in section 3710(e), by amending paragraph (1)(D) to read as follows:
+  `(D) notwithstanding section 3703(a)(1) of this title, the amount of the
+  guaranty of the loan may not exceed the greater of (i) the original guaranty
+  amount of the loan being refinanced, or (ii) 25 percent of the loan;'; and
+  (2) in section 3712(a)(4), by amending subparagraph (A)(iv) to read
+  as follows:
+  `(iv) notwithstanding section 3703(a)(1) of this title, the amount of the
+  guaranty of the loan may not exceed  the greater of (I) the original guaranty
+  amount of the loan being refinanced, or (II) 25 percent of the loan;'.
+SEC. 7. EXTENSION OF LENDER APPRAISAL PROGRAM.
+  Section 3731(f)(3) of title 38, United States Code, is amended by striking
+  out `1992' and inserting in lieu thereof `1995'.
+SEC. 8. NATIVE AMERICAN VETERANS DIRECT HOUSING LOAN PILOT PROGRAM.
+  (a) PROGRAM- Chapter 37 of title 38, United States Code, is amended by
+  adding at the end the following new subchapter:
+`SUBCHAPTER V--NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM
+`Sec. 3761. Pilot program
+  `(a) The Secretary shall establish and implement a pilot program under which
+  the Secretary may make direct housing loans to Native American veterans. The
+  purpose of such loans is to permit such veterans to purchase, construct, or
+  improve dwellings on trust land. The Secretary shall establish and implement
+  the pilot program in accordance with the provisions of this subchapter.
+  `(b) In carrying out the pilot program under this subchapter, the Secretary
+  shall, to the extent practicable, make direct housing loans to Native
+  American veterans who are located in a variety of geographic areas and in
+  areas experiencing a variety of economic circumstances.
+  `(c) No loans may be made under this subchapter after September 30, 1997.
+`Sec. 3762. Direct housing loans to Native American veterans
+  `(a) The Secretary may make a direct housing loan to a Native American
+  veteran if--
+  `(1) the Secretary has entered into a memorandum of understanding with
+  respect to such loans with the tribal organization that has jurisdiction
+  over the veteran; and
+  `(2) the memorandum is in effect when the loan is made.
+  `(b)(1) Subject to paragraph (2), the Secretary shall ensure that each
+  memorandum of understanding that the Secretary enters into with a tribal
+  organization shall provide for the following:
+  `(A) That each Native American veteran who is under the jurisdiction of
+  the tribal organization and to whom the Secretary makes a direct loan
+  under this subchapter--
+  `(i) holds, possesses, or purchases using the proceeds of the loan a
+  meaningful interest in a lot or dwelling (or both) that is located on
+  trust land; and
+  `(ii) will purchase, construct, or improve (as the case may be) a dwelling
+  on the lot using the proceeds of the loan.
+  `(B) That each such Native American veteran will convey to the Secretary
+  by an appropriate instrument the interest referred to in subparagraph (A)
+  as security for a direct housing loan under this subchapter.
+  `(C) That the tribal organization and each such Native American veteran
+  will permit the Secretary to enter upon the trust land of that organization
+  or veteran for the purposes of carrying out such actions as the Secretary
+  determines are necessary--
+  `(i) to evaluate the advisability of the loan; and
+  `(ii) to monitor any purchase, construction, or improvements carried out
+  using the proceeds of the loan.
+  `(D) That the tribal organization has established standards and procedures
+  that apply to the foreclosure of the interest conveyed by a Native American
+  veteran pursuant to subparagraph (B), including--
+  `(i) procedures for foreclosing the interest; and
+  `(ii) procedures for the resale of the lot or the dwelling (or both)
+  purchased, constructed, or improved using the proceeds of the loan.
+  `(E) That the tribal organization agrees to such other terms and conditions
+  with respect to the making of direct loans to Native American veterans
+  under the jurisdiction of the tribal organization as the Secretary may
+  require in order to ensure that the pilot program established under this
+  subchapter is implemented in a responsible and prudent manner.
+  `(2) The Secretary may not enter into a memorandum of understanding with a
+  tribal organization under this subsection unless the Secretary determines
+  that the memorandum provides for such standards and procedures as are
+  necessary for the reasonable protection of the financial interests of the
+  United States.
+  `(c)(1)(A) Except as provided in subparagraph (B), the principal amount
+  of any direct housing loan made to a Native American under this section
+  may not exceed $80,000.
+  `(B) The Secretary may make loans exceeding the amount specified in
+  subparagraph (A) in a geographic area if the Secretary determines that
+  housing costs in the area are significantly higher than average housing
+  costs nationwide. The amount of such increase shall be the amount that the
+  Secretary determines is necessary in order to carry out the pilot program
+  under this subchapter in a manner that demonstrates the advisability of
+  making direct housing loans to Native American veterans who are located
+  in a variety of geographic areas and in geographic areas experiencing a
+  variety of economic conditions.
+  `(2) Loans made under this section shall bear interest at a rate determined
+  by the Secretary, which rate may not exceed the appropriate rate authorized
+  for guaranteed loans under section 3703(c)(1) or section 3712(f) of this
+  title, and shall be subject to such requirements or limitations prescribed
+  for loans guaranteed under this title as the Secretary may prescribe.
+  `(3) Notwithstanding section 3704(a) of this title, the Secretary shall
+  establish minimum requirements for planning, construction, improvement, and
+  general acceptability relating to any direct loan made under this section.
+  `(d)(1) The Secretary shall establish credit underwriting standards to be
+  used in evaluating loans made under this subchapter. In establishing such
+  standards, the Secretary shall take into account the purpose of this program
+  to make available housing to Native American veterans living on trust lands.
+  `(2) The Secretary shall determine the reasonable value of the interest in
+  property that will serve as security for a loan made under this section and
+  shall establish procedures for appraisals upon which the Secretary may base
+  such determinations. The procedures shall incorporate generally the relevant
+  requirements of section 3731 of this title, unless the Secretary determines
+  that such requirements are impracticable to implement in a geographic area,
+  on particular trust lands, or under circumstances specified by the Secretary.
+  `(e) Loans made under this section shall be repaid in monthly installments.
+  `(f) In connection with any loan under this section, the Secretary may make
+  advances in cash to provide for repairs, alterations, and improvements
+  and to meet incidental expenses of the loan transaction. The Secretary
+  shall determine the amount of any expenses incident to the origination
+  of loans made under this section, which expenses, or a reasonable flat
+  allowance in lieu thereof, shall be paid by the veteran in addition to
+  the loan closing costs.
+  `(g) Without regard to any provision of this chapter (other than a provision
+  of this section), the Secretary may--
+  `(1) take any action that the Secretary determines to be necessary with
+  respect to the custody, management, protection, and realization or sale
+  of investments under this section;
+  `(2) determine any necessary expenses and expenditures and the manner in
+  which such expenses and expenditures shall be incurred, allowed, and paid;
+  `(3) make such rules, regulations, and orders as the Secretary considers
+  necessary for carrying out the Secretary's functions under this section; and
+  `(4) in a manner consistent with the provisions of this chapter and
+  with the Secretary's functions under this subchapter, employ, utilize,
+  and compensate any persons, organizations, or departments or agencies
+  (including departments and agencies of the United States) designated by
+  the Secretary to carry out such functions.
+  `(h) The Secretary shall carry out an outreach program to inform and
+  educate tribal organizations and Native American veterans of the pilot
+  program provided for under this subchapter and the availability of direct
+  housing loans for Native American veterans who live on trust lands.
+`Sec. 3763. Housing loan program account
+  `(a) There is hereby established in the Treasury of the United States an
+  account known as the `Native American Veteran Housing Loan Program Account'
+  (hereafter in this subchapter referred to as the `Account').
+  `(b) The Account shall be available to the Secretary to carry out all
+  operations relating to the making of direct housing loans to Native
+  American veterans under this subchapter, including any administrative
+  expenses relating to the making of such loans. Amounts in the Account
+  shall be available without fiscal year limitation.
+`Sec. 3764. Definitions
+  `For the purposes of this subchapter--
+  `(1) The term `trust land' means any land that--
+  `(A) is held in trust by the United States for Native Americans;
+  `(B) is subject to restrictions on alienation imposed by the United States
+  on Indian lands (including native Hawaiian homelands);
+  `(C) is owned by a Regional Corporation or a Village Corporation, as such
+  terms are defined in section 3(g) and 3(j) of the Alaska Native Claims
+  Settlement Act, respectively (43 U.S.C. 1602(g), (j)); or
+  `(D) is on any island in the Pacific Ocean if such land is, by cultural
+  tradition, communally-owned land, as determined by the Secretary.
+  `(2) The term `Native American veteran' means any veteran who is a Native
+  American.
+  `(3) The term `Native American' means--
+  `(A) an Indian, as defined in section 4(d) of the Indian Self-Determination
+  and Education Assistance Act (25 U.S.C. 450b(d));
+  `(B) a native Hawaiian, as that term is defined in section 201(a)(7)
+  of the Hawaiian Homes Commission Act, 1920 (Public Law 67-34; 42 Stat. 108);
+  `(C) an Alaska Native, within the meaning provided for the term `Native' in
+  section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b));
+  and
+  `(D) a Pacific Islander, within the meaning of the Native American Programs
+  Act of 1974 (42 U.S.C. 2991 et seq.).
+  `(4) The term `tribal organization' shall have the meaning given such term
+  in section 4(l) of the Indian Self-Determination and Education Assistance
+  Act (25 U.S.C. 450b(l)) and shall include the Department of Hawaiian
+  Homelands, in the case of native Hawaiians, and such other organizations
+  as the Secretary may prescribe.'.
+  (b) CONSULTATION- In carrying out the direct housing loan pilot program
+  authorized under subchapter V of chapter 37 of title 38, United States
+  Code (as added by subsection (a)), the Secretary of Veterans Affairs shall
+  consider the views and recommendations, if any, of the Advisory Committee on
+  Native-American Veterans established under section 19032 of the Veterans'
+  Health-Care Amendments of 1986 (title XIX of Public Law 99-272; 100
+  Stat. 388).
+  (c) CONFORMING AMENDMENT- The table of sections of such chapter is amended
+  by adding at the end the following new matter:
+`SUBCHAPTER V--NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM
+`3761. Pilot program.
+`3762. Direct housing loans to Native American veterans.
+`3763. Housing loan program account.
+`3764. Definitions.'.
+  (d) ANNUAL REPORTS- Not later than February 1 of each of 1994 through
+  1998, the Secretary of Veterans Affairs shall transmit to the Committees
+  on Veterans' Affairs of the Senate and House of Representatives a report
+  relating to--
+  (1) the implementation of the Native American veterans direct housing loan
+  pilot program established under subchapter V of chapter 37 of title 38,
+  United States Code (as added by subsection (a)), during the period ending
+  on September 30 of the year preceding the date of the report;
+  (2) the Secretary's exercise of the authority provided under section
+  3762(c)(1)(B) of such title (as so added) to make loans exceeding the
+  maximum loan amount;
+  (3) the appraisals performed for the Secretary during that period under
+  the authority of section 3732(d)(2) of such title (as so added), including
+  a description of--
+  (A) the manner in which such appraisals were performed;
+  (B) the qualifications of the appraisers who performed such appraisals; and
+  (C) the actions taken by the Secretary with respect to such appraisals to
+  protect the interests of veterans and the United States; and
+  (4) the Secretary's recommendations, if any, for legislation regarding
+  the pilot program.
+  (e) AUTHORIZATION OF APPROPRIATIONS- New direct loan obligations for Native
+  American veteran housing loans under subchapter V of chapter 37 of title 38,
+  United States Code (as added by subsection (a)), may be incurred only to
+  the extent that appropriations of budget authority to cover the anticipated
+  cost, as defined in section 502 of the Congressional Budget Act of 1974,
+  for such loans are made in advance. There is authorized to be appropriated
+  for such purpose $5,000,000 for fiscal year 1993, which amount shall remain
+  available without fiscal year limitation.
+  (f) CONFORMING FUNDING AMENDMENT- Title I of the Departments of Veterans
+  Affairs and Housing and Urban Development, and Independent Agencies
+  Appropriations Act, 1993 is amended by striking out `direct loans authorized
+  by' and all that follows through `Veterans' Affairs)' under the heading
+  `NATIVE AMERICAN VETERAN HOUSING LOAN PROGRAM ACCOUNT' and inserting in
+  lieu thereof `direct loans authorized by subchapter V of chapter 37 of
+  title 38, United States Code'.
+SEC. 9. ENERGY EFFICIENT MORTGAGES.
+  (a) IN GENERAL- Subsection (d) of section 3710 of title 38, United States
+  Code, is amended to read as follows:
+  `(d)(1) The Secretary shall carry out a program to demonstrate the
+  feasibility of guaranteeing loans for the acquisition of an existing
+  dwelling and the cost of making energy efficiency improvements to the
+  dwelling or for energy efficiency improvements to a dwelling owned and
+  occupied by a veteran. A loan may be guaranteed under this subsection only
+  if it meets the requirements of this chapter, except as those requirements
+  are modified by this subsection.
+  `(2) The cost of energy efficiency measures that may be financed by a loan
+  guaranteed under this section may not exceed the greater of--
+  `(A) the cost of the energy efficiency improvements, up to $3,000; or
+  `(B) $6,000, if the increase in the monthly payment for principal and
+  interest does not exceed the likely reduction in monthly utility costs
+  resulting from the energy efficiency improvements.
+  `(3) Notwithstanding the provisions of section 3703(a)(1)(A) of this title,
+  any loan guaranteed under this subsection shall be guaranteed in an amount
+  equal to the sum of--
+  `(A) the guaranty that would be provided under those provisions for the
+  dwelling without the energy efficiency improvements; and
+  `(B) an amount that bears the same relation to the cost of the energy
+  efficiency improvements as the guaranty referred to in subparagraph (A)
+  bears to the amount of the loan minus the cost of such improvements.
+  `(4) The amount of the veteran's entitlement, calculated in accordance
+  with section 3703(a)(1)(B) of this title, shall not be affected by the
+  amount of the guaranty referred to in paragraph (3)(B).
+  `(5) The Secretary shall take appropriate actions to notify eligible
+  veterans, participating lenders, and interested realtors of the availability
+  of loan guarantees under this subsection and the procedures and requirements
+  that apply to the obtaining of such guarantees.
+  `(6) For the purposes of this subsection:
+  `(A) The term `energy efficiency improvement' includes a solar heating
+  system, a solar heating and cooling system, or a combined solar heating and
+  cooling system, and the application of a residential energy conservation
+  measure.
+  `(B) The term `solar heating' has the meaning given such term in section
+  3(1) of the Solar Heating and Cooling Demonstration Act of 1974 (42
+  U.S.C. 5502(1)) and, in addition, includes a passive system based on
+  conductive, convective, or radiant energy transfer.
+  `(C) The terms `solar heating and cooling' and `combined solar heating and
+  cooling' have the meaning given such terms in section 3(2) of the Solar
+  Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(2)) and,
+  in addition, include a passive system based on conductive, convective,
+  or radiant energy transfer.
+  `(D) The term `passive system' includes window and skylight glazing,
+  thermal floors, walls, and roofs, movable insulation panels (when in
+  conjunction with glazing), portions of a residential structure that serve
+  as solar furnaces so as to add heat to the structure, double-pane window
+  insulation, and such other energy-related components as are determined by
+  the Secretary to enhance the natural transfer of energy for the purpose
+  of heating or heating and cooling a residence.
+  `(E) The term `residential energy conservation measure' means--
+  `(i) caulking and weatherstripping of all exterior doors and windows;
+  `(ii) furnace efficiency modifications limited to--
+  `(I) replacement burners, boilers, or furnaces designed to reduce the
+  firing rate or to achieve a reduction in the amount of fuel consumed as
+  a result of increased combustion efficiency,
+  `(II) devices for modifying flue openings which will increase the efficiency
+  of the heating system, and
+  `(III) electrical or mechanical furnace ignition systems which replace
+  standing gas pilot lights;
+  `(iii) clock thermostats;
+  `(iv) ceiling, attic, wall, and floor insulation;
+  `(v) water heater insulation;
+  `(vi) storm windows and doors;
+  `(vii) heat pumps; and
+  `(viii) such other energy conservation measures as the Secretary may
+  identify for the purposes of this subparagraph.
+  `(7) A loan may not be guaranteed under this subsection after December
+  31, 1995.'.
+  (b) PURCHASE OR CONSTRUCTION WITH ENERGY EFFICIENCY IMPROVEMENTS- (1)
+  Section 3710(a)(7) of such title is amended to read as follows:
+  `(7) To improve a dwelling or farm residence owned by the veteran and
+  occupied by the veteran as the veteran's home through energy efficiency
+  improvements, as provided in subsection (d).'.
+  (2) Section 3710(a) of such title is further amended by adding after
+  paragraph (9) the following:
+  `(10) To purchase a dwelling to be owned and occupied by the veteran as
+  a home and make energy efficiency improvements, as provided in subsection
+  (d).'.
+  (c) REPORTS- Not later than 1 year after the date on which the Secretary
+  of Veterans Affairs first exercises the authority to guarantee loans under
+  section 3710(d) of title 38, United States Code (as added by subsection (a)
+  of this section), and for each of the 3 years thereafter, the Secretary
+  shall transmit to the Committees on Veterans' Affairs of the Senate and
+  House of Representatives a report on the program under such section. Each
+  such report shall contain information pertaining to--
+  (1) the number of mortgages guaranteed under such section;
+  (2) the average amount of money added to the mortgage to finance energy
+  efficiency features;
+  (3) the types of energy efficiency features obtained with mortgages under
+  such section; and
+  (4) the default rates on the mortgages guaranteed under such section
+  compared with the default rates on all other types of mortgages guaranteed
+  by the Secretary.
+SEC. 10. NEGOTIATED INTEREST RATES.
+  (a) IN GENERAL- Section 3703(c) of title 38, United States Code, is amended--
+  (1) in the first sentence of paragraph (1)--
+  (A) by striking `the Secretary of Housing and Urban Development considers
+  necessary to meet the mortgage market for' and inserting `applicable to'; and
+  (B) by striking all that follows `(12 U.S.C. 1709(b))' and inserting a
+  period; and
+  (2) by adding at the end the following:
+  `(4)(A) In guaranteeing or insuring loans under this chapter, the Secretary
+  may elect whether to require that such loans bear interest at a rate
+  that is--
+  `(i) agreed upon by the veteran and the mortgagee; or
+  `(ii) established under paragraph (1).
+The Secretary may, from time to time, change the election under this
+subparagraph.
+  `(B) Any veteran, under a loan described in subparagraph (A)(i), may pay
+  reasonable discount points in connection with the loan. Discount points
+  may not be financed as part of the principal amount of a loan guaranteed
+  or insured under this chapter.
+  `(C) Not later than 10 days after an election under subparagraph (A),
+  the Secretary shall transmit to the Committees on Veterans' Affairs of
+  the Senate and House of Representatives a notification of the election,
+  together with an explanation of the reasons therefor.
+  `(D) This paragraph shall expire on December 31, 1995.'.
+  (b) REPORT- Not later than December 31, 1993, and annually thereafter, the
+  Secretary of Veterans Affairs shall transmit to the Committees on Veterans'
+  Affairs of the Senate and House of Representatives a report on whether the
+  Secretary has implemented the authority to guarantee and insure loans that
+  bear negotiated interest rates and points under section 3703(c)(4) of title
+  38, United States Code (as added by subsection (a)). If the Secretary has
+  implemented that authority, the Secretary shall include in the report--
+  (1) a comparison of the interest rates paid by veterans for loans that
+  bear interest rates negotiated under section 3703(c)(4) of such title with
+  interest rates allowable under mortgages for single family housing insured
+  by the Secretary of Housing and Urban Development pursuant to the National
+  Housing Act and interest rates charged under conventional mortgage loan
+  programs for single family housing;
+  (2) a comparison of the negotiated interest rates being charged under
+  paragraph 4 of section 3703(c) of such title with the interest rate that
+  the Secretary would have established under paragraph (1) of such section
+  during the same time period;
+  (3) a comparison of the number of discount points charged by the lender
+  for mortgage loans that bear interest rates negotiated under section
+  3703(c)(4) of such title with the number of discount points charged for
+  mortgages for single family housing insured by the Secretary of Housing
+  and Urban Development pursuant to the National Housing Act and the number
+  of discount points charged under conventional mortgage loan programs for
+  single family housing;
+  (4) a discussion of the extent to which borrowers or sellers are paying the
+  discount points on negotiated interest rate loans under section 3703(c)(4)
+  of such title;
+  (5) a discussion of whether the market share for housing loans guaranteed
+  under such title has increased or decreased since the implementation of
+  the authority to guarantee and insure loans that bear negotiated interest
+  rates under section 3703(c)(4) of such title, and a discussion of the
+  extent to which any change in market share was the result of that authority;
+  (6) in claims paid following foreclosure, a discussion of the difference
+  in the interest portion paid on loans guaranteed under section 3703(c)(4)
+  of such title to what the interest portion would have been under the
+  interest rate established under section 3703(c)(1) of such title; and
+  (7) the number of first time homebuyers using loans that bear negotiated
+  interest rates under section 3703(c)(4) of such title.
+SEC. 11. ELIGIBILITY FOR FLAGS AND GRAVE MARKERS.
+  (a) FLAGS- Section 2301(a) of title 38, United States Code, is amended to
+  read as follows:
+  `(a) The Secretary shall furnish a flag to drape the casket of each--
+  `(1) deceased veteran who--
+  `(A) was a veteran of any war, or of service after January 31, 1955;
+  `(B) had served at least one enlistment; or
+  `(C) had been discharged or released from the active military, naval,
+  or air service for a disability incurred or aggravated in line of duty; and
+  `(2) deceased individual who at the time of death was entitled to retired pay
+  under chapter 67 of title 10 or would have been entitled to retired pay under
+  that chapter but for the fact that the person was under 60 years of age.'.
+  (b) HEADSTONES OR MARKERS- Section 2306(a) of title 38, United States Code,
+  is amended by adding at the end thereof the following:
+  `(5) Any individual who at the time of death was entitled to retired pay
+  under chapter 67 of title 10 or would have been entitled to retired pay under
+  that chapter but for the fact that the person was under 60 years of age.'.
+SEC. 12. TECHNICAL AMENDMENT.
+  Section 5 of Public Law 102-54 (105 Stat. 268) is amended by striking out
+  `3102' and inserting in lieu thereof `5302'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

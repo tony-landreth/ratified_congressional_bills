@@ -1,0 +1,673 @@
+ 
+--H.R.6191--
+H.R.6191
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To protect the public interest and the future development of pay-per-call
+technology by providing for the regulation and oversight of the applications
+and growth of the pay-per-call industry, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE, FINDINGS.
+  (a) SHORT TITLE- This Act may be cited as the `Telephone Disclosure and
+  Dispute Resolution Act'.
+  (b) FINDINGS- The Congress finds the following:
+  (1) The use of pay-per-call services, most commonly through the use of
+  900 telephone numbers, has grown exponentially in the past few years into
+  a national, billion-dollar industry as a result of recent technological
+  innovations. Such services are convenient to consumers, cost-effective to
+  vendors, and profitable to communications common carriers.
+  (2) Many pay-per-call businesses provide valuable information, increase
+  consumer choices, and stimulate innovative and responsive services that
+  benefit the public.
+  (3) The interstate nature of the pay-per-call industry means that its
+  activities are beyond the reach of individual States and therefore requires
+  Federal regulatory treatment to protect the public interest.
+  (4) The lack of nationally uniform regulatory guidelines has led to confusion
+  for callers, subscribers, industry participants, and regulatory agencies as
+  to the rights of callers and the oversight responsibilities of regulatory
+  authorities, and has allowed some pay-per-call businesses to engage in
+  practices that abuse the rights of consumers.
+  (5) Some interstate pay-per-call businesses have engaged in practices
+  which are misleading to the consumer, harmful to the public interest,
+  or contrary to accepted standards of business practices and thus cause
+  harm to the many reputable businesses that are serving the public.
+  (6) Because the consumer most often incurs a financial obligation as soon as
+  a pay-per-call transaction is completed, the accuracy and descriptiveness
+  of vendor advertisements become crucial in avoiding consumer abuse. The
+  obligation for accuracy should include price-per-call and duration-of-call
+  information, odds disclosure for lotteries, games, and sweepstakes, and
+  obligations for obtaining parental consent from callers under 18.
+  (7) The continued growth of the legitimate pay-per-call industry is
+  dependent upon consumer confidence that unfair and deceptive behavior
+  will be effectively curtailed and that consumers will have adequate rights
+  of redress.
+  (8) Vendors of telephone-billed goods and services must also feel confident
+  in their rights and obligations for resolving billing disputes if they are to
+  use this new marketplace for the sale of products of more than nominal value.
+TITLE I--CARRIER OBLIGATIONS AND CONSUMER RIGHTS CONCERNING PAY-PER-CALL
+TRANSACTIONS
+SEC. 101. AMENDMENT TO COMMUNICATIONS ACT OF 1934.
+  Title II of the Communications Act of 1934 is amended by adding at the
+  end thereof the following new section:
+`SEC. 228. REGULATION OF CARRIER OFFERING OF PAY-PER-CALL SERVICES.
+  `(a) PURPOSE- It is the purpose of this section--
+  `(1) to put into effect a system of national regulation and review that
+  will oversee interstate pay-per-call services; and
+  `(2) to recognize the Commission's authority to prescribe regulations and
+  enforcement procedures and conduct oversight to afford reasonable protection
+  to consumers of pay-per-call services and to assure that violations of
+  Federal law do not occur.
+  `(b) GENERAL AUTHORITY FOR REGULATIONS- The Commission by regulation shall,
+  within 270 days after the date of enactment of this section, establish a
+  system for oversight and regulation of pay-per-call services in order to
+  provide for the protection of consumers in accordance with this Act and
+  other applicable Federal statutes and regulations. The Commission's final
+  rules shall--
+  `(1) include measures that provide a consumer of pay-per-call services
+  with adequate and clear descriptions of the rights of the caller;
+  `(2) define the obligations of common carriers with respect to the provision
+  of pay-per-call services;
+  `(3) include requirements on such carriers to protect against abusive
+  practices by providers of pay-per-call services;
+  `(4) identify procedures by which common carriers and providers of
+  pay-per-call services may take affirmative steps to protect against
+  nonpayment of legitimate charges; and
+  `(5) require that any service described in subparagraphs (A) and (B) of
+  subsection (i)(1) be offered only through the use of certain telephone
+  number prefixes and area codes.
+  `(c) COMMON CARRIER OBLIGATIONS- Within 270 days after the date of
+  enactment of this section, the Commission shall, by regulation, establish
+  the following requirements for common carriers:
+  `(1) CONTRACTUAL OBLIGATIONS TO COMPLY- Any common carrier assigning to
+  a provider of pay-per-call services a telephone number with a prefix or
+  area code designated by the Commission in accordance with subsection
+  (b)(5) shall require by contract or tariff that such provider comply
+  with the provisions of titles II and III of the Telephone Disclosure and
+  Dispute Resolution Act and the regulations prescribed by the Federal Trade
+  Commission pursuant to those titles.
+  `(2) INFORMATION AVAILABILITY- A common carrier that by tariff or contract
+  assigns a telephone number with a prefix or area code designated by
+  the Commission in accordance with subsection (b)(5) to a provider of a
+  pay-per-call service shall make readily available on request to Federal
+  and State agencies and other interested persons--
+  `(A) a list of the telephone numbers for each of the pay-per-call services
+  it carries;
+  `(B) a short description of each such service;
+  `(C) a statement of the total cost or the cost per minute and any other
+  fees for each such service;
+  `(D) a statement of the pay-per-call service's name, business address,
+  and business telephone; and
+  `(E) such other information as the Commission considers necessary for
+  the enforcement of this section and other applicable Federal statutes
+  and regulations.
+  `(2) COMPLIANCE PROCEDURES- A common carrier that by contract or tariff
+  assigns a telephone number with a prefix or area code designated by the
+  Commission in accordance with subsection (b)(5) to a provider of pay-per-call
+  services shall terminate, in accordance with procedures specified in
+  such regulations, the offering of a pay-per-call service of a provider
+  if the carrier knows or reasonably should know that such service is not
+  provided in compliance with title II or III of the Telephone Disclosure
+  and Dispute Resolution Act or the regulations prescribed by the Federal
+  Trade Commission pursuant to such titles.
+  `(3) SUBSCRIBER DISCONNECTION PROHIBITED- A common carrier shall not
+  disconnect or interrupt a subscriber's local exchange telephone service
+  or long distance telephone service because of nonpayment of charges for
+  any pay-per-call service.
+  `(4) BLOCKING AND PRESUBSCRIPTION- A common carrier that provides local
+  exchange service shall--
+  `(A) offer telephone subscribers (where technically feasible) the option of
+  blocking access from their telephone number to all, or to certain specific,
+  prefixes or area codes used by pay-per-call services, which option--
+  `(i) shall be offered at no charge (I) to all subscribers for a period of
+  60 days after the issuance of the regulations under subsection (b), and
+  (II) to any subscriber who subscribes to a new telephone number until 60
+  days after the time the new telephone number is effective; and
+  `(ii) shall otherwise be offered at a reasonable fee; and
+  `(B) offer telephone subscribers (where the Commission determines it is
+  technically and economically feasible), in combination with the blocking
+  option described under subparagraph (A), the option of presubscribing to
+  or blocking only specific pay-per-call services for a reasonable one-time
+  charge.
+The regulations prescribed under subparagraph (A)(i) of this paragraph may
+permit the costs of such blocking to be recovered by contract or tariff, but
+such costs may not be recovered from local or long-distance ratepayers. Nothing
+in this subsection precludes a common carrier from filing its rates and
+regulations regarding blocking and presubscription in its interstate tariffs.
+  `(5) VERIFICATION OF CHARITABLE STATUS- A common carrier that assigns by
+  contract or tariff a telephone number with a prefix or area code designated
+  by the Commission in accordance with subsection (b)(5) to a provider of
+  pay-per-call services that the carrier knows or reasonably should know
+  is engaged in soliciting charitable contributions shall obtain from such
+  provider proof of the tax exempt status of any person or organization for
+  which contributions are solicited.
+  `(6) BILLING FOR 800 CALLS- A common carrier shall prohibit by tariff or
+  contract the use of any 800 telephone number, or other telephone number
+  advertised or widely understood to be toll free, in a manner that would
+  result in--
+  `(A) the calling party being assessed, by virtue of completing the call,
+  a charge for the call;
+  `(B) the calling party being connected to a pay-per-call service;
+  `(C) the calling party being charged for information conveyed during the call
+  unless the calling party has a preexisting agreement to be charged for the
+  information or discloses a credit or charge card number during the call; or
+  `(D) the calling party being called back collect for the provision of
+  audio information services or simultaneous voice conservation services.
+  `(d) BILLING AND COLLECTION PRACTICES- The regulations required by this
+  section shall require that any common carrier that by tariff or contract
+  assigns a telephone number with a prefix or area code designated by
+  the Commission in accordance with subsection (b)(5) to a provider of a
+  pay-per-call service and that offers billing and collection services to
+  such provider--
+  `(1) ensure that a subscriber is not billed--
+  `(A) for pay-per-call services that such carrier knows or reasonably should
+  know was provided in violation of the regulations issued pursuant to title
+  II of the Telephone Disclosure and Dispute Resolution Act; or
+  `(B) under such other circumstances as the Commission determines necessary
+  in order to protect subscribers from abusive practices;
+  `(2) establish a local or a toll-free telephone number to answer questions
+  and provide information on subscribers' rights and obligations with regard
+  to their use of pay-per-call services and to provide to callers the name
+  and mailing address of any provider of pay-per-call services offered by
+  the common carrier;
+  `(3) within 60 days after the issuance of final regulations pursuant to
+  subsection (b), provide, either directly or through contract with any
+  local exchange carrier that provides billing or collection services to
+  the common carrier, to all of such common carrier's telephone subscribers,
+  to all new subscribers, and to all subscribers requesting service at a new
+  location, a disclosure statement that sets forth all rights and obligations
+  of the subscriber and the carrier with respect to the use and payment for
+  pay-per-call services, including the right of a subscriber not to be billed
+  and the applicable blocking option; and
+  `(4) in any billing to telephone subscribers that includes charges for
+  any pay-per-call service--
+  `(A) display any charges for pay-per-call services in a part of the
+  subscriber's bill that is identified as not being related to local and
+  long distance telephone charges;
+  `(B) for each charge so displayed, specify, at a minimum, the type of
+  service, the amount of the charge, and the date, time, and duration of
+  the call; and
+  `(C) identify the toll-free number established pursuant to paragraph (2).
+  `(e) LIABILITY-
+  `(1) COMMON CARRIERS NOT LIABLE FOR TRANSMISSION OR BILLING- No common
+  carrier shall be liable for a criminal or civil sanction or penalty solely
+  because the carrier provided transmission or billing and collection for
+  a pay-per-call service unless the carrier knew or reasonably should have
+  known that such service was provided in violation of a provision of,
+  or regulation prescribed pursuant to, title II or III of the Telephone
+  Disclosure and Dispute Resolution Act or any other Federal law. This
+  paragraph shall not prevent the Commission from imposing a sanction or
+  penalty on a common carrier for a violation by that carrier of a regulation
+  prescribed under this section.
+  `(2) CIVIL LIABILITY- No cause of action may be brought in any court or
+  administrative agency against any common carrier or any of its affiliates
+  on account of any act of the carrier or affiliate to terminate any
+  pay-per-call service in order to comply with the regulations prescribed
+  under this section, title II or III of the Telephone Disclosure and Dispute
+  Resolution Act, or any other Federal law unless the complainant demonstrates
+  that the carrier or affiliate did not act in good faith.
+  `(f) SPECIAL PROVISIONS-
+  `(1) CONSUMER REFUND REQUIREMENTS- The regulations required by subsection
+  (d) shall establish procedures, consistent with the provisions of titles
+  II and III of the Telephone Disclosure and Dispute Resolution Act, to
+  ensure that carriers and other parties providing billing and collection
+  services with respect to pay-per-call services provide appropriate refunds
+  to subscribers who have been billed for pay-per-call services pursuant
+  to programs that have been found to have violated this section or such
+  regulations, any provision of, or regulations prescribed pursuant to,
+  title II or III of the Telephone Disclosure and Dispute Resolution Act,
+  or any other Federal law.
+  `(2) RECOVERY OF COSTS- The regulations prescribed by the Commission under
+  this section shall permit a common carrier to recover its cost of complying
+  with such regulations from providers of pay-per-call services, but shall
+  not permit such costs to be recovered from local or long distance ratepayers.
+  `(3) RECOMMENDATIONS ON DATA PAY-PER-CALL- The Commission, within one
+  year after the date of enactment of this section, shall submit to the
+  Congress the Commission's recommendations with respect to the extension
+  of regulations under this section to persons that provide, for a per-call
+  charge, data services that are not pay-per-call services.
+  `(g) EFFECT ON OTHER LAW-
+  `(1) NO PREEMPTION OF ELECTION LAW- Nothing in this section shall relieve
+  any provider of pay-per-call services, common carrier, local exchange
+  carrier, or any other person from the obligation to comply with Federal,
+  State, and local election statutes and regulations.
+  `(2) CONSUMER PROTECTION LAWS- Nothing in this section shall relieve any
+  provider of pay-per-call services, common carrier, local exchange carrier,
+  or any other person from the obligation to comply with any Federal, State, or
+  local statute or regulation relating to consumer protection or unfair trade.
+  `(3) GAMBLING LAWS- Nothing in this section shall preclude any State from
+  enforcing its statutes and regulations with regard to lotteries, wagering,
+  betting, and other gambling activities.
+  `(4) STATE AUTHORITY- Nothing in this section shall preclude any State
+  from enacting and enforcing additional and complementary oversight and
+  regulatory systems or procedures, or both, so long as such systems and
+  procedures govern intrastate services and do not significantly impede the
+  enforcement of this section or other Federal statutes.
+  `(5) ENFORCEMENT OF EXISTING REGULATIONS- Nothing in this section shall be
+  construed to prohibit the Commission from enforcing regulations prescribed
+  prior to the date of enactment of this section in fulfilling the requirements
+  of this section to the extent that such regulations are consistent with
+  the provisions of this section.
+  `(h) EFFECT ON DIAL-A-PORN PROHIBITIONS- Nothing in this section shall
+  affect the provisions of section 223 of this Act.
+  `(i) DEFINITION OF PAY-PER-CALL SERVICES- For purposes of this section--
+  `(1) The term `pay-per-call services' means any service--
+  `(A) in which any person provides or purports to provide--
+  `(i) audio information or audio entertainment produced or packaged by
+  such person;
+  `(ii) access to simultaneous voice conversation services; or
+  `(iii) any service, including the provision of a product, the charges for
+  which are assessed on the basis of the completion of the call;
+  `(B) for which the caller pays a per-call or per-time-interval charge that is
+  greater than, or in addition to, the charge for transmission of the call; and
+  `(C) which is accessed through use of a 900 telephone number or other prefix
+  or area code designated by the Commission in accordance with subsection
+  (b)(5).
+  `(2) Such term does not include directory services provided by a common
+  carrier or its affiliate or by a local exchange carrier or its affiliate,
+  or any service the charge for which is tariffed, or any service for which
+  users are assessed charges only after entering into a presubscription or
+  comparable arrangement with the provider of such service.'.
+SEC. 102. TECHNICAL AMENDMENT.
+  Section 3(c) of the Telephone Consumer Protection Act of 1991 is amended
+  by striking `section 228' and inserting `section 227'.
+TITLE II--REGULATION OF UNFAIR AND DECEPTIVE ACTS AND PRACTICES IN CONNECTION
+WITH PAY-PER-CALL SERVICES
+SEC. 201. FEDERAL TRADE COMMISSION REGULATIONS.
+  (a) IN GENERAL-
+  (1) ADVERTISING REGULATIONS- The Commission shall prescribe rules in
+  accordance with this subsection to prohibit unfair and deceptive acts and
+  practices in any advertisement for pay-per-call services. Such rules shall
+  require that the person offering such pay-per-call services--
+  (A) clearly and conspicuously disclose in any advertising the cost of the
+  use of such telephone number, including the total cost or the cost per
+  minute and any other fees for that service and for any other pay-per-call
+  service to which the caller may be transferred;
+  (B) in the case of an advertisement which offers a prize or award
+  or a service or product at no cost or for a reduced cost, clearly and
+  conspicuously disclose the odds of being able to receive such prize, award,
+  service, or product at no cost or reduced cost, or, if such odds are not
+  calculable in advance, disclose the factors determining such odds;
+  (C) in the case of an advertisement that promotes a service that is not
+  operated  or expressly authorized by a Federal agency but that provides
+  information on a Federal program, include at the beginning of such
+  advertisement a clear disclosure that the service is not authorized,
+  endorsed, or approved by any Federal agency;
+  (D) shall not direct such advertisement at children under the age of 12,
+  unless such service is a bona fide educational service;
+  (E) in the case of advertising directed primarily to individuals under
+  the age of 18, clearly and conspicuously state in such advertising that
+  such individual must have the consent of such individual's parent or legal
+  guardian for the use of such services;
+  (F) be prohibited from using advertisements that emit electronic tones
+  which can automatically dial a pay-per-call telephone number;
+  (G) ensure that, whenever the number to be called is shown in television
+  and print media advertisements, the charges for the call are clear and
+  conspicuous and (when shown in television advertisements) displayed for
+  the same duration as that number is displayed;
+  (H) in delivering any telephone message soliciting calls to a pay-per-call
+  service, specify clearly, and at no less than the audible volume of the
+  solicitation, the total cost and the cost per minute and any other fees
+  for that service and for any other pay-per-call service to which the caller
+  may be transferred; and
+  (I) not advertise an 800 telephone number, or any other telephone number
+  advertised or widely understood to be toll free, from which callers are
+  connected to an access number for a pay-per-call service.
+  (2) PAY-PER-CALL SERVICE STANDARDS- The Commission shall prescribe rules
+  to require that each provider of pay-per-call services--
+  (A) include in each pay-per-call message an introductory disclosure
+  message that--
+  (i) describes the service being provided;
+  (ii) specifies clearly and at a reasonably understandable volume the total
+  cost or the cost per minute and any other fees for that service and for
+  any other pay-per-call service to which the caller may be transferred;
+  (iii) informs the caller that charges for the call begin at the end of
+  the introductory message;
+  (iv) informs the caller that parental consent is required for calls made
+  by children; and
+  (v) in the case of a pay-per-call service that is not operated or expressly
+  authorized by a Federal agency but that provides information on any Federal
+  program, a statement that clearly states that the service is not authorized,
+  endorsed, or approved by any Federal agency;
+  (B) enable the caller to hang up at or before the end of the introductory
+  message without incurring any charge whatsoever;
+  (C) not direct such services at children under the age of 12, unless such
+  service is a bona fide educational service;
+  (D) stop the assessment of time-based charges immediately upon disconnection
+  by the caller;
+  (E) disable any bypass mechanism which allows frequent callers to avoid
+  listening to the disclosure message described in subparagraph (A) after the
+  institution of any price increase and for a period of time sufficient to give
+  such frequent callers adequate and sufficient notice of the price change;
+  (F) be prohibited from providing pay-per-call services through an 800 number
+  or other telephone number advertised or widely understood to be toll free;
+  (G) be prohibited from billing consumers in excess of the amounts described
+  in the introductory message and from billing for services provided in
+  violation of the rules prescribed by the Commission pursuant to this section;
+  (H) ensure that any billing statement for such provider's charges shall--
+  (i) display any charges for pay-per-call services in a part of the consumer's
+  bill that is identified as not being related to local and long distance
+  telephone charges; and
+  (ii) for each charge so displayed, specify, at a minimum, the type of
+  service, the amount of the charge, and the date, time, and duration of
+  the call;
+  (I) be liable for refunds to consumers who have been billed for pay-per-call
+  services pursuant to programs that have been found to have violated the
+  regulations prescribed pursuant to this section or title III of this Act
+  or any other Federal law; and
+  (J) comply with such additional standards as the Commission may prescribe
+  to prevent abusive practices.
+  (3) ACCESS TO INFORMATION- The Commission shall by rule require a common
+  carrier that provides telephone services to a provider of pay-per-call
+  services to make available to the Commission any records and financial
+  information maintained by such carrier relating to the arrangements (other
+  than for the provision of local exchange service) between such carrier
+  and any provider of pay-per-call services.
+  (4) EVASIONS- The rules issued by the Commission under this section shall
+  include provisions to prohibit unfair or deceptive acts or practices that
+  evade such rules or undermine the rights provided to customers under this
+  title, including through the use of alternative billing or other procedures.
+  (5) EXEMPTIONS- The regulations prescribed by the Commission pursuant to
+  paragraph (2)(A) may exempt from the requirements of such paragraph--
+  (A) calls from frequent callers or regular subscribers using a bypass
+  mechanism to avoid listening to the disclosure message required by such
+  regulations, subject to the requirements of paragraph (2)(E); or
+  (B) pay-per-call services provided at nominal charges, as defined by the
+  Commission in such regulations.
+  (6) CONSIDERATION OF OTHER RULES REQUIRED- In conducting a proceeding
+  under this section, the Commission shall consider requiring, by rule or
+  regulation, that providers of pay-per-call services--
+  (A) automatically disconnect a call after one full cycle of the program; and
+  (B) include a beep tone or other appropriate and clear signal during a
+  live interactive group program so that callers will be alerted to the
+  passage of time.
+  (7) SPECIAL RULE FOR INFREQUENT PUBLICATIONS- The rules prescribed by the
+  Commission under subparagraphs (A) and (G) of paragraph (1) may permit,
+  in the case of publications that are widely distributed, that are printed
+  annually or less frequently, and that have an established policy of not
+  publishing specific prices, advertising that in lieu of the cost disclosures
+  required by such subparagraphs, clearly and conspicuously disclose that
+  use of the telephone number may result in a substantial charge.
+  (8) TREATMENT OF RULES- A rule issued under this subsection shall be
+  treated as a rule issued under section 18(a)(1)(B) of the Federal Trade
+  Commission Act (15 U.S.C. 57a(a)(1)(B)).
+  (b) RULEMAKING- The Commission shall prescribe the rules under subsection
+  (a) within 270 days after the date of enactment of this Act. Such rules shall
+  be prescribed in accordance with section 553 of title 5, United States Code.
+  (c) ENFORCEMENT- Any violation of any rule prescribed under subsection (a)
+  shall be treated as a violation of a rule respecting unfair or deceptive
+  acts or practices under section 5 of the Federal Trade Commission Act (15
+  U.S.C. 45). Notwithstanding section 5(a)(2) of such Act (15 U.S.C. 45(a)(2)),
+  communications common carriers shall be subject to the jurisdiction of
+  the Commission for purposes of this title.
+SEC. 202. ACTIONS BY STATES.
+  (a) IN GENERAL- Whenever an attorney general of any State has reason to
+  believe that the interests of the residents of that State have been or
+  are being threatened or adversely affected because any person has engaged
+  or is engaging in a pattern or practice which violates any rule of the
+  Commission under section 201(a), the State may bring a civil action on
+  behalf of its residents in an appropriate district court of the United
+  States to enjoin such pattern or practice, to enforce compliance with such
+  rule of the Commission, to obtain damages on behalf of their residents,
+  or to obtain such further and other relief as the court may deem appropriate.
+  (b) NOTICE- The State shall serve prior written notice of any civil action
+  under subsection (a) upon the Commission and provide the Commission with a
+  copy of its complaint, except that if it is not feasible for the State to
+  provide such prior notice, the State shall serve such notice immediately
+  upon instituting such action. Upon receiving a notice respecting a civil
+  action, the Commission shall have the right (1) to intervene in such action,
+  (2) upon so intervening, to be heard on all matters arising therein, and
+  (3) to file petitions for appeal.
+  (c) VENUE- Any civil action brought under this section in a district court
+  of the United States may be brought in the district wherein the defendant
+  is found or is an inhabitant or transacts business or wherein the violation
+  occurred or is occurring, and process in such cases may be served in any
+  district in which the defendant is an inhabitant or wherever the defendant
+  may be found.
+  (d) INVESTIGATORY POWERS- For purposes of bringing any civil action under
+  this section, nothing in this Act shall prevent the attorney general from
+  exercising the powers conferred on the attorney general by the laws of
+  such State to conduct investigations or to administer oaths or affirmations
+  or to compel the attendance of witnesses or the production of documentary
+  and other evidence.
+  (e) EFFECT ON STATE COURT PROCEEDINGS- Nothing contained in this section
+  shall prohibit an authorized State official from proceeding in State court
+  on the basis of an alleged violation of any general civil or criminal
+  antifraud statute of such State.
+  (f) LIMITATION- Whenever the Commission has instituted a civil action for
+  violation of any rule or regulation under this Act, no State may, during
+  the pendency of such action instituted by the Commission, subsequently
+  institute a civil action against any defendant named in the Commission's
+  complaint for violation of any rule as alleged in the Commission's complaint.
+  (g) Actions by Other State Officials-
+  (1) Nothing contained in this section shall prohibit an authorized State
+  official from proceeding in State court on the basis of an alleged violation
+  of any general civil or criminal statute of such State.
+  (2) In addition to actions brought by an attorney general of a State under
+  subsection (a), such an action may be brought by officers of such State who
+  are authorized by the State to bring actions in such State for protection
+  of consumers and who are designated by the Commission to bring an action
+  under subsection (a) against persons that the Commission has determined
+  have or are engaged in a pattern or practice which violates a rule of the
+  Commission under section 201(a).
+SEC. 203. ADMINISTRATION AND APPLICABILITY OF TITLE.
+  (a) IN GENERAL- Except as otherwise provided in section 202, this title
+  shall be enforced by the Commission under the Federal Trade Commission
+  Act (15 U.S.C. 41 et seq.). Consequently, no activity which is outside
+  the jurisdiction of that Act shall be affected by this Act, except for
+  purposes of this title.
+  (b) ACTIONS BY THE COMMISSION- The Commission shall prevent any person
+  from violating a rule of the Commission under section 201 in the same
+  manner, by the same means, and with the same jurisdiction, powers, and
+  duties as though all applicable terms and provisions of the Federal Trade
+  Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a
+  part of this title. Any person who violates such rule shall be subject to
+  the penalties and entitled to the privileges and immunities provided in
+  the Federal Trade Commission Act in the same manner, by the same means,
+  and with the same jurisdiction, power, and duties as though all applicable
+  terms and provisions of the Federal Trade Commission Act were incorporated
+  into and made a part of this title.
+SEC. 204. DEFINITIONS.
+  For purposes of this title:
+  (1) The term `pay-per-call services' has the meaning provided in section
+  228 of the Communications Act of 1934.
+  (2) The term `attorney general' means the chief legal officer of a State.
+  (3) The term `State' means any State of the United States, the District
+  of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory
+  or possession of the United States.
+  (4) The term `Commission' means the Federal Trade Commission.
+TITLE III--BILLING AND COLLECTION
+SEC. 301. REGULATIONS.
+  (a) IN GENERAL-
+  (1) RULES REQUIRED- The Commission shall, in accordance with the requirements
+  of this section, prescribe rules establishing procedures for the correction
+  of billing errors with respect to telephone-billed purchases. The rules
+  prescribed by the Commission shall also include provisions to prohibit
+  unfair or deceptive acts or practices that evade such rules or undermine
+  the rights provided to customers under this title.
+  (2) SUBSTANTIAL SIMILARITY TO CREDIT BILLING- The Commission shall promulgate
+  rules under this section that impose requirements that are substantially
+  similar to the requirements imposed, with respect to the resolution of
+  credit disputes, under the Truth in Lending and Fair Credit Billing Acts
+  (15 U.S.C. 1601 et seq.).
+  (3) TREATMENT OF RULE- A rule issued under paragraph (1) shall be treated
+  as a rule issued under section 18(a)(1)(B) of the Federal Trade Commission
+  Act (15 U.S.C. 57(a)(1)(B)).
+  (b) RULEMAKING SCHEDULE AND PROCEDURE- The Commission shall prescribe the
+  rules under subsection (a) within 270 days after the date of enactment of
+  this Act. Such rules shall be prescribed in accordance with section 553
+  of title 5, United States Code.
+  (c) ENFORCEMENT- Any violation of any rule prescribed under subsection (a)
+  shall be treated as a violation of a rule under section 5 of the Federal
+  Trade Commission Act (15 U.S.C. 45) regarding unfair or deceptive acts or
+  practices. Notwithstanding section 5(a)(2) of such Act (15 U.S.C. 45(a)(2)),
+  communications common carriers shall be subject to the jurisdiction of
+  the Commission for purposes of this title.
+  (d) CORRECTION OF BILLING ERRORS AND CORRECTION OF CREDIT REPORTS- In
+  prescribing rules under this section, the Commission shall consider,
+  with respect to telephone-billed purchases, the following:
+  (1) The initiation of a billing review by a customer.
+  (2) Responses by billing entities and providing carriers to the initiation
+  of a billing review.
+  (3) Investigations concerning delivery of telephone-billed purchases.
+  (4) Limitations upon providing carrier responsibilities, including
+  limitations on a carrier's responsibility to verify delivery of audio
+  information or entertainment.
+  (5) Requirements on actions by billing entities to set aside charges from
+  a customer's billing statement.
+  (6) Limitations on collection actions by billing entities and vendors.
+  (7) The regulation of credit reports on billing disputes.
+  (8) The prompt notification of credit to an account.
+  (9) Rights of customers and telephone common carriers regarding claims
+  and defenses.
+  (10) The extent to which the regulations should diverge from requirements
+  under the Truth in Lending and Fair Credit Billing Acts in order to protect
+  customers, and in order to be cost effective to billing entities.
+SEC. 302. RELATION TO STATE LAWS.
+  (a) STATE LAW APPLICABLE UNLESS INCONSISTENT- This title does not annul,
+  alter, or affect, or exempt any person subject to the provisions of this
+  title from complying with, the laws of any State with respect to telephone
+  billing practices, except to the extent that those laws are inconsistent
+  with any provision of this title, and then only to the extent of the
+  inconsistency. The Commission is authorized to determine whether such
+  inconsistencies exist. The Commission may not determine that any State
+  law is inconsistent with any provision of this chapter if the Commission
+  determines that such law gives greater protection to the consumer.
+  (b) REGULATORY EXEMPTIONS- The Commission shall by regulation exempt
+  from the requirements of this title any class of telephone-billed
+  purchase transactions within any State if it determines that under the
+  law of that State that class of transactions is subject to requirements
+  substantially similar to those imposed under this chapter or that such
+  law gives greater protection to the consumer, and that there is adequate
+  provision for enforcement.
+SEC. 303. ENFORCEMENT.
+  The Commission shall enforce the requirements of this title. For the purpose
+  of the exercise by the Commission of its functions and powers under the
+  Federal Trade Commission Act, a violation of any requirement imposed under
+  this title shall be deemed a violation of a requirement imposed under
+  that Act. All the functions and powers of the Commission under that Act
+  are available to the Commission to enforce compliance by any person with
+  the requirements imposed under this title, irrespective of whether that
+  person is engaged in commerce or meets any other jurisdictional tests in
+  that Act. The Commission may prescribe such regulations as are necessary
+  or appropriate to implement the provisions of this title.
+SEC. 304. DEFINITIONS.
+  As used in this title--
+  (1) The term `telephone-billed purchase' means any purchase that is completed
+  solely as a consequence of the completion of the call or a subsequent
+  dialing, touch tone entry, or comparable action of the caller. Such term
+  does not include--
+  (A) a purchase by a caller pursuant to a preexisting agreement with
+  the vendor;
+  (B) local exchange telephone services or interexchange telephone services or
+  any service that the Federal Communications Commission determines, by rule--
+  (i) is closely related to the provision of local exchange telephone services
+  or interexchange telephone services; and
+  (ii) is subject to billing dispute resolution procedures required by
+  Federal or State statute or regulation; or
+  (C) the purchase of goods or services which is otherwise subject to billing
+  dispute resolution procedures required by Federal statute or regulation.
+  (2) A `billing error' consists of any of the following:
+  (A) A reflection on a billing statement for a telephone-billed purchase
+  which was not made by the customer or, if made, was not in the amount
+  reflected on such statement.
+  (B) A reflection on a billing statement of a telephone-billed purchase for
+  which the customer requests additional clarification, including documentary
+  evidence thereof.
+  (C) A reflection on a billing statement of a telephone-billed purchase
+  that was not accepted by the customer or not provided to the customer in
+  accordance with the stated terms of the transaction.
+  (D) A reflection on a billing statement of a telephone-billed purchase
+  for a call made to an 800 or other toll free telephone number.
+  (E) The failure to reflect properly on a billing statement a payment
+  made by the customer or a credit issued to the customer with respect to
+  a telephone-billed purchase.
+  (F) A computation error or similar error of an accounting nature on
+  a statement.
+  (G) Failure to transmit the billing statement to the last known address
+  of the customer, unless that address was furnished less than twenty days
+  before the end of the billing cycle for which the statement is required.
+  (H) Any other error described in regulations prescribed by the Commission
+  pursuant to section 553 of title 5, United States Code.
+  (3) The term `Commission' means the Federal Trade Commission.
+  (4) The term `providing carrier' means a local exchange or interexchange
+  common carrier providing telephone services (other than local exchange
+  services) to a vendor for a telephone-billed purchase that is the subject
+  of a billing error complaint.
+  (5) The term `vendor' means any person who, through the use of the telephone,
+  offers goods or services for a telephone-billed purchase.
+  (6) The term `customer' means any person who acquires or attempts to
+  acquire goods or services in a telephone-billed purchase.
+TITLE IV--MISCELLANEOUS PROVISIONS
+SEC. 401. PROPOSAL FOR DEMONSTRATING THE POTENTIAL OF INNOVATIVE COMMUNICATIONS
+EQUIPMENT AND SERVICES.
+  (a) DEMONSTRATION PROPOSAL- Within 180 days after the date of enactment of
+  this Act, the Assistant Secretary of Energy for Conservation and Renewable
+  Energy, in consultation with the Assistant Secretary of Commerce for
+  Communications and Information, shall submit to Congress a proposal for
+  demonstrating the ability of new and innovative communications equipment and
+  services to further the national goals of conserving energy and protecting
+  public health and safety.
+  (b) FACTORS TO BE ADDRESSED- The demonstration proposal required by
+  subsection (a) shall address--
+  (1) the feasibility of using communications technologies to read meters
+  from remote locations;
+  (2) the feasibility of managing the consumption of electrical power and
+  natural gas by residences and businesses, thereby reducing the demand for
+  new and additional sources of energy, and controlling the cost of providing
+  improved utility services; and
+  (3) the public safety implications of monitoring utility services outages
+  during earthquakes, hurricanes, typhoons, tornadoes, volcanoes, and other
+  natural disasters.
+  (c) PROJECT TO DEMONSTRATE ENERGY CONSERVATION POTENTIAL- Upon submission
+  of the demonstration proposal to the Congress, the Secretary of Energy
+  shall consider requesting from the Assistant Secretary of Commerce for
+  Communications and Information the authority to use radio frequencies,
+  pursuant to section 305 of the Communications Act of 1934 (47 U.S.C. 305),
+  to carry out demonstration projects consistent with the proposal that are
+  designed to demonstrate the energy conservation potential of communications
+  technologies and which are administered by the Secretary of Energy.
+SEC. 402. TECHNICAL AMENDMENTS.
+  Section 227(b)(2) of the Communications Act of 1934 (47 U.S.C. 227(b)(2))
+  is amended--
+  (1) by striking `and' at the end of subparagraph (A);
+  (2) by striking the period at the end of subparagraph (B) and inserting
+  `; and'; and
+  (3) by inserting after subparagraph (B) the following new subparagraph:
+  `(C) may, by rule or order, exempt from the requirements of paragraphs
+  (1)(A)(iii) of this subsection calls to a telephone number assigned to
+  a cellular telephone service that are not charged to the called party,
+  subject to such conditions as the Commission may prescribe as necessary
+  in the interest of the privacy rights this section is intended to protect.'.
+SEC. 403. INTERCEPTION OF CELLULAR TELECOMMUNICATIONS.
+  (a) AMENDMENT- Section 302 of the Communications Act of 1934 (47 U.S.C. 302)
+  is amended by adding at the end the following new subsection:
+  `(d)(1) Within 180 days after the date of enactment of this subsection, the
+  Commission shall prescribe and make effective regulations denying equipment
+  authorization (under part 15 of title 47, Code of Federal Regulations, or
+  any other part of that title) for any scanning receiver that is capable of--
+  `(A) receiving transmissions in the frequencies allocated to the domestic
+  cellular radio telecommunications service,
+  `(B) readily being altered by the user to receive transmissions in such
+  frequencies, or
+  `(C) being equipped with decoders that convert digital cellular transmissions
+  to analog voice audio.
+  `(2) Beginning 1 year after the effective date of the regulations adopted
+  pursuant to paragraph (1), no receiver having the capabilities described in
+  subparagraph (A), (B), or (C) of paragraph (1), as such capabilities are
+  defined in such regulations, shall be manufactured in the United States
+  or imported for use in the United States.'.
+  (b) REPORT TO CONGRESS- The Commission shall report to Congress no later than
+  June 1, 1993, on available security features for both analog and digital
+  radio signals. This report shall include a study of security technologies
+  currently available as well as those in development. The study shall assess
+  the capabilities of such technologies, level of security afforded, and cost,
+  with wide-spread deployment of such technologies.
+  (c) EFFECT ON OTHER LAWS- This section shall not affect section 2512(2)
+  of title 18, United States Code.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

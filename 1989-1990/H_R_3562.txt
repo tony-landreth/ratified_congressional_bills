@@ -1,0 +1,674 @@
+ 
+--H.R.3562--
+H.R.3562
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Federal Food, Drug, and Cosmetic Act to prescribe nutrition
+labeling
+for foods, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE, REFERENCE.
+ (a) SHORT TITLE- This Act may be cited as the `Nutrition Labeling and
+ Education Act of 1990'.
+ (b) REFERENCE- Whenever in this Act an amendment or repeal is expressed in
+ terms of an amendment to, or repeal of, a section or other provision, the
+ reference shall be considered to be made to a section or other provision
+ of the Federal Food, Drug, and Cosmetic Act.
+SEC. 2. NUTRITION LABELING.
+ (a) NUTRITION INFORMATION- Section 403 (21 U.S.C. 343) is amended by adding
+ at the end the following new paragraph:
+ `(q)(1) Except as provided in subparagraphs (3), (4), and (5), if it is
+ a food intended for human consumption and is offered for sale, unless its
+ label or labeling bears nutrition information that provides--
+ `(A)(i) the serving size which is an amount customarily consumed and which
+ is expressed in a common household measure that is appropriate to the food, or
+ `(ii) if the use of the food is not typically expressed in a serving size, the
+ common household unit of measure that expresses the serving size of the food,
+ `(B) the number of servings or other units of measure per container,
+ `(C) the total number of calories--
+ `(i) derived from any source, and
+ `(ii) derived from the total fat,
+in each serving size or other unit of measure of the food,
+ `(D) the amount of the following nutrients: Total fat, saturated fat,
+ cholesterol, sodium, total carbohydrates, complex carbohydrates, sugars,
+ dietary fiber, and total protein contained in each serving size or other
+ unit of measure,
+ `(E) any vitamin, mineral, or other nutrient required to be placed on
+ the label and labeling of food under this Act before October 1, 1990, if
+ the Secretary determines that such information will assist consumers in
+ maintaining healthy dietary practices.
+The Secretary may by regulation require any information required to be
+placed on the label or labeling by this subparagraph or subparagraph (2)(A)
+to be highlighted on the label or labeling by larger type, bold type, or
+contrasting color if the Secretary determines that such highlighting will
+assist consumers in maintaining healthy dietary practices.
+ `(2)(A) If the Secretary determines that a nutrient other than a nutrient
+ required by subparagraph (1)(C), (1)(D), or (1)(E) should be included in
+ the label or labeling of food subject to subparagraph (1) for purposes of
+ providing information regarding the nutritional value of such food that will
+ assist consumers in maintaining healthy dietary practices, the Secretary
+ may by regulation require that information relating to such additional
+ nutrient be included in the label or labeling of such food.
+ `(B) If the Secretary determines that the information relating to a
+ nutrient required by subparagraph (1)(C), (1)(D), or (1)(E) or clause (A)
+ of this subparagraph to be included in the label or labeling of food is
+ not necessary to assist consumers in maintaining healthy dietary practices,
+ the Secretary may by regulation remove information relating to such nutrient
+ from such requirement.
+ `(3) For food that is received in bulk containers at a retail establishment,
+ the Secretary may, by regulation, provide that the nutrition information
+ required by subparagraphs (1) and (2) be displayed at the location in the
+ retail establishment at which the food is offered for sale.
+ `(4)(A) The Secretary shall provide for furnishing the nutrition information
+ required by subparagraphs (1) and (2) with respect to raw agricultural
+ commodities and raw fish by issuing voluntary nutrition guidelines, as
+ provided by clause (B) or by issuing regulations that are mandatory as
+ provided by clause (C).
+ `(B)(i) Upon the expiration of 12 months after the date of the enactment
+ of the Nutrition Labeling and Education Act of 1990, the Secretary,
+ after providing an opportunity for comment, shall issue guidelines for
+ food retailers offering raw agricultural commodities or raw fish to provide
+ nutrition information specified in subparagraphs (1) and (2). Such guidelines
+ shall take into account the actions taken by food retailers during such
+ 12-month period to provide to consumers nutrition information on raw
+ agricultural commodities and raw fish. Such guidelines shall only apply--
+ `(I) in the case of raw agricultural commodities, to the 20 varieties of
+ vegetables most frequently consumed during a year and the 20 varieties of
+ fruit most frequently consumed during a year, and
+ `(II) to the 20 varieties of raw fish most frequently consumed during a year.
+The vegetables, fruits, and raw fish to which such guidelines apply shall
+be determined by the Secretary by regulation and the Secretary may apply
+such guidelines regionally.
+ `(ii) Upon the expiration of 12 months after the date of the enactment
+ of the Nutrition Labeling and Education Act of 1990, the Secretary shall
+ issue a final regulation defining the circumstances that constitute
+ substantial compliance by food retailers with the guidelines issued under
+ subclause (i). The regulation shall provide that there is not substantial
+ compliance if a significant number of retailers have failed to comply with
+ the guidelines. The size of the retailers and the portion of the market
+ served by retailers in compliance with the guidelines shall be considered
+ in determining whether the substantial-compliance standard has been met.
+ `(C)(i) Upon the expiration of 30 months after the date of the enactment
+ of the Nutrition Labeling and Education Act of 1990, the Secretary shall
+ issue a report on actions taken by food retailers to provide consumers
+ with nutrition information for raw agricultural commodities and raw fish
+ under the guidelines issued under clause (A). Such report shall include a
+ determination of whether there is substantial compliance with the guidelines.
+ `(ii) If the Secretary finds that there is substantial compliance with the
+ guidelines, the Secretary shall issue a report and make a determination of
+ the type required in subclause (i) every two years.
+ `(D)(i) If the Secretary determines that there is not substantial compliance
+ with the guidelines issued under clause (A), the Secretary shall at the time
+ such determination is made issue proposed regulations requiring that any
+ person who offers raw agricultural commodities or raw fish to consumers to
+ provide, in a manner prescribed by regulations, the nutrition information
+ required by subparagraphs (1) and (2). The Secretary shall issue final
+ regulations imposing such requirements 6 months after issuing the proposed
+ regulations. The final regulations shall become effective 6 months after
+ the date of their promulgation.
+ `(ii) Regulations issued under subclause (i) may require that the nutrition
+ information required by subparagraphs (1) and (2) be provided for more than
+ 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish
+ most frequently consumed during a year if the Secretary finds that a larger
+ number of such products are frequently consumed. Such regulations shall
+ permit such information to be provided in a single location in each area in
+ which raw agricultural commodities and raw fish are offered for sale. Such
+ regulations may provide that information shall be expressed as an average
+ or range per serving of the same type of raw agricultural commodity or raw
+ fish. The Secretary shall develop and make available to the persons who offer
+ such food to consumers the information required by subparagraphs (1) and (2).
+ `(iii) Regulations issued under subclause (i) shall permit the required
+ information to be provided in each area of an establishment in which raw
+ agricultural commodities and raw fish are offered for sale. The regulations
+ shall permit food retailers to display the required information by
+ supplying copies of the information provided by the Secretary, by making
+ the information available in brochure, notebook or leaflet form, or by
+ posting a sign disclosing the information. Such regulations shall also
+ permit presentation of the required information to be supplemented by a
+ video, live demonstration, or other media which the Secretary approves.
+ `(E) For purposes of this subparagraph, the term `fish' includes freshwater or
+ marine fin fish, crustaceans, and mollusks, including shellfish, amphibians,
+ and other forms of aquatic animal life.
+ `(F) No person who offers raw agricultural commodities or raw fish to
+ consumers may be prosecuted for minor violations of this subparagraph if
+ there has been substantial compliance with the requirements of this paragraph.
+ `(5)(A) Subparagraphs (1), (2), (3), and (4) shall not apply to food--
+ `(i) which is served in restaurants or other establishments in which food
+ is served for immediate human consumption or which is sold for sale or use
+ in such establishments,
+ `(ii) which is processed and prepared primarily in a retail establishment,
+ which is ready for human consumption, which is of the type described in
+ subclause (i), and which is offered for sale to consumers but not for
+ immediate human consumption in such establishment and which is not offered
+ for sale outside such establishment,
+ `(iii) which is an infant formula subject to section 412,
+ `(iv) which is a medical food as defined in section 5(b) of the Orphan Drug
+ Act (21 U.S.C. 360ee(b)), or
+ `(v) which is described in section 405(2).
+ `(B) Subparagraphs (1) and (2) shall not apply to the label of a food if the
+ Secretary determines by regulations that compliance with such subparagraphs
+ is impracticable because the package of such food is too small to comply
+ with the requirements of such subparagraphs and if the label of such food
+ does not contain any nutrition information.
+ `(C) If a food contains insignificant amounts, as determined by the Secretary,
+ of all the nutrients required by subparagraphs (1) and (2) to be listed in the
+ label or labeling of food, the requirements of such subparagraphs shall not
+ apply to such food if the label, labeling, or advertising of such food does
+ not make any claim with respect to the nutritional value of such food. If a
+ food contains insignificant amounts, as determined by the Secretary, of more
+ than one-half the nutrients required by subparagraphs (1) and (2) to be in
+ the label or labeling of the food, the Secretary shall require the amounts of
+ such nutrients to be stated in a simplified form prescribed by the Secretary.
+ `(D) If a person offers food for sale and has annual gross sales made or
+ business done in sales to consumers which is not more than $500,000 or has
+ annual gross sales made or business done in sales of food to consumers
+ which is not more than $50,000, the requirements of subparagraphs (1),
+ (2), (3), and (4) shall not apply with respect to food sold by such person
+ to consumers unless the label or labeling of food offered by such person
+ provides nutrition information or makes a nutrition claim.
+ `(E) If a food to which section 411 applies (as defined in section 411(c))
+ contains one or more of the nutrients required by subparagraph (1) or
+ (2) to be in the label or labeling of the food, the label or labeling of
+ such food shall comply with the requirements of subparagraphs (1) and (2)
+ in a manner which is appropriate for such food and which is specified in
+ regulations of the Secretary.
+ `(F) Subparagraphs (1), (2), (3), and (4) shall not apply to food which is
+ sold by a food distributor if the food distributor principally sells food to
+ restaurants or other establishments in which food is served for immediate
+ human consumption and does not manufacture, process, or repackage the food
+ it sells.'.
+ (b) REGULATIONS-
+ (1) The Secretary of Health and Human Services shall issue proposed
+ regulations to implement section 403(q) of the Federal Food, Drug, and
+ Cosmetic Act within 12 months after the date of the enactment of this
+ Act. Not later than 24 months after the date of the enactment of this Act,
+ the Secretary shall issue final regulations to implement the requirements
+ of such section. Such regulations shall--
+ (A) require the required information to be conveyed to the public in a
+ manner which enables the public to readily observe and comprehend such
+ information and to understand its relative significance in the context of
+ a total daily diet,
+ (B) include regulations which establish standards, in accordance with
+ paragraph (1)(A), to define serving size or other unit of measure for food,
+ (C) permit the label or labeling of food to include nutrition information
+ which is in addition to the information required by such section 403(q) and
+ which is of the type described in subparagraph (1) or (2) of such section, and
+ (D) permit the nutrition information on the label or labeling of a food to
+ remain the same or permit the information to be stated as a range even though
+ (i) there are minor variations in the nutritional value of the food which
+ occur in the normal course of the production or processing of the food,
+ or (ii) the food is comprised of an assortment of similar foods which have
+ variations in nutritional value.
+ (2) If the Secretary of Health and Human Services does not promulgate final
+ regulations under paragraph (1) upon the expiration of 24 months after
+ the date of the enactment of this Act, the proposed regulations issued in
+ accordance with paragraph (1) shall be considered as the final regulations
+ upon the expiration of such 24 months. There shall be promptly published
+ in the Federal Register notice of new status of the proposed regulations.
+ (3) If the Secretary of Health and Human Services does not promulgate
+ final regulations under section 403(q)(4) of the Federal Food, Drug, and
+ Cosmetic Act upon the expiration of 6 months after the date on which the
+ Secretary makes a finding that there has been no substantial compliance
+ with section 403(q)(4)(C) of such Act, the proposed regulations issued in
+ accordance with such section shall be considered as the final regulations
+ upon the expiration of such 6 months. There shall be promptly published in
+ the Federal Register notice of new status of the proposed regulations.
+ (c) CONSUMER EDUCATION- The Secretary of Health and Human Services shall
+ carry out activities which educate consumers about--
+ (1) the availability of nutrition information in the label or labeling of
+ food, and
+ (2) the importance of that information in maintaining healthy dietary
+ practices.
+SEC. 3. CLAIMS.
+ (a) LABELING REQUIRED- Section 403 (21 U.S.C. 343) is amended by adding
+ after the paragraph added by section 2 the following:
+ `(r)(1) Except as provided in clauses (A) through (C) of subparagraph (5),
+ if it is a food intended for human consumption which is offered for sale
+ and for which a claim is made in the label or labeling of the food which
+ expressly or by implication--
+ `(A) characterizes the level of any nutrient which is of the type required
+ by paragraph (q)(1) or (q)(2) to be in the label or labeling of the food
+ unless the claim is made in accordance with subparagraph (2), or
+ `(B) characterizes the relationship of any nutrient which is of the type
+ required by paragraph (q)(1) or (q)(2) to be in the label or labeling of
+ the food to a disease or a health-related condition unless the claim is
+ made in accordance with subparagraph (3) or 5(D).
+A statement of the type required by paragraph (q) that appears as part of
+the nutrition information required or permitted by such paragraph is not a
+claim which is subject to this paragraph and a claim subject to clause (A)
+is not subject to clause (B).
+ `(2)(A) Except as provided in subparagraphs (4)(A)(ii) and (4)(A)(iii)
+ and clauses (A) through (C) of subparagraph (5),  a claim described in
+ subparagraph (1)(A)--
+ `(i) may be made only if the characterization of the level made in the
+ claim uses terms which are defined in regulations of the Secretary,
+ `(ii) may not state the absence of a nutrient unless--
+ `(I) the nutrient is usually present in the food or in a food which
+ substitutes for the food as defined by the Secretary by regulation, or
+ `(II) the Secretary by regulation permits such a statement on the basis
+ of a finding that such a statement would assist consumers in maintaining
+ healthy dietary practices and the statement discloses that the nutrient is
+ not usually present in the food,
+ `(iii) may not be made with respect to the level of cholesterol in the
+ food if the food contains, as determined by the Secretary by regulation,
+ fat or saturated fat in an amount which increases to persons in the general
+ population the risk of disease or a health related condition which is diet
+ related unless--
+ `(I) the Secretary finds by regulation that the level of cholesterol is
+ substantially less than the level usually present in the food or in a food
+ which substitutes for the food and which has a significant market share,
+ or the Secretary by regulation permits a statement regarding the absence
+ of cholesterol on the basis of a finding that cholesterol is not usually
+ present in the food and that such a statement would assist consumers in
+ maintaining healthy dietary practices and the regulation requires that the
+ statement disclose that cholesterol is not usually present in the food, and
+ `(II) the label or labeling of the food discloses the level of such fat
+ or saturated fat in immediate proximity to such claim and with appropriate
+ prominence which shall be no less than one-half the size of the claim with
+ respect to the level of cholesterol,
+ `(iv) may not be made with respect to the level of saturated fat in the
+ food if the food contains cholesterol unless the label or labeling of the
+ food discloses the level of cholesterol in the food in immediate proximity
+ to such claim and with appropriate prominence which shall be no less than
+ one-half the size of the claim with respect to the level of saturated fat,
+ `(v) may not state that a food is high in dietary fiber unless the food
+ is low in total fat as defined by the Secretary or the label or labeling
+ discloses the level of total fat in the food in immediate proximity to
+ such statement and with appropriate prominence which shall be no less than
+ one-half the size of the claim with respect to the level of dietary fiber, and
+ `(vi) may not be made if the Secretary by regulation prohibits the claim
+ because the claim is misleading in light of the level of another nutrient
+ in the food.
+ `(B) If a claim described in subparagraph (1)(A) is made with respect to
+ a nutrient in a food, the label or labeling of such food shall contain,
+ prominently and in immediate proximity to such claim, the following statement:
+ `See XXXXXX for nutrition information'. In the statement--
+ `(i) the blank shall identify the panel on which the information described
+ in the statement may be found, and
+ `(ii) if the Secretary determines that the food contains a nutrient at
+ a level which increases to persons in the general population the risk of
+ a disease or health-related condition which is diet related, taking into
+ account the significance of the food in the total daily diet, the statement
+ shall also identify such nutrient.
+ `(C) Subparagraph (2)(A) does not apply to a claim described in subparagraph
+ (1)(A) and contained in the label or labeling of a food if such claim is
+ contained in the brand name of such food and such brand name was in use on
+ such food before October 25, 1989, unless the brand name contains a term
+ defined by the Secretary under subparagraph (2)(A)(i). Such a claim is
+ subject to paragraph (a).
+ `(D) Subparagraph (2) does not apply to a claim described in subparagraph
+ (1)(A) which uses the term `diet' and is contained in the label or labeling
+ of a soft drink if (i) such claim is contained in the brand name of such soft
+ drink, (ii) such brand name was in use on such soft drink before October 25,
+ 1989, and (iii) the use of the term `diet' was in conformity with section
+ 105.66 of title 21 of the Code of Federal Regulations. Such a claim is
+ subject to paragraph (a).
+ `(E) Subclauses (i) through (v) of subparagraph (2)(A) do not apply to a
+ statement in the label or labeling of food which describes the percentage
+ of vitamins and minerals in the food in relation to the amount of such
+ vitamins and minerals recommended for daily consumption by the Secretary.
+ `(3)(A) Except as provided in subparagraph (5), a claim described in
+ subparagraph (1)(B) may only be made--
+ `(i) if the claim meets the requirements of the regulations of the Secretary
+ promulgated under clause (B), and
+ `(ii) if the food for which the claim is made does not contain, as determined
+ by the Secretary by regulation, any nutrient in an amount which increases to
+ persons in the general population the risk of a disease or health-related
+ condition which is diet related, taking into account the significance
+ of the food in the total daily diet, except that the Secretary may by
+ regulation permit such a claim based on a finding that such a claim would
+ assist consumers in maintaining healthy dietary practices and based on a
+ requirement that the label contain a disclosure of the type required by
+ subparagraph (2)(B).
+ `(B)(i) The Secretary shall promulgate regulations authorizing claims of
+ the type described in subparagraph (1)(B) only if the Secretary determines,
+ based on the totality of publicly available scientific evidence (including
+ evidence from well-designed studies conducted in a manner which is consistent
+ with generally recognized scientific procedures and principles), that there
+ is significant scientific agreement, among experts qualified by scientific
+ training and experience to evaluate such claims, that the claim is supported
+ by such evidence.
+ `(ii) A regulation described in subclause (i) shall describe--
+ `(I) the relationship between a nutrient of the type required in the
+ label or labeling of food by paragraph (q)(1) or (q)(2) and a disease or
+ health-related condition, and
+ `(II) the significance of each such nutrient in affecting such disease or
+ health-related condition.
+ `(iii) A regulation described in subclause (i) shall require such claim
+ to be stated in a manner so that the claim is an accurate representation
+ of the matters set out in subclause (ii) and so that the claim enables the
+ public to comprehend the information provided in the claim and to understand
+ the relative significance of such information in the context of a total
+ daily diet.
+ `(4)(A)(i) Any person may petition the Secretary to issue a regulation under
+ subparagraph (2)(A)(i) or (3)(B) relating to a claim described in subparagraph
+ (1)(A) or (1)(B). Not later than 100 days after the petition is received
+ by the Secretary, the Secretary shall issue a final decision denying the
+ petition or file the petition for further action by the Secretary. If the
+ Secretary denies the petition, the petition shall not be made available to
+ the public. If the Secretary files the petition, the Secretary shall deny
+ the petition or issue a proposed regulation to take the action requested
+ in the petition not later than 90 days after the date of such decision.
+ `(ii) Any person may petition the Secretary for permission to use in a
+ claim described in subparagraph (1)(A) terms that are consistent with the
+ terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days
+ of the submission of such a petition, the Secretary shall issue a final
+ decision denying the petition or granting such permission.
+ `(iii) Any person may petition the Secretary for permission to use an implied
+ claim described in subparagraph (1)(A) in a brand name. After publishing
+ notice of an opportunity to comment on the petition in the Federal Register
+ and making the petition available to the public, the Secretary shall grant
+ the petition if the Secretary finds that such claim is not misleading
+ and is consistent with terms defined by the Secretary under subparagraph
+ (2)(A)(i). The Secretary shall grant or deny the petition within 100 days
+ of the date it is submitted to the Secretary and the petition shall be
+ considered granted if the Secretary does not act on it within such 100 days.
+ `(B) A petition under clause (A)(i) respecting a claim described in
+ subparagraph (1)(A) or (1)(B) shall include an explanation of the reasons
+ why the claim meets the requirements of this subsection and a summary of
+ the scientific data which supports such reasons.
+ `(C) If a petition for a regulation under subparagraph (3)(B) relies
+ on a report from an authoritative scientific body of the United States,
+ the Secretary shall consider such report and shall justify any decision
+ rejecting the conclusions of such report.
+ `(5)(A) This paragraph does not apply to infant formulas subject to section
+ 412(h) and medical foods as defined in section 5(b) of the Orphan Drug Act.
+ `(B) Subclauses (iii) through (v) of subparagraph (2)(A) and subparagraph
+ (2)(B) do not apply to food which is served in restaurants or other
+ establishments in which food is served for immediate human consumption or
+ which is sold for sale or use in such establishments.
+ `(C) A subparagraph (1)(A) claim made with respect to a food which claim
+ is required by a standard of identity issued under section 401 shall not
+ be subject to subparagraph (2)(A)(i) or (2)(B).
+ `(D) A subparagraph (1)(B) claim made with respect to a dietary supplement
+ of vitamins, minerals, herbs, or other similar nutritional substances shall
+ not be subject to subparagraph (3) but shall be subject to a procedure and
+ standard, respecting the validity of such claim, established by regulation
+ of the Secretary.'.
+ (b) Regulations-
+ (1)(A) Within 12 months of the date of the enactment of this Act, the
+ Secretary of Health and Human Services shall issue proposed regulations to
+ implement section 403(r) of the Federal Food, Drug, and Cosmetic Act. Such
+ regulations--
+ (i) shall identify claims described in section 403(r)(1)(A) of such Act
+ which comply with section 403(r)(2) of such Act,
+ (ii) shall identify claims described in section 403(r)(1)(B) of such Act
+ which comply with section 403(r)(3) of such Act,
+ (iii) shall, in defining terms used to characterize the level of any nutrient
+ in food under section 403(r)(2)(A)(i) of such Act, define--
+ (I) free,
+ (II) low,
+ (III) light or lite,
+ (IV) reduced,
+ (V) less, and
+ (VI) high,
+unless the Secretary finds that the use of any such term would be misleading,
+ (iv) shall permit statements describing the amount and percentage of nutrients
+ in food which are not misleading and are consistent with the terms defined
+ in section 403(r)(2)(A)(i) of such Act,
+ (v) shall provide that if multiple claims subject to section 403(r)(1)(A) of
+ such Act are made on a single panel of the food label or page of a labeling
+ brochure, a single statement may be made to satisfy section 403(r)(2)(B)
+ of such Act,
+ (vi) shall determine whether claims respecting the following nutrients and
+ diseases meet the requirements of section 403(r)(3) of such Act: Calcium
+ and osteoporosis, dietary fiber and cancer, lipids and cardiovascular
+ disease, lipids and cancer, sodium and hypertension, and dietary fiber and
+ cardiovascular disease,
+ (vii) shall not require a person who proposes to make a claim described in
+ section 403(r)(1)(B) of such Act which is in compliance with such regulations
+ to secure the approval of the Secretary before making such claim,
+ (viii) may permit a claim described in section 403(r)(1)(A) of such Act to
+ be made for butter,
+ (ix) may, in defining terms under section 403(r)(2)(A)(i), include similar
+ terms which are commonly understood to have the same meaning, and
+ (x) shall establish, as required by section 403(r)(5)(D), the procedure and
+ standard respecting the validity of claims made with respect to a dietary
+ supplement of vitamins, minerals, herbs, or other similar nutritional
+ substances and shall determine whether claims respecting the following
+ nutrients and diseases meet the requirements of section 403(r)(5)(D) of such
+ Act: folic acid and neural tube defects, antioxident vitamins and cancer, zinc
+ and immune function in the elderly, and omega-3 fatty acids and heart disease.
+  (B) Not later than 24 months after the date of the enactment of this Act,
+  the Secretary shall issue final regulations to implement section 403(r)
+  of the Federal Food, Drug, and Cosmetic Act.
+ (2) If the Secretary does not promulgate final regulations under paragraph
+ (1)(B) upon the expiration of 24 months after the date of the enactment
+ of this Act, the proposed regulations issued in accordance with paragraph
+ (1)(A) shall be considered as the final regulations upon the expiration of
+ such 24 months. There shall be promptly published in the Federal Register
+ notice of the new status of the proposed regulations.
+SEC. 4. STATE ENFORCEMENT.
+ Section 307 (21 U.S.C. 337) is amended by striking out `All such proceedings'
+ and inserting in lieu thereof `(a) Except as provided in subsection (b),
+ all such proceedings' and by adding at the end the following:
+ `(b)(1) A State may bring in its own name and within its jurisdiction
+ proceedings for the civil enforcement, or to restrain violations, of sections
+ 401, 403(b), 403(c), 403(d), 403(e), 403(f), 403(g), 403(h), 403(i), 403(k),
+ 403(q), or 403(r) if the food that is the subject of the proceedings is
+ located in the State.
+ `(2) No proceeding may be commenced by a State under paragraph (1)--
+ `(A) before 30 days after the State has given notice to the Secretary that
+ the State intends to bring such proceeding,
+ `(B) before 90 days after the State has given notice to the Secretary of such
+ intent if the Secretary has, within such 30 days, commenced an informal or
+ formal enforcement action pertaining to the food which would be the subject
+ of such proceeding, or
+ `(C) if the Secretary is diligently prosecuting a proceeding in court
+ pertaining to such food, has settled such proceeding, or has settled the
+ informal or formal enforcement action pertaining to such food.
+In any court proceeding described in subparagraph (C), a State may intervene
+as a matter of right.', and
+ (2) in the last sentence, by striking out `any such proceeding' and inserting
+ in lieu thereof `any proceeding under this section'.
+SEC. 5. CONFORMING AMENDMENTS.
+ (a) SECTION 405- Section 405 (21 U.S.C. 345) is amended by adding at the
+ end the following: `This section does not apply to the labeling requirements
+ of sections 403(q) and 403(r).'.
+ (b) DRUGS- Section 201(g)(1) (21 U.S.C. 321(g)(1)) is amended by adding
+ at the end the following: `A food for which a claim, subject to sections
+ 403(r)(1)(B) and 403(r)(3) or sections 403(r)(1)(B) and 403(r)(5)(D), is
+ made in accordance with the requirements of section 403(r) is not a drug
+ under clause (B) solely because the label or labeling contains such a claim.'.
+SEC. 6. NATIONAL UNIFORM NUTRITION LABELING.
+ (a) PREEMPTION- Chapter IV is amended by adding after section 403 the
+ following new section:
+ `SEC. 403A. (a) Except as provided in subsection (b), no State or political
+ subdivision of a State may directly or indirectly establish under any
+ authority or continue in effect as to any food in interstate commerce--
+ `(1) any requirement for a food which is the subject of a standard of identity
+ established under section 401 that is not identical to such standard of
+ identity or that is not identical to the requirement of section 403(g),
+ `(2) any requirement for the labeling of food of the type required by section
+ 403(c), 403(e), or 403(i)(2) that is not identical to the requirement of
+ such section,
+ `(3) any requirement for the labeling of food of the type required by
+ section 403(b), 403(d), 403(f), 403(h), 403(i)(1), or 403(k) that is not
+ identical to the requirement of such section,
+ `(4) any requirement for nutrition labeling of food that is not identical
+ to the requirement of section 403(q), except a requirement for nutrition
+ labeling of food which is exempt under subclause (i) or (ii) of section
+ 403(q)(5)(A), or
+ `(5) any requirement respecting any claim of the type described in section
+ 403(r)(1) made in the label or labeling of food that is not identical to
+ the requirement of section 403(r), except a requirement respecting a claim
+ made in the label or labeling of food which is exempt under clause (B)
+ of such section.
+Paragraph (3) shall take effect in accordance with section 6(b) of the
+Nutrition Labeling and Education Act of 1990.
+ `(b) Upon petition of a State or a political subdivision of a State, the
+ Secretary may exempt from subsection (a), under such conditions as may be
+ prescribed by regulation, any State or local requirement that--
+ `(1) would not cause any food to be in violation of any applicable requirement
+ under Federal law,
+ `(2) would not unduly burden interstate commerce, and
+ `(3) is designed to address a particular need for information which need is
+ not met by the requirements of the sections referred to in subsection (a).'.
+ (b) Study and Regulations-
+ (1) For the purpose of implementing section 403A(a)(3), the Secretary of
+ Health and Human Services shall enter into a contract with a public or
+ nonprofit private entity to conduct a study of--
+ (A) State and local laws which require the labeling of food that is of
+ the type required by sections 403(b), 403(d), 403(f), 403(h), 403(i)(1),
+ and 403(k) of the Federal Food, Drug, and Cosmetic Act, and
+ (B) the sections of the Federal Food, Drug, and Cosmetic Act referred to
+ in subparagraph (A) and the regulations issued by the Secretary to enforce
+ such sections to determine whether such sections and regulations adequately
+ implement the purposes of such sections.
+ (2) The contract under paragraph (1) shall provide that the study required
+ by such paragraph shall be completed within 6 months of the date of the
+ enactment of this Act.
+ (3)(A) Within 9 months of the date of the enactment of this Act, the
+ Secretary shall publish a proposed list of sections which are adequately
+ being implemented by regulations as determined under paragraph (1)(B)
+ and sections which are not adequately being implemented by regulations as
+ so determined.  After publication of the lists, the Secretary shall provide
+ 60 days for comments on such lists.
+ (B) Within 24 months of the date of the enactment of this Act, the
+ Secretary shall publish a final list of sections which are adequately
+ being implemented by regulations and a list of sections which are not
+ adequately being implemented by regulations. With respect to a section
+ which is found by the Secretary to be adequately implemented, no State or
+ political subdivision of a State may establish or continue in effect as to
+ any food in interstate commerce any requirement which is not identical to
+ the requirement of such section.
+ (C) Within 24 months of the date of the enactment of this Act, the Secretary
+ shall publish proposed revisions to the regulations found to be inadequate
+ under subparagraph (B) and within 30 months of such date shall issue final
+ revisions. Upon the effective date of such final revisions, no State or
+ political subdivision may establish or continue in effect any requirement
+ which is not identical to the requirement of the section which had its
+ regulations revised in accordance with this subparagraph.
+ (D)(i) If the Secretary does not issue a final list in accordance with
+ subparagraph (B), the proposed list issued under subparagraph (A) shall be
+ considered the final list and States and political subdivisions shall be
+ preempted with respect to sections found to be adequate in such proposed
+ list in accordance with subparagraph (B).
+ (ii) If the Secretary does not issue final revisions of regulations in
+ accordance with subparagraph (C), the proposed revisions issued under
+ such subparagraph shall be considered the final revisions and States and
+ political subdivisions shall be preempted with respect to sections the
+ regulations of which are revised by the proposed revisions.
+ (E) Subsection (b) of section 403A of the Federal Food, Drug, and Cosmetic
+ Act shall apply with respect to the prohibition prescribed by subparagraphs
+ (B) and (C).
+ (c) CONSTRUCTION-
+ (1) The Nutrition Labeling and Education Act of 1990 shall not be construed
+ to preempt any provision of State law, unless such provision is expressly
+ preempted under section 403A of the Federal Food, Drug, and Cosmetic Act.
+ (2) The amendment made by subsection (a) and the provisions of subsection (b)
+ shall not be construed to apply to any requirement respecting a statement
+ in the labeling of food that provides for a warning concerning the safety
+ of the food or component of the food.
+ (3) The amendment made by subsection (a), the provisions of subsection (b)
+ and paragraphs (1) and (2) of this subsection shall not be construed to
+ affect preemption, express or implied, of any such requirement of a State or
+ political subdivision, which may arise under the Constitution, any provision
+ of the Federal Food, Drug, and Cosmetic Act not amended by subsection (a),
+ any other Federal law, or any Federal regulation, order, or other final
+ agency action reviewable under chapter 7 of title 5, United States Code.
+SEC. 7. INGREDIENTS.
+ Section 403(i) (21 U.S.C. 343(i)) is amended--
+ (1) by striking out `If it is not subject to paragraph (g) of this section
+ unless' and inserting in lieu thereof `Unless',
+ (2) by inserting before `; except' the following: `and if the food purports
+ to be a beverage containing vegetable or fruit juice, a statement with
+ appropriate prominence on the information panel of the total percentage of
+ such fruit or vegetable juice contained in the food', and
+ (3) by striking out `colorings' and inserting in lieu thereof `colors not
+ required to be certified under section 706(c)'.
+SEC. 8. STANDARD OF IDENTITY REGULATION.
+ Section 701(e) (21 U.S.C. 371(e)) is amended by striking out `Any action
+ for the issuance, amendment, or repeal of any regulation under section 401,
+ 403(j), 404(a), 406, 501(b), or 502 (d) or (h) of this Act' and inserting
+ in lieu thereof the following: `Any action for the issuance, amendment, or
+ repeal of any regulation under section 403(j), 404(a), 406, 501(b), or 502
+ (d) or (h) of this Act, and any action for the amendment or repeal of any
+ definition and standard of identity under section 401 of this Act for any
+ dairy product (including products regulated under parts 131, 133 and 135
+ of title 21, Code of Federal Regulations) or maple sirup (regulated under
+ section 168.140 of title 21, Code of Federal Regulations).
+SEC. 9. CONSTRUCTION.
+ The amendments made by this Act shall not be construed to alter the authority
+ of the Secretary of Health and Human Services and the Secretary of Agriculture
+ under the Federal Food, Drug, and Cosmetic Act, the Federal Meat Inspection
+ Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act.
+SEC. 10. EFFECTIVE DATE.
+ (a) IN GENERAL-
+ (1) Except as provided in paragraph (2)--
+ (A) the amendments made by section 2 shall take effect 6 months after--
+ (i) the date of the promulgation of all final regulations required to
+ implement section 403(q) of the Federal Food, Drug, and Cosmetic Act, or
+ (ii) if such regulations are not promulgated, the date proposed regulations
+ are to be considered as such final regulations,
+except that section 403(q)(4) of such Act shall take effect as prescribed
+by such section,
+ (B) the amendments made by section 3 shall take effect 6 months after--
+ (i) the date of the promulgation of final regulations to implement section
+ 403(r) of the Federal Food, Drug, and Cosmetic Act, or
+ (ii) if such regulations are not promulgated, the date proposed regulations
+ are to be considered as such final regulations, except that any person
+ marketing a food the brand name of which contains a term defined by the
+ Secretary under section 403(r)(2)(A)(i) of the Federal Food, Drug, and
+ Cosmetic Act shall be given an additional 6 months to comply with section 3,
+ (C) the amendments made by section 4 shall take effect 24 months after the
+ date of the enactment of this Act, and
+ (D) the amendments made by section 5 shall take effect on the date the
+ amendments made by section 3 take effect.
+ (2) Section 403(q) of the Federal Food, Drug, and Cosmetic Act (as added by
+ section 2) shall not apply with respect to food which was labeled before
+ the effective date of the amendments made by section 2 and section 403(r)
+ of the Federal Food, Drug, and Cosmetic Act (as added by section 3) shall
+ not apply with respect to food which was labeled before the effective date
+ of the amendments made by section 3.
+ (3)(A) If the Secretary finds that a person who is subject to section
+ 403(q)(4) of such Act is unable to comply with the requirements of such
+ section upon the effective date of final regulations to implement section
+ 403(q) of such Act or of proposed regulations to be considered as such final
+ regulations because the Secretary has not made available to such person
+ the information required by such section, the Secretary shall delay the
+ application of such section to such person for such time as the Secretary
+ may require to provide such information.
+ (B) If the Secretary finds that compliance with section 403(q) or 403(r)(2)
+ of such Act would cause an undue economic hardship, the Secretary may delay
+ the application of such sections for no more than one year.
+ (b) SECTION 6-
+ (1) IN GENERAL- Except as provided in paragraph (2), the amendments made
+ by section 6 shall take effect--
+ (A) with respect to a requirement of a State or political subdivision
+ described in paragraph (1) of section 403A(a) of the Federal Food, Drug,
+ and Cosmetic Act, on the date of the enactment of this Act,
+ (B) with respect to a requirement of a State or political subdivision
+ described in paragraph (2) of section 403A(a) of the Federal Food, Drug,
+ and Cosmetic Act, one year after the date of the enactment of this Act,
+ (C) with respect to a requirement of a State or political subdivision
+ described in paragraph (3) of section 403A(a) of the Federal Food, Drug,
+ and Cosmetic Act, as prescribed by section 6(b) of the Nutrition Labeling
+ and Education Act of 1990,
+ (D) with respect to a requirement of a State or political subdivision
+ described in paragraph (4) of section 403A(a) of the Federal Food, Drug,
+ and Cosmetic Act, on the date regulations to implement section 403(q)
+ of such Act take effect, and
+ (E) with respect to a requirement of a State or political subdivision
+ described in paragraph (5) of section 403A(a) of the Federal Food, Drug,
+ and Cosmetic Act, on the date regulations to implement section 403(r)
+ of such Act take effect.
+ (2) EXCEPTION- If a State or political subdivision submits a petition
+ under section 403A(b) of the Federal Food, Drug, and Cosmetic Act for a
+ requirement described in section 403A(a) of such Act within 18 months of
+ the date of the enactment of this Act, paragraphs (3) through (5) of such
+ section 403A(a) shall not apply with respect to such State or political
+ subdivision requirement until--
+ (1) 24 months after the date of the enactment of this Act, or
+ (2) action on the petition,
+whichever occurs later.
+ (c) SECTION 7- The amendments made by section 7 shall take effect one year
+ after the date of the enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

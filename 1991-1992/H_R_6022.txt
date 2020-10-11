@@ -1,0 +1,51 @@
+ 
+--H.R.6022--
+H.R.6022
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Fair Credit Reporting Act to require the inclusion in consumer
+reports of information provided to consumer reporting agencies regarding
+the failure of a consumer to pay overdue child support.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Ted Weiss Child Support Enforcement Act
+  of 1992'.
+SEC. 2. INCLUSION IN CONSUMER REPORTS OF INFORMATION REGARDING FAILURES OF
+CONSUMERS TO PAY OVERDUE CHILD SUPPORT.
+  (a) IN GENERAL- The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is
+  amended by redesignating section 622 as section 623 and by inserting after
+  section 621 the following new section:
+`Sec. 622. Information on overdue child support obligations
+  `Notwithstanding any other provision of this title, a consumer reporting
+  agency shall include in any consumer report furnished by the agency in
+  accordance with section 604, any information on the failure of the consumer
+  to pay overdue support which--
+  `(1) is provided--
+  `(A) to the consumer reporting agency by a State or local child support
+  enforcement agency; or
+  `(B) to the consumer reporting agency and verified by any local, State,
+  or Federal Government agency; and
+  `(2) antedates the report by 7 years or less.'.
+  (b) DEFINITIONS- Section 603 of the Fair Credit Reporting Act (15
+  U.S.C. 1681a) is amended by adding at the end the following new subsection:
+  `(j) DEFINITIONS RELATING TO CHILD SUPPORT OBLIGATIONS-
+  `(1) OVERDUE SUPPORT- The term `overdue support' has the meaning given to
+  such term in section 466(e) of the Social Security Act.
+  `(2) STATE OR LOCAL CHILD SUPPORT ENFORCEMENT AGENCY- The term `State
+  or local child support enforcement agency' means a State or local agency
+  which administers a State or local program for establishing and enforcing
+  child support obligations.'.
+  (c) CLERICAL AMENDMENT- The table of sections for the Fair Credit Reporting
+  Act (15 U.S.C. 1601 et seq.) is amended by redesignating the item relating
+  to section 622 as section 623 and by inserting after the item relating to
+  section 621 the following new item:
+`622. Information  on overdue child support obligations.'.
+  (d) EFFECTIVE DATE- The amendments made by this section shall take effect
+  on January 1, 1993.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

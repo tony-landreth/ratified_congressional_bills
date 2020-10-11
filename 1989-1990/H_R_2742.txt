@@ -1,0 +1,571 @@
+ 
+--H.R.2742--
+H.R.2742
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To extend and amend the Library Services and Construction Act, and for other
+purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCES.
+ (a) SHORT TITLE- This Act may be cited as the `Library Services and
+ Construction Act Amendments of 1990'.
+ (b) REFERENCES- References in this Act to `the Act' are references to the
+ Library Services and Construction Act (20 U.S.C. 351 et seq.).
+SEC. 2. DEFINITIONS.
+ Section 3 of the Act is amended--
+ (1) in paragraph (2)--
+ (A) by striking `and initial equipment' and inserting `and for the purchase,
+ lease, and installation of equipment';
+ (B) by striking `to conserve energy' and inserting `to ensure safe working
+ environments and to conserve energy'; and
+ (C) by striking `includes machinery' and inserting `includes information and
+ building technologies, video and telecommunications equipment, machinery'; and
+ (2) by adding at the end thereof the following new paragraphs:
+ `(17) The term `handicapped individual' means an individual who is physically
+ or mentally impaired, visually impaired, or hearing impaired.
+ `(18) The term `network' means any local, statewide, regional, interstate,
+ or international cooperative association of library entities which provide
+ for the systematic and effective coordination of the resources of school,
+ public, academic, and special libraries and information centers for improved
+ supplementary services for the clientele served by each type of library
+ entity.'.
+SEC. 3. AUTHORIZATION OF APPROPRIATIONS.
+ (a) AMENDMENT- Section 4(a) of the Act is amended to read as follows:
+ `SEC. 4. (a) There are authorized to be appropriated--
+ `(1) for the purpose of making grants as provided in title I, $100,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years;
+ `(2) for the purpose of making grants as provided in title II, $55,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years;
+ `(3) for the purpose of making grants as provided in title III, $35,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years;
+ `(4) for the purpose of making grants as provided in title V, $1,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years;
+ `(5) for the purpose of making grants as provided in title VI, $10,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years;
+ `(6) for the purpose of activities as provided in title VII, $500,000
+ for fiscal year 1990 and such sums as may be necessary for each of the 4
+ succeeding fiscal years; and
+ `(7) for the purpose of making grants as provided in title VIII, $6,000,000
+ for fiscal year 1990 and such sums as may be necessary for each of the
+ 4 succeeding fiscal years, except that no amounts are authorized to be
+ appropriated under this paragraph for any fiscal year unless the total amount
+ appropriated pursuant to paragraphs (1), (2), and (3) for such fiscal year
+ equals or exceeds sum of the total amount appropriated pursuant to such
+ paragraphs for the preceding fiscal year, plus 4 percent of such total amount.
+There shall be available for the purpose of making grants under title IV
+for each of the fiscal years 1990, 1991, 1992, 1993, and 1994, 1.5 percent
+of the amount appropriated pursuant to each of paragraphs (1), (2), and (3)
+for each such fiscal year. There shall be available for the purpose of making
+grants under section 5(d) for such fiscal years 0.5 percent of the amount
+appropriated pursuant to each of such paragraphs for each such fiscal year.'.
+ (b) CARRYOVER OF FUNDS- Section 4(b) of the Act is amended by striking
+ `and for the next succeeding fiscal year' and inserting `and is authorized
+ to remain available until expended'.
+SEC. 4. ALLOCATIONS.
+ (a) AMENDMENT- Section 5(c) of the Act is amended to read as follows:
+ `(c)(1) From one-half of the sums available pursuant to the second sentence
+ of section 4(a) for any fiscal year, the Secretary shall allot an equal amount
+ to each Indian tribe that submits an approved application under section 403.
+ `(2) From the remaining one-half of the sums available pursuant to such second
+ sentence, the Secretary shall make allocations to Indian tribes that (A)
+ are receiving an allocation under paragraph (1) of this subsection for such
+ fiscal year; and (B) have submitted approved applications under section 404.
+ `(3) In making allocations under paragraph (2)--
+ `(A) no funds shall be allocated to an Indian tribe unless such funds will
+ be administered by a librarian; and
+ `(B) the Secretary shall take into account the needs of Indian tribes for
+ such allocations to carry out the activities described in section 402(b).
+ `(4) In making allocations under this subsection, the Secretary shall
+ take such actions as may be necessary to prevent an allocation from being
+ received to serve the same population by any 2 or more of the following
+ entities (as defined in or established pursuant to the Alaskan Native
+ Claims Settlement Act): an Alaskan native village, a regional corporation,
+ or a village corporation.'.
+ (b) CONFORMING AMENDMENT- Section 6(g)(2) of the Act is amended by inserting
+ after `section 5(c)(2)' the following: `in the same fiscal year in which
+ it has received an allocation under section 5(c)(1)'.
+SEC. 5. ANTIDISCRIMINATION PROVISION.
+ Section 6(b) of the Act is amended by--
+ (1) striking `and' at the end of paragraph (3);
+ (2) redesignating paragraph (4) as paragraph (5); and
+ (3) inserting the following new paragraph (4) after paragraph (3):
+ `(4) provide assurances that libraries within the State that receive funds
+ under this Act shall not discriminate on the basis of race, religion, age,
+ gender, national origin, or handicapping condition in providing space for
+ public meetings; and'.
+SEC. 6. RESOURCE SHARING COORDINATION.
+ Section 6 of the Act is amended--
+ (1) in subsection (d)(1), by striking `and construction' and inserting `,
+ construction, and interlibrary cooperation and resource sharing'; and
+ (2) by adding at the end thereof the following new subsection:
+ `(h) The Secretary shall coordinate programs under titles V and VI of
+ this Act with the programs assisted by titles I, II, and III of this Act,
+ and shall provide to the head of the State library administrative agency
+ the opportunity to comment on any application for a grant under title V
+ or VI of this Act prior to the awarding of the grant, in order to assure
+ that such grants from the Secretary are for purposes consistent with the
+ long-range program required under subsection (d) of this section.'.
+SEC. 7. MAINTENANCE OF EFFORT.
+ (a) GENERAL REQUIREMENT- Section 7(a) of the Act is amended by striking
+ paragraphs (1) and (2) and inserting the following:
+ `(1) there will be available from State and local sources for expenditure
+ under the programs, during the fiscal year for which the allotment is made,
+ an amount that equals or exceeds the amount required to provide the State
+ percentage as required by subsection (b); and
+ `(2)(A) there will be available for expenditure for State aid to public
+ libraries and library systems, during the fiscal year for which the allotment
+ is made, an aggregate amount equal to 90 percent of the amount actually
+ expended for such purposes in the second preceding fiscal year; and
+ `(B) there will be available for expenditure, during the fiscal year for which
+ the allotment is made, for the State library administrative agency, or for
+ the part thereof charged by State law with the extension and development of
+ public library services throughout the State, an aggregate amount equal to
+ 90 percent of the amount actually expended for such purpose in the second
+ preceding fiscal year.
+The Secretary may, in accordance with regulations, waive the requirements
+of paragraph (2) of this subsection, if the Secretary determines that the
+application of such paragraph would be unjust or unreasonable in the light
+of exceptional extenuating circumstances.'.
+ (b) INSTITUTIONAL LIBRARY SERVICES- The last sentence of section 103 is
+ amended by inserting before the period at the end thereof the following:
+ `and to the extent that the Secretary determines that the populations served
+ by such expenditures has declined'.
+SEC. 8. EDUCATION RESEARCH LIBRARY.
+ (a) AMENDMENT- The Library Services and Construction Act is further amended
+ by inserting after section 8 the following new section:
+`education research library
+ `SEC. 9. None of the activities or functions of the Department of Education
+ Research Library which are utilized, directly or indirectly, by the Secretary
+ in carrying out this Act and which were not performed by contractors as
+ of July 26, 1989, shall be contracted out or otherwise transferred from
+ the Federal Government before September 30, 1991, unless such transfer is
+ expressly authorized by statute, or unless the value of all work performed
+ under the contract and related contracts in each fiscal year does not
+ exceed $50,000.'.
+ (b) STUDY REQUIRED- The Comptroller General shall conduct a study of the
+ Department of Education Research Library. The Comptroller General shall
+ prepare and submit a report on the study required by this section by no
+ later than January 30, 1991, together with such recommendations and any
+ statutory changes required to carry out such recommendations, as the
+ Comptroller deems necessary. Such study shall include--
+ (1) an assessment of the historic and scholastic value and significance of
+ the library's collection to educators, education researchers, historians,
+ and others;
+ (2) a review of the feasibility and merits of expanding public access to
+ and use of the library's collections and alternative means by which such
+ access could be promoted; and
+ (3) an evaluation of the quality and effectiveness of services provided
+ by the library to Department personnel and recommendations for improving
+ such services.
+SEC. 9. INTERGENERATIONAL LIBRARY SERVICES.
+ Section 101 of the Act is amended--
+ (1) by redesignating paragraphs (5) and (6) as paragraphs (9) and (10),
+ respectively; and
+ (2) by inserting after paragraph (4) the following new paragraph:
+ `(5) for assisting libraries in developing intergenerational library programs
+ that will match older adult volunteers with libraries interested in developing
+ after school literacy and reading skills programs for unsupervised school
+ children during afterschool hours;'.
+SEC. 10. CHILDCARE LIBRARY OUTREACH.
+ Section 101 of the Act is further amended by inserting after paragraph (5)
+ the following new paragraph:
+ `(6) for assisting libraries in providing mobile library services and
+ programs to child-care providers or child-care centers which are licensed
+ or certified by the State, or otherwise meet the requirements of State law;'.
+SEC. 11. LIBRARY LITERACY CENTERS.
+ Section 101 of the Act is further amended by inserting after paragraph (6)
+ the following new paragraph:
+ `(7) to establish and support model library literacy centers, coordinated
+ by the State library administrative agency with other interested State
+ agencies and nonprofit organizations to reduce the number of functionally
+ illiterate individuals and to help them reach full employment;'.
+SEC. 12. DRUG ABUSE PREVENTION.
+ Section 101 of the Act is further amended by inserting after paragraph (7)
+ the following new paragraph:
+ `(8) for assisting libraries in providing and displaying educational
+ materials, and conducting community-wide programs, aimed at preventing and
+ eliminating drug abuse, in cooperation with local education agencies or
+ other agencies or organizations, if appropriate;'.
+SEC. 13. USE OF TITLE I FUNDS.
+ Section 102(a) of the Act is amended by adding at the end thereof the
+ following new sentence: `In carrying out its program to accomplish the
+ purposes of this title, a State may make subgrants to library systems or
+ networks which include libraries other than public libraries, if the purpose
+ of the subgrant is to improve services for public library patrons.'.
+SEC. 14. RATABLE REDUCTIONS OF MAJOR URBAN RESOURCE LIBRARIES.
+ Section 102(c) of the Act is amended by adding at the end thereof the
+ following new paragraph:
+ `(3) No State shall, in carrying out the provisions of paragraph (2) of
+ this subsection, reduce the amount paid to any major urban resource library
+ below the amount that such library received in the fiscal year preceding
+ the fiscal year for which the determination is made under such paragraph
+ (2), except that such amount may be ratably reduced to the extent that (A)
+ the total Federal allocations to the State under section 5 for purposes of
+ this title for the applicable fiscal year are reduced, or (B) the 1990 Census
+ shows the population of the city served by such library has decreased.'.
+SEC. 15. STATE ANNUAL PROGRAM.
+ Section 103 of the Act is amended--
+ (1) in paragraph (3), by striking `and institutionalized individuals';
+ (2) in paragraph (4), by striking everything following `elderly' the first
+ place it appears and inserting a semicolon; and
+ (3) by striking paragraph (5) and inserting the following:
+ `(5) describe the uses of funds to make library services and programs more
+ accessible to handicapped individuals.'.
+SEC. 16. TECHNOLOGY ENHANCEMENT.
+ (a) DEFINITION- Section 3 of the Act is further amended by adding at the
+ end thereof the following new paragraph:
+ `(19) The term `technology enhancement' means the acquisition, installation,
+ maintenance, or replacement, of substantial technological equipment (including
+ library bibliographic automation equipment) necessary to provide access to
+ information in electronic and other formats made possible by new information
+ and communications technologies.'.
+ (b) USE OF TITLE I FUNDS- Section 101 of the Act is further amended--
+ (1) by striking `and' at the end of paragraph (9) (as redesignated by
+ section 7(1));
+ (2) by striking the period at the end of paragraph (10) (as redesignated
+ by section 7(1)) and inserting `; and'; and
+ (3) by adding at the end thereof the following new paragraph:
+ `(11) for assisting public libraries in making effective use of technology
+ to improve library and information services.'.
+ (c) USE OF TITLE II FUNDS- Title II of the Act is amended--
+ (1) by inserting `AND TECHNOLOGY ENHANCEMENT' after `CONSTRUCTION' in the
+ heading of such title;
+ (2) by inserting `AND LIBRARY AND INFORMATION TECHNOLOGY ENHANCEMENT' after
+ `CONSTRUCTION' in the head of section 201;
+ (3) by inserting `and technology enhancement' after `construction' each
+ place it appears in sections 201, 202(a), 202(b), 203(1), 203(2), and 203(3);
+ (4) by striking `section 3(2)' in section 202(a) and inserting `sections 3(2)
+ and 3(19), respectively'; and
+ (5) by inserting `AND TECHNOLOGY ENHANCEMENT' after `CONSTRUCTION' in the
+ heading of section 203.
+ (d) USE OF TITLE III FUNDS- Section 302(a) of the Act is amended--
+ (1) by striking `and' at the end of clause (1); and
+ (2) by inserting before the period at the end of clause (2) the following:
+ `; and (3) developing the technological capacity of libraries for interlibrary
+ cooperation and resource sharing'.
+SEC. 17. PRESERVATION OBJECTIVES IN CONSTRUCTION.
+ Section 203 of the Act is amended--
+ (1) by striking the period at the end of paragraph (4) and inserting `;
+ and'; and
+ (2) by adding at the end thereof the following new paragraph:
+ `(5) follow policies and procedures in the construction of public libraries
+ that will promote the preservation of library and information resources to
+ be utilized in the facilities.'.
+SEC. 18. RESOURCE SHARING.
+ (a) ATTAINMENT OF COMPLIANCE WITH RESOURCE SHARING PLANS- Sections 301 and
+ 304(a) of the Act are each amended by striking `eventual' and inserting
+ `attaining'.
+ (b) SCHOOL LIBRARY RESOURCES- Section 304 of the Act is amended by adding
+ at the end thereof the following new subsection:
+ `(e) Public and school libraries which cooperate to make school library
+ resources available to the public during periods when school is not in
+ session may be reimbursed for such expenses.'.
+SEC. 19. PRESERVATION COOPERATION.
+ Title III of the Act is amended by adding at the end thereof the following
+ new section:
+`PRESERVATION PROGRAMS
+ `SEC. 305. (a) The long-range program and annual program of each State
+ under this title may--
+ `(1) include a statewide preservation cooperation plan that complies with
+ this section; and
+ `(2) identify the preservation objectives to be achieved during the period
+ covered by the long-range plans required by section 6.
+ `(b) A statewide preservation cooperation plan complies with this section if--
+ `(1) such plan specifies the methods by which the State library administrative
+ agency will work with libraries, archives, historical societies, scholarly
+ organizations, and other agencies, within or outside the State, in planning,
+ education and training, coordinating, outreach and public information,
+ and service programs to ensure that endangered library and information
+ resources are preserved systematically; and
+ `(2) such preservation plan is developed in consultation with such parties
+ and agencies as the State archives, historical societies, libraries,
+ scholarly organizations, and other interested parties.
+ `(c) A State which has a statewide preservation cooperation plan that complies
+ with this section may use funds under this title to carry out such plan.
+ `(d) The State library administrative agency may contract part or all of the
+ preservation program under this section to other agencies or institutions.'.
+SEC. 20. MAXIMUM GRANTS UNDER TITLE V.
+ Section 501(c) of the Act is amended by striking `$15,000.' and inserting
+ `$35,000, except that--
+ `(1) not more than 30 percent of the funds available for grants under this
+ title in any fiscal year may be used to make grants in amounts between
+ $35,000 and $125,000; and
+ `(2) no recipient may receive more than one grant under this title for any
+ fiscal year.'.
+SEC. 21. LIBRARY LITERACY GRANTS.
+ Section 601(e) of the Act is amended by striking `$25,000' and inserting
+ `$35,000'.
+SEC. 22. EVALUATION AND ASSESSMENT.
+ (a) AMENDMENT- The Act is further amended by adding at the end thereof the
+ following new title:
+`TITLE VII--EVALUATION AND ASSESSMENT
+`PROGRAM AUTHORITY
+ `SEC. 701. The Secretary is authorized to carry out a program for the
+ purpose of evaluation and assessment (directly or by grants or contracts)
+ of programs authorized under this Act.'.
+ (b) CONFORMING AMENDMENT- Section 5(a) of the Act is amended by striking
+ out paragraph (5).
+SEC. 23. FAMILY LEARNING CENTER PROGRAMS.
+ (a) AMENDMENT- The Library Services and Construction Act is amended by
+ adding at the end the following:
+`TITLE VIII--LIBRARY LEARNING CENTER PROGRAMS
+`Part A--Family Learning Centers
+`STATEMENT OF PURPOSE
+ `SEC. 801. It is the purpose of this part to expand and improve opportunities
+ for lifetime learning and the involvement of the Nation's families as partners
+ in their children's education by providing comprehensive, family-oriented
+ library services through Family Learning Centers.
+`GRANTS FOR FAMILY LEARNING CENTERS
+ `SEC. 802. The Secretary shall carry out a program of making grants from
+ sums appropriated pursuant to paragraph (7) of section 4(a) to local public
+ libraries for the purposes of supporting family learning centers.
+`use of funds
+ `SEC. 803. (a) Funds made available to a grantee under this part shall be
+ used to initiate, expand, or improve public library services to families.
+ `(b) Not less than 25 percent of the funds made available under this part
+ shall be used for the acquisition of resources and materials in print and
+ electronic formats--
+ `(1) which are intended for use by and with adults, including materials in
+ such areas as child care, child development, nutrition, parenting skills,
+ and job and career information; and
+ `(2) which are intended for use by and with children and adolescents.
+ `(c) Not less than 10 percent of the funds made available to a grantee
+ under this part shall be used for--
+ `(1) the acquisition or leasing of computer hardware for use by library
+ patrons, including services necessary for the operation, installation,
+ and maintenance of such equipment; and
+ `(2) the acquisition of computer software and complementary explanatory
+ material for use by library patrons.
+`APPLICATION
+ `SEC. 804. (a) Any local public library which wishes to receive a grant
+ under this part shall submit an application to the Secretary at such time,
+ in such form, and containing such information as the Secretary determines
+ is necessary to evaluate the quality of the applicant's proposal and the
+ applicant's ability to carry it out.
+ `(b) Each such application shall--
+ `(1) describe the manner in which the funds will be used to initiate,
+ expand, or improve library services to families;
+ `(2) provide assurances that the library will be open on weekday evenings,
+ Saturdays, and some Sundays and legal public holidays to enable families
+ in which both parents work outside the home to utilize the library's services;
+ `(3) demonstrate that the library has or will have sufficient qualified
+ staff with specialized training in providing library services to children,
+ adolescents, and adults;
+ `(4) provide for the establishment of an advisory committee consisting
+ of parents, teachers, local school administrators, librarians, library
+ administrators, library trustees, local elected officials, and business
+ leaders, at least one-third of whom are parents who regularly use the
+ services of the library;
+ `(5) provide for the establishment of a family library loan program through
+ which families may borrow sets of books for extended periods, and other
+ innovative programs and policies designed to encourage greater use of the
+ library by families;
+ `(6) provide for a job and career information program to provide information
+ and assistance to parents and others who are unemployed or seeking a new job;
+ `(7) describe, if appropriate, any special services and outreach activities
+ which will be offered to meet the needs of--
+ `(A) adolescent parents;
+ `(B) single-parent families;
+ `(C) families in which both parents are employed outside the home;
+ `(D) parents and children with limited English language proficiency; and
+ `(E) educationally disadvantaged adults and their children;
+ `(8) describe the methods by which the library will publicize and promote
+ the services of the Center in cooperation with the local media, schools,
+ businesses, social service agencies, and other appropriate entities; and
+ `(9) provide assurances that the funds provided will be used to supplement
+ and not supplant funds otherwise available for the purposes of this part.
+`SELECTION OF FAMILY LEARNING CENTERS
+ `SEC. 805. (a) The Secretary shall select family learning centers on
+ a competitive basis from among the local public libraries submitting
+ applications under section 804. In making such selection, the Secretary
+ shall give priority to applications which--
+ `(1) promise to serve a significant number of families on a regular basis; and
+ `(2) offer innovative approaches to improving library services for families
+ and approaches which show promise for replication and dissemination.
+ `(b) In making grants under this title, the Secretary shall assure that
+ there is an equitable distribution of grants among the States and between
+ urban and rural communities.
+ `(c) No grant made under this title for any fiscal year shall exceed $200,000.
+`authorization of appropriations
+ `SEC. 806. There are authorized to be appropriated $3,000,000 for fiscal
+ year 1990 and such sums as may be necessary for each succeeding fiscal year
+ to carry out the provisions of this part.
+`Part B--Library Literacy Centers
+`STATEMENT OF PURPOSE
+ `SEC. 811. The purposes of this part are to--
+ `(1) establish model library literacy centers throughout the country to
+ serve as resource centers for the dissemination of literacy materials and
+ equipment to local public libraries in order to help overcome the high
+ incidence of adults with limited literacy skills in the United States;
+ `(2) help adults with limited literacy skills reach full employment through
+ nonthreatening learning experiences in their local public library or in
+ their own home; and
+ `(3) offer innovative approaches to improving library literacy services to
+ adults and approaches which show promise for replication and dissemination.
+`GRANTS TO STATES FOR LIBRARY LITERACY CENTERS
+ `SEC. 812. (a) The Secretary shall carry out a program of making grants
+ on a competitive basis to States which have an approved basic State plan
+ under section 6 of this Act and an approved application under section 813
+ of this Act.
+ `(b)(1) The total grant amount awarded to each State shall not exceed--
+ `(A) $350,000 in the first fiscal year in which a State receives a grant
+ under this part; and
+ `(B) $100,000 in the second and third fiscal years in which a State receives
+ a grant under this part.
+ `(2) Funds received in the first fiscal year in which a State receives a grant
+ under this part shall remain available until expended. Funds received in the
+ second and third fiscal year in which a State receives a grant under this
+ part shall be available only for the fiscal year for which funds are received.
+ `(3) Funds received in the second and third fiscal years in which a State
+ receives a grant under this part shall be matched, on a dollar for dollar
+ basis, from non-Federal sources.
+`STATE APPLICATION
+ `SEC. 813. (a) Funds appropriated pursuant to section 818 shall be available
+ for grants to States for the purpose of supporting not more than 1 library
+ literacy center in each State to coordinate the state-wide distribution of
+ library literacy materials and equipment on a loan basis to local public
+ libraries within the State.
+ `(b) Any State wishing to receive a grant shall, through its State library
+ administrative agency, in conjunction with the advisory committee established
+ under section 816, submit an application to the Secretary at such time, in
+ such form, and containing such information and assurances as the Secretary
+ may reasonably require. No application may be approved by the Secretary
+ unless it contains assurances that the State will--
+ `(1) designate the State library administrative agency, or select a local
+ public library through a competitive process, to serve as a library literacy
+ center in accordance with the provisions of this part;
+ `(2) provide assurances that the library literacy center will--
+ `(A) select local public libraries to participate in a literacy materials
+ and equipment loan program;
+ `(B) select at least 25 percent of the local libraries that participate in
+ the literacy materials and equipment loan program from rural areas;
+ `(C) give priority in the selection of local public libraries to participate
+ in the literacy materials and equipment loan program to public libraries
+ within the State which serve those in greatest need;
+ `(D) coordinate the distribution of equipment and materials;
+ `(E) provide training to local public library personnel;
+ `(3) describe how the results of the grant program will be evaluated and
+ disseminated;
+ `(4) set forth the potential of the grant program for achieving replicability
+ and for serving as a model program; and
+ `(5) distribute 100 percent of the amounts received pursuant to this part
+ to the library literacy center as designated or selected under section 817.
+ `(c) The Secretary shall give priority to applicants whose applications
+ comply with the provisions of this part and describe programs and services
+ to be delivered in States which have--
+ `(1) the highest concentrations of adults who do not have a secondary
+ education or its equivalent,
+ `(2)(A) few community or financial resources to establish the program
+ described under this part without Federal assistance, or
+ `(B) low per capita income, or high concentrations of unemployment or
+ underemployment.
+`USE OF FUNDS
+ `SEC. 814. (a) Funds made available under this part shall be used by
+ the library literacy centers to establish coordination centers to make
+ literacy materials and equipment available to local public libraries on a
+ loan basis to initiate, expand, or improve public library literacy services
+ and programs. Such services and programs may include--
+ `(1) the acquisition of literacy education equipment including, but not
+ limited to, video recorders and television monitors;
+ `(2) the acquisition of print materials, audio tapes and video tapes designed
+ to train adults with limited literacy skills, including materials and tapes
+ prepared by public television;
+ `(3) the acquisition of library resource materials for literacy instruction
+ purposes;
+ `(4) the acquisition of literacy training materials including but not limited
+ to General Education Development (GED) print materials and video tapes; and
+ `(5) staffing for coordination and training of local library personnel on
+ literacy services.
+ `(b) Each library literacy center receiving a grant under this part may
+ use no more than 25 percent of such funds for the acquisition of literacy
+ education computers and computer software.
+`LOCAL APPLICATION
+ `SEC. 815. (a) Any local public library desiring to participate in programs
+ and services conducted pursuant to this part shall submit an application
+ to the State or the library literacy center as selected by the State under
+ section 817 at such time, in such form, and containing such information
+ as the State or the library literacy center determines is necessary to
+ evaluate the quality of the local public library's proposal and the local
+ public library's ability to carry out such proposal.
+ `(b) Each such application shall--
+ `(1) describe the manner in which the equipment and materials will be used
+ to initiate, expand, or improve local library literacy services;
+ `(2) demonstrate that the library has or will have sufficient qualified
+ staff and volunteers with specialized training in providing library literacy
+ services to adults;
+ `(3) provide for the establishment of--
+ `(A) a library literacy loan program through which adults with limited
+ literacy skills or individuals helping illiterate adults to learn to read
+ may borrow books, video tapes, and other learning materials;
+ `(B) other innovative programs and policies designed to encourage greater
+ use of the library by adults with limited literacy skills or individuals
+ helping illiterate adults learn to read;
+ `(4) provide assurances that coordination will take place with literacy
+ organizations and community-based organizations providing literacy services;
+ `(5) provide job and career information to adults with limited literacy
+ skills who are unemployed or seeking a new job;
+ `(6) provide information or referrals to other adult education opportunities
+ in the community;
+ `(7) describe, if appropriate, any special services and outreach activities
+ which will be offered to meet the needs of adults with limited literacy
+ skills;
+ `(8) describe the methods by which the library will publicize and promote
+ the services of the library in cooperation with the local media, schools,
+ businesses, social service agencies, and other appropriate entities; and
+ `(9) provide assurances that the materials, equipment and training provided
+ will be used to supplement and not supplant materials, equipment and training
+ otherwise available for the purposes of this part.
+`ADVISORY COMMITTEE
+ `SEC. 816. Each State receiving a grant under this part shall establish
+ an advisory committee to assist in coordinating the services and programs
+ assisted under this part. Such committee shall consist of, but not be
+ limited to, representatives of--
+ `(1) the Governor's office;
+ `(2) the State library administrative agency;
+ `(3) the State Advisory Council on Libraries;
+ `(4) the State department of education;
+ `(5) the State employment office;
+ `(6) public television; and
+ `(7) adult literacy community organizations.
+`SELECTION OF LITERACY LEARNING CENTERS
+ `SEC. 817. Each State receiving a grant under this part shall designate
+ the State library administrative agency as the library literacy center or
+ shall select a library literacy center on a competitive basis from among
+ the local public libraries submitting applications under section 815. In
+ making such selection, the State shall give priority to applications which--
+ `(1) demonstrate the greatest ability to carry out the requirements of
+ section 813 and to serve other local libraries; and
+ `(2) offer innovative approaches to improving library literacy services to
+ adults and approaches which show promise for replication and dissemination.
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 818. There are authorized to be appropriated $3,000,000 for fiscal
+ year 1991 and such sums as may be necessary for each fiscal year thereafter
+ to carry out the provisions of this part.'.
+ (b) CONFORMING AMENDMENTS- Section 3 of the Act is amended by adding at
+ the end thereof the following:
+ `(20) The term `educationally disadvantaged adult' has the meaning given
+ that term in section 312(3)(A) of the Adult Education Act of 1988 (20
+ U.S.C. 2101a).
+ `(21) The term `adult with limited literacy skills' means an adult whose
+ minimal skills in reading, writing, or computation or in performing basic
+ arithmetical computations preclude the individual from functioning in
+ society without assistance from others.'.
+SEC. 24. TECHNICAL AMENDMENT.
+ Title I of the Act is amended--
+ (1) by inserting `PUBLIC' before `LIBRARY' in the heading of such title; and
+ (2) by inserting `PUBLIC' before `LIBRARY' in the heading of section 101.
+SEC. 25. EFFECTIVE DATE.
+ The amendments made by this Act shall take effect on October 1, 1990.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,791 @@
+ 
+--H.R.4542--
+H.R.4542
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To prevent and deter auto theft.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Anti Car Theft Act of 1992'.
+TITLE I--TOUGHER LAW ENFORCEMENT AGAINST AUTO THEFT
+Subtitle A--Enhanced Penalties for Auto Theft
+SEC. 101. FEDERAL PENALTIES FOR ARMED ROBBERIES OF AUTOS.
+  (a) IN GENERAL- Chapter 103 of title 18, United States Code, is amended
+  by adding at the end the following:
+`Sec. 2119. Motor vehicles
+  `Whoever, possessing a firearm as defined in section 921 of this title,
+  takes a motor vehicle that has been transported, shipped, or received in
+  interstate or foreign commerce from the person or presence of another by
+  force and violence or by intimidation, or attempts to do so, shall--
+  `(1) be fined under this title or imprisoned not more than 15 years, or both,
+  `(2) if serious bodily injury (as defined in section 1365 of this title)
+  results, be fined under this title or imprisoned not more than 25 years,
+  or both, and
+  `(3) if death results, be fined under this title or imprisoned for any
+  number of years up to life, or both.'.
+  (b) FEDERAL COOPERATION TO PREVENT `CARJACKING' AND MOTOR VEHICLE THEFT-
+  In view of the increase of motor vehicle theft with its growing threat
+  to human life and to the economic well-being of the Nation, the Attorney
+  General, acting through the Federal Bureau of Investigation and the United
+  States Attorneys, is urged to work with State and local officials to
+  investigate car thefts, including violations of section 2119 of title 18,
+  United States Code, for armed carjacking, and as appropriate and consistent
+  with prosecutorial discretion, prosecute persons who allegedly violate
+  such law and other relevant Federal statutes.
+  (c) CLERICAL AMENDMENT- The table of sections at the beginning of chapter
+  103 of title 18, United States Code, is amended by adding at the end the
+  following new item:
+`2119. Motor vehicles.'.
+SEC. 102. IMPORTATION AND EXPORTATION.
+  Section 553(a) of title 18, United States Code, is amended by striking
+  `fined not more than $15,000 or imprisoned not more than five years'
+  and inserting `fined under this title or imprisoned not more than 10 years'.
+SEC. 103. TRAFFICKING IN STOLEN VEHICLES.
+  Each of sections 2312 and 2313(a) of title 18, United States Code, are
+  amended by striking `fined not more than $5,000 or imprisoned not more
+  than five years' and inserting `fined under this title or imprisoned not
+  more than 10 years'.
+SEC. 104. CIVIL AND CRIMINAL FORFEITURE.
+  (a) CIVIL FORFEITURE- Section 981(a)(1) of title 18, United States Code,
+  is amended by adding after subparagraph (E) the following:
+  `(F) Any property, real or personal, which represents or is traceable to
+  the gross proceeds obtained, directly or indirectly, from a violation of--
+  `(i) section 511 (altering or removing motor vehicle identification numbers);
+  `(ii) section 553 (importing or exporting stolen motor vehicles);
+  `(iii) section 2119 (armed robbery of automobiles);
+  `(iv) section 2312 (transporting stolen motor vehicles in interstate
+  commerce); or
+  `(v) section 2313 (possessing or selling a stolen motor vehicle that has
+  moved in interstate commerce).'.
+  (b) CRIMINAL FORFEITURE- Section 982(a) of title 18, United States Code,
+  is amended by adding after paragraph (4) the following:
+  `(5) The court, in imposing sentence on a person convicted of a violation
+  or conspiracy to violate--
+  `(A) section 511 (altering or removing motor vehicle identification numbers);
+  `(B) section 553 (importing or exporting stolen motor vehicles);
+  `(C) section 2119 (armed robbery of automobiles);
+  `(D) section 2312 (transporting stolen motor vehicles in interstate
+  commerce); or
+  `(E) section 2313 (possessing or selling a stolen motor vehicle that has
+  moved in interstate commerce);
+shall order that the person forfeit to the United States any property, real
+or personal, which represents or is traceable to the gross proceeds obtained,
+directly or indirectly, as a result of such violation.'.
+SEC. 105. CHOP SHOPS.
+  (a) AMENDMENT- Chapter 113 of title 18, United States Code, is amended by
+  adding at the end the following:
+`Sec. 2322. Chop shops.
+  `(a) IN GENERAL-
+  `(1) UNLAWFUL ACTION- Any person who knowingly owns, operates, maintains,
+  or controls a chop shop or conducts operations in a chop shop shall be
+  punished by a fine under this title or by imprisonment for not more than
+  15 years, or both. If a conviction of a person under this paragraph is
+  for a violation committed after the first conviction of such person under
+  this paragraph, the maximum punishment shall be doubled with respect to
+  any fine and imprisonment.
+  `(2) INJUNCTIONS- The Attorney General shall, as appropriate, in the case
+  of any person who violates paragraph (1), commence a civil action for
+  permanent or temporary injunction to restrain such violation.'.
+  `(b) DEFINITION- For purposes of this section, the term `chop shop' means
+  any building, lot, facility, or other structure or premise where one or
+  more persons engage in receiving, concealing, destroying, disassembling,
+  dismantling, reassembling, or storing any passenger motor vehicle or
+  passenger motor vehicle part which has been unlawfully obtained in order to
+  alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate,
+  or remove the identity, including the vehicle identification number or
+  derivative thereof, of such vehicle or vehicle part and to distribute,
+  sell, or dispose of such vehicle or vehicle part in interstate or foreign
+  commerce.'.
+  (b) CLERICAL AMENDMENT- The table of sections at the beginning of chapter
+  113 of title 18, United States Code, is amended by adding at the end the
+  following new item:
+`2322. Chop shops.'.
+Subtitle B--Targeted Law Enforcement
+SEC. 130. GRANT AUTHORIZATION.
+  (a) PURPOSE- The purpose of this subtitle is to supplement the provisions of
+  the Edward Byrne Memorial State and Local Law Enforcement Assistance Program
+  to help the States to curb motor vehicle thefts and the related violence.
+  (b) GRANTS- The Director of the Bureau of Justice Assistance shall make
+  grants to Anti Car Theft Committees submitting applications in compliance
+  with the requirements of this subtitle.
+SEC. 131. APPLICATION.
+  (a) SUBMISSION- To be eligible to receive a grant under this subtitle, a
+  chief executive of an Anti Car Theft Committee shall submit an application
+  to the Director of the Bureau of Justice Assistance.
+  (b) CONTENT- The application submitted under subsection (a) shall include
+  the following:
+  (1) A statement that the applicant Anti Car Theft Committee is either a
+  State agency or an agency of a unit of local government.
+  (2) A statement that the applicant Anti Car Theft Committee is or will be
+  financed in part (A) by a fee on motor vehicles registered by the State
+  or possessed or insured within the State (and that such fee is not less
+  than $1 per vehicle), or (B) in the same manner and to the same extent as
+  is a similar program financed and implemented in a State like Michigan.
+  (3) An assurance that Federal funds received under a grant under this
+  subtitle shall be used to supplement and not supplant non-Federal funds
+  that would otherwise be available for activities funded under such grant.
+  (4) A statement that the resources of the applicant Anti Car Theft Committee
+  will be devoted entirely to combating motor vehicle theft, including any
+  or all of the following:
+  (A) Financing law enforcement officers or investigators whose duties are
+  entirely or primarily related to investigating cases of motor vehicle
+  theft or of trafficking in stolen motor vehicles or motor vehicle parts.
+  (B) Financing prosecutors whose duties are entirely or primarily related
+  to prosecuting cases of motor vehicle theft or of trafficking in stolen
+  motor vehicles or motor vehicle parts.
+  (C) Motor vehicle theft prevention programs, including vehicle identification
+  number etching programs, programs implemented by law enforcement agencies
+  and designed to enable the electronic tracking of stolen automobiles,
+  and programs designed to prevent the export of stolen vehicles.
+  (5) A description of the budget for the applicant Anti Car Theft Committee
+  for the fiscal year for which a grant is sought.
+SEC. 132. AWARD OF GRANTS.
+  (a) IN GENERAL- The Director shall allocate to each State a proportion
+  of the total funds available under this subtitle that is equal to the
+  proportion of the number of motor vehicles registered in such State to
+  the total number of motor vehicles registered in the United States. The
+  Director shall ensure that all applicant States have an opportunity to
+  receive grants from an available appropriation. Any State that has not met
+  the requirements described in section 203 of this Act shall be excluded
+  from any allocation under this subsection.
+  (b) GRANT AMOUNTS- If one Anti Car Theft Committee within a State submits
+  an application in compliance with section 131, the Director shall award
+  to such Anti Car Theft Committee a grant equal to the total amount of
+  funds allocated to such State under this section. In no case shall the
+  Anti Car Theft Committee receive a grant that is more than 50 percent of
+  the preaward budget for such Anti Car Theft Committee.
+  (c) MULTIPLE COMMITTEES- If two or more Anti Car Theft Committees within
+  a State submit applications in compliance with section 131, the Director
+  shall award to such Anti Car Theft Committees grants that in sum are equal
+  to the total amount of funds allocated to such State under this section. In
+  no case shall an Anti Car Theft Committee receive a grant that is more than
+  50 percent of the preaward budget for such Anti Car Theft Committee. The
+  Director shall allocate funds among two or more Anti Car Theft Committees
+  with a State according to the proportion of the preaward budget of each Anti
+  Car Theft Committee to the total preaward budget for all grant recipient
+  Anti Car Theft Committees within such State.
+  (d) RENEWAL OF GRANTS- Subject to the availability of funds, a grant under
+  this subtitle may be renewed for up to 2 additional years after the first
+  fiscal year during which the recipient receives an initial grant under
+  this subtitle if the Director determines that the funds made available to
+  the recipient during the previous year were used in the manner required
+  under the approved application.
+SEC. 133. AUTHORIZATION OF APPROPRIATIONS.
+  There are authorized to be appropriated $10,000,000 to carry out this
+  subtitle for each of the fiscal years 1993, 1994, and 1995.
+Subtitle C--Report Regarding State Motor Vehicle Titling Programs to Combat
+Motor Vehicle Thefts and Fraud
+SEC. 140. ESTABLISHMENT OF TASK FORCE.
+  (a) ESTABLISHMENT-
+  (1) IN GENERAL- The Secretary of Transportation and the Attorney General
+  of the United States, working together, shall, as soon as practicable
+  after the date of the enactment of this Act but not later than 180 days
+  after such date, establish a task force to study problems which relate
+  to motor vehicle titling, vehicle registration, and controls over motor
+  vehicle salvage which may affect the motor vehicle theft problem. The
+  study shall include an examination of the extent to which the absence of
+  uniformity and integration in State laws regulating vehicle titling and
+  registration and salvage of used vehicles allows enterprising criminals to
+  find the weakest link to `wash' the stolen character of the vehicles. It
+  shall also consider the adoption of a title brand on all certificates of
+  title indicating that the applicable vehicle was previously issued a title
+  brand or a title signifying `rebuilt', `reconstructed', or `flood'.
+  (2) REPORT- The task force shall prepare a report containing the results
+  of such study and shall submit such report to the President and the
+  Congress and to the chief executive officer of each State not later than
+  12 months after the task force is established, together with appropriate
+  recommendations to solve these problems.
+  (b) MEMBERSHIP- The task force shall consist of--
+  (1) the Secretary of Transportation, or the Secretary's delegate;
+  (2) the Attorney General of the United States, or the Attorney General's
+  delegate;
+  (3) the Secretary of Commerce, or the Secretary's delegate;
+  (4) the Secretary of the Treasury, or the Secretary's delegate;
+  (5) at least 3 representatives, to be designated by the Attorney General
+  of the United States;
+  (6) at least 5 representatives of State motor vehicle departments, to be
+  designated by the Secretary of Transportation; and
+  (7) at least 1 representative, to be designated by the Secretary of
+  Transportation, from each of the following groups:
+  (A) Motor vehicle manufacturers.
+  (B) Motor vehicle dealers and distributors.
+  (C) Motor vehicle dismantlers, recyclers, and salvage dealers.
+  (D) Motor vehicle repair and body shop operators.
+  (E) Motor vehicle scrap processors.
+  (F) Insurers of motor vehicles.
+  (G) State law enforcement officials.
+  (H) Local law enforcement officials.
+  (I) The American Association of Motor Vehicle Administrators.
+  (J) The National Insurance Crime Bureau.
+  (K) The National Committee on Traffic Laws and Ordinances.
+  (c) REIMBURSEMENT-
+  (1) SALARY- The members of the task force shall serve without pay.
+  (2) TRAVEL EXPENSES- While away from their residences or regular places
+  of business in performance of services for the Federal Government, members
+  of the task force shall be allowed travel expenses, including per diem in
+  lieu of subsistence, in the same manner as persons employed intermittently
+  in the Federal Government service are allowed expenses under section 5703
+  of title 5, United States Code.
+  (3) CHAIR- The Secretary of Transportation, or the Secretary's delegate,
+  shall serve as chairman of the task force. The task force may also invite
+  representatives of the Governors and State legislators to participate.
+  (d) REPORT-
+  (1) BASIS- The report required by subsection (a)(2) shall be made after
+  a meaningful consultative process and review of existing laws, practices,
+  studies, and recommendations regarding the problems specified in subsection
+  (a)(1).
+  (2) CONTENT- The report shall specify the key aspects of motor vehicle
+  antitheft measures necessary to prevent the disposition or use of
+  stolen motor vehicles, or the major components of motor vehicles, and
+  to prevent insurance and other fraud based upon false reports of stolen
+  motor vehicles. The report shall indicate any of the antitheft measures
+  for which national uniformity would be crucial in order for the measure
+  to be adequately effective. The report shall recommend viable ways of
+  obtaining any national uniformity which is necessary.
+  (3) RECOMMENDATIONS- The report also shall include other recommendations
+  for legislative or administrative action at the State level or at the
+  Federal level, and recommendations for industry and public actions.
+TITLE II--AUTOMOBILE TITLE FRAUD
+SEC. 201. DEFINITIONS.
+  For purposes of this title:
+  (1) The term `automobile' has the meaning given such term by section 501(1)
+  of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001(1)).
+  (2) The term `certificate of title' means a document issued by a State
+  evidencing ownership of an automobile.
+  (3) The term `insurance carrier' means an individual, corporation, or other
+  entity which is engaged in the business of underwriting automobile insurance.
+  (4) The term `junk automobile' means any automobile which is incapable of
+  operation on roads or highways and which has no value except as a source
+  of parts or scrap.
+  (5) The term `junk yard' means any individual, corporation, or other entity
+  which is engaged in the business of acquiring or owning junk automobiles
+  for resale, either in their entirety or as spare parts, for rebuilding or
+  restoration, or for crushing.
+  (6) The term `operator' means a person or entity authorized or designated
+  as the operator of the information system pursuant to section 202(a)(2)
+  or if no such person or entity is authorized, the Secretary.
+  (7) The term `salvage automobile' means any automobile which is damaged
+  by collision, fire, flood, accident, trespass, or other occurrence to the
+  extent that its fair salvage value plus the cost of repairing the automobile
+  for legal operation on roads or highways would exceed the fair market value
+  of the automobile immediately prior to the occurrence causing its damage.
+  (8) The term `salvage yard' means any individual, corporation, or other
+  entity which is engaged in the business of acquiring or owning salvage
+  automobiles for resale, either in their entirety or as spare parts, or
+  for rebuilding or restoration, or for crushing.
+  (9) The term `Secretary' means the Secretary of Transportation.
+  (10) The term `State' means any State of the United States or the District
+  of Columbia.
+SEC. 202. NATIONAL MOTOR VEHICLE TITLE INFORMATION SYSTEM.
+  (a) INFORMATION SYSTEM-
+  (1) ESTABLISHMENT- Not later than January 1996, the Secretary, in cooperation
+  with the States, shall establish an information system (in this title
+  referred to as the `National Motor Vehicle Title Information System')
+  which will enable States and others to gain instant and reliable access
+  to information maintained by other States pertaining to the titling of
+  automobiles, unless the Secretary determines that an existing information
+  system meets the requirements of subsections (b) and (c) of this section
+  and will enable the Secretary to implement this title as early as possible
+  and designates, in consultation with the Attorney General of the United
+  States, such system as the information system for purposes of this title. In
+  establishing the system, the Secretary, working with the Attorney General
+  of the United States and the States, shall ascertain the extent to which
+  title and related information to be included in the system will be adequate,
+  timely, reliable, uniform, and capable of aiding in efforts to prevent the
+  introduction or reintroduction into interstate commerce of stolen vehicles
+  or parts.
+  (2) OPERATION- The Secretary may authorize the operation of the information
+  system established or designated under paragraph (1) by contract through an
+  agreement with a State or States, or by redesignating, after consultation
+  with the States, a third party which represents the interests of the States.
+  (3) FEES- Operation of the information system established or designated
+  under paragraph (1) shall be paid for by a system of user fees and should
+  be self-sufficient and not be dependent on Federal funds. The amount of
+  fees collected and retained subject to annual appropriation Acts, by the
+  operator pursuant to this paragraph, not including fees collected by the
+  operator and passed on to a State or other entity providing information
+  to the operator, shall not exceed the costs of operating the system.
+  (b) MINIMUM FUNCTIONAL CAPABILITIES- The information system established
+  or designated under subsection (a)(1) shall, at a minimum, enable a user
+  of the system instantly and reliably to determine--
+  (1) the validity and status of a document purporting to be a certification
+  of title,
+  (2) whether an automobile bearing a known vehicle identification number
+  is titled in a particular State,
+  (3) whether an automobile known to be titled in a particular State is or
+  has been a junk vehicle or a salvage vehicle,
+  (4) for an automobile known to be titled in a particular State, the
+  odometer reading information, as required in section 408 of the Motor
+  Vehicle Information and Cost Savings Act (15 U.S.C. 1988), of such vehicle
+  on the date its certificate of title was issued and such later odometer
+  information, if noted by the State, and
+  (5) whether an automobile bearing a known vehicle identification number has
+  been reported as a junk vehicle or a salvage vehicle pursuant to section 204.
+  (c) AVAILABILITY OF INFORMATION-
+  (1) TO STATE- Upon request of a participating State, the operator makes
+  available to such State information in the information system pertaining
+  to any automobile.
+  (2) TO LAW ENFORCEMENT- Upon request of a Federal, State, or local
+  law enforcement official, the operator makes available to such official
+  information in the information system pertaining to a particular automobile,
+  salvage yard, or junk yard.
+  (3) TO PROSPECTIVE PURCHASERS- Upon request of a prospective purchaser of
+  an automobile, including an auction company or an entity that is in the
+  business of purchasing used automobiles, the operator makes available to
+  such prospective purchaser information in the information system pertaining
+  to such automobile.
+  (4) TO INSURANCE CARRIERS- Upon request of a prospective or current insurer
+  of an automobile, the operator makes available to such prospective or current
+  insurer information in the information system pertaining to such automobile.
+  (5) PRIVACY- Notwithstanding any provision of paragraphs (1) through (4),
+  the operator shall release no information other than what is necessary to
+  reasonably satisfy the requirements of subsection (b). In no event shall
+  the operator collect an individual's social security number or enable
+  users of the information system to obtain an individual's address or social
+  security number.
+SEC. 203. STATE PARTICIPATION IN THE NATIONAL MOTOR VEHICLE TITLE INFORMATION
+SYSTEM.
+  (a) REQUIREMENTS-
+  (1) INFORMATION SHARING- Each State shall make titling information maintained
+  by such State available for use in establishing the National Motor Vehicle
+  Title Information System established under section 202.
+  (2) TITLE VERIFICATION- Each State shall establish a practice of performing
+  an instant title verification check before issuing a certificate of title
+  to an individual or entity claiming to have purchased an automobile from
+  an individual or entity in another State. Such instant title verification
+  check shall consist of--
+  (A) communicating to the operator the vehicle identification number of
+  the vehicle for which the certificate of title is sought, the name of the
+  State which issued the most recent certificate of title pertaining to the
+  vehicle, and the name of the individual or entity to whom such certificate
+  was issued; and
+  (B) affording the operator an opportunity to communicate to the participating
+  State the results of a search of the information.
+  (b) GRANTS TO STATES-
+  (1) REVIEW OF STATE SYSTEMS- Not later than January 1, 1994, the Secretary,
+  in cooperation with the States, shall--
+  (A) conduct a review of systems used by the States to compile and maintain
+  information concerning the titling of automobiles, and
+  (B) determine, for each State, the cost of making titling information
+  maintained by such State available to the operator of the National Motor
+  Vehicle Title Information System for the purpose of meeting the requirements
+  of subsection (b).
+  (2) AWARD OF GRANTS- The Secretary may award grants to participating States
+  to be used in making titling information maintained by such States available
+  to the operator of the National Motor Vehicle Title Information System if--
+  (A) for any State that is a recipient of such a grant, the grant does
+  not exceed--
+  (i) 25 percent of the cost of making titling information maintained
+  by such State available to the operator of the National Motor Vehicle
+  Title Information System as determined by the Secretary under subsection
+  (d)(1)(B); or
+  (ii) $300,000;
+whichever is lower; and
+  (B) the Secretary determined that such grants are fair, reasonable,
+  and necessary for the establishment of the National Motor Vehicle Title
+  Information System under section 202(a)(1).
+  (c) REPORT TO CONGRESS- No later than January 1, 1997, the Secretary
+  shall report to Congress which States have met the requirements imposed by
+  section 203. If any State has not met these requirements, the Secretary
+  shall describe the impediments that have resulted in the State's failure
+  to meet the requirements.
+SEC. 204. REPORTING.
+  (a) OPERATORS OF JUNK OR SALVAGE YARD-
+  (1) INVENTORY REPORT- Beginning at a time determined by the Secretary, but
+  no earlier than 3 months prior to the establishment of the National Motor
+  Vehicle Title Information System, any person or entity in the business of
+  operating an automobile junk yard or automobile salvage yard shall file a
+  monthly report with the operator. Such report shall contain an inventory
+  of all junk vehicles or salvage vehicles obtained by the junk yard or
+  salvage yard during the preceding month. Such inventory shall contain the
+  vehicle identification number of each vehicle obtained, the date on which
+  it was obtained, the name of the person or entity from whom the reporter
+  obtained the vehicle, and a statement of whether the vehicle was crushed
+  or otherwise disposed of for sale or other purposes.
+  (2) APPLICATION- Paragraph (1) shall not apply to--
+  (A) persons or entities that are required by State law to report the
+  acquisition of junk vehicles or salvage vehicles to State or local
+  authorities if such authorities make such information available to the
+  operator, or
+  (B) any person who is issued a verification under section 607 of the Motor
+  Vehicle Information and Cost Savings Act stating that the vehicle or parts
+  from such vehicle are not reported as stolen.
+  (b) INSURANCE CARRIERS- Beginning at a time determined by the Secretary,
+  but no earlier than 3 months prior to the establishment of the National
+  Motor Vehicle Title Information System, any person or entity engaged in
+  the business of an insurance carrier shall file, directly or through a
+  designated agent, a monthly report with the operator. Such report shall
+  contain an inventory of all vehicles of the current model year or any of the
+  4 preceding model years which such carrier has, during the preceding month,
+  obtained possession of and determined to be salvage or junk vehicles. Such
+  inventory shall contain the vehicle identification number of each vehicle
+  obtained, the date on which it was obtained, the name of the person or
+  entity from whom the reporter obtained the vehicle, and the owner of the
+  vehicle at the time of the filing of the report.
+  (c) ENFORCEMENT PROVISIONS-
+  (1) PENALTY AMOUNT- Whoever violates this section may be assessed a civil
+  penalty of not to exceed $1,000 for each violation.
+  (2) PENALTY PROCEDURE- Any such penalty shall be assessed by the Secretary
+  and collected in a civil action brought by the Attorney General of the United
+  States. Any such penalty may be compromised by the Secretary. In determining
+  the amount of such penalty, or the amount agreed upon in compromise,
+  the appropriateness of such penalty to the size of the business of the
+  person charged and the gravity of the violation shall be considered. The
+  amount of such penalty, finally determined, or the amount agreed upon in
+  compromise, may be deducted from any sums owed by the United States to
+  the person charged.
+  (d) PROCEDURES AND PRACTICES- The Secretary shall establish by rule
+  procedures and practices to facilitate reporting in the least burdensome
+  and costly fashion.
+TITLE III--AMENDMENTS ON THEFT PREVENTION REGARDING `CHOP SHOP' RELATED THEFTS
+SEC. 301. DEFINITIONS.
+  (a) CARS, SPECIALTY VEHICLES, AND LIGHT-DUTY TRUCKS- Section 601(1) of
+  the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2021(1))
+  is amended to read as follows:
+  `(1) The term `passenger motor vehicle' includes any multipurpose passenger
+  vehicle and light-duty truck that is rated at 6,000 pounds gross vehicle
+  weight or less.'.
+  (b) CHOP SHOP DEFINITION- Section 601 of the Motor Vehicle Information
+  and Cost Savings Act (15 U.S.C. 2021) is amended by adding at the end
+  the following:
+  `(11) The term `chop shop' means any building, lot, facility, or other
+  structure or premise where one or more persons engage in receiving,
+  concealing, destroying, disassembling, dismantling, reassembling, or
+  storing any passenger motor vehicle or passenger motor vehicle part which
+  has been unlawfully obtained in order to alter, counterfeit, deface,
+  destroy, disguise, falsify, forge, obliterate, or remove the identity,
+  including the vehicle identification number or derivative thereof, of
+  such vehicle or vehicle part and to distribute, sell, or dispose of such
+  vehicle or vehicle part in interstate or foreign commerce.'.
+  (c) MAJOR REPLACEMENT PART- Section 601(8) (15 U.S.C. 2021(8)) is amended
+  to read as follows:
+  `(8) The term `major replacement part' means any major part--
+  `(A) which is not installed in or on a motor vehicle at the time of its
+  delivery to the first purchaser and the equitable or legal title to which
+  has not been transferred to any first purchaser, or
+  `(B) which is a customized or modified version of an original major part
+  in or on a completed motor vehicle after the manufacture of such vehicle
+  but before the time of its delivery to the first purchaser.'.
+SEC. 302. THEFT PREVENTION STANDARD.
+  Section 602 of the Motor Vehicle Information and Cost Savings Act (15
+  U.S.C. 2022) is amended--
+  (1) by amending subsection (d)(1) to read as follows:
+  `(d)(1) In the case of major parts installed by the motor vehicle
+  manufacturer, the standard under this section may not require any part to
+  have more than a single identification.', and
+  (2) by adding at the end the following:
+  `(f)(1) Within 2 years after the date of the enactment of the Anti Car Theft
+  Act of 1992, the Secretary shall promulgate a vehicle theft standard which
+  conforms to the requirements of this title and which applies with respect
+  to the covered major parts which are installed by all foreign and domestic
+  manufacturers into passenger motor vehicles (other than light-duty trucks) in
+  not to exceed one-half of the lines not designated under section 603 as high
+  theft lines. Such rule shall be effective for model years applicable to such
+  passenger motor vehicles as provided in subsection (c)(4) of this section.
+  `(2) Within 3 years after the rule under paragraph (1) is promulgated,
+  the Secretary, based on the Attorney General's finding under paragraph
+  (3), shall designate all the remaining such lines of such passenger motor
+  vehicles (other than light-duty trucks) and apply such standard to such lines
+  in conformance with the requirements of this title. Such rule shall also
+  apply to the major replacement parts for the major parts described in this
+  paragraph. Such rule shall be effective, for model years applicable to such
+  passenger motor vehicles as provided in subsection (c)(4) of this section.
+  `(3) The Attorney General shall make a finding prior to the Secretary's
+  initiation and promulgation of a rule under paragraph (2) that the rule shall
+  be promulgated unless the Attorney General finds, based upon the information
+  collected and analyzed under section 615 and such other information as the
+  Attorney General may develop (after notice and after a public hearing), that
+  requiring such additional parts marking for all of the applicable passenger
+  motor vehicles would not substantially inhibit chop shop operations and
+  vehicle thefts. The Attorney General shall also take into account as part
+  of the record additional costs, effectiveness, competition, and available
+  alternatives factors. The Attorney General shall transmit the finding and
+  the record upon which the finding is based to the Secretary. Such finding
+  and record shall be a part of the Secretary's rulemaking record.
+  `(4) The Attorney General of the United States shall by December 31,
+  1999, determine, after notice and a public hearing, whether one or both
+  rules promulgated under this subsection have been an effective means to
+  substantially inhibit the operation of chop shops and vehicle theft,
+  taking into account the additional cost, competition, and available
+  alternatives. The Attorney General shall base his determination on
+  information collected and analyzed under section 615, the 3-year and
+  5-year reports issued by the Secretary under this title, and such other
+  information as he may develop and include in the public record. He shall
+  take into consideration the effectiveness, extent of use, and the extent to
+  which civil and criminal penalties under section 610(b) of this title and
+  18 U.S.C. 2322 regarding chop shops have been effective in substantially
+  inhibiting chop shop operations and vehicle theft. The Attorney General
+  shall promptly transmit his finding to the Secretary. If the determination
+  is that one or both rules have not been an effective means to substantially
+  inhibit chop shop operation and vehicle theft, the Secretary shall within
+  180 days after receipt of such finding terminate by order 1 or both of
+  the rules promulgated under this subsection effective the next model year
+  following the issuance of such order.
+  `(5) The Attorney General shall make a separate determination by December
+  31, 1999, after notice and a public hearing, as to whether the antitheft
+  devices for which an exemption under section 605 is authorized are an
+  effective substitute for parts marking in substantially inhibiting vehicle
+  theft, taking into account the additional cost, competition, and available
+  alternatives. If the Attorney General determines that such antitheft devices
+  are an effective substitute for parts marking in substantially inhibiting
+  vehicle theft, the Secretary shall continue to grant exemptions under
+  section 605 at the level authorized prior to the date of the enactment of
+  the Anti Car Theft Act of 1992 or at the level authorized for model year
+  2000, as determined by the Attorney General. Nothing in this paragraph
+  affects exemptions granted in model year 2000 or earlier to any manufacturer.
+  `(6) The Secretary and the Attorney General shall keep the appropriate
+  legislative committees of Congress with jurisdiction over this Act and
+  18 U.S.C. 2322 informed about the actions taken or planned under this
+  subsection.
+  `(g) The Secretary is authorized to periodically redetermine and establish
+  by rule the median theft rate under subsection (a)(1), but not more than
+  every 2 years.'.
+SEC. 303. DESIGNATION OF HIGH THEFT VEHICLE LINES AND PARTS.
+  Section 603 of the Motor Vehicle Information and Cost Savings Act (15
+  U.S.C. 2023) is amended--
+  (1) by striking in subsection (a)(1)(A) `in which the final standard is
+  promulgated' and inserting in lieu thereof `in which the Anti Car Theft
+  Act of 1992 is enacted';
+  (2) by striking out paragraph (3) of subsection (a) and by redesignating
+  paragraphs (4) and (5) as paragraphs (3) and (4), respectively;
+  (3) by striking `or (3)' in redesignated paragraphs (3) and (4) of subsection
+  (a);
+  (4) by adding at the end of subsection (a) (as amended by paragraph (2))
+  the following:
+  `(5) Any motor vehicle line subject, on the date of enactment of the Anti Car
+  Theft Act of 1992, to parts marking requirements under section 602 and this
+  section shall continue to be subject to such requirements unless such motor
+  vehicle line becomes exempt from such requirements under section 605.', and
+  (5) by striking paragraph (4) of subsection (b) and redesignating paragraph
+  (5) as paragraph (4).
+SEC. 304. LIMITED EXEMPTION FOR NEW VEHICLES EQUIPPED WITH EFFECTIVE ANTITHEFT
+AS ORIGINAL EQUIPMENT.
+  (a) CONTINUING CURRENT LAW- The second sentence of section 605(a)(2) of
+  the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2025(a)(2))
+  is amended by inserting `through model year 1996' after `model year'.
+  (b) MODEL YEARS AFTER MODEL YEAR 1996- Section 605(a)(2) of the Motor Vehicle
+  Information and Cost Savings Act (15 U.S.C. 2025(a)(2)) is amended by adding
+  at the end the following: `For model year 1997 through model year 2000,
+  the Secretary may grant such an exemption for not more than 1 additional
+  line of any manufacturer and such exemption shall not affect the validity
+  of the exemption of any line previously exempted under this paragraph. For
+  model years subsequent to 2000, the number of lines for which the Secretary
+  may grant such an exemption (if any) shall be determined by the Attorney
+  General under section 602(f)(5).
+SEC. 305. PROHIBITED ACTS.
+  (a) RULES- Section 610(a)(2) of the Motor Vehicle Information and Cost
+  Savings Act (as so redesignated by section 306 of this Act) is amended by
+  inserting `or Attorney General' after `Secretary'.
+  (b) CHOP SHOPS- Section 610 of the Motor Vehicle Information and Cost
+  Savings Act (as so redesignated by section 306 of this Act) (15 U.S.C. 2027)
+  is amended by adding at the end the following:
+  `(c)(1) It shall be unlawful for any person to knowingly own, operate,
+  maintain, or control a chop shop or conduct operations in a chop shop of
+  any kind or transport by any means any passenger motor vehicle or passenger
+  motor vehicle part to or from a chop shop.
+  `(2) The Secretary shall, as appropriate and in consultation with the
+  Attorney General, in the case of any person who violates paragraph (1),
+  commence a civil action for permanent or temporary injunction to restrain
+  such violation or the Secretary shall assess and recover a civil penalty
+  of not more than $100,000 per day for each such violation, or both.'.
+SEC. 306. VERIFICATION.
+  (a) IN GENERAL- Title VI of the Motor Vehicle Information and Cost Savings
+  Act is amended by redesignating sections 607 through 614 as sections
+  610 through 617, respectively, by striking in section 602(e) `and 612'
+  and inserting `and 615', and by inserting after section 606 the following:
+`VERIFICATION OF VEHICLE AS LEGAL SALVAGE OR JUNK VEHICLE
+  `SEC. 607. (a) Any person engaged in business as an insurance carrier to
+  sell comprehensive insurance coverage for motor vehicles shall, if such
+  carrier obtains possession of and transfers a junk motor vehicle or a
+  salvage motor vehicle--
+  `(1) verify, in accordance with procedures established by rule under
+  section 609 by the Attorney General and in consultation with the Secretary
+  of Transportation, whether that motor vehicle is reported as stolen, and
+  `(2) provide verification to whomever such carrier transfers or sells any
+  such salvage or junk motor vehicle identifying the vehicle identification
+  number or derivative thereof of such vehicle and verifying that such
+  vehicle has not been reported as stolen or, if reported as stolen, that
+  such insurance carrier has recovered the vehicle and has proper legal
+  title to the vehicle.
+For purposes of paragraph (2), the term `vehicle identification number'
+means a unique identification number assigned to a passenger motor vehicle
+by a manufacturer in compliance with applicable regulations or a derivative
+thereof. Nothing in this paragraph shall be construed to prohibit such carrier
+from transferring a motor vehicle if, within a reasonable period of time
+during normal business operations (as determined by the Attorney General
+under section 609 of this title) using reasonable efforts, such carrier
+has not received a determination under section 609 that the vehicle has not
+been reported as stolen or to otherwise determine whether such vehicle has
+been reported as stolen, except that such carrier shall provide a written
+certification of such lack of determination.
+  `(b) The Attorney General, in consultation with the Secretary, shall
+  promulgate such regulations as are needed to ensure that verification
+  performed and provided by insurance carriers under subsection (a)(2)
+  is uniform, effective, and resistant to fraudulent use.'.
+  (b) EFFECTIVE DATE- The regulations required by section 607(b) of the
+  Motor Vehicle Information and Cost Savings Act shall be promulgated
+  within 6 months after the date of the enactment of this subsection. The
+  amendment made by subsection (a) shall take effect within 3 months after
+  such regulations are promulgated, but not before the system in section
+  609 of the Motor Vehicle Information and Cost Savings Act is operational.
+  (c) PARTS- Title VI of such Act, as amended by subsection (a), is amended
+  by inserting after section 607 the following new section:
+`PARTS
+  `SEC. 608. (a) No person engaged in the business of salvaging, dismantling,
+  recycling, or repairing passenger motor vehicles shall knowingly sell or
+  distribute in commerce or transfer or install a major part marked with an
+  identification number without--
+  `(1) first determining, through a procedure established by rule by the
+  Attorney General in consultation with the Secretary of Transportation
+  under section 609 that such major part has not been reported as stolen; and
+  `(2) providing the purchaser or transferee with a verification identifying
+  the vehicle identification number or derivative thereof of such major part,
+  and verifying that such major part has not been reported as stolen.
+  `(b) The Attorney General, in consultation with the Secretary of
+  Transportation, shall promulgate such regulations as are needed to ensure
+  that verifications provided by persons under subsection (a)(2) are uniform,
+  effective, and resistant to fraudulent use.
+  `(c) Subsection (a) shall not apply to a person who is the manufacturer
+  of the major part, who has purchased the major part directly from the
+  manufacturer, who has received a verification from an insurance carrier
+  pursuant to section 607 that the motor vehicle from which such major part is
+  derived  has not been reported as stolen, or that such carrier has failed,
+  in accordance with section  607, to determine whether such vehicle has
+  been stolen. Such person shall be required to provide such verification
+  to any person to whom such vehicle, or any major part of such vehicle,
+  is thereafter transferred or sold in commerce. The Attorney General shall
+  promulgate regulations to implement this section.'.
+  (d) EFFECTIVE DATE- The amendment made by subsection (c) shall be effective
+  on the date that the system required by section 609 is established.
+  (e) NATIONAL STOLEN AUTO PART INFORMATION SYSTEM- Title VI of such Act,
+  as amended by subsection (c), is amended by inserting after section 608
+  the following new section:
+`national stolen auto part information system
+  `SEC. 609. (a) The Attorney General shall, within 9 months of the date of
+  the enactment of the Anti Car Theft Act of 1992, maintain in the National
+  Crime Information Center an information system containing the identification
+  numbers of stolen passenger motor vehicles and stolen passenger motor
+  vehicle parts. The Attorney General shall also consult with State and
+  local law enforcement agencies in the establishment of such system. The
+  Attorney General shall also consult with the National Crime Information
+  Center Policy Advisory Board to ensure the security of the information
+  in such system and that such system will not compromise the security of
+  stolen vehicle and vehicle parts information in such information system.
+  `(b) The Attorney General shall specify procedures by rule by which
+  individuals or entities seeking to transfer a vehicle or vehicle parts may
+  obtain a determination whether a part is listed in the system as stolen. If
+  the Attorney General determines that the National Crime Information
+  Center is not able to perform the functions of the information system
+  required under subsection (a), the Attorney General shall enter into an
+  agreement for the operation of such a system separate from the National
+  Crime Information Center.
+  `(c) The information system under subsection (a) shall, at a minimum,
+  include the following information pertaining to each passenger motor
+  vehicle reported to a law enforcement authority as stolen and not recovered:
+  `(1) The vehicle identification number of such passenger motor vehicle.
+  `(2) The make and model year of such passenger motor vehicle.
+  `(3) The date on which the passenger motor vehicle was reported as stolen.
+  `(4) The location of the law enforcement authority that received the
+  reports of the passenger motor vehicle's theft.
+  `(5) If the passenger motor vehicle at the time of its theft contained parts
+  bearing identification numbers or the derivative thereof different from
+  the vehicle identification number of the stolen passenger motor vehicle,
+  the identification numbers of such parts.
+  `(d) ADVISORY COMMITTEE-
+  `(1) IN GENERAL- The National Stolen Auto Part Information System to be
+  maintained under subsection (a) is to be developed by the Attorney General
+  with the advice and recommendation of the advisory committee established
+  under paragraph (2).
+  `(2) ESTABLISHMENT- Not later than 60 days after the date of the enactment
+  of this Act, the Attorney General shall establish in the Department of
+  Justice and appoint an advisory committee with respect to the National
+  Stolen Auto Part Information System to be maintained under subsection (a).
+  `(3) MEMBERSHIP- The advisory committee established under paragraph (2)
+  shall be composed of 10 members as follows:
+  `(A) The Attorney General shall serve as the chairperson of the advisory
+  committee.
+  `(B) The Secretary of Transportation.
+  `(C) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the law enforcement community at the State level.
+  `(D) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the law enforcement community at the local level.
+  `(E) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the automotive recycling industry.
+  `(F) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the automotive repair industry.
+  `(G) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the automotive rebuilders industry.
+  `(H) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the automotive parts suppliers industry.
+  `(I) One individual appointed by the Attorney General who is qualified to
+  represent the interests of the insurance industry.
+  `(J) One individual appointed by the Attorney General who is qualified to
+  represent the interests of consumers.
+  `(4) DUTIES- The advisory committee established under paragraph (2) shall
+  make recommendations regarding--
+  `(A) the development and implementation of the National Stolen Auto Part
+  Information System, and
+  `(B) the development and implementation of a verification system as required
+  by section 607.
+  `(5) REPORT- Not later than 6 months after the date of the enactment
+  of the Anti Car Theft Act of 1992, the advisory committee established
+  under paragraph (2) shall submit to the Attorney General, the Secretary
+  of Transportation, and the Congress a report containing the committee's
+  recommendations.'.
+  `(e) Upon request by an insurance carrier, a person lawfully selling or
+  distributing in interstate commerce passenger motor vehicle parts, or an
+  individual or enterprise engaged in the business of repairing passenger motor
+  vehicles, the Attorney General, or the entity or entities designated by the
+  Attorney General, shall immediately provide such insurance carrier or person
+  with a determination as to whether the information system under subsection
+  (a) contains a record of an passenger motor vehicle or a passenger motor
+  vehicle part bearing a particular vehicle identification number or derivative
+  thereof having been reported stolen. The Attorney General may require such
+  verification as the Attorney General deems appropriate to ensure that the
+  request is legitimate and will not compromise the security of the system.
+  `(f) There are authorized to be appropriated such sums as may be necessary to
+  carry out this section. The information system established under subsection
+  (a) shall be effective as provided in the rules promulgated by the Attorney
+  General.'.
+  (e) STUDY- Section 617 of the Motor Vehicle Information and Cost Savings
+  Act (as so redesignated) is amended in subsection (a)(1) by striking
+  `after the date of the enactment of this title' and in subsection (b)(1)
+  by striking `after the promulgation of the standard required by this title'
+  and inserting in each place `after the date of the enactment of the Anti
+  Car Theft Act of 1992'.
+TITLE IV--EXPORT OF STOLEN AUTOMOBILES
+SEC. 401. RANDOM CUSTOMS INSPECTIONS FOR STOLEN AUTOMOBILES BEING EXPORTED.
+  Part VI of title IV of the Tariff Act of 1930 is amended by inserting
+  after section 646 the following new sections:
+`SEC. 646A. RANDOM CUSTOMS INSPECTIONS FOR STOLEN AUTOMOBILES BEING EXPORTED.
+  `The Commissioner of Customs shall direct customs officers to conduct at
+  random inspections of automobiles, and of shipping containers that may
+  contain automobiles that are being exported, for purposes of determining
+  whether such automobiles were stolen.
+`SEC. 646B. EXPORT REPORTING REQUIREMENT.
+  `The Commissioner of Customs shall require all persons or entities exporting
+  used automobiles, including automobiles exported for personal use, by
+  air or ship to provide to the Customs Service, at least 72 hours before
+  the export, the vehicle identification number of each such automobile and
+  proof of ownership of such automobile. The Commissioner shall establish
+  specific criteria for randomly selecting used automobiles scheduled to be
+  exported, consistent with the risk of stolen automobiles being exported
+  and shall check the vehicle identification number of each automobile
+  selected pursuant to such criteria against the information in the National
+  Crime Information Center to determine whether such automobile has been
+  reported stolen. At the request of the Director of the Federal Bureau of
+  Investigation, the Commissioner shall make available to the Director all
+  vehicle identification numbers obtained under this section.'.
+SEC. 402. PILOT STUDY AUTHORIZING UTILITY OF NONDESTRUCTIVE EXAMINATION SYSTEM.
+  The Secretary of the Treasury, acting through the Commissioner of Customs,
+  shall conduct a pilot study of the utility of a nondestructive examination
+  system to be used for inspection of containers that may contain automobiles
+  leaving the country for the purpose of determining whether such automobiles
+  have been stolen.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

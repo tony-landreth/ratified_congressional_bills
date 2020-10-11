@@ -1,0 +1,206 @@
+ 
+--H.R.3598--
+H.R.3598
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend title 49, United States Code, to provide for verification of weights,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Intermodal Safe Container Transportation
+  Act of 1992'.
+SEC. 2. CERTIFICATION OF WEIGHTS.
+  (a) IN GENERAL- Subchapter I of chapter 5 of title 49, United States Code,
+  is amended by adding at the end the following new section:
+`Sec. 508. Certification of weights and description
+  `(a) NOTIFICATION AND CERTIFICATION-
+  `(1) PRIOR NOTIFICATION- Before the time any person tenders to an initial
+  carrier any loaded container or trailer for intermodal transportation having
+  a projected gross cargo weight (inclusive of packing material and pallets)
+  of more than 10,000 pounds, such person shall give such carrier written
+  notification of such gross cargo weight and a reasonable description of the
+  contents of the container or trailer. The notification may be transmitted
+  electronically.
+  `(2) CERTIFICATION- At or before the time of tendering to an initial
+  carrier for intermodal transportation of a container or trailer to which
+  paragraph (1) applies or of a loaded container or trailer having an actual
+  gross cargo weight (inclusive of packing material and pallets) of more than
+  10,000 pounds, the person tendering the container or trailer shall certify
+  to the carrier in writing the actual gross cargo weight and a reasonable
+  description of the contents of the container or trailer.
+  `(3) VIOLATION- After the date on which the Secretary of Transportation
+  issues final regulations to enforce this section, it shall be a violation
+  of this section for any person tendering a loaded container or trailer to
+  fail to comply with paragraph (1) or (2) or to provide false or erroneous
+  information in a written certification required by paragraph (2).
+  `(4) LIMITATION ON APPLICABILITY- For purposes of this section, a carrier,
+  agent of a carrier, broker, customs broker, freight forwarder, warehouseman,
+  and terminal operator shall not be considered to be a person tendering
+  a loaded container or trailer to an initial carrier, unless the carrier,
+  agent, broker, customs broker, freight forwarder, warehouseman, or terminal
+  operator assumes legal responsibility for the loading of property into
+  the container or trailer.
+  `(b) FORWARDING INFORMATION TO SUBSEQUENT CARRIERS-
+  `(1) IN GENERAL- It shall be a violation of this section for a carrier,
+  agent of a carrier, broker, customs broker, freight forwarder, warehouseman,
+  or terminal operator to fail to forward the certification of actual gross
+  cargo weight and reasonable description of the contents of a loaded
+  container or trailer provided under subsection (a)(2) to a subsequent
+  carrier transporting the container or trailer in intermodal transportation.
+  `(2) LIMITATION ON INTERPRETATION OF CARRIER FORWARDING INFORMATION-
+  The forwarding of information under paragraph (1) by a carrier, agent
+  of a carrier, broker, customs broker, freight forwarder, warehouseman,
+  or terminal operator shall not constitute, or in any way be construed as,
+  a verification or affirmation by the carrier, agent, broker, customs broker,
+  freight forwarder, warehouseman, or terminal operator of the accuracy or
+  completeness of such information.
+  `(c) UNLAWFUL COERCION- It shall be unlawful--
+  `(1) for any person to coerce or attempt to coerce a person participating
+  in intermodal transportation to transport a loaded container or trailer
+  having an actual gross cargo weight of more than 10,000 pounds (inclusive
+  of packing materials and pallets) before the certification required by
+  subsection (a)(2) has been provided; and
+  `(2) for any person, knowing that the weight of the loaded container
+  or trailer or the weight of the tractor-trailer combination carrying
+  the container or trailer in intermodal transportation is in excess of
+  that permitted by applicable State law, to coerce or attempt to coerce
+  any carrier--
+  `(A) to transport the container or trailer; or
+  `(B) to operate the tractor-trailer combination;
+in violation of such law.
+  `(d) DUTY OF MOTOR CARRIER- It shall be unlawful for a motor carrier (as such
+  term is defined in section 10102 of this title) to provide transportation
+  of a loaded container or trailer to which subsection (a)(2) applies prior
+  to receiving the certification required by subsection (a)(2).
+  `(e) LIMITATION ON APPLICABILITY TO CARRIERS- The provisions of subsections
+  (a) and (c) shall not apply to a carrier when the carrier is transferring
+  a loaded container or trailer to other carriers in the course of intermodal
+  transportation, unless the carrier is also the person tendering the loaded
+  container or trailer to the initial carrier.
+  `(f) STATE ENFORCEMENT- A State is authorized to enact legislation to
+  enable the State or a political subdivision of the State--
+  `(1) to assess fines and penalties for violations of State highway weight
+  laws and regulations by a tractor-trailer combination carrying a loaded
+  container or trailer for which a certification is required under subsection
+  (a)(2) against the person tendering to the initial carrier the loaded
+  container or trailer; and
+  `(2) to impound the container or trailer until such fines and penalties
+  have been paid by the owners or beneficial owners of the contents of
+  the container or trailer or the person tendering the loaded container or
+  trailer to the initial carrier;
+in any case in which the fines or penalties result from providing false or
+erroneous information in a written certification in violation of subsection
+(a)(3).
+  `(g) LIENS-
+  `(1) IN GENERAL- If a carrier or person involved in the intermodal
+  transportation of a loaded container or trailer for which a certification
+  is required under subsection (a)(2) must under State law post bond or pay
+  any fines, penalties, costs, expenses, or interest resulting from providing
+  false or erroneous information in a written certification with respect to
+  the container or trailer or the contents thereof to the initial carrier in
+  violation of subsection (a)(3), the carrier or other person shall have a
+  lien against such contents equivalent to the amount of such bond or fines,
+  penalties, costs, expenses, or interest incurred by the carrier or other
+  person until the carrier or other person has received a payment of such
+  amount from the owner or beneficial owner of the contents or from the
+  person responsible for making the certification.
+  `(2) LIMITATIONS-
+  `(A) LIMITATION ON DISPOSITION OF CONTENTS- A lien under this subsection
+  shall not authorize a carrier or other person to sell or otherwise
+  dispose of the contents of a loaded container or trailer until the person
+  who tendered the container or trailer to the initial carrier is given a
+  reasonable opportunity to determine responsibility for the bond or fines,
+  penalties, costs, expenses, or interest.
+  `(B) TREATMENT OF CERTAIN OWNERS AND BENEFICIAL OWNERS- For purposes
+  of this subsection, an owner or beneficial owner of the contents of a
+  container or trailer or a person tendering a container or trailer to the
+  initial carrier shall not be treated as a carrier or person involved in
+  the intermodal transportation of the container or trailer.
+  `(C) LIMITATION ON APPLICABILITY- The provisions of this subsection and
+  subsection (f)(2) shall not apply to a container or trailer the contents
+  of which are perishable agricultural commodities (as such term is defined
+  in the Perishable Agricultural Commodities Act, 1930).
+  `(h) LIMITATION ON STATUTORY CONSTRUCTION- This section  shall not be
+  construed as creating any obligation or responsibility for the person
+  tendering the loaded container or trailer to the initial carrier to ensure
+  that the initial carrier or any other carrier involved in the intermodal
+  transportation will comply with any State statutes or regulations prescribing
+  weight limitations for highway transportation, beyond the requirements
+  set forth in this section.'.
+  (b) ENFORCEMENT- Section 521(b)(2)(A) of such title is amended by inserting
+  `or which is a violation of section 508 of this title' after `Act of 1984'.
+  (c) DEFINITIONS- Section 501(a) of such title is amended by adding at the
+  end the following new paragraphs:
+  `(4) `beneficial owner' means a person who does not have title to property
+  but has ownership rights in the property. For purposes of this paragraph,
+  a trustee of property in transit from an overseas point of origin who is
+  domiciled in or is doing business in the United States shall be treated as a
+  beneficial owner of such property. A carrier, agent of a carrier, broker,
+  customs broker, freight forwarder, warehouseman, or terminal operator
+  providing or arranging for any portion of intermodal transportation of
+  property shall in no case be a beneficial owner of such property, for
+  purposes of this paragraph, solely by reason of providing or arranging
+  for such transportation.
+  `(5) `carrier' means--
+  `(A) a motor carrier, water carrier, and rail carrier (as such terms are
+  defined in section 10102 of this title), and
+  `(B) an ocean common carrier (as such term is defined in section 3 of the
+  Shipping Act of 1984 (46 U.S.C. App. 1702)),
+providing transportation of property in commerce.
+  `(6) `container' has the meaning given the term `freight container' by the
+  International Standards Organization in Series 1, Freight Containers, 3rd
+  Edition (reference number IS0668-1979(E)), including successive revisions
+  thereto, and similar containers that are used in providing transportation
+  in interstate commerce.
+  `(7) `initial carrier' means the first carrier transporting a loaded
+  container or trailer in intermodal transportation.
+  `(8) `intermodal transportation' means successive carriage of a loaded
+  container or trailer from an origin point to a destination point by more
+  than one mode of transportation in interstate or foreign commerce. Such
+  term shall include carriage by more than one mode of transportation in
+  interstate or foreign commerce both under a single bill of lading and
+  under separate bills of lading.
+  `(9) `trailer' means a nonpower, cargo carrying, trailing unit which is
+  designed for use in combination with a truck tractor.'.
+  (d) REGULATIONS- The Secretary shall initiate a proceeding to issue
+  regulations to enforce section 508 of title 49, United States Code, within
+  180 days after the date of the enactment of this Act and shall issue final
+  regulations within 270 days after such date of enactment. The Secretary
+  may establish, by regulation, exemptions to such regulations that are in
+  the public interest and consistent with the purposes of this Act.
+  (e) CONFORMING AMENDMENT TO CHAPTER ANALYSIS- The analysis for subchapter
+  I of chapter 105 of title 49, United States Code, is amended by adding at
+  the end the following new item:
+`508. Certification of weights and description.'.
+SEC. 3. DATA COLLECTION NEEDS.
+  (a) STUDY- The Secretary of Transportation shall conduct a study for the
+  purpose of--
+  (1) assessing--
+  (A) existing data and data collection needs with respect to the movement
+  in intermodal transportation of loaded containers and trailers (including
+  containers and trailers containing perishable agricultural commodities)
+  in violation of section 508 of title 49, United States Code, and State
+  highway motor vehicle weight laws;
+  (B) the legal and practical impediments to the collection of such data; and
+  (C) how these intermodal movements compare with other overweight domestic
+  highway freight movements; and
+  (2) providing legislative and other recommendations for improving the
+  collection of such data.
+  (b) CONSULTATION- In carrying out the study under this section, the
+  Secretary of Transportation shall consult with the States and shippers,
+  carriers, port authorities, and other persons involved in the intermodal
+  transportation of loaded containers and trailers.
+  (c) REPORT- Not later than 2 years after the date of the enactment of this
+  Act, the Secretary of Transportation shall transmit to the Committee on
+  Public Works and Transportation, the Committee on Energy and Commerce,
+  and the Committee on Merchant Marine and Fisheries of the House of
+  Representatives and to the appropriate committees of the Senate a report
+  on the results of the study conducted under this section, together with
+  the recommendations referred to in subsection (a).
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

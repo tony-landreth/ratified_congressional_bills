@@ -1,0 +1,175 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 2407 Enrolled Bill (ENR)]
+
+        S.2407
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To make improvements in the operation and administration of the 
+Federal courts, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Judicial Amendments Act of 1994''.
+
+SEC. 2. AMENDMENTS TO THE JUDICIARY AUTOMATION FUND.
+
+    Section 612 of title 28, United States Code, is amended--
+        (1) in subsection (a)--
+            (A) in the second sentence by inserting after ``equipment 
+        for'' the following: ``program activities included in the 
+        courts of appeals, district courts, and other judicial services 
+        account of''; and
+            (B) in the third sentence by striking out all after 
+        ``personal services'' and inserting in lieu thereof ``, support 
+        personnel in the courts and in the Administrative Office of the 
+        United States Courts, and other costs, for the effective 
+        management, coordination, operation, and use of automatic data 
+        processing equipment purchased by the Fund. In addition, all 
+        agencies of the judiciary may make deposits into the Fund to 
+        meet their automatic data processing needs in accordance with 
+        subsections (b) and (c)(2).'';
+        (2) in subsection (b)(1) by striking out ``judicial branch'' 
+    and inserting in lieu thereof ``activities funded under subsection 
+    (a) and shall include an annual estimate of any fees that may be 
+    collected under section 404 of the Judiciary Appropriations Act, 
+    1991 (Public Law 101-515; 104 Stat. 2133)'';
+        (3) in subsection (b)(2) by striking out ``judicial branch of 
+    the United States'' and inserting in lieu thereof ``activities 
+    funded under subsection (a)'';
+        (4) in subsection (c)(1)(A), by inserting after ``surplus 
+    property'' the following: ``, all fees collected after the date of 
+    the enactment of the Judicial Amendments Act of 1994 by the 
+    judiciary under section 404 of the Judiciary Appropriations Act, 
+    1991 (Public Law 101-515; 104 Stat. 2133)'';
+        (5) in subsection (e)(1)--
+            (A) by striking out ``(A)''; and
+            (B) by striking out ``$75,000,000'' and inserting in lieu 
+        thereof ``amounts estimated to be collected under subsection 
+        (c) for that fiscal year'';
+        (6) in subsection (h) by amending the subsection to read as 
+    follows:
+    ``(h) Annual Report.--
+        ``(1) In general.--The Director shall submit to the Congress an 
+    annual report on the operation of the Fund, including on the 
+    inventory, use, and acquisition of automatic data processing 
+    equipment from the Fund and the consistency of such acquisition 
+    with the plan prepared under subsection (b). The report shall set 
+    forth the amounts deposited into the Fund under subsection (c).
+        ``(2) Additional contents of report.--The annual report 
+    submitted under this subsection shall include--
+            ``(A) the specific actions taken and the progress made to 
+        improve the plan developed under subsection (b) and the long 
+        range automation plan and strategic business plan developed 
+        under subsection (k); and
+            ``(B) a comparison of planned Fund expenditures and 
+        accomplishments with actual Fund expenditures and 
+        accomplishments, and the reasons for any delays in scheduled 
+        systems development, or budget overruns.
+        ``(3) Report in year of termination of authority.--The annual 
+    report submitted under this subsection for any year in which the 
+    authority for this section is to terminate under subsection (m), 
+    shall be submitted no later than 9 months before the date of such 
+    termination.'';
+        (7) in subsection (i) by striking out all after ``Judicial 
+    Conference of the United States,'' and inserting in lieu thereof 
+    ``may transfer amounts up to $1,000,000 from the Fund into the 
+    account to which the funds were originally appropriated. Any 
+    amounts transferred from the Fund in excess of $1,000,000 in any 
+    fiscal year may only be transferred by following reprogramming 
+    procedures in compliance with section 606 of the Departments of 
+    Commerce, Justice, and State, the Judiciary, and Related Agencies 
+    Appropriations Act, 1989 (Public Law 100-459; 102 Stat. 2227).'';
+        (8) in subsection (j) in the second sentence by inserting ``in 
+    statute'' after ``not specified'';
+        (9) by redesignating subsections (k) and (l) as subsections (l) 
+    and (m), respectively, and by inserting after subsection (j) the 
+    following new subsection:
+    ``(k) Long Range Management and Business Plans.--The Director of 
+the Administrative Office of the United States Court shall--
+        ``(1) develop an overall strategic business plan which would 
+    identify the judiciary's missions, goals, and objectives;
+        ``(2) develop a long range automation plan based on the 
+    strategic business plan and user needs assessments;
+        ``(3) establish effective Administrative Office oversight of 
+    court automation efforts to ensure the effective operation of 
+    existing systems and control over developments of future systems;
+        ``(4) expedite efforts to complete the development and 
+    implementation of life cycle management standards;
+        ``(5) utilize the standards in developing the next generation 
+    of case management and financial systems; and
+        ``(6) assess the current utilization and future user 
+    requirements of the data communications network.''; and
+        (10) in subsection (m) (as redesignated under paragraph (9)) of 
+    this section--
+            (A) in the first sentence by striking out ``1994'', and 
+        inserting in lieu thereof, ``1997''; and
+            (B) in the second sentence by striking out ```Judicial 
+        Services Account''' and inserting in lieu thereof ``fund 
+        established under section 1931 of this title''.
+
+SEC. 3. COURT ARBITRATION AUTHORIZATION.
+
+    (a) Authorization of Appropriations.--Section 905 of the Judicial 
+Improvements and Access to Justice Act (28 U.S.C. 651 note) is 
+amended--
+        (1) in the first sentence by striking out ``for the fiscal year 
+    ending September 30, 1989, and for each of the succeeding 7 fiscal 
+    years,'' and inserting in lieu thereof ``for each of the fiscal 
+    years 1994 through 1997''; and
+        (2) in the third sentence by striking out all beginning with 
+    ``, except that'' through ``this Act''.
+    (b) Removal of Repealer.--Section 906 of the Judicial Improvements 
+and Access to Justice Act (28 U.S.C. 651 note), and the item relating 
+to such section in the table of contents contained in section 3 of such 
+Act, are repealed.
+SEC. 4. EXTENSION OF CIVIL JUSTICE EXPENSE AND DELAY REDUCTION PILOT 
+PROGRAMS.
+    Section 105 of the Civil Justice Reform Act of 1990 (28 U.S.C. 471 
+note; 104 Stat. 5097) is amended--
+        (1) in subsection (a)(1) by striking out ``4-year period'' and 
+    inserting in lieu thereof ``5-year period'';
+        (2) in subsection (b)(3)--
+            (A) in the first sentence by striking out ``3 years'' and 
+        inserting in lieu thereof ``4 years''; and
+            (B) in the second sentence by striking out ``3-year 
+        period'' and inserting in lieu thereof ``4-year period''; and
+        (3) in subsection (c)(1) by striking out ``December 31, 1995,'' 
+    and inserting in lieu thereof ``December 31, 1996,''.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

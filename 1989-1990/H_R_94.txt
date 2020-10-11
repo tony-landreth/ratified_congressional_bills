@@ -1,0 +1,260 @@
+ 
+--H.R.94--
+H.R.94
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Federal Fire Prevention and Control Act of 1974 to allow for the
+development and issuance of guidelines concerning the use and installation
+of automatic sprinkler systems and smoke detectors in places of public
+accommodation affecting commerce, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Hotel and Motel Fire Safety Act of 1990'.
+SEC. 2. FINDINGS AND PURPOSE.
+ (a) FINDINGS- Congress finds that--
+ (1) more than 400 Americans have lost their lives in multistory hotel fires
+ over the last 5 years;
+ (2) when properly installed and maintained, automatic sprinklers and smoke
+ detectors provide the most effective safeguards against the loss of life
+ and property from fire;
+ (3) automatic sprinklers and smoke detectors should supplement and not
+ supplant other fire protection measures, including existing requirements
+ for fire resistive walls and fire retardant furnishings;
+ (4) some State and local governments and the hotel industry need to act
+ more rapidly to require the installation and use of automatic sprinkler
+ systems in hotels; and
+ (5) through the United States Fire Administration and the Center for Fire
+ Research, the Federal Government has helped to develop and promote the use of
+ residential sprinkler systems and other means of fire prevention and control.
+ (b) PURPOSE- It is the purpose of this Act to save lives and protect property
+ by promoting fire and life safety in hotels, motels, and all places of
+ public accommodation affecting commerce.
+SEC. 3. HOTEL AND MOTEL FIRE PREVENTION AND CONTROL.
+ (a) IN GENERAL- The Federal Fire Prevention and Control Act of 1974
+ (15 U.S.C. 2201 et seq.) is amended by adding at the end the following
+ new sections:
+`LISTINGS OF CERTIFIED PLACES OF PUBLIC ACCOMMODATION
+ `SEC. 28. (a) SUBMISSIONS BY STATES- (1) Not later than 2 years after
+ the date of enactment of this section, each State shall, under procedures
+ formulated by the Director, submit to the Director a list of those places
+ of public accommodation affecting commerce located in the State which the
+ Governor of the State or his designee certifies meet the requirements of
+ the guidelines described in section 29.
+ `(2) The Director shall formulate procedures under which each State shall
+ periodically update the list submitted pursuant to paragraph (1).
+ `(b) COMPILATION AND DISTRIBUTION OF MASTER LIST- (1) Not later than 60 days
+ after the expiration of the 2-year period referred to in subsection (a),
+ the Director shall compile and publish in the Federal Register a national
+ master list of all of the places of public accommodation affecting commerce
+ located in each State that meet the requirements of the guidelines described
+ in section 29, and shall distribute such list to each agency of the Federal
+ Government and take steps to make the employees of such agencies aware of
+ its existence and contents.
+ `(2) The Director shall periodically update the national master list compiled
+ pursuant to paragraph (1) to reflect changes in the State lists submitted to
+ the Director pursuant to subsection (a), and shall periodically redistribute
+ the updated master list to each agency of the Federal Government.
+ `(3) For purposes of this subsection, the term `agency' has the meaning
+ given to it under section 5701(1) of title 5, United States Code.
+`FIRE PREVENTION AND CONTROL GUIDELINES FOR PLACES OF PUBLIC ACCOMMODATION
+ `SEC. 29. (a) CONTENTS OF GUIDELINES- The guidelines referred to in sections
+ 28 and 30 consist of--
+ `(1) a requirement that hard-wired, single-station smoke detectors be
+ installed in accordance with National Fire Protection Association Standard
+ 74 in each guest room in each place of public accommodation affecting
+ commerce; and
+ `(2) a requirement that an automatic sprinkler system be installed in
+ accordance with National Fire Protection Association Standard 13 or 13-R,
+ whichever is appropriate, in each place of public accommodation affecting
+ commerce except those places that are 3 stories or lower.
+ `(b) EFFECT ON STATE AND LOCAL LAW- The provisions of this section shall
+ not be construed to limit the power of any State or political subdivision
+ thereof to implement or enforce any law, rule, regulation, or standard
+ concerning fire prevention and control.
+ `(c) DEFINITIONS- For purposes of this section, the following definitions
+ shall apply:
+ `(1) The term `smoke detector' means an alarm that is designed to respond
+ to the presence of visible or invisible particles of combustion.
+ `(2) The term `automatic sprinkler system' means an electronically supervised,
+ integrated system of piping to which sprinklers are attached in a systematic
+ pattern, and which, when activated by heat from a fire, will protect human
+ lives by discharging water over the fire area, and by providing appropriate
+ warning signals (to the extent such signals are required by Federal, State,
+ or local laws or regulations) through the building's fire alarm system.
+`DISSEMINATION OF FIRE PREVENTION AND CONTROL INFORMATION
+ `SEC. 30. The Director, acting through the Administrator, is authorized
+ to take steps to encourage the States to promote the use of automatic
+ sprinkler systems and automatic smoke detection systems, and to disseminate
+ to the maximum extent possible information on the life safety value and
+ use of such systems. Such steps may include, but need not be limited to,
+ providing copies of the guidelines described in section 29 and of the
+ master list compiled under section 28(b) to Federal agencies, State and
+ local governments, and fire services throughout the United States, and
+ making copies of the master list compiled under section 28(b) available
+ upon request to interested private organizations and individuals.'.
+ (b) DEFINITIONS- (1) Section 4 of the Federal Fire Prevention and Control
+ Act of 1974 (15 U.S.C. 2203) is amended by redesignating paragraphs (4) and
+ (5) as paragraphs (5) and (6), respectively, by redesignating paragraphs
+ (6) and (7) as paragraphs (8) and (9), respectively, and by inserting
+ immediately after paragraph (3) the following new paragraph:
+ `(4) `Director' means the Director of the Federal Emergency Management
+ Agency;'.
+ (2) Section 4 of such Act (as amended by paragraph (1)) is further amended by
+ inserting immediately after paragraph (6), as so redesignated, the following
+ new paragraph:
+ `(7) `place of public accommodation affecting commerce' means any inn, hotel,
+ or other establishment not owned by the Federal Government that provides
+ lodging to transient guests, except that such term does not include an
+ establishment treated as an apartment building for purposes of any State
+ or local law or regulation or an establishment located within a building
+ that contains not more than 5 rooms for rent or hire and that is actually
+ occupied as a residence by the proprietor of such establishment;'.
+SEC. 4. ADHERENCE TO FIRE SAFETY GUIDELINES IN ESTABLISHING RATES AND
+DISCOUNTS FOR LODGING EXPENSES.
+ (a) AMENDMENT TO TITLE 5- Subchapter I of chapter 57 of title 5, United
+ States Code, is amended by inserting immediately after section 5707 the
+ following new section:
+`Sec. 5707a. Adherence to fire safety guidelines in establishing rates and
+discounts for lodging expenses
+ `(a) Studies or surveys conducted for the purposes of establishing per diem
+ rates for lodging expenses under this chapter shall be limited to places of
+ public accommodation that meet the requirements of the fire prevention and
+ control guidelines described in section 29 of the Federal Fire Prevention
+ and Control Act of 1974. The provisions of this subsection shall not apply
+ with respect to studies and surveys that are conducted in any jurisdiction
+ that is not a State as defined in section 4 of the Federal Fire Prevention
+ and Control Act of 1974.
+ `(b) The Administrator of General Services may not include in any directory
+ which lists lodging accommodations any hotel, motel, or other place of public
+ accommodation that does not meet the requirements of the fire prevention and
+ control guidelines described in section 29 of the Federal Fire Prevention
+ and Control Act of 1974.
+ `(c) The Administrator of General Services shall include in each directory
+ which lists lodging accommodations a description of the access and safety
+ devices, including appropriate emergency alerting devices, which each listed
+ place of public accommodation provides for guests who are hearing-impaired
+ or visually or physically handicapped.
+ `(d) The Administrator of General Services may take any additional actions
+ the Administrator determines  appropriate to encourage employees traveling
+ on official business to stay at places of public accommodation that meet
+ the requirements of the fire prevention and control guidelines described
+ in section 29 of the Federal Fire Prevention and Control Act of 1974.'.
+ (b) CLERICAL AMENDMENT- The table of sections at the beginning of chapter
+ 57 of title 5, United States Code, is amended by inserting immediately
+ after the item relating to section 5707 the following new item:
+`5707a. Adherence to fire safety guidelines in establishing rates and
+discounts for lodging expenses.'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ 60 days after the date of the publication in the Federal Register of the
+ master list of certified places of public accommodation maintained by the
+ Director of the Federal Emergency Management Agency pursuant to section
+ 28(b) of the Federal Fire Prevention and Control Act of 1974 (as added by
+ section 3 of this Act).
+SEC. 5. ESTABLISHMENT OF APPROVED ACCOMMODATIONS PERCENTAGE FOR FEDERAL
+AGENCIES.
+ (a) APPROVED ACCOMMODATIONS PERCENTAGE-
+ (1) IN GENERAL- Section 5707 of title 5, United States Code, is amended by
+ adding at the end the following new subsection:
+ `(d)(1) Each agency shall ensure that its approved accommodations percentage
+ for a fiscal year shall be not less than--
+ `(A) 65 percent, for the first fiscal year that begins 4 years after the
+ date of enactment of this subsection;
+ `(B) 75 percent, for the fiscal year that begins 5 years after the date of
+ enactment of this subsection; and
+ `(C) 90 percent, for the fiscal year that begins 6 years after the date of
+ enactment of this subsection and for each subsequent fiscal year.
+ `(2) In this subsection, an agency's `approved accommodations percentage'
+ for a fiscal year is the percentage determined by multiplying 100 by the
+ quotient of--
+ `(A) the total number of nights spent by civilian employees of the agency
+ (as described in section 5702(a)) for which payment was made under this
+ chapter for lodging expenses incurred in any State at any approved hotel,
+ motel, or other place of public accommodation not owned by the Federal
+ Government; divided by
+ `(B) the total number of nights spent by such employees for which payment
+ was made under this chapter for lodging expenses incurred in any State at
+ any hotel, motel, or other place of public accommodation not owned by the
+ Federal Government.
+ `(3) For purposes of this subsection, a hotel, motel, or other place of
+ public accommodation is approved if it meets the requirements of the fire
+ prevention and control guidelines described in section 29 of the Federal
+ Fire Prevention and Control Act of 1974.
+ `(4) For purposes of this subsection--
+ `(A) the term `agency' does not include the government of the District of
+ Columbia; and
+ `(B) the term `State' means any State, the District of Columbia, the
+ Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana
+ Islands, the Trust Territory of the Pacific Islands, the Virgin Islands,
+ the Canal Zone, Guam, American Samoa, or any other territory or possession.'.
+ (2) CONFORMING AMENDMENT- Section 5701 of such title is amended in the
+ matter preceding paragraph (1) by striking `For the purpose' and inserting
+ `Except as otherwise provided in section 5707(d), for the purpose'.
+ (b) GAO AUDIT OF AGENCY COMPLIANCE- Not later than 6 months after the last
+ day of the first fiscal year during which lodging expenses are subject to
+ the requirements of section 5707(d) of title 5, United States Code, as added
+ by subsection (a), and not later than 6 months after the last day of every
+ fiscal year thereafter, the Comptroller General shall conduct an audit of the
+ compliance of agencies with the requirements of section 5707(d) of title 5,
+ United States Code (as added by subsection (a)), and shall submit a report
+ to Congress describing the results of such audit.
+SEC. 6. PROHIBITING FEDERAL FUNDING OF CONFERENCES HELD AT NON-CERTIFIED
+PLACES OF PUBLIC ACCOMMODATION.
+ (a) IN GENERAL- No Federal funds may be used to sponsor or fund in whole
+ or in part a meeting, convention, conference, or training seminar that is
+ conducted in, or that otherwise uses the rooms, facilities, or services
+ of, a place of public accommodation that does not meet the requirements of
+ the fire prevention and control guidelines described in section 29 of the
+ Federal Fire Prevention and Control Act of 1974 (as added by section 3(a)
+ of this Act).
+ (b) WAIVER-
+ (1) IN GENERAL- The head of an agency of the Federal Government sponsoring
+ or funding a particular meeting, convention, conference, or training seminar
+ may waive the prohibition described in subsection (a) if the head of such
+ agency determines that a waiver of such prohibition is necessary in the
+ public interest in the case of such particular event.
+ (2) DELEGATION OF AUTHORITY- The head of an agency of the Federal Government
+ may delegate the authority provided under paragraph (1) to waive the
+ prohibition described in subsection (a) and to determine whether such a
+ waiver is necessary in the public interest to an officer or employee of the
+ agency if such officer or employee is given such authority with respect to
+ all meetings, conventions, conferences, and training seminars sponsored or
+ funded by the agency.
+ (c) NOTICE REQUIREMENTS-
+ (1) ADVERTISEMENTS AND APPLICATIONS- (A) Any advertisement for or application
+ for attendance at a meeting, convention, conference, or training seminar
+ sponsored or funded in whole or in part by the Federal Government shall
+ include a notice regarding the prohibition described in subsection (a).
+ (B) The requirement described in subparagraph (A) shall not apply in the
+ case of an event for which a head of an agency of the Federal Government,
+ pursuant to subsection (b), waives the prohibition described in subsection
+ (a).
+ (2) PROVIDING NOTICE TO RECIPIENTS OF FUNDS- (A) Each Executive department,
+ Government corporation, and independent establishment providing Federal
+ funds to non-Federal entities shall notify recipients of such funds of the
+ prohibition described in subsection (a).
+ (B) In subparagraph (A), the terms `Executive department', `Government
+ corporation', and `independent establishment' have the meanings given such
+ terms in chapter 1 of title 5, United States Code.
+ (d) EFFECTIVE DATE- The provisions of this section shall take effect on the
+ first day of the first fiscal year that begins after the expiration of the
+ 425-day period that begins on the date of the publication in the Federal
+ Register of the master list referred to in section 28(b) of the Federal
+ Fire Prevention and Control Act of 1974 (as added by section 3 of this Act).
+SEC. 7. WAIVER OF FEDERAL LIABILITY.
+ In any action for damages resulting from a fire at a place of public
+ accommodation, the Federal Government may not be found liable for the death
+ of or injury to any person or damage to any property because an officer
+ or employee of the Federal Government was negligent in carrying out any
+ requirement under this Act or the amendments made by this Act.
+SEC. 8. EFFECT ON CERTAIN REQUIREMENTS.
+ Nothing in this Act shall be construed to encourage model building code
+ organizations, or State or local governments, to reduce requirements for
+ fire resistive walls or other safety features.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,616 @@
+ 
+--H.R.2194--
+H.R.2194
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Solid Waste Disposal Act to clarify provisions concerning the
+application of certain requirements and sanctions to Federal facilities.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+TITLE I--FEDERAL FACILITY COMPLIANCE ACT
+SEC. 101. SHORT TITLE.
+  This title may be cited as the `Federal Facility Compliance Act of 1992'.
+SEC. 102. APPLICATION OF CERTAIN PROVISIONS TO FEDERAL FACILITIES.
+  (a) IN GENERAL- Section 6001 of the Solid Waste Disposal Act (42 U.S.C. 6961)
+  is amended--
+  (1) by inserting `(a) IN GENERAL- ' after `6001.';
+  (2) in the first sentence, by inserting `and management' before `in the
+  same manner';
+  (3) by inserting after the first sentence the following: `The Federal, State,
+  interstate, and local substantive and procedural requirements referred
+  to in this subsection include, but are not limited to, all administrative
+  orders and all civil and administrative penalties and fines, regardless of
+  whether such penalties or fines are punitive or coercive in nature or are
+  imposed for isolated, intermittent, or continuing violations. The United
+  States hereby expressly waives any immunity otherwise applicable to the
+  United States with respect to any such substantive or procedural requirement
+  (including, but not limited to, any injunctive relief, administrative order
+  or civil or administrative penalty or fine referred to in the preceding
+  sentence, or reasonable service charge). The reasonable service charges
+  referred to in this subsection include, but are not limited to, fees or
+  charges assessed in connection with the processing and issuance of permits,
+  renewal of permits, amendments to permits, review of plans, studies, and
+  other documents, and inspection and monitoring of facilities, as well as
+  any other nondiscriminatory charges that are assessed in connection with
+  a Federal, State, interstate, or local solid waste or hazardous waste
+  regulatory program.'; and
+  (4) by inserting after the second sentence the following: `No agent,
+  employee, or officer of the United States shall be personally liable for
+  any civil penalty under any Federal, State, interstate, or local solid
+  or hazardous waste law with respect to any act or omission within the
+  scope of the official duties of the agent, employee, or officer. An agent,
+  employee, or officer of the United States shall be subject to any criminal
+  sanction (including, but not limited to, any fine or imprisonment) under
+  any Federal or State solid or hazardous waste law, but no department,
+  agency, or instrumentality of the executive, legislative, or judicial
+  branch of the Federal Government shall be subject to any such sanction.'.
+  (b) ADMINISTRATIVE ENFORCEMENT ACTIONS- Such section is further amended
+  by adding at the end the following new subsections:
+  `(b) ADMINISTRATIVE ENFORCEMENT ACTIONS- (1) The Administrator may commence
+  an administrative enforcement action against any department, agency, or
+  instrumentality of the executive, legislative, or judicial branch of the
+  Federal Government pursuant to the enforcement authorities contained in
+  this Act.  The Administrator shall initiate an administrative enforcement
+  action against such a department, agency, or instrumentality in the same
+  manner and under the same circumstances as an action would be initiated
+  against another person.  Any voluntary resolution or settlement of such
+  an action shall be set forth in a consent order.
+  `(2) No administrative order issued to such a department, agency, or
+  instrumentality shall become final until such department, agency, or
+  instrumentality has had the opportunity to confer with the Administrator.
+  `(c) LIMITATION ON STATE USE OF FUNDS COLLECTED FROM FEDERAL GOVERNMENT-
+  Unless a State law in effect on the date of the enactment of the Federal
+  Facility Compliance Act of 1992 or a State constitution requires the funds
+  to be used in a different manner, all funds collected by a State from
+  the Federal Government from penalties and fines imposed for violation
+  of any substantive or procedural requirement referred to in subsection
+  (a) shall be used by the State only for projects designed to improve or
+  protect the environment or to defray the costs of environmental protection
+  or enforcement.'.
+  (c) EFFECTIVE DATES-
+  (1) IN GENERAL- Except as otherwise provided in paragraphs (2) and (3),
+  the amendments made by subsection (a) shall take effect upon the date of
+  the enactment of this Act.
+  (2) DELAYED EFFECTIVE DATE FOR CERTAIN MIXED WASTE- Until the date that is 3
+  years after the date of the enactment of this Act, the waiver of sovereign
+  immunity contained in section 6001(a) of the Solid Waste Disposal Act with
+  respect to civil, criminal, and administrative penalties and fines (as added
+  by the amendments made by subsection (a)) shall not apply to departments,
+  agencies, and instrumentalities of the executive branch of the Federal
+  Government for violations of section 3004(j) of the Solid Waste Disposal
+  Act involving storage of mixed waste that is not subject to an existing
+  agreement, permit, or administrative or judicial order, so long as such
+  waste is managed in compliance with all other applicable requirements.
+  (3) EFFECTIVE DATE FOR CERTAIN MIXED WASTE- (A) Except as provided in
+  subparagraph (B), after the date that is 3 years after the date of the
+  enactment of this Act, the waiver of sovereign immunity contained in section
+  6001(a) of the Solid Waste Disposal Act with respect to civil, criminal,
+  and administrative penalties and fines (as added by the amendments made by
+  subsection (a)) shall apply to departments, agencies, and instrumentalities
+  of the executive branch of the Federal Government for violations of section
+  3004(j) of the Solid Waste Disposal Act involving storage of mixed waste.
+  (B) With respect to the Department of Energy, the waiver of sovereign
+  immunity referred to in subparagraph (A) shall not apply after the date
+  that is 3 years after the date of the enactment of this Act for violations
+  of section 3004(j) of such Act involving storage of mixed waste, so long
+  as the Department of Energy is in compliance with both--
+  (i) a plan that has been submitted and approved pursuant to section 3021(b)
+  of the Solid Waste Disposal Act and which is in effect; and
+  (ii) an order requiring compliance with such plan which has been issued
+  pursuant to such section 3021(b) and which is in effect.
+  (4) APPLICATION OF WAIVER TO AGREEMENTS AND ORDERS- The waiver of sovereign
+  immunity contained in section 6001(a) of the Solid Waste Disposal Act (as
+  added by the amendments made by subsection (a)) shall take effect on the
+  date of the enactment of this Act with respect to any agreement, permit,
+  or administrative or judicial order existing on such date of enactment
+  (and any subsequent modifications to such an agreement, permit, or order),
+  including, without limitation, any provision of an agreement, permit,
+  or order that addresses compliance with section 3004(j) of such Act with
+  respect to mixed waste.
+  (5) AGREEMENT OR ORDER- Except as provided in paragraph (4), nothing in
+  this Act shall be construed to alter, modify, or change in any manner
+  any agreement, permit, or administrative or judicial order, including,
+  without limitation, any provision of an agreement, permit, or order--
+  (i) that addresses compliance with section 3004(j) of the Solid Waste
+  Disposal Act with respect to mixed waste;
+  (ii) that is in effect on the date of enactment of this Act; and
+  (iii) to which a department, agency, or instrumentality of the executive
+  branch of the Federal Government is a party.
+SEC. 103. DEFINITION OF PERSON.
+  Section 1004(15) of the Solid Waste Disposal Act (42 U.S.C. 6903(15))
+  is amended by adding the following before the period: `and shall include
+  each department, agency, and instrumentality of the United States'.
+SEC. 104. FACILITY ENVIRONMENTAL ASSESSMENTS.
+  Section 3007(c) of the Solid Waste Disposal Act (42 U.S.C. 6927(c)) is
+  amended as follows:
+  (1) The first sentence is amended by striking out `Beginning' and all that
+  follows through `undertake' and inserting in lieu thereof `The Administrator
+  shall undertake'.
+  (2) The first sentence is further amended by striking out `Federal agency'
+  and inserting in lieu thereof `department, agency, or instrumentality of
+  the United States'.
+  (3) The section is further amended by inserting after the first sentence
+  the following new sentence: `Any State with an authorized hazardous waste
+  program also may conduct an inspection of any such facility for purposes of
+  enforcing the facility's compliance with the State hazardous waste program.'.
+  (4) The section is further amended by adding at the end the following:
+  `The department, agency, or instrumentality owning or operating each such
+  facility shall reimburse the Environmental Protection Agency for the costs
+  of the inspection of the facility. With respect to the first inspection
+  of each such facility occurring after the date of the enactment of the
+  Federal Facility Compliance Act of 1992, the Administrator shall conduct
+  a comprehensive ground water monitoring evaluation at the facility, unless
+  such an evaluation was conducted during the 12-month period preceding such
+  date of enactment.'.
+SEC. 105. MIXED WASTE INVENTORY REPORTS AND PLAN.
+  (a) MIXED WASTE AMENDMENT- (1) Subtitle C of the Solid Waste Disposal Act
+  (42 U.S.C. 6921 et seq.) is amended by adding at the end the following
+  new section:
+`SEC. 3021. MIXED WASTE INVENTORY REPORTS AND PLAN.
+  `(a) MIXED WASTE INVENTORY REPORTS-
+  `(1) REQUIREMENT- Not later than 180 days after the date of the enactment of
+  the Federal Facility Compliance Act of 1992, the Secretary of Energy shall
+  submit to the Administrator and to the Governor of each State in which the
+  Department of Energy stores or generates mixed wastes the following reports:
+  `(A) A report containing a national inventory of all such mixed wastes,
+  regardless of the time they were generated, on a State-by-State basis.
+  `(B) A report containing a national inventory of mixed waste treatment
+  capacities and technologies.
+  `(2) INVENTORY OF WASTES-  The report required by paragraph (1)(A) shall
+  include the following:
+  `(A) A description of each type of mixed waste at each Department of
+  Energy facility in each State, including, at a minimum, the name of the
+  waste stream.
+  `(B) The amount of each type of mixed waste currently stored at each
+  Department of Energy facility in each State, set forth separately by
+  mixed waste that is subject to the land disposal prohibition requirements
+  of section 3004 and mixed waste that is not subject to such prohibition
+  requirements.
+  `(C) An estimate of the amount of each type of mixed waste the Department
+  expects to generate in the next 5 years at each Department of Energy
+  facility in each State.
+  `(D) A description of any waste minimization actions the Department has
+  implemented at each Department of Energy facility in each State for each
+  mixed waste stream.
+  `(E) The EPA hazardous waste code for each type of mixed waste containing
+  waste that has been characterized at each Department of Energy facility
+  in each State.
+  `(F) An inventory of each type of waste that has not been characterized
+  by sampling and analysis at each Department of Energy facility in each State.
+  `(G) The basis for the Department's determination of the applicable hazardous
+  waste code for each type of mixed waste at each Department of Energy facility
+  and a description of whether the determination is based on sampling and
+  analysis conducted on the waste or on the basis of process knowledge.
+  `(H) A description of the source of each type of mixed waste at each
+  Department of Energy facility in each State.
+  `(I) The land disposal prohibition treatment technology or technologies
+  specified for the hazardous waste component of each type of mixed waste
+  at each Department of Energy facility in each State.
+  `(J) A statement of whether and how the radionuclide content of the waste
+  alters or affects use of the technologies described in subparagraph (I).
+  `(3) INVENTORY OF TREATMENT CAPACITIES AND TECHNOLOGIES- The report required
+  by paragraph (1)(B) shall include the following:
+  `(A) An estimate of the available treatment capacity for each waste
+  described in the report required by paragraph (1)(A) for which treatment
+  technologies exist.
+  `(B) A description, including the capacity, number and location, of each
+  treatment unit considered in calculating the estimate under subparagraph (A).
+  `(C) A description, including the capacity, number and location, of
+  any existing treatment unit that was not considered in calculating the
+  estimate under subparagraph (A) but that could, alone or in conjunction
+  with other treatment units, be used to treat any of the wastes described
+  in the report required by paragraph (1)(A) to meet the requirements of
+  regulations promulgated pursuant to section 3004(m).
+  `(D) For each unit listed in subparagraph (C), a statement of the reasons why
+  the unit was not included in calculating the estimate under subparagraph (A).
+  `(E) A description, including the capacity, number, location, and estimated
+  date of availability, of each treatment unit currently proposed to increase
+  the treatment capacities estimated under subparagraph (A).
+  `(F) For each waste described in the report required by paragraph (1)(A)
+  for which the Department has determined no treatment technology exists,
+  information sufficient to support such determination and a description of
+  the technological approaches the Department anticipates will need to be
+  developed to treat the waste.
+  `(4) COMMENTS AND REVISIONS- Not later than 90 days after the date of the
+  submission of the reports by the Secretary of Energy under paragraph (1),
+  the Administrator and each State which received the reports shall submit
+  any comments they may have concerning the reports to the Department of
+  Energy. The Secretary of Energy shall consider and publish the comments
+  prior to publication of the final report.
+  `(5) REQUESTS FOR ADDITIONAL INFORMATION- Nothing in this subsection
+  limits or restricts the authority of States or the Administrator to request
+  additional information from the Secretary of Energy.
+  `(b) PLAN FOR DEVELOPMENT OF TREATMENT CAPACITIES AND TECHNOLOGIES-
+  `(1) PLAN REQUIREMENT- (A)(i) For each facility at which the Department
+  of Energy generates or stores mixed wastes, except any facility subject
+  to a permit, agreement, or order described in clause (ii), the Secretary
+  of Energy shall develop and submit, as provided in paragraph (2), a plan
+  for developing treatment capacities and technologies to treat all of
+  the facility's mixed wastes, regardless of the time they were generated,
+  to the standards promulgated pursuant to section 3004(m).
+  `(ii) Clause (i) shall not apply with respect to any facility subject
+  to any permit establishing a schedule for treatment of such wastes, or
+  any existing agreement or administrative or judicial order governing the
+  treatment of such wastes, to which the State is a party.
+  `(B) Each plan shall contain the following:
+  `(i) For mixed wastes for which treatment technologies exist, a schedule
+  for submitting all applicable permit applications, entering into contracts,
+  initiating construction, conducting systems testing, commencing operations,
+  and processing backlogged and currently generated mixed wastes.
+  `(ii) For mixed wastes for which no treatment technologies exist, a schedule
+  for identifying and developing such technologies, identifying the funding
+  requirements for the identification and development of such technologies,
+  submitting treatability study exemptions, and submitting research and
+  development permit applications.
+  `(iii) For all cases where the Department proposes radionuclide separation
+  of mixed wastes, or materials derived from mixed wastes, it shall provide
+  an estimate of the volume of waste generated by each case of radionuclide
+  separation, the volume of waste that would exist or be generated without
+  radionuclide separation, the estimated costs of waste treatment and
+  disposal if radionuclide separation is used compared to the estimated
+  costs if it is not used, and the assumptions underlying such waste volume
+  and cost estimates.
+  `(C) A plan required under this subsection may provide for centralized,
+  regional, or on-site treatment of mixed wastes, or any combination thereof.
+  `(2) REVIEW AND APPROVAL OF PLAN- (A) For each facility that is located
+  in a State (i) with authority under State law to prohibit land disposal of
+  mixed waste until the waste has been treated and (ii) with both authority
+  under State law to regulate the hazardous components of mixed waste and
+  authorization from the Environmental Protection Agency under section 3006 to
+  regulate the hazardous components of mixed waste, the Secretary of Energy
+  shall submit the plan required under paragraph (1) to the appropriate
+  State regulatory officials for their review and approval, modification,
+  or disapproval. In reviewing the plan, the State shall consider the
+  need for regional treatment facilities. The State shall consult with the
+  Administrator and any other State in which a facility affected by the plan
+  is located and consider public comments in making its determination on the
+  plan. The State shall approve, approve with modifications, or disapprove
+  the plan within 6 months after receipt of the plan.
+  `(B) For each facility located in a State that does not have the authority
+  described in subparagraph (A), the Secretary shall submit the plan required
+  under paragraph (1) to the Administrator of the Environmental Protection
+  Agency for review and approval, modification, or disapproval. A copy of
+  the plan also shall be provided by the Secretary to the State in which
+  such facility is located. In reviewing the plan, the Administrator shall
+  consider the need for regional treatment facilities. The Administrator
+  shall consult with the State or States in which any facility affected by
+  the plan is located and consider public comments in making a determination
+  on the plan. The Administrator shall approve, approve with modifications,
+  or disapprove the plan within 6 months after receipt of the plan.
+  `(C) Upon the approval of a plan under this paragraph by the Administrator
+  or a State, the Administrator shall issue an order under section 3008(a),
+  or the State shall issue an order under appropriate State authority,
+  requiring compliance with the approved plan.
+  `(3) PUBLIC PARTICIPATION- Upon submission of a plan by the Secretary of
+  Energy to the Administrator or a State, and before approval of the plan by
+  the Administrator or a State, the Administrator or State shall publish a
+  notice of the availability of the submitted plan and make such submitted
+  plan available to the public on request.
+  `(4) REVISIONS OF PLAN- If any revisions of an approved plan are proposed
+  by the Secretary of Energy or required by the Administrator or a State,
+  the provisions of paragraphs (2) and (3) shall apply to the revisions in
+  the same manner as they apply to the original plan.
+  `(5) WAIVER OF PLAN REQUIREMENT- (A) A State may waive the requirement for
+  the Secretary of Energy to develop and submit a plan under this subsection
+  for a facility located in the State if the State (i) enters into an
+  agreement with the Secretary of Energy that addresses compliance at that
+  facility with section 3004(j) with respect to mixed waste, and (ii) issues
+  an order requiring compliance with such agreement and which is in effect.
+  `(B) Any violation of an agreement or order referred to in subparagraph (A)
+  is subject to the waiver of sovereign immunity contained in section 6001(a).
+  `(c) SCHEDULE AND PROGRESS REPORTS-
+  `(1) SCHEDULE- Not later than 6 months after the date of the enactment
+  of the Federal Facility Compliance Act of 1992, the Secretary of Energy
+  shall publish in the Federal Register a schedule for submitting the plans
+  required under subsection (b).
+  `(2) PROGRESS REPORTS- (A) Not later than the deadlines specified in
+  subparagraph (B), the Secretary of Energy shall submit to the Committee
+  on Environment and Public Works of the Senate and the Committee on Energy
+  and Commerce of the House of Representatives a progress report containing
+  the following:
+  `(i) An identification, by facility, of the plans that have been submitted
+  to States or the Administrator of the Environmental Protection Agency
+  pursuant to subsection (b).
+  `(ii) The status of State and Environmental Protection Agency review and
+  approval of each such plan.
+  `(iii) The number of orders requiring compliance with such plans that are
+  in effect.
+  `(iv) For the first 2 reports required under this paragraph, an
+  identification of the plans required under such subsection (b) that the
+  Secretary expects to submit in the 12-month period following submission
+  of the report.
+  `(B) The Secretary of Energy shall submit a report under subparagraph (A)
+  not later than 12 months after the date of the enactment of the Federal
+  Facility Compliance Act of 1992, 24 months after such date, and 36 months
+  after such date.'.
+  (2) The table of contents for subtitle C of the Solid Waste Disposal Act
+  (contained in section 1001) is amended by adding at the end the following
+  new item:
+`Sec. 3021. Mixed waste inventory reports and plan.'.
+  (b) DEFINITION- Section 1004 of the Solid Waste Disposal Act (42 U.S.C. 6902)
+  is amended by adding at the end the following new paragraph:
+  `(41) The term `mixed waste' means waste that contains both hazardous waste
+  and source, special nuclear, or by-product material subject to the Atomic
+  Energy Act of 1954 (42 U.S.C. 2011 et seq.).'.
+  (c) GAO REPORT-
+  (1) REQUIREMENT- Not later than 18 months after the date of the enactment
+  of this Act, the Comptroller General shall submit to Congress a report
+  on the Department of Energy's progress in complying with section 3021(b)
+  of the Solid Waste Disposal Act.
+  (2) MATTERS TO BE INCLUDED- The report required under paragraph (1) shall
+  contain, at a minimum, the following:
+  (A) The Department of Energy's progress in submitting to the States or
+  the Administrator of the Environmental Protection Agency a plan for each
+  facility for which a plan is required under section 3021(b) of the Solid
+  Waste Disposal Act and the status of State or Environmental Protection
+  Agency review and approval of each such plan.
+  (B) The Department of Energy's progress in entering into orders requiring
+  compliance with any such plans that have been approved.
+  (C) An evaluation of the completeness and adequacy of each such plan as
+  of the date of submission of the report required under paragraph (1).
+  (D) An identification of any recurring problems among the Department of
+  Energy's submitted plans.
+  (E) A description of treatment technologies and capacity that have been
+  developed by the Department of Energy since the date of the enactment of
+  this Act and a list of the wastes that are expected to be treated by such
+  technologies and the facilities at which the wastes are generated or stored.
+  (F) The progress made by the Department of Energy in characterizing its
+  mixed waste streams at each such facility by sampling and analysis.
+  (G) An identification and analysis of additional actions that the Department
+  of Energy must take to--
+  (i) complete submission of all plans required under such section 3021(b)
+  for all such facilities;
+  (ii) obtain the adoption of orders requiring compliance with all such
+  plans; and
+  (iii) develop mixed waste treatment capacity and technologies.
+SEC. 106. PUBLIC VESSELS.
+  (a) AMENDMENT- Subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921
+  et seq.) is further amended by adding at the end the following new section:
+`SEC. 3022. PUBLIC VESSELS.
+  `(a) WASTE GENERATED ON PUBLIC VESSELS- Any hazardous waste generated on
+  a public vessel shall not be subject to the storage, manifest, inspection,
+  or recordkeeping requirements of this Act until such waste is transferred
+  to a shore facility, unless--
+  `(1) the waste is stored on the public vessel for more than 90 days after the
+  public vessel is placed in reserve or is otherwise no longer in service; or
+  `(2) the waste is transferred to another public vessel within the territorial
+  waters of the United States and is stored on such vessel or another public
+  vessel for more than 90 days after the date of transfer.
+  `(b) COMPUTATION OF STORAGE PERIOD- For purposes of subsection (a), the
+  90-day period begins on the earlier of--
+  `(1) the date on which the public vessel on which the waste was generated
+  is placed in reserve or is otherwise no longer in service; or
+  `(2) the date on which the waste is transferred from the public vessel
+  on which the waste was generated to another public vessel within the
+  territorial waters of the United States;
+and continues, without interruption, as long as the waste is stored on the
+original public vessel (if in reserve or not in service) or another public
+vessel.
+  `(c) DEFINITIONS- For purposes of this section:
+  `(1) The term `public vessel' means a vessel owned or bareboat chartered
+  and operated by the United States, or by a foreign nation, except when
+  the vessel is engaged in commerce.
+  `(2) The terms `in reserve' and `in service' have the meanings applicable
+  to those terms under section 7293 and sections 7304 through 7308 of title
+  10, United States Code, and regulations prescribed under those sections.
+  `(d) RELATIONSHIP TO OTHER LAW- Nothing in this section shall be construed
+  as altering or otherwise affecting the provisions of section 7311 of title
+  10, United States Code.'.
+  (b) TECHNICAL AMENDMENT- The table of contents for subtitle C of such Act
+  (contained in section 1001) is further amended by adding at the end the
+  following new item:
+`Sec. 3022. Public vessels.'.
+SEC. 107. MUNITIONS.
+  Section 3004 of the Solid Waste Disposal Act (42 U.S.C. 6924) is amended
+  by adding at the end the following new subsection:
+  `(y) MUNITIONS- (1) Not later than 6 months after the date of the enactment
+  of the Federal Facility Compliance Act of 1992, the Administrator shall
+  propose, after consulting with the Secretary of Defense and appropriate
+  State officials, regulations identifying when military munitions become
+  hazardous waste for purposes of this subtitle and providing for the safe
+  transportation and storage of such waste. Not later than 24 months after such
+  date, and after notice and opportunity for comment, the Administrator shall
+  promulgate such regulations. Any such regulations shall assure protection
+  of human health and the environment.
+  `(2) For purposes of this subsection, the term `military munitions'
+  includes chemical and conventional munitions.'.
+SEC. 108. FEDERALLY OWNED TREATMENT WORKS.
+  (a) AMENDMENT- Subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921
+  et seq.) is further amended by adding at the end the following new section:
+`SEC. 3023. FEDERALLY OWNED TREATMENT WORKS.
+  `(a) IN GENERAL- For purposes of section 1004(27), the phrase `but does
+  not include solid or dissolved material in domestic sewage' shall apply
+  to any solid or dissolved material introduced by a source into a federally
+  owned treatment works if--
+  `(1) such solid or dissolved material is subject to a pretreatment
+  standard under section 307 of the Federal Water Pollution Control Act
+  (33 U.S.C. 1317), and the source is in compliance with such standard;
+  `(2) for a solid or dissolved material for which a pretreatment standard has
+  not been promulgated pursuant to section 307 of the Federal Water Pollution
+  Control Act (33 U.S.C. 1317), the Administrator has promulgated a schedule
+  for establishing such a pretreatment standard which would be applicable to
+  such solid or dissolved material not later than 7 years after the date of
+  enactment of this section, such standard is promulgated on or before the
+  date established in the schedule, and after the effective date of such
+  standard the source is in compliance with such standard;
+  `(3) such solid or dissolved material is not covered by paragraph (1) or
+  (2) and is not prohibited from land disposal under subsections (d), (e),
+  (f), or (g) of section 3004 because such material has been treated in
+  accordance with section 3004(m); or
+  `(4) notwithstanding paragraphs (1), (2), or (3), such solid or dissolved
+  material is generated by a household or person which generates less than
+  100 kilograms of hazardous waste per month unless such solid or dissolved
+  material would otherwise be an acutely hazardous waste and subject to
+  standards, regulations, or other requirements under this Act notwithstanding
+  the quantity generated.
+  `(b) PROHIBITION- It is unlawful to introduce into a federally owned
+  treatment works any pollutant that is a hazardous waste.
+  `(c) ENFORCEMENT- (1) Actions taken to enforce this section shall not
+  require closure of a treatment works if the hazardous waste is removed or
+  decontaminated and such removal or decontamination is adequate, in the
+  discretion of the Administrator or, in the case of an authorized State,
+  of the State, to protect human health and the environment.
+  `(2) Nothing in this subsection shall be construed to prevent the
+  Administrator or an authorized State from ordering the closure of a
+  treatment works if the Administrator or State determines such closure is
+  necessary for protection of human health and the environment.
+  `(3) Nothing in this subsection shall be construed to affect any other
+  enforcement authorities available to the Administrator or a State under
+  this subtitle.
+  `(d) DEFINITION- For purposes of this section, the term `federally owned
+  treatment works' means a facility that is owned and operated by a department,
+  agency, or instrumentality of the Federal Government treating wastewater,
+  a majority of which is domestic sewage, prior to discharge in accordance with
+  a permit issued under section 402 of the Federal Water Pollution Control Act.
+  `(e) SAVINGS CLAUSE- Nothing in this section shall be construed as affecting
+  any agreement, permit, or administrative or judicial order, or any condition
+  or requirement contained in such an agreement, permit, or order, that is
+  in existence on the date of the enactment of this section and that requires
+  corrective action or closure at a federally owned treatment works or solid
+  waste management unit or facility related to such a treatment works.'.
+  (b) TECHNICAL AMENDMENT- The table of contents for subtitle C of such Act
+  (contained in section 1001) is further amended by adding at the end the
+  following new item:
+`Sec. 3023. Federally owned treatment works.'.
+SEC. 109. SMALL TOWN ENVIRONMENTAL PLANNING.
+  (a) ESTABLISHMENT- The Administrator of the Environmental Protection Agency
+  (hereafter referred to as the `Administrator') shall establish a program
+  to assist small communities in planning and financing environmental
+  facilities. The program shall be known as the `Small Town Environmental
+  Planning Program'.
+  (b) SMALL TOWN ENVIRONMENTAL PLANNING TASK FORCE- (1) The Administrator
+  shall establish a Small Town Environmental Planning Task Force which shall
+  be composed of representatives of small towns from different areas of the
+  United States, Federal and State governmental agencies, and public interest
+  groups. The Administrator shall terminate the Task Force not later than
+  2 years after the establishment of the Task Force.
+  (2) The Task Force shall--
+  (A) identify regulations developed pursuant to Federal environmental laws
+  which pose significant compliance problems for small towns;
+  (B) identify means to improve the working relationship between the
+  Environmental Protection Agency (hereafter referred to as the Agency)
+  and small towns;
+  (C) review proposed regulations for the protection of the environmental
+  and public health and suggest revisions that could improve the ability of
+  small towns to comply with such regulations;
+  (D) identify means to promote regionalization of environmental treatment
+  systems and infrastructure serving small towns to improve the economic
+  condition of such systems and infrastructure; and
+  (E) provide such other assistance to the Administrator as the Administrator
+  deems appropriate.
+  (c) IDENTIFICATION OF ENVIRONMENTAL REQUIREMENTS- (1) Not later than 6 months
+  after the date of the enactment of this Act, the Administrator shall publish
+  a list of requirements under Federal environmental and public health statutes
+  (and the regulations developed pursuant to such statutes) applicable to small
+  towns. Not less than annually, the Administrator shall make such additions
+  and deletions to and from the list as the Administrator deems appropriate.
+  (2) The Administrator shall, as part of the Small Town Environmental Planning
+  Program under this section, implement a program to notify small communities
+  of the regulations identified under paragraph (1) and of future regulations
+  and requirements through methods that the Administrator determines to be
+  effective to provide information to the greatest number of small communities,
+  including any of the following:
+  (A) Newspapers and other periodicals.
+  (B) Other news media.
+  (C) Trade, municipal, and other associations that the Administrator
+  determines to be appropriate.
+  (D) Direct mail.
+  (d) SMALL TOWN OMBUDSMAN- The Administrator shall establish and staff an
+  Office of the Small Town Ombudsman. The Office shall provide assistance
+  to small towns in connection with the Small Town Environmental Planning
+  Program and other business with the Agency. Each regional office shall
+  identify a small town contact. The Small Town Ombudsman and the regional
+  contacts also may assist larger communities, but only if first priority
+  is given to providing assistance to small towns.
+  (e) MULTI-MEDIA PERMITS- (1) The Administrator shall conduct a study
+  of establishing a multi-media permitting program for small towns. Such
+  evaluation shall include an analysis of--
+  (A) environmental benefits and liabilities of a multi-media permitting
+  program;
+  (B) the potential of using such a program to coordinate a small town's
+  environmental and public health activities; and
+  (C) the legal barriers, if any, to the establishment of such a program.
+  (2) Within 3 years after the date of enactment of this Act, the Administrator
+  shall report to Congress on the results of the evaluation performed in
+  accordance with paragraph (1). Included in this report shall be a description
+  of the activities conducted pursuant to subsections (a) through (d).
+  (f) DEFINITION- For purposes of this section, the term `small town' means an
+  incorporated or unincorporated community (as defined by the Administrator)
+  with a population of less than 2,500 individuals.
+  (g) AUTHORIZATION- There is authorized to be appropriated the sum of
+  $500,000 to implement this section.
+SEC. 110. CHIEF FINANCIAL OFFICER REPORT.
+  The Chief Financial Officer of each affected agency shall submit to
+  Congress an annual report containing, to the extent practicable, a detailed
+  description of the compliance activities undertaken by the agency for
+  mixed waste streams, and an accounting of the fines and penalties imposed
+  on the agency for violations involving mixed waste.
+TITLE II--METROPOLITAN WASHINGTON WASTE MANAGEMENT STUDY ACT
+SEC. 201. SHORT TITLE.
+  This title may be cited as the `Metropolitan Washington Waste Management
+  Study Act'.
+SEC. 202. FINDINGS.
+  The Congress finds that the I-95 Sanitary Landfill, in Lorton, Virginia,
+  is located on Federal land, and the ultimate responsibility for maintaining
+  environmental integrity at such landfill is on the Federal Government, as
+  well as the signatories to the July 1981 I-95 Sanitary Landfill Memorandum
+  of Understanding.
+SEC. 203. ENVIRONMENTAL IMPACT STATEMENT
+  (a) ENVIRONMENTAL IMPACT STATEMENT- Except as provided in subsection (b),
+  in order to assure environmental integrity in and around properties owned
+  by the Government of the United States, no expansion of the I-95 Sanitary
+  Landfill shall be permitted or otherwise authorized unless--
+  (1) an environmental impact statement, pursuant to the National Environmental
+  Policy Act, regarding any such proposed expansion has been completed and
+  approved by the Administrator; and
+  (2) the costs incurred in conducting and completing such environmental
+  impact statement are paid (A) from the landfill's so-called enterprise fund
+  established pursuant to the July 1981 I-95 Sanitary Landfill Memorandum of
+  Understanding, or (B) in accordance with some other payment formula based
+  on past and projected percentage of the jurisdictional usage of the landfill.
+  (b) EXCEPTION- (1) Notwithstanding subsection (a), the I-95 Sanitary Landfill
+  may be expanded for the purpose of the ash monofill planned by the parties
+  to the July 1981 I-95 Sanitary Landfill Memorandum of Understanding if
+  such monofill, subject to paragraph (2), is used solely for the disposal
+  of incinerator ash from such parties.
+  (2) The ash monofill referred to in paragraph (1) may be used for the
+  disposal of solid waste for a maximum of 30 days whenever a resource recovery
+  facility, or an incinerator and a resource recovery facility, operated
+  for or by the parties to the July 1981 I-95 Sanitary Landfill Memorandum
+  of Understanding is completely unavailable because of an emergency shutdown.
+  (c) LIMITATION- After December 31, 1995, the I-95 Sanitary Landfill,
+  including any expansions thereof, shall not be available to receive or
+  dispose of municipal or industrial waste of any kind other than incinerator
+  ash unless the conditions enumerated in subsection (a) are met.
+  (d) GENERAL- Notwithstanding any other provision of this title, the parties
+  of the July 1981 I-95 Sanitary Landfill Memorandum of Understanding,
+  together with the Federal Government, shall continue to be responsible
+  for maintaining environmental stability at the I-95 Sanitary Landfill,
+  including any expansion, in accordance with applicable laws of the United
+  States, the Commonwealth of Virginia, and the local jurisdictions in which
+  the I-95 Sanitary Landfill is located.
+SEC. 204. DEFINITIONS.
+  For purposes of this title:
+  (1) The term `expansion' includes any development or use, after May 31,
+  1991, of any lands (other than those lands which were used as a landfill
+  on or before May 31, 1991) owned by the Government of the United States
+  in and around Lorton, Virginia, for the purpose of, or use as, a sanitary
+  landfill in accordance with the July 1981 I-95 Sanitary Landfill Memorandum
+  of Understanding. The term also includes variances or exemptions from
+  any elevation requirements relating to landfill operations established
+  by the laws of the Commonwealth of Virginia, or any subdivision thereof,
+  in connection with any such lands used on or before May 31, 1991.
+  (2) The term `lands owned by the Government of the United States' includes
+  any lands owned by the United States, and any such lands with respect to
+  which the Government of the District of Columbia has beneficial ownership.
+  (3) The term `July 1981 I-95 Sanitary Landfill Memorandum of Understanding'
+  means the document titled `Memorandum of Understanding I-95 Resource
+  Recovery, Land Reclamation, and Recreation Complex' that was executed July
+  22, 1981, and subsequently amended by supplemental agreements executed
+  before May 31, 1991.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

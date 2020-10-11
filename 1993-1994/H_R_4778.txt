@@ -1,0 +1,891 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4778 Enrolled Bill (ENR)]
+
+    H.R.4778
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To codify without substantive change recent laws related to 
+transportation and to improve the United States Code.
+
+  Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TITLE 11, UNITED STATES CODE.
+
+  Section 365 of title 11, United States Code, is amended as follows:
+      (1) In subsection (d)(6)(C), strike ``section 101 of the Federal 
+    Aviation Act of 1958 (49 App. U.S.C. 1301)'' and substitute 
+    ``section 40102(a) of title 49''.
+      (2) In subsection (p), strike ``section 101(3) of the Federal 
+    Aviation Act of 1958'' and substitute ``section 40102(a) of title 
+    49''.
+
+SEC. 2. TITLE 18, UNITED STATES CODE.
+
+  Title 18, United States Code, is amended as follows:
+      (1) In section 2333(b), strike ``section 902(i), (k), (l), (n), 
+    or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), 
+    (k), (l), (n), or (r))'' and substitute ``section 46314, 46502, 
+    46505, or 46506 of title 49''.
+      (2) In section 2340(3), strike ``section 101(38) of the Federal 
+    Aviation Act of 1958 (49 U.S.C. App. 1301(38))'' and substitute 
+    ``section 46501(2) of title 49''.
+
+SEC. 3. TITLE 23, UNITED STATES CODE.
+
+  Title 23, United States Code, is amended as follows:
+      (1) In section 103(i)(3), strike ``the Federal Transit Act'' and 
+    substitute ``chapter 53 of title 49''.
+      (2) In section 108(d)(2)(F), strike ``section 4(f) of the 
+    Department of Transportation Act'' and substitute ``section 303 of 
+    title 49''.
+      (3) In section 127(d)(2)(A), strike ``sections 411, 412, and 416 
+    of the Surface Transportation Assistance Act of 1982 (49 U.S.C. 
+    App. 2311, 2312, and 2316)'' and substitute ``sections 31111-31114 
+    of title 49''.
+      (4) In section 133(b)(2), strike ``the Federal Transit Act'' and 
+    substitute ``chapter 53 of title 49''.
+      (5) Section 134 is amended as follows:
+          (A) In subsections (h)(5) and (i)(3) and (4), strike ``the 
+        Federal Transit Act'' and substitute ``chapter 53 of title 
+        49''.
+          (B) In subsection (i)(5), strike ``section 9 of the Federal 
+        Transit Act'' wherever it appears and ``section 8(o) of the 
+        Federal Transit Act'' and substitute ``section 5336 of title 
+        49'' and ``section 5306(a) of title 49'', respectively.
+          (C) In subsections (k)-(m), strike ``the Federal Transit 
+        Act'' wherever it appears and substitute ``chapter 53 of title 
+        49''.
+          (D) In subsection (k), strike ``Federal Transit Act funds'' 
+        and substitute ``chapter 53 funds''.
+      (6) Section 135 is amended as follows:
+          (A) In subsection (f)(2), strike ``the Federal Transit Act'' 
+        and substitute ``chapter 53 of title 49''.
+          (B) In subsection (h), strike ``section 8 of the Federal 
+        Transit Act, United States Code'' and ``section 8 of such Act'' 
+        and substitute ``sections 5303-5306 and 5323(k) of title 49'' 
+        and ``sections 5303-5306 and 5323(k)'', respectively.
+      (7) In section 141(b), strike ``section 411(j) of the Surface 
+    Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))'' 
+    and substitute ``section 31112 of title 49''.
+      (8) In section 303(c), strike ``the Federal Transit Act'' and 
+    substitute ``chapter 53 of title 49''.
+      (9) In section 303(d), strike ``the Federal Transit Act'' and 
+    ``such Act'' and substitute ``chapter 53 of title 49'' and 
+    ``chapter 53'', respectively.
+      (10) In section 307(e)(13), strike ``section 26(a)(1) of the 
+    Federal Transit Act'' and substitute ``section 5313(a) of title 
+    49''.
+
+SEC. 4. TITLE 26, UNITED STATES CODE.
+
+  Section 9503(e)(3)(A) of the Internal Revenue Code of 1986 (26 U.S.C. 
+9503(e)(3)(A)) is amended by striking ``paragraph (1) or (3) of 
+subsection (a), or paragraph (1) or (3) of subsection (b), of section 
+21 of the Federal Transit Act'' and substituting ``section 5338(a)(1) 
+or (b)(1) of title 49''.
+
+SEC. 5. TITLE 39, UNITED STATES CODE.
+
+  Section 5402(g)(1)(A) of title 39, United States Code, is amended by 
+striking ``section 401 of the Federal Aviation Act of 1958 (49 U.S.C. 
+1371)'' and substituting ``section 41102(a) of title 49''.
+
+SEC. 6. TITLE 49, UNITED STATES CODE.
+
+  Title 49, United States Code, is amended as follows:
+      (1) In section 112(e), strike ``the date of the enactment of this 
+    section'' and substitute ``October 24, 1992''.
+      (2) In section 321, strike ``, respectively''.
+      (3) Section 5103(b)(2) is amended as follows:
+          (A) Strike ``include'' and substitute ``be conducted under 
+        section 553 of title 5, including''.
+          (B) Strike ``presentations'' and substitute ``presentation''.
+      (4) In section 5104(a)(1), insert ``applicable'' after ``each''.
+      (5) In section 5115(b)(1)(C), strike ``126'' and substitute 
+    ``126(g)''.
+      (6) In section 5125(a) and (b)(1), insert ``and unless authorized 
+    by another law of the United States'' after ``section''.
+      (7) Section 5307(d) is amended as follows:
+          (A) In clause (1)(D), strike ``chapter'' and substituteP 
+        ``section''.
+          (B) In clause (1)(E)(iii), strike ``Buy-American'' and 
+        substitute ``Buy America''.
+      (8) In section 5318(e), insert ``Uniform'' before ``Relocation''.
+      (9) In section 5320(g)(2), strike ``paragraph (1)(C) of this 
+    section'' and substitute ``paragraph (1)(C) of this subsection''.
+      (10) Section 5323 is amended as follows:
+          (A) in the catchline for subsection (j), strike ``American'' 
+        and substitute ``America''.
+          (B) Add at the end of the section the following:
+  ``(l) Preaward and Postdelivery Review of Rolling Stock Purchases.--
+The Secretary of Transportation shall prescribe regulations requiring a 
+preaward and postdelivery review of a grant under this chapter to buy 
+rolling stock to ensure compliance with Government motor vehicle safety 
+requirements, subsection (j) of this section, and bid specifications 
+requirements of grant recipients under this chapter. Under this 
+subsection, independent inspections and review are required, and a 
+manufacturer certification is not sufficient.''.
+      (11) In section 5326(a)(3), strike ``regulations'' and substitute 
+    ``guidelines''.
+      (12) In section 5327(c)(1), strike ``of that Act'' and substitute 
+    ``or that Act''.
+      (13) In section 5331(a)(3), strike ``subchapter III of chapter 
+    201 or section 31306'' and substitute ``section 20140 or 31306''.
+      (14) In section 5337(a)(4), strike ``section 5336(B)(2)(A)'' and 
+    substitute ``section 5336(b)(2)(A) of this title''.
+      (15) In the catchline of section 5565, insert ``certain'' after 
+    ``converting''.
+      (16) In section 11301(b)(1), strike ``subchapter I of chapter 2A, 
+    chapter 2B, and subchapter I of chapter 2D of title 15'' and 
+    substitute ``the Securities Act of 1933 (15 U.S.C. 77a et seq.), 
+    the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), and 
+    the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.)''.
+      (17) In section 11348(a), strike ``(l)(1)'' and substitute 
+    ``(m)(1)''.
+      (18) In section 11706(d), strike ``that limitation periods'' and 
+    substitute ``those limitation periods''.
+      (19) In section 20136(2), strike ``subsection'' and substitute 
+    ``section''.
+      (20) In section 22108(a)(3), insert ``under this subsection'' 
+    after ``appropriated''.
+      (21) Section 24501 is amended as follows:
+          (A) In subsection (f), strike ``(f) Exemption From Additional 
+        Taxes.--(1)'' through the end of paragraph (1) and substitute 
+        the following:
+  ``(f) Exemption From Additional Taxes.--(1) In this subsection--
+      ``(A) `additional tax' means a tax or fee--
+          ``(i) on the acquisition, improvement, ownership, or 
+        operation of personal property by Amtrak Commuter; and
+          ``(ii) on real property, except a tax or fee on the 
+        acquisition of real property or on the value of real property 
+        not attributable to improvements made, or the operation of 
+        those improvements, by Amtrak Commuter.
+      ``(B) `Amtrak Commuter' includes a rail carrier subsidiary of 
+    Amtrak Commuter and a lessor or lessee of Amtrak Commuter or one of 
+    its rail carrier subsidiaries.''.
+          (B) In subsection (f)(2), insert ``, even if that use is 
+        indirect'' after ``transportation''.
+      (22) In section 24904(a)(2), insert ``, by condemnation or 
+    otherwise,'' after ``acquire''.
+      (23) Sections 30141(c)(4)(A) and 30165(a) are amended as follows:
+          (A) Strike ``section 30112'' and substitute ``any of sections 
+        30112''.
+          (B) Insert ``any of'' before ``those sections'' each place it 
+        appears.
+      (24) In section 30166(h), strike ``the judicial'' and substitute 
+    ``any judicial''.
+      (25) In section 30308(b), strike ``appropriated'' and substitute 
+    ``authorized''.
+      (26) In section 31501(1), strike ``section 203(f)'' and 
+    substitute ``section 3(f)''.
+      (27) In section 32101, the matter before clause (1) is Pamended 
+    to read as follows:
+  ``In this part (except chapter 329 and except as provided in section 
+33101)--''.
+      (28) Item 32309 in the analysis of chapter 323 is amended to read 
+    as follows:
+``32309. Civil penalty for labeling violations.''.
+
+      (29) Section 32304(a)(11) is amended to read as follows:
+      ``(11) `passenger motor vehicle' has the same meaning given that 
+    term in section 32101(10) of this title, except that it includes 
+    any multi-purpose vehicle or light duty truck when that vehicle or 
+    truck is rated at not more than 8,500 pounds gross vehicle 
+    weight.''.
+      (30) Section 32304(a)(14) is amended as follows:
+          (A) Insert ``the Northern Mariana Islands,'' after ``Puerto 
+        Rico,''.
+          (B) Strike ``the Canal Zone,''.
+      (31) In the catchline of section 32309, strike ``Criminal'' and 
+    substitute ``Civil''.
+      (32) In section 32505(b)(3), strike ``the judicial'' and ``was 
+    conducted'' and substitute ``any judicial'' and ``is conducted'', 
+    respectively.
+      (33) In section 32703(3), strike ``public''.
+      (34) Section 32705(c)(2)(A) is amended to read as follows:
+      ``(A) the lessee's mileage disclosure requirements under 
+    paragraph (1) of this subsection; and''.
+      (35) In section 32706(e)(3), strike ``the judicial'' and ``was 
+    conducted'' and substitute ``any judicial'' and ``is conducted'', 
+    respectively.
+      (36) Section 32904(b) is amended as follows:
+          (A) Redesignate paragraphs (3)-(6) as paragraphs (5)-(8), 
+        respectively.
+          (B) Strike ``(b) Separate Calculations for Passenger 
+        Automobiles Manufactured Domestically and Not Domestically.--
+        (1)'' through the end of paragraph (2) and substitute the 
+        following:
+  ``(b) Separate Calculations for Passenger Automobiles Manufactured 
+Domestically and Not Domestically.--(1)(A) Except as provided in 
+paragraphs (6) and (7) of this subsection, the Administrator shall make 
+separate calculations under subsection (a)(1)(B) of this section for--
+      ``(i) passenger automobiles manufactured domestically by a 
+    manufacturer (or included in this category under paragraph (5) of 
+    this subsection); and
+      ``(ii) passenger automobiles not manufactured domestically by 
+    that manufacturer (or excluded from this category under paragraph 
+    (5) of this subsection).
+  ``(B) Passenger automobiles described in subparagraph (A) (i) and 
+(ii) of this paragraph are deemed to be manufactured by separate 
+manufacturers under this chapter.
+  ``(2) In this subsection (except as provided in paragraph (3)), a 
+passenger automobile is deemed to be manufactured domestically in a 
+model year if at least 75 percent of the cost to the manufacturer is 
+attributable to value added in the United States or Canada, unless the 
+assembly of the automobile is completed in Canada and the automobile is 
+imported into the United States more than 30 days after the end of the 
+model year.
+  ``(3)(A) In this subsection, a passenger automobile is deemed to be 
+manufactured domestically in a model year, as provided in subparagraph 
+(B) of this paragraph, if at least 75 percent of the cost to the 
+manufacturer is attributable to value added in the United States, 
+Canada, or Mexico, unless the assembly of the automobile is completed 
+in Canada or Mexico and the automobile is imported into the United 
+States more than 30 days after the end of the model year.
+  ``(B) Subparagraph (A) of this paragraph applies to automobiles 
+manufactured by a manufacturer and sold in the United States, 
+regardless of the place of assembly, as follows:
+      ``(i) A manufacturer that began assembling automobiles in Mexico 
+    before model year 1992 may elect, during the period from January 1, 
+    1997, through January 1, 2004, to have subparagraph (A) of this 
+    paragraph apply to all automobiles manufactured by that 
+    manufacturer beginning with the model year that begins after the 
+    date of the election.
+      ``(ii) For a manufacturer that began assembling automobiles in 
+    Mexico after model year 1991, subparagraph (A) of this paragraph 
+    applies to all automobiles manufactured by that manufacturer 
+    beginning with the model year that begins after January 1, 1994, or 
+    the model year beginning after the date the manufacturer begins 
+    assembling automobiles in Mexico, whichever is later.
+      ``(iii) A manufacturer not described in clause (i) or (ii) of 
+    this subparagraph that assembles automobiles in the United States 
+    or Canada, but not in Mexico, may elect, during the period from 
+    January 1, 1997, through January 1, 2004, to have subparagraph (A) 
+    of this paragraph apply to all automobiles manufactured by that 
+    manufacturer beginning with the model year that begins after the 
+    date of the election. However, if the manufacturer begins 
+    assembling automobiles in Mexico before making an election under 
+    this subparagraph, this clause does not apply, and the manufacturer 
+    is subject to clause (ii) of this subparagraph.
+      ``(iv) For a manufacturer that does not assemble automobiles in 
+    the United States, Canada, or Mexico, subparagraph (A) of this 
+    paragraph applies to all automobiles manufactured by that 
+    manufacturer beginning with the model year that begins after 
+    January 1, 1994.
+      ``(v) For a manufacturer described in clause (i) or (iii) of this 
+    subparagraph that does not make an election within the specified 
+    period, subparagraph (A) of this paragraph applies to all 
+    automobiles manufactured by that manufacturer beginning with the 
+    model year that begins after January 1, 2004.
+  ``(C) The Secretary of Transportation shall prescribe reasonable 
+procedures for elections under subparagraph (B) of this paragraph.
+  ``(4) In this subsection, the fuel economy of a passenger automobile 
+that is not manufactured domestically is deemed to be equal to the 
+average fuel economy of all passenger automobiles manufactured by the 
+same manufacturer that are not manufactured Pdomestically.''.
+          (C) In paragraph (5)(B), as redesignated by subparagraph (A) 
+        of this paragraph, strike ``paragraph (2)(A)(i) and exclude 
+        under paragraph (2)(A)(ii)'' and substitute ``paragraph 
+        (1)(A)(i) and exclude under paragraph (1)(A)(ii)''.
+          (D) In paragraph (6)(A), as redesignated by subparagraph (A) 
+        of this paragraph, strike ``paragraph (2)(A)'' and substitute 
+        ``paragraph (1)(A)''.
+      (37) In section 32908(b)(1), insert ``on the automobile'' after 
+    ``maintain the label''.
+      (38) In section 32909(a)(1), strike ``section 32901-32904'' and 
+    substitute ``any of sections 32901-32904''.
+      (39) In section 32910(b), strike ``the judicial'' and ``was 
+    conducted'' and substitute ``any judicial'' and ``is conducted'', 
+    respectively.
+      (40) In section 32911(a), strike ``, and 32917(b)'' and 
+    substitute ``, 32917(b), and 32918''.
+      (41) Section 32913(b)(1) is amended as follows:
+          (A) In the catchline, strike ``Penalty Reduction'' and 
+        substitute ``Certification''.
+          (B) Strike ``the penalty should be reduced'' and substitute 
+        ``a reduction in the penalty is necessary''.
+      (42) Section 32916(b) is amended as follows:
+          (A) In paragraph (1), in the matter before clause (A), strike 
+        ``section 32904(b)(4)'' each place it appears and substitute 
+        ``section 32904(b)(6)''.
+          (B) In paragraph (1)(E), strike ``section 32904(b)(1)(A)'' 
+        and substitute ``section 32904(b)(2)''.
+          (C) In paragraph (2), strike ``section 32904(b)(4)'' and 
+        substitute ``section 32904(b)(6)''.
+      (43)(A) Section 32918 is redesignated as section 32919.
+      (B) Insert after section 32917 the following:
+
+``Sec. 32918. Retrofit devices
+
+  ``(a) Definition.--In this section, the term `retrofit device' means 
+any component, equipment, or other device--
+      ``(1) that is designed to be installed in or on an automobile (as 
+    an addition to, as a replacement for, or through alteration or 
+    modification of, any original component, equipment, or other 
+    device); and
+      ``(2) that any manufacturer, dealer, or distributor of the device 
+    represents will provide higher fuel economy than would have 
+    resulted with the automobile as originally equipped,
+``as determined under regulations of the Administrator of the 
+Environmental Protection Agency. The term also includes a fuel additive 
+for use in an automobile.
+  ``(b) Examination of Fuel Economy Representations.--The Federal Trade 
+Commission shall establish a program for systematically examining fuel 
+economy representations made with respect to retrofit devices. Whenever 
+the Commission has reason to believe that any representation may be 
+inaccurate, the Commission shall request the Administrator to evaluate, 
+in accordance with subsection (c) of this section, the retrofit device 
+with respect to which the representation was made.
+  ``(c) Evaluation of Retrofit Devices.--(1) On application of any 
+manufacturer of a retrofit device (or prototype of a retrofit device), 
+on request of the Commission under subsection (b) of this section, or 
+on the motion of the Administrator, the Administrator shall evaluate, 
+in accordance with regulations prescribed under subsection (e) of this 
+section, any retrofit device to determine whether the retrofit device 
+increases fuel economy and to determine whether the representations, if 
+any, made with respect to the retrofit device are accurate.
+  ``(2) If under paragraph (1) of this subsection, the Administrator 
+tests, or causes to be tested, any retrofit device on the application 
+of a manufacturer of the device, the manufacturer shall supply, at the 
+manufacturer's expense, one or more samples of the device to the 
+Administrator and shall be liable for the costs of testing incurred by 
+the Administrator. The procedures for testing retrofit devices so 
+supplied may include a requirement for preliminary testing by a 
+qualified independent testing laboratory, at the expense of the 
+manufacturer of the device.
+  ``(d) Results of Tests and Publication in Federal Register.--(1) The 
+Administrator shall publish in the Federal Register a summary of the 
+results of all tests conducted under this section, together with the 
+Administrator's conclusions as to--
+      ``(A) the effect of any retrofit device on fuel economy;
+      ``(B) the effect of the device on emissions of air pollutants; 
+    and
+      ``(C) any other information the Administrator determines to be 
+    relevant in evaluating the device.
+  ``(2) The summary and conclusions shall also be submitted to the 
+Secretary of Transportation and the Commission.
+  ``(e) Regulations Establishing Tests and Procedures for Evaluation of 
+Retrofit Devices.--The Administrator shall prescribe regulations 
+establishing--
+      ``(1) testing and other procedures for evaluating the extent to 
+    which retrofit devices affect fuel economy and emissions of air 
+    pollutants; and
+      ``(2) criteria for evaluating the accuracy of fuel economy 
+    representations made with respect to retrofit devices.''.
+      (C) In the analysis of chapter 329, strike item 32918 and 
+    substitute--
+``32918. Retrofit devices.
+``32919. Preemption.''.
+
+      (44) Section 33101(2) is amended as follows:
+          (A) Strike ``sections 33102(c)(1) and'' and substitute 
+        ``section''.
+          (B) Add at the end ``of this title''.
+      (45) In section 33106(b)(3), strike ``subparagraph (2)(B) or (C) 
+    of this paragraph'' and substitute ``paragraph (2)(B) or (C) of 
+    this subsection''.
+      (46) In section 40102(a)(30), strike ``subparts I and III'' and 
+    substitute ``this subpart and subpart III''.
+      (47) Section 40104 is amended as follows:
+          (A) Insert at the beginning of the text of the section the 
+        following:
+  ``(a) Developing Civil Aeronautics and Air Com- Pmerce.--''.
+          (B) Strike ``section'' and substitute ``subsection''.
+          (C) Add at the end the following:
+  ``(b) Developing and Constructing Civil Supersonic Aircraft.--The 
+Secretary of Transportation may develop and construct a civil 
+supersonic aircraft.''.
+      (48) Section 40110(a) is amended as follows:
+          (A) In the matter before clause (1), strike ``may''.
+          (B) In clause (1)--
+              (i) strike ``acquire,''; and
+              (ii) strike ``services or'' and substitute ``may acquire 
+            services or, by condemnation or otherwise,''.
+          (C) In clause (2), insert ``may'' before ``dispose''.
+          (D) In clause (3), insert ``may'' before ``construct''.
+      (49) In section 41103(a), strike ``all-property'' and substitute 
+    ``all-cargo''.
+      (50) Section 41110(e) is amended to read as follows:
+  ``(e) Continuing Requirements.--(1) To hold a certificate issued 
+under section 41102 of this title, an air carrier must continue to be 
+fit, willing, and able to provide the transportation authorized by the 
+certificate and to comply with this part and regulations of the 
+Secretary.
+  ``(2) After notice and an opportunity for a hearing, the Secretary 
+shall amend, modify, suspend, or revoke any part of a certificate 
+issued under section 41102 of this title if the Secretary finds that 
+the air carrier--
+      ``(A) is not fit, willing, and able to provide the transportation 
+    authorized by the certificate and to comply with this part and 
+    regulations of the Secretary; or
+      ``(B) does not file reports necessary for the Secretary to decide 
+    if the carrier is complying with the requirements of clause (A) of 
+    this paragraph.''.
+      (51)(A) Chapter 413 is amended by adding immediately after 
+    section 41311 the following:
+
+``Sec. 41312. Ending or suspending foreign air transportation
+
+  ``(a) General.--An air carrier holding a certificate issued under 
+section 41102 of this title to provide foreign air transportation--
+      ``(1) may end or suspend the transportation to a place under the 
+    certificate only when the carrier gives at least 90 days notice of 
+    its intention to end or suspend the transportation to the 
+    Secretary, any community affected by that decision, and the State 
+    authority of the State in which a community is located; and
+      ``(2) if it is the only air carrier holding a certificate to 
+    provide non-stop or single-plane foreign air transportation between 
+    2 places, may end or suspend the transportation between those 
+    places only when the carrier gives at least 60 days notice of its 
+    intention to end or suspend the transportation to the Secretary and 
+    each community directly affected by that decision.
+  ``(b) Temporary Suspension.--The Secretary may authorize the 
+temporary suspension of foreign air transportation under subsection (a) 
+of this section when the Secretary finds the suspension is in the 
+public interest.''.
+      (B) The analysis of chapter 413 is amended by adding immediately 
+    after item 41311 the following:
+``41312. Ending or suspending foreign air transportation.''.
+
+      (52) The chapter heading for chapter 417 is amended to read as 
+    follows:
+
+                ``CHAPTER 417--OPERATIONS OF CARRIERS''.
+
+      (53) In section 41715(d)(1), strike ``41731(a)(3)'' and 
+    substitute ``41731(a)(4)''.
+      (54) In section 44502(b), insert ``Government'' before ``money 
+    may be expended''.
+      (55) In section 44701(d) and (e), strike ``section 44702-44716'' 
+    and substitute ``any of sections 44702-44716''.
+      (56) In sections 44711(a)(2)(B), (5), and (7) and 46310(b), 
+    insert ``any of sections'' before ``44702-44716''.
+      (57) In section 44937, strike ``44906(a)(1) or (b)'' and 
+    substitute ``44906''.
+      (58) In section 45105(a), strike ``section 45102(a)(1)(A)'' and 
+    substitute ``section 45102(a)(1)''.
+      (59) Section 45302 is amended by adding at the end the following:
+  ``(e) Effective Date.--A fee may not be imposed under this section 
+before the date on which the regulations prescribed under sections 
+44111(d), 44703(f)(2), and 44713(d)(2) of this title take effect.''.
+      (60) In section 46301--
+          (A) in subsection (a)(1)(A), strike ``section 41301-41306'' 
+        and ``section 44701(a)'' and substitute ``any of sections 
+        41301-41306'' and ``any of sections 44701(a)'', respectively;
+          (B) in subsections (a)(2)(A), (d)(2), and (f)(1)(A)(i), 
+        strike ``section 44701(a)'' and substitute ``any of sections 
+        44701(a)''; and
+          (C) in subsection (c)(1)(A), strike ``section 41301-41306'' 
+        and substitute ``any of sections 41301-41306''.
+      (61) In section 46502(a)(2)(B) and (b)(1)(B), insert 
+    ``notwithstanding section 3559(b) of title 18,'' before ``if the 
+    death''.
+      (62) In section 47101(a)(12), strike ``Act'' and substitute 
+    ``subchapter''.
+      (63) Section 47104(c) is amended to read as follows:
+  ``(c) Expiration of Authority.--After September 30, 1996, the 
+Secretary may not incur obligations under subsection (b) of this 
+section, except for obligations of amounts--
+      ``(1) remaining available after that date under section 47117(b) 
+    of this title; or
+      ``(2) recovered by the United States Government from grants made 
+    under this chapter if the amounts are obligated only for increases 
+    under section 47108(b)(2) and (3) of this title in the maximum 
+    amount of obligations of the Government for any other grant made 
+    under this title.''.
+      (64) Section 47110(b)(2) is amended to read as follows:
+      ``(2)(A) if the cost is incurred after the grant agreement is 
+    executed and is for airport development or airport planning carried 
+    out after the grant agreement is executed;
+      ``(B) if the cost is incurred after June 1, 1989, by the airport 
+    operator (regardless of when the grant agreement is executed) as 
+    part of a Government-approved noise compatability program 
+    (including project formulation costs) and is consistent with all 
+    applicable statutory and administrative requirements; or
+      ``(C) if the Government's share is paid only with amounts 
+    apportioned under section 47114(c)(1)(A) and (2) of this title and 
+    if the cost is incurred--
+          ``(i) during the fiscal year ending September 30, 1994;
+          ``(ii) before a grant agreement is executed for the project 
+        but according to an airport layout plan the Secretary approves 
+        before the cost is incurred and all applicable statutory and 
+        administrative requirements that would apply to the project if 
+        the agreement had been executed; and
+          ``(iii) for work related to a project for which a grant 
+        agreement previously was executed during the fiscal year ending 
+        September 30, 1994;''.
+      (65) In section 47113(a)(2), strike ``section 8(c) of the Act (15 
+    U.S.C. 637(c))'' and ``under section 8(c)'' and substitute 
+    ``section 8(d) of the Act (15 U.S.C. 637(d))'' and ``under section 
+    8(d)'', respectively.
+      (66) Section 47114(c) is amended as follows:
+          (A) in paragraph (1)(B), strike ``$400,000'' and substitute 
+        ``$500,000''.
+          (B) In paragraph (3)--
+              (i) insert ``(A)'' after ``(3)'';
+              (ii) strike ``The'' and substitute ``Except as provided 
+            in subparagraph (B) of this paragraph, the'';
+              (iii) strike ``44'' each place it appears and substitute 
+            ``49.5'';
+              (iv) strike ``paragraph'' and substitute 
+            ``subparagraph''; and
+              (v) insert after subparagraph (A) the following new 
+            subparagraph:
+  ``(B) If a law limits the amount subject to apportionment to less 
+than $1,900,000,000 for a fiscal year, the total of all amounts 
+apportioned under paragraphs (1) and (2) of this subsection may not be 
+more than 44 percent of the amount subject to apportionment for that 
+fiscal year. If this subparagraph requires reduction of an amount that 
+otherwise would be apportioned under this subsection, the Secretary 
+shall reduce proportionately the amount apportioned to each sponsor of 
+an airport under paragraphs (1) and (2) until the 44 percent limit is 
+achieved.''.
+      (67) Section 47115 is amended by adding at the end the following:
+  ``(f) Minimum Amount To Be Credited.--(1) In a fiscal year, at least 
+$325,000,000 of the amount made available under section 48103 of this 
+title shall be credited to the fund. The amount credited is exclusive 
+of amounts that have been apportioned in a prior fiscal year under 
+section 47114 of this title and that remain available for obligation.
+  ``(2) In a fiscal year in which the amount credited under subsection 
+(a) of this section is less than $325,000,000, the total amount 
+calculated under paragraph (3) of this subsection shall be reduced by 
+an amount that, when credited to the fund, together with the amount 
+credited under subsection (a), equals $325,000,000.
+  ``(3) For a fiscal year, the total amount available to reduce to 
+carry out paragraph (2) of this subsection is the total of the amounts 
+determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) 
+of this title. Each amount shall be reduced by an equal percentage to 
+achieve the reduction.''.
+      (68) Section 47117(e) is amended as follows:
+          (A) In paragraph (1)(A), strike ``10'' and substitute ``5''.
+          (B) In paragraph (1)(C), strike ``2.5'' and substitute 
+        ``1.5''.
+          (C) In paragraph (1)(D), strike ``.5'' and substitute 
+        ``.75''.
+          (D) In paragraph (2), strike ``2.5'' and substitute ``1.5''.
+      (69) Section 47119(b) is amended as follows:
+          (A) Redesignate clause (3) as clause (4).
+          (B) Strike clause (2) and substitute the following:
+      ``(2) on approval of the Secretary, not more than $200,000 of the 
+    amount that may be distributed for the fiscal year from the 
+    discretionary fund established under section 47115 of this title--
+          ``(A) to a sponsor of a nonprimary commercial service airport 
+        to pay project costs allowable under section 47110(d) of this 
+        title; and
+          ``(B) to a sponsor of a reliever airport for the types of 
+        project costs allowable under section 47110(d), including 
+        project costs allowable for a commercial service airport that 
+        each year does not have more than .05 percent of the total 
+        boardings in the United States;
+      ``(3) for use by a primary airport that each year does not have 
+    more than .05 percent of the total boardings in the United States, 
+    any part of amounts that may be distributed for the fiscal year 
+    from the discretionary fund and small airport fund to pay project 
+    costs allowable under section 47110(d) of this title; or''.
+      (70) In section 47128(c), strike ``subsection (b)(2) or (3)'' and 
+    substitute ``subsection (b)(1)(B) or (C)''.
+      (71) Section 47504(c) is amended as follows:
+          (A) In paragraph (1)(A), add ``and'' after the semicolon.
+          (B) In paragraph (1)(B), strike the semicolon and substitute 
+        a period.
+          (C) Redesignate paragraph (1)(C) and (D) as paragraph (2)(C) 
+        and (D).
+          (D) In paragraph (2)(A)(iii), strike ``and''.
+          (E) In paragraph (2)(B)(iii), strike the period and 
+        substitute a semicolon.
+          (F) In paragraph (2)(C) and (D), as redesignated, strike ``an 
+        airport operator or unit of local government referred to in 
+        clause (A) or (B) of this paragraph'' and substitute ``to an 
+        airport operator and unit of local government referred to in 
+        paragraph (1)(A) or (1)(B) of this subsection''.
+      (72)(A) Chapter 475 is amended by inserting after section 47509 
+    the following:
+
+``Sec. 47510. Tradeoff allowance
+
+  ``Notwithstanding another law or a regulation prescribed or order 
+issued under that law, the tradeoff provisions contained in appendix C 
+of part 36 of title 14, Code of Federal Regulations, apply in deciding 
+whether an aircraft complies with subpart I of part 91 of title 14.''.
+      (B) The analysis of chapter 475 is amended by inserting 
+    immediately after item 47509 the following:
+``47510. Tradeoff allowance.''.
+
+      (73) Section 47531 is amended as follows:
+          (A) Strike ``sections 47528'' and substitute ``section 
+        47528''.
+          (B) Insert ``any of'' before ``those''.
+          (C) Insert ``any of sections'' before ``44702-44716''.
+      (74) In section 47532, insert ``any of'' before ``sections''.
+      (75) In section 60109(a)(2), strike ``60102(c)'' and substitute 
+    ``60102(e)''.
+      (76) In section 60112(d), add ``, including suspended or 
+    restricted use of the facility, physical inspection, testing, 
+    repair, replacement, or other appropriate action'' after 
+    ``action''.
+      (77) Section 60117(i) is amended as follows:
+          (A) Insert ``(1)'' before ``After''.
+          (B) Add at the end the following:
+  ``(2) In consultation with the Occupational Safety and Health 
+Administration, the Secretary shall establish procedures to notify the 
+Administration of any pipeline accident in which an excavator that has 
+caused damage to a pipeline may have violated a regulation of the 
+Administration.''.
+      (78) The chapter heading for chapter 701 is amended to read as 
+    follows:
+
+          ``CHAPTER 701--COMMERCIAL SPACE LAUNCH ACTIVITIES''.
+
+      (79) The chapter heading for chapter 801 is amended to read as 
+    follows:
+
+                   ``CHAPTER 801--BILLS OF LADING''.
+
+      (80) In section 40110(b)(2)(A), insert ``notwithstanding section 
+    1341(a)(1) of title 31,'' before ``lease''.
+      (81) Section 41734(g)(2) is amended to read as follows:
+      ``(2) the authority to be transferred is being used to provide 
+    air service to another eligible place.''.
+
+SEC. 7. TECHNICAL CHANGES TO OTHER LAWS.
+
+  (a) Effective July 5, 1994--
+      (1) Section 708 of the Railroad Revitalization and Regulatory 
+    Reform Act of 1976 (Public Law 94-210, 90 Stat. 31) is repealed.
+      (2) Section 232A of the Act of October 12, 1984 (Public Law 98-
+    473, 98 Stat. 2031), is repealed.
+      (3) Section 4 of the Act of July 5, 1994 (Public Law 103-272, 108 
+    Stat. 1360), is amended as follows:
+          (A) In subsection (f)(1)(H), insert ``of the 2d sentence'' 
+        after ``end''.
+          (B) Subsection (f)(1)(N) is repealed.
+          (C) Subsection (j)(5)(B) is amended to read as follows:
+      ``(B) In the analysis of chapter 1, strike the 2 items 110 and 
+    item 111 and substitute--
+``110. Saint Lawrence Seaway Development Corporation.
+``111. Bureau of Transportation Statistics.''.
+
+          (D) Subsection (k)(3) is amended to read as follows:
+      ``(3) In section 41902(b)--
+          ``(A) strike clause (2);
+          ``(B) redesignate clauses (3) and (4) as clauses (2) and (3), 
+        respectively; and
+          ``(C) in clause (2), as redesignated, strike `clauses (1) and 
+        (2)' and substitute `clause (1)'.''.
+          (E) Subsection (r)(1) is amended by striking ``the Urban Mass 
+        Transportation Act of 1964,'' and substituting ``the Federal 
+        Transit Act,''.
+      (4) Section 5 of the Act of July 5, 1994 (Public Law 103-272, 108 
+    Stat. 1374), is amended as follows:
+          (A) In subsection (e)(11), strike ```section' and'' and 
+        substitute ```section 1679a(c)(2)' and''.
+          (B) In subsection (f)(1), strike ``the Urban Mass 
+        Transportation Act of 1964'' wherever it appears and substitute 
+        ``the Federal Transit Act''.
+          (C) In subsection (f)(2), strike ``the Urban Mass 
+        Transportation Act of 1964,'' wherever it appears and 
+        substitute ``the Federal Transit Act,''.
+          (D) In subsection (m)(25)(A), strike ``the Urban Mass 
+        Transportation Act of 1964'' and substitute ``the Federal 
+        Transit Act''.
+      (5) The schedule of laws repealed contained in section 7(b) of 
+    the Act of July 5, 1994 (Public Law 103-272, 108 Stat. 1395), 
+    related to the Act of December 22, 1987 (Public Law 100-202), is 
+    amended by striking out--
+          (A) ``, 106'' in the Section column;
+          (B) ``, 1329-433'' in the Statutes at Large Page column; and
+          (C) ``, 2311'' in the U.S. Code Section column.
+    Except with respect to the provisions of law restated as section 
+    31111 of title 49, United States Code, as enacted by the Act of 
+    July 5, 1994 (Public Law 103-272, 108 Stat. 993), the provisions of 
+    law within the purview of section 106 of the Act of December 22, 
+    1987 (Public Law 100-202, 101 Stat. 1329-433), shall be effective 
+    as if Public Law 103-272 had not been enacted.
+  (b) Effective August 23, 1994, section 101 of the Airport Improvement 
+Program Temporary Extension Act of 1994 (Public Law 103-260, 108 Stat. 
+698) is repealed.
+  (c) Effective August 26, 1994, section 119(d)(2) and (3) of the 
+Hazardous Materials Transportation Authorization Act of 1994 (Public 
+Law 103-311, 108 Stat. 1680) is amended to read as follows:
+      ``(2) Section 5116(i)(1) is amended by striking `and section 
+    5107(e) of this title'.
+      ``(3) Section 5116(i)(3) is amended by striking `5107(e), 
+    5108(g)(2),' and substituting `5108(g)(2)'.''.
+  (d) Section 9001(1)(D) of the Solid Waste Disposal Act (42 U.S.C. 
+6991(1)(D)) is amended to read as follows:
+          ``(D) pipeline facility (including gathering lines)--
+              ``(i) which is regulated under chapter 601 of title 49, 
+            United States Code, or
+              ``(ii) which is an intrastate pipeline facility regulated 
+            under State laws as provided in chapter 601 of title 49, 
+            United States Code,
+        ``and which is determined by the Secretary to be connected to a 
+        pipeline or to be operated or intended to be capable of 
+        operating at pipeline pressure or as an integral part of a 
+        pipeline,''.
+  (e) The Comprehensive Environmental Response, Compensation, and 
+Liability Act of 1980 (42 U.S.C. 9601 et seq.) is amended as follows:
+      (1) In section 101(26), strike ``pipeline'' and substitute ``a 
+    hazardous liquid pipeline facility''.
+      (2) In section 107(c)(1)(C), strike ``pipeline'' and substitute 
+    ``hazardous liquid pipeline facility''.
+
+SEC. 8. REPEAL OF OTHER LAWS.
+
+  (1) The last proviso of the 1st paragraph and the words after the 
+last semicolon in the 2d paragraph under the heading ``Civil 
+Aeronautics Administration'' in section 301 of the Act of June 3, 1948 
+(ch. 400, 62 Stat. 323, 324), are repealed.
+  (2) The 1st paragraph related to the transfer of aircraft and 
+equipment and the last proviso of the 2d paragraph under the heading 
+``Civil Aeronautics Administration'' in section 301 of the Act of July 
+20, 1949 (ch. 354, 63 Stat. 464), are repealed.
+  (3) The 1st paragraph related to the transfer of aircraft and 
+equipment and the last proviso of the 2d paragraph under the heading 
+``Civil Aeronautics Administration'', and the proviso of the paragraph 
+under the heading ``Civil Aeronautics Board'', in section 301 of the 
+Act of September 6, 1950 (ch. 896, 64 Stat. 621, 622, 624), are 
+repealed.
+  (4) The 1st paragraph related to the transfer of aircraft and 
+equipment and the last proviso of the 2d paragraph under the heading 
+``Civil Aeronautics Administration'', and the proviso of the paragraph 
+under the heading ``Civil Aeronautics Board'', in section 301 of the 
+Act of Oct. 22, 1951 (ch. 533, 65 Stat. 587, 588, 589), are repealed.
+  (5) The 1st paragraph related to the transfer of aircraft and 
+equipment and the last proviso of the 2d paragraph under the heading 
+``Civil Aeronautics Administration'' in section 301 of the Act of July 
+10, 1952 (ch. 651, 66 Stat. 562), are repealed.
+  (6) Sections 404(f), 814, 815, and 901 of the Rail Passenger Service 
+Act (Public Law 91-518, 84 Stat. 1327, 1341) are repealed.
+  (7) Section 7(c) of the Noise Control Act of 1972 (Public Law 92-574, 
+86 Stat. 1241) is repealed.
+  (8) Section 46 of the Airline Deregulation Act of 1978 (Public Law 
+95-504, 92 Stat. 1754) is repealed.
+  (9) Section 316 of the Surface Transportation Assistance Act of 1978 
+(Public Law 95-599, 92 Stat. 2751) is repealed.
+  (10) Sections 207 and 210 of the National Driver Register Act of 1982 
+(Public Law 97-364, 96 Stat. 1745, 1747) are repealed.
+  (11) Section 144 of the Surface Transportation Assistance Act of 1982 
+(Public Law 97-424, 96 Stat. 2129) is repealed.
+  (12) Section 8 of the Civil Aeronautics Board Sunset Act of 1984 
+(Public Law 98-443, 98 Stat. 1706) is repealed.
+  (13) The Act of October 11, 1984 (Public Law 98-466, 98 Stat. 1825), 
+is repealed.
+  (14) Sections 108(c) and 307 of the Pipeline Safety Reauthorization 
+Act of 1988 (Public Law 100-561, 102 Stat. 2809, 2817) are repealed.
+  (15) Sections 1 and 15(a), (c), (e), (f), and (g)(2) of the Sanitary 
+Food Transportation Act of 1990 (Public Law 101-500, 104 Stat. 1213, 
+1218, 1219, 1220, 1221) are repealed.
+  (16) Sections 1, 8, and 10 of the Independent Safety Board Act 
+Amendments of 1990 (Public Law 101-641, 104 Stat. 4654, 4657, 4658) are 
+repealed.
+  (17) Sections 11 and 13 of the Amtrak Authorization and Development 
+Act (Public Law 102-533, 106 Stat. 3520, 3522) are repealed.
+  (18) Section 319 of the Department of Transportation and Related 
+Agencies Appropriations Act, 1994 (Public Law 103-122, 107 Stat. 1222) 
+is repealed.
+
+SEC. 9. EFFECTIVE DATE.
+
+  The amendments made by sections 6(2)-(15), (19)-(35), (37)-(39), 
+(41), (44)-(52), (54)-(62), (65), (66)(B), (70), (73)-(76), and (78)-
+(81) of this Act shall take effect on July 5, 1994.
+
+SEC. 10. LEGISLATIVE PURPOSE AND CONSTRUCTION.
+
+  (a) No Substantive Change.--This Act restates, without substantive 
+change, laws enacted before September 26, 1994, that were replaced by 
+this Act. This Act may not be construed as making a substantive change 
+in the laws replaced. Laws enacted after September 25, 1994, that are 
+inconsistent with this Act supersede this Act to the extent of the 
+inconsistency.
+  (b) References.--A reference to a law replaced by this Act, including 
+a reference in a regulation, order, or other law, is deemed to refer to 
+the corresponding provision enacted by this Act.
+  (c) Continuing Effect.--An order, rule, or regulation in effect under 
+a law replaced by this Act continues in effect under the corresponding 
+provision enacted by this Act until repealed, Pamended, or superseded.
+  (d) Actions and Offenses Under Prior Law.--An action taken or an 
+offense committed under a law replaced by this Act is deemed to have 
+been taken or committed under the corresponding provision enacted by 
+this Act.
+  (e) Inferences.--An inference of a legislative construction is not to 
+be drawn by reason of the location in the United States Code of a 
+provision enacted by this Act or by reason of a caption or catchline of 
+the provision.
+  (f) Severability.--If a provision enacted by this Act is held 
+invalid, all valid provisions that are severable from the invalid 
+provision remain in effect. If a provision enacted by this Act is held 
+invalid in any of its applications, the provision remains valid for all 
+valid applications that are severable from any of the invalid 
+applications.
+
+SEC. 11. REPEALS.
+
+  (a) Inferences of Repeal.--The repeal of a law by this Act may not be 
+construed as a legislative inference that the provision was or was not 
+in effect before its repeal.
+  (b) Repealer Schedule.--The laws specified in the following schedule 
+are repealed, except for rights and duties that matured, penalties that 
+were incurred, and proceedings that were begun before the date of 
+enactment of this Act:
+
+                                            Schedule of Laws Repealed                                           
+                                                Statutes at Large                                               
+----------------------------------------------------------------------------------------------------------------
+                                                                      Statutes at Large            U.S. Code    
+        Date            Chapter or Public         Section       ------------------------------------------------
+                               Law                               Volume          Page         Title    Section  
+----------------------------------------------------------------------------------------------------------------
+1972 Oct. 20........  92-513..............  503, 511...........  ......  ...................     15   2003, 2011
+1975 Dec. 22........  94-163..............  301 ``Sec. 511''...      89  915................     15         2011
+1980 Feb. 18........  96-193..............  305................      94  57.................     49         2125
+                                                                                               App.             
+1982 Sept. 3........  97-248..............  505, 507, 508, 513.      96  677, 679, 682, 689.     49  2204, 2206,
+                                                                                               App.   2207, 2212
+1992 Oct. 24........  102-508.............  304(c).............     106  3308...............     49   1682(note)
+1993 Dec. 8.........  103-182.............  371................     107  2127...............     15         2003
+1994 May 26.........  103-260.............  102-107, 109.......     108  698, 700...........     49        2204,
+                                                                                               App.  2204(note),
+                                                                                                           2206,
+                                                                                                     2206(note),
+                                                                                                      2207, 2212
+July 5                103-272.............  4(c)...............     108  1361...............  .....  ...........
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

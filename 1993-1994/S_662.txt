@@ -1,0 +1,106 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 662 Enrolled Bill (ENR)]
+
+        S.662
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To amend title 38, United States Code, and title XIX of the Social 
+Security Act
+  
+  to make technical corrections relating to the Veterans Health Care Act 
+of 1992.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+SECTION 1. TECHNICAL CORRECTIONS OF PROVISIONS RELATING TO THE PRICE OF 
+DRUGS PURCHASED BY THE DEPARTMENT OF VETERANS AFFAIRS AND OTHER FEDERAL 
+AGENCIES.
+    (a) In General.--Section 8126 of title 38, United States Code, as 
+amended by section 603 of the Veterans Health Care Act of 1992, is 
+amended--
+        (1) in subsection (a)(2), by striking ``preceding such date'';
+        (2) in subsection (c)--
+            (A) in the matter preceding paragraph (1), by striking ``for 
+        calendar quarters'', and
+            (B) in paragraph (1)--
+                (i) by striking ``preceding the month during which the 
+            contract goes into effect''; and
+                (ii) by striking ``increased by'' and inserting 
+            ``multiplied by'';
+        (3) by amending subsection (d)(1) to read as follows:
+        ``(1) during any one-year period that follows the first year for 
+    which the contract is in effect, the contract price charged for the 
+    drug may not exceed the contract price charged during the preceding 
+    one-year period, increased by the percentage increase in the 
+    Consumer Price Index for all urban consumers (U.S. city average) 
+    during the 12-month period ending with the last month of such 
+    preceding one-year period for which Consumer Price Index data is 
+    available; and''; and
+        (4) by adding at the end the following new subsection:
+    ``(i)(1) If the Secretary modifies a multi-year contract described 
+in subsection (d) to include a covered drug of the manufacturer that was 
+not available for inclusion under the contract at the time the contract 
+went into effect, the price of the drug shall be determined as follows:
+        ``(A) For the portion of the first contract year during which 
+    the drug is so included, the price of the drug shall be determined 
+    in accordance with subsection (a)(2), except that the reference in 
+    such subsection to `the one-year period beginning on the date the 
+    agreement takes effect' shall be considered a reference to such 
+    portion of the first contract year.
+        ``(B) For any subsequent contract year, the price of the drug 
+    shall be determined in accordance with subsection (d), except that 
+    each reference in such subsection to `the first year for which the 
+    contract is in effect' shall be considered a reference to the 
+    portion of the first contract year during which the drug is included 
+    under the contract.
+    ``(2) In this subsection, the term `contract year' means any one-
+year period for which a multi-year contract described in subsection (d) 
+is in effect.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect as if included in the enactment of section 603 of the 
+Veterans Health Care Act of 1992.
+SEC. 2. TECHNICAL CORRECTION OF BUDGET NEUTRALITY ADJUSTMENT FOR 
+MEDICAID PRESCRIPTION DRUG REBATES.
+    (a) In General.--Section 1927(c)(1)(B)(ii)(II) of the Social 
+Security Act (42 U.S.C. 1396r-8(c)(1)(B)(ii)(II)), as amended by section 
+601(c) of the Veterans Health Care Act of 1992, is amended by striking 
+``drug;'' and inserting the following: ``drug, except that for the 
+calendar quarter beginning after September 30, 1992, and before January 
+1, 1993, the amount of the rebate may not exceed 50 percent of such 
+average manufacturer price;''.
+    (b) Effective Date.--The amendment made by subsection (a) shall take 
+effect as if included in the enactment of section 601(c) of the Veterans 
+Health Care Act of 1992.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

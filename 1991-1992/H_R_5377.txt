@@ -1,0 +1,121 @@
+ 
+--H.R.5377--
+H.R.5377
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Cash Management Improvement Act of 1990 to provide adequate
+time for implementation of that Act, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Cash Management Improvement Act Amendments
+  of 1992'.
+SEC. 2. AMENDMENTS TO THE CASH MANAGEMENT IMPROVEMENT ACT OF 1990.
+  The Cash Management Improvement Act of 1990 (Public Law 101-453, 104
+  Stat. 1058) is amended--
+  (1) in section 4(c) (31 U.S.C. 3335 note), by striking `by the date which
+  is 2 years after the date of the enactment of this Act';
+  (2) in section 5 (31 U.S.C. 6503 note)--
+  (A) in subsection (d)(1), by striking `not later than 2 years after the
+  date of enactment of this Act' and inserting `July 1, 1993 or the first
+  day of a State's fiscal year beginning in 1993, whichever is later';
+  (B) in subsection (d)(2), by striking `2 years after the date of enactment
+  of this Act' and inserting `on July 1, 1993 or the first day of a State's
+  fiscal year beginning in 1993, whichever is later'; and
+  (C) in subsection (e), by striking `2 years after the date of enactment
+  of this Act' and inserting `on July 1, 1993 or the first day of a State's
+  fiscal year beginning in 1993, whichever is later'; and
+  (3) in section 6 (31 U.S.C. 6503 note), by striking `Four' and inserting
+  `Five'.
+SEC. 3. INTERNAL REVENUE SERVICE TAX REFUND OFFSET.
+  Section 3720A of title 31, United States Code, is amended--
+  (1) by amending subsection (a) to read as follows:
+  `(a) Any Federal agency that is owed a past-due legally enforceable debt
+  (other than any past-due support), including debt administered by a third
+  party acting as an agent for the Federal Government, by a named person
+  shall, in accordance with regulations issued pursuant to subsections (b)
+  and (d), notify the Secretary of the Treasury at least once a year of the
+  amount of all such debt.';
+  (2) in subsection (b)--
+  (A) in paragraph (3) by striking out `and' at the end thereof;
+  (B) in paragraph (4) by striking out `to obtain payment of such debt.' and
+  inserting in lieu thereof `(determined on a government-wide basis) to
+  obtain payment of such debt; and'; and
+  (C) by adding at the end thereof the following new paragraph:
+  `(5) certifies that reasonable efforts have been made by the agency
+  (pursuant to regulations) to obtain payment of such debt.';
+  (3) by redesignating subsection (g) as subsection (h);
+  (4) in subsection (h) (as redesignated under paragraph (3) of this section)--
+  (A) in paragraph (2) by striking out `and' at the end thereof;
+  (B) in paragraph (3) by adding `; and' at the end thereof; and
+  (C) by adding after paragraph (3) the following new paragraph:
+  `(4) the term `person' means an individual; or a sole proprietorship,
+  partnership, corporation, nonprofit organization, or any other form of
+  business association.'; and
+  (5) by inserting after subsection (f) the following:
+  `(g) In the case of refunds of business associations, this section shall
+  apply only to refunds payable on or after January 1, 1995. In the case of
+  refunds of individuals who owe debts to Federal agencies that have not
+  participated in the Federal tax refund offset program prior to the date
+  of enactment of this subsection, this section shall apply only to refunds
+  payable on or after January 1, 1994.'.
+SEC. 4. EXTENSION OF THE PRIVATE COUNSEL PILOT.
+  (a) EXTENSION OF PROGRAM- The pilot debt collection program carried out
+  by the Attorney General under section 3718 (b) and (c) of title 31, United
+  States Code, as authorized and directed under section 3 of the Act entitled
+  `An Act to amend section 3718 of title 31, United States Code, to authorize
+  contracts retaining private counsel to furnish legal services in the case
+  of indebtedness owed the United States.' approved October 29, 1986 (37
+  U.S.C. 3718 note; Public Law 99-578) is extended through September 30, 1996.
+  (b) EXTENSION OF JUDICIAL DISTRICTS- Section 3 of such Act is amended by
+  striking out `not more than 10' and inserting in lieu thereof `not more
+  than 15'.
+  (c) EXTENSION OF AUTHORIZATION- Section 5 of such Act is amended by
+  striking out all after `effect' and inserting in lieu thereof `until
+  September 30, 1996.'.
+  (d) CONTRACT EXTENSION- The Attorney General may extend or modify any or
+  all of the contracts entered into with private counsel prior to October 1,
+  1992, for such time as is necessary to conduct a full and open competition
+  in accordance with section 3718(b) of title 31, United States Code.
+SEC. 5. AUDIT BY INSPECTOR GENERAL.
+  (a) CONTENTS OF AUDIT- The Inspector General of the Department of Justice
+  shall conduct an audit, for the period beginning on October 1, 1991,
+  and ending on September 30, 1994, of the actions of the Attorney General
+  under subsection (b) of section 3718 of title 31, United States Code,
+  under the pilot program referred to in section 3 of the Act entitled `An
+  Act to amend section 3718 of title 31, United States Code, to authorize
+  contracts retaining private counsel to furnish legal services in the case
+  of indebtedness owed the United States.', approved October 29, 1986 (37
+  U.S.C. 3718 note; Public Law 99-578). The Inspector General shall determine
+  the extent of the competition among private counsel to obtain contracts
+  awarded under such subsection, the reasonableness of the fees provided in
+  such contracts, the diligence and efforts of the Attorney General to retain
+  private counsel in accordance with the provisions of such subsection, the
+  results of the debt collection efforts of private counsel retained under
+  such contracts, and the cost-effectiveness of the pilot project compared
+  with the use of United States Attorneys' Offices for debt collection.
+  (b) REPORT TO CONGRESS- After completing the audit under subsection (a), the
+  Inspector General shall transmit to the Congress, not later than June 30,
+  1995, a report on the findings, conclusions, and recommendations resulting
+  from the audit.
+SEC. 6. ADDITIONAL REPORTING REQUIREMENTS ON CONTRACTS FOR LEGAL SERVICES.
+  Section 3718 of title 31, United States Code, is amended by adding at the
+  end thereof the following new subsection:
+  `(g) In order to assist Congress in determining whether use of private
+  counsel is a cost-effective method of collecting Government debts,
+  the Attorney General shall, following consultation with the General
+  Accounting Office, maintain and make available to the Inspector General
+  of the Department of Justice, statistical data relating to the comparative
+  costs of debt collection by participating United States Attorneys' Offices
+  and by private counsel.'.
+SEC. 7. EFFECTIVE DATE.
+  The provisions of this Act and amendments made by this Act shall take effect
+  on the date of enactment of this Act, except if such date of enactment
+  is on or after October 1, 1992, such provisions and amendments shall be
+  effective as if enacted on September 30, 1992.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

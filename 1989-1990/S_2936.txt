@@ -1,0 +1,1582 @@
+ 
+--S.2936--
+S.2936
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Hazardous Materials Transportation Act to authorize appropriations
+for fiscal years 1990, 1991, and 1992, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `Hazardous Materials
+ Transportation Uniform Safety Act of 1990'.
+ (b) REFERENCE- Except as otherwise specifically provided, whenever in this Act
+ an amendment or repeal is expressed in terms of an amendment to, or repeal of,
+ a section or other provision, the reference shall be considered to be made
+ to a section or other provision of the Hazardous Materials Transportation Act.
+ (c) TABLE OF CONTENTS-
+Sec. 1. Short title; reference; table of contents.
+Sec. 2. Findings.
+Sec. 3. Definitions.
+Sec. 4. Federal regulations governing transportation of hazardous materials.
+Sec. 5. Representation and tampering.
+Sec. 6. Disclosure.
+Sec. 7. Handling of hazardous materials.
+Sec. 8. Hazardous materials transportation registration; motor carrier
+safety permits.
+Sec. 9. Exemptions.
+Sec. 10. Definition of certain materials.
+Sec. 11. Secretary's powers.
+Sec. 12. Penalties.
+Sec. 13. Relationship to other laws.
+Sec. 14. Funding.
+Sec. 15. Transportation of certain highly radioactive materials.
+Sec. 16. Inspectors.
+Sec. 17. Public sector training and planning.
+Sec. 18. Hazmat employee training grant program.
+Sec. 19. Railroad tank cars.
+Sec. 20. Application of Federal, State, and local law to Federal contractors.
+Sec. 21. Railroad tank car study.
+Sec. 22. Uniformity of State motor carrier registration and permitting forms
+and procedures.
+Sec. 23. Financial responsibility.
+Sec. 24. Federally leased commercial motor vehicles.
+Sec. 25. Improvements to hazardous materials identification systems.
+Sec. 26. Continually monitored telephone systems.
+Sec. 27. Shipper responsibility report.
+Sec. 28. State participation in investigations and surveillance.
+Sec. 29. Retention of markings and placards.
+Sec. 30. Relationship to Federal Railroad Safety Act of 1970.
+Sec. 31. Effective date.
+SEC. 2. FINDINGS.
+ The Congress finds that--
+ (1) the Department of Transportation estimates that approximately 4 billion
+ tons of regulated hazardous materials are transported each year and that
+ approximately 500,000 movements of hazardous materials occur each day,
+ (2) accidents involving the release of hazardous materials are a serious
+ threat to public health and safety,
+ (3) many States and localities have enacted laws and regulations which
+ vary from Federal laws and regulations pertaining to the transportation
+ of hazardous materials, thereby creating the potential for unreasonable
+ hazards in other jurisdictions and confounding shippers and carriers which
+ attempt to comply with multiple and conflicting registration, permitting,
+ routing, notification, and other regulatory requirements,
+ (4) because of the potential risks to life, property, and the environment
+ posed by unintentional releases of hazardous materials, consistency in
+ laws and regulations governing the transportation of hazardous materials
+ is necessary and desirable,
+ (5) in order to achieve greater uniformity and to promote the public health,
+ welfare, and safety at all levels, Federal standards for regulating the
+ transportation of hazardous materials in intrastate, interstate, and foreign
+ commerce are necessary and desirable,
+ (6) in order to provide reasonable, adequate, and cost-effective protection
+ from the risks posed by the transportation of hazardous materials, a
+ network of adequately trained State and local emergency response personnel
+ is required,
+ (7) the Office of Technology Assessment has estimated that approximately
+ 1,500,000 emergency response personnel need better basic or advanced training
+ for responding to the unintentional release of hazardous materials at fixed
+ facilities and in transportation, and
+ (8) the movement of hazardous materials in commerce is necessary and
+ desirable to maintain economic vitality and meet consumer demands, and
+ shall be conducted in a safe and efficient manner.
+SEC. 3. DEFINITIONS.
+ (a) DEFINITIONS- Section 103 (49 U.S.C. App. 1802) is amended to read
+ as follows:
+`SEC. 103. DEFINITIONS.
+ `For purposes of this title, the following definitions apply:
+ `(1) ADMINISTRATOR- The term `Administrator' means the Administrator of
+ the Environmental Protection Agency.
+ `(2) COMMERCE- The term `commerce' means trade, traffic, commerce, or
+ transportation within the jurisdiction of the United States (A) between a
+ place in a State and any place outside of such State, or (B) which affects
+ trade, traffic, commerce, or transportation described in subparagraph (A).
+ `(3) DIRECTOR- The term `Director' means the Director of the Federal
+ Emergency Management Agency.
+ `(4) HAZARDOUS MATERIAL- The term `hazardous material' means a substance
+ or material designated by the Secretary under section 104.
+ `(5) HAZMAT EMPLOYEE- The term `hazmat employee' means an individual who
+ is employed by a hazmat employer and who in the course of the individual's
+ employment directly affects hazardous materials transportation safety
+ as determined by the Secretary by regulation. Such term includes an
+ owner-operator of a motor vehicle which transports in commerce hazardous
+ materials. Such term includes, at a minimum, an individual who is employed
+ by a hazmat employer and who in the course of the individual's employment--
+ `(A) loads, unloads, or handles hazardous materials;
+ `(B) reconditions or tests containers, drums, and packages represented for
+ use in the transportation of hazardous materials;
+ `(C) prepares hazardous materials for transportation;
+ `(D) is responsible for the safety of the transportation of hazardous
+ materials; or
+ `(E) operates a vehicle used to transport hazardous materials.
+ `(6) HAZMAT EMPLOYER- The term `hazmat employer' means a person--
+ `(A)(i) who transports in commerce hazardous materials,
+ `(ii) who causes to be transported or shipped in commerce hazardous
+ materials, or
+ `(iii) who reconditions or tests containers, drums, and packages represented
+ for use in the transportation of hazardous materials; and
+ `(B) who utilizes 1 or more of its employees in connection with such activity.
+Such term includes an owner-operator of a motor vehicle which transports
+in commerce hazardous materials. Such term includes any department, agency,
+or instrumentality of the United States, a State, a political subdivision of
+a State, or an Indian tribe engaged in an activity described in subparagraph
+(A)(i), (A)(ii), or (A)(iii).
+ `(7) IMMINENT HAZARD- The term `imminent hazard' means the existence of
+ a condition which presents a substantial likelihood that death, serious
+ illness, severe personal injury, or substantial endangerment to health,
+ property, or the environment may occur before the reasonably foreseeable
+ completion of an administrative hearing or other formal proceeding initiated
+ to abate the risks of those effects.
+ `(8) INDIAN TRIBE- The term `Indian tribe' shall have the meaning given
+ that term under section 4 of the Indian Self-Determination and Education Act
+ (25 U.S.C. 450b).
+ `(9) MOTOR CARRIER- The term `motor carrier' means a motor common carrier,
+ motor contract carrier, motor private carrier, and freight forwarder as
+ those terms are defined in section 10102 of title 49, United States Code.
+ `(10) NATIONAL RESPONSE TEAM- The term `National Response Team' means the
+ national response team established pursuant to the National Contingency
+ Plan as established under section 105 of the Comprehensive Environmental
+ Response, Compensation, and Liability Act of 1980.
+ `(11) PERSON- The term `person' means an individual, firm, copartnership,
+ corporation, company, association, joint-stock association, including
+ any trustee, receiver, assignee, or similar representative thereof, or
+ government, Indian tribe, or agency or instrumentality of any government
+ or Indian tribe when it offers hazardous materials for transportation in
+ commerce or transports hazardous materials in furtherance of a commercial
+ enterprise, but such term does not include (A) the United States Postal
+ Service, or (B) for the purposes of sections 110 and 111 of this title,
+ any agency or instrumentality of the Federal Government.
+ `(12) PUBLIC SECTOR EMPLOYEE- The term `public sector employee' means an
+ individual who is employed by a State or a political subdivision thereof
+ or an Indian tribe and who in the course of the individual's employment has
+ responsibilities relating to responding to accidents and incidents involving
+ the transportation of hazardous materials. Such term includes, at a minimum,
+ a person employed by a State or political subdivision thereof or an Indian
+ tribe as a firefighter or law enforcement officer. Such term also includes
+ a person who volunteers to serve as a firefighter for a State or political
+ subdivision thereof or an Indian tribe.
+ `(13) SECRETARY- The term `Secretary' means the Secretary of Transportation
+ or the Secretary's delegate.
+ `(14) STATE- The term `State' means a State of the United States, the
+ District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of
+ the Northern Mariana Islands, the Virgin Islands, American Samoa, Guam,
+ or any other territory or possession of the United States designated by
+ the Secretary; except that as used in section 121, relating to uniformity
+ of State registration and permitting forms and procedures, such term means
+ a State of the United States and the District of Columbia.
+ `(15) TRANSPORTS OR TRANSPORTATION- The term `transports' or `transportation'
+ means any movement of property by any mode, and any loading, unloading,
+ or storage incidental thereto.
+ `(16) UNITED STATES- The term `United States' means all of the States.'.
+ (b) CONFORMING AMENDMENT- Section 111(b) (49 U.S.C. App. 1810(b)) is amended
+ by striking the second sentence.
+SEC. 4. FEDERAL REGULATIONS GOVERNING TRANSPORTATION OF HAZARDOUS MATERIALS.
+ Section 105 (49 U.S.C. App. 1804) is amended to read as follows:
+`SEC. 105. REGULATIONS GOVERNING TRANSPORTATION OF HAZARDOUS MATERIALS.
+ `(a) GENERAL-
+ `(1) ISSUANCE- The Secretary shall issue regulations for the safe
+ transportation of hazardous materials in intrastate, interstate, and foreign
+ commerce. The regulations issued under this section shall govern any aspect
+ of hazardous materials transportation safety which the Secretary deems
+ necessary or appropriate.
+ `(2) PROCEDURES- Regulations issued under paragraph (1) shall be issued in
+ accordance with section 553 of title 5, United States Code, including an
+ opportunity for informal oral presentation.
+ `(3) APPLICABILITY- Regulations issued under paragraph (1) shall be applicable
+ to any person who transports, ships, causes to be transported or shipped,
+ or who manufactures, fabricates, marks, maintains, reconditions, repairs,
+ or tests a package or container which is represented, marked, certified, or
+ sold by such person as qualified for use in the transportation in commerce
+ of hazardous materials.
+ `(4) PREEMPTION-
+ `(A) GENERAL RULE- Except as provided in subsection (b) and unless otherwise
+ authorized by Federal law, any law, regulation, order, ruling, provision, or
+ other requirement of a State or political subdivision thereof or an Indian
+ tribe, which concerns a subject listed in subparagraph (B) and which is
+ not substantively the same as any provision of this Act or any regulation
+ under such provision which concerns such subject, is preempted.
+ `(B) COVERED SUBJECTS- The subjects referred to in subparagraph (A) are
+ the following:
+ `(i) The designation, description, and classification of hazardous materials.
+ `(ii) The packing, repacking, handling, labeling, marking, and placarding
+ of hazardous materials.
+ `(iii) The preparation, execution, and use of shipping documents pertaining
+ to hazardous materials and requirements respecting the number, content,
+ and placement of such documents.
+ `(iv) The written notification, recording, and reporting of the unintentional
+ release in transportation of hazardous materials.
+ `(v) The design, manufacturing, fabrication, marking, maintenance,
+ reconditioning, repairing, or testing of a package or container which
+ is represented, marked, certified, or sold as qualified for use in the
+ transportation of hazardous materials.
+ `(C) LIMITATION ON FINES AND PENALTIES- If a State or political subdivision
+ or Indian tribe assesses any fine or penalty determined by the Secretary to
+ be appropriate for a violation concerning a subject listed in subparagraph
+ (B), no additional fine or penalty may be assessed for such violation by
+ any other authority.
+ `(5) STATE LAWS WHICH ARE SUBSTANTIVELY THE SAME AS FEDERAL LAW-
+ `(A) CONTINUATION- If the Secretary issues under this section before, on,
+ or after the date of the enactment of the Hazardous Materials Transportation
+ Uniform Safety Act of 1990, a regulation, rule, or standard concerning any
+ subject set forth in paragraph (4), a State, political subdivision of a
+ State, or Indian tribe may only establish, maintain, and enforce a law,
+ regulation, rule, standard, or order concerning such subject which is
+ substantively the same as any provision of this Act or any regulation,
+ rule, or order issued under such provision.
+ `(B) EFFECTIVE DATE OF FEDERAL PREEMPTION- The Secretary shall determine
+ and publish in the Federal Register the effective date of paragraph (1) with
+ respect to any regulation, rule, or standard described in subparagraph (A)
+ and which is issued after such date of enactment by the Secretary; except
+ that such effective date may not be earlier than the 90th day following the
+ date of such issuance and may not be later than the last day of the 2-year
+ period beginning on the date of such issuance.
+ `(b) HIGHWAY ROUTING-
+ `(1) STATE AUTHORITY- Subject to paragraphs (4) and (5), each State and Indian
+ tribe may establish, maintain, and enforce (A) specific highway routes over
+ which hazardous materials may and may not be transported by motor vehicles
+ in the area which is subject to the jurisdiction of such State or Indian
+ tribe, and (B) limitations and requirements with respect to highway routing.
+ `(2) ISSUANCE OF FEDERAL STANDARDS- Not later than 18 months after the
+ date of the enactment of the Hazardous Materials Transportation Uniform
+ Safety Act of 1990, the Secretary, in consultation with the States, shall
+ establish by regulation standards for States and Indian tribes to use in
+ establishing, maintaining, and enforcing (A) specific highway routes over
+ which hazardous materials may and may not be transported by motor vehicles,
+ and (B) limitations and requirements with respect to highway routing.
+ `(3) CONTENTS OF STANDARDS- The Federal standards established pursuant to
+ paragraph (2) shall include the following:
+ `(A) ENHANCEMENT OF PUBLIC SAFETY- A requirement that highway routing
+ designations, limitations, and requirements established, maintained,
+ and enforced by a State or Indian tribe shall enhance public safety (i)
+ in the area subject to the jurisdiction of the State or Indian tribe, and
+ (ii) in areas of the United States not subject to such jurisdiction which
+ are directly affected by such designations, limitations, and requirements.
+ `(B) PUBLIC PARTICIPATION- Minimum procedural requirements for ensuring
+ public participation in the establishment by a State or Indian tribe of
+ highway routing designations, limitations, and requirements.
+ `(C) CONSULTATION WITH OTHER GOVERNMENTS- A requirement that, in establishing
+ highway routing designations, limitations, and requirements, the State
+ or Indian tribe shall consult with appropriate State, local, and tribal
+ officials having jurisdiction over areas of the United States not subject
+ to the jurisdiction of the establishing State or Indian tribe and affected
+ industries.
+ `(D) THROUGH ROUTING- A requirement that highway routing designations,
+ limitations, and requirements established, maintained, and enforced by a State
+ or Indian tribe shall assure through highway routing for the transportation
+ of hazardous materials between adjacent areas.
+ `(E) AGREEMENT OF OTHER STATES; BURDEN ON COMMERCE- A  requirement  that  a
+ highway  routing designation, limitation, or requirement which affects the
+ transportation of hazardous materials in another State or Indian tribe may
+ only be established, maintained, and enforced by a State or Indian tribe if
+ (i) it is agreed to by the other State or Indian tribe within a reasonable
+ period or has been approved by the Secretary under paragraph (5), and (ii)
+ does not unreasonably burden commerce.
+ `(F) TIMELINESS- A requirement that the establishment of highway routing
+ designations, limitations, and requirements by a State or Indian tribe
+ shall be completed in a timely manner.
+ `(G) REASONABLE ROUTES TO TERMINALS- A requirement that highway routing
+ designations, limitations, and requirements established, maintained,
+ and enforced by a State or Indian tribe shall provide reasonable routes
+ for motor vehicles transporting hazardous materials to reach terminals,
+ facilities for food, fuel, repairs, and rest, and points for the loading
+ and unloading of hazardous materials.
+ `(H) STATE RESPONSIBILITY FOR LOCAL COMPLIANCE- A requirement that the
+ State shall be responsible (i) for ensuring that political subdivisions of
+ the State comply with the Federal standards in establishing, maintaining,
+ and enforcing highway routing designations, limitations, and requirements,
+ and (ii) for resolving disputes between or among such political subdivisions.
+ `(I) FACTORS TO CONSIDER- A requirement that, in establishing, maintaining,
+ and enforcing highway routing designations, limitations, and requirements,
+ a State or Indian tribe consider--
+ `(i) population density,
+ `(ii) type of highways,
+ `(iii) type and quantities of hazardous materials,
+ `(iv) emergency response capabilities,
+ `(v) results of consultations with affected persons,
+ `(vi) exposure and other risk factors,
+ `(vii) terrain considerations,
+ `(viii) continuity of routes,
+ `(ix) alternative routes,
+ `(x) effects on commerce,
+ `(xi) delays in transportation, and
+ `(xii) such other factors as the Secretary considers appropriate
+ `(4) PREEMPTION-
+ `(A) GENERAL RULE- Except as otherwise provided in this paragraph, after
+ the last day of the 2-year period beginning on the date of the issuance of
+ the regulations establishing the Federal standards pursuant to paragraph
+ (2), no State or Indian tribe may establish, maintain, or enforce--
+ `(i) any highway route designation over which hazardous materials may or
+ may not be transported by motor vehicles, or
+ `(ii) any limitation or requirement with respect to such routing,
+unless such designation, limitation, or requirement is made in accordance
+with the procedural requirements of the Federal standards and complies with
+the substantive requirements of the Federal standards.
+ `(B) GRANDFATHER CLAUSE- Designations, limitations, and requirements
+ established before the date of issuance referred to in subparagraph (A)
+ do not have to be in accordance with procedural requirements of the Federal
+ standards established pursuant to paragraphs (3)(B), (3)(C), and (3)(F).
+ `(C) LIMITATION WITH RESPECT TO CONSIDERATION OF FACTORS- Nothing in this
+ subsection shall be construed as requiring a State or Indian tribe to
+ comply with paragraph (3)(I) with respect to designations, limitations, and
+ requirements established before the date of the enactment of the Hazardous
+ Materials Transportation Uniform Safety Act of 1990.
+ `(D) CONTINUATION OF EFFECTIVENESS DURING DISPUTE RESOLUTION- The Secretary
+ may permit a highway route designation or limitation or requirement of a State
+ or Indian tribe to continue in effect pending the resolution of a dispute
+ under paragraph (5) relating to such designation, limitation, or requirement.
+ `(5) DISPUTE RESOLUTION-
+ `(A) PETITION OF SECRETARY- If a dispute over a matter relating to through
+ highway routing or a dispute relating to agreement with a proposed highway
+ route designation, limitation, or requirement arises between or among
+ States, political subdivisions of different States, or Indian tribes, 1 or
+ more of such States or Indian tribes may petition the Secretary to resolve
+ the dispute.
+ `(B) PROCEDURE- The Secretary shall, within 18 months of the date of the
+ enactment of the Hazardous Materials Transportation Uniform Safety Act of
+ 1990, issue regulations for resolving disputes under this paragraph.
+ `(C) TIME PERIOD- The Secretary shall resolve a dispute under this paragraph
+ within 1 year after the date the Secretary receives the petition for
+ resolution of such dispute.
+ `(D) STANDARD- Resolution of a dispute under this paragraph shall provide
+ the greatest level of highway safety without unreasonably burdening commerce
+ and shall ensure compliance with the Federal standards established pursuant
+ to paragraph (2).
+ `(E) LIMITATION ON JUDICIAL REVIEW- After a petition is filed under this
+ paragraph to resolve a dispute, no court action may be brought with respect
+ to the subject matter of such dispute until a final decision of the Secretary
+ is issued under this paragraph or the last day of the 1-year period beginning
+ on the day the Secretary receives such petition, whichever occurs first.
+ `(F) JUDICIAL REVIEW- Any State or Indian tribe which is adversely affected
+ by a decision of the Secretary under this paragraph may, at any time before
+ the 90th day following the date such decision becomes final, bring an action
+ for judicial review in an appropriate district court of the United States.
+ `(6) LIMITATION ON STATUTORY CONSTRUCTION- Nothing in this subsection
+ and the regulations issued under this subsection shall be construed as
+ superseding or otherwise affecting application of section 127 of title 23,
+ United States Code, relating to vehicle weight limitations, or section 411
+ or 416 of the Surface Transportation Assistance Act of 1982, relating to
+ vehicle length and vehicle width limitations, respectively.
+ `(7) LIMITATION ON APPLICABILITY-
+ `(A) PLACARDED MOTOR VEHICLES- Subject to subparagraph (B), this subsection
+ only applies to a motor vehicle if the vehicle is transporting in commerce
+ a hazardous material for which placarding of the vehicle is required in
+ accordance with the regulations issued under this title.
+ `(B) AUTHORITY TO EXTEND APPLICABILITY- The Secretary may, by regulation,
+ extend application of this subsection or any Federal standard established
+ pursuant to paragraph (2)--
+ `(i) to any use of a vehicle described in subparagraph (A) to provide
+ transportation in commerce of any hazardous material; and
+ `(ii) to any motor vehicle used to transport in commerce hazardous materials.
+ `(8) EXISTING REGULATIONS RELATING TO RADIOACTIVE MATERIALS- Nothing in this
+ subsection shall be construed to require the Secretary to amend, modify,
+ or reissue regulations issued by the Department of Transportation before
+ the date of the enactment of this paragraph and in effect on such date with
+ respect to highway route designations over which radioactive materials may
+ and may not be transported by motor vehicles and limitations and requirements
+ with respect to such routing.
+ `(9) LIMITATION ON AUTHORITY OF SECRETARY- The Secretary may not assign any
+ specific weight to be given by the States and Indian tribes in considering
+ factors pursuant to paragraph (3)(I).
+ `(c) LIST OF ROUTE DESIGNATIONS- The Secretary, in coordination with the
+ States, shall periodically update and publish a list of currently effective
+ hazardous materials highway route designations.
+ `(d) INTERNATIONAL UNIFORMITY-
+ `(1) DOT PARTICIPATION IN INTERNATIONAL FORUMS- Subject to guidance and
+ direction from the Secretary of State, the Secretary shall participate in
+ international forums that establish or recommend mandatory standards and
+ requirements for the transportation of hazardous materials in international
+ commerce.
+ `(2) CONSULTATION- The Secretary may consult with interested agencies to
+ assure that, to the extent practicable, regulations issued by the Secretary
+ pursuant to this section shall be consistent with standards adopted
+ by international bodies applicable to the transportation of hazardous
+ materials. Nothing in this subsection shall require the Secretary to issue
+ a standard identical to a standard adopted by an international body, if
+ the Secretary determines the standard to be unnecessary or unsafe, nor
+ shall the Secretary be prohibited from establishing safety requirements
+ that are more stringent than those included in a standard adopted by an
+ international body, if the Secretary determines that such requirements are
+ necessary in the public interest.'.
+SEC. 5. REPRESENTATION AND TAMPERING.
+ Section 105 (49 U.S.C. App. 1804), as amended by section 4, is amended by
+ adding at the end the following new subsections:
+ `(e) UNLAWFUL REPRESENTATION- No person shall, by marking or otherwise,
+ represent that--
+ `(1) a container or package for the transportation of hazardous materials
+ is safe, certified, or in compliance with the requirements of this title
+ unless it meets the requirements of all applicable regulations issued under
+ this title; or
+ `(2) a hazardous material is present in a package, container, motor vehicle,
+ rail freight car, aircraft, or vessel, if the hazardous material is not
+ present.
+ `(f) UNLAWFUL TAMPERING- No person shall unlawfully alter, remove, deface,
+ destroy, or otherwise tamper with--
+ `(1) any marking, label, placard, or description on a document required by
+ this title or a regulation issued under this title; or
+ `(2) any package, container, motor vehicle, rail freight car, aircraft,
+ or vessel used for the transportation of hazardous materials.
+SEC. 6. DISCLOSURE.
+ Section 105 (49 U.S.C. App. 1804), as amended by section 5, is amended by
+ adding at the end the following new subsection:
+ `(g) DISCLOSURE-
+ `(1) MAINTENANCE OF SHIPPING PAPER- Each person who offers for transportation
+ in commerce a hazardous material that is subject to the shipping paper
+ requirements of the Secretary shall provide the carrier who is providing
+ such transportation any shipping paper that makes the disclosure established
+ by the Secretary under paragraph (2) for the carrier to maintain on the
+ vehicle to be used to provide such transportation. If the person offering
+ such material for transportation is also a private motor carrier, such
+ person shall maintain such shipping paper on the vehicle.
+ `(2) CONSIDERATIONS AND CONTENTS- In carrying out paragraph (1), the
+ Secretary shall consider and may require the following:
+ `(A) a description of the hazardous material, including the proper shipping
+ name of the material,
+ `(B) the hazard class of the hazardous material,
+ `(C) the identification number (UN/NA) of the material,
+ `(D) immediate first action emergency response information or a means
+ for appropriate reference to such information which must be immediately
+ available, and
+ `(E) a telephone number for the purpose of obtaining more specific handling
+ and mitigation information concerning the hazardous material at any time
+ during its transportation.
+ `(3) SPECIFICATION OF LOCATION- The shipping paper referred to in paragraph
+ (1) shall be kept in a location, to be specified by the Secretary, in the
+ motor vehicle, train, vessel, aircraft, or facility until the hazardous
+ material is no longer in transportation or the documents have been made
+ available to a representative of a Federal, State, or local government
+ agency responding to an accident or incident involving the motor vehicle,
+ train, vessel, aircraft, or facility.
+ `(4) DISCLOSURE TO EMERGENCY RESPONSE AUTHORITIES- Any person who transports a
+ hazardous material in commerce shall, in the event of an incident involving
+ such material, immediately disclose to appropriate emergency response
+ authorities, upon their request, information on the hazardous material
+ being transported.'.
+SEC. 7. HANDLING OF HAZARDOUS MATERIALS.
+ Section 106 (49 U.S.C. App. 1805) is amended--
+ (1) by redesignating subsections (b) and (c), and any reference thereto,
+ as subsections (e) and (f), respectively;
+ (2) in subsection (e), as so redesignated, by striking `(b)' and inserting
+ `(c)'; and
+ (3) by inserting after subsection (a) the following new subsection:
+ `(b) TRAINING CRITERIA FOR SAFE HANDLING AND TRANSPORTATION-
+ `(1) FEDERAL REQUIREMENTS- Within 18 months after the date of the enactment
+ of the Hazardous Materials Transportation Uniform Safety Act of 1990, the
+ Secretary shall issue, by regulation, requirements for training to be given
+ by all hazmat employers to their hazmat employees regarding the safe loading,
+ unloading, handling, storing, and transporting of hazardous materials and
+ emergency preparedness for responding to accidents or incidents involving
+ the transportation of hazardous materials.
+ `(2) DIFFERENT TRAINING REQUIREMENTS- The regulations issued under paragraph
+ (1) may provide for different training for different classes or categories
+ of hazardous materials and hazmat employees.
+ `(3) COORDINATION OF EMERGENCY RESPONSE TRAINING REGULATIONS- In consultation
+ with the Administrator and the Secretary of Labor, the Secretary shall take
+ such actions as may be necessary to ensure that the training requirements
+ established under this subsection do not conflict with the requirements of
+ the regulations issued by the Occupational Safety and Health Administration
+ of the Department of Labor relating to hazardous waste operations and
+ emergency response contained in part 1910 of title 29 of the Code of
+ Federal Regulations (and amendments thereto) and the regulations issued
+ by the Environmental Protection Agency relating to worker protection
+ standards for hazardous waste operations contained in part 311 of title
+ 40 of such Code (and amendments thereto). For purposes of section 4(b)(1)
+ of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)),
+ no action taken by the Secretary pursuant to this section shall be deemed
+ to be an exercise of statutory authority to prescribe or enforce standards
+ or regulations affecting occupational safety or health.
+ `(4) COMMENCEMENT OF TRAINING- Within 6 months after the date on which the
+ Secretary issues regulations under this subsection, each hazmat employer
+ shall have commenced training of its hazmat employees in accordance with
+ the requirements established by such regulations.
+ `(5) COMPLETION OF TRAINING- Regulations issued under this subsection shall
+ establish the date by which training of hazmat employees shall be completed in
+ order to comply with requirements established by such regulations. Such date
+ shall be within a reasonable period of time after (A) 6 months following the
+ date of the issuance of such regulations, or (B) in the case of an individual
+ employed as a hazmat employee after such 6-month period, the date on which
+ the individual is to begin carrying out a duty of a hazmat employee.
+ `(6) CERTIFICATION- After completion of training of its hazmat employees
+ in accordance with the requirements established under this subsection, each
+ hazmat employer shall certify, with such appropriate documentation as may be
+ required by regulation by the Secretary, that the employer's hazmat employees
+ have received training and have been tested on appropriate transportation
+ areas of responsibility, including one or more of the following areas:
+ `(A) Recognition and understanding of the Department of Transportation
+ hazardous materials classification system.
+ `(B) Use and limitations of the Department of Transportation hazardous
+ materials placarding, labeling, and marking systems.
+ `(C) General handling procedures, loading and unloading techniques,
+ and strategies to reduce the probability of release or damage during or
+ incidental to transportation of hazardous materials.
+ `(D) Health, safety, and risk factors associated with hazardous materials
+ and their transportation.
+ `(E) Appropriate emergency response and communication procedures for dealing
+ with accidents and incidents involving hazardous materials transportation.
+ `(F) Use of the Department of Transportation Emergency Response Guidebook
+ and recognition of its limitations or use of equivalent documents and
+ recognition of the limitations of such documents.
+ `(G) Applicable hazardous materials transportation regulations.
+ `(H) Personal protection techniques.
+ `(I) Preparation of shipping documents for transportation of hazardous
+ materials.
+ `(7) APPLICABILITY OF INFORMATION MANAGEMENT REQUIREMENTS- Chapter 35
+ of title 44, United States Code (relating to coordination of Federal
+ information policy) shall not apply to activities of the Secretary under
+ this subsection.'.
+SEC. 8. HAZARDOUS MATERIALS TRANSPORTATION REGISTRATION; MOTOR CARRIER
+SAFETY PERMITS.
+ Section 106 (49 U.S.C. App. 1805), as amended by section 7, is amended by
+ inserting after subsection (b) the following new subsections:
+ `(c) REGISTRATION-
+ `(1) MANDATORY FILINGS- Each person who carries out one or more of the
+ following activities shall file with the Secretary a registration statement
+ in accordance with the provisions of this subsection:
+ `(A) Transporting or causing to be transported or shipped in commerce
+ highway-route controlled quantities of radioactive materials, more than 25
+ kilograms of class A or class B explosives in a motor vehicle, rail car, or
+ transport container, or more than 1 liter per package of a hazardous material
+ which has been designated by the Secretary as extremely toxic by inhalation.
+ `(B) Transporting or causing to be transported or shipped in commerce a
+ hazardous material in a bulk package, container, or tank as defined by the
+ Secretary if the package, container, or tank has a capacity of 3,500 or
+ more gallons or more than 468 cubic feet.
+ `(C) Transporting or causing to be transported or shipped in commerce a
+ shipment of 5,000 pounds or more of a class of a hazardous material for
+ which placarding of a vehicle, rail car, or freight container is required
+ in accordance with the regulations issued under this title.
+ `(2) COOPERATION OF EPA- The Administrator shall assist the Secretary in
+ carrying out this subsection by furnishing the Secretary with such information
+ as the Secretary may request in order to carry out the objectives of this
+ section.
+ `(3) DISCRETIONARY FILINGS- The Secretary may require each person who carries
+ out one or more of the following activities to file a registration statement
+ with the Secretary in accordance with the provisions of this subsection:
+ `(A) Transporting or causing to be transported or shipped in commerce
+ hazardous materials and who is not required to file a registration statement
+ under paragraph (1).
+ `(B) Manufacturing, fabricating, marking, maintaining, reconditioning,
+ repairing, or testing packages or containers which are represented, marked,
+ certified, or sold by such person for use in the transportation in commerce
+ of hazardous materials designated by the Secretary.
+ `(4) REQUIREMENT- No person required to file a registration statement by or
+ under this subsection may transport or cause to be transported or shipped
+ hazardous materials, or manufacture, fabricate, mark, maintain, recondition,
+ repair, or test packages or containers for use in the transportation of
+ hazardous materials, unless such person has on file a registration statement
+ in accordance with this subsection.
+ `(5) FILING DEADLINES-
+ `(A) INITIAL FILINGS- Each person who is required to file a registration
+ statement by or under this subsection shall file an initial registration
+ statement by March 31, 1992. The Secretary may extend such date to September
+ 30, 1992, with respect to the requirements of paragraph (1).
+ `(B) RENEWALS- Subject to the provisions of this subsection, each person
+ who is required to file a registration statement by or under this section
+ shall renew such registration statement periodically in accordance with
+ regulations issued by the Secretary, but no less frequently than every 5
+ years and no more frequently than annually.
+ `(6) AMENDMENTS- The Secretary shall by regulation determine when and under
+ what circumstances a registration statement filed under this subsection
+ with the Secretary must be amended and the procedures to be followed in
+ amending such statement.
+ `(7) CONTENTS- A registration statement under this subsection shall be
+ in such form and contain such information as the Secretary may require by
+ regulation. The Secretary may utilize existing forms of the Department of
+ Transportation and the Environmental Protection Agency in carrying out this
+ subsection. At a minimum, such statement shall include--
+ `(A) the registrant's name and principal place of business;
+ `(B) a description of each activity the registrant carries out for which
+ filing of a registration statement is required by or under this section; and
+ `(C) the State or States in which such person carries out each such activity.
+ `(8) LIMITATION ON NUMBER OF FILINGS- A person who carries out more than
+ one activity for which filing of a registration statement is required by
+ or under this subsection only needs to file one registration statement in
+ order to comply with this subsection.
+ `(9) STREAMLINED PROCESS- The Secretary may take such action as may be
+ necessary to streamline and simplify the registration process under this
+ subsection and to minimize with respect to a person who is required to file
+ a registration statement under this subsection the number of applications,
+ documents, and other information which such person is required to file
+ with the Department of Transportation under this title and any other laws
+ of the United States.
+ `(10) DISCLOSURE- The Secretary shall make a registration statement filed
+ under this subsection available for inspection by any person, for a fee
+ to be established by the Secretary; except that nothing in this sentence
+ shall be considered to require the release of any information described
+ in section 552(f) of title 5, United States Code, or which is otherwise
+ protected by law from disclosure to the public.
+ `(11) FEES- The Secretary may establish, assess, and collect such fees from
+ persons required to file registration statements by or under this subsection
+ as may be necessary to cover the costs of the Department of Transportation
+ in processing such registration statements.
+ `(12) PROOF OF REGISTRATION AND PAYMENT OF FEES- The Secretary may issue
+ regulations requiring a person required to file a registration statement by
+ or under this subsection to maintain proof of the filing of such statement
+ and the payment of any fees assessed under this subsection and section 117(h).
+ `(13) APPLICABILITY OF INFORMATION MANAGEMENT REQUIREMENTS- Chapter 35 of
+ title 44, United States Code (relating to coordination of Federal information
+ policy) shall not apply to activities of the Secretary under this subsection.
+ `(14) NONAPPLICABILITY TO EMPLOYEES- Notwithstanding any other provisions
+ of this subsection, an employee of a hazmat employer is not required to
+ file a registration statement by or under this section.
+ `(15) EXEMPTION OF GOVERNMENT AGENCIES AND EMPLOYEES- Agencies of the Federal
+ Government, agencies of States, and agencies of political subdivisions
+ of States, and employees of such agencies with respect to their official
+ duties do not have to file registration statements under this subsection.
+ `(d) MOTOR CARRIER SAFETY PERMITS-
+ `(1) REQUIREMENT- Except as provided in this subsection, a motor carrier
+ may transport or cause to be transported by motor vehicle in commerce a
+ hazardous material only if the motor carrier holds a safety permit issued by
+ the Secretary under this section authorizing the transportation and keeps
+ a copy of such permit, or other proof establishing the existence of such
+ permit, in the motor vehicle used to provide such transportation.
+ `(2) ISSUANCE- Except as provided in this subsection, the Secretary shall
+ issue a safety permit to a motor carrier authorizing that carrier to transport
+ or cause to be transported by motor vehicle in commerce a hazardous material
+ if the Secretary finds that the carrier is fit, willing, and able--
+ `(A) to provide the transportation to be authorized by the permit;
+ `(B) to comply with this title and the regulations issued by the Secretary
+ to carry out this title; and
+ `(C) to comply with any applicable Federal motor carrier safety laws and
+ regulations and any applicable Federal minimum financial responsibility
+ laws and regulations.
+ `(3) SHIPPER'S RESPONSIBILITY- Each person who offers a hazardous material
+ for motor vehicle transportation in commerce may offer that material to
+ a motor carrier only if the carrier has a safety permit issued under this
+ subsection authorizing such transportation.
+ `(4) AMENDMENT, SUSPENSION, AND REVOCATION- A safety permit issued to a
+ motor carrier under this subsection may, after notice and an opportunity for
+ hearing, be amended, suspended, or revoked by the Secretary in accordance
+ with procedures established under paragraph (6) whenever the Secretary
+ determines that such carrier has failed to comply with a requirement of
+ this title, any regulation issued under this title, any applicable Federal
+ motor carrier safety law or regulation, or any applicable Federal minimum
+ financial responsibility law or regulation. If the Secretary determines that
+ an imminent hazard exists, the Secretary may amend, suspend, or revoke the
+ safety permit before scheduling a hearing thereon.
+ `(5) COVERED TRANSPORTATION- The Secretary shall establish by regulation the
+ hazardous materials and quantities thereof to which this subsection applies;
+ except that this section shall apply, at a minimum, to all transportation
+ by a motor carrier of a class A or B explosive, a liquefied natural gas, a
+ hazardous material which has been designated by the Secretary as extremely
+ toxic by inhalation, or a highway route controlled quantity of radioactive
+ materials as defined by the Secretary.
+ `(6) PROCEDURES- The Secretary shall establish by regulation--
+ `(A) application procedures, including form, content, and fees necessary
+ to recover the full costs of administering this subsection;
+ `(B) standards for determining the duration, terms, conditions, or limitations
+ of a safety permit;
+ `(C) procedures for the amendment, suspension, or revocation of a safety
+ permit issued under this section; and
+ `(D) any other procedures the Secretary deems appropriate to implement
+ this subsection.
+ `(7) APPLICATION- A motor carrier shall file an application with the Secretary
+ for a safety permit to provide transportation under this subsection. The
+ Secretary may approve any part of the application or deny the application. The
+ application shall--
+ `(A) be under oath; and
+ `(B) contain such information as the Secretary may require by regulation.
+ `(8) CONDITIONS- A motor carrier may provide transportation under a safety
+ permit issued under this subsection only if the carrier complies with such
+ conditions as the Secretary finds are required to protect public safety.'.
+ (b) SAFETY PERMITS- Section 106(d) of the Hazardous Materials Transportation
+ Act, relating to motor carrier safety permits, shall take effect 2 years
+ after the date of the enactment of this Act; except that the Secretary shall
+ issue regulations necessary to carry out such section not later than 1 year
+ after such date of enactment.
+ (c) REPEAL OF EXISTING PROGRAM- Subsections (e) and (f) of section 106 of
+ the Hazardous Materials Transportation Act (49 U.S.C. 1805), as redesignated
+ by section 7 of this Act, are repealed effective March 31, 1992.
+SEC. 9. EXEMPTIONS.
+ Section 107(a) (49 U.S.C. App. 1806(a)) is amended by striking `or renewal'
+ in the fourth sentence.
+SEC. 10. DEFINITION OF CERTAIN MATERIALS.
+ The second sentence of section 108(b) (49 U.S.C. App. 1807(b)) is amended to
+ read as follows: `The term does not include any material which the Secretary
+ determines is of such low order of radioactivity that when transported does
+ not pose a significant hazard to health or safety.'.
+SEC. 11. SECRETARY'S POWERS.
+ Section 109(d)(1)(C) (49 U.S.C. App. 1808(d)(1)(C)) is amended by striking
+ `recommend' and inserting `take'.
+SEC. 12. PENALTIES.
+ (a) CIVIL PENALTIES- Section 110(a) (49 App. U.S.C. 1809(a)) is amended--
+ (1) in paragraph (1)--
+ (A) by striking `(except an employee who acts without knowledge)' in the
+ first sentence;
+ (B) by striking `title or of a' in the first sentence and inserting `title,
+ an order, or';
+ (C) by inserting `order or' after `violation of any' in each of the second
+ and third sentences; and
+ (D) by striking `$10,000' in each of the second and third sentences and
+ inserting `$25,000 and not less than $250'; and
+ (2) by adding at the end the following:
+ `(3) ACTING KNOWINGLY- For purposes of this section, a person shall be
+ considered to have acted knowingly if--
+ `(A) such person has actual knowledge of the facts giving rise to the
+ violation, or
+ `(B) a reasonable person acting in the circumstances and exercising due
+ care would have such knowledge.'.
+ (b) CRIMINAL PENALTIES- Subsection (b) of section 110 (49 App. U.S.C. 1809)
+ is amended to read as follows:
+ `(b) CRIMINAL- A person who knowingly violates section 105(f) of this title
+ or willfully violates a provision of this title or an order or regulation
+ issued under this title shall be fined under title 18, United States Code,
+ or imprisoned for not more than 5 years, or both.'.
+SEC. 13. RELATIONSHIP TO OTHER LAWS.
+ Section 112 (49 U.S.C. App. 1811) is amended to read as follows:
+`SEC. 112. RELATIONSHIP TO OTHER LAWS.
+ `(a) IN GENERAL- Except as provided in subsection (d) and unless otherwise
+ authorized by Federal law, any requirement of a State or political subdivision
+ thereof or Indian tribe is preempted if--
+ `(1) compliance with both the State or political subdivision or Indian
+ tribe requirement and any requirement of this title or of a regulation
+ issued under this title is not possible,
+ `(2) the State or political subdivision or Indian tribe requirement as
+ applied or enforced creates an obstacle to the accomplishment and execution
+ of this title or the regulations issued under this title, or
+ `(3) it is preempted under section 105(a)(4) or section 105(b).
+ `(b) FEES- A State or political subdivision thereof or Indian tribe may not
+ levy any fee in connection with the transportation of hazardous materials
+ that is not equitable and not used for purposes related to the transportation
+ of hazardous materials, including enforcement and the planning, development,
+ and maintenance of a capability for emergency response.
+ `(c) DETERMINATION OF PREEMPTION-
+ `(1) ADMINISTRATIVE DETERMINATION- Any person, including a State or political
+ subdivision thereof or Indian tribe, directly affected by any requirement of a
+ State or political subdivision or Indian tribe, may apply to the Secretary, in
+ accordance with regulations prescribed by the Secretary, for a determination
+ of whether that requirement is preempted by section 105(a)(4) or 105(b)
+ or subsection (a). The Secretary shall publish notice of the application
+ in the Federal Register. Once the Secretary has published such notice,
+ no applicant for such determination by the Secretary may seek relief with
+ respect to the same or substantially the same issue in any court until
+ the Secretary has taken final action on the application or until 180 days
+ after filing of the application, whichever occurs first. The Secretary, in
+ consultation with States, political subdivisions, and Indian tribes, shall
+ issue regulations which set forth procedures for carrying out this paragraph.
+ `(2) JUDICIAL DETERMINATION- Nothing in subsection (a) prohibits a State or
+ political subdivision thereof or Indian tribe, or any other person directly
+ affected by any requirement of a State or political subdivision thereof or
+ Indian tribe, from seeking a determination of preemption in any court of
+ competent jurisdiction in lieu of applying to the Secretary under paragraph
+ (1).
+ `(d) WAIVER OF PREEMPTION- Any State or political subdivision or Indian
+ tribe may apply to the Secretary for a waiver of preemption with respect
+ to any requirement that the State or political subdivision or Indian tribe
+ acknowledges to be preempted by section 105(a)(4) or 105(b) or subsection
+ (a). The Secretary, in accordance with procedures prescribed by regulation,
+ may waive preemption with respect to such requirement upon a determination
+ that such requirement--
+ `(1) affords an equal or greater level of protection to the public than is
+ afforded by the requirements of this title or regulations issued under this
+ title, and
+ `(2) does not unreasonably burden commerce.
+ `(e) JUDICIAL REVIEW- A party to a proceeding under subsection (c) or (d)
+ may seek review by the appropriate district court of the United States of
+ a decision of the Secretary under such proceeding only by filing a petition
+ with such court within 60 days after such decision becomes final.
+ `(f) OTHER FEDERAL LAWS- This title shall not apply to pipelines which are
+ subject to regulation under the Natural Gas Pipeline Safety Act of 1968
+ (49 U.S.C. 1671 et seq.), to pipelines which are subject to regulation under
+ the Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. 2001 et seq.),
+ or to any matter which is subject to the Federal postal laws or regulations
+ under this title or under title 18 or title 39 of the United States Code.'.
+SEC. 14. FUNDING.
+ Section 115 (49 U.S.C. App. 1812) is amended to read as follows:
+`SEC. 115. AUTHORIZATION OF APPROPRIATIONS.
+ `(a) IN GENERAL- There is authorized to be appropriated for carrying out
+ this title (other than sections 117 and 121) not to exceed $13,000,000 for
+ fiscal year 1991, $16,000,000 for fiscal year 1992, and $18,000,000 for
+ fiscal year 1993.
+ `(b) CREDITS- The Secretary may credit to any appropriation to carry out this
+ title funds received from States, Indian tribes, or other public authorities
+ and private entities for expenses incurred by the Secretary in providing
+ training to such States, public authorities, and private entities.'.
+SEC. 15. TRANSPORTATION OF CERTAIN HIGHLY RADIOACTIVE MATERIALS.
+ Section 116 (49 U.S.C. App. 1813) is amended to read as follows:
+`SEC. 116. TRANSPORTATION OF CERTAIN HIGHLY RADIOACTIVE MATERIALS.
+ `(a) RAILROAD TRANSPORTATION STUDY- The Secretary, in consultation with the
+ Department of Energy, the Nuclear Regulatory Commission, potentially affected
+ States and Indian tribes, representatives of the railroad transportation
+ industry and shippers of high-level radioactive waste and spent nuclear
+ fuel, shall undertake a study comparing the safety of using trains operated
+ exclusively for transporting high-level radioactive waste and spent nuclear
+ fuel (hereinafter in this section referred to as `dedicated trains') with the
+ safety of using other methods of rail transportation for such purposes. The
+ Secretary shall report the results of the study to Congress not later than
+ one year after the date of enactment of this section.
+ `(b) SAFE RAIL TRANSPORT OF CERTAIN RADIOACTIVE MATERIALS- Within 24 months
+ after the date of enactment of this section, taking into consideration the
+ findings of the study conducted pursuant to subsection (a), the Secretary
+ shall amend existing regulations as the Secretary deems appropriate to
+ provide for the safe transportation by rail of high-level radioactive
+ waste and spent nuclear fuel by various methods of rail transportation,
+ including by dedicated train.
+ `(c) MODE AND ROUTE STUDY- The Secretary shall, within 12 months after
+ the date of enactment of this section, undertake a study to determine
+ which factors, if any, should be taken into consideration by shippers and
+ carriers in order to select routes and modes which, in combination, would
+ enhance overall public safety related to the transportation of high-level
+ radioactive waste and spent nuclear fuel. Such study shall include notice
+ and opportunity for public comment, and shall include assessing the degree to
+ which various factors, including population densities, types and conditions of
+ modal infrastructures (such as highways, railbeds, and waterways), quantities
+ of high-level radioactive waste and spent nuclear fuel, emergency response
+ capabilities, exposure and other risk factors, terrain considerations,
+ continuity of routes, available alternative routes, environmental impact
+ factors, affect the overall public safety of such shipments.
+ `(d) INSPECTIONS OF VEHICLES TRANSPORTING HIGHWAY ROUTE CONTROLLED QUANTITY
+ RADIOACTIVE MATERIALS-
+ `(1) REQUIREMENT- Not later than one year after the date of the enactment
+ of the Hazardous Materials Transportation Uniform Safety Act of 1990, the
+ Secretary shall require by regulation that, before each use of a motor
+ vehicle to transport in commerce any highway route controlled quantity
+ radioactive material, such vehicle shall be inspected and certified to be
+ in compliance with this title and applicable Federal motor carrier safety
+ laws and regulations.
+ `(2) USE OF FEDERAL AND STATE INSPECTORS- The Secretary may require that
+ inspections under this subsection be carried out by duly authorized inspectors
+ of the United States or in accordance with appropriate State procedures.
+ `(3) SELF-CERTIFICATION- The Secretary may permit a person who transports or
+ causes to be transported or shipped any highway route controlled quantity
+ radioactive material to inspect the motor vehicle to be used to provide
+ such transportation and to certify that the motor vehicle is in compliance
+ with this title. The inspector qualification requirements for individuals
+ performing inspections of motor vehicles issued by the Secretary shall
+ apply to individuals conducting inspections under this paragraph.'.
+SEC. 16. INSPECTORS.
+ (a) IN GENERAL- The Secretary of Transportation, in fiscal year 1991, shall
+ employ and maintain thereafter an additional 30 hazardous materials safety
+ inspectors above the number of safety inspectors authorized for fiscal
+ year 1990, in the aggregate, for the Federal Railroad Administration,
+ the Federal Highway Administration, and the Research and Special Programs
+ Administration. The Secretary shall take such action as may be necessary
+ to assure that the activities of 10 such additional inspectors focus on
+ promoting safety in the transportation of radioactive materials, as defined
+ by the Secretary. Such activities shall include--
+ (1) the inspection at the point of origin of shipments of high-level
+ radioactive waste or nuclear spent fuel, as those terms are defined in
+ section 116 of the Hazardous Materials Transportation Act, as added by
+ section 15 of this Act; and
+ (2) the inspection, to the maximum extent practicable, of shipments of
+ radioactive materials that are not high-level radioactive waste or nuclear
+ spent fuel.
+ (b) COOPERATION- In carrying out their duties, the 10 additional inspectors
+ authorized by this section to focus on promoting safety in the transportation
+ of radioactive materials shall, to the maximum extent possible, cooperate
+ with safety inspectors of the Nuclear Regulatory Commission and appropriate
+ State and local government officials.
+ (c) ALLOCATION OF INSPECTORS OF RADIOACTIVE MATERIALS- Of the 10 additional
+ inspectors authorized by subsection (a) to focus on promoting safety in
+ the transportation of radioactive materials--
+ (1) not less than 1 shall be allocated to the Research and Special Programs
+ Administration;
+ (2) not less than 3 shall be allocated to the Federal Railroad Administration;
+ (3) not less than 3 shall be allocated to the Federal Highway Administration;
+ and
+ (4) the remainder shall be allocated, at the discretion of the Secretary,
+ among the agencies referred to in paragraphs (1), (2), and (3).
+ (d) ALLOCATION OF OTHER SAFETY INSPECTORS- The 20 additional inspectors
+ authorized by subsection (a) not referred to in subsection (c) shall be
+ allocated, at the discretion of the Secretary, among the agencies referred
+ to in paragraphs (1), (2), and (3).
+ (e) DEFINITIONS- As used in this section--
+ (1) HIGH-LEVEL RADIOACTIVE WASTE- The term `high-level radioactive waste'
+ has the meaning given such term in section 2(12) of the Nuclear Waste Policy
+ Act of 1982 (42 U.S.C. 10101(12)).
+ (2) SPENT NUCLEAR FUEL- The term `spent nuclear fuel' has the meaning
+ given such term in section 2(23) of the Nuclear Waste Policy Act of 1982
+ (42 U.S.C. 10101(23)).
+SEC. 17. PUBLIC SECTOR TRAINING AND PLANNING.
+ The Act (49 U.S.C. App. 1801-1813) is amended by adding at the end the
+ following new section:
+`SEC. 117A. PUBLIC SECTOR TRAINING AND PLANNING.
+ `(a) PLANNING GRANT PROGRAM-
+ `(1) IN GENERAL- The Secretary shall make grants to States--
+ `(A) for developing, improving, and implementing emergency plans under
+ the Emergency Planning and Community Right-To-Know Act of 1986, including
+ determination of flow patterns of hazardous materials within a State and
+ between a State and another State; and
+ `(B) for determining the need for regional hazardous materials emergency
+ response teams.
+ `(2) MAINTENANCE OF EFFORT- The Secretary may not make a grant to a State
+ under this subsection in a fiscal year unless such State certifies that the
+ aggregate expenditure of funds of the State, exclusive of Federal funds, for
+ developing, improving, and implementing emergency plans under the Emergency
+ Planning and Community Right-To-Know Act of 1986 will be maintained at a
+ level which does not fall below the average level of such expenditure for
+ its last 2 fiscal years.
+ `(3) FUNDING OF PLANNING BY LOCAL EMERGENCY PLANNING COMMITTEES- The
+ Secretary may not make a grant to a State under this subsection in a fiscal
+ year unless such State agrees to make available not less than 75 percent of
+ the funds granted to the State under this subsection in the fiscal year to
+ local emergency planning committees established pursuant to section 301(c)
+ of the Emergency Planning and Community Right-To-Know Act of 1986 by the
+ State emergency response commission. Such funds shall be made available to
+ the local committees for developing emergency plans under such Act.
+ `(b) TRAINING GRANT PROGRAM-
+ `(1) IN GENERAL- The Secretary shall make grants to States and Indian tribes
+ for training public sector employees to respond to accidents and incidents
+ involving hazardous materials.
+ `(2) MAINTENANCE OF EFFORT- The Secretary may not make a grant to a State
+ or Indian tribe under this subsection in a fiscal year unless the State
+ or Indian tribe certifies that the aggregate expenditure of funds of the
+ State or Indian tribe, exclusive of Federal funds, for training public sector
+ employees to respond to accidents and incidents involving hazardous materials
+ will be maintained at a level which does not fall below the average level
+ of such expenditure for its last 2 fiscal years.
+ `(3) FUNDING OF TRAINING BY POLITICAL SUBDIVISIONS- The Secretary may not
+ make a grant to a State under this subsection in a fiscal year unless such
+ State agrees to make available at least 75 percent of the funds granted to the
+ State under this subsection in the fiscal year for the purposes of training
+ public sector employees employed or used by the political subdivisions.
+ `(4) USE OF TRAINING COURSES- The Secretary may only make a grant to a State
+ or Indian tribe under this subsection in a fiscal year if the State or Indian
+ tribe enters into an agreement with the Secretary to use in such fiscal year--
+ `(A) a course or courses developed or identified under subsection (g); or
+ `(B) other courses which the Secretary determines are consistent with the
+ objectives of this section;
+for training public sector employees to respond to accidents and incidents
+involving hazardous materials.
+ `(5) USE OF TRAINING FUNDS- Funds granted to a State or Indian tribe for
+ training public sector employees under this subsection may be used to
+ pay tuition costs of such employees for such training, travel expenses of
+ such employees to and from the training facility, room and board of such
+ employees while they are at the training facility, and travel expenses of
+ persons who are to provide such training.
+ `(6) TRAINING BY OTHERS- Funds granted to a State or Indian tribe for
+ training public sector employees under this subsection--
+ `(A) may be used by the State or a political subdivision thereof or the
+ Indian tribe to provide such training; or
+ `(B) may be used to enter into an agreement, approved by the Secretary,
+ to authorize a person (including a department, agency, or instrumentality
+ of a State or political subdivision thereof or an Indian tribe) to provide
+ such training--
+ `(i) if the agreement allows the Secretary and the State or Indian tribe
+ to conduct random examinations, inspections, and audits of such training
+ without prior notification; and
+ `(ii) if the State or Indian tribe conducts at least annually 1 on-site
+ observation of such training.
+ `(7) ALLOCATION OF TRAINING FUNDS- The Secretary shall allocate funds made
+ available for grants under this subsection for a fiscal year among States
+ and Indian tribes which are eligible to receive such grants in such fiscal
+ year based upon the needs of such States and Indian tribes for emergency
+ response training. In determining such needs, the Secretary shall consider
+ the number of hazardous materials facilities in the State or on lands under
+ the jurisdiction of the Indian tribe, the types and amounts of hazardous
+ materials transported in the State or on such lands, whether or not the
+ State or Indian tribe assesses and collects fees on the transportation of
+ hazardous materials, whether or not such fees are used solely to carry out
+ purposes related to the transportation of hazardous materials, and such
+ other factors as the Secretary determines are appropriate to carry out the
+ objectives of this subsection.
+ `(c) ADOPTION OF FEDERAL STANDARDS AND COMPLIANCE WITH EMERGENCY PLANNING
+ REQUIREMENTS- The Secretary may only make a grant to a State under
+ this section in a fiscal year if the State certifies that the State is
+ complying with sections 301 and 303 of the Emergency Planning and Community
+ Right-To-Know Act of 1986, including compliance with such sections with
+ respect to accidents and incidents involving the transportation of hazardous
+ materials.
+ `(d) FEDERAL SHARE- By a grant under this section, the Secretary shall
+ reimburse any State or Indian tribe an amount not to exceed 80 percent
+ of the cost incurred by the State or Indian tribe in the fiscal year for
+ carrying out the activities for which the grant is made. The funds of the
+ State or Indian tribe which are required to be expended under subsections
+ (a)(2) and (b)(2) shall not be considered to be part of the non-Federal share.
+ `(e) APPLICATIONS- A State or Indian tribe interested in receiving a grant
+ under this section shall submit an application to the Secretary for such
+ grant. Such applications shall be submitted at such times and contain such
+ information as the Secretary may require by regulation to carry out the
+ objectives of this subsection.
+ `(f) DELEGATION OF AUTHORITY- For the purpose of minimizing administrative
+ costs and for coordinating Federal grant programs for emergency response
+ training and planning, the Secretary may delegate to the Director, Chairman
+ of the Nuclear Regulatory Commission, Administrator, Secretary of Labor,
+ Secretary of Energy, and Director of the National Institute of Environmental
+ Health Sciences of the Department of Health and Human Services one or more
+ of the following functions:
+ `(1) Authority to receive applications for grants under this section.
+ `(2) Authority to review applications for technical compliance with this
+ section.
+ `(3) Authority to review applications for the purpose of making recommendation
+ on approval or disapproval of such applications.
+ `(4) Any other ministerial function associated with the grant programs
+ under this section.
+ `(g) TRAINING CURRICULUM-
+ `(1) CURRICULUM COMMITTEE- Not later than 24 months after the date of
+ the enactment of the Hazardous Materials Transportation Uniform Safety
+ Act of 1990, the Secretary, in coordination with the Director, Chairman
+ of the Nuclear Regulatory Commission, Administrator, Secretary of Labor,
+ Secretary of Energy, Secretary of Health and Human Services, and Director
+ of the National Institute of Environmental Health Sciences and using the
+ existing coordinating mechanisms of the National Response Team and, for
+ radioactive materials, the Federal Radiological Preparedness Coordinating
+ Committee, shall develop and update periodically a curriculum which consists
+ of a list of courses necessary to train public sector emergency response
+ and preparedness teams.
+ `(2) MANDATORY CURRICULUM RECOMMENDATIONS- The curriculum to be developed
+ under this subsection shall include--
+ `(A) a recommended course of study--
+ `(i) for training public sector employees to respond to accidents and
+ incidents involving the transportation of hazardous materials,
+ `(ii) for planning such responses;
+ `(B) recommended basic courses and minimum numbers of hours of instruction
+ necessary for public sector employees to be able--
+ `(i) to respond safely and efficiently to accidents and incidents involving
+ the transportation of hazardous materials, and
+ `(ii) to plan for such responses; and
+ `(C) appropriate emergency response training and planning programs for
+ public sector employees developed under other Federal grant programs,
+ including those developed with grants made under section 126 of the Superfund
+ Amendments and Reauthorization Act of 1986.
+ `(3) OPTIONAL CURRICULUM RECOMMENDATIONS- The curriculum to be developed
+ under this subsection may include recommendations concerning materials
+ appropriate for use in the recommended courses described in paragraph (2)(B).
+ `(4) COMPLIANCE WITH OSHA AND EPA REGULATIONS AND NFPA STANDARDS- The
+ recommended courses described in paragraph (2)(B) shall provide such training
+ to public sector employees as may be necessary to comply--
+ `(A) with the regulations issued by the Occupational Safety and Health
+ Administration of the Department of Labor relating to hazardous waste
+ operations and emergency response contained in part 1910 of title 29 of
+ the Code of Federal Regulations, and any amendments thereto;
+ `(B) with the regulations issued by the Environmental Protection Agency
+ relating to worker protection standards for hazardous waste operations
+ contained in part 311 of title 40 of the Code of Federal Regulations,
+ and any amendments thereto; and
+ `(C) with standards issued by the National Fire Protection Association,
+ relating to emergency response training, including standards 471 and 472.
+ `(5) CONSULTATION REQUIREMENT- In developing the curriculum under this
+ subsection, the Secretary shall consult the regional response teams
+ established pursuant to the National Contingency Plan established under
+ section 105 of the Comprehensive Environmental Response, Compensation, and
+ Liability Act of 1980, representatives of commissions established pursuant
+ to section 301 of the Emergency Planning and Community Right-To-Know Act
+ of 1986 (42 U.S.C. 11001), persons (including governmental entities) who
+ provide training for responding to accidents and incidents involving the
+ transportation of hazardous materials, and representatives of persons who
+ respond to such accidents and incidents.
+ `(6) DISSEMINATION- The Director, in conjunction with the National Response
+ Team, shall disseminate the curriculum developed under this section and any
+ amendments thereto to the regional response teams established pursuant to the
+ National Contingency Plan established under section 105 of the Comprehensive
+ Environmental Response, Compensation, and Liability Act of 1980 and to
+ all committees and commissions established pursuant to section 301 of the
+ Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001).
+ `(7) MONITORING AND TECHNICAL ASSISTANCE-
+ `(A) MONITORING- The Director, in coordination with the Secretary,
+ Administrator, Secretary of Energy, and Director of the National Institute
+ of Environmental Health Sciences, shall monitor public sector emergency
+ response training and planning for accidents and incidents involving
+ hazardous materials.
+ `(B) TECHNICAL ASSISTANCE- Taking into account the results of monitoring under
+ subparagraph (A), the Secretary, Director, Administrator, Secretary of Energy,
+ and Director of the National Institute of Environmental Health Sciences
+ shall each provide technical assistance to States and political subdivisions
+ thereof and Indian tribes for carrying out emergency response training and
+ planning for accidents and incidents involving hazardous materials and shall
+ coordinate the provision of such technical assistance using the existing
+ coordinating mechanisms of the national response team and, for radioactive
+ materials, the Federal Radiological Preparedness Coordinating Committee.
+ `(8) PUBLICATION OF LIST OF TRAINING PROGRAMS- The Secretary, in conjunction
+ with the national response team, may publish a list of programs for training
+ public sector employees to respond to accidents and incidents involving
+ the transportation of hazardous materials which utilize one or more of the
+ courses developed under this subsection.
+ `(9) MINIMIZATION OF DUPLICATION OF EFFORT- The Secretary, Director,
+ Chairman of the Nuclear Regulatory Commission, Administrator, Secretary of
+ Labor, Secretary of Energy, and the Director of the National Institute of
+ Environmental Health Sciences, in conjunction with the heads of other Federal
+ departments, agencies, and instrumentalities, shall review periodically
+ all emergency response and preparedness training programs of the Federal
+ department, agency, or instrumentality which such person heads for the
+ purpose of minimizing duplication of effort and expense of such departments,
+ agencies, and instrumentalities in carrying out such training programs
+ and shall take such actions, including coordination of training programs,
+ as may be necessary to minimize such duplication of effort and expense.
+ `(h) FEES FOR TRAINING AND PLANNING-
+ `(1) ESTABLISHMENT AND COLLECTION- Not later than September 30, 1992, the
+ Secretary shall establish and assess by regulation and collect an annual
+ fee from each person who is required by or under section 106 to file a
+ registration statement.
+ `(2) FACTORS FOR DETERMINING AMOUNT OF FEES- Subject to paragraph (3),
+ the amount of annual fees to be collected under this subsection shall be
+ determined by the Secretary based on 1 or more of the following factors:
+ `(A) The gross revenues from transportation of hazardous materials.
+ `(B) The types of hazardous materials transported or caused to be transported.
+ `(C) The quantities of hazardous material transported or caused to be
+ transported.
+ `(D) The number of shipments of hazardous materials.
+ `(E) The number of activities which the person carries out and for which
+ filing of a registration statement is required by or under section 106.
+ `(F) The threat to property, persons, and the environment from an accident
+ or incident involving the hazardous materials transported or caused to
+ be transported.
+ `(G) The percentage of gross revenues which are derived from the
+ transportation of hazardous materials.
+ `(H) The amount of funds which are to be made available to carry out this
+ section and section 118.
+ `(I) Such other factors as the Secretary considers appropriate.
+ `(3) LIMITATIONS ON FEE AMOUNTS-
+ `(A) MAXIMUM AND MINIMUM AMOUNT- Subject to subparagraph (B), the amount
+ of a fee which may be collected from a person under this section in a year
+ may not be less than $250 and may not exceed $5,000.
+ `(B) ADJUSTMENTS- The Secretary shall adjust the amount of fees being
+ collected from persons under this section to reflect any unspent balances
+ in the account established under paragraph (6); except that nothing in this
+ subsection shall be construed as requiring the Secretary to refund any fees
+ collected under this subsection.
+ `(4) TREATMENT OF FEES- Fees collected under this subsection shall be in
+ addition to any fees which the Secretary may collect under section 106.
+ `(5) TRANSFER TO SECRETARY OF TREASURY- The Secretary shall transfer to
+ the Secretary of the Treasury amounts collected under this subsection for
+ deposit in the account established under paragraph (6).
+ `(6) USE OF AMOUNTS-
+ `(A) ESTABLISHMENT OF ACCOUNT- The Secretary of the Treasury shall establish
+ in the Treasury an account into which the Secretary of the Treasury shall
+ deposit amounts transferred by the Secretary of Transportation under paragraph
+ (5).
+ `(B) PURPOSES- Amounts in the account established under subparagraph (A)
+ shall be available, without further appropriation--
+ `(i) for making grants under this section and section 118,
+ `(ii) for monitoring and providing technical assistance under subsection
+ (g)(7), and
+ `(iii) for paying the administrative costs of carrying out this section
+ and section 118, but not to exceed 10 percent of the amounts made available
+ from the account in any fiscal year.
+ `(i) FUNDING-
+ `(1) PLANNING GRANTS- There shall be available to the Secretary for carrying
+ out subsection (a), from amounts in the account established pursuant to
+ subsection (h), $5,000,000 per fiscal year for each of fiscal years 1993,
+ 1994, 1995, 1996, 1997, and 1998.
+ `(2) TRAINING GRANTS- There shall be available to the Secretary for carrying
+ out subsection (b), from amounts in the account established pursuant to
+ subsection (h), $7,800,000 per fiscal year for each of fiscal years 1993,
+ 1994, 1995, 1996, 1997, and 1998.
+ `(3) CURRICULUM-
+ `(A) FROM GENERAL REVENUES- There is authorized to be appropriated to the
+ Secretary to carry out subsection (g) (other than paragraph (7)) $1,000,000
+ per fiscal year for each of fiscal years 1991 and 1992.
+ `(B) FROM FEE ACCOUNT- There shall be available to the Secretary to carry
+ out subsection (g) (other than paragraph (7)), from amounts in the account
+ established pursuant to subsection (h), $1,000,000 per fiscal year for each
+ of fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+ `(C) TRANSFERS- The Secretary may transfer from amounts made available
+ under this paragraph such amounts as may be necessary to the Director to
+ carry out subsection (g)(6), relating to dissemination of the curriculum.
+ `(4) MONITORING AND TECHNICAL ASSISTANCE- There shall be available for
+ carrying out subsection (g)(7), from amounts in the account established
+ pursuant to subsection (h)--
+ `(A) to each of the Secretary, Director, Administrator, and Secretary of
+ Energy $750,000; and
+ `(B) to the Director of the National Institute of Environmental Health
+ Sciences $200,000;
+per fiscal year for each of fiscal years 1993, 1994, 1995, 1996, 1997,
+and 1998.
+ `(5) AVAILABILITY- Funds made available pursuant to this subsection shall
+ remain available until expended.'.
+SEC. 18. HAZMAT EMPLOYEE TRAINING GRANT PROGRAM.
+ The Act (49 U.S.C. App. 1801-1813), as amended by section 17 of this Act,
+ is further amended by adding at the end the following new section:
+`SEC. 118. HAZMAT EMPLOYEE TRAINING GRANT PROGRAM.
+ `(a) GRANT PURPOSES- Grants for training and education of hazmat employees
+ regarding the safe loading, unloading, handling, storage, and transportation
+ of hazardous materials and emergency preparedness for responding to accidents
+ or incidents involving the transportation of hazardous materials in order
+ to meet the requirements issued under section 106(b) may be made under
+ this section.
+ `(b) ADMINISTRATION- Grants under this section shall be administered by
+ the National Institute of Environmental Health Sciences in consultation
+ with the Secretary, the Administrator, and the Secretary of Labor.
+ `(c) GRANT RECIPIENTS- Grants under this section shall be awarded to nonprofit
+ organizations which demonstrate expertise in implementing and operating
+ training and education programs for hazmat employees and demonstrate the
+ ability to reach and involve in training programs target populations of
+ hazmat employees.
+ `(d) FUNDING- There shall be available to the Director of the National
+ Institute of Environmental Health Sciences to carry out this section, from
+ amounts in the account established pursuant to section 117(h), $250,000 per
+ fiscal year for each of fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.'.
+SEC. 19. RAILROAD TANK CARS.
+ The Act (49 U.S.C. App. 1801 et seq.), as amended by section 18 of this Act,
+ is further amended by adding at the end the following new section:
+`SEC. 119. RAILROAD TANK CARS.
+ `(a) PROHIBITIONS FOR CERTAIN MATERIALS- No railroad tank car constructed
+ before January 1, 1971, may be used for the transportation in commerce of any
+ class A or B explosives, any hazardous material which has been designated by
+ the Secretary as toxic by inhalation, or any other hazardous material the
+ Secretary determines should be subject to such requirement, unless the air
+ brake equipment support attachments of such tank car at a minimum comply
+ with the standards for attachments set forth in part 179.100-16 and part
+ 179.200-19 of title 49, Code of Federal Regulations, as in effect on the
+ date of enactment of this section.
+ `(b) APPLICABILITY TO OTHER MATERIALS- No railroad tank car constructed
+ before January 1, 1971, may be used for the transportation in commerce of any
+ hazardous material after July 1, 1991, unless the air brake equipment support
+ attachments of such tank car comply with the standards for attachments set
+ forth in part 179.100-16 and part 179.200-19 of title 49, Code of Federal
+ Regulations, as in effect on the date of enactment of this section.'.
+SEC. 20. APPLICATION OF FEDERAL, STATE, AND LOCAL LAW TO FEDERAL CONTRACTORS.
+ The Act (49 U.S.C. App. 1801-1813), as amended by section 19 of this Act,
+ is further amended by adding at the end thereof the following new section:
+`SEC. 120. APPLICATION OF FEDERAL, STATE, AND LOCAL LAW TO FEDERAL CONTRACTORS.
+ `Any person who, under contract with any department, agency, or
+ instrumentality of the executive, legislative, or judicial branch of the
+ Federal government, transports, or causes to be transported or shipped,
+ a hazardous material or manufacturers, fabricates, marks, maintains,
+ reconditions, repairs, or tests a package or container which is represented,
+ marked, certified, or sold by such person as qualified for use in the
+ transportation of hazardous materials shall be subject to and comply with
+ all provisions of this title, all orders and regulations issued under this
+ title, and all other substantive and procedural requirements of Federal,
+ State, and local governments and Indian tribes (except any such requirements
+ that have been preempted by this title or any other Federal law), in the same
+ manner and to the same extent as any person engaged in such activities that
+ are in or affect commerce is subject to such provisions, orders, regulations,
+ and requirements.'.
+SEC. 21. RAILROAD TANK CAR STUDY.
+ (a) STUDY- The Secretary of Transportation shall enter into a contract with
+ an appropriate disinterested expert body for a study of--
+ (1) the railroad tank car design process, including specifications
+ development, design approval, repair process approval, repair accountability,
+ and the process by which designs and repairs are presented, weighted,
+ and evaluated, and
+ (2) railroad tank car design criteria, including whether headshields should
+ be installed on all tank cars which carry hazardous materials.
+In carrying out the study described in paragraph (1), such expert body
+shall also make recommendations as to whether public safety considerations
+require greater control by and input from the Secretary with respect to the
+railroad tank car design process, especially in the early stages, and such
+other recommendations as such expert body considers appropriate.
+ (b) REPORT- The Secretary of Transportation shall report the results of
+ such study and such recommendations to the Congress within 1 year after
+ the date of enactment of this Act.
+SEC. 22. UNIFORMITY OF STATE MOTOR CARRIER REGISTRATION AND PERMITTING FORMS
+AND PROCEDURES.
+ The Act (49 U.S.C. App. 1801-1813), as amended by section 20 of this Act,
+ is further amended by adding at the end the following new section:
+`SEC. 121. UNIFORMITY OF STATE MOTOR CARRIER REGISTRATION AND PERMITTING
+FORMS AND PROCEDURES.
+ `(a) WORKING GROUP- As soon as practicable after the date of the enactment
+ of this section, the Secretary shall establish a working group comprised
+ of State and local government officials, including representatives of the
+ National Governors' Association, the National Association of Counties,
+ the National League of Cities, the United States Conference of Mayors,
+ and the National Conference of State Legislatures, for the purpose of--
+ `(1) establishing uniform forms and procedures for States that register
+ persons who transport, cause to be transported, or ship a hazardous material,
+ by motor vehicle; and
+ `(2) determining whether or not to limit the filing of any State registration
+ forms and collection of fees therefor to the State in which a person resides
+ or has its principal place of business.
+ `(b) CONSULTATION REQUIREMENT- The working group established under this
+ section shall consult with persons who are subject to the registration
+ requirements described in subsection (a) in establishing uniform forms and
+ procedures and making the determination described in subsection (a).
+ `(c) REPORT- The working group established under this section shall transmit
+ a final report to the Secretary and to the Committee on Commerce, Science,
+ and Transportation of the Senate and the Committee on Public Works and
+ Transportation of the House of Representatives not later than 36 months after
+ the date of the enactment of this section. The final report shall contain
+ a detailed statement of the findings and conclusions of the working group,
+ together with its joint recommendations concerning the matters referred to
+ in subsection (a).
+ `(d) REGULATIONS-
+ `(1) GENERAL RULE- Subject to the provisions of this subsection, the
+ Secretary shall issue regulations implementing those recommendations
+ contained in the report transmitted to the Secretary under subsection (c)
+ with which the Secretary agrees.
+ `(2) DEADLINE- Regulations required to be issued by this subsection shall
+ be issued by the later of the following dates:
+ `(A) The last day of the 3-year period beginning on the date the organizations
+ referred to in subsection (a) transmit their final joint report to the
+ Secretary.
+ `(B) The last day of the 90-day period beginning on the date on which 26
+ or more States adopt all of such recommendations.
+ `(3) NO LIMIT OF AMOUNT OF FEES- Regulations issued under this section
+ shall not define or limit the amounts of any fees which may be imposed or
+ collected by any State.
+ `(e) UNIFORMITY- A regulation issued pursuant to this section shall take
+ effect 1 year after the date of its issuance; except that the Secretary
+ may extend such 1-year period for an additional 1-year period for good
+ cause. After the effective date of such regulation, no State shall establish,
+ maintain, or enforce any requirement which relates to the subject matter
+ of such regulation unless such requirement is the same as such regulation.
+ `(f) IMPLEMENTATION EFFICIENCY- The Secretary, in consultation with the
+ working group established under this section, shall develop a procedure
+ to eliminate any differences in State implementation of regulations issued
+ pursuant to this section.
+ `(g) APPLICABILITY OF ADVISORY COMMITTEE ACT- The working group established
+ under this section shall not be subject to the Federal Advisory Committee Act.
+ `(h) AUTHORIZATION OF APPROPRIATION- There is authorized to be appropriated
+ for carrying out this section $400,000 per fiscal year for each of fiscal
+ years 1991, 1992, and 1993. Such sums shall remain available until expended.'.
+SEC. 23. FINANCIAL RESPONSIBILITY.
+ Section 30(b)(2) of the Motor Carrier Act of 1980 (49 U.S.C. 10927 note)
+ is amended to read as follows:
+ `(2) HAZARDOUS MATERIALS TRANSPORTATION-
+ `(A) GENERAL RULE- Except as provided in subparagraphs (B) and (C), the
+ minimal level of financial responsibility established by the Secretary under
+ paragraph (1) of this subsection for any vehicle transporting in interstate
+ or intrastate commerce--
+ `(i) hazardous substances (as defined by the Administrator of the
+ Environmental Protection Agency) in cargo tanks, portable tanks, or
+ hopper-type vehicles, with capacities in excess of 3,500 water gallons,
+ `(ii) in bulk class A explosives, poison gas, liquefied gas, or compressed
+ gas, or
+ `(iii) large quantities of radioactive materials,
+shall not be less than $5,000,000.
+ `(B) PHASE-IN REDUCTION- The Secretary, by regulation, may reduce the
+ $5,000,000 amount under subparagraph (A) (but not to an amount less than
+ $1,000,000) for any class of vehicles or operations for the 3 1/2 -year
+ period beginning on the effective date of the regulations issued under
+ this subsection or any part of such period if the Secretary finds that
+ such reduction will not adversely affect public safety and will prevent a
+ serious disruption in transportation service.
+ `(C) TERRITORY REDUCTION- The Secretary, by regulation, may reduce the
+ $5,000,000 amount under subparagraph (A) (but not to an amount less
+ than $1,000,000) for transportation described in subparagraph (A) in the
+ Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the
+ Commonwealth of the Northern Mariana Islands if the chief executive officer of
+ such territory requests the reduction and if the reduction will not adversely
+ affect public safety, will prevent a serious disruption in transportation
+ service, and insurance at the $5,000,000 level is not readily available.'.
+SEC. 24. FEDERALLY LEASED COMMERCIAL MOTOR VEHICLES.
+ Section 210 of the Motor Carrier Safety Act of 1984 (49 U.S.C. App. 2509)
+ is amended by adding at the end the following new subsection:
+ `(g) FEDERALLY LEASED COMMERCIAL MOTOR VEHICLES- Any State which receives
+ Federal financial assistance under section 402 of the Surface Transportation
+ Assistance Act of 1982 in a fiscal year may apply and enforce in such fiscal
+ year any regulations pertaining to commercial motor vehicle safety adopted
+ by such State with respect to commercial motor vehicles and operators leased
+ to the United States.'.
+SEC. 25. IMPROVEMENTS TO HAZARDOUS MATERIALS IDENTIFICATION SYSTEMS.
+ (a) RULEMAKING PROCEEDING-
+ (1) INITIATION- In order to develop methods of improving the current system
+ of identifying hazardous materials being transported in vehicles for
+ safeguarding the health and safety of persons responding to emergencies
+ involving such hazardous materials and the public and to facilitate the
+ review and reporting process required by subsection (d), the Secretary of
+ Transportation shall initiate a rulemaking proceeding not later than 30
+ days after the date of the enactment of this Act.
+ (2) PRIMARY PURPOSES- The primary purposes of the rulemaking proceeding
+ initiated under this subsection are--
+ (A) to determine methods of improving the current system of placarding
+ vehicles transporting hazardous materials; and
+ (B) to determine methods for establishing and operating a central reporting
+ system and computerized telecommunications data center described in subsection
+ (b)(1).
+ (3) METHODS OF IMPROVING PLACARDING SYSTEM- The methods of improving the
+ current system of placarding to be considered under the rulemaking proceeding
+ initiated under this subsection shall include methods to make such placards
+ more visible, methods to reduce the number of improper and missing placards,
+ alternative methods of marking vehicles for the purpose of identifying the
+ hazardous materials being transported, methods of modifying the composition
+ of placards in order to ensure their resistance to flammability, methods of
+ improving the coding system used with respect to such placards, identification
+ of appropriate emergency response procedures through symbols on placards,
+ and whether or not telephone numbers of any continually monitored telephone
+ systems which are established under the Hazardous Materials Transportation
+ Act are displayed on vehicles transporting hazardous materials.
+ (4) COMPLETION OF RULEMAKING PROCEEDING WITH RESPECT TO REPORTING SYSTEM
+ AND DATA CENTER- Not later than 19 months after the date of the enactment
+ of this Act, the Secretary of Transportation shall complete the rulemaking
+ proceeding initiated with respect to the central reporting system and
+ computerized telecommunications data center described in subsection (b).
+ (5) FINAL RULE WITH RESPECT TO PLACARDING- Not later than 30 months after
+ the date of the enactment of this Act, the Secretary of Transportation shall
+ issue a final rule relating to improving the current system for placarding
+ vehicles transporting hazardous materials.
+ (b) CENTRAL REPORTING SYSTEM AND COMPUTERIZED TELECOMMUNICATIONS DATA
+ CENTER STUDY-
+ (1) ARRANGEMENTS WITH NATIONAL ACADEMY OF SCIENCES- Not later than 30 days
+ after the date of the enactment of this Act, the Secretary of Transportation
+ shall undertake to enter into appropriate arrangements with the National
+ Academy of Sciences to conduct a study of the feasibility and necessity
+ of establishing and operating a central reporting system and computerized
+ telecommunications data center that is capable of receiving, storing, and
+ retrieving data concerning all daily shipments of hazardous materials,
+ that can identify hazardous materials being transported by any mode of
+ transportation, and that can provide information to facilitate responses to
+ accidents and incidents involving the transportation of hazardous materials.
+ (2) CONSULTATION AND REPORT- In entering into any arrangements with the
+ National Academy of Sciences for conducting the study under this section, the
+ Secretary of Transportation shall request the National Academy of Sciences--
+ (A) to consult with the Department of Transportation, the Department of Health
+ and Human Services, the Environmental Protection Agency, the Federal Emergency
+ Management Agency, and the Occupational Safety and Health Administration,
+ shippers and carriers of hazardous materials, manufacturers of computerized
+ telecommunications systems, State and local emergency preparedness
+ organizations (including law enforcement and firefighting organizations),
+ and appropriate international organizations in conducting such study; and
+ (B) to submit, not later than 19 months after the date of the enactment
+ of this Act, to the Secretary, the Committee on Commerce, Science, and
+ Transportation of the Senate, and the Committees on Energy and Commerce and
+ Public Works and Transportation of the House of Representatives a report
+ on the results of such study.
+Such report shall include recommendations of the National Academy of Sciences
+with respect to establishment and operation of a central reporting system
+and computerized telecommunications data center described in paragraph (1).
+ (3) AUTHORIZATION OF APPROPRIATION- In addition to amounts authorized
+ under section 115 of the Hazardous Materials Transportation Act, there is
+ authorized to be appropriated to the Secretary of Transportation to carry
+ out this subsection $350,000.
+ (c) ADDITIONAL PURPOSES OF RULEMAKING PROCEEDING AND STUDY- Additional
+ purposes of the rulemaking proceeding initiated under subsection (a) with
+ respect to a central reporting system and computerized telecommunications data
+ center described in subsection (b) and the study conducted under subsection
+ (b) are--
+ (1) to determine whether such a system and center should be established and
+ operated by the United States Government or by a private entity, either on
+ its own initiative or under contract with the United States;
+ (2) to determine, on an annualized basis, the estimated cost for establishing,
+ operating, and maintaining such a system and center and for carrier and
+ shipper compliance with such a system;
+ (3) to determine methods for financing the cost of establishing, operating,
+ and maintaining such a system and center;
+ (4) to determine projected safety benefits of establishing and operating
+ such a system and center;
+ (5) to determine whether or not shippers, carriers, and handlers of hazardous
+ materials, in addition to law enforcement officials and persons responsible
+ for responding to emergencies involving hazardous materials, should have
+ access to such system for obtaining information concerning shipments of
+ hazardous materials and technical and other information and advice with
+ respect to such emergencies;
+ (6) to determine methods for ensuring the security of the information and
+ data stored in such a system;
+ (7) to determine types of hazardous materials and types of shipments for
+ which information and data should be stored in such a system;
+ (8) to determine the degree of liability of the operator of such a system
+ and center for providing incorrect, false, or misleading information;
+ (9) to determine deadlines by which shippers, carriers, and handlers of
+ hazardous materials should be required to submit information to the operator
+ of such a system and center and minimum standards relating to the form and
+ contents of such information;
+ (10) to determine measures (including the imposition of civil and criminal
+ penalties) for ensuring compliance with the deadlines and standards referred
+ to in paragraph (9); and
+ (11) to determine methods for accessing such a system through mobile satellite
+ service or other technologies having the capability to provide 2-way voice,
+ data, or facsimile services.
+ (d) REVIEW AND REPORT TO CONGRESS-
+ (1) IN GENERAL- Not later than 25 months after the date of the enactment
+ of this Act, the Secretary of Transportation shall review the report of the
+ National Academy of Sciences submitted under subsection (b) and the results
+ of rulemaking proceeding initiated under subsection (a) with respect to a
+ central reporting system and computerized telecommunications data center
+ and shall prepare and submit to Congress a report summarizing the report
+ of the National Academy of Sciences and the results of such rulemaking
+ proceeding, together with the Secretary's recommendations concerning the
+ establishment and operation of such a system and center and the Secretary's
+ recommendations concerning implementation of the recommendations contained
+ in the report of the National Academy of Sciences.
+ (2) WEIGHT TO BE GIVEN TO RECOMMENDATIONS OF NAS- In conducting the review
+ and preparing the report under this subsection, the Secretary shall give
+ substantial weight to the recommendations contained in the report of the
+ National Academy of Sciences submitted under subsection (b).
+ (3) INCLUSION OF REASONS FOR NOT FOLLOWING RECOMMENDATIONS- If the Secretary
+ does not include in the report prepared for submission to Congress under
+ this subsection a recommendation for implementation of a recommendation
+ contained in the report of the National Academy of Sciences submitted under
+ subsection (b), the Secretary shall include in the report to Congress under
+ this subsection the Secretary's reasons for not recommending implementation
+ of the recommendation of the National Academy of Sciences.
+SEC. 26. CONTINUALLY MONITORED TELEPHONE SYSTEMS.
+ (a) RULEMAKING PROCEEDING- Not later than 90 days after the date of the
+ enactment of this Act, the Secretary of Transportation shall initiate a
+ rulemaking proceeding on the feasibility, necessity, and safety benefits
+ of requiring carriers involved in the hazardous materials transportation
+ industry to establish continually monitored telephone systems equipped
+ to provide emergency response information and assistance with respect to
+ accidents and incidents involving hazardous materials. Additional objectives
+ of such proceeding shall be to determine which hazardous materials, if any,
+ should be covered by such a requirement and which segments of such industry
+ (including persons who own and operate motor vehicles, trains, vessels,
+ aircraft, and in-transit storage facilities) should be covered by such
+ a requirement.
+ (b) COMPLETION OF PROCEEDING- Not later than 30 months after the date of
+ the enactment of this Act, the Secretary of Transportation shall complete
+ the proceeding under this section and may issue a final rule relating
+ to establishment of continually monitored telephone systems described in
+ subsection (a).
+SEC. 27. SHIPPER RESPONSIBILITY REPORT.
+ Not later than 90 days after the date of the enactment of this Act, the
+ Secretary of Transportation shall transmit to Congress a report on--
+ (1) the safety benefits of a law which provides that if a person causes
+ a hazardous material to be transported in bulk in commerce by a motor
+ carrier, which is involved in a hazardous material incident and which
+ has an unsatisfactory safety rating issued by the Secretary or which has a
+ conditional safety rating issued by the Secretary which has been in effect for
+ a period of more than 12 months, such person shall be liable for at least 50
+ percent of the costs, damages, and attorney's fees assessed against the motor
+ carrier for any hazardous material incident involving such transportation;
+ (2) such other systems as the Secretary of Transportation may determine
+ would assure responsible actions by a person who causes the transportation
+ of hazardous material in bulk in commerce; and
+ (3) the safety benefits of a law which provides that the liability of the
+ person or persons who caused such a shipment of hazardous materials may
+ not be transferred by indemnification, hold harmless, or similar agreements.
+SEC. 28. STATE PARTICIPATION IN INVESTIGATIONS AND SURVEILLANCE.
+ (a) AMENDMENT OF SECTION 206(a) OF FRSA- Section 206(a) of the Federal
+ Railroad Safety Act of 1970 (45 U.S.C. 435(a)) is amended--
+ (1) by inserting `related to railroad safety' after `standard prescribed';
+ (2) by striking `under this title' the first place it appears;
+ (3) by striking `established under this title' in paragraph (2); and
+ (4) by striking `prescribed by the Secretary under section 202(a) of
+ this title' and inserting `relating to railroad safety prescribed by the
+ Secretary'.
+ (b) AMENDMENT OF SECTION 206(b) OF FRSA- Section 206(b) of the Federal
+ Railroad Safety Act of 1970 (45 U.S.C. 435(b)) is amended by striking
+ `prescribed by him under section 202(a) of this title' and inserting
+ `relating to railroad safety prescribed by the Secretary'.
+ (c) AMENDMENT OF SECTION 206(f) OF FRSA- Section 206(f) of the Federal
+ Railroad Safety Act of 1970 (45 U.S.C. 435(f)) is amended by striking
+ `under this title'.
+ (d) AMENDMENT TO SECTION 206 OF FRSA- Section 206 of the Federal Railroad
+ Safety Act of 1970 (45 U.S.C. 435) is amended by adding at the end the
+ following:
+ `(h) There is authorized to be appropriated for carrying out this section
+ $5,000,000 per fiscal year for each of fiscal years 1991, 1992, and 1993.'.
+ (e) AMENDMENT OF SECTION 207(a)(1) OF FRSA- Section 207(a)(1) of the Federal
+ Railroad Safety Act of 1970 (45 U.S.C. 436(a)(1)) is amended--
+ (1) by striking `under section 209 of this title with respect'; and
+ (2) by striking `issued under this title or under any law transferred by
+ section 6(e)(1), (e)(2), or (e)(6)(A) of the Department of Transportation
+ Act'.
+ (f) AMENDMENT OF SECTION 210(a) OF FRSA- Section 210(a) of the Federal
+ Railroad Safety Act of 1970 (45 U.S.C. 439(a)) is amended by striking `this
+ title or to enforce rules, regulations, orders, or standards established
+ under this title' and inserting `or to enforce rules, regulations, orders,
+ or standards relating to railroad safety'.
+SEC. 29. RETENTION OF MARKINGS AND PLACARDS.
+ Not later than 18 months after the date of enactment of this Act, the
+ Secretary of Labor, in consultation with the Secretary of Transportation
+ and the Secretary of the Treasury, shall issue under section 6(b) of the
+ Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)) standards
+ requiring any employer who receives a package, container, motor vehicle,
+ rail freight car, aircraft, or vessel which contains a hazardous material
+ and which is required to be marked, placarded, or labeled in accordance
+ with regulations issued under the Hazardous Materials Transportation Act to
+ retain the markings, placards, and labels, and any other information as may
+ be required by such regulations on the package, container, motor vehicle,
+ rail freight car, aircraft, or vessel, until the hazardous materials have
+ been removed therefrom.
+SEC. 30. RELATIONSHIP TO FEDERAL RAILROAD SAFETY ACT OF 1970.
+ Nothing in this Act, including the amendments made by this Act, shall be
+ construed to alter, amend, modify, or otherwise affect the scope of section
+ 205 of the Federal Railroad Safety Act of 1970.
+SEC. 31. EFFECTIVE DATE.
+ (a) GENERAL RULE- Except as provided in this Act, this Act (including the
+ amendments made by this Act) shall take effect on the date of the enactment
+ of this Act.
+ (b) CONTINUATION OF EXISTING REGULATIONS- Any regulation or ruling issued
+ before the date of the enactment of this Act pursuant to the Hazardous
+ Materials Transportation Act and any authority granted under such a
+ regulation shall continue in effect according to its terms until repealed,
+ terminated, amended, or modified by the Secretary of Transportation or a
+ court of competent jurisdiction.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

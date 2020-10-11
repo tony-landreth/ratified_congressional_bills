@@ -1,0 +1,648 @@
+ 
+--H.R.3657--
+H.R.3657
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Securities Exchange Act of 1934 to strengthen regulatory
+oversight of the United States securities markets, improve supervision of
+financial market participants, and improve the safety and efficiency of
+market mechanisms, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Market Reform Act of 1990'.
+SEC. 2. EMERGENCY AUTHORITY; TRADING HALTS.
+ Section 12(k) of the Securities Exchange Act of 1934 (15 U.S.C. 781(k))
+ is amended to read as follows:
+ `(k) Trading Suspensions; Emergency Authority-
+ `(1) TRADING SUSPENSIONS- If in its opinion the public interest and the
+ protection of investors so require, the Commission is authorized by order--
+ `(A) summarily to suspend trading in any security (other than an exempted
+ security) for a period not exceeding 10 business days, and
+ `(B) summarily to suspend all trading on any national securities exchange
+ or otherwise, in securities other than exempted securities, for a period
+ not exceeding 90 calendar days.
+The action described in subparagraph (B) shall not take effect unless the
+Commission notifies the President of its decision and the President notifies
+the Commission that the President does not disapprove of such decision.
+ `(2) EMERGENCY ORDERS- (A) The Commission, in an emergency, may by
+ order summarily take such action to alter, supplement, suspend, or impose
+ requirements or restrictions with respect to any matter or action subject to
+ regulation by the Commission or a self-regulatory organization under this
+ title, as the Commission determines is necessary in the public interest
+ and for the protection of investors--
+ `(i) to maintain or restore fair and orderly securities markets (other than
+ markets in exempted securities); or
+ `(ii) to ensure prompt, accurate, and safe clearance and settlement of
+ transactions in securities (other than exempted securities).
+ `(B) An order of the Commission under this paragraph (2) shall continue in
+ effect for the period specified by the Commission, and may be extended,
+ except that in no event shall the Commission's action continue in effect
+ for more than 10 business days, including extensions. In exercising its
+ authority under this paragraph, the Commission shall not be required to
+ comply with the provisions of section 553 of title 5, United States Code,
+ or with the provisions of section 19(c) of this title.
+ `(3) TERMINATION OF EMERGENCY ACTIONS BY PRESIDENT- The President may direct
+ that action taken by the Commission under paragraph (1)(B) or paragraph
+ (2) of this subsection shall not continue in effect.
+ `(4) COMPLIANCE WITH ORDERS- No member of a national securities exchange,
+ broker, or dealer shall make use of the mails or any means or instrumentality
+ of interstate commerce to effect any transaction in, or to induce the purchase
+ or sale of, any security in contravention of an order of the Commission
+ under this subsection unless such order has been stayed, modified, or set
+ aside as provided in paragraph (5) of this subsection or has ceased to be
+ effective upon direction of the President as provided in paragraph (3).
+ `(5) LIMITATIONS ON REVIEW OF ORDERS- An order of the Commission pursuant
+ to this subsection shall be subject to review only as provided in section
+ 25(a) of this title. Review shall be based on an examination of all the
+ information before the Commission at the time such order was issued. The
+ reviewing court shall not enter a stay, writ of mandamus, or similar relief
+ unless the court finds, after notice and hearing before a panel of the court,
+ that the Commission's action is arbitrary, capricious, an abuse of discretion,
+ or otherwise not in accordance with law.
+ `(6) DEFINITION OF EMERGENCY- For purposes of this subsection, the
+ term `emergency' means a major market disturbance characterized by or
+ constituting--
+ `(A) sudden and excessive fluctuations of securities prices generally,
+ or a substantial threat thereof, that threaten fair and orderly markets, or
+ `(B) a substantial disruption of the safe or efficient operation of the
+ national system for clearance and settlement of securities, or a substantial
+ threat thereof.'.
+SEC. 3. LARGE TRADER REPORTING.
+ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended
+ by adding at the end the following:
+ `(h) Large Trader Reporting-
+ `(1) IDENTIFICATION REQUIREMENTS FOR LARGE TRADERS- For the purpose of
+ monitoring the impact on the securities markets of securities transactions
+ involving a substantial volume or a large fair market value or exercise
+ value and for the purpose of otherwise assisting the Commission in the
+ enforcement of this title, each large trader shall--
+ `(A) provide such information to the Commission as the Commission may by
+ rule or regulation prescribe as necessary or appropriate, identifying such
+ large trader and all accounts in or through which such large trader effects
+ such transactions; and
+ `(B) identify, in accordance with such rules or regulations as the Commission
+ may prescribe as necessary or appropriate, to any registered broker or
+ dealer by or through whom such large trader directly or indirectly effects
+ securities transactions, such large trader and all accounts directly or
+ indirectly maintained with such broker or dealer by such large trader in
+ or through which such transactions are effected.
+ `(2) RECORDKEEPING AND REPORTING REQUIREMENTS FOR BROKERS AND DEALERS- Every
+ registered broker or dealer shall make and keep for prescribed periods such
+ records as the Commission by rule or regulation prescribes as necessary
+ or appropriate in the public interest, for the protection of investors,
+ or otherwise in furtherance of the purposes of this title, with respect to
+ securities transactions that equal or exceed the reporting activity level
+ effected directly or indirectly by or through such registered broker or dealer
+ of or for any person that such broker or dealer knows is a large trader, or
+ any person that such broker or dealer has reason to know is a large trader on
+ the basis of transactions in securities effected by or through such broker
+ or dealer. Such records shall be available for reporting to the Commission,
+ or any self-regulatory organization that the Commission shall designate
+ to receive such reports, on the morning of the day following the day the
+ transactions were effected, and shall be reported to the Commission or a
+ self-regulatory organization designated by the Commission immediately upon
+ request by the Commission or such a self-regulatory organization. Such records
+ and reports shall be in a format and transmitted in a manner prescribed by
+ the Commission (including, but not limited to, machine readable form).
+ `(3) AGGREGATION RULES- The Commission may prescribe rules or regulations
+ governing the manner in which transactions and accounts shall be aggregated
+ for the purpose of this subsection, including aggregation on the basis of
+ common ownership or control.
+ `(4) EXAMINATION OF BROKER AND DEALER RECORDS- All records required to be
+ made and kept by registered brokers and dealers pursuant to this subsection
+ with respect to transactions effected by large traders are subject at any
+ time, or from time to time, to such reasonable periodic, special, or other
+ examinations by representatives of the Commission as the Commission deems
+ necessary or appropriate in the public interest, for the protection of
+ investors, or otherwise in furtherance of the purposes of this title.
+ `(5) FACTORS TO BE CONSIDERED IN COMMISSION ACTIONS- In exercising its
+ authority under this subsection, the Commission shall take into account--
+ `(A) existing reporting systems;
+ `(B) the costs associated with maintaining information with respect to
+ transactions effected by large traders and reporting such information to
+ the Commission or self-regulatory organizations; and
+ `(C) the relationship between the United States and international securities
+ markets.
+ `(6) EXEMPTIONS- The Commission, by rule, regulation, or order, consistent
+ with the purposes of this title, may exempt any person or class of persons
+ or any transaction or class of transactions, either conditionally or upon
+ specified terms and conditions or for stated periods, from the operation
+ of this subsection, and the rules and regulations thereunder.
+ `(7) AUTHORITY OF COMMISSION TO LIMIT DISCLOSURE OF INFORMATION-
+ Notwithstanding any other provision of law, the Commission shall not be
+ compelled to disclose any information required to be kept or reported under
+ this subsection. Nothing in this subsection shall authorize the Commission to
+ withhold information from Congress, or prevent the Commission from complying
+ with a request for information from any other Federal department or agency
+ requesting information for purposes within the scope of its jurisdiction,
+ or complying with an order of a court of the United States in an action
+ brought by the United States or the Commission. For purposes of section
+ 552 of title 5, United States Code, this subsection shall be considered a
+ statute described in subsection (b)(3)(B) of such section 552.
+ `(8) DEFINITIONS- For purposes of this subsection--
+ `(A) the term `large trader' means every person who, for his own account or
+ an account for which he exercises investment discretion, effects transactions
+ for the purchase or sale of any publicly traded security or securities by
+ use of any means or instrumentality of interstate commerce or of the mails,
+ or of any facility of a national securities exchange, directly or indirectly
+ by or through a registered broker or dealer in an aggregate amount equal
+ to or in excess of the identifying activity level;
+ `(B) the term `publicly traded security' means any equity security (including
+ an option on individual equity securities, and an option on a group or index
+ of such securities) listed, or admitted to unlisted trading privileges,
+ on a national securities exchange, or quoted in an automated interdealer
+ quotation system;
+ `(C) the term `identifying activity level' means transactions in publicly
+ traded securities at or above a level of volume, fair market value, or
+ exercise value as shall be fixed from time to time by the Commission by rule
+ or regulation, specifying the time interval during which such transactions
+ shall be aggregated;
+ `(D) the term `reporting activity level' means transactions in publicly
+ traded securities at or above a level of volume, fair market value, or
+ exercise value as shall be fixed from time to time by the Commission by
+ rule, regulation, or order, specifying the time interval during which such
+ transactions shall be aggregated; and
+ `(E) the term `person' has the meaning given in section 3(a)(9) of this
+ title and also includes two or more persons acting as a partnership,
+ limited partnership, syndicate, or other group, but does not include a
+ foreign central bank.'.
+SEC. 4. RISK ASSESSMENT FOR HOLDING COMPANY SYSTEMS.
+ (a) AMENDMENT- Section 17 of the Securities Exchange Act of 1934 (15
+ U.S.C. 78q) is amended by adding at the end the following:
+ `(h) Risk Assessment for Holding Company Systems-
+ `(1) OBLIGATIONS TO OBTAIN, MAINTAIN, AND REPORT INFORMATION- Every person who
+ is (A) a registered broker or dealer, or (B) a registered municipal securities
+ dealer for which the Commission is the appropriate regulatory agency, shall
+ obtain such information and make and keep such records as the Commission by
+ rule prescribes concerning the registered person's policies, procedures,
+ or systems for monitoring and controlling financial and operational risks
+ to it resulting from the activities of any of its associated persons, other
+ than a natural person. Such records shall describe, in the aggregate, each
+ of the financial and securities activities conducted by, and the customary
+ sources of capital and funding of, those of its associated persons whose
+ business activities are reasonably likely to have a material impact on the
+ financial or operational condition of such registered person, including
+ its net capital, its liquidity, or its ability to conduct or finance its
+ operations. The Commission, by rule, may require summary reports of such
+ information to be filed with the Commission no more frequently than quarterly.
+ `(2) AUTHORITY TO REQUIRE ADDITIONAL INFORMATION- If, as a result of adverse
+ market conditions or based on reports provided to the Commission pursuant
+ to paragraph (1) of this subsection or other available information, the
+ Commission reasonably concludes that it has concerns regarding the financial
+ or operational condition of (A) any registered broker or dealer, or (B)
+ any registered municipal securities dealer, government securities broker,
+ or government securities dealer for which the Commission is the appropriate
+ regulatory agency, the Commission may require the registered person to make
+ reports concerning the financial and securities activities of any of such
+ person's associated persons, other than a natural person, whose business
+ activities are reasonably likely to have a material impact on the financial
+ or operational condition of such registered person. The Commission, in
+ requiring reports pursuant to this paragraph, shall specify the information
+ required, the period for which it is required, the time and date on which
+ the information must be furnished, and whether the information is to be
+ furnished directly to the Commission or to a self-regulatory organization
+ with primary responsibility for examining the registered person's financial
+ and operational condition.
+ `(3) SPECIAL PROVISIONS WITH RESPECT TO ASSOCIATED PERSONS SUBJECT TO
+ FEDERAL BANKING AGENCY REGULATION-
+ `(A) COOPERATION IN IMPLEMENTATION- In developing and implementing reporting
+ requirements pursuant to paragraph (1) of this subsection with respect to
+ associated persons subject to examination by or reporting requirements of
+ a Federal banking agency, the Commission shall consult with and consider
+ the views of each such Federal banking agency. If a Federal banking agency
+ comments in writing on a proposed rule of the Commission under this subsection
+ that has been published for comment, the Commission shall respond in writing
+ to such written comment before adopting the proposed rule. The Commission
+ shall, at the request of the Federal banking agency, publish such comment and
+ response in the Federal Register at the time of publishing the adopted rule.
+ `(B) USE OF BANKING AGENCY REPORTS- A registered broker, dealer, or municipal
+ securities dealer shall be in compliance with any recordkeeping or reporting
+ requirement adopted pursuant to paragraph (1) of this subsection concerning
+ an associated person that is subject to examination by or reporting
+ requirements of a Federal banking agency if such broker, dealer, or
+ municipal securities dealer utilizes for such recordkeeping or reporting
+ requirement copies of reports filed by the associated person with the
+ Federal banking agency pursuant to section 5211 of the Revised Statutes,
+ section 9 of the Federal Reserve Act, section 7(a) of the Federal Deposit
+ Insurance Act, section 10(b) of the Home Owners' Loan Act, or section
+ 8 of the Bank Holding Company Act of 1956. The Commission may, however,
+ by rule adopted pursuant to paragraph (1), require any broker, dealer,
+ or municipal securities dealer filing such reports with the Commission
+ to obtain, maintain, or report supplemental information if the Commission
+ makes an explicit finding that such supplemental information is necessary
+ to inform the Commission regarding potential risks to such broker, dealer,
+ or municipal securities dealer. Prior to requiring any such supplemental
+ information, the Commission shall first request the Federal banking agency
+ to expand its reporting requirements to include such information.
+ `(C) PROCEDURE FOR REQUIRING ADDITIONAL INFORMATION- Prior to making
+ a request pursuant to paragraph (2) of this subsection for information
+ with respect to an associated person that is subject to examination by or
+ reporting requirements of a Federal banking agency, the Commission shall--
+ `(i) notify such agency of the information required with respect to such
+ associated person; and
+ `(ii) consult with such agency to determine whether the information
+ required is available from such agency and for other purposes, unless the
+ Commission determines that any delay resulting from such consultation would
+ be inconsistent with ensuring the financial and operational condition of
+ the broker, dealer, municipal securities dealer, government securities
+ broker, or government securities dealer or the stability or integrity of
+ the securities markets.
+ `(D) EXCLUSION FOR EXAMINATION REPORTS- Nothing in this subsection shall be
+ construed to permit the Commission to require any registered broker or dealer,
+ or any registered municipal securities dealer, government securities broker,
+ or government securities dealer for which the Commission is the appropriate
+ regulatory agency, to obtain, maintain, or furnish any examination report
+ of any Federal banking agency or any supervisory recommendations or analysis
+ contained therein.
+ `(E) CONFIDENTIALITY OF INFORMATION PROVIDED- No information provided to
+ or obtained by the Commission from any Federal banking agency pursuant
+ to a request by the Commission under subparagraph (C) of this paragraph
+ regarding any associated person which is subject to examination by or
+ reporting requirements of a Federal banking agency may be disclosed to any
+ other person (other than a self-regulatory organization), without the prior
+ written approval of the Federal banking agency. Nothing in this subsection
+ shall authorize the Commission to withhold information from Congress,
+ or prevent the Commission from complying with a request for information
+ from any other Federal department or agency requesting the information for
+ purposes within the scope of its jurisdiction, or complying with an order
+ of a court of the United States in an action brought by the United States
+ or the Commission.
+ `(F) NOTICE TO BANKING AGENCIES CONCERNING FINANCIAL AND OPERATIONAL CONDITION
+ CONCERNS- The Commission shall notify the Federal banking agency of any
+ concerns of the Commission regarding significant financial or operational
+ risks resulting from the activities of any registered broker or dealer, or
+ any registered municipal securities dealer, government securities broker,
+ or government securities dealer for which the Commission is the appropriate
+ regulatory agency, to any associated person thereof which is subject to
+ examination by or reporting requirements of the Federal banking agency.
+ `(G) DEFINITION- For purposes of this paragraph, the term `Federal banking
+ agency' shall have the same meaning as the term `appropriate Federal
+ bank agency' in section 3(q) of the Federal Deposit Insurance Act (12
+ U.S.C. 1813(q)).
+ `(4) EXEMPTIONS- The Commission by rule or order may exempt any person or
+ class of persons, under such terms and conditions and for such periods as
+ the Commission shall provide in such rule or order, from the provisions
+ of this subsection, and the rules thereunder. In granting such exemptions,
+ the Commission shall consider, among other factors--
+ `(A) whether information of the type required under this subsection is
+ available from a supervisory agency (as defined in section 1101(6) of
+ the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401(6))), a State
+ insurance commission or similar State agency, the Commodity Futures Trading
+ Commission, or a similar foreign regulator;
+ `(B) the primary business of any associated person;
+ `(C) the nature and extent of domestic or foreign regulation of the associated
+ person's activities;
+ `(D) the nature and extent of the registered person's securities activities;
+ and
+ `(E) with respect to the registered person and its associated persons,
+ on a consolidated basis, the amount and proportion of assets devoted to,
+ and revenues derived from, activities in the United States securities markets.
+ `(5) AUTHORITY TO LIMIT DISCLOSURE OF INFORMATION- Notwithstanding any other
+ provision of law, the Commission shall not be compelled to disclose any
+ information required to be reported under this subsection, or any information
+ supplied to the Commission by any domestic or foreign regulatory agency that
+ relates to the financial or operational condition of any associated person
+ of a registered broker, dealer, government securities broker, government
+ securities dealer, or municipal securities dealer. Nothing in this subsection
+ shall authorize the Commission to withhold information from Congress,
+ or prevent the Commission from complying with a request for information
+ from any other Federal department or agency requesting the information for
+ purposes within the scope of its jurisdiction, or complying with an order
+ of a court of the United States in an action brought by the United States
+ or the Commission. For purposes of section 552 of title 5, United States
+ Code, this subsection shall be considered a statute described in subsection
+ (b)(3)(B) of such section 552. In prescribing regulations to carry out the
+ requirements of this subsection, the Commission shall designate information
+ described in or obtained pursuant to subparagraph (B) or (C) of paragraph
+ (3) of this subsection as confidential information for purposes of section
+ 24(b)(2) of this title.'.
+ (b) CONFORMING AMENDMENT- Section 15C(b) of the Securities Exchange Act of
+ 1934 (15 U.S.C. 78o-4(b)) is amended--
+ (1) by redesignating paragraphs (2) through (5) as paragraphs (3) through
+ (6), respectively; and
+ (2) by inserting after paragraph (1) the following new paragraph:
+ `(2) Risk Assessment for Holding Company Systems-
+ `(A) OBLIGATIONS TO OBTAIN, MAINTAIN, AND REPORT INFORMATION- Every person
+ who is registered as a government securities broker or government securities
+ dealer under this section shall obtain such information and make and keep
+ such records as the Secretary by rule prescribes concerning the registered
+ person's policies, procedures, or systems for monitoring and controlling
+ financial and operational risks to it resulting from the activities of
+ any of its associated persons, other than a natural person. Such records
+ shall describe, in the aggregate, each of the financial and securities
+ activities conducted by, and customary sources of capital and funding of,
+ those of its associated persons whose business activities are reasonably
+ likely to have a material impact on the financial or operational condition
+ of such registered person, including its capital, its liquidity, or its
+ ability to conduct or finance its operations. The Secretary, by rule, may
+ require summary reports of such information to be filed with the registered
+ person's appropriate regulatory agency no more frequently than quarterly.
+ `(B) AUTHORITY TO REQUIRE ADDITIONAL INFORMATION- If, as a result of adverse
+ market conditions or based on reports provided pursuant to subparagraph
+ (A) of this paragraph or other available information, the appropriate
+ regulatory agency reasonably concludes that it has concerns regarding the
+ financial or operational condition of any government securities broker or
+ government securities dealer registered under this section, such agency
+ may require the registered person to make reports concerning the financial
+ and securities activities of any of such person's associated persons, other
+ than a natural person, whose business activities are reasonably likely to
+ have a material impact on the financial or operational condition of such
+ registered person. The appropriate regulatory agency, in requiring reports
+ pursuant to this subparagraph, shall specify the information required, the
+ period for which it is required, the time and date on which the information
+ must be furnished, and whether the information is to be furnished directly
+ to the appropriate regulatory agency or to a self-regulatory organization
+ with primary responsibility for examining the registered person's financial
+ and operational condition.
+ `(C) SPECIAL PROVISIONS WITH RESPECT TO ASSOCIATED PERSONS SUBJECT TO
+ FEDERAL BANKING AGENCY REGULATION-
+ `(i) COOPERATION IN IMPLEMENTATION- In developing and implementing reporting
+ requirements pursuant to subparagraph (A) of this paragraph with respect
+ to associated persons subject to examination by or reporting requirements
+ of a Federal banking agency, the Secretary shall consult with and consider
+ the views of each such Federal banking agency. If a Federal banking agency
+ comments in writing on a proposed rule of the Secretary under this paragraph
+ that has been published for comment, the Secretary shall respond in writing
+ to such written comment before adopting the proposed rule. The Secretary
+ shall, at the request of a Federal banking agency, publish such comment and
+ response in the Federal Register at the time of publishing the adopted rule.
+ `(ii) USE OF BANKING AGENCY REPORTS- A registered government securities
+ broker or government securities dealer shall be in compliance with any
+ recordkeeping or reporting requirement adopted pursuant to subparagraph
+ (A) of this paragraph concerning an associated person that is subject to
+ examination by or reporting requirements of a Federal banking agency if such
+ government securities broker or government securities dealer utilizes for
+ such recordkeeping or reporting requirement copies of reports filed by the
+ associated person with the Federal banking agency pursuant to section 5211
+ of the Revised Statutes, section 9 of the Federal Reserve Act, section 7(a)
+ of the Federal Deposit Insurance Act, section 10(b) of the Home Owners' Loan
+ Act, or section 8 of the Bank Holding Company Act of 1956. The Secretary may,
+ however, by rule adopted pursuant to subparagraph (A), require any registered
+ government securities broker or government securities dealer filing such
+ reports with the appropriate regulatory agency to obtain, maintain, or
+ report supplemental information if the Secretary makes an explicit finding,
+ based on information provided by the appropriate regulatory agency, that such
+ supplemental information is necessary to inform the appropriate regulatory
+ agency regarding potential risks to such government securities broker or
+ government securities dealer. Prior to requiring any such supplemental
+ information, the Secretary shall first request the Federal banking agency
+ to expand its reporting requirements to include such information.
+ `(iii) PROCEDURE FOR REQUIRING ADDITIONAL INFORMATION- Prior to making a
+ request pursuant to subparagraph (B) of this paragraph for information
+ with respect to an associated person that is subject to examination by
+ or reporting requirements of a Federal banking agency, the appropriate
+ regulatory agency shall--
+ `(I) notify such banking agency of the information required with respect
+ to such associated person; and
+ `(II) consult with such agency to determine whether the information required
+ is available from such agency and for other purposes, unless the appropriate
+ regulatory agency determines that any delay resulting from such consultation
+ would be inconsistent with ensuring the financial and operational condition
+ of the government securities broker or government securities dealer or the
+ stability or integrity of the securities markets.
+ `(iv) EXCLUSION FOR EXAMINATION REPORTS- Nothing in this subparagraph
+ shall be construed to permit the Secretary or an appropriate regulatory
+ agency to require any registered government securities broker or government
+ securities dealer to obtain, maintain, or furnish any examination report of
+ any Federal banking agency or any supervisory recommendations or analysis
+ contained therein.
+ `(v) CONFIDENTIALITY OF INFORMATION PROVIDED- No information provided to or
+ obtained by an appropriate regulatory agency from any Federal banking agency
+ pursuant to a request under clause (iii) of this subparagraph regarding any
+ associated person which is subject to examination by or reporting requirements
+ of a Federal banking agency may be disclosed to any other person (other
+ than a self-regulatory organization), without the prior written approval
+ of the Federal banking agency. Nothing in this clause shall authorize the
+ Secretary or any appropriate regulatory agency to withhold information from
+ Congress, or prevent the Secretary or any appropriate regulatory agency from
+ complying with a request for information from any other Federal department
+ or agency requesting the information for purposes within the scope of its
+ jurisdiction, or complying with an order of a court of the United States
+ in an action brought by the United States or the Commission.
+ `(vi) NOTICE TO BANKING AGENCIES CONCERNING FINANCIAL AND OPERATIONAL
+ CONDITION CONCERNS- The Secretary or appropriate regulatory agency shall
+ notify the Federal banking agency of any concerns of the Secretary or the
+ appropriate regulatory agency regarding significant financial or operational
+ risks resulting from the activities of any government securities broker or
+ government securities dealer to any associated person thereof which is subject
+ to examination by or reporting requirements of the Federal banking agency.
+ `(vii) DEFINITION- For purposes of this subparagraph, the term `Federal
+ banking agency' shall have the same meaning as the term `appropriate Federal
+ banking agency' in section 3(q) of the Federal Deposit Insurance Act (12
+ U.S.C. 1813(q)).
+ `(D) EXEMPTIONS- The Secretary by rule or order may exempt any person or
+ class of persons, under such terms and conditions and for such periods
+ as the Secretary shall provide in such rule or order, from the provisions
+ of this paragraph, and the rules thereunder. In granting such exemptions,
+ the Secretary shall consider, among other factors--
+ `(i) whether information of the type required under this paragraph is
+ available from a supervisory agency (as defined in section 1101(6) of
+ the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401(6))), a State
+ insurance commission or similar State agency, the Commodity Futures Trading
+ Commission, or a similar foreign regulator;
+ `(ii) the primary business of any associated person;
+ `(iii) the nature and extent of domestic or foreign regulation of the
+ associated person's activities;
+ `(iv) the nature and extent of the registered person's securities
+ transactions; and
+ `(v) with respect to the registered person and its associated persons,
+ on a consolidated basis, the amount and proportion of assets devoted to,
+ and revenues derived from, activities in the United States securities markets.
+ `(E) CONFORMITY WITH REQUIREMENTS UNDER SECTION 17(h)- In exercising authority
+ pursuant to subparagraph (A) of this paragraph concerning information with
+ respect to associated persons of government securities brokers and government
+ securities dealers who are also associated persons of registered brokers
+ or dealers reporting to the Commission pursuant to section 17(h) of this
+ title, the requirements relating to such associated persons shall conform,
+ to the greatest extent practicable, to the requirements under section 17(h).
+ `(F) AUTHORITY TO LIMIT DISCLOSURE OF INFORMATION- Notwithstanding any
+ other provision of law, the Secretary and any appropriate regulatory agency
+ shall not be compelled to disclose any information required to be reported
+ under this paragraph, or any information supplied to the Secretary or any
+ appropriate regulatory agency by any domestic or foreign regulatory agency
+ that relates to the financial or operational condition of any associated
+ person of a registered government securities broker or a government
+ securities dealer. Nothing in this paragraph shall authorize the Secretary
+ or any appropriate regulatory agency to withhold information from Congress,
+ or prevent the Secretary or any appropriate regulatory agency from complying
+ with a request for information from any other Federal department or agency
+ requesting the information for purposes within the scope of its jurisdiction,
+ or complying with an order of a court of the United States in an action
+ brought by the United States or the Commission. For purposes of section
+ 552 of title 5, United States Code, this paragraph shall be considered a
+ statute described in subsection (b)(3)(B) of such section 552.'.
+SEC. 5. COORDINATED CLEARING.
+ (a) AUTHORITY TO FACILITATE COORDINATED CLEARING MECHANISMS- Section 17A(a)(2)
+ of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1) is amended to read
+ as follows:
+ `(2)(A) The Commission is directed, therefore, having due regard for the
+ public interest, the protection of investors, the safeguarding of securities
+ and funds, and maintenance of fair competition among brokers and dealers,
+ clearing agencies, and transfer agents, to use its authority under this
+ title--
+ `(i) to facilitate the establishment of a national system for the prompt
+ and accurate clearance and settlement of transactions in securities (other
+ than exempt securities); and
+ `(ii) to facilitate the establishment of linked or coordinated facilities
+ for clearance and settlement of transactions in securities, securities
+ options, contracts of sale for future delivery and options thereon, and
+ commodity options;
+in accordance with the findings and to carry out the objectives set forth
+in paragraph (1) of this subsection.
+ `(B) The Commission shall use its authority under this title to assure
+ equal regulation under this title of registered clearing agencies and
+ registered transfer agents. In carrying out its responsibilities set forth
+ in subparagraph (A)(ii) of this paragraph, the Commission shall coordinate
+ with the Commodity Futures Trading Commission and consult with the Board
+ of Governors of the Federal Reserve System.'.
+ (b) TRANSFER AND PLEDGE OF SECURITIES- Section 17A of the Securities Exchange
+ Act of 1934 (15 U.S.C. 78q-1) is amended by adding at the end the following:
+ `(f)(1) Notwithstanding any provision of State law, except as provided in
+ paragraph (3), if the Commission makes each of the findings described in
+ paragraph (2)(A), the Commission may adopt rules concerning--
+ `(A) the transfer of certificated or uncertificated securities (other than
+ government securities issued pursuant to chapter 31 of title 31, United
+ States Code, or securities otherwise processed within a book-entry system
+ operated by the Federal Reserve banks pursuant to a Federal book-entry
+ regulation) or limited interests (including security interests) therein; and
+ `(B) rights and obligations of purchasers, sellers, owners, lenders,
+ borrowers, and financial intermediaries (including brokers, dealers, banks,
+ and clearing agencies) involved in or affected by such transfers, and the
+ rights of third parties whose interests in such securities devolve from
+ such transfers.
+ `(2)(A) The findings described in this paragraph are findings by the
+ Commission that--
+ `(i) such rule is necessary or appropriate for the protection of investors
+ or in the public interest and is reasonably designed to promote the prompt,
+ accurate, and safe clearance and settlement of securities transactions;
+ `(ii) in the absence of a uniform rule, the safe and efficient operation of
+ the national system for clearance and settlement of securities transactions
+ will be, or is, substantially impeded; and
+ `(iii) to the extent such rule will impair or diminish, directly or
+ indirectly, rights of persons specified in paragraph (1)(B) under State
+ law concerning transfers of securities (or limited interests therein),
+ the benefits of such rule outweigh such impairment or diminution of rights.
+ `(B) In making the findings described in subparagraph (A), the Commission
+ shall give consideration to the recommendations of the Advisory Committee
+ established under paragraph (4), and it shall consult with and consider the
+ views of the Secretary of the Treasury and the Board of Governors of the
+ Federal Reserve System. If the Secretary of the Treasury objects, in writing,
+ to any proposed rule of the Commission on the basis of the Secretary's view
+ on the issues described in clauses (i), (ii), and (iii) of subparagraph (A),
+ the Commission shall consider all feasible alternatives to the proposed
+ rule, and it shall not adopt any such rule unless the Commission makes an
+ explicit finding that the rule is the most practicable method for achieving
+ safe and efficient operation of the national clearance and settlement system.
+ `(3) Any State may, prior to the expiration of 2 years after the Commission
+ adopts a rule under this subsection, enact a statute that specifically
+ refers to this subsection and the specific rule thereunder and establishes,
+ prospectively from the date of enactment of the State statute, a provision
+ that differs from that applicable under the Commission's rule.
+ `(4)(A) Within 90 days after the date of enactment of this subsection,
+ the Commission shall (and at such times thereafter as the Commission may
+ determine, the Commission may), after consultation with the Secretary of
+ the Treasury and the Board of Governors of the Federal Reserve System,
+ establish an advisory committee under the Federal Advisory Committee Act
+ (5 U.S.C. App.). The Advisory Committee shall be directed to consider
+ and report to the Commission on such matters as the Commission, after
+ consultation with the Secretary of the Treasury and the Board of Governors
+ of the Federal Reserve System, determines, including the areas, if any,
+ in which State commercial laws and related Federal laws concerning the
+ transfer of certificated or uncertificated securities, limited interests
+ (including security interests) in such securities, or the creation or
+ perfection of security interests in such securities do not provide the
+ necessary certainty, uniformity, and clarity for purchasers, sellers,
+ owners, lenders, borrowers, and financial intermediaries concerning their
+ respective rights and obligations.
+ `(B) The Advisory Committee shall consist of 15 members, of which--
+ `(i) 11 shall be designated by the Commission in accordance with the Federal
+ Advisory Committee Act; and
+ `(ii) 2 each shall be designated by the Board of Governors of the Federal
+ Reserve System and the Secretary of the Treasury.
+ `(C) The Advisory Committee shall conduct its activities in accordance with
+ the Federal Advisory Committee Act. Within 6 months of its designation, or
+ such longer time as the Commission may designate, the Advisory Committee
+ shall issue a report to the Commission, and shall cause copies of that
+ report to be delivered to the Secretary of the Treasury and the Chairman
+ of the Board of Governors of the Federal Reserve System.'.
+SEC. 6. LIMITATION ON PRACTICES WHICH RESULT IN VOLATILITY.
+ (a) IN GENERAL- Section 9 of the Securities Exchange Act of 1934 (15
+ U.S.C. 78i) is amended by adding at the end thereof the following new
+ subsection:
+ `(h) LIMITATIONS ON PRACTICES THAT AFFECT MARKET VOLATILITY- It shall
+ be unlawful for any person, by the use of the mails or any means or
+ instrumentality of interstate commerce or of any facility of any national
+ securities exchange, to use or employ any act or practice in connection with
+ the purchase or sale of any equity security in contravention of such rules or
+ regulations as the Commission may adopt, consistent with the public interest,
+ the protection of investors, and the maintenance of fair and orderly markets--
+ `(1) to prescribe means reasonably designed to prevent manipulation of price
+ levels of the equity securities market or a substantial segment thereof; and
+ `(2) to prohibit or constrain, during periods of extraordinary market
+ volatility, any trading practice in connection with the purchase or sale
+ of equity securities that the Commission determines (A) has previously
+ contributed significantly to extraordinary levels of volatility that
+ have threatened the maintenance of fair and orderly markets; and (B) is
+ reasonably certain to engender such levels of volatility if not prohibited
+ or constrained.
+In adopting rules under paragraph (2), the Commission shall, consistent
+with the purposes of this subsection, minimize the impact on the normal
+operations of the market and a natural person's freedom to buy or sell any
+equity security.'.
+ (b) CONFORMING AMENDMENT- Section 25(b)(1) of the Securities Exchange Act
+ of 1934 (15 U.S.C. 78y(b)(1)) is amended by inserting `9(h)(2),' after
+ `section 6,'.
+SEC. 7. NOTIFICATION OF SEC CONCERNING RISKS TO SECURITIES SUBSIDIARY.
+ The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by
+ adding at the end the following new section:
+`SEC. 35. COORDINATION OF RISK ANALYSIS BETWEEN SEC AND FEDERAL BANKING
+AGENCIES.
+ `Any appropriate Federal banking agency shall notify the Securities and
+ Exchange Commission of any concerns of the agency regarding significant
+ financial or operational risks to any registered broker or dealer, or any
+ registered municipal securities dealer, government securities broker, or
+ government securities dealer for which the Commission is the appropriate
+ regulatory agency (as defined in section 3 of the Securities Exchange Act of
+ 1934), resulting from the activities of any insured depository institution,
+ any depository institution holding company, or any affiliate of any such
+ institution or company if such broker, dealer, municipal securities dealer,
+ government securities broker, or government securities dealer is an affiliate
+ of any such institution, company, or affiliate.'.
+SEC. 8. REPORTS TO CONGRESS.
+ (a) INTERMARKET COORDINATION- The Secretary of the Treasury, the Chairman
+ of the Board of Governors of the Federal Reserve System, the Chairman of
+ the Securities and Exchange Commission, and the Chairman of the Commodity
+ Futures Trading Commission, shall report to the Congress not later than
+ May 31, 1991, and annually thereafter until May 31, 1995, on the following:
+ (1) the efforts their respective agencies have made relating to the
+ coordination of regulatory activities to ensure the integrity and
+ competitiveness of United States financial markets;
+ (2) the efforts their respective agencies have made to formulate coordinated
+ mechanisms across marketplaces to protect the payments and market systems
+ during market emergencies;
+ (3) the views of their respective agencies with respect to the adequacy of
+ margin levels and use of leverage by market participants; and
+ (4) such other issues and concerns relating to the soundness, stability, and
+ integrity of domestic and international capital markets as may be appropriate.
+The agencies shall cooperate in the development of their reports, and prior
+to submitting its report to Congress, each agency shall provide copies to
+the other agencies.
+ (b) CLEARANCE AND SETTLEMENT- The Securities and Exchange Commission,
+ in consultation with the Commodity Futures Trading Commission, the Board
+ of Governors of the Federal Reserve System, and other relevant regulatory
+ authorities, shall examine progress toward establishing linked or coordinated
+ facilities for clearance and settlement of transactions in securities,
+ securities options, contracts of sale for future delivery and options
+ thereon, and commodity options, and shall submit to the Committees on
+ Energy and Commerce and Agriculture of the House of Representatives and
+ the Committees on Banking, Housing, and Urban Affairs and Agriculture,
+ Nutrition, and Forestry of the Senate, not later than 2 years from the date
+ of enactment of this section, a report detailing and evaluating such progress.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

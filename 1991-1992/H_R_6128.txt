@@ -1,0 +1,63 @@
+ 
+--H.R.6128--
+H.R.6128
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the United States Warehouse Act to provide for the use of electronic
+cotton warehouse receipts, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. USE OF ELECTRONIC COTTON WAREHOUSE RECEIPTS.
+  Section 17(c) of the United States Warehouse Act (7 U.S.C. 259(c))
+  is amended--
+  (1) in paragraph (1)(A)--
+  (A) by striking `The Secretary' and inserting `Notwithstanding any other
+  provision of Federal or State law, the Secretary';
+  (B) by inserting after `licensed under this Act' the following: `or in
+  any other warehouse'; and
+  (C) by striking `under section 18' and inserting `(i) under section 18 in
+  the case of a warehouse licensed under this Act or (ii) under any applicable
+  State law in the case of a warehouse not licensed under this Act';
+  (2) in paragraph (2)--
+  (A) by striking `provision of law--' and inserting `provision of Federal
+  or State law:';
+  (B) in subparagraph (A)--
+  (i) by striking `the record' and inserting `The record';
+  (ii) by striking `ownership' both places it appears and inserting
+  `possessory';
+  (iii) by striking `of this Act' and inserting `of this Act or State law'; and
+  (iv) by striking `; and' and inserting a period; and
+  (C) by striking subparagraph (B) and inserting the following new
+  subparagraph:
+  `(B) Any person designated as a holder of an electronic warehouse receipt
+  authorized under this subsection and subsection (d) shall, for the purpose
+  of perfecting the security interest of the person under Federal or State law
+  with respect to the cotton covered by the warehouse receipt, be considered
+  to be in possession of the warehouse receipt. If more than one security
+  interest exist in the cotton reflected on the electronic warehouse receipt,
+  the priority of the security interests shall be determined by the applicable
+  Federal or State law. This subsection is applicable to electronic cotton
+  warehouse receipts and any other security interests covering cotton stored
+  in a cotton warehouse, regardless of whether the warehouse is licensed
+  under this Act.'; and
+  (3) in paragraph (3)--
+  (A) by striking `licensed under this Act' and inserting `covered under
+  this subsection'; and
+  (B) by striking `owner' and inserting `holder'.
+SEC. 2. EXPEDITED ACTION ON MARKETING ORDERS.
+  Section 8c(1) of the Agricultural Adjustment Act (7 U.S.C. 608c(1)),
+  reenacted with amendments by the Agricultural Marketing Agreement Act
+  of 1937, is amended by adding at the end the following new sentences:
+  `In carrying out this section, the Secretary shall complete all informal
+  rulemaking actions necessary to respond to recommendations submitted by
+  administrative committees for such orders as expeditiously as possible,
+  but not more than 45 days (to the extent practicable) after submission of
+  the committee recommendations. The Secretary shall establish time frames
+  for each office and agency within the Department of Agriculture to consider
+  the committee recommendations.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,41 @@
+ 
+--H.R.2848--
+H.R.2848
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To amend the Computer Matching and Privacy Protection Act of 1988 to delay the
+effective date of the Act for existing agency matching programs.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Computer Matching and Privacy Protection Act
+ Amendments of 1989'.
+SEC. 2. EFFECTIVE DATE DELAYED FOR EXISTING AGENCY MATCHING PROGRAMS.
+ (a) IN GENERAL- Section 10 of the Computer Matching and Privacy Protection Act
+ of 1988 (5 U.S.C. 522a note) is amended by adding at the end the following
+ new subsection:
+ `(c) EFFECTIVE DATE DELAYED FOR EXISTING PROGRAMS- In the case of any
+ matching program (as defined in section 552a(a)(8) of title 5, United States
+ Code, as added by section 5 of this Act) in operation before June 1, 1989,
+ the amendments made by this Act (other than the amendments described in
+ subsection (b)) shall take effect January 1, 1990, if--
+ `(1) such matching program is identified by an agency as being in operation
+ before June 1, 1989; and
+ `(2) such identification is--
+ `(A) submitted by the agency to the Committee on Governmental Affairs
+ of the Senate, the Committee on Government Operations of the House of
+ Representatives, and the Office of Management and Budget before August 1,
+ 1989, in a report which contains a schedule showing the dates on which
+ the agency expects to have such matching program in compliance with the
+ amendments made by this Act, and
+ `(B) published by the Office of Management and Budget in the Federal Register,
+ before September 15, 1989.'.
+ (b) CONFORMING AMENDMENT- Section 10(a) of such Act is amended by striking
+ `Except as provided in subsection (b)' and inserting `Except as provided
+ in subsections (b) and (c)'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,377 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3313 Enrolled Bill (ENR)]
+
+        H.R.3313
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend title 38, United States Code, to extend certain expiring 
+veterans' health care programs, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Veterans Health 
+Programs Extension Act of 1994''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. References to title 38, United States Code.
+
+                  TITLE I--GENERAL MEDICAL AUTHORITIES
+
+Sec. 101. Sexual trauma counseling and services.
+Sec. 102. Research relating to women veterans.
+Sec. 103. Extension of expiring authorities.
+Sec. 104. Facilities in Republic of the Philippines.
+Sec. 105. Savings provision.
+
+                  TITLE II--CONSTRUCTION AUTHORIZATION
+
+Sec. 201. Authorization of major medical facility projects and major 
+          medical facility leases.
+Sec. 202. Authorization of appropriations.
+
+SEC. 2. REFERENCES TO TITLE 38, UNITED STATES CODE.
+
+    Except as otherwise expressly provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or repeal 
+of, a section or other provision, the reference shall be considered to 
+be made to a section or other provision of title 38, United States 
+Code.
+
+                  TITLE I--GENERAL MEDICAL AUTHORITIES
+
+SEC. 101. SEXUAL TRAUMA COUNSELING AND SERVICES.
+
+    (a) Authority To Provide Treatment Services for Sexual Trauma; 
+Repeal of Limitation on Time To Seek Services.--Subsection (a) of 
+section 1720D is amended--
+        (1) by striking out paragraph (2); and
+        (2) by inserting after paragraph (1) the following new 
+    paragraph (2):
+    ``(2) During the period referred to in paragraph (1), the Secretary 
+may provide appropriate care and services to a veteran for an injury, 
+illness, or other psychological condition that the Secretary determines 
+to be the result of a physical assault, battery, or harassment referred 
+to in that paragraph.''.
+    (b) Extension of Period of Authority To Provide Sexual Trauma 
+Services.--Such subsection is further amended--
+        (1) in paragraph (1), by striking out ``December 31, 1995,'' 
+    and inserting in lieu thereof ``December 31, 1998,''; and
+        (2) in paragraph (3), by striking out ``December 31, 1994,'' 
+    and inserting in lieu thereof ``December 31, 1998,''.
+    (c) Repeal of Limitation on Period of Receipt of Services.--Such 
+section is further amended--
+        (1) by striking out subsection (b); and
+        (2) by redesignating subsections (c), (d), and (e) as 
+    subsections (b), (c), and (d), respectively.
+    (d) Coordination of Care.--Paragraph (1) of subsection (b) of such 
+section, as redesignated by subsection (c)(2), is amended to read as 
+follows:
+    ``(1) The Secretary shall give priority to the establishment and 
+operation of the program to provide counseling and care and services 
+under subsection (a). In the case of a veteran eligible for counseling 
+and care and services under subsection (a), the Secretary shall ensure 
+that the veteran is furnished counseling and care and services under 
+this section in a way that is coordinated with the furnishing of such 
+care and services under this chapter.''.
+    (e) Increased Priority of Care.--Section 1712(i) is amended--
+        (1) in paragraph (1)--
+            (A) by inserting ``(A)'' after ``To a veteran''; and
+            (B) by inserting ``, or (B) who is eligible for counseling 
+        and care and services under section 1720D of this title, for 
+        the purposes of such counseling and care and services'' before 
+        the period at the end; and
+        (2) in paragraph (2)--
+            (A) by striking out ``, (B)'' and inserting in lieu thereof 
+        ``or (B)''; and
+            (B) by striking out ``, or (C)'' and all that follows 
+        through ``such counseling''.
+    (f) Program Revision.--(1) Section 1720D is further amended--
+        (A) by striking out ``woman'' in subsection (a)(1);
+        (B) by striking out ``women'' in subsection (b)(2)(C) and in 
+    the first sentence of subsection (c), as redesignated by subsection 
+    (c); and
+        (C) by striking out ``women'' in subsection (c)(2), as so 
+    redesignated, and inserting in lieu thereof ``individuals''.
+    (2)(A) The heading of such section is amended to read as follows:
+
+``Sec. 1720D. Counseling and treatment for sexual trauma''.
+
+    (B) The item relating to such section in the table of sections at 
+the beginning of chapter 17 is amended to read as follows:
+``1720D. Counseling and treatment for sexual trauma.''.
+
+    (g) Information by Telephone.--(1) Paragraph (1) of section 
+1720D(c), as redesignated by subsection (c) of this section, is amended 
+to read as follows:
+        ``(1) shall include availability of a toll-free telephone 
+    number (commonly referred to as an 800 number); and''.
+    (2) In providing information on counseling available to veterans as 
+required under section 1720D(c)(1) of title 38, United States Code (as 
+amended by paragraph (1)), the Secretary of Veterans Affairs shall 
+ensure that the Department of Veterans Affairs personnel who provide 
+assistance under such section are trained in the provision to persons 
+who have experienced sexual trauma of information about the care and 
+services relating to sexual trauma that are available to veterans in 
+the communities in which such veterans reside, including care and 
+services available under programs of the Department (including the care 
+and services available under section 1720D of such title) and from non-
+Department agencies or organizations.
+    (3) The telephone assistance service shall be operated in a manner 
+that protects the confidentiality of persons who place calls to the 
+system.
+    (4) The Secretary shall ensure that information about the 
+availability of the telephone assistance service is visibly posted in 
+Department medical facilities and is advertised through public service 
+announcements, pamphlets, and other means.
+    (5) Not later than 18 months after the date of the enactment of 
+this Act, the Secretary shall submit to Congress a report on the 
+operation of the telephone assistance service required under section 
+1720D(c)(1) of title 38, United States Code (as amended by paragraph 
+(1)). The report shall set forth the following:
+        (A) The number of persons who sought information during the 
+    period covered by the report through a toll-free telephone number 
+    regarding services available to veterans relating to sexual trauma, 
+    with a separate display of the number of such persons arrayed by 
+    State (as such term is defined in section 101(20) of title 38, 
+    United States Code).
+        (B) A description of the training provided to the personnel who 
+    provide such assistance.
+        (C) The recommendations and plans of the Secretary for the 
+    improvement of the service.
+    (h) Conforming Repeal.--Section 102(b) of the Veterans Health Care 
+Act of 1992 (Public Law 102-585; 106 Stat. 4946; 38 U.S.C. 1720D note) 
+is repealed.
+
+SEC. 102. RESEARCH RELATING TO WOMEN VETERANS.
+
+    (a) Inclusion of Women and Minorities in Clinical Research 
+Projects.--Section 7303 is amended--
+        (1) by transferring the text of subsection (c) to the end of 
+    subsection (a)(1); and
+        (2) by striking out ``(c)'' and inserting in lieu thereof the 
+    following:
+    ``(c)(1) In conducting or supporting clinical research, the 
+Secretary shall ensure that, whenever possible and appropriate--
+        ``(A) women who are veterans are included as subjects in each 
+    project of such research; and
+        ``(B) members of minority groups who are veterans are included 
+    as subjects of such research.
+    ``(2) In the case of a project of clinical research in which women 
+or members of minority groups will under paragraph (1) be included as 
+subjects of the research, the Secretary shall ensure that the project 
+is designed and carried out so as to provide for a valid analysis of 
+whether the variables being tested in the research affect women or 
+members of minority groups, as the case may be, differently than other 
+persons who are subjects of the research.''.
+    (b) Health Research.--(1) Such section is further amended by adding 
+after subsection (c), as added by subsection (a), the following new 
+subsection:
+    ``(d)(1) The Secretary, in carrying out the Secretary's 
+responsibilities under this section, shall foster and encourage the 
+initiation and expansion of research relating to the health of veterans 
+who are women.
+    ``(2) In carrying out this subsection, the Secretary shall consult 
+with the following to assist the Secretary in setting research 
+priorities:
+        ``(A) Officials of the Department assigned responsibility for 
+    women's health programs and sexual trauma services.
+        ``(B) The members of the Advisory Committee on Women Veterans.
+        ``(C) Members of appropriate task forces and working groups 
+    within the Department (including the Women Veterans Working Group 
+    and the Task Force on Treatment of Women Who Suffer Sexual 
+    Abuse).''.
+    (2) Section 109 of the Veterans Health Care Act of 1992 (Public Law 
+102-585; 38 U.S.C. 7303 note) is repealed.
+    (c) Population Study.--Section 110(a) of the Veterans Health Care 
+Act of 1992 (Public Law 102-585; 106 Stat. 4948) is amended by adding 
+at the end of paragraph (3) the following: ``If it is feasible to do so 
+within the amounts available for the conduct of the study, the 
+Secretary shall ensure that the sample referred to in paragraph (1) 
+constitutes a representative sampling (as determined by the Secretary) 
+of the ages, the ethnic, social and economic backgrounds, the enlisted 
+and officer grades, and the branches of service of all veterans who are 
+women.''.
+
+SEC. 103. EXTENSION OF EXPIRING AUTHORITIES.
+
+    (a) Authority To Provide Priority Health Care for Veterans Exposed 
+to Toxic Substances.--Chapter 17 is amended--
+        (1) in section 1710(e)(3)--
+            (A) by striking out ``June 30, 1994'' and inserting in lieu 
+        thereof ``June 30, 1995''; and
+            (B) by striking out ``December 31, 1994'' and inserting in 
+        lieu thereof ``December 31, 1995''; and
+        (2) in section 1712(a)(1)(D), by striking out ``December 31, 
+    1994'' and inserting in lieu thereof ``December 31, 1995''.
+    (b) Drug and Alcohol Abuse and Dependence.--Section 1720A(e) is 
+amended by striking out ``December 31, 1994'' and inserting in lieu 
+thereof ``December 31, 1995''.
+    (c) Pilot Program for Noninstitutional Alternatives to Nursing Home 
+Care.--(1) Effective as of October 1, 1994, subsection (a) of section 
+1720C is amended by striking out ``During the four-year period 
+beginning on October 1, 1990,'' and inserting in lieu thereof ``During 
+the period through September 30, 1995,''.
+    (2) Such subsection is further amended by striking out ``care and 
+who--'' and inserting in lieu thereof ``care. The Secretary shall give 
+priority for participation in such program to veterans Pwho--''.
+    (d) Enhanced-Use Leases of Real Property.--Section 8169 is amended 
+by striking out ``December 31, 1994'' and inserting in lieu thereof 
+``December 31, 1995''.
+    (e) Authority for Community-based Residential Care for Homeless 
+Chronically Mentally Ill Veterans and Other Veterans.--Section 115(d) 
+of the Veterans' Benefits and Services Act of 1988 (38 U.S.C. 1712 
+note) is amended by striking out ``September 30, 1994'' and inserting 
+in lieu thereof ``September 30, 1995''.
+    (f) Demonstration Program of Compensated Work Therapy.--Section 
+7(a) of Public Law 102-54 (105 Stat. 269; 38 U.S.C. 1718 note) is 
+amended by striking out ``1994'' and inserting in lieu thereof 
+``1995''.
+    (g) Report Deadlines.--Section 201(b) of the Department of Veterans 
+Affairs Nurse Pay Act of 1990 (Public Law 101-366; 38 U.S.C. 1720C 
+note) is amended by striking out ``February 1, 1994,'' and inserting in 
+lieu thereof ``February 1, 1995,''.
+
+SEC. 104. FACILITIES IN REPUBLIC OF THE PHILIPPINES.
+
+    Notwithstanding section 1724 of title 38, United States Code, the 
+Secretary of Veterans Affairs may contract with facilities in the 
+Republic of the Philippines other than the Veterans Memorial Medical 
+Center to furnish, during the period from February 28, 1994, through 
+June 1, 1994, hospital care and medical services to veterans for 
+nonservice-connected disabilities if such veterans are unable to defray 
+the expenses of necessary hospital care. When the Secretary determines 
+it to be most feasible, the Secretary may provide medical services 
+under the preceding sentence to such veterans at the Department of 
+Veterans Affairs Outpatient Clinic at Manila, Republic of the 
+Philippines.
+    SEC. 105. RATIFICATION OF ACTIONS DURING PERIOD OF LAPSED 
+      AUTHORITY.
+    Any action of the Secretary of Veterans Affairs under section 
+1710(e) of title 38, United States Code, during the period beginning on 
+July 1, 1994, and ending on the date of the enactment of this Act is 
+hereby ratified.
+
+                  TITLE II--CONSTRUCTION AUTHORIZATION
+
+    SEC. 201. AUTHORIZATION OF MAJOR MEDICAL FACILITY PROJECTS AND 
+      MAJOR MEDICAL FACILITY LEASES.
+    (a) Projects Authorized.--The Secretary of Veterans Affairs may 
+carry out the major medical facility projects for the Department of 
+Veterans Affairs, and may carry out the major medical facility leases 
+for that Department, for which funds are requested in the budget of the 
+President for fiscal year 1995. The authorization in the preceding 
+sentence applies to projects and leases which have not been authorized, 
+or for which funds have not been appropriated, in any fiscal year 
+before fiscal year 1995 and to projects and leases which have been 
+authorized, or for which funds were appropriated, in fiscal years 
+before fiscal year 1995.
+    (b) Additional Projects.--(1) In addition to the projects 
+authorized in subsection (a), the Secretary may carry out the following 
+major medical facility projects in the amounts specified for such 
+projects:
+        (A) The projects that are proposed in the documents submitted 
+    to Congress by the Secretary of Veterans Affairs in conjunction 
+    with the budget of the President for fiscal year 1995 to be 
+    financed with funds from the proposed Health Care Investment Fund.
+        (B) Construction of a nursing home facility at the Department 
+    of Veterans Affairs Medical Center in Charleston, South Carolina, 
+    in the amount of $7,300,000.
+        (C) Construction of an outpatient care addition at the 
+    Department of Veterans Affairs medical center in Phoenix, Arizona, 
+    in the amount of $50,000,000.
+        (D) A lease/purchase of a nursing home facility near Fort 
+    Myers, Florida, in the amount of $12,800,000.
+    (2) The authorizations in paragraph (1) apply to projects which 
+have not been authorized, or for which funds have not been 
+appropriated, in any fiscal year before fiscal year 1995 and to 
+projects which have been authorized, or for which funds were 
+appropriated, in fiscal years before fiscal year 1995.
+    (c) Projects for Which Funds Appropriated.--In addition to the 
+projects authorized in subsections (a) and (b), the Secretary may carry 
+out the following major medical facility projects for which funds were 
+appropriated in chapter 7 of the Emergency Supplemental Appropriations 
+Act of 1994 (title I of Public Law 103-211; 108 Stat. 10) in the 
+amounts specified:
+        (1) Construction of an ambulatory care/support services 
+    facility at the Department of Veterans Affairs Medical Center in 
+    Sepulveda, California, $53,700,000.
+        (2) Other major medical facility projects required to repair, 
+    restore, or replace earthquake-damaged facilities at the Department 
+    of Veterans Affairs Medical Center in Sepulveda, California, 
+    $50,000,000.
+
+SEC. 202. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General.--There are authorized to be appropriated to the 
+Secretary of Veterans Affairs for fiscal year 1995--
+        (1) $379,370,000 for the major medical facility projects 
+    authorized in subsections (a), (b), and (c) of section 201; and
+        (2) $15,800,000 for the major medical facility leases 
+    authorized in section 201(a).
+    (b) Limitation.--The projects authorized in subsections (a) and (b) 
+of section 201 may only be carried out using--
+        (1) funds appropriated for fiscal year 1995 pursuant to the 
+    authorization of appropriations in subsection (a);
+        (2) funds appropriated for Construction, Major Projects for a 
+    fiscal year before fiscal year 1995 that remain available for 
+    obligation; and
+        (3) funds appropriated for Construction, Major Projects for 
+    fiscal year 1995 for a category of activity not specific to a 
+    project.
+    (c) Limitation on Certain Projects.--The projects authorized in 
+subsection (c) of section 201 may only be carried out using--
+        (1) funds appropriated to the Construction, Major Projects 
+    account under chapter 7 of the Emergency Supplemental 
+    Appropriations Act of 1994 (title I of Public Law 103-211; 108 
+    Stat. 10) and funds transferred by the President to the 
+    Construction, Major Projects account pursuant to chapter 8 of that 
+    Act (108 Stat. 14);
+        (2) funds appropriated to the Medical Care account by chapter 7 
+    of the Emergency Supplemental Appropriations Act of 1994 that are 
+    transferred to the Construction, Major Projects account;
+        (3) funds appropriated to the Construction, Major Projects 
+    account for a fiscal year before fiscal year 1995 that remain 
+    available for obligation; and
+        (4) funds appropriated to the Construction, Major Projects 
+    account for fiscal year 1995 for a category of activity not 
+    specific to a project.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

@@ -1,0 +1,1488 @@
+ 
+--H.R.996--
+H.R.996
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To promote excellence in American mathematics, science and engineering
+education; enhance the scientific and technical literacy of the American
+public; stimulate the professional development of scientists and engineers;
+increase the participation of women and minorities in careers in mathematics,
+science, and engineering; and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Excellence in Mathematics, Science and
+ Engineering Education Act of 1990'.
+SEC. 2. TABLE OF CONTENTS.
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+TITLE I--FINDINGS AND OBJECTIVES
+Sec. 101. Findings and objectives.
+TITLE II--MATHEMATICS, SCIENCE AND TECHNOLOGY IMPROVEMENTS
+Part A--Dwight D. Eisenhower Mathematics and Science Education Amendments
+Sec. 201. In-State apportionment.
+Sec. 202. Elementary and secondary education programs.
+Sec. 203. Higher education programs.
+Sec. 204. National programs.
+Sec. 205. Regional science and mathematics education consortiums.
+Sec. 206. Federal administration.
+Part B--Innovative Technologies
+Sec. 221. Expanding the uses of innovative technologies for mathematics and
+science instruction.
+Part C--Science-Technology Centers
+Sec. 231. Science-technology centers.
+Part D--Grants to Educational Agencies for Systemic Reform of Mathematics
+and Science Education
+Sec. 241. Systemic reform of mathematics and science.
+Part E--Technical Amendment
+Sec. 251. Technical amendment.
+Sec. 252. National Center for Education Statistics.
+Sec. 253. Amendment of James Madison Memorial Fellowship Act.
+TITLE III--HIGHER EDUCATION
+Part A--Graduate Fellowships and Traineeships
+Sec. 301. Statement of purpose.
+Sec. 302. Graduate fellowships.
+Sec. 303. Graduate traineeships.
+Part B--Centers of Excellence
+Sec. 311. Centers of Excellence of Undergraduate Teaching.
+TITLE IV--WOMEN AND MINORITIES IN MATHEMATICS, SCIENCE AND ENGINEERING
+Sec. 401. Statement of purpose.
+Sec. 402. Distinguished visiting professors.
+Sec. 403. Faculty awards for women and minorities.
+Sec. 404. Alliances for minority participation.
+TITLE V--EDUCATION COORDINATION AND DEPARTMENT OF ENERGY PROGRAMS
+Sec. 501. Science education report.
+Sec. 502. General education report.
+Sec. 503. Department of Energy programs.
+TITLE VI--SCIENCE SCHOLARSHIPS
+Part A--National Science Scholars Program
+Sec. 601. Purpose; appropriations authorized.
+Sec. 602. Scholarships authorized.
+Sec. 603. Selection of scholars.
+Sec. 604. Eligibility of scholars.
+Sec. 605. Scholarship amount.
+Sec. 606. Summer employment opportunities for scholars.
+Part B--Robert Noyce Scholarships
+Sec. 611. Robert Noyce scholarships.
+Part C--National Academy of Science, Space, and Technology
+Sec. 621. National Academy of Science, Space, and Technology.
+Part D--Additional Provisions
+Sec. 631. Effect of certain controlled substance and felony convictions.
+Sec. 632. Report.
+TITLE VII--GENERAL PROVISIONS AND AUTHORIZATION OF APPROPRIATIONS
+Part A--Authorization of Appropriations
+Sec. 701. Authorization of appropriations.
+Part B--Definitions
+Sec. 711. Definitions.
+Part C--Miscellaneous Provisions
+Sec. 721. Student assistance general provisions.
+Sec. 722. Public Law 81-874.
+Sec. 723. Technical amendment.
+Part D--Effective Date
+Sec. 731. Effective date.
+TITLE I--FINDINGS AND OBJECTIVES
+SEC. 101. FINDINGS AND OBJECTIVES.
+ (a) FINDINGS- The Congress finds that--
+ (1) science and mathematics are cornerstones of America's efforts to compete
+ in the global marketplace and improve our standard of living and quality
+ of life;
+ (2) international comparisons show American students are consistently behind
+ their foreign counterparts in mathematics and science achievement;
+ (3) projections by the National Science Foundation estimate a shortage of
+ 675,000 scientists and engineers by the year 2000;
+ (4) women and minorities are significantly underrepresented in the fields
+ of mathematics, science and engineering;
+ (5) the achievement of universal scientific and mathematical literacy by
+ all Americans is an essential goal of all efforts to strengthen American
+ competitiveness;
+ (6) the achievement of scientific and mathematical literacy requires a strong,
+ coordinated effort to strengthen the teaching of science and mathematics; and
+ (7) the Federal Government has a significant role in promoting the study
+ of mathematics and science, by providing financial assistance to improve
+ the general quality of programs for the study of mathematics and science,
+ by acting as a source for information concerning successful projects and
+ activities, by encouraging talented men and women to pursue scientific careers
+ and by strengthening the mathematics and science educational opportunities
+ available to women and minorities.
+ (b) NATIONAL OBJECTIVES- The Congress declares that it shall be a national
+ objective to--
+ (1) encourage American students to pursue careers in mathematics, science
+ and engineering;
+ (2) improve the quality of teaching in mathematics and science made available
+ to all Americans;
+ (3) have American students rank first in the world in mathematics and science;
+ (4) substantially increase the number of graduates with degrees in
+ mathematics, science and engineering; and
+ (5) substantially increase the number of women and minorities pursuing
+ careers in mathematics, science and engineering.
+TITLE II--MATHEMATICS, SCIENCE AND TECHNOLOGY IMPROVEMENTS
+PART A--DWIGHT D. EISENHOWER MATHEMATICS AND SCIENCE EDUCATION AMENDMENTS
+SEC. 201. IN-STATE APPORTIONMENT.
+ Section 2005 of the Dwight D. Eisenhower Mathematics and Science Education
+ Act (20 U.S.C. 2985) is amended by adding at the end the following:
+ `(c) LIMITATION-
+ `(1) GENERAL RULE- Except as provided in paragraph (2), any local educational
+ agency that receives an allocation of less than $6,000 under subsection
+ (a) shall, for the purpose of providing services under this part, form a
+ consortium with at least 1 other local educational agency or institution
+ of higher education receiving assistance under this section.
+ `(2) WAIVER- The State educational agency shall waive the application of
+ paragraph (1) in the case of any local educational agency that demonstrates
+ that the amount of its allocation is sufficient to provide a program of
+ sufficient size, scope, and quality to be effective. In granting waivers
+ under the preceding sentence, the State educational agency shall--
+ `(A) give special consideration to local educational agencies serving rural
+ areas; and
+ `(B) consider cash or in-kind contributions provided from State or local
+ sources that may be combined with the local educational agency's allocation
+ for the purpose of providing services under this part.'.
+SEC. 202. ELEMENTARY AND SECONDARY EDUCATION PROGRAMS.
+ (a) Section 2006 of the Dwight D. Eisenhower Mathematics and Science
+ Education Act (20 U.S.C. 2986) is amended--
+ (1) by redesignating subsection (d) as subsection (e);
+ (2) by inserting after subsection (c) the following new subsection:
+ `(d) PRIORITY FOR TEACHER TRAINING-
+ `(1) GENERAL RULE- Except as provided in paragraph (2), in any fiscal year
+ beginning after September 30, 1990 for which a local educational agency
+ receives under this section an amount that is larger than the amount such
+ agency received under this section for the fiscal year 1990, the excess
+ of such amount over the amount received under this section for the fiscal
+ year 1990 shall first be used to provide training for mathematics teachers
+ and science teachers in elementary and middle schools.
+ `(2) WAIVER- The Secretary may waive the application of paragraph (1) in
+ the case of any local educational agency that demonstrates to the Secretary
+ that mathematics teachers and science teachers in the elementary and middle
+ schools under the jurisdiction of such local educational agency will receive
+ adequate training without using such excess amounts for such training.'; and
+ (3) in subsection (e) (as redesignated by paragraph (1) of this subsection),
+ by inserting after `this section' the following: `, or $20,000, whichever
+ is greater,'.
+ (b) Section 2005 of the Dwight D. Eisenhower Mathematics and Science
+ Education Act (20 U.S.C. 2985) is amended by inserting after `90 percent',
+ `or the remainder after application of section 2006(e).'.
+SEC. 203. HIGHER EDUCATION PROGRAMS.
+ (a) Subsection (d) of section 2007 of the Dwight D. Eisenhower Mathematics
+ and Science Education Act (20 U.S.C. 2987) is amended by inserting after
+ `this section' the following: `, or $20,000, whichever is greater,'.
+ (b) Section 2007(b) of the Dwight D. Eisenhower Mathematics and Science
+ Education Act (20 U.S.C. 2987) is amended by inserting after `95 percent,'
+ `or the remainder after application of subsection (d).'.
+SEC. 204. NATIONAL PROGRAMS.
+ Section 2012 of the Dwight D. Eisenhower Mathematics and Science Education
+ Act (20 U.S.C. 2992) is amended--
+ (1) by redesignating subsection (d) as subsection (f); and
+ (2) by inserting after subsection (c) the following new subsections:
+ `(d) NATIONAL CLEARINGHOUSE FOR SCIENCE, MATHEMATICS, AND TECHNOLOGY
+ EDUCATION MATERIALS-
+ `(1) CLEARINGHOUSE AUTHORIZED- The Secretary, in consultation with the
+ Director, may award a grant or contract to establish a National Clearinghouse
+ for Mathematics and Science Education (hereinafter in this subsection
+ referred to as the `Clearinghouse').
+ `(2) APPLICATION AND AWARD BASIS- Each entity desiring to establish and
+ operate the Clearinghouse authorized by this subsection shall submit an
+ application to the Secretary at such time, in such manner and accompanied
+ by such information as the Secretary may reasonably require. The grant or
+ contract awarded pursuant to paragraph (1) shall be made on a competitive,
+ merit basis.
+ `(3) DURATION- The grant or contract awarded under this section shall be
+ awarded for a period of 5 years and shall be reviewed by the Secretary no
+ later than 30 months from the date the grant or contract is awarded.
+ `(4) USE OF FUNDS- The grant awarded under this subsection shall be used to--
+ `(A) maintain a permanent repository of mathematics and science education
+ instructional materials and programs for elementary and secondary schools,
+ including middle schools, (including, to the extent practicable, all
+ materials and programs developed with Federal and non-Federal funds,
+ such as instructional materials developed by the Department of Education,
+ materials developed by State and national mathematics and science programs
+ assisted under this part, and other instructional materials) for use by
+ the regional consortiums established under subpart 2 of this part and by
+ the general public;
+ `(B) compile information on all mathematics and science education programs
+ administered by each Federal agency or department;
+ `(C) disseminate information, programs, and instructional materials to the
+ public, dissemination networks, and the regional consortiums under subpart
+ 2 of this part; and
+ `(D) coordinate with identifiable and existing data bases containing
+ mathematics and science curriculum and instructional materials, including
+ Federal and non-Federal data bases.
+ `(5) SUBMISSION TO CLEARINGHOUSE- Each Federal agency or department which
+ develops mathematics or science education instructional material or programs,
+ including the National Science Foundation, and the Department of Education,
+ shall submit to the Clearinghouse copies of such material or programs.
+ `(6) PEER REVIEW- The Secretary shall establish a peer review process to
+ select the recipient of the award under this subsection.
+ `(7) STEERING COMMITTEE- The Secretary may appoint a steering committee to
+ recommend policies and activities for the Clearinghouse.
+ `(8) APPLICATION OF COPYRIGHT LAWS- Nothing in this subsection shall be
+ construed to allow the use or copying, in any media, of any material collected
+ by the Clearinghouse that is protected under the copyright laws of the United
+ States unless the permission of the owner of the copyright is obtained. The
+ Clearinghouse, in carrying out the provisions of this subsection, shall
+ ensure compliance with the provisions of title 17 of the United States Code.
+ `(e) MODEL PROGRAMS FOR INSTRUCTION AND TRAINING IN THE USE OF COMPUTERS-
+ `(1) GRANTS AUTHORIZED- The Secretary may make grants to model programs for
+ training and instruction in the use of computers as part of the mathematics
+ and science curriculum of elementary and secondary schools to pay the
+ Federal share of the cost of improving and expanding such programs.
+ `(2) FEDERAL SHARE- (A) Except as provided in subparagraph (C), the Federal
+ share of the cost of improving and expanding a model program under this
+ subsection shall not exceed 50 percent of such cost.
+ `(B) Not less than 25 percent of the non-Federal share of the cost of
+ improving and expanding a model program under this subsection shall be
+ in cash.
+ `(C) The Secretary may waive the application of this paragraph in the case
+ of any model program operated by a school that demonstrates an inability
+ to obtain funds from non-Federal sources for the program.
+ `(3) PRIORITY- In awarding grants under this subsection, the Secretary
+ shall give priority to applicants that demonstrate the ability to--
+ `(A) develop a program that can be applied nationally;
+ `(B) include a shared commitment from a combination of local parties,
+ such as teachers, the business community, and local educational agencies;
+ `(C) provide teacher training programs in elementary and secondary schools,
+ including middle schools, that are designed to improve the quality of
+ mathematics and science instruction through the use of computers as an
+ instructional tool;
+ `(D) integrate higher order analytical and problem-solving skills into
+ mathematics and science curricula; and
+ `(E) provide interactive and manipulative application as part of the
+ instructional delivery system.'.
+SEC. 205. REGIONAL MATHEMATICS AND SCIENCE EDUCATION CONSORTIUMS.
+ (a) AMENDMENT TO TEXT- Part A of the Dwight D. Eisenhower Mathematics and
+ Science Education Act (20 U.S.C. 2981 et seq.) is amended--
+ (1) by inserting before section 2003 the following:
+`Subpart 1--State Grants and National Programs';
+and
+ (2) by inserting after section 2012 the following:
+`Subpart 2--Regional Mathematics and Science Education Consortiums
+`SEC. 2016. PROGRAM ESTABLISHED.
+ `(a) IN GENERAL-
+ `(1) GRANTS AUTHORIZED- The Secretary, in consultation with the Director,
+ is authorized to award grants or contracts to eligible entities to establish
+ and operate regional mathematics and science education consortia for the
+ purpose of--
+ `(A) disseminating exemplary mathematics and science education instructional
+ materials; and
+ `(B) providing technical assistance for the implementation of teaching
+ methods and assessment tools for use by elementary and secondary school
+ students, teachers and administrators.
+ `(2) NUMBER- The Secretary shall, in accordance with the provisions of
+ this section, award at least 1 grant or contract to an eligible entity in
+ each region.
+ `(3) SPECIAL RULE- In any fiscal year, if the amount appropriated pursuant
+ to the authority of section 2023 is less than $4,500,000, then the Secretary
+ may waive the provisions of paragraph (2) and award grants or contracts
+ of sufficient size, scope and quality to carry out the provisions of this
+ section.
+ `(b) GRANT TERM AND REVIEW- Grants under this subpart shall be awarded for
+ a period of not more than 5 years and shall be reviewed before the end of
+ the 30-month period beginning on the date the grant is awarded. Grants shall
+ be awarded before the end of the 12-month period beginning on the date of
+ the enactment of an Act making appropriations to carry out the provisions
+ of this subpart.
+ `(c) AMOUNT- In making grants under this subpart, the Secretary shall assure
+ that there is a relatively equal distribution of the funds made available
+ among the regions, but the Secretary may award additional funds to a regional
+ consortium on the basis of population and geographical conditions of the
+ region being served.
+`SEC. 2017. USE OF FUNDS.
+ `Funds provided under this subpart may be used by a regional consortium, under
+ the direction of a regional board established pursuant to section 2019, to--
+ `(1) identify, adapt, disseminate, and implement mathematics and science
+ education instruction materials, teaching methods, and assessment tools
+ for use by elementary and secondary school students;
+ `(2) assist, train and provide technical assistance to classroom teachers,
+ administrators, and other educators to identify, implement or adapt the
+ instructional materials, teaching methods and assessment tools described
+ in paragraph (1);
+ `(3) provide for the training of classroom teachers to enable such teachers
+ to instruct other teachers, administrators, and educators in the use of the
+ instructional materials, teaching methods and assessment tools described
+ in paragraph (1) in the classroom;
+ `(4) work with classroom teachers in the identification and adaptation of
+ such instructional materials, teaching methods, and assessment tools for
+ use in classrooms within the region;
+ `(5) assist classroom teachers, where appropriate, in securing training to
+ enhance such teachers' subject knowledge and teaching skills in the areas
+ of science and mathematics education;
+ `(6) when necessary, provide financial assistance to enable teachers and
+ other educators to attend and participate in the activities of the regional
+ consortium;
+ `(7) implement programs and activities designed to meet the needs of groups
+ that are underrepresented in, and underserved by, mathematics and science
+ education;
+ `(8) help State and local educational agencies or consortia thereof assess the
+ need for and the desirability of regional mathematics and science academies;
+ `(9) develop and disseminate early childhood education mathematics and
+ science instructional materials;
+ `(10) develop intergenerational projects to train senior citizen volunteers
+ in the implementation of interactive science processes and activities for
+ use by elementary and secondary school students;
+ `(11) disseminate information regarding informal mathematics and science
+ education activities and programs offered by Federal agencies and private
+ or public agencies and institutions within the region;
+ `(12) provide technical assistance in order to maximize the effectiveness
+ of such instructional materials and programs and fulfill the instructional
+ goals of the recipients of such materials and programs;
+ `(13) collect data on activities assisted under this subpart in order to
+ evaluate the effectiveness of the activities of the regional consortiums;
+ `(14) if feasible, maintain on-line computer networks with all regional
+ consortiums and the National Clearinghouse for Science and Mathematics
+ Education Materials established under section 2012(e);
+ `(15) assist local and State educators in identifying science equipment
+ needs; and
+ `(16) coordinate activities carried out by the regional consortium with
+ activities carried out by the appropriate regional education laboratory
+ supported under section 405(d)(4)(A)(i) of the General Education Provisions
+ Act.
+`SEC. 2018. APPLICATION AND REVIEW.
+ `(a) IN GENERAL- Each eligible entity desiring to receive a grant under
+ this subpart shall submit an application to the Secretary at such time,
+ in such manner, and accompanied by such additional information as the
+ Secretary may reasonably require. Each such application shall--
+ `(1) demonstrate that the eligible entity has demonstrated expertise in
+ the fields of mathematics and science education;
+ `(2) demonstrate that the eligible entity shall implement and disseminate
+ mathematics and science education instructional materials, teaching methods,
+ and assessment tools through a consortium of the region's mathematics and
+ science education organizations and agencies;
+ `(3) demonstrate that the eligible entity shall carry out the functions of
+ the regional consortium;
+ `(4) describe the activities for which assistance is sought;
+ `(5) demonstrate that the eligible entity shall implement and disseminate
+ mathematics and science education instructional materials, teaching methods
+ and assessment tools;
+ `(6) demonstrate that emphasis will be given to programs and activities
+ designed to meet the needs of groups that are underrepresented in, and
+ underserved by, mathematics and science education;
+ `(7) describe steps to be taken to provide for the equitable participation
+ of children and teachers from private elementary and secondary schools
+ consistent with section 2010;
+ `(8) demonstrate that the business community in the region served by the
+ regional consortium will play an integral role in designing and supporting
+ the regional consortium's work;
+ `(9) demonstrate that the eligible entity will consider the resources of
+ existing Star Schools consortia established pursuant to the Star Schools
+ Program Assistance Act in carrying out the provisions of this part, where
+ appropriate; and
+ `(10) assure that the entity will conduct its activities and supervise its
+ personnel in a manner that effectively ensures compliance with the copyright
+ laws of the United States.
+ `(b) APPROVAL OF APPLICATION-
+ `(1) IN GENERAL- The Secretary shall approve or disapprove applications
+ submitted pursuant to subsection (a) in accordance with the criteria and
+ procedures established under paragraph (2).
+ `(2) PROCEDURES AND CRITERIA- The Secretary shall develop procedures and
+ criteria designed to ensure that grants are awarded on the basis of merit as
+ determined by the competitive peer review process described in paragraph (3).
+ `(3) NATIONAL PANEL- (A) The Secretary, in consultation with the Director,
+ shall establish a national panel, or to the extent necessary, panels, to
+ submit to the Secretary recommendations for awards of grants under this
+ subpart. The Secretary shall appoint the members of such panel or panels.
+ `(B) Each panel appointed as required by subparagraph (A) shall include
+ participation, to the extent feasible, from each region.
+`SEC. 2019. REGIONAL BOARDS.
+ `(a) IN GENERAL- Each eligible entity receiving a grant or contract under this
+ subpart shall establish a regional board to oversee the administration and
+ establishment of program priorities for the regional consortium established
+ by such eligible entity. Such regional board shall be broadly representative
+ of the agencies and organizations participating in the regional consortium.
+ `(b) PROHIBITION ON USE OF FEDERAL FUNDS- No Federal funds may be used for
+ the establishment or operation of a regional board required by subsection (a).
+`SEC. 2020. PAYMENTS; FEDERAL SHARE; NON-FEDERAL SHARE.
+ `(a) PAYMENTS- The Secretary shall pay to each eligible entity having an
+ application approved under section 2018 the Federal share of the cost of
+ the activities described in the application.
+ `(b) FEDERAL SHARE- For purposes of subsection (a), the Federal share--
+ `(1) for the first and second years in which an eligible entity receives
+ assistance shall be 80 percent;
+ `(2) for the third such year shall be 75 percent;
+ `(3) for the fourth such year shall be 65 percent; and
+ `(4) for the fifth and each such succeeding year shall be 50 percent.
+ `(c) NON-FEDERAL SHARE- The non-Federal share of the cost of activities
+ described in the application submitted pursuant to this section may be in
+ cash or in kind, fairly evaluated.
+`SEC. 2021. EVALUATION.
+ `(a) EVALUATION REQUIRED- The Secretary, through the Office of Educational
+ Research and Improvement, shall collect sufficient data on, and evaluate
+ the effectiveness of, the activities of each regional consortium.
+ `(b) ASSESSMENT- The evaluations described in paragraph (1) shall include
+ an assessment of the effectiveness of the regional consortium in meeting
+ the needs of the schools, teachers, administrators and students in the region.
+ `(c) REPORT- At the end of each grant or contract period, the Secretary
+ shall submit to Congress a report on the effectiveness of the programs
+ conducted at each regional consortium.
+`SEC. 2022. DEFINITIONS.
+ `For purposes of this subpart:
+ `(1) The term `eligible entity' means--
+ `(A) a private nonprofit organization of demonstrated effectiveness;
+ `(B) an institution of higher education;
+ `(C) an elementary or secondary school;
+ `(D) a State or local educational agency;
+ `(E) a regional educational laboratory in consortium with the research and
+ development center established under section 405(d)(4)(A) of the General
+ Education Provisions Act; or
+ `(F) any combination of the entities described in subparagraphs (A) through
+ (E);
+with demonstrated expertise in mathematics and science education.
+ `(2) The term `region' means a region of the United States served by a
+ regional education laboratory that is supported by the Secretary pursuant
+ to section 405(d)(4)(A)(i) of the General Education Provisions Act.
+ `(3) The term `regional consortium' means each regional mathematics and
+ science education consortium established pursuant to section 2016.
+`SEC. 2023. AUTHORIZATION OF APPROPRIATIONS.
+ `There are authorized to be appropriated to carry out the provisions of
+ this subpart $17,000,000 for the fiscal year 1991, and such sums as may be
+ necessary for each of the fiscal years 1992 and 1993.
+`PART C--GENERAL PROVISIONS'.
+ (b) TECHNICAL AMENDMENTS-
+ (1) CONFORMING AMENDMENTS- Sections 2003(a), 2004(a)(1)(A), 2004(a)(1)(B),
+ 2004(a)(5), 2004(b), 2005(a)(2)(A)(ii), 2006(a), 2006(b)(1), 2006(d)(2),
+ 2007(a), 2007(d)(2), 2008(a), 2008(b)(2)(D), 2008(b)(3), 2008(b)(4)(A),
+ 2009(a), 2009(b)(2), 2009(b)(3), 2009(c), 2010(a), 2010(b), 2011(a), and
+ 2011(b) of the Dwight D. Eisenhower Mathematics and Science Education Act
+ and the matter following section 2005(a)(2)(A)(ii) of such Act, are each
+ amended by striking `part' and inserting `subpart'.
+ (2) DEFINITIONS- The heading of section 2013 of the Dwight D. Eisenhower
+ Mathematics and Science Education Act (20 U.S.C. 2993) is amended by striking
+ `2013' and inserting `2031'.
+SEC. 206. FEDERAL ADMINISTRATION.
+ (a) REPORT ON SOURCES OF FEDERAL AID- The Secretary shall, in consultation
+ with the heads of other appropriate Federal agencies, prepare a report
+ listing all sources of Federal aid for mathematics and science education.
+ (b) DEADLINE FOR REPORT- The Secretary shall submit the report required
+ by paragraph (1) to the Committee on Education and Labor of the House of
+ Representatives and to the Committee on Labor and Human Resources of the
+ Senate not later than March 1, 1992. The Secretary shall also provide such
+ report to each State educational agency and make such report available to
+ the public.
+PART B--INNOVATIVE TECHNOLOGIES
+SEC. 221. EXPANDING THE USES OF INNOVATIVE TECHNOLOGIES FOR MATHEMATICS AND
+SCIENCE INSTRUCTION.
+ (a) COMPUTER TECHNOLOGIES-
+ (1) PROGRAM AUTHORIZED- The Director shall establish research programs on
+ the use of computers and related technologies in basic mathematics, science,
+ and technology instruction.
+ (2) ELIGIBLE APPLICANTS- In carrying out the program under this subsection,
+ the Director shall establish a merit review process to make awards on the
+ basis of--
+ (A) the potential of the proposal to improve the effectiveness and
+ productivity of basic mathematics and science education;
+ (B) the potential of the proposal to involve the classroom teacher in
+ the design of the program and to provide teacher training for optimum
+ effectiveness in the classroom; and
+ (C) the capability of the entity developing the innovative computer technology
+ to provide broad and efficient dissemination of the technology to schools.
+ (3) USE OF AWARDS- Funds awarded under this subsection may be used for--
+ (A) research and development of curriculum;
+ (B) development of computer software; and
+ (C) research and development of other promising technologies for educational
+ applications as specified by the Director.
+ (b) Distance Learning-
+ (1) PROGRAM AUTHORIZED- The Director shall establish programs to promote
+ the use of interactive telecommunications linkages to provide mathematics
+ and science education in the elementary and secondary classroom.
+ (2) ELIGIBLE APPLICANTS- In carrying out the program under this subsection,
+ the Director shall establish a merit review process to make awards to
+ partnerships which may involve State educational agencies, local educational
+ agencies, public television agencies, institutions of higher education,
+ and other relevant entities, on the basis of--
+ (A) the potential of the proposal to improve the delivery of quality
+ mathematics and science instruction to underserved rural and urban areas; and
+ (B) the potential of the proposal to provide teacher training programs for
+ optimum effectiveness in the classroom.
+ (3) USE OF AWARDS- Funds awarded under this subsection may be used for--
+ (A) the research and development of software and hardware technologies
+ necessary to implement interstate and intrastate interactive linkages with
+ several school districts;
+ (B) research on two-way audio and video interactive telecommunications and
+ computer linkages designed to be used in conjunction with each other;
+ (C) research and development of curriculum;
+ (D) teacher training in the use of technologies developed under this
+ section; and
+ (E) other appropriate telecommunications research projects that will improve
+ mathematics and science education in underserved areas.
+ (c) SPECIAL RULE- In carrying out the provisions of this section, the
+ Director shall--
+ (1) pay particular attention to the needs of rural and urban areas which
+ are underserved in fields of mathematics and science instruction or which
+ have a high percentage of students receiving services under chapter 1 of
+ title I of the Elementary and Secondary Education Act of 1965;
+ (2) give special consideration to proposals to extend or adapt for wider
+ applications technologies, and associated educational materials, that the
+ eligible applicant making the proposal has demonstrated to be effective in
+ limited applications;
+ (3) ensure coordination between the National Science Foundation's programs
+ for support of teacher training and programs developed under this section,
+ with the objective of training teachers in the use of promising educational
+ technologies; and
+ (4) consult, cooperate and coordinate with analogous programs and policies
+ of other Federal agencies.
+ (d) MATCHING REQUIREMENT- Awards shall be made under this section only to
+ eligible applicants that will contribute resources, in cash or in kind, from
+ non-Federal sources in an amount equal to 25 percent of the Federal award.
+ (e) COORDINATION- The Director shall work with the Secretary to encourage
+ use of technologies and educational materials developed under this section
+ in Department of Education model programs established under section 2012
+ of the Dwight D. Eisenhower Mathematics and Science Education Act for
+ instruction and training in the use of computers. In addition, the Director
+ shall ensure that programs and activities developed under this section are
+ reported to the Clearinghouse established under section 2012 of such Act
+ for subsequent dissemination through the regional consortia established
+ under subpart 2 of such Act.
+ (f) PLANNING ACTIVITIES- The Office of Science and Technology Policy shall
+ ensure that planning activities for education and human resource development
+ and for high performance computing within the Federal Coordinating Council
+ for Science, Engineering, and Technology include consideration of the use
+ of national computer networks for educational purposes, including distance
+ learning and dissemination of curricular materials.
+PART C--SCIENCE-TECHNOLOGY CENTERS
+SEC. 231. SCIENCE-TECHNOLOGY CENTERS.
+ (a) IN GENERAL-
+ (1) AWARDS AUTHORIZED- The Director is authorized to make awards to
+ science-technology centers for--
+ (A) development of more effective, hands-on, interactive mathematics,
+ science and technology programs and activities;
+ (B) replication or dissemination of effective programs and activities,
+ giving special attention to the needs of female and minority children and
+ economically disadvantaged areas; and
+ (C) development of new science-technology centers, including support for
+ such centers to work with established science-technology centers to acquire
+ proven educational programs.
+ (2) AWARD BASIS- Funds awarded pursuant to this section shall be awarded
+ on a competitive, merit review basis.
+ (3) CRITERIA- Criteria for making awards under paragraph (1) may include--
+ (A) the potential for the educational program to have a significant impact
+ on both formal and informal science education;
+ (B) the capability of the recipient institution to disseminate the material
+ broadly;
+ (C) the extent of matching funds provided from non-Federal sources;
+ (D) the experience and qualifications of the staff of the recipient
+ institution; and
+ (E) the overall excellence of the proposed program.
+ (b) SPECIAL CONSIDERATION- In making awards pursuant to this section the
+ Director shall give special consideration to programs designed primarily
+ for elementary school-aged children.
+ (c) GEOGRAPHIC DISTRIBUTION- In making awards pursuant to this section, the
+ Director shall, to the extent practicable, ensure an equitable geographic
+ distribution of such awards.
+ (d) USE OF CLEARINGHOUSE- The Director shall report on such programs and
+ activities developed under this section to the Clearinghouse established
+ under section 2012 of the Dwight D. Eisenhower Mathematics and Science
+ Education Act for subsequent dissemination through the regional consortia
+ established under subpart 2 of such Act.
+ (e) AUTHORIZED ACTIVITIES- Awards made under this section may be used for--
+ (1) scientific or technological exhibits developed for public display,
+ either in a science-technology center or sponsored by a science-technology
+ center but displayed in another facility;
+ (2) educational activities, such as curriculum development, teacher training
+ programs, and student educational kits, developed for use by teachers for
+ students; and
+ (3) other formal or informal science educational programs developed by
+ science-technology centers.
+ (f) DEFINITIONS- As used in this section--
+ (1) the term `informal science education' means those aspects of science
+ education that occur outside the school classroom, usually voluntary,
+ recreational, and interdisciplinary in nature, that are not directed by a
+ specific curriculum;
+ (2) the term `science' means all physical, biological, and social sciences,
+ mathematics, and engineering; and
+ (3) the term `science-technology center', which may include museums,
+ planetariums, libraries and zoos, means a nonprofit institution open to the
+ general public providing interactive exhibits, demonstrations, and informal
+ science education designed to--
+ (A) further public understanding of science and technology; and
+ (B) illustrate how such science and technology interacts with society.
+Such institutions may also be involved in formal educational activities.
+PART D--GRANTS TO EDUCATIONAL AGENCIES FOR SYSTEMIC REFORM OF MATHEMATICS
+AND SCIENCE EDUCATION
+SEC. 241. SYSTEMIC REFORM OF MATHEMATICS AND SCIENCE.
+ (a) IN GENERAL- The Director, in consultation with the Secretary, is
+ authorized to make awards to States or State educational agencies for
+ projects that implement system-wide improvement in elementary or secondary
+ school mathematics and science education.
+ (b) IMPROVEMENT COMPONENTS- Each project for which an award is made pursuant
+ to subsection (a) shall include the following components:
+ (1) increased student achievement in mathematics and science;
+ (2) improvements in organizational structure and decisionmaking;
+ (3) modifications in the provision and allocation of resources regarding
+ mathematics and science instruction;
+ (4) improvement in the recruitment, retention and continuing professional
+ development of teachers and other educators who instruct mathematics and
+ science;
+ (5) improved mathematics and science curriculum content and learning
+ goals; and
+ (6) use of other Federal funds including funds provided for the Dwight
+ D. Eisenhower Mathematics and Science Education Act.
+ (c) SPECIAL RULE- In making awards pursuant to subsection (a), the Director
+ shall--
+ (1) to the extent practicable, ensure an equitable geographic distribution
+ of such awards; and
+ (2) give priority to States or State educational agencies whose improvement
+ plans place a strong emphasis on increasing the academic achievement of
+ females and minority students in mathematics and science.
+PART E--TECHNICAL AMENDMENT
+SEC. 251. TECHNICAL AMENDMENT.
+ Section 14(f) of the National Science Foundation Act of 1950 is amended by
+ inserting `or education' after `research'.
+SEC. 252. NATIONAL CENTER FOR EDUCATION STATISTICS.
+ Paragraph (4) of section 406(d) of the General Education Provisions Act
+ (20 U.S.C. 1221e-1(d)) is amended by adding at the end the following:
+ `(G)(i) This paragraph shall not apply to--
+ `(I) the survey required by section 1303(c) of the Higher Education Amendments
+ of 1986; or
+ `(II) to any longitudinal study concerning access, choice, persistence
+ progress, or attainment in postsecondary education.
+ `(ii) Any person, except those sworn to observe the limitation of this
+ subsection, who uses any data as described in clause (i) provided by the
+ Center, in conjunction with any other information or technique (including
+ de-encryption), to identify any individual student, teacher, administrator,
+ or other person and who discloses, publishes, or uses for a purpose other
+ than that for which it was collected, or who otherwise violates clause (i)
+ or (ii) of subparagraph (A), shall be fined under title 18, United States
+ Code, or imprisoned not more than 5 years, or both.
+ `(iii) No employee or staff member of the Center or of an institution of
+ higher education may be found criminally liable under subparagraph (C), based
+ on a violation of subparagraph (A) or clause (i), if such employee or staff
+ member has taken reasonable precautions, consistent with the purpose of this
+ section, to ensure the confidentiality of data made available to the public.
+ `(H) Nothing in this paragraph shall restrict the right of the Comptroller
+ General of the United States to gain access to any reports or other records,
+ including information identifying individuals, in the Center's possession;
+ except that the same restrictions on disclosure that apply to the Center under
+ subparagraphs (B) and (G) shall apply to the General Accounting Office.'.
+SEC. 253. AMENDMENT OF JAMES MADISON MEMORIAL FELLOWSHIP ACT.
+ Section 813(a)(4) of the James Madison Memorial Fellowship Act is amended
+ by striking the second sentence thereof.
+TITLE III--HIGHER EDUCATION
+PART A--GRADUATE FELLOWSHIPS AND TRAINEESHIPS
+SEC. 301. STATEMENT OF PURPOSE.
+ It is the purpose of this part to avert the substantial shortage of American
+ scientists and engineers projected to occur over the next 15 years by
+ significantly increasing the number of graduate fellowships awarded by
+ the National Science Foundation and to institute a program of graduate
+ traineeships.
+SEC. 302. GRADUATE FELLOWSHIPS.
+ (a) IN GENERAL- The Director is authorized to increase the number of graduate
+ fellowships awarded by the Foundation, so that, in fiscal year 1993 and
+ each fiscal year thereafter, at least 1,200 fellowships are awarded annually.
+ (b) SPECIAL RULE- In awarding fellowships pursuant to subsection (a), the
+ Director shall ensure that a substantially increasing number of fellowships
+ shall be awarded to women and minorities in fiscal year 1991 and in each
+ succeeding fiscal year through fiscal year 2000.
+ (c) GRADUATE FELLOWSHIPS- Section 10 of the National Science Foundation
+ Act of 1950 is amended in the second sentence by striking `or nationals'
+ and inserting `, nationals or lawfully admitted permanent resident aliens'.
+SEC. 303. GRADUATE TRAINEESHIPS.
+ (a) IN GENERAL- The Director is authorized to carry out a competitive,
+ merit-based program of making awards to institutions of higher education to
+ enable such institutions to conduct traineeship programs which encourage
+ promising students, especially women and minorities, to continue their
+ education and research in mathematics, science and engineering.
+ (b) SPECIAL RULE- In making awards pursuant to subsection (a), the Director
+ shall, to the extent practicable, ensure--
+ (1) an equitable geographic distribution of such grants;
+ (2) that institutions of higher education receiving such awards demonstrate
+ experience in, and a commitment to, educating and graduating a significant
+ number of women and minority students in mathematics, science and engineering;
+ and
+ (3) that special consideration is given to institutions of higher education
+ that have demonstrated progress and an ongoing commitment to upgrading
+ their capabilities to perform high quality research, and are not among the
+ institutions currently receiving a large number of students with National
+ Science Foundation graduate fellowships.
+PART B--CENTERS OF EXCELLENCE
+SEC. 311. CENTERS OF EXCELLENCE OF UNDERGRADUATE TEACHING.
+ (a) ESTABLISHMENT- The Director shall establish a program of making awards
+ to encourage institutions of higher education to improve, and to give
+ greater attention to, undergraduate instruction in science, mathematics
+ and engineering. Awards under this section shall be made on a competitive,
+ merit review basis to faculty with a record of excellence in teaching using
+ the criteria described in subsection (c). Awards under this section shall
+ be for a 3-year period, and the amount of each award shall be comparable
+ to those under the Presidential Young Investigator program.
+ (b) USE OF FUNDS- Awards made under this section shall be used to improve
+ the quality of undergraduate instruction at the recipient institution. Awards
+ made under this section may be used for such purposes as--
+ (1) development of innovative curriculum or teaching methods, including
+ interdisciplinary courses and courses for nonscience majors;
+ (2) purchase of educational equipment for use by students and faculty;
+ (3) support for research and professional activities related to undergraduate
+ education; and
+ (4) support of teaching fellows.
+ (c) CRITERIA- Awards under this section shall be made on the basis of--
+ (1) the commitment of the institution to improve undergraduate education in
+ science, mathematics and engineering and to assign appropriate importance
+ to undergraduate instruction in determining faculty compensation and as a
+ criterion for faculty promotion;
+ (2) the teaching ability and accomplishments of the faculty member applying
+ for the award, including evidence that the applicant has remained current
+ with research developments; and
+ (3) the impact that the award will have on improving the quality of
+ undergraduate instruction.
+ (d) DESIGNATION- Institutions receiving grants under this section shall be
+ designated `Centers of Excellence for Undergraduate Teaching'.
+TITLE IV--WOMEN AND MINORITIES IN MATHEMATICS, SCIENCE AND ENGINEERING
+SEC. 401. STATEMENT OF PURPOSE.
+ It is the purpose of this title to expand and enhance National Science
+ Foundation program activities that are specifically focused on increasing
+ the educational and professional participation of women and minorities in
+ the fields of mathematics, science and engineering.
+SEC. 402. DISTINGUISHED VISITING PROFESSORS.
+ The Director is authorized to make awards to institutions of higher
+ education to enable such institutions to support distinguished women and
+ minority faculty members in mathematics, science and engineering to enable
+ such faculty members to serve as `Distinguished Visiting Professors' at
+ academic institutions that do not have sufficient resources to attract and
+ retain faculty members of such professional stature on a permanent basis.
+SEC. 403. FACULTY AWARDS FOR WOMEN AND MINORITIES.
+ The Director is authorized to make awards to institutions of higher education,
+ other than research universities, to enable such institutions to recruit
+ and retain women and minority faculty members in the fields of mathematics,
+ science and engineering, and to obtain equipment and facilities necessary
+ for the research activities of such faculty members.
+SEC. 404. ALLIANCES FOR MINORITY PARTICIPATION.
+ (a) IN GENERAL- The Director is authorized to make awards to institutions of
+ higher education to enable such institutions of higher education to establish
+ or maintain alliances, partnerships, or other cooperative arrangements between
+ institutions of higher education with predominately minority enrollments
+ and institutions of higher education with high quality research programs
+ in mathematics, science or engineering.
+ (b) SPECIAL RULE- In making awards pursuant to this title, the Director
+ shall, to the extent practicable, ensure--
+ (1) an equitable geographic distribution of such awards; and
+ (2) that institutions of higher education receiving such awards demonstrate
+ experience in, and a commitment to, educating and graduating a significant
+ number of women and minority students from programs in mathematics, science
+ and engineering.
+TITLE V--EDUCATION COORDINATION AND DEPARTMENT OF ENERGY PROGRAMS
+SEC. 501. SCIENCE EDUCATION REPORT.
+ (a) REPORT REQUIRED- The Director of the Office of Science and Technology
+ Policy, through the Federal Coordinating Council on Science, Engineering,
+ and Technology, shall prepare a report on science, mathematics, and
+ engineering education to be submitted to Congress within 1 year after the
+ date of enactment of this Act. The report shall include--
+ (1) a description of current Federal science, mathematics, and engineering
+ education programs at all education levels;
+ (2) any specific statutory changes necessary to further assist the agencies'
+ mathematics and science education goals; and
+ (3) a strategic plan for an interagency program to enhance science,
+ mathematics, and engineering education, including--
+ (A) a statement of program goals;
+ (B) a description of implementation steps required to achieve such goals;
+ (C) a strategy for taking advantage of the strengths of Federal research
+ and development facilities related to science, mathematics, and engineering
+ education;
+ (D) provisions for outreach to teachers and others with direct access
+ to students;
+ (E) a system for evaluating program effectiveness, including criteria
+ for evaluation;
+ (F) criteria and procedures to facilitate and expedite either the loan
+ or transfer of title to surplus equipment to schools, school districts,
+ and colleges and universities;
+ (G) recommendations on how to enhance exchange of employees among agencies
+ to share expertise in mathematics and science education; and
+ (H) mechanisms to coordinate the activities of the agencies which will
+ implement the plan.
+ (b) PREPARATION AND UPDATING- Preparation of the plan required by subsection
+ (a)(3) shall, at a minimum, include representatives of the Departments of
+ Energy and Education, and the National Science Foundation. In subsequent
+ years, the plan required by subsection (a)(3) shall be updated and submitted
+ to Congress annually at the time of the President's budget request and
+ shall include the funding levels in that budget for each agency to carry
+ out each agency's portion of the plan.
+SEC. 502. GENERAL EDUCATION REPORT.
+ The Department of Defense, the Department of Energy, the Department of
+ Agriculture, the Department of Labor, the Department of Health and Human
+ Services, the Department of Transportation, the Department of Justice, the
+ National Aeronautics and Space Administration, the Environmental Protection
+ Agency, and the Department of Commerce shall each prepare and submit to
+ the Secretary of Education, within 9 months of the enactment of this Act,
+ a report on all educational activities supported, excluding activities
+ described in section 501. The Secretary shall compile this information
+ and report to Congress within 1 year after the date of enactment of this
+ Act. The report shall include--
+ (1) a summary of current education programs at all levels; and
+ (2) any specific statutory changes necessary to further assist the agencies'
+ education goals.
+SEC. 503. DEPARTMENT OF ENERGY PROGRAMS.
+ (a) AUTHORIZATION-
+ (1) IN GENERAL- The Secretary of Energy is authorized to--
+ (A) provide paid administrative leave for employees of the Department of
+ Energy or its research and development facilities who volunteer to interact
+ with schools, colleges, universities, teachers, or students for the purpose
+ of science, mathematics, and engineering education;
+ (B) establish a volunteer talent pool of scientists, mathematicians, and
+ engineers who have retired from the Department of Energy or its research
+ and development facilities to--
+ (i) serve as `Scientists in Residence' at schools and school districts
+ for the purpose of assisting teachers with activities such as experiments,
+ lectures, or materials;
+ (ii) serve as requested, as a science counselor to students; and
+ (iii) otherwise assist science, mathematics, and engineering classes;
+ (C) establish a Young Americans' Summer Science Camp Program to provide
+ secondary school students with a hands-on science experience as well as
+ exposure to working scientists and career counseling; and
+ (D) establish a program for mathematics and science teachers, to provide
+ such teachers serving large numbers of disadvantaged students with new
+ strategies for mathematics and science instruction.
+ (2) SPECIAL RULE- In carrying out the provisions of paragraph (1)(B) the
+ Secretary of Energy, wherever possible acting through the Department's
+ research and development facilities, shall identify and match schools and
+ school districts with retired scientists, mathematicians, and engineers.
+ (b) FACILITIES; NON-FEDERAL FUNDS- Education activities assisted under
+ this section may be conducted through Department of Energy research and
+ development facilities. The Secretary is authorized to accept non-Federal
+ funds to finance education activities.
+ (c) LIMITATIONS-
+ (1) NATIONAL DEFENSE PRODUCTION ACTIVITIES- Nothing in this section shall
+ apply to activities of the Department of Energy or its contractors that
+ are funded as national defense production activities.
+ (2) SPECIAL RULE- Nothing in this section shall be construed to affect
+ mathematics, science, and engineering education programs administered
+ through the Department of Energy other than the Office of Energy Research.
+ (d) TERMINATION PROVISION- The provisions of this section shall not take
+ effect if a substantially identical program is included in the National
+ Defense Authorization Act for Fiscal Year 1991.
+ (e) DEFINITION- For the purpose of this section, the term `research and
+ development facilities' means, except as provided in subsection (c)(1), all
+ Department of Energy single purpose and multipurpose National Laboratories
+ and research and development facilities and programs, and any other facility
+ or program operated by a contractor funded from the Office of Energy Research.
+TITLE VI--SCIENCE SCHOLARSHIPS
+PART A--NATIONAL SCIENCE SCHOLARS PROGRAM
+SEC. 601. PURPOSE; APPROPRIATIONS AUTHORIZED.
+ (a) PURPOSE- It is the purpose of this part--
+ (1) to establish a National Science Scholars Program to recognize student
+ excellence and achievement in the physical, life, and computer sciences,
+ mathematics, and engineering;
+ (2) to provide financial assistance to students under paragraph (1) to
+ continue their postsecondary education in such fields of study at sustained
+ high levels of performance;
+ (3) to contribute to strengthening the leadership of the United States in
+ such fields;
+ (4) to strengthen the United States mathematics, science, and engineering
+ base by offering opportunities to pursue postsecondary education in life,
+ physical, and computer sciences, mathematics, and engineering;
+ (5) to encourage role models in scientific, mathematics, and engineering
+ fields for young people;
+ (6) to strengthen the United States mathematics, scientific, and engineering
+ potential by encouraging equal participation of women with men in mathematics,
+ scientific, and engineering fields; and
+ (7) to attract talented students to teaching careers in mathematics and
+ science in elementary and secondary schools.
+ (b) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to the Department of Education $4,500,000 for fiscal year 1991 for awards
+ to National Science Scholars.
+SEC. 602. SCHOLARSHIPS AUTHORIZED.
+ (a) PROGRAM AUTHORITY- The Secretary is authorized, in accordance with the
+ provisions of this part, to carry out a program of awarding scholarships
+ to students for the study of the physical, life,  or computer sciences,
+ mathematics, or engineering, who--
+ (1) are selected by the President;
+ (2) have demonstrated outstanding academic achievement in the physical,
+ life, or computer sciences, mathematics, or engineering; and
+ (3) show promise of continued outstanding academic performance in such
+ field of study.
+ (b) PERIOD OF AWARDS-
+ (1) PERIOD OF INITIAL AWARD- A student who satisfies the requirements of
+ section 604(a) may receive a scholarship, for a period of 1 academic year, for
+ the first year of undergraduate study at an institution of higher education.
+ (2) CONTINUATION AWARDS- A student who satisfies the requirements of section
+ 604(b) may receive additional scholarships, each awarded for a period of
+ 1 academic year, in order to complete his or her undergraduate course of
+ study. A student may receive additional scholarships for not more than 3
+ academic years of undergraduate study, except that, in the case of a student
+ who is enrolled in an undergraduate course of study that requires attendance
+ for 5 academic years, the student may receive additional scholarships for
+ not more than 4 academic years of undergraduate study.
+ (c) USE AT ANY INSTITUTION PERMITTED- A student awarded a scholarship under
+ this part may attend any institution of higher education, as defined in
+ section 1201(a) of the Higher Education Act of 1965.
+ (d) NATIONAL SCIENCE SCHOLARS- Students awarded scholarships under this
+ part shall be known as `National Science Scholars'.
+SEC. 603. SELECTION OF SCHOLARS.
+ (a) SELECTION CRITERIA FOR INITIAL AWARDS-
+ (1) SELECTION CRITERIA- The Director of the National Science Foundation
+ shall develop and submit to the Secretary proposed criteria to be used in the
+ selection of National Science Scholars for initial year awards under section
+ 602(b)(1). Such criteria shall provide for the selection of such scholars on
+ the basis of potential to successfully complete a postsecondary program in
+ the physical, life, or computer sciences, mathematics, or engineering, and
+ on the basis of motivation to pursue a career in such fields. In addition,
+ consideration may be given to the financial need of the individual, and to
+ promoting participation by minorities and individuals with disabilities. The
+ Director shall determine the proposed criteria for measuring the potential
+ and motivation of nominees.
+ (2) PUBLICATION- The Secretary and the Director shall agree to, and jointly
+ publish in the Federal Register, appropriate selection criteria.
+ (b) SELECTION PROCESS FOR INITIAL AWARDS-
+ (1) NOMINATING COMMITTEE- Each State desiring to qualify its students
+ for selection as a National Science Scholar shall establish a nominating
+ committee. Such committee shall be appointed by the chief State school
+ officer or by an existing grant agency or panel designated by such officer,
+ and shall be approved by the Secretary. The nominating committee shall be
+ a broad-based committee composed of educators, scientists, mathematicians,
+ and engineers, who shall serve as volunteers without compensation.
+ (2) NOMINATIONS- The nominating committee in each State shall submit
+ to the President the nominations of at least four individuals from each
+ congressional district in the State, at least half of whom are female. Such
+ selections shall be ranked in order of priority.
+ (3) SELECTION- The President, after consultation with the Secretary and
+ the Director of the National Science Foundation, shall select two National
+ Science Scholars for each academic year from each congressional district,
+ at least one of whom shall be female.
+ (4) ANNOUNCEMENT AND AWARD OF SCHOLARSHIPS- The selection process shall
+ be completed, and the announcement of the selection of National Science
+ Scholars shall be made by the President prior to January 1st of each fiscal
+ year. The Secretary shall notify each Member of Congress of selections made
+ from such Member's district and State before the public announcement by
+ the President. Presentation of scholarships may be made in a public ceremony.
+ (5) CONGRESSIONAL DISTRICT- For purposes of this subsection, the term
+ `congressional district' includes the part or all of a State (within the
+ meaning of section 1201(b) of the Higher Education Act of 1965) represented
+ by a Member or Delegate of the House of Representatives, and includes the
+ Commonwealth of the Northern Mariana Islands.
+ (c) CONTINUATION AWARDS- The Secretary shall award additional scholarships
+ under section 602(b)(2) to recipients of initial awards under section
+ 602(b)(1) who the Secretary determines meet the requirements of section
+ 604(b).
+ (d) DISBURSAL OF SCHOLARSHIP PROCEEDS- Scholarship proceeds shall be
+ disbursed on behalf of students who receive scholarships under this part to
+ the institutions of higher education at which the students are enrolled. No
+ scholarship proceeds shall be disbursed on behalf of a student until the
+ student is enrolled at an institution of higher education.
+ (e) SPECIAL RULE- The Director and the Secretary shall encourage the support
+ and assistance of civic groups, the business community, professional
+ associations, institutions of higher education, and others in providing
+ scholarship assistance to National Science Scholarship finalists.
+SEC. 604. ELIGIBILITY OF SCHOLARS.
+ (a) REQUIREMENTS FOR INITIAL AWARD- To be eligible to receive a scholarship
+ under section 602(b)(1), a student shall--
+ (1) be scheduled to graduate from a public or private secondary school,
+ or to obtain the equivalent of a certificate of graduation (as recognized
+ by the State in which the student resides), during the school year in which
+ the award is made;
+ (2) be a citizen or national of the United States or the entities set forth
+ in section 603(b)(5), or be an alien lawfully admitted to the United States
+ for permanent residence;
+ (3) have demonstrated outstanding academic achievement in secondary school
+ in physical, life, or computer sciences, mathematics, or engineering;
+ (4) have been accepted for enrollment at an institution of higher education
+ as a full-time undergraduate student (as determined by the institution); and
+ (5) have declared a major in 1 of the physical, life, or computer sciences,
+ mathematics, or engineering, or provided a written statement to the State of
+ his or her intent to major in 1 of these fields of study, if it is the policy
+ of the institution at which the student has been accepted for enrollment that
+ students not declare a major until a later point in their course of study.
+ (b) REQUIREMENTS FOR CONTINUATION AWARDS- A student who has received
+ a scholarship under section 602(b)(1) may receive a scholarship for a
+ subsequent academic year of undergraduate education under section 602(b)(2)
+ if the student--
+ (1) maintains a high level of academic achievement, as determined in
+ accordance with the regulations of the Secretary;
+ (2) continues to major in, or provides a statement to the State as described
+ in subsection (a)(5) of his or her continuing intent to major in, one of
+ the physical, life, or computer sciences, mathematics, or engineering; and
+ (3) continues to be enrolled at an institution of higher education as a
+ full-time undergraduate student (as determined by the institution).
+ (c) WAIVER OF FULL-TIME ATTENDANCE REQUIREMENT- The Secretary may waive the
+ full-time attendance requirements in this section in unusual circumstances.
+ (d) FAILURE TO MEET ELIGIBILITY REQUIREMENTS- In the event that the student
+ fails to meet the requirements of this section, the student's eligibility
+ to receive further scholarships (or scholarship proceeds) under this part
+ shall be suspended in accordance with the regulations of the Secretary.
+ (e) REINSTATEMENT OF ELIGIBILITY- The Secretary shall determine circumstances
+ under which eligibility of a scholarship recipient under this part may be
+ reinstated if the recipient seeks to re-enter school after an interruption
+ of schooling for personal reasons, including, but not limited to, pregnancy,
+ child-rearing, and other family responsibilities.
+ (f) NOTIFICATION OF SECONDARY SCHOOLS- The Secretary shall notify all public
+ and private secondary schools and all institutions of higher education in
+ each State annually of the availability of scholarships under this part.
+SEC. 605. SCHOLARSHIP AMOUNT.
+ (a) AMOUNT OF AWARD- Except as provided in subsections (b) and (c), the
+ amount of a scholarship awarded under this part for any academic year shall
+ be $5,000.
+ (b) RELATION TO COST OF ATTENDANCE- Notwithstanding subsection (a), the
+ amount of a scholarship awarded under this part shall be reduced by the
+ amount that the scholarship exceeds the student's cost of attendance, as
+ defined in section 472 of the Higher Education Act of 1965. A scholarship
+ awarded under this part shall not be reduced on the basis of the student's
+ receipt of other forms of Federal student financial assistance, but shall
+ be taken into account in determining the eligibility of the student for
+ those other forms of Federal student financial assistance.
+ (c) ADJUSTMENTS FOR INSUFFICIENT APPROPRIATIONS- In the event that funds
+ available in a fiscal year are insufficient to fully fund all awards under
+ this part, the amount paid to each student shall be reduced proportionately.
+SEC. 606. SUMMER EMPLOYMENT OPPORTUNITIES FOR SCHOLARS.
+ (a) PRIORITY FOR SUMMER EMPLOYMENT- To the extent that they are otherwise
+ qualified, students receiving scholarships under this part shall be
+ given priority consideration for federally financed summer employment in
+ federally funded research and development centers, that, to the maximum
+ extent practicable, complements and reinforces the educational program of
+ these students.
+ (b) FEDERAL AGENCY COOPERATION- Federal agencies shall cooperate fully
+ with the Secretary and participate actively in providing appropriate summer
+ employment opportunities for such students.
+PART B--ROBERT NOYCE SCHOLARSHIPS
+SEC. 611. ROBERT NOYCE SCHOLARSHIPS.
+ (a) PROGRAM AUTHORIZED- There is established a scholarship program for
+ students in a baccalaureate degree program in physical, life, or computer
+ sciences, mathematics, or engineering who are willing to commit themselves
+ to teaching elementary or secondary school mathematics or science.
+ (b) PERIOD OF AWARDS-
+ (1) PERIOD OF INITIAL AWARD- A student who satisfies the requirements of
+ subsection (g)(1) may receive a scholarship, for a period of 1 academic
+ year of undergraduate study at an institution of higher education.
+ (2) CONTINUATION AWARDS-
+ (A) FIRST CONTINUATION AWARD- A student who satisfies the requirements
+ of subsection (g)(2) may receive an additional scholarship, awarded for a
+ period of 1 academic year, in order to complete his or her undergraduate
+ course of study.
+ (B) SECOND CONTINUATION AWARD- An additional period of scholarship support,
+ not to exceed 1 year, shall be available to recipients of scholarships under
+ subsection (a) who have completed requirements for the baccalaureate degree
+ but require additional education courses in order to obtain certification
+ to teach.
+ (c) USE AT ANY INSTITUTION PERMITTED- A student awarded a scholarship under
+ this section may attend any institution of higher education.
+ (d) DESIGNATION- The individuals awarded scholarships under subsection
+ (a) shall be referred to as the `Robert Noyce Mathematics and Science
+ Teacher Corps'.
+ (e) SELECTION-
+ (1) SELECTION PROCESS FOR INITIAL AWARDS-
+ (A) SELECTION CRITERIA- The Director shall develop and submit to the Secretary
+ proposed application procedures and criteria to be used in the selection of
+ nominees under this section. Such criteria shall provide for the selection of
+ such nominees on the basis of academic merit and demonstrated accomplishment
+ in physical, life, or computer science, mathematics, or engineering, and
+ on the basis of motivation to pursue a career in science, mathematics,
+ or engineering. In addition, consideration may be given to the financial
+ need of the individual, and to promoting participation by minorities and
+ individuals with disabilities.
+ (B) PUBLICATION- The Secretary and the Director shall agree to, and jointly
+ publish in the Federal Register, appropriate selection criteria.
+ (C) MERIT REVIEW PANEL- Award recipients shall be nominated from among
+ applicants by a merit review panel composed of 8 individuals, 4 of whom
+ shall be appointed by the Director and 4 of whom shall be appointed by
+ the Secretary. Members of the panel shall not be employees of the United
+ States and shall serve as volunteers without compensation. Nominees shall
+ be selected on the basis of selection criteria, which shall be developed
+ and published in accordance with subparagraphs (A) and (B). The panel shall
+ rank the nominees in order of priority.
+ (D) AWARDING OF SCHOLARSHIPS- The panel shall submit its nominees to the
+ President, who shall, after consultation with the Director and the Secretary,
+ award not more than 500 scholarships under subsection (a).
+ (2) CONTINUATION AWARDS- The Secretary shall award additional scholarships to
+ recipients of initial awards under this section who the Secretary determines
+ meet the requirements of subsection (g)(2) or (b)(2)(B).
+ (f) DISBURSAL OF SCHOLARSHIP PROCEEDS- Scholarship proceeds shall be disbursed
+ on behalf of students who receive scholarships under this section to the
+ institutions of higher education at which the students are enrolled. No
+ scholarship proceeds shall be disbursed on behalf of a student unless the
+ student is enrolled at an institution of higher education.
+ (g) ELIGIBILITY-
+ (1) INITIAL ELIGIBILITY- Only individuals who are--
+ (A) citizens or nationals of the United States, or who are aliens lawfully
+ admitted to the United States for permanent residence;
+ (B) majoring in the physical, life, or computer sciences, mathematics,
+ or engineering;
+ (C) in the last 2 years of a baccalaureate degree program; and
+ (D) enrolled in an institution of higher education as a full-time
+ undergraduate student (as determined by the institution of higher education),
+shall be eligible for awards under this section.
+ (2) REQUIREMENTS FOR FIRST CONTINUATION AWARDS- A student who has received
+ a scholarship under this section may receive a first continuation award
+ under subsection (b)(2)(A) for a subsequent academic year of undergraduate
+ education if the student--
+ (A) maintains a high level of academic achievement, as determined in
+ accordance with the regulations of the Secretary;
+ (B) continues to major in one of the physical, life, or computer sciences,
+ mathematics, or engineering; and
+ (C) continues to be enrolled at an institution of higher education as a
+ full-time undergraduate student (as determined by the institution).
+ (h) WAIVER OF FULL-TIME ATTENDANCE REQUIREMENT- The Secretary may waive the
+ full-time attendance requirements in this section in unusual circumstances.
+ (i) FAILURE TO MEET ELIGIBILITY REQUIREMENTS- In the event that the student
+ fails to meet the requirements of this section, the student's eligibility
+ to receive further scholarships (or scholarship proceeds) under this section
+ shall be suspended in accordance with the regulations of the Secretary.
+ (j) REINSTATEMENT OF ELIGIBILITY- The Secretary shall determine circumstances
+ under which eligibility of a scholarship recipient under this section could
+ be reinstated if the recipient seeks to re-enter school after an interruption
+ of schooling for personal reasons, including, but not limited to, pregnancy,
+ child-rearing, and other family responsibilities.
+ (k) NOTIFICATION OF SCHOOLS- The Secretary shall notify all institutions
+ of higher education in the United States annually of the availability of
+ scholarships under this section.
+ (l) SCHOLARSHIP AMOUNT-
+ (1) AMOUNT OF AWARD- Except as provided in paragraph (2), the amount of a
+ scholarship awarded under this section for any academic year shall be $5,000.
+ (2) RELATION TO COST OF ATTENDANCE- Notwithstanding paragraph (1), the
+ amount of a scholarship awarded under this section shall be reduced by
+ the amount that the scholarship exceeds the student's cost of attendance,
+ as defined in section 472 of the Higher Education Act of 1965. A scholarship
+ awarded under this section shall not be reduced on the basis of the student's
+ receipt of other forms of Federal student financial assistance, but shall
+ be taken into account in determining the eligibility of the student for
+ those other forms of Federal student financial assistance.
+ (m) SERVICE REQUIREMENT-
+ (1) TEACHING OBLIGATION- Each recipient of an award under this section shall,
+ as a condition of the receipt of such award, agree to complete, within 6
+ years after graduation from the baccalaureate degree program for which the
+ award was made or within 6 years after completion of the additional period
+ of scholarship support, if applicable, at least 2 years of service as an
+ elementary or secondary mathematics or science teacher for each year of
+ scholarship support under this section, except that such requirement shall
+ not exceed a total of 4 years. Service required under this paragraph shall
+ be performed at a school receiving assistance under chapter 1 of title I of
+ the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 et seq.).
+ (2) REPAYMENT ALTERNATIVE- As part of the agreement required under paragraph
+ (1), each recipient shall agree, in the event of failure to complete the
+ service obligation described in paragraph (1), to repay an amount equal to--
+ (A) the total amount of awards received by such individual under this
+ section; plus
+ (B) the interest on such amounts which would be payable if at the time the
+ amounts were received they were loans bearing interest at the maximum legal
+ prevailing rate, as determined by the Treasurer of the United States,
+except that such payment shall be reduced, for each year of service that the
+individual has successfully completed, by a fraction equal to 1 divided by
+the number of years of service the student is obligated to perform. Such
+repayment shall be made within 1 year after the recipient has ceased to
+perform the service obligation described in paragraph (1).
+ (3) EXCEPTIONS- The Secretary may provide for the partial or total waiver or
+ suspension of any service obligation or payment by an individual under this
+ section in the same manner as is permitted under section 558 of the Higher
+ Education Act of 1965 with respect to scholarships under subpart 1 of part
+ D of title V of the Higher Education Act of 1965, except that pregnancy,
+ child-rearing, or comparable family responsibilities shall also be grounds
+ for deferral.
+ (n) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to the National Science Foundation, for transfer to the Department of
+ Education, $2,500,000 for fiscal year 1991, $5,000,000 for fiscal year 1992,
+ and $7,500,000 for fiscal year 1993, to carry out the provisions of this part.
+PART C--NATIONAL ACADEMY OF SCIENCE, SPACE, AND TECHNOLOGY
+SEC. 621. NATIONAL ACADEMY OF SCIENCE, SPACE, AND TECHNOLOGY.
+ (a) ESTABLISHMENT OF ACADEMY- The Secretary shall establish a National Academy
+ of Science, Space, and Technology for the instruction and preparation of
+ selected individuals for service in a science, mathematics, or engineering
+ related capacity in the employ of the United States or a United States
+ corporation.
+ (b) ADVISORY BOARD-
+ (1) MEMBERSHIP- The Secretary, after consultation with the Director,
+ shall appoint an Advisory Board for the Academy consisting of a broadly
+ representative group of scientists, engineers, educators, and businessmen
+ representing high-technology industries.
+ (2) FUNCTIONS- The Advisory Board shall--
+ (A) develop criteria to be used in the selection of recipients of scholarships
+ under this section;
+ (B) select scholarship recipients from among nominations received under
+ subsection (e); and
+ (C) identify fields of science, mathematics, and engineering which will be
+ given priority in awarding scholarships under this section.
+In making determinations under subparagraph (C), the Advisory Board shall
+take into consideration requirements of Government and industry for technical
+personnel in fields of science, mathematics, and engineering which are relevant
+to emerging industrial technologies of significant economic importance and
+in which shortages in the work force of the United States are projected.
+ (c) SCHOLARSHIPS AUTHORIZED- (1) The Academy shall establish a scholarship
+ program for students to pursue the baccalaureate degree in fields of science,
+ mathematics, or engineering who are willing to commit themselves to service
+ described in subsection (n).
+ (2) A student who satisfies the requirements of subsection (h)(1) may receive
+ a scholarship for a period of 1 academic year of undergraduate study at a
+ Member Institute.
+ (3) A student who satisfies the requirements of subsection (h)(2) may
+ receive additional scholarships, each awarded for a period of 1 academic
+ year, in order to complete his or her undergraduate course of study to a
+ maximum of 3 awards.
+ (4) The individuals awarded scholarships under this section shall be referred
+ to as the `Science, Space, and Technology Corps'.
+ (5) An individual awarded a scholarship under this section may attend any
+ institution of higher education that offers the baccalaureate degree in
+ science, mathematics, or engineering. Such institutions shall be designated
+ as Member Institutes of the Academy.
+ (d) NOMINATIONS FOR SCHOLARSHIP AWARDS- Members and Delegates of the House
+ of Representatives may each nominate 6 or more individuals, at least half
+ of whom are female, for scholarships.
+ (e) SELECTION FOR INITIAL AWARDS- (1) The Board shall develop criteria for
+ selection of nominees under this section. Such criteria shall provide for
+ the selection of such nominees on the basis of academic merit and motivation
+ to pursue a career in science, mathematics, or engineering. In addition,
+ consideration may be given to the financial need of the individual, and to
+ promoting participation by minorities and individuals with disabilities.
+ (2) From among nominees received pursuant to subsection (d), the Board shall
+ select for award of a scholarship one individual from each Congressional
+ District.
+ (f) CONTINUATION AWARDS- The Secretary shall award additional scholarships to
+ recipients of initial awards under this section who the Secretary determines
+ meet the requirements of subsection (h)(2).
+ (g) DISBURSAL OF SCHOLARSHIP PROCEEDS- Scholarship proceeds shall be disbursed
+ on behalf of students who receive scholarships under this section to the
+ institutions of higher education at which the students are enrolled. No
+ scholarship proceeds shall be disbursed on behalf of a student unless the
+ student is enrolled at an institution of higher education.
+ (h) ELIGIBILITY-
+ (1) INITIAL ELIGIBILITY- Only individuals who are--
+ (A) citizens or nationals of the United States, or who are aliens lawfully
+ admitted to the United States for permanent residence;
+ (B) majoring in the physical, life, or computer sciences, mathematics,
+ or engineering; and
+ (C) enrolled in an institution of higher education as a full-time
+ undergraduate student (as determined by the institution of higher education),
+shall be eligible for awards under this section.
+ (2) REQUIREMENTS FOR CONTINUATION AWARDS- A student who has received a
+ scholarship under this section may receive a continuation award under
+ subsection (f) for a subsequent academic year of undergraduate education
+ if the student--
+ (A) maintains a high level of academic achievement, as determined in
+ accordance with the regulations of the Secretary;
+ (B) continues to major in one of the physical, life, or computer sciences,
+ mathematics, or engineering; and
+ (C) continues to be enrolled at an institution of higher education as a
+ full-time undergraduate student (as determined by the institution).
+ (i) WAIVER OF FULL-TIME ATTENDANCE REQUIREMENT- The Secretary may waive the
+ full-time attendance requirements in this section in unusual circumstances.
+ (j) FAILURE TO MEET ELIGIBILITY REQUIREMENTS- In the event that the student
+ fails to meet the requirements of this section, the student's eligibility
+ to receive further scholarships (or scholarship proceeds) under this section
+ shall be suspended in accordance with the regulations of the Secretary.
+ (k) REINSTATEMENT OF ELIGIBILITY- The Secretary shall determine circumstances
+ under which eligibility of a scholarship recipient under this section may be
+ reinstated if the recipient seeks to re-enter school after an interruption
+ of schooling for personal reasons, including, but not limited to, pregnancy,
+ child-rearing, and other family responsibilities.
+ (l) NOTIFICATION OF SCHOOLS- The Secretary shall notify all institutions
+ of higher education in the United States annually of the availability of
+ scholarships under this section.
+ (m) SCHOLARSHIP AMOUNT-
+ (1) AMOUNT OF AWARD- Except as provided in paragraphs (2) and (3), the
+ amount of a scholarship awarded under this section for any academic year
+ shall be $5,000.
+ (2) RELATION TO COST OF ATTENDANCE- Notwithstanding paragraph (1), the
+ amount of a scholarship awarded under this section shall be reduced by
+ the amount that the scholarship exceeds the student's cost of attendance,
+ as defined in section 472 of the Higher Education Act of 1965. A scholarship
+ awarded under this section shall not be reduced on the basis of the student's
+ receipt of other forms of Federal student financial assistance, but shall
+ be taken into account in determining the eligibility of the student for
+ those other forms of Federal student financial assistance.
+ (3) ADJUSTMENTS FOR INSUFFICIENT APPROPRIATIONS- In the event that funds
+ available in a fiscal year are insufficient to fully fund all awards
+ under this section, the amount paid to each student shall be reduced
+ proportionately.
+ (n) SERVICE REQUIREMENT-
+ (1) SCIENCE, SPACE, AND TECHNOLOGY SCHOLARSHIPS- Each recipient of an award
+ under this section shall, as a condition of the receipt of such award,
+ agree to complete four years of--
+ (A) service in a physical, life, or computer science, mathematics, or
+ engineering related capacity in the employ of the United States or any
+ corporation or other entity, organized under the laws of the United States
+ or of a State of the United States, at least 50 percent of which is owned by
+ United States nationals, and which is engaged in scientific or engineering
+ research or endeavor;
+ (B) postgraduate education in physical, life, or computer science,
+ mathematics, or engineering at an institution of higher education; or
+ (C) a combination of service and education described under subparagraphs
+ (A) and (B).
+ (2) REPAYMENT OBLIGATION- As part of the agreement required under paragraph
+ (1), each recipient shall agree, in the event of failure to complete the
+ service obligation described in paragraph (1), to repay an amount equal to--
+ (A) the total amount of awards received by such individual under this
+ section; plus
+ (B) the interest on such amounts which would be payable if at the time the
+ amounts were received the amounts were loans bearing interest at the maximum
+ legal prevailing rate, as determined by the Treasurer of the United States.
+Such repayment shall be made within 1 year after the recipient has ceased
+to perform the service obligation described in paragraph (1).
+ (3) EXCEPTIONS- The Secretary may provide for the partial or total waiver or
+ suspension of any service obligation or payment by an individual under this
+ section in the same manner as is permitted under section 558 of the Higher
+ Education Act of 1965 with respect to scholarships under subpart 1 of part
+ D of title V of the Higher Education Act of 1965, except that pregnancy,
+ child-rearing, or comparable family responsibilities shall also be grounds
+ for deferral.
+ (o) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section $2,200,000 for fiscal year 1991.
+PART D--ADDITIONAL PROVISIONS
+SEC. 631. EFFECT OF CERTAIN CONTROLLED SUBSTANCE AND FELONY CONVICTIONS.
+ (a) GENERAL RULE- Except as provided in subsection (b), or by a court
+ under the authority of section 5301 of the Anti-Drug Abuse Act of 1988
+ (102 Stat. 4310), if any person is convicted under Federal or State law of
+ the illegal use, possession, or distribution of a controlled substance (as
+ such term is defined in the Controlled Substances Act), or of any crime
+ which is a felony under Federal law or for an act which, if committed
+ in a Federal jurisdiction, would be a felony under Federal law, and such
+ crime was committed during a period in which such person received an award
+ under this title, such person shall not be eligible to receive any further
+ such awards, and shall be liable to the United States for the repayment,
+ within 1 year after such conviction, of all amounts received pursuant to
+ such awards, plus the interest on such amounts which would be payable if
+ at the time the amounts were received they were loans bearing interest
+ at the maximum legal prevailing rate, as of the time of such conviction,
+ as determined by the Treasurer of the United States.
+ (b) EXEMPTION- A person subject to the provisions of subsection (a) may be
+ exempted from those provisions in whole or in part if--
+ (1) that person, within 90 days of a conviction described in subsection
+ (a), petitions the Secretary of Education for a good cause exemption from
+ subsection (a); and
+ (2) the Secretary of Education approves the petition.
+SEC. 632. REPORT.
+ The National Science Foundation shall prepare and submit to the Congress no
+ later than 1 year after the date of enactment of this Act a report examining
+ current efforts to improve the quality of elementary and secondary mathematics
+ and science education and career potential for the underprivileged through
+ joint efforts of business, school districts, and institutions of higher
+ education, and recommending ways the Federal Government may encourage such
+ efforts. The report shall include, to the extent possible, a comprehensive
+ list of existing efforts, an assessment of what factors have made some such
+ efforts more successful than others, and a review of the extent to which
+ such efforts have drawn on Federal programs.
+TITLE VII--GENERAL PROVISIONS AND AUTHORIZATION OF APPROPRIATIONS
+PART A--AUTHORIZATION OF APPROPRIATIONS
+SEC. 701. AUTHORIZATION OF APPROPRIATIONS.
+ From the amounts authorized to be appropriated to the National Science
+ Foundation pursuant to the National Science Foundation Authorization Act
+ of 1988, there are authorized to be appropriated--
+ (1) in addition to any amount obligated in fiscal year 1990 for programs
+ on applications of advanced technology within the Education and Human
+ Resources Directorate--
+ (A) $10,000,000 for fiscal year 1991 to carry out the provisions of section
+ 221, of which $5,000,000 shall be available to carry out the provisions of
+ subsection (a) of such section and $5,000,000 shall be available to carry
+ out the provisions of subsection (b) of such section;
+ (B) $11,000,000 for fiscal year 1992 to carry out the provisions of section
+ 221, of which $5,500,000 shall be available to carry out the provisions of
+ subsection (a) of such section and $5,500,000 shall be available to carry
+ out the provisions of subsection (b) of such section; and
+ (C) $12,500,000 for fiscal year 1993 to carry out the provisions of section
+ 221, of which $6,250,000 shall be available to carry out the provisions of
+ subsection (a) of such section and $6,250,000 shall be available to carry
+ out the provisions of subsection (b) of such section;
+ (2) in addition to any amounts obligated in fiscal year 1990 for informal
+ science education programs, $15,000,000 for fiscal year 1991, $17,000,000
+ for fiscal year 1992, and $19,400,000 for fiscal year 1993 to carry out
+ the provisions of section 231;
+ (3) in addition to any amounts obligated in fiscal year 1990 for statewide
+ education programs, $17,000,000 for fiscal year 1991, $19,400,000 for fiscal
+ year 1992, and $22,100,000 for fiscal year 1993 to carry out the provisions
+ of section 241;
+ (4) in addition to any amounts obligated in fiscal year 1990 for undergraduate
+ education programs, $16,000,000 for fiscal year 1991, $18,200,000 for fiscal
+ year 1992, and $20,700,000 for fiscal year 1993 to carry out the provisions
+ of section 311;
+ (5) $37,900,000 for fiscal year 1991, $60,600,000 for fiscal year 1992,
+ and $67,800,000 for fiscal year 1993 to support of graduate fellowships,
+ including expansion of the number of graduate fellowships pursuant to the
+ provisions of section 302;
+ (6) $10,000,000 for fiscal year 1991, $20,000,000 for fiscal year 1992,
+ and $30,000,000 for fiscal year 1993 to carry out the provisions of section
+ 303; and
+ (7) in addition to any amounts obligated in fiscal year 1990 for programs
+ to increase participation by women and minorities in careers in science,
+ mathematics and engineering, $17,000,000 for fiscal year 1991, $19,400,000
+ for fiscal year 1992, and $22,000,000 for fiscal year 1993 to carry out
+ the provisions of title IV.
+PART B--DEFINITIONS
+SEC. 711. DEFINITIONS.
+ As used in this Act--
+ (1) the term `consortium', refers to a combination of school districts,
+ colleges, universities, other formal or informal educational entities,
+ State and local governments, professional organizations, community groups,
+ businesses and industries, or any combination thereof;
+ (2) the term `Director', unless otherwise specified, shall refer to the
+ Director of the National Science Foundation;
+ (3) the term `elementary school' has the same meaning given that term in
+ section 1471(8) of the Elementary and Secondary Education Act of 1965;
+ (4) the term `Foundation' refers to the National Science Foundation;
+ (5) the term `institution of higher education' has the same meaning given
+ that term in section 1201(a) of the Higher Education Act of 1965;
+ (6) the term `local educational agency' has the same meaning given that term
+ in section 1471(12) of the Elementary and Secondary Education Act of 1965;
+ (7) the term `minorities' refers to members of those racial and ethnic
+ groups underrepresented in mathematics, science and engineering, including
+ American Indians, Black Americans, Hispanic Americans, Native Alaskans,
+ or Native Pacific Islanders;
+ (8) the terms `scholarship' and `fellowship' refers to a financial award
+ made to a student which enables a student to pursue a desired course of
+ study at an institution of higher education;
+ (9) the term `secondary school' has the same meaning given that term in
+ section 1471(21) of the Elementary and Secondary Education Act of 1965;
+ (10) the term `Secretary', unless otherwise specified, refers to the
+ Secretary of the Department of Education;
+ (11) the term `State educational agency' has the same meaning given that term
+ in section 1471(23) of the Elementary and Secondary Education Act of 1965; and
+ (12) the term `traineeship' means a form of financial support provided to
+ an institution of higher education to--
+ (A) be used to provide stipends to graduate students selected by such
+ institution; and
+ (B) help defray educational costs of educating such graduate students.
+PART C--MISCELLANEOUS PROVISIONS
+SEC. 721. STUDENT ASSISTANCE GENERAL PROVISIONS.
+ The Secretary shall extend until January 1, 1991 the public comment period
+ on the proposed regulations modifying part 668 of title 34, Code of Federal
+ Regulations, concerning clock and credit hour conversion.
+SEC. 722. PUBLIC LAW 81-874.
+ (a) FEDERAL CONTRIBUTIONS- Section 2 of Public Law 81-874 (20 U.S.C. 237)
+ is amended--
+ (1) by redesignating the second subsection (d), as added by section 7(a)
+ of Public Law 101-305, as subsection (e); and
+ (2) by adding a new subsection at the end thereof to read as follows:
+ `(f) Beginning with fiscal year 1991, any school district which (1) as
+ demonstrated by written evidence from the United States Forest Service
+ satisfactory to the Secretary, contains between 50,000 and 55,000 acres of
+ land that has been acquired by the United States Forest Service between
+ 1915 and 1990, and (2) serves a county chartered by State law in 1875,
+ shall be deemed to have met the requirements of subsection 2(a)(1)(C).'.
+ (b) PAYMENTS- Section 5(e)(1)(D) of Public Law 81-874 (20 U.S.C. 240)
+ (hereafter in this section referred to as the `Act') shall not apply
+ to any local educational agency that was an agency described in section
+ 5(c)(2)(A)(ii) of the Act in fiscal year 1990 but is an agency described
+ in section 5(c)(2)(A)(iii) in fiscal year 1991, 1992, or 1993 as a result
+ of families moving off base due to a landfill or health concern or an
+ environmental hazard, or due to risk assessment, investigation, testing or
+ remediation for such concern or hazard, and any such local educational agency
+ shall be deemed to belong to the category described in section 5(c)(2)(A)(ii)
+ for each of the fiscal years 1991, 1992, and 1993.
+ (c) SUNSET PROVISION- The provisions of subsection (b) shall apply only
+ during the period beginning on the date of enactment of this Act and ending
+ on September 30, 1993.
+ (d) DISCRETIONARY ALLOCATIONS-
+ (1) IN GENERAL- Section 5(e)(1)(B) of Public Law 81-874 (20
+ U.S.C. 240(e)(1)(B)) is amended to read as follows:
+ `(B)(i) For any fiscal year beginning after September 30, 1990, the Secretary
+ shall first allocate to any local educational agency that is, and in fiscal
+ year 1987 would have been, described in subsection (c)(3)(A)(i) and that
+ received a payment under section 3(b) for fiscal year 1987, an amount that
+ is not less than the product of--
+ `(I) 100 percent of the per pupil amount paid to such agency under section
+ 3(b) for fiscal year 1987; and
+ `(II) the number of children described in section 3(b) in average daily
+ attendance in the fiscal year for which the determination under section 3(b)
+ is made, not to exceed the number of such eligible children claimed by such
+ agency in fiscal year 1987.
+ `(ii) If the amount appropriated for section 3(b) in any fiscal year exceeds
+ the amount appropriated for such section for fiscal year 1990, the Secretary
+ shall use such excess funds--
+ `(I) first, to allocate to any such agency, for such children that exceed
+ the number of such eligible children claimed by the agency in fiscal year
+ 1987, the amount described in subsection (c)(3)(B)(i)(I); and
+ `(II) second, to allocate remaining funds in accordance with subsection
+ (c)(3)(B).'.
+ (2) SPECIAL RULE- Section 5(e) of Public Law 81-874 (20 U.S.C. 240(e))
+ is further amended by striking out paragraph (3).
+SEC. 723. TECHNICAL AMENDMENT.
+ Section 312(5) of the Adult Education Act (20 U.S.C. 1201a(5)) is amended
+ by inserting `, or to perform a service function for,' after `direction of'
+ the first place it appears.
+PART D--EFFECTIVE DATE
+SEC. 731. EFFECTIVE DATE.
+ The provisions of this Act shall take effect on October 1, 1990, or the
+ date of enactment of this Act, whichever is later.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

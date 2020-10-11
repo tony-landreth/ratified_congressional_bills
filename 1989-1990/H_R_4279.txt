@@ -1,0 +1,205 @@
+ 
+--H.R.4279--
+H.R.4279
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend title 31, United States Code, to improve cash management of funds
+transferred between the Federal Government and the States, and for other
+purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Cash Management Improvement Act of 1990'.
+SEC. 2. PURPOSE.
+ The purpose of this Act is to ensure greater efficiency, effectiveness, and
+ equity in the exchange of funds between the Federal Government and the States.
+SEC. 3. TECHNICAL AMENDMENTS.
+ Section 6501 of title 31, United States Code, is amended--
+ (1) in paragraph (2)(B) by striking `subclause (A) of this clause (2)'
+ and inserting in lieu thereof `subparagraph (A)';
+ (2) in paragraph (2)(E) by striking `subclauses (A)-(D) of this clause (2)'
+ and inserting in lieu thereof `subparagraphs (A), (B), (C), and (D)';
+ (3) in paragraph (4)(A) by striking `subclause (C) of this clause (4)'
+ and inserting in lieu thereof `subparagraph (C)'; and
+ (4) in paragraph (4)(B) by striking `subclause (C) of this clause (4)'
+ and inserting in lieu thereof `subparagraph (C)'.
+SEC. 4. DISBURSEMENT OBJECTIVES.
+ (a) IN GENERAL- Subchapter II of chapter 33 of title 31, United States Code,
+ is amended by adding at the end thereof the following:
+`Sec. 3335. Timely disbursement of Federal funds
+ `(a) Each head of an executive agency (other than the Tennessee Valley
+ Authority) shall, under such regulations as the Secretary of the Treasury
+ shall prescribe, provide for the timely disbursement of Federal funds through
+ cash, checks, electronic funds transfer, or any other means identified by
+ the Secretary.
+ `(b) The Secretary may collect from any executive agency which does not
+ comply with subsection (a) a charge in an amount the Secretary determines to
+ be the cost to the general fund of the Treasury caused by such noncompliance.
+ `(c) The amounts of charges collected from an executive agency under this
+ section shall be deposited in the Treasury and credited as miscellaneous
+ receipts.
+ `(d) Any charge assessed by the Secretary under this section, to the maximum
+ extent practicable--
+ `(1) shall be paid out of appropriations available for executive agency
+ operations; and
+ `(2) shall not be paid from amounts available for funding programs of an
+ executive agency.'.
+ (b) CLERICAL AMENDMENT- The chapter analysis for chapter 33 of title 31,
+ United States Code, is amended by inserting after the item relating to
+ section 3334 the following:
+`3335. Timely disbursement of Federal funds.'.
+ (c) REGULATIONS- The Secretary of the Treasury shall prescribe regulations
+ under section 3335 of title 31, United States Code, as added by subsection
+ (a), to ensure the full implementation of that section by the date which
+ is 2 years after the date of the enactment of this Act.
+SEC. 5. PAYMENT OF INTEREST.
+ (a) DEFINITION OF STATE- Section 6501 of title 31, United States Code,
+ is amended--
+ (1) by redesignating paragraphs (7), (8), and (9) as paragraphs (8), (9),
+ and (10), respectively;
+ (2) by inserting after paragraph (6) the following new paragraph:
+ `(7) `Secretary' means the Secretary of the Treasury.'; and
+ (3) by striking out paragraph (9) (as redesignated by  paragraph (1))
+ and inserting in lieu thereof the following:
+ `(9) `State' means a State of the United States, the District of Columbia, a
+ territory or possession of the United States, and an agency, instrumentality,
+ or fiscal agent of a State but does not mean a local government of a State.'.
+ (b) INTERGOVERNMENTAL TRANSFERS OF FUNDS; PAYMENT OF INTEREST- Section 6503
+ of title 31, United States Code, is amended to read as follows:
+`Sec. 6503. Intergovernmental financing
+ `(a) Consistent with program purposes and with regulations of the Secretary,
+ and in accordance with an agreement under subsection (b) entered into by
+ the Secretary and a State--
+ `(1) the head of an executive agency (other than the Tennessee Valley
+ Authority) carrying out a program shall schedule transfers of funds to the
+ State under the program so as to minimize the time elapsing between transfer
+ of funds from the United States Treasury and the issuance or redemption of
+ checks, warrants, or payments by other means by a State; and
+ `(2) the State shall minimize the time elapsing between transfer of funds
+ from the United States Treasury and the issuance or redemption of checks,
+ warrants, or payments by other means for program purposes.
+ `(b)(1) The Secretary shall enter into an agreement with each State to which
+ transfers of funds are made, which establishes procedures and requirements
+ for implementing this section.
+ `(2) An agreement under this subsection shall--
+ `(A) specify procedures chosen by the State for carrying out transfers of
+ funds under the agreement;
+ `(B) describe the process by which the Federal Government shall review and
+ approve the implementation of the procedures specified under subparagraph (A);
+ `(C) establish the methods to be used for  calculating and documenting
+ payments of interest pursuant to this section; and
+ `(D) specify those types of costs directly incurred by the State for interest
+ calculations required under this section, and require the Secretary to
+ consider those costs in computing payments under this section.
+ `(3) The Secretary shall issue regulations establishing procedures and
+ requirements for implementing this section with respect to a State with
+ which no agreement is entered into by the Secretary under paragraph (1). Such
+ regulations shall apply to a State until such time as the Secretary enters
+ into an agreement with the State under paragraph (1).
+ `(c)(1) The Secretary shall issue regulations that shall require a State,
+ when not inconsistent with program purposes, to pay interest to the United
+ States on funds from the time funds are deposited by the United States to
+ the State's account until the time that funds are paid out by the State
+ in order to redeem checks or warrants or make payments by other means for
+ program purposes. Except as provided under paragraph (3)(B) (relating to the
+ Unemployment Trust Fund), the interest payable under this subsection shall
+ be calculated at a rate equal to the average of the bond equivalent rates
+ of 13-week Treasury bills auctioned during the period for which interest
+ is calculated, as determined by the Secretary.
+ `(2) Except as provided in paragraph (3), amounts received by the United
+ States as payment of interest under this subsection shall be deposited in
+ the Treasury and credited as miscellaneous receipts.
+ `(3)(A) Amounts paid by a State under paragraph (1) as interest on funds
+ paid to a State from a trust fund for which the Secretary is the trustee
+ shall be credited to such trust fund.
+ `(B) Notwithstanding any other provision of this section, amounts of interest
+ paid by a State, on funds drawn from its account in the Unemployment Trust
+ Fund, shall be deposited into that account and shall consist of actual
+ interest earnings by the State, less related banking costs incurred by the
+ State, for the period for which interest is calculated.
+ `(d)(1) If a State disburses its own funds for program purposes in accordance
+ with Federal law, Federal regulation, or Federal-State agreement, the State
+ shall be entitled to interest from the time the State's funds are paid out to
+ redeem checks or warrants, or make payments by other means, until the Federal
+ funds are deposited to the State's bank account. The Secretary shall pay,
+ out of any money in the Treasury not otherwise appropriated, such amounts as
+ may be necessary for interest owed to a State under this subsection. Such
+ interest shall be calculated, at a rate equal to the average of the bond
+ equivalent rates of 13-week Treasury bills auctioned during the period for
+ which interest is calculated, as determined by the Secretary.
+ `(2) If interest is paid under this subsection as a result of a State
+ disbursing its own funds before receiving payment from a trust fund for
+ which the Secretary of the Treasury is the trustee, such interest shall be
+ charged against such trust fund.
+ `(e) The budget submitted by the President under section 1105 of this title
+ for a fiscal year shall include a statement specifying, for the most recently
+ completed fiscal year, amounts of interest accrued to the Federal Government
+ under subsection (c) and amounts of interest paid to States under subsection
+ (d).
+ `(f) If a State receives refunds of funds disbursed by the State under
+ a Federal program, the State shall return those refunds to the Federal
+ executive agency administering the program or apply those refunds to reduce
+ the amount of funds owed by the Federal Government to the State under such
+ program. Interest earned on such refunds shall be considered when setting
+ overall interest obligations between the State and the Federal Government
+ as required by this section.
+ `(g) If the Federal Government makes a payment to a recipient under
+ a Federal program, and a portion of the payment is an amount which the
+ Federal Government is paying to such recipient on behalf of a State, such
+ amount shall be considered to be a transfer of funds between the Federal
+ Government and the State for purposes of this section.
+ `(h) A State may not be required by a law or regulation of the United
+ States to deposit funds received by it in a separate bank account. However,
+ a State shall account for funds made available to the State as United States
+ Government funds in the accounts of the State. The head of the State agency
+ concerned shall make periodic authenticated reports to the head of the
+ appropriate Federal executive agency on the status and the application of
+ the funds, the liabilities and obligations on hand, and other information
+ required by the head of the executive agency. Records related to the funds
+ received by the State shall be made available to the head of the executive
+ agency, the Inspector General of the executive agency, and the Comptroller
+ General for necessary audits.
+ `(i) The Secretary shall prescribe methods for the payment of interest
+ under this section between the Federal Government and the States, including
+ provisions for offsetting amounts owed by the respective parties. Such
+ methods of payment shall require payment of interest on an annual basis
+ and shall provide for comparable treatment in manner, technique, and timing
+ for both the States and the Federal Government.
+ `(j) Consistent with Federal program purposes and regulations of the Director
+ of the Office of Management and Budget, the head of a Federal executive
+ agency carrying out a program shall execute grant awards to States on a
+ timely basis to assure the availability of funds to accomplish transfers
+ in compliance with subsection (a) of this section.'.
+ (c) CLERICAL AMENDMENT- The item relating to section 6503 in the chapter
+ analysis for chapter 65 of title 31, United States Code, is amended to read
+ as follows:
+`6503. Intergovernmental financing.'.
+ (d) AGREEMENTS WITH STATES-
+ (1) SECRETARY'S EFFORTS TO ENTER AGREEMENTS- The Secretary of the Treasury
+ shall make all reasonable efforts to enter into an agreement with each
+ State under section 6503(b) of title 31, United States Code, as added by
+ this section (relating to procedures and requirements for transfers of
+ funds between executive agencies and States), by not later than 2 years
+ after the date of the enactment of this Act.
+ (2) EFFECTIVE DATE OF REGULATIONS- Regulations issued by the Secretary of the
+ Treasury under subsection (b)(3) of section 6503 of title 31, United States
+ Code, as added by the section (relating to procedures and requirements for
+ transfers of funds involving States not entering agreements), shall take
+ effect 2 years after the date of the enactment of this Act.
+ (e) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on the date of enactment of this Act, except that subsections (c) and (d)
+ of section 6503 of title 31, United States Code, as added by subsection
+ (b) of this section (relating to payments of interest between the Federal
+ Government and State governments), shall take effect 2 years after the date
+ of enactment of this Act.
+SEC. 6. GAO REPORT.
+ Four years after the date of the enactment of this Act the Comptroller General
+ shall submit an audit of the implementation of the amendments made by section
+ 5 and submit a report to the Congress describing the results of that audit.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

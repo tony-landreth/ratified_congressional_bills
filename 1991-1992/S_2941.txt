@@ -1,0 +1,674 @@
+ 
+--S.2941--
+S.2941
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To provide the Administrator of the Small Business Administration continued
+authority to administer the Small Business Innovation Research Program,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Small Business Research
+  and Development Enhancement Act of 1992'.
+  (b) TABLE OF CONTENTS- The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--SMALL BUSINESS INNOVATION RESEARCH PROGRAM
+Sec. 101. Short title.
+Sec. 102. Findings and purposes.
+Sec. 103. Amendments to small business innovation research program.
+Sec. 104. Extension of SBIR program.
+Sec. 105. Reports of the Comptroller General.
+Sec. 106. Recommendations of the Secretary of Defense.
+TITLE II--SMALL BUSINESS TECHNOLOGY TRANSFER PILOT PROGRAM
+Sec. 201. Short title.
+Sec. 202. Establishment of small business technology transfer pilot program.
+TITLE III--MISCELLANEOUS PROVISIONS
+Sec. 301. Discretionary technical assistance to SBIR awardees.
+Sec. 302. Extension of the technology transfer demonstration program.
+Sec. 303. Reporting requirements.
+Sec. 304. Small Business Institutes.
+Sec. 305. Additional SBIR and STTR provisions.
+Sec. 306. Sense of the Congress concerning American-made equipment and
+products.
+Sec. 307. Technical corrections.
+TITLE I--SMALL BUSINESS INNOVATION RESEARCH PROGRAM
+SEC. 101. SHORT TITLE.
+  This title may be cited as the `Small Business Innovation Research Program
+  Reauthorization Act of 1992'.
+SEC. 102. FINDINGS AND PURPOSES.
+  (a) FINDINGS- The Congress finds that--
+  (1) the small business innovation research program established under
+  the Small Business Innovation Development Act of 1982 (hereafter in this
+  Act referred to as the `SBIR' program) has been a successful method of
+  involving small business concerns in Federal research and development;
+  (2) the small business innovation research program has been an effective
+  catalyst for the development of technological innovations by small business
+  concerns;
+  (3) small business innovation research program participants have provided
+  high quality research and development in a cost-effective manner;
+  (4) the innovative products and services developed by small business
+  concerns participating in the small business innovation research program
+  have been important to the national defense, as well as to the missions
+  of the other participating Federal agencies;
+  (5) the small business innovation research program has effectively stimulated
+  the commercialization of technology developed through Federal research and
+  development, benefiting both the public and private sectors of the Nation;
+  (6) by encouraging the development and commercialization of technological
+  innovations, the small business innovation research program has created
+  jobs, expanded business opportunities for small firms, stimulated the
+  development of new products and services, and improved the competitiveness
+  of the Nation's high technology industries;
+  (7) the small business innovation research program has also helped to
+  increase exports from small business concerns;
+  (8) despite the general success of the small business innovation research
+  program, the proportion of Federal research and development funds received
+  by small business concerns has not increased over the life of the program,
+  but has remained at 3 percent; and
+  (9) although the participating Federal agencies have successfully implemented
+  most aspects of the small business innovation research program, additional
+  outreach efforts are necessary to stimulate increased participation of
+  socially and economically disadvantaged small business concerns.
+  (b) PURPOSES- The purposes of this title are--
+  (1) to expand and improve the small business innovation research program;
+  (2) to emphasize the program's goal of increasing private sector
+  commercialization of technology developed through Federal research and
+  development;
+  (3) to increase small business participation in Federal research and
+  development; and
+  (4) to improve the Federal Government's dissemination of information
+  concerning the small business innovation research program, particularly
+  with regard to program participation by women-owned small business concerns
+  and by socially and economically disadvantaged small business concerns.
+SEC. 103. AMENDMENTS TO SMALL BUSINESS INNOVATION RESEARCH PROGRAM.
+  (a) DEFINITION OF THE SMALL BUSINESS INNOVATION RESEARCH PROGRAM- Section
+  9(e)(4) of the Small Business Act (15 U.S.C. 638(e)(4)) is amended--
+  (1) in subparagraph (A), by inserting `that appear to have commercial
+  potential, as described in subparagraph (B)(ii),' after `ideas'; and
+  (2) by striking subparagraphs (B) and (C) and inserting the following:
+  `(B) a second phase, to further develop proposals which meet particular
+  program needs, in which awards shall be made based on the scientific and
+  technical merit and feasibility of the proposals, as evidenced by the first
+  phase, considering, among other things, the proposal's commercial potential,
+  as evidenced by--
+  `(i) the small business concern's record of successfully commercializing
+  SBIR or other research;
+  `(ii) the existence of second phase funding commitments from private sector
+  or non-SBIR funding sources;
+  `(iii) the existence of third phase, follow-on commitments for the subject
+  of the research; and
+  `(iv) the presence of other indicators of the commercial potential of the
+  idea; and
+  `(C) where appropriate, a third phase--
+  `(i) in which commercial applications of SBIR-funded research or research and
+  development are funded by non-Federal sources of capital or, for products or
+  services intended for use by the Federal Government, by follow-on non-SBIR
+  Federal funding awards; and
+  `(ii) for which awards from non-SBIR Federal funding sources are used for
+  the continuation of research or research and development that has been
+  competitively selected using peer review or scientific review criteria; and'.
+  (b) REQUIRED EXPENDITURES FOR SBIR BY FEDERAL AGENCIES- Section 9(f)
+  of the Small Business Act (15 U.S.C. 638(f)) is amended to read as follows:
+  `(f) FEDERAL AGENCY EXPENDITURES FOR THE SBIR PROGRAM-
+  `(1) REQUIRED EXPENDITURE AMOUNTS- Each Federal agency which has an
+  extramural budget for research or research and development in excess of
+  $100,000,000 for fiscal year 1992, or any fiscal year thereafter, shall
+  expend with small business concerns--
+  `(A) not less than 1.5 percent of such budget in each of fiscal years 1993
+  and 1994;
+  `(B) not less than 2.0 percent of such budget in each of fiscal years 1995
+  and 1996; and
+  `(C) not less than 2.5 percent of such budget in each fiscal year thereafter,
+specifically in connection with SBIR programs which meet the requirements
+of this section, policy directives, and regulations issued under this section.
+  `(2) LIMITATIONS- A Federal agency shall not--
+  `(A) use any of its SBIR budget established pursuant to paragraph (1)
+  for the purpose of funding administrative costs of the program, including
+  costs associated with salaries and expenses; or
+  `(B) make available for the purpose of meeting the requirements of paragraph
+  (1) an amount of its extramural budget for basic research which exceeds
+  the percentages specified in paragraph (1).
+  `(3) EXCLUSION OF CERTAIN FUNDING AGREEMENTS- Funding agreements with
+  small business concerns for research or research and development which
+  result from competitive or single source selections other than an SBIR
+  program shall not be considered to meet any portion of the percentage
+  requirements of paragraph (1).'.
+  (c) INCLUSION OF CERTAIN DEPARTMENT OF DEFENSE RESEARCH AND DEVELOPMENT
+  ACTIVITIES- Section 9(e) of the Small Business Act (15 U.S.C. 638(e)) is
+  amended in paragraph (1), by striking `for the Department of Defense' and
+  all that follows through `development' and inserting `for the Department
+  of Energy it shall not include amounts obligated for atomic energy defense
+  programs solely for weapons activities or for naval reactor programs'.
+  (d) SBIR SOLICITATIONS- Section 9(g) of the Small Business Act (15
+  U.S.C. 638(g)) is amended--
+  (1) by redesignating paragraphs (3) through (7) as paragraphs (4) through
+  (8), respectively; and
+  (2) by inserting after paragraph (2) the following new paragraph:
+  `(3) unilaterally determine research topics within the agency's SBIR
+  solicitations, giving special consideration to broad research topics and
+  to topics that further 1 or more critical technologies, as identified by--
+  `(A) the National Critical Technologies Panel (or its successor) in the 1991
+  report required under section 603 of the National Science and Technology
+  Policy, Organization, and Priorities Act of 1976, and in subsequent reports
+  issued under that authority; or
+  `(B) the Secretary of Defense, in the 1992 report issued in accordance with
+  section 2522 of title 10, United States Code, and in subsequent reports
+  issued under that authority;'.
+  (e) DEADLINE FOR FINAL PAYMENT UNDER SBIR FUNDING AGREEMENTS- Section
+  9(g)(7) of the Small Business Act (15 U.S.C. 638(g)(7)) (as redesignated
+  by subsection (d)(1)) is amended by inserting before the semicolon the
+  following: `and, in all cases, make payment to recipients under such
+  agreements in full, subject to audit, on or before the last day of the
+  12-month period beginning on the date of completion of such requirements'.
+  (f) MODIFICATIONS TO SBIR POLICY DIRECTIVES- Section 9(j) of the Small
+  Business Act (15 U.S.C. 638(j)) is amended--
+  (1) in paragraph (2), by redesignating subparagraphs (A) through (H)
+  as clauses (i) through (viii), respectively;
+  (2) by redesignating paragraphs (1) through (7) as subparagraphs (A)
+  through (G), respectively;
+  (3) by inserting before `The Small Business Administration' the following:
+  `(1) POLICY DIRECTIVES- '; and
+  (4) by adding at the end the following new paragraph:
+  `(2) MODIFICATIONS- Not later than 90 days after the date of enactment
+  of the Small Business Research and Development Enhancement Act of 1992,
+  the Administrator shall modify the policy directives issued pursuant to
+  this subsection to provide for--
+  `(A) retention by a small business concern of the rights to data generated
+  by the concern in the performance of an SBIR award for a period of not
+  less than 4 years;
+  `(B) continued use by a small business concern participating in the
+  third phase of the SBIR program, as a directed bailment, of any property
+  transferred by a Federal agency to the small business concern in the
+  second phase of an SBIR program for a period of not less than 2 years,
+  beginning on the initial date of the concern's participation in the third
+  phase of such program;
+  `(C) procedures to ensure, to the extent practicable, that an agency which
+  intends to pursue research, development, or production of a technology
+  developed by a small business concern under an SBIR program enters into
+  follow-on, non-SBIR funding agreements with the small business concern
+  for such research, development, or production;
+  `(D) an increase to $100,000 in the amount of funds which an agency may
+  award in the first phase of an SBIR program, and to $750,000 in the second
+  phase of an SBIR program, and an adjustment of such amounts once every 5
+  years to reflect economic adjustments and programmatic considerations;
+  `(E) a process for notifying the participating SBIR agencies and potential
+  SBIR participants of the 1991, 1992, and the current critical technologies,
+  as identified--
+  `(i) by the National Critical Technologies Panel (or its successor), in
+  accordance with section 603 of the National Science and Technology Policy,
+  Organization, and Priorities Act of 1976; or
+  `(ii) by the Secretary of Defense, in accordance with section 2522 of
+  title 10, United States Code;
+  `(F) enhanced outreach efforts to increase the participation of socially and
+  economically disadvantaged small business concerns, as defined in section
+  8(a)(4), and the participation of small businesses that are 51 percent owned
+  and controlled by women in technological innovation and in SBIR programs,
+  including the third phase of such programs, and the collection of data to
+  document such participation;
+  `(G) technical and programmatic guidance to encourage agencies to develop
+  gap-funding programs to address the delay between an award for the first
+  phase of an SBIR program and the application for and extension of an award
+  for the second phase of such program;
+  `(H) procedures to ensure that a small business concern that submits a
+  proposal for a funding agreement for the first phase of an SBIR program
+  and that has received more than 15 second phase SBIR awards during the
+  preceding 5 fiscal years is able to demonstrate the extent to which it
+  was able to secure third phase funding to develop concepts resulting from
+  previous second phase SBIR awards; and
+  `(I) procedures to ensure that agencies participating in the SBIR program
+  retain the information submitted under subparagraph (H) at least until
+  the General Accounting Office submits the report required under section
+  105 of the Small Business Research and Development Enhancement Act of 1992.'.
+  (g) ELIMINATION OF SURVEYING AND REPORTING REQUIREMENT- Section 9(k)
+  of the Small Business Act (15 U.S.C. 638(k)) is amended to read as follows:
+  `(k) [Reserved].'.
+  (h) REPORTING OF AWARDS MADE FROM SINGLE PROPOSAL, TO MULTIPLE AWARD WINNERS,
+  OR TO CRITICAL TECHNOLOGY TOPICS-
+  (1) IN GENERAL- Section 9 of the Small Business Act (15 U.S.C. 638) is
+  amended by adding at the end the following new subsection:
+  `(l) REPORTING OF AWARDS MADE FROM SINGLE PROPOSAL, TO MULTIPLE AWARD
+  WINNERS, OR TO CRITICAL TECHNOLOGY TOPICS-
+  `(1) SINGLE PROPOSAL- If a Federal agency required to establish an
+  SBIR program under subsection (f) makes an award with respect to an
+  SBIR solicitation topic or subtopic for which the agency received only
+  1 proposal, the agency shall provide written justification for making
+  the award in its next quarterly report to the Administration and in the
+  agency's next annual report required under subsection (g)(8).
+  `(2) MULTIPLE AWARDS- An agency referred to in paragraph (1) shall include
+  in its next annual report required under subsection (g)(8) an accounting of
+  the awards the agency has made for the first phase of an SBIR program during
+  the reporting period to entities that have received more than 15 awards
+  for the second phase of an SBIR program during the preceding 5 fiscal years.
+  `(3) CRITICAL TECHNOLOGY  AWARDS- An  agency referred to in paragraph (1)
+  shall include in its next annual report required under subsection (g)(8),
+  an accounting of the number of awards it has made to critical technology
+  topics, as defined in subsection (g)(3), including an identification of
+  the specific critical technologies topics, and the percentage by number
+  and dollar amount of the agency's total SBIR awards to such critical
+  technology topics.'.
+  (2) CONFORMING AMENDMENT- Section 9(g)(5) of the Small Business Act
+  (15 U.S.C. 638(g)(5)) (as redesignated by subsection (d)) is amended by
+  inserting `subject to subsection (l),' before `unilaterally'.
+  (i) INFORMATION ON ALLOWABLE EXPENSES- Section 9(g)(5) of the Small
+  Business Act (as redesignated by subsection (d)) is amended by inserting
+  before the semicolon the following: `and inform each awardee under such
+  an agreement, to the extent possible, of the expenses of the awardee that
+  will be allowable under the funding agreement'.
+SEC. 104. EXTENSION OF SBIR PROGRAM.
+  (a) REPEAL PROVISION- Section 5 of the Small Business Innovation Development
+  Act of 1982 is hereby repealed.
+  (b) TERMINATION DATE- Section 9 of the Small Business Act (15 U.S.C. 638)
+  is amended by adding at the end the following:
+  `(m) TERMINATION- The authorization to carry out the Small Business
+  Innovation Research Program under this section shall terminate on October
+  1, 2000.'.
+SEC. 105. REPORTS OF THE COMPTROLLER GENERAL.
+  (a) INTERIM REPORT-
+  (1) IN GENERAL- The Comptroller General of the United States shall submit
+  to the Congress an interim report concerning the quality of research
+  performed under SBIR program funding agreements entered into during fiscal
+  year 1993 and thereafter. Copies of the interim report shall be furnished
+  to each agency that has participated in the SBIR program in fiscal year
+  1993 or thereafter.
+  (2) CONTENTS OF REPORT- The Comptroller General shall include in the
+  interim report required under paragraph (1)--
+  (A) an assessment of the quality of the research performed under the SBIR
+  program funding agreements entered into by each agency that has participated
+  in the SBIR program beginning in fiscal year 1993 or thereafter, specifically
+  addressing--
+  (i) with respect to each such agency, whether or not there has been a
+  demonstrable reduction in research quality; and
+  (ii) in the case of such reduction, whether an increase in each such
+  agency's required SBIR participation in accordance with section 9(f)(1)
+  of the Small Business Act (as amended by subsection (b) of this section)
+  would adversely affect the performance of the agency's research programs;
+  (B) an analysis of the program authorized by section 301 of the Small
+  Business Research and Development Enhancement Act of 1992, considering,
+  among other things--
+  (i) the extent to which each SBIR agency has implemented the program and
+  the extent to which the program has improved the quality of agency-sponsored
+  research and development;
+  (ii) the effect of the program on recipient companies' ability to develop
+  and commercialize technology;
+  (iii) the cost of the program and the average cost per recipient company; and
+  (iv) the extent to which SBIR companies continue to use the service after
+  completion of the program; and
+  (C) such other factors as the Comptroller General may deem appropriate.
+  (b) FINAL REPORT- The Comptroller General of the United States shall
+  transmit to the Congress a final report containing--
+  (1) a review of the progress made by Federal agencies in meeting the
+  requirements of section 9(f) of the Small Business Act (as amended by this
+  Act), including increases in expenditures required by that subsection;
+  (2) an analysis of participation by small business concerns in the third
+  phase of SBIR programs, including a systematic evaluation of the techniques
+  adopted by Federal agencies to foster commercialization;
+  (3) an analysis of the extent to which awards under SBIR programs are made
+  pursuant to section 9(l) of the Small Business Act (as added by section
+  103(h)) in cases in which a program solicitation receives only 1 proposal;
+  (4) an analysis of the extent to which awards in the first phase of the
+  SBIR program are made to small business concerns that have received more
+  than 15 second phase awards under the SBIR program in the preceding 5
+  fiscal years, considering--
+  (A) the extent to which such concerns were able to secure Federal or
+  private sector follow-on funding;
+  (B) the extent to which the research developed under such awards was
+  commercialized; and
+  (C) the amount of commercialization of research developed under such awards,
+  as compared to the amount of commercialization of SBIR research for the
+  entire SBIR program;
+  (5) the results of periodic random audits of the extramural budget of each
+  such Federal agency;
+  (6) a review of the extent to which the purposes of this title and the Small
+  Business Innovation Development Act of 1982 have been met with regard to
+  fostering and encouraging the participation of women-owned small business
+  concerns and socially and economically disadvantaged small business concerns
+  (as defined in the Small Business Act) in technological innovation, in
+  general, and the SBIR program, in particular;
+  (7) an analysis of the effectiveness of the SBIR program in promoting the
+  development of the critical technologies identified by the Secretary of
+  Defense and the National Critical Technologies Panel (or its successor),
+  as described in subparagraph 9(j)(2)(E) of the Small Business Act;
+  (8) an analysis of the impact of agency application review periods and
+  funding cycles on SBIR program awardees' financial status and ability to
+  commercialize; and
+  (9) recommendations to the Congress for tracking the extent to which foreign
+  firms, or United States firms with substantial foreign ownership interests,
+  benefit from technology or products developed as a direct result of SBIR
+  research or research and development.
+  (c) DATES OF SUBMISSION- The report required--
+  (1) under subsection (a), shall be submitted to the Congress not later
+  than March 31, 1995; and
+  (2) under subsection (b), shall be submitted to the Congress not later
+  than 5 years after the date of enactment of this title.
+SEC. 106. RECOMMENDATIONS OF THE SECRETARY OF DEFENSE.
+  Not later than March 31, 1996, the Secretary of Defense shall submit
+  a recommendation to the Congress addressing whether there has been a
+  demonstrable reduction in the quality of research performed under the SBIR
+  program since the beginning of fiscal year 1993, such that increasing the
+  percentage under section 9(f)(1)(C) of the Small Business Act (as amended
+  by section 103 of this Act) would adversely affect the performance of the
+  research programs of the Department of Defense.
+TITLE II--SMALL BUSINESS TECHNOLOGY TRANSFER PILOT PROGRAM
+SEC. 201. SHORT TITLE.
+  This title may be cited as the `Small Business Technology Transfer Act
+  of 1992'.
+SEC. 202. ESTABLISHMENT OF SMALL BUSINESS TECHNOLOGY TRANSFER PILOT PROGRAM.
+  (a) ADDITIONAL SBA DUTIES- Section 9(b) of the Small Business Act (15
+  U.S.C. 638(b)) is amended--
+  (1) in paragraph (4), by inserting `and small business technology transfer
+  pilot programs' after `small business innovation research programs'; and
+  (2) in paragraphs (5), (6), and (7), by inserting `and STTR' after `SBIR'
+  each place such term appears.
+  (b) SMALL BUSINESS TECHNOLOGY TRANSFER PILOT PROGRAM DEFINED- Section 9(e)
+  of the Small Business Act (15 U.S.C. 638(e)) is amended--
+  (1) in paragraph (4), by striking `and' at the end;
+  (2) in paragraph (5), by striking the period at the end and inserting a
+  semicolon; and
+  (3) by adding at the end the following new paragraphs:
+  `(6) the term `Small Business Technology Transfer Program' or `STTR' means
+  a pilot program under which a portion of a Federal agency's extramural
+  research or research and development effort is reserved for award to
+  small business concerns for cooperative research and development through
+  a uniform process having--
+  `(A) a first phase, to determine, to the extent possible, the scientific,
+  technical, and commercial merit and feasibility of ideas submitted pursuant
+  to STTR program solicitations;
+  `(B) a second phase, to further develop proposed ideas to meet particular
+  program needs, in which awards shall be made based on the scientific,
+  technical, and commercial merit and feasibility of the idea, as evidenced
+  by the first phase and by other relevant information; and
+  `(C) where appropriate, a third phase--
+  `(i) in which commercial applications of STTR-funded research or research and
+  development are funded by non-Federal sources of capital or, for products or
+  services intended for use by the Federal Government, by follow-on non-STTR
+  Federal funding awards; and
+  `(ii) for which awards from non-STTR Federal funding sources are used for
+  the continuation of research or research and development that has been
+  competitively selected using peer review or scientific review criteria;
+  `(7) the term `cooperative research and development' means research or
+  research and development conducted jointly by a small business concern
+  and a research institution in which not less than 40 percent of the work
+  is performed by the small business concern, and not less than 30 percent
+  of the work is performed by the research institution; and
+  `(8) the term `research institution' means a nonprofit institution, as
+  defined in section 4(5) of the Stevenson-Wydler Technology Innovation Act
+  of 1980, and includes federally funded research and development centers,
+  as identified by the National Scientific Foundation in accordance with
+  the governmentwide  Federal Acquisition Regulation issued in accordance
+  with section 35(c)(1) of the Office of Federal Procurement Policy Act
+  (or any successor regulation thereto).'.
+  (c) ESTABLISHMENT OF SMALL BUSINESS TECHNOLOGY TRANSFER PROGRAMS BY CERTAIN
+  FEDERAL AGENCIES- Section 9 of the Small Business Act (15 U.S.C. 638)
+  is amended by adding at the end the following new subsections:
+  `(n) Required Expenditures for STTR by Federal Agencies-
+  `(1) REQUIRED EXPENDITURE AMOUNTS- Each Federal agency which has an
+  extramural budget for research or research and development in excess of
+  $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend
+  with small business concerns--
+  `(A) not less than 0.05 percent of such budget in fiscal year 1994;
+  `(B) not less than 0.1 percent of such budget in fiscal year 1995; and
+  `(C) not less than 0.15 percent of such budget in fiscal year 1996,
+specifically in connection with STTR programs which meet the requirements
+of this section, policy directives, and regulations issued under this section.
+  `(2) LIMITATIONS- A Federal agency shall not--
+  `(A) use any of its STTR budget established pursuant to paragraph (1)
+  for the purpose of funding administrative costs of the program, including
+  costs associated with salaries and expenses, or, in the case of a small
+  business concern or a research institution, costs associated with salaries,
+  expenses, and administrative overhead (other than those direct or indirect
+  costs allowable under guidelines of the Office of Management and Budget
+  and the governmentwide Federal Acquisition Regulation issued in accordance
+  with section 25(c)(1) of the Office of Federal Procurement Policy Act); or
+  `(B) make available for the purpose of meeting the requirements of paragraph
+  (1) an amount of its extramural budget for basic research which exceeds
+  the percentage specified in paragraph (1).
+  `(3) EXCLUSION OF CERTAIN FUNDING AGREEMENTS- Funding agreements with
+  small business concerns for research or research and development which
+  result from competitive or single source selections other than an STTR
+  program shall not be considered to meet any portion of the percentage
+  requirements of paragraph (1).
+  `(o) FEDERAL AGENCY STTR AUTHORITY- Each Federal agency required to establish
+  an STTR program in accordance with subsection (n) and regulations issued
+  under this Act, shall--
+  `(1) unilaterally determine categories of projects to be included in its
+  STTR program;
+  `(2) issue STTR solicitations in accordance with a schedule determined
+  cooperatively with the Administration;
+  `(3) unilaterally determine research topics within the agency's STTR
+  solicitations, giving special consideration to broad research topics and
+  to topics that further 1 or more critical technologies, as identified--
+  `(A) by the National Critical Technologies Panel (or its successor) in
+  reports required under section 603 of the National Science and Technology
+  Policy, Organization, and Priorities Act of 1976; or
+  `(B) by the Secretary of Defense, in accordance with section 2522 of title
+  10, United States Code;
+  `(4) unilaterally receive and evaluate proposals resulting from STTR
+  solicitations;
+  `(5) unilaterally select awardees for its STTR funding agreements and
+  inform each awardee under such an agreement, to the extent possible, of the
+  expenses of the awardee that will be allowable under the funding agreement;
+  `(6) administer its own STTR funding agreements (or delegate such
+  administration to another agency);
+  `(7) make payments to recipients of STTR funding agreements on the basis of
+  progress toward or completion of the funding agreement requirements and,
+  in all cases, make payment to recipients under such agreements in full,
+  subject to audit, on or before the last day of the 12-month period beginning
+  on the date of the completion of such requirements;
+  `(8) submit an annual report on the STTR program to the Administration
+  and the Office of Science and Technology Policy;
+  `(9) develop a model agreement not later than July 31, 1993, to be approved
+  by the Administration, for allocating between small business concerns and
+  research institutions intellectual property rights and rights, if any,
+  to carry out follow-on research, development, or commercialization;
+  `(10) develop, in consultation with the Office of Federal Procurement Policy
+  and the Office of Government Ethics, procedures to ensure that federally
+  funded research and development centers (as defined in subsection (e)(8))
+  that participate in STTR agreements--
+  `(A) are free from organizational conflicts of interests relative to the
+  STTR program;
+  `(B) do not use privileged information gained through work performed for an
+  STTR agency or private access to STTR agency personnel in the development
+  of an STTR proposal; and
+  `(C) use outside peer review, as appropriate; and
+  `(11) not later than July 31, 1993, develop procedures for assessing the
+  commercial merit and feasibility of STTR proposals, as evidenced by--
+  `(A) the small business concern's record of successfully commercializing
+  STTR or other research;
+  `(B) the existence of second phase funding commitments from private sector
+  or non-STTR funding sources;
+  `(C) the existence of third phase follow-on commitments for the subject
+  of the research; and
+  `(D) the presence of other indicators of the commercial potential of
+  the idea.
+  `(p) STTR POLICY DIRECTIVE-
+  `(1) ISSUANCE- The Administrator shall issue a policy directive  for the
+  general conduct of the STTR programs within the Federal Government. Such
+  policy directive shall be issued after consultation with--
+  `(A) the heads of each of the Federal agencies required by subsection (n)
+  to establish an STTR program;
+  `(B) the Commissioner of Patents and Trademarks; and
+  `(C) the Director of the Office of Federal Procurement Policy.
+  `(2) CONTENTS- The policy directive required by paragraph (1) shall
+  provide for--
+  `(A) simplified, standardized, and timely STTR solicitations;
+  `(B) a simplified, standardized funding process that provides for--
+  `(i) the timely receipt and review of proposals;
+  `(ii) outside peer review, if appropriate;
+  `(iii) protection of proprietary information provided in proposals;
+  `(iv) selection of awardees;
+  `(v) retention by a small business concern of the rights to data generated
+  by the concern in the performance of an STTR award for a period of not
+  less than 4 years;
+  `(vi) continued use by a small business concern, as a directed bailment,
+  of any property transferred by a Federal agency to the small business
+  concern in the second phase of the STTR program for a period of not less
+  than 2 years, beginning on the initial date of the concern's participation
+  in the third phase of such program;
+  `(vii) cost sharing;
+  `(viii) cost principles and payment schedules; and
+  `(ix) 1-year awards for the first phase of an STTR program, generally not to
+  exceed $100,000, and 2-year awards for the second phase of an STTR program,
+  generally not to exceed $500,000, greater or lesser amounts to be awarded
+  at the discretion of the awarding agency;
+  `(C) minimizing regulatory burdens associated with participation in STTR
+  programs;
+  `(D) guidelines for a model agreement, to be used by all agencies, for
+  allocating between small business concerns and research institutions
+  intellectual property rights and rights, if any, to carry out follow-on
+  research, development, or commercialization;
+  `(E) procedures to ensure that--
+  `(i) a recipient of an STTR award is a small business concern, as defined
+  in section 3 and the regulations promulgated thereunder; and
+  `(ii) such small business concern exercises management and control of
+  the performance of the STTR funding agreement pursuant to a business plan
+  providing for the commercialization of the technology that is the subject
+  matter of the award; and
+  `(F) procedures to ensure, to the extent practicable, that an agency which
+  intends to pursue research, development, or production of a technology
+  developed by a small business concern under an STTR program enters into
+  follow-on, non-STTR funding agreements with the small business concern
+  for such research, development, or production.'.
+  (d) TIMING OF ISSUANCE OF POLICY DIRECTIVE- The policy directive required
+  by section 9(p) of the Small Business Act (as added by subsection (c)
+  of this section) shall be published--
+  (1) in proposed form (with an opportunity for public comment of not less
+  than 30 days), not later than April 30, 1993; and
+  (2) in final form, not later than July 31, 1993.
+  (e) REPORT OF THE COMPTROLLER GENERAL- Not later than March 31, 1996,
+  the Comptroller General of the United States shall submit a report to the
+  Congress and the head of each agency that is required to make expenditures
+  under the STTR program that--
+  (1) sets forth the Comptroller General's assessment, with respect to each
+  such agency, of--
+  (A) the quality of research performed under funding agreements awarded by
+  that agency under the STTR program since the beginning of the program;
+  (B) whether or not the STTR program has affected the performance of that
+  agency's research programs; and
+  (C) the commercial potential of research conducted under the STTR program,
+  if sufficient data is available;
+  (2) contains the Comptroller General's assessment as to the effects of
+  the STTR program, if any, on the research quality and goals of the SBIR
+  program; and
+  (3) determines the agencies and the federally-funded research and development
+  centers' compliance with the procedures developed under section 9(g)(10)
+  of the Small Business Act, as amended by this section.
+TITLE III--MISCELLANEOUS PROVISIONS
+SEC. 301. DISCRETIONARY TECHNICAL ASSISTANCE TO SBIR AWARDEES.
+  (a) IN GENERAL- Section 9 of the Small Business Act (15 U.S.C. 638) is
+  amended by adding at the end the following new subsection:
+  `(q) DISCRETIONARY TECHNICAL ASSISTANCE-
+  `(1) IN GENERAL- Each Federal agency required by this section to conduct
+  an SBIR program may enter into an agreement with a vendor selected
+  under paragraph (2) to provide small business concerns engaged in SBIR
+  projects with technical assistance services, such as access to a network of
+  scientists and engineers engaged in a wide range of technologies, or access
+  to technical and business literature available through on-line data bases,
+  for the purpose of assisting such concerns in--
+  `(A) making better technical decisions concerning such projects;
+  `(B) solving technical problems which arise during the conduct of such
+  projects;
+  `(C) minimizing technical risks associated with such projects; and
+  `(D) developing and commercializing new commercial products and processes
+  resulting from such projects.
+  `(2) VENDOR SELECTION- Annually, each agency may select a vendor for
+  purposes of this subsection using competitive, merit-based criteria,
+  to assist small business concerns to meet the goals listed in paragraph (1).
+  `(3) ADDITIONAL TECHNICAL ASSISTANCE-
+  `(A) FIRST PHASE- Each agency referred to in paragraph (1) may provide
+  services described in paragraph (1) to first phase SBIR award recipients
+  in an amount equal to not more than $4,000, which shall be in addition to
+  the amount of the recipient's award.
+  `(B) SECOND PHASE- Each agency referred to in paragraph (1) may authorize
+  any second phase SBIR award recipient to purchase, with funds available
+  from their SBIR awards, services described in paragraph (1), in an amount
+  equal to not more than $4,000 per year.
+SEC. 302. EXTENSION OF THE TECHNOLOGY TRANSFER DEMONSTRATION PROGRAM.
+  Section 231 of the Small Business Administration Reauthorization and
+  Amendments Act of 1990 (15 U.S.C. 648 note) is amended--
+  (1) in subsection (g), by striking `1993' and inserting `1995'; and
+  (2) in subsection (i), by striking `1991, 1992, and' and inserting `1994
+  and 1995'.
+SEC. 303. REPORTING REQUIREMENTS.
+  (a) REPORT ON DEFICIENT SUBCONTRACTING PLANS- Section 8(d) of the Small
+  Business Act (15 U.S.C. 637(d)) is amended--
+  (1) by striking paragraph (11); and
+  (2) by redesignating paragraph (12) as paragraph (11).
+  (b) SMALL PURCHASES FROM FEDERAL PRISON INDUSTRIES- Section 4124(c)
+  of title 18, United States Code, is amended in the first sentence by
+  striking `to the General Services Administration' and all that follows
+  through `Procurement Policy Act' and inserting `acquisitions of products
+  and services from Federal Prison Industries to the Federal Procurement
+  Data System (as referred to in section 6(d)(4) of the Office of Federal
+  Procurement Policy Act) in the same manner as it reports other acquisitions'.
+SEC. 304. SMALL BUSINESS INSTITUTES.
+  Section 8(b)(1) of the Small Business Act (15 U.S.C. 637(b)(1)) is amended--
+  (1) by redesignating subparagraphs (E) and (F) as subparagraphs (F) and
+  (G), respectively; and
+  (2) by inserting after subparagraph (D) the following:
+  `(E) In carrying out its functions under subparagraph (A), to make grants
+  (including contracts and cooperative agreements) to any public or private
+  institution of higher education for the establishment and operation of a
+  small business institute, which shall be used to provide business counseling
+  and assistance to small business concerns through the activities of students
+  enrolled at the institution, which students shall be entitled to receive
+  educational credits for their activities.'.
+SEC. 305. ADDITIONAL SBIR AND STTR PROVISIONS.
+  Section 9 of the Small Business Act (15 U.S.C. 638), is amended by adding
+  at the end the following new subsection:
+  `(r) THIRD PHASE AGREEMENTS-
+  `(1) IN GENERAL- In the case of a small business concern that is awarded
+  a funding agreement for the second phase of an SBIR or STTR program, a
+  Federal agency may enter into a third phase agreement with that business
+  concern for additional work to be performed during or after the second
+  phase period. The second phase funding agreement with the small business
+  concern may, at the discretion of the agency awarding the agreement, set
+  out the procedures applicable to third phase agreements with that agency
+  or any other agency.
+  `(2) DEFINITION- In this subsection, the term `third phase agreement'
+  means a follow-on, non-SBIR or non-STTR funded contract as described in
+  paragraph (4)(C) or paragraph (6)(C) of subsection (e).
+  `(3) INTELLECTUAL PROPERTY RIGHTS- Each funding agreement under an SBIR
+  or STTR program shall include provisions setting forth the respective
+  rights of the United States and the small business concern with respect
+  to intellectual property rights and with respect to any right to carry
+  out follow-on research.'.
+SEC. 306. SENSE OF THE CONGRESS CONCERNING AMERICAN-MADE EQUIPMENT AND
+PRODUCTS.
+  (a) PURCHASE OF AMERICAN-MADE EQUIPMENT AND PRODUCTS- It is the sense of the
+  Congress that an entity that is awarded a funding agreement under the SBIR
+  program of a Federal agency under section 9 of the Small Business Act should,
+  when purchasing any equipment or a product with funds provided through
+  the funding agreement, purchase only American-made equipment and products,
+  to the extent possible in keeping with the overall purposes of that program.
+  (b) NOTICE TO SBIR AWARDEES- Each Federal agency that awards funding
+  agreements under the SBIR program shall provide to each recipient of such
+  an award a notice describing the sense of the Congress, as set forth in
+  subsection (a).
+SEC. 307. TECHNICAL CORRECTIONS.
+  (a) SMALL BUSINESS PARTICIPATION RATES- Section 714(b)(4) of the Small
+  Business Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644
+  note, 102 Stat. 3892) is amended by inserting `or other services in support
+  of such contracts' after `(including surveying and mapping)'.
+  (b) MICROLOAN PROGRAM FUNDING- Section 7(m)(7) of the Small Business Act
+  (15 U.S.C. 636(m)(7)) is amended--
+  (1) in subparagraph (A), by adding at the end the following: `If, at
+  the end of fiscal year 1992, the Administration has funded less than 50
+  microloan programs under this subparagraph, the Administration may, in
+  fiscal year 1993, fund a number of additional microloan programs equal to
+  the difference between 50 and the number of microloan programs actually
+  funded in fiscal year 1992.'; and
+  (2) in subparagraph (B), by striking `In the second' and inserting `In
+  addition to any microloan programs authorized to be funded in fiscal year
+  1993 in accordance with subparagraph (A), in the second'.
+  (c) DEFINITION OF INTERMEDIARY- Section 7(m)(11)(A)(ii) of the Small Business
+  Act (15 U.S.C. 636(m)(11)(A)(ii)) is amended by inserting `private,' before
+  `nonprofit'.
+  (d) SECONDARY LOAN MARKETS- Section 5(f)(4) of the Small Business Act
+  (15 U.S.C. 634(f)(4)) is amended by striking `5(e), 7(a)(6), or 7(a)(8)'
+  and inserting `7(a)(6)(C) or subsection (e) of this section'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

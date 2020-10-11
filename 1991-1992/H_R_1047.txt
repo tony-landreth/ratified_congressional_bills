@@ -1,0 +1,580 @@
+ 
+--H.R.1047--
+H.R.1047
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To amend title 38, United States Code, to make miscellaneous improvements in
+veterans' compensation, pension, life insurance, health-care, and facilities
+management programs; and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES CODE.
+ (a) SHORT TITLE- This Act may be cited as the `Veterans' Benefits Programs
+ Improvement Act of 1991'.
+ (b) REFERENCES TO TITLE 38- Except as otherwise expressly provided, whenever
+ in this Act an amendment or repeal is expressed in terms of an amendment to,
+ or repeal of, a section or other provision, the reference shall be considered
+ to be made to a section or other provision of title 38, United States Code.
+ (c) EXECUTION OF AMENDMENTS- References in this Act to a section or other
+ provision of title 38, United States Code, refer to that section or other
+ provision as in effect before the redesignations made by section 5 of the
+ Department of Veterans Affairs Codification Act.
+TITLE I--COMPENSATION AND PENSION PROGRAMS
+SEC. 101. PENSION BENEFITS FOR INSTITUTIONALIZED VETERANS.
+ (a) TECHNICAL CORRECTION- Section 5503(a)(1)(C) is amended by striking out
+ `$60' and inserting in lieu thereof `$90'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall take effect
+ as if contained in section 111 of the Veterans' Benefits Amendments of 1989
+ (Public Law 101-237; 103 Stat. 2064).
+SEC. 102. FREQUENCY OF PAYMENT OF PARENTS' DIC.
+ Subsection (a) of section 415 is amended to read as follows:
+ `(a)(1) Except as provided in paragraph (2), dependency and indemnity
+ compensation shall be paid monthly to parents of a deceased veteran in the
+ amounts prescribed by this section.
+ `(2) Under regulations prescribed by the Secretary, benefits under this
+ section may be paid less frequently than monthly if the amount of the
+ annual benefit is less than 4 percent of the maximum annual rate payable
+ under this section.'.
+SEC. 103. PRESERVATION OF RATINGS WHEN CHANGES MADE IN RATING SCHEDULES.
+ (a) IN GENERAL- Section 355 is amended by adding at the end the following:
+ `However, in no event shall such a readjustment in the rating schedule
+ cause a veteran's disability rating in effect on the effective date of the
+ readjustment to be reduced unless an improvement in the veteran's disability
+ is shown to have occurred.'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply with
+ regard to changes in rating schedules that take effect after the date of
+ the enactment of this Act.
+SEC. 104. PRESUMPTIVE PERIOD FOR OCCURRENCE OF LEUKEMIA IN VETERANS EXPOSED
+TO RADIATION.
+ (a) CHANGE IN PRESUMPTIVE PERIOD- Section 312(c)(3) is amended by striking
+ out `, except that' and all that follows through `leukemia)'.
+ (b) EFFECTIVE DATE- No benefit may be paid by reason of the amendment made
+ by subsection (a) for any period before the date of the enactment of this Act.
+SEC. 105. PRESUMPTION OF SERVICE-CONNECTION FOR CERTAIN RADIATION-EXPOSED
+RESERVISTS.
+ Section 312(c) is amended--
+ (1) in paragraph (1)--
+ (A) by striking out `during the veteran's service on active duty' and
+ inserting in lieu thereof `during active military, naval, or air service'; and
+ (B) by striking out `during the period' and inserting in lieu thereof
+ `during a period'; and
+ (2) in paragraph (4)(A)--
+ (A) by inserting `(i)' after `means'; and
+ (B) by inserting before the period at the end the following: `, or (ii) an
+ individual who, while a member of a reserve component of the Armed Forces,
+ participated in a radiation-risk activity during a period of active duty
+ for training or inactive duty training'.
+TITLE II--LIFE INSURANCE PROGRAMS
+SEC. 201. NATIONAL SERVICE LIFE INSURANCE PROGRAM.
+ (a) EXTENSION- Subsections (a) and (b)(1) of section 722 are amended--
+ (1) by striking out `one year' each place it appears and inserting in lieu
+ thereof `two years'; and
+ (2) by striking out `one-year' each place it appears and inserting in lieu
+ thereof `two-year'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply with
+ respect to any person who, on or after September 1, 1991, is found by the
+ Secretary of Veterans Affairs to be eligible for insurance under section
+ 722 of title 38, United States Code.
+SEC. 202. PAYMENT OF SERVICE DISABLED VETERANS' INSURANCE IN LUMP SUM.
+ (a) PAYMENT IN LUMP SUM- Section 722(b) is amended--
+ (1) by striking out paragraph (4) and inserting in lieu thereof the following:
+ `(4) Notwithstanding the provisions of section 717 of this title, insurance
+ under this subsection shall be payable to the beneficiary determined under
+ paragraph (2) of this subsection in a lump sum.'; and
+ (2) by striking out paragraph (5).
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply with
+ respect to deaths occurring before, on, or after the date of the enactment of
+ this Act. In the case of insurance under section 722(b) of title 38, United
+ States Code, payable by reason of a death before the date of the enactment of
+ this Act, the Secretary shall pay the remaining balance of such insurance in
+ a lump sum as soon as practicable after the date of the enactment of this Act.
+SEC. 203. OPEN SEASON FOR USE OF DIVIDENDS TO PURCHASE ADDITIONAL INSURANCE.
+ Section 707(c) is amended--
+ (1) by striking out `before February 1, 1973' in the second sentence and
+ inserting in lieu thereof `during the one-year period beginning September 1,
+ 1991'; and
+ (2) by inserting after the second sentence the following new sentences:
+ `After September 1, 1992, the Secretary may, from time to time, provide for
+ further one-year periods during which insureds may purchase additional paid
+ up insurance from existing dividend credits and deposits. Any such period
+ for the purchase of additional paid up insurance may be allowed only if
+ the Secretary determines in the case of any such period that it would be
+ actuarially and administratively sound to do so.'.
+TITLE III--HEALTH-RELATED PROVISIONS
+SEC. 301. ELIGIBILITY FOR OUTPATIENT DENTAL CARE.
+ Paragraph (1) of section 612(b) is amended--
+ (1) by striking out `or' at the end of subparagraph (F);
+ (2) by striking out the period at the end of subparagraph (G) and inserting
+ in lieu thereof `; or'; and
+ (3) by adding after subparagraph (G) the following new subparagraph:
+ `(H) the treatment of which is medically necessary (i) in preparation
+ for hospital admission, or (ii) for a veteran otherwise receiving care or
+ services under this chapter.'.
+SEC. 302. REQUIREMENT FOR SECOND OPINION FOR FEE-BASIS OUTPATIENT DENTAL
+CARE REIMBURSEMENT.
+ Section 612(b)(3) is amended by striking out `$500' and inserting in lieu
+ thereof `$1,000'.
+SEC. 303. EXTENSION OF CONTRACT AUTHORITY FOR ALCOHOL OR DRUG ABUSE TREATMENT.
+ Section 620A(e) is amended by striking out `September 30, 1991' and inserting
+ in lieu thereof `December 31, 1994'.
+SEC. 304. EXTENSION OF AUTHORITY TO MAKE CONTRACTS TO THE VETERANS MEMORIAL
+MEDICAL CENTER, REPUBLIC OF THE PHILIPPINES.
+ (a) EXTENSION- Section 632(a) is amended by striking out `1990' and inserting
+ in lieu thereof `1992'.
+ (b) RATIFICATION- Any actions by the Secretary of Veterans Affairs in
+ carrying out the provisions of section 632 of title 38, United States Code,
+ by contract or otherwise, during the period beginning on October 1, 1990,
+ and ending on the date of the enactment of this Act are hereby ratified.
+SEC. 305. EDUCATIONAL AND LICENSURE REQUIREMENTS FOR SOCIAL WORKERS.
+ (a) SOCIAL WORKER LICENSURE REQUIREMENT- Section 7402(b) is amended--
+ (1) by redesignating paragraph (9) as paragraph (10); and
+ (2) by inserting after paragraph (8) the following new paragraph (9):
+ `(9) SOCIAL WORKER- To be eligible to be appointed to a social worker
+ position, a person must hold a master's degree in social work from a college
+ or university approved by the Secretary and satisfy the social worker
+ licensure, certification, or registration requirements, if any, of the State
+ in which the social worker is to be employed, except that the Secretary
+ may waive the licensure, certification, or registration requirement of this
+ paragraph for an individual social worker for a reasonable period, not to
+ exceed 3 years, in order for the social worker to take any actions necessary
+ to satisfy the licensure, certification, or registration requirements of
+ such State.'.
+ (b) EXEMPTION- The amendment made by subsection (a) does not apply to any
+ person employed as a social worker by the Department of Veterans Affairs
+ on or before the date of the enactment of this Act.
+TITLE IV--REAL PROPERTY AND FACILITIES
+SEC. 401. ENHANCED-USE LEASES AND SPECIAL DISPOSITION OF PROPERTY.
+ (a) AMENDMENT TO CHAPTER 81- Chapter 81 is amended by adding at the end
+ the following new subchapter:
+`SUBCHAPTER V--ENHANCED-USE LEASES OF REAL PROPERTY
+`Sec. 8161. Definitions
+ `For the purposes of this subchapter:
+ `(1) The term `enhanced-use lease' means a written lease entered into by
+ the Secretary under this subchapter.
+ `(2) The term `congressional veterans' affairs committees' means
+ the Committees on Veterans' Affairs of the Senate and the House of
+ Representatives.
+`Sec. 8162. Enhanced-use leases
+ `(a)(1) The Secretary may in accordance with this subchapter enter into leases
+ with respect to real property that is under the jurisdiction or control of
+ the Secretary. Any such lease under this subchapter may be referred to as an
+ `enhanced-use lease'. The Secretary may dispose of any such property that
+ is leased to another party under this subchapter in accordance with section
+ 8164 of this title. The Secretary may exercise the authority provided by this
+ subchapter notwithstanding section 8122 of this title, section 321 of the
+ Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal
+ Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484), or
+ any other provision of law (other than Federal laws relating to environmental
+ and historic preservation) inconsistent with this section. The applicability
+ of this subchapter to section 421(b) of the Veterans' Benefits and Services
+ Act of 1988 (Public Law 100-322; 102 Stat. 553) is covered by subsection (c).
+ `(2) The Secretary may enter into an enhanced-use lease only if the Secretary
+ determines that--
+ `(A) at least part of the use of the property under the lease will be to
+ provide appropriate space for an activity contributing to the mission of
+ the Department;
+ `(B) the lease will not be inconsistent with and will not adversely affect
+ the mission of the Department; and
+ `(C) the lease will enhance the use of the property.
+ `(3) The provisions of the Act of March 3, 1931 (40 U.S.C. 276a et seq.),
+ shall not, by reason of this section, become inapplicable to property that
+ is leased to another party under an enhanced-use lease.
+ `(4) A property that is leased to another party under an enhanced-use
+ lease may not be considered to be unutilized or underutilized for purposes
+ of section 501 of the Stewart B. McKinney Homeless Assistance Act (42
+ U.S.C. 11411).
+ `(b)(1) If the Secretary has determined that a property should be leased to
+ another party through an enhanced-use lease, the Secretary shall select the
+ party with whom the lease will be entered into using selection procedures
+ determined by the Secretary that ensure the integrity of the selection
+ process.
+ `(2) The term of an enhanced-use lease may not exceed--
+ `(A) 35 years, in the case of a lease involving the construction of a
+ new building or the substantial rehabilitation of an existing building,
+ as determined by the Secretary; or
+ `(B) 20 years, in the case of a lease not described in subparagraph (A).
+ `(3)(A) Each enhanced-use lease shall be for fair consideration, as determined
+ by the Secretary. Consideration under such a lease may be provided in whole
+ or in part through consideration in-kind.
+ `(B) Consideration in-kind may include provision of goods or services of
+ benefit to the Department, including construction, repair, remodeling,
+ or other physical improvements of Department facilities, maintenance
+ of Department facilities, or the provision of office, storage, or other
+ usable space.
+ `(4) Any payment by the Secretary for the use of space or services by the
+ Department on property that has been leased under this subchapter may only
+ be made from funds appropriated to the Department for the activity that uses
+ the space or services. No other such payment may be made by the Secretary
+ to a lessee under an enhanced-use lease unless the authority to make the
+ payment is provided in advance in an appropriation Act.
+ `(c)(1) Subject to paragraph (2), the entering into an enhanced-use
+ lease covering any land or improvement described in section 421(b)(2)
+ of the Veterans' Benefits and Services Act of 1988 (Public Law 100-322;
+ 102 Stat. 553) shall be considered to be prohibited by that section unless
+ specifically authorized by law.
+ `(2) The entering into an enhanced-use lease by the Secretary covering
+ any land or improvement described in such section 421(b)(2) shall not be
+ considered to be prohibited under that section if under the lease--
+ `(A) the designated property is to be used only for child-care services;
+ `(B) those services are to be provided only for the benefit of--
+ `(i) employees of the Department;
+ `(ii) individuals employed on the premises of such property; and
+ `(iii) employees of a health-personnel educational institution that is
+ affiliated with a Department facility;
+ `(C) over one-half of the employees benefited by the child-care services
+ provided are required to be employees of the Department; and
+ `(D) over one-half of the children to whom child-care services are provided
+ are required to be children of employees of the Department.
+`Sec. 8163. Designation of property to be leased
+ `(a) If the Secretary proposes to designate a property to be leased under
+ an enhanced-use lease, the Secretary shall conduct a public hearing before
+ making the designation. The hearing shall be conducted in the community in
+ which the property is located. At the hearing, the Secretary shall receive
+ the views of veterans service organizations and other interested parties
+ regarding the proposed lease of the property and the possible effects of
+ the uses to be made of the property under a lease of the general character
+ then contemplated. The possible effects to be addressed at the hearing
+ shall include effects on--
+ `(1) local commerce and other aspects of the local community;
+ `(2) programs administered by the Department; and
+ `(3) services to veterans in the community.
+ `(b) Before conducting such a hearing, the Secretary shall provide reasonable
+ notice of the proposed designation and of the hearing. The notice shall
+ include--
+ `(1) the time and place of the hearing;
+ `(2) identification of the property proposed to be leased;
+ `(3) a description of the proposed uses of the property under the lease;
+ `(4) a description of how the uses to be made of the property under a lease
+ of the general character then contemplated--
+ `(A) would contribute in a cost-effective manner to the mission of the
+ Department;
+ `(B) would not be inconsistent with the mission of the Department; and
+ `(C) would not adversely affect the mission of the Department; and
+ `(5) a description of how those uses would affect services to veterans.
+ `(c)(1) If after a hearing under subsection (a) the Secretary intends to
+ designate the property involved, the Secretary shall notify the congressional
+ veterans' affairs committees of the Secretary's intention to so designate the
+ property and shall publish a notice of such intention in the Federal Register.
+ `(2) The Secretary may not enter into an enhanced-use lease until the
+ end of a 60-day period of continuous session of Congress following the
+ date of the submission of notice under paragraph (1). For purposes of the
+ preceding sentence, continuity of a session of Congress is broken only by
+ an adjournment sine die, and there shall be excluded from the computation
+ of such 60-day period any day during which either House of Congress is not
+ in session during an adjournment of more than three days to a day certain.
+ `(3) Each notice under paragraph (1) shall include the following:
+ `(A) An identification of the property involved.
+ `(B) An explanation of the background of, rationale for, and economic
+ factors in support of, the proposed lease.
+ `(C) A summary of the views expressed by interested parties at the public
+ hearing conducted in connection with the proposed designation, together
+ with a summary of the Secretary's evaluation of those views.
+ `(D) A general description of the proposed lease.
+ `(E) A description of how the proposed lease--
+ `(i) would contribute in a cost-effective manner to the mission of the
+ Department;
+ `(ii) would not be inconsistent with the mission of the Department; and
+ `(iii) would not adversely affect the mission of the Department.
+ `(F) A description of how the proposed lease would affect services to
+ veterans.
+ `(4) Not less than 30 days before entering into an enhanced-use lease, the
+ Secretary shall submit to the congressional veterans' affairs committees
+ a report on the proposed lease. The report shall include--
+ `(A) updated information with respect to the matters described in paragraph
+ (3);
+ `(B) a summary of a cost-benefit analysis of the proposed lease;
+ `(C) a description of the provisions of the proposed lease; and
+ `(D) a notice of designation with respect to the property.
+`Sec. 8164. Authority for disposition of leased property
+ `(a) If, during the term of an enhanced-use lease or within 30 days after
+ the end of the term of the lease, the Secretary determines that the leased
+ property is no longer needed by the Department, the Secretary may initiate
+ action for the transfer to the lessee of all right, title, and interest of
+ the United States in the property by requesting the Administrator of General
+ Services to dispose of the property pursuant to subsection (b). A disposition
+ of property may not be made under this section unless the Secretary determines
+ that the disposition under this section rather than under section 8122 of
+ this title is in the best interests of the Department. The Administrator,
+ upon request of the Secretary, shall take appropriate action under this
+ section to dispose of property of the Department that is or has been subject
+ to an enhanced-use lease.
+ `(b) A disposition under this section may be made for such consideration as
+ the Secretary and the Administrator of General Services jointly determine
+ is in the best interest of the United States and upon such other terms and
+ conditions as the Secretary and the Administrator consider appropriate.
+ `(c) Not less than 90 days before a disposition of property is made under
+ this section, the Secretary shall notify the congressional veterans' affairs
+ committees of the Secretary's intent to dispose of the property and shall
+ publish notice of the proposed disposition in the Federal Register. The
+ notice shall describe the background of, rationale for, and economic factors
+ in support of, the proposed disposition (including a cost-benefit analysis
+ summary) and the method, terms, and conditions of the proposed disposition.
+`Sec. 8165. Use of proceeds
+ `(a)(1) Of the funds received by the Department under an enhanced-use lease
+ and remaining after any deduction from such funds under subsection (b), 75
+ percent shall be deposited in the nursing home revolving fund established
+ under section 8116 of this title and 25 percent shall be credited to the
+ Medical Care Account of the Department for the use of the Department facility
+ at which the property is located.
+ `(2) Funds received by the Department from a disposal of leased property
+ under section 8164 of this title and remaining after any deduction from
+ such funds under the laws referred to in subsection (c) shall be deposited
+ in the nursing home revolving fund.
+ `(b) An amount sufficient to pay for any expenses incurred by the Secretary
+ in any fiscal year in connection with an enhanced-use lease shall be deducted
+ from the proceeds of the lease for that fiscal year and may be used by the
+ Secretary to reimburse the account from which the funds were used to pay
+ such expenses.
+ `(c) Subsection (a) does not affect the applicability of section 204 of the
+ Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485)
+ or the Act of June 8, 1896 (40 U.S.C. 485a), with respect to reimbursement
+ of the Administrator of General Services for expenses arising from any
+ disposal of property under section 8164 of this title.
+`Sec. 8166. Construction standards
+ `(a) Unless the Secretary provides otherwise, the construction, alteration,
+ repair, remodeling, or improvement of the property that is the subject of
+ the lease shall be carried out so as to comply with all standards applicable
+ to construction of Federal buildings. Any such construction, alteration,
+ repair, remodeling, or improvement shall not be subject to any State or
+ local law relating to building codes, permits, or inspections unless the
+ Secretary provides otherwise.
+ `(b) Unless the Secretary has provided that Federal construction standards
+ are not applicable to a property, the Secretary shall conduct periodic
+ inspections of any such construction, alteration, repair, remodeling,
+ or improvement for the purpose of ensuring that the standards are met.
+`Sec. 8167. Exemption from State and local taxes
+ `The interest of the United States in any property subject to an enhanced-use
+ lease and any use by the United States of such property during such lease
+ shall not be subject, directly or indirectly, to any State or local law
+ relative to taxation, fees, assessments, or special assessments, except
+ sales taxes charged in connection with any construction, alteration, repair,
+ remodeling, or improvement project carried out under the lease.
+`Sec. 8168. Limitation on number of agreements
+ `(a) Not more than 20 enhanced-use leases may be entered into under this
+ subchapter, and not more than 10 such leases may be entered into during
+ any fiscal year.
+ `(b) An enhanced-use lease under which the primary use made of the leased
+ premises is the provision of child-care services for employees of the
+ Department shall not be counted for the purposes of subsection (a).
+` 8169. Expiration
+ `The authority of the Secretary to enter into enhanced-use leases under
+ this subchapter expires on December 31, 1994.'.
+ (b) CLERICAL AMENDMENTS- (1) The heading for chapter 81 is amended by adding
+ at the end the following: `; LEASES OF REAL PROPERTY'.
+ (2) The items relating to chapter 81 in the tables of chapters before part
+ I and at the beginning of part VI are amended to read as follows:
+8101'.
+ (3) The table of sections at the beginning of chapter 81 is amended by
+ adding at the end the following:
+`subchapter v--enhanced-use leases of real property
+`8161. Definitions.
+`8162. Enhanced-use leases.
+`8163. Designation of property to be leased.
+`8164. Authority for disposition of leased property.
+`8165. Use of proceeds.
+`8166. Construction standards.
+`8167. Exemption from State and local taxes.
+`8168. Limitation on number of agreements.
+`8169. Expiration.'.
+SEC. 402. ACQUISITION OF REAL PROPERTY.
+ (a) IN GENERAL- Chapter 1 is amended by adding at the end the following
+ new section:
+` 115. Acquisition of real property
+ `For the purposes of sections 230 and 1006 of this title and subchapter I
+ of chapter 81 of this title, the Secretary may acquire and use real property--
+ `(1) before title to the property is approved under section 355 of the
+ Revised Statutes (40 U.S.C. 255); and
+ `(2) even though the property will be held in other than a fee simple
+ interest in a case in which the Secretary determines that the interest to
+ be acquired is sufficient for the purposes of the intended use.'.
+ (b) CLERICAL AMENDMENT- The table of sections at the beginning of such
+ chapter is amended by adding at the end the following new item:
+`115. Acquisition of real property.'.
+SEC. 403. PERSHING HALL, PARIS, FRANCE.
+ (a) IN GENERAL- Pershing Hall, an existing memorial in Paris, France, owned by
+ the United States, together with the personal property of such memorial, is
+ hereby placed under the jurisdiction, custody, and control of the Department
+ of Veterans Affairs so that the memorial to the commander-in-chief, officers,
+ men, and auxiliary services of the American Expeditionary Forces in France
+ during World War I may be continued in an appropriate manner and financial
+ support be provided therefor.
+ (b) ADMINISTRATION- (1)(A) The Secretary of Veterans Affairs shall administer,
+ operate, develop, and improve Pershing Hall and its site in such manner as
+ the Secretary determines is in the best interests of the United States,
+ which may include use of Pershing Hall to meet the needs of veterans. To
+ meet such needs, the Secretary may establish and operate a regional or
+ other office to disseminate information, respond to inquiries, and otherwise
+ assist veterans and their families in obtaining veterans' benefits.
+ (B) To carry out the purposes of this section, the Secretary may enter
+ into agreements authorized by subsection (c) to fund the operation of the
+ memorial and projects authorized by subsection (d)(6).
+ (2)(A) The Secretary shall, after consultation with the American Battle
+ Monuments Commission, provide for a portion of Pershing Hall to be
+ specifically dedicated, with appropriate exhibitions and monuments, to the
+ memory of the commander-in-chief, officers, men, and auxiliary services of
+ the American Expeditionary Forces in France during World War I.
+ (B) The establishment and continuing supervision of the memorial that is
+ dedicated pursuant to subparagraph (A) shall be carried out by the American
+ Battle Monuments Commission.
+ (3) To the extent that funds are available in the Pershing Hall Revolving
+ Fund established by subsection (d), the Secretary may incur such expenses with
+ respect to Pershing Hall as the Secretary determines necessary or appropriate.
+ (4) The Secretary of Veterans Affairs may provide the allowances and benefits
+ described in section 235 of title 38, United States Code, to personnel of
+ the Department of Veterans Affairs who are United States citizens and are
+ assigned by the Secretary to Pershing Hall.
+ (c) LEASES- (1) The Secretary may enter into agreements as the Secretary
+ determines necessary or appropriate for the operation, development,
+ and improvement of Pershing Hall and its site, including the leasing of
+ portions of the Hall for terms not to exceed 35 years in areas that are
+ newly constructed or substantially rehabilitated and for not to exceed 20
+ years in other areas of the Hall.
+ (2) Leases entered into by the Secretary under this subsection shall be for
+ consideration in the form of cash or in-kind, or a combination of the two,
+ as determined by the Secretary, which shall include the value of space leased
+ back to the Secretary by the lessee, net of rent paid by the Secretary,
+ and the present value of the residual interest of the Secretary at the end
+ of the lease term.
+ (d) FUND- (1) There is hereby established the Pershing Hall Revolving Fund
+ to be administered by the Secretary of Veterans Affairs.
+ (2) There shall be transferred to the Pershing Hall Revolving Fund, at such
+ time or times as the Secretary may determine without limitation as to year,
+ amounts as determined by the Secretary, not to exceed $1,000,000 in total,
+ from funds appropriated to the Department of Veterans Affairs for the
+ construction of major projects. The account from which any such amount is
+ transferred shall be reimbursed promptly from other funds as they become
+ part of the Pershing Hall Revolving Fund.
+ (3) The Pershing Hall Memorial Fund, established in the Treasury of the United
+ States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74-171;
+ 49 Stat. 426), is hereby abolished and the corpus of the fund, including
+ accrued interest, is transferred to the Pershing Hall Revolving Fund.
+ (4) Funds received by the Secretary from operation of Pershing Hall or
+ from any lease or other agreement with respect to Pershing Hall shall be
+ deposited in the Pershing Hall Revolving Fund.
+ (5) The Secretary of the Treasury shall invest any portion of the Revolving
+ Fund that, as determined by the Secretary of Veterans Affairs, is not
+ required to meet current expenses of the Fund. Each investment shall be made
+ in an interest bearing obligation of the United States or an obligation
+ guaranteed as to principal and interest by the United States that, as
+ determined by the Secretary of Veterans Affairs, has a maturity suitable
+ for the Revolving Fund. The Secretary of the Treasury shall credit to the
+ Revolving Fund the interest on, and the proceeds from the sale or redemption
+ of, such obligations.
+ (6)(A) Subject to subparagraphs (B) and (C), the Secretary of Veterans
+ Affairs may expend not more than $100,000 from the Fund in any fiscal year
+ upon projects, activities, and facilities determined by the Secretary to
+ be in keeping with the mission of the Department.
+ (B) An expenditure under subparagraph (A) may be made only from funds
+ that will remain in the Fund in any fiscal year after payment of expenses
+ incurred with respect to Pershing Hall for such fiscal year and only after
+ the reimbursement of all amounts transferred to the Fund under subsection
+ (d)(2) has been completed.
+ (C) An expenditure authorized by subparagraph (A) shall be reported by the
+ Secretary to the Congress no later than November 1 of each year for the
+ fiscal year ending on the previous September 30.
+ (e) WAIVER- The Secretary may carry out the provisions of this section without
+ regard to section 8122 of title 38, United States Code, section 321 of the
+ Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412), sections 202 and 203
+ of the Federal Property and Administrative Services Act (40 U.S.C. 483 and
+ 484), or any other provision of law inconsistent with this section.
+TITLE V--MISCELLANEOUS
+SEC. 501. DURATION OF COMPENSATED WORK THERAPY PROGRAM.
+ Section 7(a) of Public Law 102-54 (105 Stat. 269) is amended by striking
+ out `During fiscal years 1992 through 1994' and inserting in lieu thereof
+ `During fiscal years 1991 through 1994'.
+SEC. 502. SAVINGS PROVISION FOR ELIMINATION OF BENEFITS FOR CERTAIN REMARRIED
+SPOUSES.
+ The amendments made by section 8004 of the Omnibus Budget Reconciliation Act
+ of 1990 (Public Law 101-508) shall not apply with respect to any individual
+ who on October 31, 1990, was a surviving spouse or child within the meaning
+ of title 38, United States Code, unless after that date that individual
+ (1) marries, or (2) in the case of a surviving spouse, begins to live with
+ another person while holding himself or herself out openly to the public
+ as that person's spouse.
+SEC. 503. AGENT ORANGE REVIEW.
+ (a) LIABILITY INSURANCE- Section 3 of the Agent Orange Act of 1991 (Public
+ Law 102-4; 38 U.S.C. 316 note) is amended by adding at the end the following
+ new subsection:
+ `(k) LIABILITY INSURANCE- (1) The Secretary may provide liability insurance
+ for the National Academy of Sciences or any other contract scientific
+ organization to cover any claim for money damages for injury, loss of
+ property, personal injury, or death caused by any negligent or wrongful act
+ or omission of any person referred to in paragraph (2) in carrying out any of
+ the following responsibilities of the Academy or such other organization,
+ as the case may be, under an agreement entered into with the Secretary
+ pursuant to this section:
+ `(A) The review, summarization, and assessment of scientific evidence
+ referred to in subsection (c).
+ `(B) The making of any determination, on the basis of such review and
+ assessment, regarding the matters set out in clauses (A) through (C) of
+ subsection (d)(1), and the preparation of the discussion referred to in
+ subsection (d)(2).
+ `(C) The making of any recommendation for additional scientific study under
+ subsection (e).
+ `(D) The conduct of any subsequent review referred to in subsection (f) and
+ the making of any determination or estimate referred to in such subsection.
+ `(E) The preparation of the reports referred to in subsection (g).
+ `(2) A person referred to in paragraph (1) is--
+ `(A) an employee of the National Academy of Sciences or other contract
+ scientific organization referred to in paragraph (1); or
+ `(B) any individual appointed by the President of the Academy or the head
+ of such other contract scientific organization, as the case may be, to
+ carry out any of the responsibilities referred to in such paragraph.
+ `(3) The cost of the liability insurance referred to in paragraph (1)
+ shall be made from funds available to carry out this section.
+ `(4) The Secretary shall reimburse the Academy or person referred to
+ in paragraph (2) for the cost of any judgments (if any) and reasonable
+ attorney's fees and incidental expenses, not compensated by the liability
+ insurance referred to in paragraph (1) or by any other insurance maintained
+ by the Academy, incurred by the Academy or person referred to in paragraph
+ (2), in connection with any legal or administrative proceedings arising
+ out of or in connection with the work to be performed under the agreement
+ referred to in paragraph (1). Reimbursement of the cost of such judgments,
+ attorney's fees, and incidental expenses shall be paid from funds appropriated
+ for such reimbursement or appropriated to carry out this section, but in no
+ event shall any such reimbursement be made from funds authorized pursuant
+ to section 1304 of title 31, United States Code.'.
+ (b) DELAY IN CERTAIN PROVISIONS- (1) Section 3(b) of such Act is amended
+ by striking out `two months after the date of the enactment of this Act'
+ and inserting in lieu thereof `two months after the date of the enactment
+ of the Veterans' Benefits Programs Improvement Act of 1991'.
+ (2) Section 10(e) of such Act is amended--
+ (A) in paragraph (1), by striking out `at the end of the six-month period
+ beginning on the date of the enactment of this Act' and inserting in lieu
+ thereof `at the end of the two-month period beginning on the date of the
+ enactment of the Veterans' Benefits Programs Improvement Act of 1991'; and
+ (B) in paragraph (2)(A), by striking out `six-month'.
+SEC. 504. EXPANSION OF AUTHORITY TO ACCEPT GIFTS, BEQUESTS, AND DEVISES.
+ Section 8301 is amended by adding at the end the following new sentence:
+ `The Secretary may also accept, for use in carrying out all laws administered
+ by the Secretary, gifts, devises, and bequests which will enhance the
+ Secretary's ability to provide services or benefits.'.
+SEC. 505. TECHNICAL AMENDMENT RELATING TO COLLECTION OF CERTAIN INDEBTEDNESS
+TO THE UNITED STATES.
+ (a)DEPOSIT OF COAST GUARD AMOUNTS- Section 5301(c)(4) is amended by inserting
+ before the period at the end the following: `or to the Retired Pay Account
+ of the Coast Guard, as appropriate'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply with
+ respect to funds collected after September 30, 1991.
+SEC. 506. MISCELLANEOUS TECHNICAL AMENDMENTS.
+ (a) TITLE 38- Title 38, United States Code, is amended as follows:
+ (1) Section 618(b)(2) is amended by striking out `arangements' and inserting
+ in lieu thereof `arrangements'.
+ (2) Section 716(b) is amended by striking out `upaid' and inserting in lieu
+ thereof `unpaid'.
+ (b) PUBLIC LAW 101-237- Effective as of December 18, 1989, section 423(b)
+ of Public Law 101-237 is amended--
+ (1) in paragraph (2), by striking out `1790(b)(3)(B)(i)(III),' and
+ inserting in lieu thereof `1790(b)(3)(B)(iii), as redesignated by subsection
+ (a)(9)(C)(ii),'; and
+ (2) in paragraph (4)(A), by striking out `1418(a)(3)' and inserting in lieu
+ thereof `1418(a)'.
+ (c) PUBLIC LAW 102-16- Effective as of March 22, 1991, section 9(d) of Public
+ Law 102-16 is amended by striking out `Act' the first place it appears and
+ inserting in lieu thereof `section'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

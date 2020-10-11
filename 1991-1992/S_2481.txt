@@ -1,0 +1,3062 @@
+ 
+--S.2481--
+S.2481
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Indian Health Care Improvement Act to authorize appropriations
+for Indian health programs, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Indian Health Amendments of 1992'.
+SEC. 2. AMENDMENTS TO INDIAN HEALTH CARE IMPROVEMENT ACT.
+  Except as otherwise specifically provided, whenever in this Act a section
+  or other provision is amended or repealed, such amendment or repeal shall
+  be considered to be made to that section or other provision of the Indian
+  Health Care Improvement Act (25 U.S.C. 1601 et seq.).
+SEC. 3. FINDINGS; POLICY; AND DEFINITIONS.
+  (a) FINDINGS- Section 2 of the Act (25 U.S.C. 1601) is amended--
+  (1) in the matter preceding paragraph (a), by striking `finds that--'
+  and inserting `finds the following:';
+  (2) in paragraph (d), by striking out the second sentence; and
+  (3) by striking out paragraphs (e), (f), and (g).
+  (b) DECLARATION OF POLICY- Section 3 of the Act (25 U.S.C. 1602) is amended
+  to read as follows:
+`DECLARATION OF HEALTH OBJECTIVES
+  `SEC. 3. (a) The Congress hereby declares that it is the policy of this
+  Nation, in fulfillment of its special responsibilities and legal obligation
+  to the American Indian people, to assure the highest possible health status
+  for Indians and urban Indians and to provide all resources necessary to
+  effect that policy.
+  `(b) It is the intent of the Congress that the Nation meet the following
+  health status objectives with respect to Indians and urban Indians by the
+  year 2000:
+  `(1) Reduce coronary heart disease deaths to a level of no more than 100
+  per 100,000.
+  `(2) Reduce the prevalence of overweight individuals to no more than
+  30 percent.
+  `(3) Reduce the prevalence of anemia to less than 10 percent among children
+  aged 1 through 5.
+  `(4) Reduce the level of cancer deaths to a rate of no more than 130
+  per 100,000.
+  `(5) Reduce the level of lung cancer deaths to a rate of no more than 42
+  per 100,000.
+  `(6) Reduce the level of chronic obstructive pulmonary disease related
+  deaths to a rate of no more than 25 per 100,000.
+  `(7) Reduce deaths among men caused by alcohol-related motor vehicle
+  crashes to no more than 44.8 per 100,000.
+  `(8) Reduce cirrhosis deaths to no more than 13 per 100,000.
+  `(9) Reduce drug-related deaths to no more than 3 per 100,000.
+  `(10) Reduce pregnancies among girls aged 17 and younger to no more than
+  50 per 1,000 adolescents.
+  `(11) Reduce suicide among men to no more than 12.8 per 100,000.
+  `(12) Reduce by 15 percent the incidence of injurious suicide attempts
+  among adolescents aged 14 through 17.
+  `(13) Reduce to less than 10 percent the prevalence of mental disorders
+  among children and adolescents.
+  `(14) Reduce the incidence of child abuse or neglect to less than 25.2
+  per 1,000 children under age 18.
+  `(15) Reduce physical abuse directed at women by male partners to no more
+  than 27 per 1,000 couples.
+  `(16) Increase years of healthy life to at least 65 years.
+  `(17) Reduce deaths caused by unintentional injuries to no more than 66.1
+  per 100,000.
+  `(18) Reduce deaths caused by motor vehicle crashes to no more than 39.2
+  per 100,000.
+  `(19) Among children aged 6 months through 5 years, reduce the prevalence
+  of blood lead levels exceeding15ug/dl and reduce to zero the prevalence
+  of blood lead levels exceeding 25 ug/dl.
+  `(20) Reduce dental caries (cavities) so that the proportion of children
+  with one or more caries (in permanent or primary teeth) is no more than
+  45 percent among children aged 6 through 8 and no more than 60 percent
+  among adolescents aged 15.
+  `(21) Reduce untreated dental caries so that the proportion of children
+  with untreated caries (in permanent or primary teeth) is no more than 20
+  percent among children aged 6 through 8 and no more than 40 percent among
+  adolescents aged 15.
+  `(22) Reduce to no more than 20 percent the proportion of individuals aged
+  65 and older who have lost all of their natural teeth.
+  `(23) Increase to at least 45 percent the proportion of individuals aged
+  35 to 44 who have never lost a permanent tooth due to dental caries or
+  periodontal disease.
+  `(24) Reduce destructive periodontal disease to a prevalence of no more
+  than 15 percent among individuals aged 35 to 44.
+  `(25) Increase to at least 50 percent the proportion of children who
+  have received protective sealants on the occlusal (chewing) surfaces of
+  permanent molar teeth.
+  `(26) Reduce the prevalence of gingivitis among individuals aged 35 to 44
+  to no more than 50 percent.
+  `(27) Reduce the infant mortality rate to no more than 8.5 per 1,000
+  live births.
+  `(28) Reduce the fetal death rate (20 or more weeks of gestation) to no
+  more than 4 per 1,000 live births plus fetal deaths.
+  `(29) Reduce the maternal mortality rate to no more than 3.3 per 100,000
+  live births.
+  `(30) Reduce the incidence of fetal alcohol syndrome to no more than 2
+  per 1,000 live births.
+  `(31) Reduce stroke deaths to no more than 20 per 100,000.
+  `(32) Reverse the increase in end-stage renal disease (requiring maintenance
+  dialysis or transplantation) to attain an incidence of no more than 13
+  per 100,000.
+  `(33) Reduce breast cancer deaths to no more than 20.6 per 100,000 women.
+  `(34) Reduce deaths from cancer of the uterine cervix to no more than 1.3
+  per 100,000 women.
+  `(35) Reduce colorectal cancer deaths to no more than 13.2 per 100,000.
+  `(36) Reduce to no more than 11 percent the proportion of individuals who
+  experience a limitation in major activity due to chronic conditions.
+  `(37) Reduce significant hearing impairment to a prevalence of no more
+  than 82 per 1,000.
+  `(38) Reduce significant visual impairment to a prevalence of no more than
+  30 per 1,000.
+  `(39) Reduce diabetes-related deaths to no more than 48 per 100,000.
+  `(40) Reduce diabetes to an incidence of no more than 2.5 per 1,000 and
+  a prevalence of no more than 62 per 1,000.
+  `(41) Reduce the most severe complications of diabetes as follows:
+  `(A) End-stage renal disease, 1.9 per 1,000.
+  `(B) Blindness, 1.4 per 1,000.
+  `(C) Lower extremity amputation, 4.9 per 1,000.
+  `(D) Perinatal mortality, 2 percent.
+  `(E) Major congenital malformations, 4 percent.
+  `(42) Confine annual incidence of diagnosed AIDS cases to no more than
+  1,000 cases.
+  `(43) Confine the prevalence of HIV infection to no more than 100 per
+  100,000.
+  `(44) Reduce gonorrhea to an incidence of no more than 225 cases per 100,000.
+  `(45) Reduce chlamydia trachomatis infections, as measured by a decrease
+  in the incidence of nongonococcal urethritis to no more than 170 cases
+  per 100,000.
+  `(46) Reduce primary and secondary syphilis to an incidence of no more
+  than 10 cases per 100,000.
+  `(47) Reduce the incidence of pelvic inflammatory disease, as measured by
+  a reduction in hospitalization for pelvic inflammatory disease to no more
+  than 250 per 100,000 women aged 15 through 44.
+  `(48) Reduce viral hepatitis B infection to no more than 40 per 100,000
+  cases.
+  `(49) Reduce indigenous cases of vaccine-preventable diseases as follows:
+  `(A) Diphtheria among individuals aged 25 and younger, 0.
+  `(B) Tetanus among individuals aged 25 and younger, 0.
+  `(C) Polio (wild-type virus), 0.
+  `(D) Measles, 0.
+  `(E) Rubella, 0.
+  `(F) Congenital Rubella Syndrome, 0.
+  `(G) Mumps, 500.
+  `(H) Pertussis, 1,000.
+  `(50) Reduce epidemic-related pneumonia and influenza deaths among
+  individuals aged 65 and older to no more than 7.3 per 100,000.
+  `(51) Reduce the number of new carriers of viral hepatitis B among Alaska
+  Natives to no more than 1 case.
+  `(52) Reduce tuberculosis to an incidence of no more than 5 cases per
+  100,000.
+  `(53) Reduce bacterial meningitis to no more than 8 cases per 100,000.
+  `(54) Reduce infectious diarrhea by at least 25 percent among children.
+  `(55) Reduce acute middle ear infections among children aged 4 and younger,
+  as measured by days of restricted activity or school absenteeism, to no
+  more than 105 days per 100 children.
+  `(56) Reduce cigarette smoking to a prevalence of no more than 20 percent.
+  `(57) Reduce smokeless tobacco use by youth to a prevalence of no more
+  than 10 percent.
+  `(58) Increase to at least 65 percent the proportion of parents and
+  caregivers who use feeding practices that prevent baby bottle tooth decay.
+  `(59) Increase to at least 75 percent the proportion of mothers who breast
+  feed their babies in the early postpartum period, and to at least 50 percent
+  the proportion who continue breast feeding until their babies are 5 to 6
+  months old.
+  `(60) Increase to at least 90 percent the proportion of pregnant women
+  who receive prenatal care in the first trimester of pregnancy.
+  `(61) Increase to at least 70 percent the proportion of individuals who
+  have received, as a minimum within the appropriate interval, all of the
+  screening and immunization services and at least one of the counseling
+  services appropriate for their age and gender as recommended by the United
+  States Preventive Services Task Force.
+  `(c) It is the intent of the Congress that the Nation increase the proportion
+  of all degrees in the health professions and allied and associated health
+  profession fields awarded to Indians to 0.6 percent.
+  `(d) The Secretary shall submit to the President, for inclusion in each
+  report required to be transmitted to the Congress under section 801,
+  a report on the progress made in each area of the Service toward meeting
+  each of the objectives described in subsection (b).'.
+  (c) DEFINITIONS- Section 4 of the Act (25 U.S.C. 1603) is amended by adding
+  at the end the following new subsections:
+  `(m) `Service area' means the geographical area served by each area office.
+  `(n) `Health profession' means family medicine, internal medicine,
+  pediatrics, geriatric medicine, obstetrics and gynecology, podiatric
+  medicine, nursing, public health nursing, dentistry, psychiatry, osteopathy,
+  optometry, pharmacy, psychology, public health, social work, marriage and
+  family therapy, chiropractic medicine, environmental health and engineering,
+  and allied health professions.
+  `(o) `Substance abuse' includes inhalant abuse.
+  `(p) `FAE' means fetal alcohol effect.
+  `(q) `FAS' means fetal alcohol syndrome.'.
+TITLE I--INDIAN HEALTH PROFESSIONALS
+SEC. 101. PURPOSE.
+  Section 101 of the Act (25 U.S.C. 1611) is amended to read as follows:
+`PURPOSE
+  `SEC. 101. The purpose of this title is to increase the number of Indians
+  entering the health professions and to assure an adequate supply of health
+  professionals to the Service, Indian tribes, tribal organizations, and
+  urban Indian organizations involved in the provision of health care to
+  Indian people.'.
+SEC. 102. HEALTH PROFESSIONS.
+  (a) RECRUITMENT PROGRAM- Section 102(a) of the Act (25 U.S.C. 1612(a))
+  is amended--
+  (1) by amending paragraph (1) to read as follows:
+  `(1) identifying Indians with a potential for education or training in
+  the health professions and encouraging and assisting them--
+  `(A) to enroll in courses of study in such health professions; or
+  `(B) if they are not qualified to enroll in any such courses of study,
+  to undertake such postsecondary education or training as may be required
+  to qualify them for enrollment;';
+  (2) in paragraph (2)--
+  (A) by striking out `school' both places it appears and inserting in lieu
+  thereof the following: `course of study'; and
+  (B) by striking out `clause (1)(A)' and inserting in lieu thereof the
+  following: `paragraph (1)'; and
+  (3) in paragraph (3)--
+  (A) by striking out `Indians,' and inserting in lieu thereof `Indians in,';
+  (B) by inserting a comma before `courses';
+  (C) by striking out `, in any school'; and
+  (D) by striking out `clause (1)(A)' and inserting in lieu thereof the
+  following: `paragraph (1)'.
+  (b) PREPARATORY SCHOLARSHIP PROGRAM- Section 103 of the Act (25 U.S.C. 1613)
+  is amended--
+  (1) by amending subsection (a)(2) to read as follows:
+  `(2) have demonstrated the capability to successfully complete courses of
+  study in the health professions.';
+  (2) in subsection (b)(1), by inserting before the period at the end the
+  following: `on a full-time basis (or the part-time equivalent thereof,
+  as determined by the Secretary)';
+  (3) by amending subsection (b)(2) to read as follows:
+  `(2) Pregraduate education of any grantee leading to a baccalaureate
+  degree in an approved course of study preparatory to a field of study
+  in a health profession, such scholarship not to exceed 4 years (or the
+  part-time equivalent thereof, as determined by the Secretary).';
+  (4) in subsection (c), by striking out `full time'; and
+  (5) by amending subsection (e) to read as follows:
+  `(e) The Secretary shall not deny scholarship assistance to an eligible
+  applicant under this section solely by reason of such applicant's eligibility
+  for assistance or benefits under any other Federal program.'.
+  (c) HEALTH PROFESSIONS SCHOLARSHIPS- Section 104 of the Act (25 U.S.C. 1613a)
+  is amended--
+  (1) in subsection (a)--
+  (A) by striking out `Indian communities' and inserting in lieu thereof
+  the following: `Indians, Indian tribes, tribal organizations, and urban
+  Indian organizations';
+  (B) by striking out `full time' and inserting in lieu thereof the following:
+  `full or part time'; and
+  (C) by striking out `of medicine' and all that follows through `social
+  work' and inserting in lieu thereof the following: `and pursuing courses
+  of study in the health professions';
+  (2) in subsection (b)--
+  (A) in paragraph (2)--
+  (i) by striking out `full time' and inserting in lieu thereof `full or
+  part time'; and
+  (ii) by striking out `health profession school' and inserting in lieu
+  thereof `course of study';
+  (B) in paragraph (3)--
+  (i) by striking `(3)' and inserting `(3)(A)';
+  (ii) by redesignating subparagraphs (A), (B), (C), and (D) as clauses (i),
+  (ii), (iii), and (iv), respectively; and
+  (iii) by inserting at the end the following new subparagraphs:
+  `(B) A recipient of an Indian Health Scholarship may, at the election of
+  the recipient, meet the active duty service obligation prescribed under
+  section 338C of the Public Health Service Act (42 U.S.C. 254m) by service
+  in a program specified in subparagraph (A) that--
+  `(i) is located on the reservation of the tribe in which the recipient is
+  enrolled; or
+  `(ii) serves the tribe in which the recipient is enrolled.
+  `(C) Subject to subparagraph (B), the Secretary, in making assignments of
+  Indian Health Scholarship recipients required to meet the active duty service
+  obligation prescribed under section 338C of the Public Health Service Act
+  (42 U.S.C. 254m), shall give priority to assigning individuals to service
+  in those programs specified in subparagraph (A) that have a need for health
+  professionals to provide health care services as a result of individuals
+  having breached contracts entered into under this section.'; and
+  (C) by adding at the end the following new paragraph:
+  `(4) In the case of an individual receiving a scholarship under this
+  section who is enrolled part time in an approved course of study--
+  `(A) such scholarship shall be for a period of years not to exceed the
+  part-time equivalent of 4 years, as determined by the Secretary;
+  `(B) the period of obligated service specified in section 338A(f)(1)(B)(iv)
+  of the Public Health Service Act (42 U.S.C. 254m(f)(1)(B)(iv)) shall be
+  equal to the greater of--
+  `(i) the part-time equivalent of one year for each year for which the
+  individual was provided a scholarship (as determined by the Secretary); or
+  `(ii) two years; and
+  `(C) the amount of the monthly stipend specified in section 338A(g)(1)(B)
+  of the Public Health Service Act (42 U.S.C. 254m(g)(1)(B)) shall be reduced
+  pro rata (as determined by the Secretary) based on the number of hours
+  such student is enrolled.';
+  (3) by amending subsection (c) to read as follows:
+  `(c) The Secretary shall, acting through the Service, establish a Placement
+  Office to develop and implement a national policy for the placement,
+  to available vacancies within the Service, of Indian Health Scholarship
+  recipients required to meet the active duty service obligation prescribed
+  under section 338C of the Public Health Service Act (42 U.S.C. 254m) without
+  regard to any competitive personnel system, agency personnel limitation,
+  or Indian preference policy.'; and
+  (4) by striking out subsection (d).
+  (d) EFFECTIVE DATE- The amendments made by subsection (c)(1)(C) and
+  subsection (c)(2)(B) shall apply with respect to scholarships granted under
+  section 104 of the Indian Health Care Improvement Act after the date of
+  the enactment of this Act.
+  (e) EXTERN PROGRAM- Section 105 of the Act (25 U.S.C. 1614) is amended--
+  (1) in subsection (a), by striking out `section 757 of the Public Health
+  Service Act' and inserting in lieu thereof `section 104'; and
+  (2) in subsection (b), by striking out `school of medicine' and all that
+  follows through `health professions' and inserting in lieu thereof `course
+  of study in the health professions'.
+SEC. 103. BREACH OF CONTRACT PROVISIONS RELATING TO INDIAN HEALTH SCHOLARSHIPS.
+  Section 104(b) of the Act (25 U.S.C. 1613a(b)) (as amended by section 102(c)
+  of this Act) is amended by adding at the end the following new paragraph:
+  `(5)(A) An individual who has, on or after the date of the enactment of
+  this paragraph, entered into a written contract with the Secretary under
+  this section and who--
+  `(i) fails to maintain an acceptable level of academic standing in the
+  educational institution in which he is enrolled (such level determined by
+  the educational institution under regulations of the Secretary),
+  `(ii) is dismissed from such educational institution for disciplinary
+  reasons,
+  `(iii) voluntarily terminates the training in such an educational
+  institution for which he is provided a scholarship under such contract
+  before the completion of such training, or
+  `(iv) fails to accept payment, or instructs the educational institution
+  in which he is enrolled not to accept payment, in whole or in part, of a
+  scholarship under such contract,
+in lieu of any service obligation arising under such contract, shall be
+liable to the United States for the amount which has been paid to him,
+or on his behalf, under the contract.
+  `(B) If for any reason not specified in subparagraph (A) an individual
+  breaches his written contract by failing either to begin such individual's
+  service obligation under this section or to complete such service obligation,
+  the United States shall be entitled to recover from the individual an
+  amount determined in accordance with the formula specified in subsection
+  (l) of section 108 in the manner provided for in such subsection.'.
+SEC. 104. NURSING.
+  (a) CONTINUING EDUCATION ALLOWANCES- Section 106(a) of the Act (25
+  U.S.C. 1615(a)) is amended by inserting `nurses,' after `dentists,'.
+  (b) QUENTIN N. BURDICK AMERICAN INDIANS INTO NURSING PROGRAM- Section 112
+  of the Act (25 U.S.C. 1616e) is amended--
+  (1) by redesignating subsections (e) and (f) as subsections (f) and (g),
+  respectively; and
+  (2) by inserting after subsection (d) the following new subsection:
+  `(e) The Secretary shall provide one of the grants authorized under
+  subsection (a) to establish and maintain a program at the University of
+  North Dakota to be known as the `Quentin N. Burdick American Indians Into
+  Nursing Program'. Such program shall, to the maximum extent feasible,
+  coordinate with the Quentin N. Burdick Indian Health Programs established
+  under section 114(b) and the Quentin N. Burdick American Indians Into
+  Psychology Program established under section 217(b).'.
+  (c) TRAINING FOR NURSE MIDWIVES, NURSE ANESTHETISTS, AND NURSE PRACTITIONERS-
+  Section 112(g) of the Act (25 U.S.C. 1616e(g)) (as redesignated by subsection
+  (b)(1) of this section) is amended to read as follows:
+  `(g) Beginning with fiscal year 1993, of the amounts appropriated under the
+  authority of this title for each fiscal year to be used to carry out this
+  section, not less than $1,000,000 shall be used to provide grants under
+  subsection (a) for the training of nurse midwives, nurse anesthetists,
+  and nurse practitioners.'.
+  (d) RETENTION BONUS FOR NURSES- Section 117 (25 U.S.C. 1616j) of the Act
+  is amended--
+  (1) by redesignating subsections (b) through (e) as subsections (c) through
+  (f), respectively;
+  (2) by adding after subsection (a) the following new subsection (b):
+  `(b) Beginning with fiscal year 1993, not less than 25 percent of the
+  retention bonuses awarded each year under subsection (a) shall be awarded
+  to nurses.'; and
+  (3) by amending subsection (f) (as amended by paragraph (1)) to read
+  as follows:
+  `(f) The Secretary may pay a retention bonus to any physician or nurse
+  employed by an organization providing health care services to Indians
+  pursuant to a contract under the Indian Self-Determination Act if such
+  physician or nurse is serving in a position which the Secretary determines
+  is--
+  `(1) a position for which recruitment or retention is difficult; and
+  `(2) necessary for providing health care services to Indians.'.
+  (e) RESIDENCY PROGRAM- Title I of the Act is amended by adding at the end
+  the following new section:
+`NURSING RESIDENCY PROGRAM
+  `SEC. 118. (a) The Secretary, acting through the Service, shall establish
+  a program to enable licensed practical nurses, licensed vocational nurses,
+  and registered nurses who are working in an Indian health program (as
+  defined in section 108(a)(2)(A)), and have done so for a period of not
+  less than one year, to pursue advanced training.
+  `(b) Such program shall include a combination of education and work study
+  in an Indian health program (as defined in section 108(a)(2)(A)) leading
+  to an associate or bachelor's degree (in the case of a licensed practical
+  nurse or licensed vocational nurse) or a bachelor's degree (in the case
+  of a registered nurse).
+  `(c) An individual who participates in a program under subsection (a), where
+  the educational costs are paid by the Service, shall incur an obligation to
+  serve in an Indian health program for a period of obligated service equal
+  to at least three times the period of time during which the individual
+  participates in such program. In the event that the individual fails to
+  complete such obligated service, the United States shall be entitled to
+  recover from such individual an amount determined in accordance with the
+  formula specified in subsection (l) of section 108 in the manner provided
+  for in such subsection.'.
+  (f) GRANTS FOR THE PROVISION OF PRIMARY CARE SERVICES ON OR NEAR INDIAN
+  COUNTRY- Title I of the Indian Health Care Improvement Act (25 U.S.C. 1601
+  et seq.) is amended by adding immediately after section 112 the following
+  new section:
+`NURSING SCHOOL CLINICS
+  `SEC. 112A. (a) GRANTS- In addition to the authority of the Secretary
+  under section 112(a)(1), the Secretary, acting through the Service,
+  is authorized to provide grants to public or private schools of nursing
+  for the purpose of establishing, developing, operating, and administering
+  clinics to address the health care needs of Indians, and to provide primary
+  health care services to Indians who reside on or within 50 miles of Indian
+  country, as defined in section 1151 of title 18, United States Code.
+  `(b) PURPOSES- Grants provided under subsection (a) may be used to--
+  `(1) establish clinics, to be run and staffed by the faculty and students
+  of a grantee school, to provide primary care services in areas in or within
+  50 miles of Indian country (as defined in section 1151 of title 18, United
+  States Code);
+  `(2) provide clinical training, program development, faculty enhancement,
+  and student scholarships in a manner that would benefit such clinics; and
+  `(3) carry out any other activities determined appropriate by the Secretary.
+  `(c) AMOUNT AND CONDITIONS- The Secretary may award grants under this
+  section in such amounts and subject to such conditions as the Secretary
+  deems appropriate.
+  `(d) DESIGN- The clinics established under this section shall be designed
+  to provide nursing students with a structured clinical experience that
+  is similar in nature to that provided by residency training programs
+  for physicians.
+  `(e) REGULATIONS- The Secretary shall prescribe such regulations as may
+  be necessary to carry out the provisions of this section.
+  `(f) AUTHORIZATION TO USE AMOUNTS- Out of amounts appropriated to carry
+  out this title for each of the fiscal years 1993 through 2000 not more
+  than $5,000,000 may be used to carry out this section.'.
+SEC. 105. MAINTENANCE OF COMMUNITY HEALTH REPRESENTATIVE PROGRAM.
+  Section 107(b) of the Act (25 U.S.C. 1616(b)) is amended--
+  (1) in paragraph (2), in the material preceding subparagraph (A), by
+  inserting `and maintain' after `develop';
+  (2) in paragraph (2)(B), by adding at the end the following: `with
+  appropriate consideration given to lifestyle factors that have an impact on
+  Indian health status, such as alcoholism, family dysfunction, and poverty,';
+  (3) in paragraphs (3) and (5), by striking out `develop' each place it
+  appears  and inserting in lieu thereof `maintain'; and
+  (4) in paragraph (4), by striking out `develop and'.
+SEC. 106. CHANGES TO INDIAN HEALTH SERVICE LOAN REPAYMENT PROGRAM.
+  (a) ELIGIBILITY REQUIREMENTS- Section 108 of the Act (25 U.S.C. 1616a(b))
+  is amended--
+  (1) in subsection (a)(1), by striking out `physicians,' and all that
+  follows through `professionals' and inserting in lieu thereof `health
+  professionals'; and
+  (2) in subsection (b)--
+  (A) in paragraph (1)(A)--
+  (i) by amending clause (i) to read as follows:
+  `(i) in a course of study or program in an accredited institution, as
+  determined by the Secretary, within any State and be scheduled to complete
+  such course of study in the same year such individual applies to participate
+  in such program; or'; and
+  (ii) in clause (ii), by striking out `medicine' and all that follows
+  through `health profession' and inserting in lieu thereof the following:
+  `a health profession';
+  (B) in paragraph (1)(B)--
+  (i) by inserting `and' at the end of clause (i), by striking out clause
+  (ii), and by redesignating clause (iii) as clause (ii);
+  (ii) in clause (i), by striking out `medicine, osteopathy, dentistry,
+  or other health profession' and inserting in lieu thereof the following:
+  `a health profession'; and
+  (iii) in clause (ii) (as redesignated by clause (i) of this subparagraph),
+  by striking out `medicine, osteopathy, dentistry, or other health profession'
+  and inserting in lieu thereof the following: `a health profession'; and
+  (C) in paragraph (2), by inserting `and' at the end of subparagraph (D),
+  by striking out paragraphs (3) and (4), and by inserting after paragraph
+  (2) the following:
+  `(3) submit to the Secretary an application for a contract described in
+  subsection (f).'.
+  (b) PRIORITY- Section 108(d) of the Act (25 U.S.C. 1616a(d)) is amended--
+  (1) in paragraph (1), by striking out `The' and inserting `Consistent with
+  paragraph (3), the'; and
+  (2) by adding at the end the following new paragraph:
+  `(3)(A) Subject to subparagraph (B), of the total amounts appropriated for
+  each of the fiscal years 1993, 1994, and 1995 for loan repayment contracts
+  under this section, the Secretary shall provide that--
+  `(i) not less than 25 percent be provided to applicants who are nurses,
+  nurse practitioners, or nurse midwives; and
+  `(ii) not less than 10 percent be provided to applicants who are mental
+  health professionals (other than applicants described in clause (i)).
+  `(B) The requirements specified in clause (i) or clause (ii) of subparagraph
+  (A) shall not apply if the Secretary does not receive the number of
+  applications from the individuals described in clause (i) or clause (ii),
+  respectively, necessary to meet such requirements.'.
+  (c) BECOMING A PARTICIPANT- Paragraph (1) of section 108(e) (25
+  U.S.C. 1616a(e)) is amended to read as follows:
+  `(1) An individual becomes a participant in the Loan Repayment Program
+  only upon the Secretary and the individual entering into a written contract
+  described in subsection (f).'.
+  (d) EXTENSION OF OBLIGATED SERVICE- Paragraph (2)(A) of section 108(e)
+  (25 U.S.C. 1616a(e)) is amended by inserting before the semicolon the
+  following: `, including extensions resulting in an aggregate period of
+  obligated service in excess of 4 years'.
+  (e) CLARIFICATION REGARDING UNDERGRADUATE LOANS- Paragraph (1) of section
+  108(g) (25 U.S.C. 1616a(g)) is amended in the matter preceding subparagraph
+  (A) by striking out `loans received by the individual for--' and inserting
+  in lieu thereof `loans received by the individual regarding the undergraduate
+  or graduate education oftheindividual(orboth),whichloansweremadefor--'.
+  (f) PAYMENT- Section 108(g)(2)(A) (25 U.S.C. 1616a(g)(2)(A)) is amended
+  to read as follows:
+  `(2)(A) For each year of obligated service that an individual contracts
+  to serve under subsection (f) the Secretary may pay up to $35,000 (or an
+  amount equal to the amount specified in section 338B(g)(2)(A) of the Public
+  Health Service Act) on behalf of the individual for loans described in
+  paragraph (1). In making a determination of the amount to pay for a year
+  of such service by an individual, the Secretary shall consider the extent
+  to which each such determination--
+  `(i) affects the ability of the Secretary to maximize the number of
+  contracts that can be provided under the Loan Repayment Program from the
+  amounts appropriated for such contracts;
+  `(ii) provides an incentive to serve in Indian health programs with the
+  greatest shortages of health professionals; and
+  `(iii) provides an incentive with respect to the health professional involved
+  remaining in an Indian health program with such a health professional
+  shortage, and continuing to provide primary health services, after the
+  completion of the period of obligated service under the Loan Repayment
+  Program.'.
+  (g) TAX LIABILITY- (1) Paragraph (3) of section 108(g) (25
+  U.S.C. 1616a(g)(3)) is amended to read as follows:
+  `(3) For the purpose of providing reimbursements for tax liability resulting
+  from payments under paragraph (2) on behalf of an individual, the Secretary--
+  `(A) in addition to such payments, may make payments to the individual
+  in an amount not less than 20 percent and not more than 39 percent of the
+  total amount of loan repayments made for the taxable year involved; and
+  `(B) may make such additional payments as the Secretary determines to be
+  appropriate with respect to such purpose.'.
+  (2) The amendment made by paragraph (1) shall apply only with respect
+  to contracts under section 108 of the Indian Health Care Improvement Act
+  entered into on or after the date of enactment of this Act.
+  (h) STAFFING NEEDS- Section 108(k) (25 U.S.C. 1616a(k)) is amended to read
+  as follows:
+  `(k) The Secretary, in assigning individuals to serve in Indian health
+  programs pursuant to contracts entered into under this section, shall--
+  `(1) ensure that the staffing needs of Indian health programs administered by
+  an Indian tribe or tribal or health organization receive consideration on an
+  equal basis with programs that are administered directly by the Service; and
+  `(2) give priority to assigning individuals to Indian health programs
+  that have a need for health professionals to provide health care services
+  as a result of individuals having breached contracts entered into under
+  this section.'.
+  (i) ANNUAL REPORT- Subsection (n) of section 108 is amended to read
+  as follows:
+  `(n) The Secretary shall submit to the President, for inclusion in each
+  report required to be submitted to the Congress under section 801, a report
+  concerning the previous fiscal year which sets forth--
+  `(1) the health professional positions maintained by the Service or by tribal
+  or Indian organizations for which recruitment or retention is difficult;
+  `(2) the number of Loan Repayment Program applications filed with respect
+  to each type of health profession;
+  `(3) the number of contracts described in subsection (f) that are entered
+  into with respect to each health profession;
+  `(4) the amount of loan payments made under this section, in total and by
+  health profession;
+  `(5) the number of scholarship grants that are provided under section 104
+  with respect to each health profession;
+  `(6) the amount of scholarship grants provided under section 104, in total
+  and by health profession;
+  `(7) the number of providers of health care that will be needed by Indian
+  health programs, by location and profession, during the three fiscal years
+  beginning after the date the report is filed; and
+  `(8) the measures the Secretary plans to take to fill the health professional
+  positions maintained by the Service or by tribes or tribal or Indian
+  organizations for which recruitment or retention is difficult.'.
+SEC. 107. RECRUITMENT ACTIVITIES.
+  Section 109 of the Act (25 U.S.C. 1616b) is amended--
+  (1) by amending the heading to read as follows:
+`RECRUITMENT ACTIVITIES'; AND
+  (2) by amending subsection (b) to read as follows:
+  `(b) The Secretary, acting through the Service, shall assign one individual
+  in each area office to be responsible on a full-time basis for recruitment
+  activities.'.
+SEC. 108. ADVANCED TRAINING AND RESEARCH.
+  Section 111 of the Act (25 U.S.C. 1616d) is amended--
+  (1) in subsection (b), by amending the last sentence to read as follows:
+  `In such event, with respect to individuals entering the program after
+  the date of the enactment of the Indian Health Amendments of 1992, the
+  United States shall be entitled to recover from such individual an amount
+  to be determined in accordance with the formula specified in subsection
+  (l) of section 108 in the manner provided for in such subsection.'; and
+  (2) by striking out subsection (d).
+SEC. 109. INMED PROGRAM.
+  Section 114(b) of the Act (25 U.S.C. 1616g(b)) is amended--
+  (1) by inserting after `North Dakota,' the following: `to be known as the
+  `Quentin N. Burdick Indian Health Programs','; and
+  (2) by adding at the end the following: `Such program shall, to the maximum
+  extent feasible, coordinate with the Quentin N. Burdick American Indians
+  Into Psychology Program established under section 217(b) and the Quentin
+  N. Burdick American Indians Into Nursing Program established under section
+  112(e).'.
+SEC. 110. SCHOLARSHIP AND LOAN REPAYMENT RECOVERY FUND.
+  Title I of the Act is amended by inserting after section 108 the following
+  new section:
+`SCHOLARSHIP AND LOAN REPAYMENT RECOVERY FUND
+  `SEC. 108A. (a) There is established in the Treasury of the United States a
+  fund to be known as the Indian Health Scholarship and Loan Repayment Recovery
+  Fund (hereafter in this section referred to as the `Fund'). The Fund shall
+  consist of such amounts as may be appropriated to the Fund under subsection
+  (b). Amounts appropriated for the Fund shall remain available until expended.
+  `(b) For each fiscal year, there is authorized to be appropriated to the
+  Fund an amount equal to the sum of--
+  `(1) the amount collected during the preceding fiscal year by the Federal
+  Government pursuant to--
+  `(A) the liability of individuals under subparagraph (A) or (B) of section
+  104(b)(5) for the breach of contracts entered into under section 104; and
+  `(B) the liability of individuals under section 108(l) for the breach of
+  contracts entered into under section 108; and
+  `(2) the aggregate amount of interest accruing during the preceding fiscal
+  year on obligations held in the Fund pursuant to subsection (d) and the
+  amount of proceeds from the sale or redemption of such obligations during
+  such fiscal year.
+  `(c)(1) Amounts in the Fund and available pursuant to appropriation Acts may
+  be expended by the Secretary, acting through the Service, to make payments
+  to an Indian tribe or tribal organization administering a health care program
+  pursuant to a contract entered into under the Indian Self-Determination Act--
+  `(A) to which a scholarship recipient under section 104 or a loan repayment
+  program participant under section 108 has been assigned to meet the
+  obligated service requirements pursuant to sections; and
+  `(B) that has a need for a health professional to provide health care
+  services as a result of such recipient or participant having breached the
+  contract entered into under section 104 or section 108.
+  `(2) An Indian tribe or tribal organization receiving payments pursuant
+  to paragraph (1) may expend the payments to recruit and employ, directly
+  or by contract, health professionals to provide health care services.
+  `(d)(1) The Secretary of the Treasury shall invest such amounts of the Fund
+  as such Secretary determines are not required to meet current withdrawals
+  from the Fund. Such investments may be made only in interest-bearing
+  obligations of the United States. For such purpose, such obligations
+  may be acquired on original issue at the issue price, or by purchase of
+  outstanding obligations at the market price.
+  `(2) Any obligation acquired by the Fund may be sold by the Secretary of
+  the Treasury at the market price.'.
+SEC. 111. COMMUNITY HEALTH AIDE PROGRAM.
+  Title I of the Act (as amended by section 104 of this Act) is amended by
+  adding at the end the following new section:
+`COMMUNITY HEALTH AIDE PROGRAM FOR ALASKA
+  `SEC. 119. (a) Under the authority of the Act of November 2, 1921 (25
+  U.S.C. 13; popularly known as the Snyder Act), the Secretary shall maintain
+  a Community Health Aide Program in Alaska under which the Service--
+  `(1) provides for the training of Alaska Natives as health aides or
+  community health practitioners;
+  `(2) uses such aides or practitioners in the provision of health care,
+  health promotion, and disease prevention services to Alaska Natives living
+  in villages in rural Alaska; and
+  `(3) provides for the establishment of teleconferencing capacity in health
+  clinics located in or near such villages for use by community health aides
+  or community health practitioners.
+  `(b) The Secretary, acting through the Community Health Aide Program of
+  the Service, shall--
+  `(1) using trainers accredited by the Program, provide a high standard
+  of training to community health aides and community health practitioners
+  to ensure that such aides and practitioners provide quality health care,
+  health promotion, and disease prevention services to the villages served
+  by the Program;
+  `(2) in order to provide such training, develop a curriculum that--
+  `(A) combines education in the theory of health care with supervised
+  practical experience in the provision of health care;
+  `(B) provides instruction and practical experience in the provision of
+  acute care, emergency care, health promotion, disease prevention, and
+  the efficient and effective management of clinic pharmacies, supplies,
+  equipment, and facilities; and
+  `(C) promotes the achievement of the health status objectives specified
+  in section 3(b);
+  `(3) establish and maintain a Community Health Aide Certification Board
+  to certify as community health aides or community health practitioners
+  individuals who have successfully completed the training described in
+  paragraph (1) or can demonstrate equivalent experience;
+  `(4) develop and maintain a system which identifies the needs of community
+  health aides and community health practitioners for continuing education in
+  the provision of health care, including the areas described in paragraph
+  (2)(B), and develop programs that meet the needs for such continuing
+  education;
+  `(5) develop and maintain a system that provides close supervision of
+  community health aides and community health practitioners; and
+  `(6) develop a system under which the work of community health aides and
+  community health practitioners is reviewed and evaluated to assure the
+  provision of quality health care, health promotion, and disease prevention
+  services.'.
+SEC. 112. MATCHING GRANTS TO TRIBES.
+  Title I of the Act (as amended by section 111 of this Act) is amended by
+  adding at the end the following new section:
+`MATCHING GRANTS TO TRIBES FOR SCHOLARSHIP PROGRAMS
+  `SEC. 120. (a)(1) The Secretary shall make grants to Indian tribes and
+  tribal organizations for the purpose of assisting such tribes and tribal
+  organizations in educating Indians to serve as health professionals in
+  Indian communities.
+  `(2) Amounts available for grants under paragraph (1) for any fiscal year
+  shall not exceed 5 percent of amounts available for such fiscal year for
+  Indian Health Scholarships under section 104.
+  `(3) An application for a grant under paragraph (1) shall be in such form
+  and contain such agreements, assurances, and information as the Secretary
+  determines are necessary to carry out this section.
+  `(b)(1) An Indian tribe or tribal organization receiving a grant under
+  subsection (a) shall agree to provide scholarships to Indians pursuing
+  education in the health professions in accordance with the requirements
+  of this section.
+  `(2) With respect to the costs of providing any scholarship pursuant to
+  paragraph (1)--
+  `(A) 80 percent of the costs of the scholarship shall be paid from the grant
+  made under subsection (a) to the Indian tribe or tribal organization; and
+  `(B) 20 percent of such costs shall be paid from non-Federal contributions
+  by the Indian tribe or tribal organization through which the scholarship
+  is provided.
+  `(3) In determining the amount of non-Federal contributions that have
+  been provided for purposes of subparagraph (B) of paragraph (2), any
+  amounts provided by the Federal Government to the Indian tribe or tribal
+  organization involved or to any other entity shall not be included.
+  `(4) Non-Federal contributions required by subparagraph (B) of paragraph
+  (2) may be provided directly by the Indian tribe or tribal organization
+  involved or through donations from public and private entities.
+  `(c) An Indian tribe or tribal organization shall provide scholarships
+  under subsection (b) only to Indians enrolled or accepted for enrollment
+  in a course of study (approved by the Secretary) in one of the health
+  professions described in section 104(a).
+  `(d) In providing scholarships under subsection (b), the Secretary and the
+  Indian tribe or tribal organization shall enter into a written contract
+  with each recipient of such scholarship. Such contract shall--
+  `(1) obligate such recipient to provide service in an Indian health program
+  (as defined in section 108(a)(2)(A)), in the same service area where the
+  Indian tribe or tribal organization providing the scholarship is located,
+  for--
+  `(A) a number of years equal to the number of years for which the scholarship
+  is provided (or the part-time equivalent thereof, as determined by the
+  Secretary), or for a period of 2 years, whichever period is greater; or
+  `(B) such greater period of time as the recipient and the Indian tribe or
+  tribal organization may agree;
+  `(2) provide that the amount of such scholarship--
+  `(A) may be expended only for--
+  `(i) tuition expenses, other reasonable educational expenses, and reasonable
+  living expenses incurred in attendance at the educational institution; and
+  `(ii) payment to the recipient of a monthly stipend of not more than the
+  amount authorized by section 338A(g)(1)(B) of the Public Health Service Act
+  (42 U.S.C. 254m(g)(1)(B)), such amount to be reduced pro rata (as determined
+  by the Secretary) based on the number of hours such student is enrolled; and
+  `(B) may not exceed, for any year of attendance for which the scholarship
+  is provided, the total amount required for the year for the purposes
+  authorized in subparagraph (A);
+  `(3) require the recipient of such scholarship to maintain an acceptable
+  level of academic standing (as determined by the educational institution
+  in accordance with regulations issued by the Secretary); and
+  `(4) require the recipient of such scholarship to meet the educational
+  and licensure requirements necessary to be a physician, certified nurse
+  practitioner, certified nurse midwife, or physician assistant.
+  `(e)(1) An individual who has entered into a written contract with the
+  Secretary and an Indian tribe or tribal organization under subsection (d)
+  and who--
+  `(A) fails to maintain an acceptable level of academic standing in the
+  educational institution in which he is enrolled (such level determined by
+  the educational institution under regulations of the Secretary),
+  `(B) is dismissed from such educational institution for disciplinary reasons,
+  `(C) voluntarily terminates the training in such an educational institution
+  for which he is provided a scholarship under such contract before the
+  completion of such training, or
+  `(D) fails to accept payment, or instructs the educational institution
+  in which he is enrolled not to accept payment, in whole or in part, of a
+  scholarship under such contract,
+in lieu of any service obligation arising under such contract, shall be
+liable to the United States for the Federal share of the amount which has
+been paid to him, or on his behalf, under the contract.
+  `(2) If for any reason not specified in paragraph (1), an individual
+  breaches his written contract by failing either to begin such individual's
+  service obligation required under such contract or to complete such
+  service obligation, the United States shall be entitled to recover from the
+  individual an amount determined in accordance with the formula specified in
+  subsection (l) of section 108 in the manner provided for in such subsection.
+  `(3) The Secretary may carry out this subsection on the basis of information
+  submitted by the tribes or tribal organizations involved, or on the basis of
+  information collected through such other means as the Secretary determines
+  to be appropriate.
+  `(f) The recipient of a scholarship under subsection (b) shall agree,
+  in providing health care pursuant to the requirements of subsection (d)(1)--
+  `(1) not to discriminate against an individual seeking such care on the
+  basis of the ability of the individual to pay for such care or on the
+  basis that payment for such care will be made pursuant to the program
+  established in title XVIII of the Social Security Act or pursuant to the
+  program established in title XIX of such Act; and
+  `(2) to accept assignment under section 1842(b)(3)(B)(ii) of the Social
+  Security Act for all services for which payment may be made under part B of
+  title XVIII of such Act, and to enter into an appropriate agreement with
+  the State agency that administers the State plan for medical assistance
+  under title XIX of such Act to provide service to individuals entitled to
+  medical assistance under the plan.
+  `(g) The Secretary may not make any payments under subsection (a) to an
+  Indian tribe or tribal organization for any fiscal year subsequent to the
+  first fiscal year of such payments unless the Secretary determines that,
+  for the immediately preceding fiscal year, the Indian tribe or tribal
+  organization has complied with requirements of this section.'.
+SEC. 113. TRIBAL HEALTH PROGRAM ADMINISTRATION.
+  Title I of the Act (as amended by section 112 of this Act) is amended by
+  adding at the end the following new section:
+`TRIBAL HEALTH PROGRAM ADMINISTRATION
+  `SEC. 121. The Secretary shall, by contract or otherwise, provide
+  training for individuals in the administration and planning of tribal
+  health programs.'.
+SEC. 114. TRIBALLY CONTROLLED VOCATIONAL INSTITUTIONS.
+  (a) NURSING PROGRAM GRANTS- Section 112(a)(2) of the Act (25
+  U.S.C. 1616e(a)(2)) is amended by inserting before the comma the following:
+  `and tribally controlled postsecondary vocational institutions (as defined in
+  section 390(2) of the Tribally Controlled Vocational Institutions Support
+  Act of 1990 (20 U.S.C. 2397h(2))'.
+  (b) TRIBAL CULTURE AND HISTORY PROGRAMS- Section 113(b)(1) of the Act (25
+  U.S.C. 1616f(b)(1) is amended by inserting before the comma `and tribally
+  controlled postsecondary vocational institutions (as defined in section
+  390(2) of the Tribally Controlled Vocational Institutions Support Act of
+  1990 (20 U.S.C. 2397h(2))'.
+SEC. 115. CONTINUING EDUCATION ALLOWANCES.
+  Section 106(b) of the Act (25 U.S.C. 1615(b)) is amended to read as follows:
+  `(b) Of amounts appropriated under the authority of this title for
+  each fiscal year to be used to carry out this section, not more than
+  $1,000,000 may be used to establish postdoctoral training programs for
+  health professionals.'.
+SEC. 116. UNIVERSITY OF SOUTH DAKOTA MODEL HEALTH PROGRAM.
+  Title I of the Act (as amended by section 113 of this Act) is amended by
+  adding at the end the following new section:
+`UNIVERSITY OF SOUTH DAKOTA PILOT PROGRAM
+  `SEC. 122. (a) The Secretary may make a grant to the School of Medicine of
+  the University of South Dakota (hereafter in this section referred to as
+  `USDSM') to establish a pilot program on an Indian reservation at one or
+  more service units in South Dakota to address the chronic manpower shortage
+  in the Aberdeen Area of the Service.
+  `(b) The purposes of the program established pursuant to a grant provided
+  under subsection (a) are--
+  `(1) to provide direct clinical and practical experience at a service unit
+  to medical students and residents from USDSM and other medical schools;
+  `(2) to improve the quality of health care for Indians by assuring access
+  to qualified health care professionals; and
+  `(3) to provide academic and scholarly opportunities for physicians,
+  physician assistants, nurse practitioners, nurses, and other allied
+  health professionals serving Indian people by identifying and utilizing
+  all academic and scholarly resources of the region.
+  `(c) The pilot program established pursuant to a grant provided under
+  subsection (a) shall--
+  `(1) incorporate a program advisory board composed of representatives
+  from the tribes and communities in the area which will be served by the
+  program; and
+  `(2) shall be designated as an extension of the USDSM campus and program
+  participants shall be under the direct supervision and instruction of
+  qualified medical staff serving at the service unit who shall be members
+  of the USDSM faculty.
+  `(d) The USDSM shall coordinate the program established pursuant to a grant
+  provided under subsection (a) with other medical schools in the region,
+  nursing schools, tribal community colleges, and other health professional
+  schools.
+  `(e) The USDSM, in cooperation with the Service, shall develop additional
+  professional opportunities for program participants on Indian reservations
+  in order to improve the recruitment and retention of qualified health
+  professionals in the Aberdeen Area of the Service.'.
+SEC. 117. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION- Title I of the Act (as amended by section 116 of this
+  Act) is amended by adding at the end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 123. There are authorized to be appropriated such sums as may be
+  necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+  (b) CONFORMING AMENDMENTS- Title I of the Act is amended--
+  (1) in section 102, by striking out subsection (c);
+  (2) in section 105, by striking out subsection (d);
+  (3) in section 108, by striking out subsection (o);
+  (4) in section 110, by striking out subsection (c);
+  (5) in section 113, by striking out subsection (c);
+  (6) in section 114, by striking out subsection (e);
+  (7) in section 115, by striking out subsection (f); and
+  (8) in section 116, by striking out subsection (e).
+TITLE II--HEALTH SERVICES
+SEC. 201. INDIAN HEALTH CARE IMPROVEMENT FUND.
+  (a) IN GENERAL- Section 201 of the Act (25 U.S.C. 1621) is amended--
+  (1) in subsection (a)--
+  (A) in the material preceding paragraph (1), by striking out `subsection
+  (h)' and inserting in lieu thereof `this section';
+  (B) by amending paragraph (1) to read as follows:
+  `(1) eliminating the deficiencies in health status and resources of all
+  Indian tribes,'; and
+  (C) in paragraph (4), in the material preceding subparagraph (A)--
+  (i) by inserting after `responsibilities' the following: `, either through
+  direct or contract care or through contracts entered into pursuant to the
+  Indian Self-Determination Act,'; and
+  (ii) by striking out `resources deficiency' and inserting in lieu thereof
+  the following: `status and resource deficiencies';
+  (2) in subsection (b)--
+  (A) in paragraph (1), by striking out `subsection (h)' and inserting in
+  lieu thereof `this section';
+  (B) by striking out paragraph (2) and redesignating paragraph (3) as
+  paragraph (2); and
+  (C) in paragraph (2)(A) (as redesignated by subparagraph (B))--
+  (i) by striking out `subsection (h)' and inserting in lieu thereof
+  `this section';
+  (ii) in the first sentence, by striking out `but such allocation' through
+  `met';
+  (iii) in the second sentence--
+  (I) by striking out `(in accordance with paragraph (2))'; and
+  (II) by striking out `raise the deficiency level' and inserting in lieu
+  thereof the following: `reduce the health status and resource deficiency';
+  and
+  (D) in paragraph (2)(B) (as redesignated by subparagraph (B)), by inserting
+  after `consultation with' the following: `, and with the active participation
+  of,';
+  (3) in subsection (c)--
+  (A) by striking out paragraph (1) and redesignating paragraphs (2), (3),
+  and (4) as paragraphs (1), (2), and (3), respectively;
+  (B) by amending paragraph (1) (as redesignated by subparagraph (A) above)
+  to read as follows:
+  `(1) The term `health status and resource deficiency' means the extent
+  to which--
+  `(A) the health status objectives set forth in section 3(b) are not being
+  achieved; and
+  `(B) the Indian tribe does not have available to it the health resources it
+  needs, taking into account the actual cost of providing health care services
+  given local geographic, climatic, rural, or other circumstances.'; and
+  (C) in paragraph (3) (as redesignated by subparagraph (A) above)--
+  (i) by striking out `Under regulations, the' and inserting in lieu thereof
+  `The'; and
+  (ii) by striking out `health resources deficiency level' and inserting in
+  lieu thereof `extent of the health status and resource deficiency';
+  (4) in subsection (d)(1), by striking out `subsection (h)' and inserting
+  in lieu thereof `this section';
+  (5) in subsection (e)--
+  (A) in the material preceding paragraph (1)--
+  (i) by striking out `60 days' and inserting in lieu thereof `3 years';
+  (ii) by striking out `Indian Health Care Amendments of 1988' and inserting
+  in lieu thereof `Indian Health Amendments of 1992'; and
+  (iii) by striking out `health services priority system' and inserting in
+  lieu thereof `health status and resource deficiency';
+  (B) in paragraph (1), by striking out `health resources deficiencies'
+  and inserting in lieu thereof `health status and resource deficiencies';
+  (C) in paragraph (2),  by striking out `the level of health resources
+  deficiency for' and inserting in lieu thereof the following: `the extent
+  of the health status and resource deficiency of';
+  (D) in paragraph (3), by striking `raise all' and all that follows through
+  the semicolon and insert in lieu thereof the following: `eliminate the
+  health status and resource deficiencies of all Indian tribes served by
+  the Service; and'; and
+  (E) by striking out paragraphs (4) and (5) and redesignating paragraph
+  (6) as paragraph (4); and
+  (6) in subsection (f), by striking out `(f)(1)' and all that follows through
+  the paragraph designation for paragraph (2) and inserting in lieu thereof
+  `(f)'.
+  (b) EFFECTIVE DATE- Except with respect to the amendments made by subsection
+  (a)(5), the amendments made by subsection (a) shall take effect three
+  years after the date of the enactment of this Act. The amendments made
+  by subsection (a)(5) shall take effect upon the date of the enactment of
+  this Act.
+  (c) TECHNICAL AMENDMENT- The heading for section 201 of the Act (25
+  U.S.C. 1621) is amended to read as follows:
+`INDIAN HEALTH CARE IMPROVEMENT FUND'.
+SEC. 202. CATASTROPHIC HEALTH EMERGENCY FUND.
+  (a) IN GENERAL- Section 202 of the Act (25 U.S.C. 1621a) is amended--
+  (1) in subsection (a)(1)(B), by striking out `under subsection (e)' and
+  inserting in lieu thereof `to the Fund under this section';
+  (2) in subsection (b)(2), by striking out `shall establish at not less
+  than $10,000 or not more than $20,000;' and inserting in lieu thereof the
+  following: `shall establish at--
+  `(A)  for 1993, not less than $15,000 or not more than $25,000; and
+  `(B) for any subsequent year, not less than the threshold cost of the
+  previous year increased by the percentage increase in the medical care
+  expenditure category of the consumer price index for all urban consumers
+  (United States city average) for the 12-month period ending with December
+  of the previous year;'; and
+  (3) in subsection (c), by striking out `Funds appropriated under subsection
+  (e)' and inserting in lieu thereof `Amounts appropriated to the Fund under
+  this section'.
+  (b) EFFECTIVE DATE- The amendment made by subsection (a)(2) shall take
+  effect January 1, 1993.
+SEC. 203. HEALTH PROMOTION AND DISEASE PREVENTION.
+  Section 203 of the Act (25 U.S.C. 1621b) is amended--
+  (1) in subsection (a), by inserting before the period at the end the
+  following: `so as to achieve the health status objectives set forth in
+  section 3(b)';
+  (2) in subsection (b), in the material preceding paragraph (1), by striking
+  out `section 201(f)' and inserting in lieu thereof `section 801'; and
+  (3) by striking out subsection (c).
+SEC. 204. DIABETES PREVENTION, TREATMENT, AND CONTROL.
+  Section 204 of the Act (25 U.S.C. 1621c) is amended--
+  (1) by amending subsection (c) to read as follows:
+  `(c)(1) The Secretary shall continue to maintain through fiscal year 2000
+  each model diabetes project in existence on the date of the enactment of
+  the Indian Health Amendments of 1992 and located--
+  `(A) at the Claremore Indian Hospital in Oklahoma;
+  `(B) at the Fort Totten Health Center in North Dakota;
+  `(C) at the Sacaton Indian Hospital in Arizona;
+  `(D) at the Winnebago Indian Hospital in Nebraska;
+  `(E) at the Albuquerque Indian Hospital in New Mexico;
+  `(F) at the Perry, Princeton, and Old Town Health Centers in Maine;
+  `(G) at the Bellingham Health Center in Washington;
+  `(H) at the Fort Berthold Reservation;
+  `(I) at the Navajo Reservation;
+  `(J) at the Papago Reservation;
+  `(K) at the Zuni Reservation; or
+  `(L) in the States of Alaska, California, Minnesota, Montana, Oregon,
+  or Utah.
+  `(2) The Secretary may establish new model diabetes projects under this
+  section taking into consideration applications received under this section
+  from all service areas, except that the Secretary may not establish a greater
+  number of such projects in one service area than in any other service area
+  until there is an equal number of such projects established with respect to
+  all service areas from which the Secretary receives qualified applications
+  during the application period (as determined by the Secretary).'; and
+  (2) in subsection (d)--
+  (A) in paragraph (2), by striking out `and' after the semicolon;
+  (B) in paragraph (3), by striking out the period and inserting in lieu
+  thereof the following: `; and'; and
+  (C) by adding at the end the following new paragraph:
+  `(4) evaluate the effectiveness of services provided through model diabetes
+  projects established under this section.'.
+SEC. 205. MENTAL HEALTH PREVENTION AND TREATMENT SERVICES.
+  Section 209 of the Act (25 U.S.C. 1621h) is amended--
+  (1) in subsection (j) (as redesignated by section 902(3)(B) of this Act),
+  by striking out `submit to the Congress an annual report' and inserting
+  in lieu thereof the following: `submit to the President, for inclusion in
+  each report required to be transmitted to the Congress under section 801,
+  a report'; and
+  (2) by adding at the end the following new subsections:
+  `(l) LICENSING REQUIREMENT FOR MENTAL HEALTH CARE WORKERS- Any person
+  employed as a psychologist, social worker, or marriage and family therapist
+  for the purpose of providing mental health care services to Indians in
+  a clinical setting under the authority of this Act or through a contract
+  pursuant to the Indian Self-Determination Act shall--
+  `(1) in the case of a person employed as a psychologist, be licensed as a
+  clinical psychologist or working under the direct supervision of a licensed
+  clinical psychologist;
+  `(2) in the case of a person employed as a social worker, be licensed as a
+  social worker or working under the direct supervision of a licensed social
+  worker; or
+  `(3) in the case of a person employed as a marriage and family therapist,
+  be licensed as a marriage and family therapist or working under the direct
+  supervision of a licensed marriage and family therapist.
+  `(m) INTERMEDIATE ADOLESCENT MENTAL HEALTH SERVICES- (1) The Secretary,
+  acting through the Service, may make grants to Indian tribes and tribal
+  organizations to provide intermediate mental health services to Indian
+  children and adolescents, including--
+  `(A) inpatient and outpatient services;
+  `(B) emergency care;
+  `(C) suicide prevention and crisis intervention; and
+  `(D) prevention and treatment of mental illness, and dysfunctional and
+  self-destructive behavior, including child abuse and family violence.
+  `(2) Funds provided under this subsection may be used--
+  `(A) to construct or renovate an existing health facility to provide
+  intermediate mental health services;
+  `(B) to hire mental health professionals;
+  `(C) to staff, operate, and maintain an intermediate mental health facility,
+  group home, or youth shelter where intermediate mental health services
+  are being provided; and
+  `(D) to make renovations and hire appropriate staff to convert existing
+  hospital beds into adolescent psychiatric units.
+  `(3) Funds provided under this subsection may not be used for the purposes
+  described in section 216(b)(1).
+  `(4) An Indian tribe or tribal organization receiving a grant under this
+  subsection shall ensure that intermediate adolescent mental health services
+  are coordinated with other tribal, Service, and Bureau of Indian Affairs
+  mental health, alcohol and substance abuse, and social services programs
+  on the reservation of such tribe or tribal organization.
+  `(5) The Secretary shall establish criteria for the review and approval
+  of applications for grants made pursuant to this subsection.
+  `(6) There are authorized to be appropriated to carry out this section
+  $10,000,000 for fiscal year 1993 and such sums as may be necessary for
+  each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.'.
+SEC. 206. NEW STUDIES AND DEMONSTRATION PROGRAM.
+  (a) HOSPICE CARE- Title II of the Act is amended by inserting after section
+  204 the following:
+`HOSPICE CARE FEASIBILITY STUDY
+  `SEC. 205. (a) The Secretary, acting through the Service and in consultation
+  with representatives of Indian tribes, tribal organizations, Indian Health
+  Service personnel, and hospice providers, shall conduct a study--
+  `(1) to assess the feasibility and desirability of furnishing hospice care
+  to terminally ill Indians; and
+  `(2) to determine the most efficient and effective means of furnishing
+  such care.
+  `(b) Such study shall--
+  `(1) assess the impact of Indian culture and beliefs concerning death and
+  dying on the provision of hospice care to Indians;
+  `(2) estimate the number of Indians for whom hospice care may be appropriate
+  and determine the geographic distribution of such individuals;
+  `(3) determine the most appropriate means to facilitate the participation
+  of Indian tribes and tribal organizations in providing hospice care;
+  `(4) identify and evaluate various means for providing hospice care,
+  including--
+  `(A) the provision of such care by the personnel of a Service hospital
+  pursuant to a hospice program established by the Secretary at such
+  hospital; and
+  `(B) the provision of such care by a community-based hospice program under
+  contract to the Service; and
+  `(5) identify and assess any difficulties in furnishing such care and the
+  actions needed to resolve such difficulties.
+  `(c) Not later than the date which is 12 months after the date of the
+  enactment of this section, the Secretary shall transmit to the Congress
+  a report containing--
+  `(1) a detailed description of the study conducted pursuant to this
+  section; and
+  `(2) a discussion of the findings and conclusions of such study.
+  `(d) For the purposes of this section--
+  `(1) the term `terminally ill' means any Indian who has a medical prognosis
+  (as certified by a physician) of a life expectancy of six months or less; and
+  `(2) the term `hospice program' means any program which satisfies the
+  requirements of section 1861(dd)(2) of the Social Security Act (42
+  U.S.C. 1395x(dd)(2)); and
+  `(3) the term `hospice care' means the items and services specified in
+  subparagraphs (A) through (H) of section 1861(dd)(1) of the Social Security
+  Act (42 U.S.C. 1395x(dd)(1)).'.
+  (b) MANAGED CARE- Title II of the Act is amended by adding at the end the
+  following new section:
+`MANAGED CARE FEASIBILITY STUDY
+  `SEC. 210. (a) The Secretary, acting through the Service, shall conduct a
+  study to assess the feasibility of allowing an Indian tribe to purchase,
+  directly or through the Service, managed care coverage for all members of
+  the tribe from--
+  `(1) a tribally owned and operated managed care plan; or
+  `(2) a State licensed managed care plan.
+  `(b) Not later than the date which is 12 months after the date of the
+  enactment of this section, the Secretary shall transmit to the Congress
+  a report containing--
+  `(1) a detailed description of the study conducted pursuant to this
+  section; and
+  `(2) a discussion of the findings and conclusions of such study.'.
+  (c) CONTRACT CARE- Title II of the Act (as amended by subsection (b)
+  of this Act) is amended by adding at the end the following new section:
+`CALIFORNIA CONTRACT HEALTH SERVICES DEMONSTRATION PROGRAM
+  `SEC. 211. (a) The Secretary shall establish a demonstration program to
+  evaluate the use of a contract care intermediary to improve the accessibility
+  of health services to California Indians.
+  `(b)(1) In establishing such program, the Secretary shall enter into an
+  agreement with the California Rural Indian Health Board to reimburse the
+  Board for costs (including reasonable administrative costs) incurred,
+  during the period of the demonstration program, in providing medical
+  treatment under contract to California Indians described in section 809(b)
+  throughout the California contract health services delivery area described
+  in section 810 with respect to high-cost contract care cases.
+  `(2) Not more than 5 percent of the amounts provided to the Board under
+  this section for any fiscal year may be for reimbursement for administrative
+  expenses incurred by the Board during such fiscal year.
+  `(3) No payment may be made for treatment provided under the demonstration
+  program to the extent payment may be made for such treatment under the
+  Catastrophic Health Emergency Fund described in section 202 or from amounts
+  appropriated or otherwise made available to the California contract health
+  service delivery area for a fiscal year.
+  `(c) There is hereby established an advisory board which shall advise the
+  California Rural Indian Health Board in carrying out the demonstration
+  pursuant to this section. The advisory board shall be composed of
+  representatives, selected by the California Rural Indian Health Board, from
+  not less than 8 tribal health programs serving California Indians covered
+  under such demonstration, at least one half of whom are not affiliated
+  with the California Rural Indian Health Board.
+  `(d) The demonstration program described in this section shall begin on
+  January 1, 1993, and shall terminate on September 30, 1997.
+  `(e) Not later than July 1, 1998, the California Rural Indian Health Board
+  shall submit to the Secretary a report on the demonstration program carried
+  out under this section, including a statement of its findings regarding
+  the impact of using a contract care intermediary on--
+  `(1) access to needed health services;
+  `(2) waiting periods for receiving such services; and
+  `(3) the efficient management of high-cost contract care cases.
+  `(f) For the purposes of this section, the term `high-cost contract care
+  cases' means those cases in which the cost of the medical treatment provided
+  to an individual--
+  `(1) would otherwise be eligible for reimbursement from the Catastrophic
+  Health Emergency Fund established under section 202, except that the cost
+  of such treatment does not meet the threshold cost requirement established
+  pursuant to section 202(b)(2); and
+  `(2) exceeds $1,000.
+  `(g) There are authorized to be appropriated for each of the fiscal years
+  1993, 1994, 1995, 1996, and 1997 such sums as may be necessary to carry
+  out the purposes of this section.'.
+SEC. 207. COVERAGE OF SCREENING MAMMOGRAPHY.
+  (a) IN GENERAL- Title II of the Act (as amended by section 206(c) of this
+  Act) is amended by adding at the end the following new section:
+`COVERAGE OF SCREENING MAMMOGRAPHY
+  `SEC. 212. The Secretary, through the Service, shall provide for screening
+  mammography (as defined in section 1861(jj) of the Social Security Act)
+  for Indian and urban Indian women 35 years of age or older at a frequency,
+  determined by the Secretary (in consultation with the Director of the
+  National Cancer Institute), appropriate to such women, and under such
+  terms and conditions as are consistent with standards established by the
+  Secretary to assure the safety and accuracy of screening mammography under
+  part B of title XVIII of the Social Security Act.'.
+  (b) CONFORMING AMENDMENT- Section 201(a)(4)(B) of the Act (25
+  U.S.C. 1621(a)(4)(B)) is amended by striking the semicolon at the end and
+  inserting the following: `, including screening mammography in accordance
+  with section 212;'.
+SEC. 208. PATIENT TRAVEL COSTS.
+  Title II of the Act (as amended by section 207 of this Act) is amended by
+  adding at the end the following new section:
+`PATIENT TRAVEL COSTS
+  `SEC. 213. (a) The Secretary, acting through the Service, shall provide
+  funds for the following patient travel costs associated with receiving
+  health care services provided (either through direct or contract care or
+  through contracts entered into pursuant to the Indian Self-Determination
+  Act) under this Act--
+  `(1) emergency air transportation; and
+  `(2) nonemergency air transportation where ground transportation is
+  infeasible.
+  `(b) There are authorized to be appropriated to carry out this section
+  $15,000,000 for fiscal year 1993 and such sums as may be necessary for
+  each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.'.
+SEC. 209. THIRD PARTY REIMBURSEMENT.
+  (a) RECOVERY BY INDIAN TRIBE- Section 206 of the Act (25 U.S.C. 1621e)
+  is amended--
+  (1) by inserting `, an Indian tribe, or a tribal organization' after
+  `United States' each place it appears;
+  (2) in subsection (a), by inserting `, an Indian tribe, or a tribal
+  organization' after `Service';
+  (3) in subsection (a) and subsection (e)(1)(A), by inserting `, an Indian
+  tribe, or a tribal organization' after `Secretary' each place it appears; and
+  (4) in subsection (b), by striking `, or any political subdivision of
+  a State,'.
+  (b) SPECIAL RULE WITH RESPECT TO SELF-INSURANCE PLAN- Section 206 of the
+  Act (25 U.S.C. 1621e) is amended--
+  (1) by striking `(a) The' and inserting the following: `(a) Except as
+  provided in subsection (f), the'; and
+  (2) by adding at the end the following new subsection:
+  `(f) The United States shall not have a right of recovery under this
+  section if the injury, illness, or disability for which health services
+  were provided is covered under a self-insurance plan funded by an Indian
+  tribe or tribal organization.'.
+SEC. 210. EPIDEMIOLOGY CENTERS.
+  Title II of the Act (as amended by section 208 of this Act) is amended by
+  adding at the end the following new section:
+`EPIDEMIOLOGY CENTERS
+  `SEC. 214. (a)(1) The Secretary shall establish an epidemiology center in
+  each Service area to carry out the functions described in paragraph (3).
+  `(2) To assist such centers in carrying out such functions, the Secretary
+  shall perform the following:
+  `(A) In consultation with the Centers for Disease Control and Indian tribes,
+  develop sets of data (which to the extent practicable, shall be consistent
+  with the uniform data sets used by the States with respect to the year
+  2000 health objectives) for uniformly defining health status for purposes
+  of the objectives specified in section 3(b). Such sets shall consist of
+  one or more categories of information. The Secretary shall develop formats
+  for the uniform collecting and reporting of information on such categories.
+  `(B) Establish and maintain a system for monitoring the progress made toward
+  meeting each of the health status objectives described in section 3(b).
+  `(3) In consultation with Indian tribes and urban Indian communities,
+  each area epidemiology center established under this subsection shall,
+  with respect to such area--
+  `(A) collect data relating to, and monitor progress made toward meeting,
+  each of the health status objectives described in section 3(b) using the
+  data sets and monitoring system developed by the Secretary pursuant to
+  paragraph (2);
+  `(B) evaluate existing delivery systems, data systems, and other systems
+  that impact the improvement of Indian health;
+  `(C) assist tribes and urban Indian communities in identifying their highest
+  priority health status objectives and the services needed to achieve such
+  objectives, based on epidemiological data;
+  `(D) make recommendations for the targeting of services needed by tribal,
+  urban, and other Indian communities;
+  `(E) make recommendations to improve health care delivery systems for
+  Indians and urban Indians;
+  `(F) work cooperatively with tribal providers of health and social services
+  in order to avoid duplication of existing services; and
+  `(G) provide technical assistance to Indian tribes and urban Indian
+  organizations in the development of local health service priorities and
+  incidence and prevalence rates of disease and other illness in the community.
+  `(4) Epidemiology centers established under this subsection shall be subject
+  to the provisions of the Indian Self-Determination Act (25 U.S.C. 450f
+  et seq.).
+  `(5) The director of the Centers for Disease Control shall provide
+  technical assistance to the centers in carrying out the requirements of
+  this subsection.
+  `(6) The Service shall assign one epidemiologist from each of its area
+  offices to each area epidemiology center to provide such center with
+  technical assistance necessary to carry out this subsection.
+  `(b)(1) The Secretary may make grants to Indian tribes, tribal organizations,
+  and eligible intertribal consortia or Indian organizations to conduct
+  epidemiological studies of Indian communities.
+  `(2) An intertribal consortia or Indian organization is eligible to receive
+  a grant under this subsection if--
+  `(A) it is incorporated for the primary purpose of improving Indian
+  health; and
+  `(B) it is representative of the tribes or urban Indian communities in
+  which it is located.
+  `(3) An application for a grant under this subsection shall be submitted
+  in such manner and at such time as the Secretary shall prescribe.
+  `(4) Applicants for grants under this subsection shall--
+  `(A) demonstrate the technical, administrative, and financial expertise
+  necessary to carry out the functions described in paragraph (5);
+  `(B) consult and cooperate with providers of related health and social
+  services in order to avoid duplication of existing services; and
+  `(C) demonstrate cooperation from Indian tribes or urban Indian organizations
+  in the area to be served.
+  `(5) A grant awarded under paragraph (1) may be used to--
+  `(A) carry out the functions described in subsection (a)(3);
+  `(B) provide information to and consult with tribal leaders, urban Indian
+  community leaders, and related health staff, on health care and health
+  services management issues; and
+  `(C) provide, in collaboration with tribes and urban Indian communities,
+  the Service with information regarding ways to improve  the health status
+  of Indian people.
+  `(6) There are authorized to be appropriated to carry out the purposes of
+  this subsection not more than $12,000,000 for fiscal year 1993 and such
+  sums as may be necessary for each of the fiscal years 1994, 1995, 1996,
+  1997, 1998, 1999, and 2000.'.
+SEC. 211. COMPREHENSIVE SCHOOL HEALTH EDUCATION PROGRAMS.
+  Title II of the Act (as amended by section 210 of this Act) is amended by
+  adding at the end the following new section:
+`COMPREHENSIVE SCHOOL HEALTH EDUCATION PROGRAMS
+  `SEC. 215. (a) The Secretary, acting through the Service and in consultation
+  with the Secretary of the Interior, may award grants to Indian tribes to
+  develop comprehensive school health education programs for children from
+  preschool through grade 12 in schools located on Indian reservations.
+  `(b) Grants awarded under this section may be used to--
+  `(1) develop health education curricula;
+  `(2) train teachers in comprehensive school health education curricula;
+  `(3) integrate school-based, community-based, and other public and private
+  health promotion efforts;
+  `(4) encourage healthy, tobacco-free school environments;
+  `(5) coordinate school-based health programs with existing services and
+  programs available in the community;
+  `(6) develop school programs on nutrition education, personal health,
+  and fitness;
+  `(7) develop mental health wellness programs;
+  `(8) develop chronic disease prevention programs;
+  `(9) develop substance abuse prevention programs;
+  `(10) develop accident prevention and safety education programs;
+  `(11) develop activities for the prevention and control of communicable
+  diseases; and
+  `(12) develop community and environmental health education programs.
+  `(c) The Secretary shall provide technical assistance to Indian tribes
+  in the development of health education plans, and the dissemination of
+  health education materials and information on existing health programs
+  and resources.
+  `(d) The Secretary shall establish criteria for the review and approval
+  of applications for grants made pursuant to this section.
+  `(e) Recipients of grants under this section shall submit to the Secretary
+  an annual report on activities undertaken with funds provided under this
+  section. Such reports shall include a statement of--
+  `(1) the number of preschools, elementary schools, and secondary schools
+  served;
+  `(2) the number of students served;
+  `(3) any new curricula established with funds provided under this section;
+  `(4) the number of teachers trained in the health curricula; and
+  `(5) the involvement of parents, members of the community, and community
+  health workers in programs established with funds provided under this
+  section.
+  `(f)(1) The Secretary of the Interior, acting through the Bureau of Indian
+  Affairs and in cooperation with the Secretary, shall develop a comprehensive
+  school health education program for children from preschool through grade
+  12 in schools operated by the Bureau of Indian Affairs.
+  `(2) Such program shall include--
+  `(A) school programs on nutrition education, personal health, and fitness;
+  `(B) mental health wellness programs;
+  `(C) chronic disease prevention programs;
+  `(D) substance abuse prevention programs;
+  `(E) accident prevention and safety education programs; and
+  `(F) activities for the prevention and control of communicable diseases.
+  `(3) The Secretary of the Interior shall--
+  `(A) provide training to teachers in comprehensive school health education
+  curricula;
+  `(B) ensure the integration and coordination of school-based programs with
+  existing services and health programs available in the community; and
+  `(C) encourage healthy, tobacco-free school environments.
+  `(g) There are authorized to be appropriated to carry out this section
+  $15,000,000 for fiscal year 1993 and such sums as may be necessary for
+  each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.'.
+SEC. 212. INDIAN YOUTH GRANT PROGRAM.
+  Title II of the Act (as amended by section 211 of this Act) is amended by
+  adding at the end the following new section:
+`INDIAN YOUTH GRANT PROGRAM
+  `SEC. 216. (a) The Secretary, acting through the Service, is authorized
+  to make grants to Indian tribes, tribal organizations, and urban Indian
+  organizations for innovative mental and physical disease prevention and
+  health promotion and treatment programs for Indian preadolescent and
+  adolescent youths.
+  `(b)(1) Funds made available under this section may be used to--
+  `(A) develop prevention and treatment programs for Indian youth which
+  promote mental and physical health and incorporate cultural values,
+  community and family involvement, and traditional healers; and
+  `(B) develop and provide community training and education.
+  `(2) Funds made available under this section may not be used to provide
+  services described in section 209(m).
+  `(c) The Secretary shall--
+  `(1) disseminate to Indian tribes information regarding models for the
+  delivery of comprehensive health care services to Indian and urban Indian
+  adolescents;
+  `(2) encourage the implementation of such models; and
+  `(3) at the request of an Indian tribe, provide technical assistance in
+  the implementation of such models.
+  `(d) The Secretary shall establish criteria for the review and approval
+  of applications under this section.
+  `(e) There are authorized to be appropriated to carry out this section
+  $5,000,000 for fiscal year 1993 and such sums as may be necessary for each
+  of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.'.
+SEC. 213. AMERICAN INDIANS INTO PSYCHOLOGY PROGRAM.
+  Title II of the Act (as amended by section 212 of this Act) is amended by
+  adding at the end the following new section:
+`AMERICAN INDIANS INTO PSYCHOLOGY PROGRAM
+  `SEC. 217. (a) The Secretary may provide grants to at least 3 colleges
+  and universities for the purpose of developing and maintaining American
+  Indian psychology career recruitment programs as a means of encouraging
+  Indians to enter the mental health field.
+  `(b) The Secretary shall provide one of the grants authorized under
+  subsection (a) to develop and maintain a program at the University of
+  North Dakota to be known as the `Quentin N. Burdick American Indians Into
+  Psychology Program'. Such program shall, to the maximum extent feasible,
+  coordinate with the Quentin N. Burdick Indian Health Programs authorized
+  under section 114(b), the Quentin N. Burdick American Indians Into Nursing
+  Program authorized under section 112(e), and existing university research
+  and communications networks.
+  `(c)(1) The Secretary shall issue regulations for the competitive awarding
+  of the grants provided under this section.
+  `(2) Applicants for grants under this section shall agree to provide a
+  program which, at a minimum--
+  `(A) provides outreach and recruitment for health professions to Indian
+  communities including elementary, secondary and community colleges located
+  on Indian reservations that will be served by the program;
+  `(B) incorporates a program advisory board comprised of representatives
+  from the tribes and communities that will be served by the program;
+  `(C) provides summer enrichment programs to expose Indian students to the
+  varied fields of psychology through research, clinical, and experiential
+  activities;
+  `(D) provides stipends to undergraduate and graduate students to pursue
+  a career in psychology;
+  `(E) develops affiliation agreements with tribal community colleges, the
+  Service, university affiliated programs, and other appropriate entities
+  to enhance the education of Indian students;
+  `(F) to the maximum extent feasible, utilizes existing university tutoring,
+  counseling and student support services; and
+  `(G) to the maximum extent feasible, employs qualified Indians in the
+  program.
+  `(d) The active duty service obligation prescribed under section 338C
+  of the Public Health Service Act (42 U.S.C. 254m) shall be met by each
+  graduate student who receives a stipend described in subsection (c)(2)(D)
+  that is funded by a grant provided under this section. Such obligation
+  shall be met by service--
+  `(1) in the Indian Health Service;
+  `(2) in a program conducted under a contract entered into under the Indian
+  Self-Determination Act;
+  `(3) in a program assisted under title V of this Act; or
+  `(4) in the private practice of psychology if, as determined by the
+  Secretary, in accordance with guidelines promulgated by the Secretary,
+  such practice is situated in a physician or other health professional
+  shortage area and addresses the health care needs of a substantial number
+  of Indians.'.
+SEC. 214. PREVENTION, CONTROL, AND ELIMINATION OF TUBERCULOSIS.
+  Title II of the Act (as amended by section 213 of this Act) is amended by
+  adding at the end the following new section:
+`PREVENTION, CONTROL, AND ELIMINATION OF TUBERCULOSIS
+  `SEC. 218. (a) The Secretary, acting through the Service after consultation
+  with the Centers for Disease Control, may make grants to Indian tribes
+  and tribal organizations for--
+  `(1) projects for the prevention, control, and elimination of tuberculosis;
+  `(2) public information and education programs for the prevention, control,
+  and elimination of tuberculosis; and
+  `(3) education, training, and clinical skills improvement activities
+  in the prevention, control, and elimination of tuberculosis for health
+  professionals, including allied health professionals.
+  `(b) The Secretary may make a grant under subsection (a) only if an
+  application for the grant is submitted to the Secretary and the application
+  is in such form, is made in such manner, and contains the assurances
+  required by subsection (c) and such other agreements, assurances, and
+  information as the Secretary may require.
+  `(c) To be eligible for a grant under subsection (a), an applicant must
+  provide assurances satisfactory to the Secretary that--
+  `(1) the applicant will coordinate its activities for the prevention,
+  control, and elimination of tuberculosis with activities of the Centers
+  for Disease Control, and State and local health agencies; and
+  `(2) the applicant will submit to the Secretary an annual report on its
+  activities for the prevention, control, and elimination of tuberculosis.
+  `(d) In carrying out this section, the Secretary--
+  `(1) shall establish criteria for the review and approval of applications
+  for grants under subsection (a), including requirement of public health
+  qualifications of applicants;
+  `(2) shall, subject to available appropriations, make at least one grant
+  under subsection (a) within each area office;
+  `(3) may, at the request of an Indian tribe or tribal organization,
+  provide technical assistance; and
+  `(4) shall prepare and submit a report to the Committee on Energy and
+  Commerce and the Committee on Interior and Insular Affairs of the House
+  and the Select Committee on Indian Affairs of the Senate not later than
+  February 1, 1994, and biennially thereafter, on the use of funds under
+  this section and on the progress made toward the prevention, control,
+  and elimination of tuberculosis among Indian tribes and tribal organizations.
+  `(e) The Secretary may, at the request of a recipient of a grant under
+  subsection (a), reduce the amount of such grant by--
+  `(1) the fair market value of any supplies or equipment furnished the
+  grant recipient; and
+  `(2) the amount of the pay, allowances, and travel expenses of any officer
+  or employee of the Government when detailed to the grant recipient and
+  the amount of any other costs incurred in connection with the detail of
+  such officer or employee,
+when the furnishing of such supplies or equipment or the detail of such an
+officer or employee is for the convenience of and at the request of such
+grant recipient and for the purpose of carrying out a program with respect to
+which the grant under subsection (a) is made. The amount by which any such
+grant is so reduced shall be available for payment by the Secretary of the
+costs incurred in furnishing the supplies or equipment, or in detailing the
+personnel, on which the reduction of such grant is based, and such amount
+shall be deemed as part of the grant and shall be deemed to have been paid
+to the grant recipient.'.
+SEC. 215. CONTRACT HEALTH SERVICES.
+  Title II of the Act (as amended by section 214 of this Act) is amended by
+  adding at the end the following new sections:
+`CONTRACT HEALTH SERVICES PAYMENT STUDY
+  `SEC. 219. (a) The Secretary, acting through the Service and in consultation
+  with representatives of Indian tribes and tribal organizations operating
+  contract health care programs under the Indian Self-Determination Act (25
+  U.S.C. 450f et seq.) or under self-governance compacts, Service personnel,
+  private contract health services providers, the Indian Health Service
+  Fiscal Intermediary, and other appropriate experts, shall conduct a study--
+  `(1) to assess and identify administrative barriers that hinder the timely
+  payment for services delivered by private contract health services providers
+  to individual Indians by the Service and the Indian Health Service Fiscal
+  Intermediary;
+  `(2) to assess and identify the impact of such delayed payments upon the
+  personal credit histories of individual Indians who have been treated by
+  such providers; and
+  `(3) to determine the most efficient and effective means of improving
+  the Service's contract health services payment system and ensuring the
+  development of appropriate consumer protection policies to protect individual
+  Indians who receive authorized services from private contract health services
+  providers from billing and collection practices, including the development
+  of materials and programs explaining patients' rights and responsibilities.
+  `(b) The study required by subsection (a) shall--
+  `(1) assess the impact of the existing contract health services regulations
+  and policies upon the ability of the Service and the Indian Health
+  Service Fiscal Intermediary to process, on a timely and efficient basis,
+  the payment of bills submitted by private contract health services providers;
+  `(2) assess the financial and any other burdens imposed upon individual
+  Indians and private contract health services providers by delayed payments;
+  `(3) survey the policies and practices of collection agencies used
+  by contract health services providers to collect payments for services
+  rendered to individual Indians;
+  `(4) identify appropriate changes in Federal policies, administrative
+  procedures, and regulations, to eliminate the problems experienced by
+  private contract health services providers and individual Indians as a
+  result of delayed payments; and
+  `(5) compare the Service's payment processing requirements with private
+  insurance claims processing requirements to evaluate the systemic differences
+  or similarities employed by the Service and private insurers.
+  `(c) Not later than 12 months after the date of the enactment of this
+  section, the Secretary shall transmit to the Congress a report that
+  includes--
+  `(1) a detailed description of the study conducted pursuant to this
+  section; and
+  `(2) a discussion of the findings and conclusions of such study.
+`PROMPT ACTION ON PAYMENT OF CLAIMS
+  `SEC. 220. (a) The Service shall respond to a notification of a claim by
+  a provider of a contract care service with either an individual purchase
+  order or a denial of the claim within 5 working days after the receipt of
+  such notification.
+  `(b) If the Service fails to respond to a notification of a claim in
+  accordance with subsection (a), the Service shall accept as valid the
+  claim submitted by the provider of a contract care service.
+  `(c) The Service shall pay a completed contract care service claim within
+  30 days after completion of the claim.
+`DEMONSTRATION OF ELECTRONIC CLAIMS PROCESSING
+  `SEC. 221. (a) Not later than June 15, 1993, the Secretary shall develop and
+  implement, directly or by contract, 2 projects to demonstrate in a pilot
+  setting the use of claims processing technology to improve the accuracy
+  and timeliness of the billing for, and payment of, contract health services.
+  `(b) The Secretary shall conduct one of the projects authorized in
+  subsection (a) in the Service area served by the area office located in
+  Phoenix, Arizona.
+`LIABILITY FOR PAYMENT
+  `SEC. 222. (a) A patient who receives contract health care services that
+  are authorized by the Service shall not be liable for the payment of any
+  charges or costs associated with the provision of such services.
+  `(b) The Secretary shall notify a contract care provider and any patient who
+  receives contract health care services authorized by the Service that such
+  patient is not liable for the payment of any charges or costs associated
+  with the provision of such services.'.
+SEC. 216. OFFICE OF WOMEN'S INDIAN HEALTH CARE.
+  Title II of the Act (as amended by section 215 of this Act) is amended by
+  adding at the end the following new section:
+`OFFICE OF INDIAN WOMEN'S HEALTH CARE
+  `SEC. 223. There is established within the Service an Office of Indian
+  Women's Health Care to oversee efforts of the Service to monitor and
+  improve the quality of health care for Indian women of all ages through
+  the planning and delivery of programs administered by the Service, in
+  order to improve and enhance the treatment models of care for Indian women.'.
+SEC. 217. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION- Title II of the Act (as amended by section 216 of this
+  Act) is amended by adding at the end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 224. Except as provided in sections 209(m), 211, 213, 214(b)(5),
+  215, and 216, there are authorized to be appropriated such sums as may
+  be necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+  (b) CONFORMING AMENDMENTS- Title II of the Act is amended--
+  (1) in section 201(h), by striking out the first sentence and striking out
+  `subsection' and inserting in lieu thereof `section'.
+  (2) in section 202, by striking out subsection (e);
+  (3) in section 204(e), by striking out the first sentence and striking out
+  `subsection (c)' and inserting in lieu thereof `this section'; and
+  (4) in section 209 (as amended by section 902(3)(B) of this Act)--
+  (A) by striking out subsections (c)(5), (d)(6), (f)(4), and (g)(5);
+  (B) in subsection (h)--
+  (i) by striking out paragraph (2) and by striking out `(1)';
+  (ii) by redesignating subparagraphs (A) and (B) as paragraphs (1) and
+  (2), respectively;
+  (iii) by striking out `subparagraph (A)' and inserting `paragraph (1)'; and
+  (iv) by striking out `subparagraph (B)' and inserting `paragraph (2)';
+  (C) in subsection (i), by striking out paragraph (2) and by striking out
+  `(1)';
+  (D) in subsection (d)(3)(B), by striking out `this subsection' and inserting
+  in lieu thereof `this section'; and
+  (E) in subsection (k)(6), by striking out the first sentence and in the
+  second sentence by striking out `subsection' and inserting in lieu thereof
+  `section'.
+TITLE III--HEALTH FACILITIES
+SEC. 301. HEALTH FACILITIES CLOSURE AND PRIORITIES.
+  Section 301 of the Act (25 U.S.C. 1631) is amended--
+  (1) in subsection (a)(2), by striking out `Hospitals' and inserting
+  `Health Care Organizations';
+  (2) in subsection (b)(1)--
+  (A) in the material preceding subparagraph (A), by striking out `other'
+  before `outpatient';
+  (B) by striking out `and' at the end of subparagraph (D);
+  (C) by striking out the period at the end of subparagraph (E) and inserting
+  in lieu thereof a semicolon; and
+  (D) by adding at the end the following new subparagraphs:
+  `(F) the level of utilization of such hospital or facility by all eligible
+  Indians; and
+  `(G) the distance between such hospital or facility and the nearest
+  operating Service hospital.';
+  (3) by striking out subsection (c) and redesignating subsections (d) and
+  (e) as subsections (c) and (d), respectively;
+  (4) in subsection (c)(1) (as redesignated by paragraph (2) of this
+  subsection), by amending the material preceding subparagraph (A) to read
+  as follows:
+  `(c)(1) The Secretary shall submit to the President, for inclusion in
+  each report required to be transmitted to the Congress under section 801,
+  a report which sets forth--'; and
+  (5) by striking out paragraph (2) of subsection (c) (as redesignated by
+  paragraph (2)) and redesignating paragraphs (3), (4), and (5) of such
+  subsection as paragraphs (2), (3), and (4), respectively.
+SEC. 302. SAFE WATER AND SANITARY WASTE DISPOSAL FACILITIES.
+  Section 302 of the Act (25 U.S.C. 1632) is amended--
+  (1) by amending subsection (e) to read as follows:
+  `(e)(1) The Secretary is authorized to provide financial assistance to
+  Indian tribes and communities in an amount equal to the Federal share of
+  the costs of operating, managing, and maintaining the facilities provided
+  under the plan described in subsection (c).
+  `(2) For the purposes of paragraph (1), the term `Federal share' means 80
+  percent of the costs described in paragraph (1).
+  `(3) With respect to Indian tribes with fewer than 1,000 enrolled members,
+  the non-Federal portion of the costs of operating, managing, and maintaining
+  such facilities may be provided, in part, through cash donations or in
+  kind property, fairly evaluated.';
+  (2) in subsection (f)(1), by striking out `subsection (h)' and inserting
+  in lieu thereof `this section'; and
+  (3) in subsection (g)--
+  (A) in paragraph (1), by striking out `The Secretary' through `report'
+  and inserting in lieu thereof the following: `The Secretary shall submit
+  to the President, for inclusion in each report required to be transmitted
+  to the Congress under section 801, a report'; and
+  (B) by striking out paragraph (2) and redesignating paragraphs (3), (4),
+  (5), and (6) as paragraphs (2), (3), (4), and (5), respectively.
+SEC. 303. AMBULATORY CARE FACILITIES GRANT PROGRAM.
+  Section 306 of the Act (25 U.S.C. 1636) is amended to read as follows:
+`GRANT PROGRAM FOR THE CONSTRUCTION, EXPANSION, AND MODERNIZATION OF SMALL
+AMBULATORY CARE FACILITIES
+  `SEC. 306. (a)(1) The Secretary, acting through the Service, shall make
+  grants to tribes and tribal organizations for the construction, expansion,
+  or modernization of facilities for the provision of ambulatory care services
+  to eligible Indians (and noneligible persons as provided in subsection
+  (c)(1)(C)). A grant made under this section may cover up to 100 percent
+  of the costs of such construction, expansion, or modernization. For the
+  purposes of this section, the term `construction' includes the replacement
+  of an existing facility.
+  `(2) A grant under paragraph (1) may only be made to a tribe or tribal
+  organization operating an Indian health facility (other than a facility
+  owned or constructed by the Service, including a facility originally owned or
+  constructed by the Service and transferred to a tribe or tribal organization)
+  pursuant to a contract entered into under the Indian Self-Determination Act.
+  `(b)(1) A grant provided under this section may be used only for the
+  construction, expansion, or modernization (including the planning and
+  design of such construction, expansion, or modernization) of an ambulatory
+  care facility--
+  `(A) located apart from a hospital;
+  `(B) not funded under section 301 or section 307; and
+  `(C) which, upon completion of such construction, expansion, or modernization
+  will--
+  `(i) have a total capacity appropriate to its projected service population;
+  `(ii) serve no less than 500 eligible Indians annually; and
+  `(iii) provide ambulatory care in a service area (specified in the contract
+  entered into under the Indian Self-Determination Act) with a population
+  of not less than 2,000 eligible Indians.
+  `(2) The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall
+  not apply to a tribe or tribal organization applying for a grant under
+  this section whose tribal government offices are located on an island.
+  `(c)(1) No grant may be made under this section unless an application
+  for such a grant has been submitted to and approved by the Secretary. An
+  application for a grant under this section shall be submitted in such
+  form and manner as the Secretary shall by regulation prescribe and shall
+  set forth reasonable assurance by the applicant  that, at all times after
+  the construction, expansion, or modernization of a facility carried out
+  pursuant to a grant received under this section--
+  `(A) adequate financial support will be available for the provision of
+  services at such facility;
+  `(B) such facility will be available to eligible Indians without regard
+  to ability to pay or source of payment; and
+  `(C) such facility will, as feasible without diminishing the quality
+  or quantity of services provided to eligible Indians, serve noneligible
+  persons on a cost basis.
+  `(2) In awarding grants under this section, the Secretary shall give
+  priority to tribes and tribal organizations that demonstrate--
+  `(A) a need for increased ambulatory care services; and
+  `(B) insufficient capacity to deliver such services.
+  `(d) If any facility (or portion thereof) with respect to which funds have
+  been paid under this section, ceases, at any time after completion of the
+  construction, expansion, or modernization carried out with such funds,
+  to be utilized for the purposes of providing ambulatory care services to
+  eligible Indians, all of the right, title, and interest in and to such
+  facility (or portion thereof) shall transfer to the United States.'.
+SEC. 304. INDIAN HEALTH CARE DELIVERY DEMONSTRATION PROJECT.
+  (a) AWARDING OF GRANTS- Section 307(c) of the Act (25 U.S.C. 1637(c)(3))
+  is amended--
+  (1) in paragraph (1)(A), by inserting `or program' immediately after
+  `facility' each place it appears;
+  (2) in paragraph (3)(A)--
+  (A) by striking `The' and inserting `On or before September 30, 1995,
+  the'; and
+  (B) by adding before the colon the following: `and for which a completed
+  application has been received by the Secretary'; and
+  (3) by striking subparagraph (B) and inserting the following:
+  `(B) The Secretary may also enter into contracts or award grants under
+  this section taking into consideration applications received under this
+  section from all service areas. The Secretary may not award a greater
+  number of such contracts or grants in one service area than in any other
+  service area until there is an equal number of such contracts or grants
+  awarded with respect to all service areas from which the Secretary receives
+  applications during the application period (as determined by the Secretary)
+  which meet the criteria specified in paragraph (1).'.
+  (b) REPORTS- Section 307(h) of the Act (25 U.S.C. 1637(h)) is amended to
+  read as follows:
+  `(h)(1) The Secretary shall submit to the President, for inclusion in the
+  report which is required to be submitted to the Congress under section 801
+  for fiscal year 1997, an interim report on the findings and conclusions
+  derived from the demonstration projects established under this section.
+  `(2) The Secretary shall submit to the President, for inclusion in the
+  report which is required to be submitted to the Congress under section
+  801 for fiscal year 1999, a final report on the findings and conclusions
+  derived from the demonstration projects established under this section,
+  together with legislative recommendations.'.
+SEC. 305. EXPENDITURE OF NONSERVICE FUNDS FOR RENOVATION.
+  Section 305 of the Act (25 U.S.C. 1634) is amended to read as follows:
+`EXPENDITURE OF NONSERVICE FUNDS FOR RENOVATION
+  `SEC. 305. (a)(1) Notwithstanding any other provision of law, the Secretary
+  is authorized to accept any major renovation or modernization by any
+  Indian tribe of any Service facility, or of any other Indian health
+  facility operated pursuant to a contract entered into under the Indian
+  Self-Determination Act, including--
+  `(A) any plans or designs for such renovation or modernization; and
+  `(B) any renovation or modernization for which funds appropriated under
+  any Federal law were lawfully expended,
+but only if the requirements of subsection (b) are met.
+  `(2) The Secretary shall maintain a separate priority list to address the
+  needs of such facilities for personnel or equipment.
+  `(3) The Secretary shall submit to the President, for inclusion in each
+  report required to be transmitted to the Congress under section 801,
+  the priority list maintained pursuant to paragraph (2).
+  `(b) The requirements of this subsection are met with respect to any
+  renovation or modernization if--
+  `(1) the tribe or tribal organization--
+  `(A) provides notice to the Secretary of its intent to renovate or
+  modernize; and
+  `(B) applies to the Secretary to be placed on a separate priority list to
+  address the needs of such new facilities for personnel or equipment; and
+  `(2) the renovation or modernization--
+  `(A) is approved by the appropriate area director of the Service; and
+  `(B) is administered by the tribe in accordance with the rules and
+  regulations prescribed by the Secretary with respect to construction or
+  renovation of Service facilities.
+  `(c) If any Service facility which has been renovated or modernized
+  by an Indian tribe under this section ceases to be used as a Service
+  facility during the 20-year period beginning on the date such renovation or
+  modernization is completed, such Indian tribe shall be entitled to recover
+  from the United States an amount which bears the same ratio to the value of
+  such facility at the time of such cessation as the value of such renovation
+  or modernization (less the total amount of any funds provided specifically
+  for such facility under any Federal program that were expended for such
+  renovation or modernization) bore to the value of such facility at the
+  time of the completion of such renovation or modernization.'.
+SEC. 306. LAND TRANSFER.
+  Title III of the Act is amended by adding at the end the following new
+  section:
+`LAND TRANSFER
+  `SEC. 308. The Bureau of Indian Affairs is authorized to transfer,
+  at no cost, up to 5 acres of land at the Chemawa Indian School, Salem,
+  Oregon, to the Service for the provision of health care services. The land
+  authorized to be transferred by this section is that land adjacent to land
+  under the jurisdiction of the Service and occupied by the Chemawa Indian
+  Health Center.'.
+SEC. 307. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION- Title III of the Act (as amended by section 306 of this
+  Act) is amended by adding at the end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 309. There are authorized to be appropriated such sums as may be
+  necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+  (b) CONFORMING AMENDMENTS- Title III of the Act is amended--
+  (1) in section 302, by striking out subsection (h); and
+  (2) in section 307, by striking out subsection (i).
+SEC. 308. BUY AMERICAN REQUIREMENT.
+  Title III of the Act (as amended by section 307 of this Act) is amended
+  by adding at the end the following new section:
+`APPLICABILITY OF BUY AMERICAN REQUIREMENT
+  `SEC. 310. (a) The Secretary shall ensure that the requirements of the Buy
+  American Act apply to all procurements made with funds provided pursuant
+  to the authorization contained in section 309.
+  `(b) The Secretary shall submit to the Congress a report on the amount of
+  procurements from foreign entities made in fiscal years 1993 and 1994 with
+  funds provided pursuant to the authorization contained in section 309. Such
+  report shall separately indicate the dollar value of items procured with
+  such funds for which the Buy American Act was waived pursuant to the Trade
+  Agreement Act of 1979 or any international agreement to which the United
+  States is a party.
+  `(c) If it has been finally determined by a court or Federal agency that
+  any person intentionally affixed a label bearing a `Made in America'
+  inscription, or any inscription with the same meaning, to any product sold
+  in or shipped to the United States that is not made in the United States,
+  such person shall be ineligible to receive any contract or subcontract made
+  with funds provided pursuant to the authorization contained in section 309,
+  pursuant to the debarment, suspension, and ineligibility procedures described
+  in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
+  `(d) For purposes of this section, the term `Buy American Act' means title
+  III of the Act entitled `An Act making appropriations for the Treasury
+  and Post Office Departments for the fiscal year ending June 30, 1934,
+  and for other purposes', approved March 3, 1933 (41 U.S.C. 10a et seq.).'.
+TITLE IV--ACCESS TO HEALTH SERVICES
+SEC. 401. TREATMENT OF PAYMENTS TO INDIAN HEALTH SERVICE FACILITIES UNDER
+MEDICARE AND MEDICAID PROGRAMS.
+  (a) MEDICARE PROGRAM- Section 401 of the Act (42 U.S.C. 1395qq note)
+  is amended to read as follows:
+`TREATMENT OF PAYMENTS UNDER MEDICARE PROGRAM
+  `SEC. 401. (a) Any payments received by a hospital or skilled nursing
+  facility of the Service (whether operated by the Service or by an Indian
+  tribe or tribal organization pursuant to a contract under the Indian
+  Self-Determination Act) for services provided to Indians eligible for
+  benefits under title XVIII of the Social Security Act shall not be considered
+  in determining appropriations for health care and services to Indians.
+  `(b) Nothing in this Act authorizes the Secretary to provide services
+  to an Indian beneficiary with coverage under title XVIII of the Social
+  Security Act, as amended, in preference to an Indian beneficiary without
+  such coverage.'.
+  (b) MEDICAID PROGRAM- (1) Section 402 of the Act is amended to read
+  as follows:
+`TREATMENT OF PAYMENTS UNDER MEDICAID PROGRAM
+  `SEC. 402. (a) Notwithstanding any other provision of law, payments to
+  which any facility of the Service (including a hospital, nursing facility,
+  intermediate care facility for the mentally retarded, or any other type
+  of facility which provides services for which payment is available under
+  title XIX of the Social Security Act) is entitled under a State plan by
+  reason of section 1911 of such Act shall be placed in a special fund to be
+  held by the Secretary and used by him (to such extent or in such amounts as
+  are provided in appropriation Acts) exclusively for the purpose of making
+  any improvements in the facilities of such Service which may be necessary
+  to achieve compliance with the applicable conditions and requirements of
+  such title. In making payments from such fund, the Secretary shall ensure
+  that each service unit of the Service receives at least 80 percent of the
+  amounts to which the facilities of the Service, for which such service
+  unit makes collections, are entitled by reason of section 1911 of the
+  Social Security Act.
+  `(b) Any payments received by such facility for services provided to
+  Indians eligible for benefits under title XIX of the Social Security Act
+  shall not be considered in determining appropriations for the provision
+  of health care and services to Indians.'.
+  (2) The increase (from 50 percent) in the percentage of the payments from
+  the fund to be made to each service unit of the Service specified in the
+  amendment made by paragraph (1) shall take effect beginning with payments
+  made on January 1, 1993.
+SEC. 402. REPORT.
+  Section 403 of the Act (25 U.S.C. 1671 note) is amended by striking out
+  `The Secretary' and all that follows through `section 701' and inserting in
+  lieu thereof the following: `The Secretary shall submit to the President,
+  for inclusion in the report required to be transmitted to the Congress
+  under section 801,'.
+SEC. 403. APPLICATION ASSISTANCE.
+  Section 404 of the Act (25 U.S.C. 1622) is amended--
+  (1) by amending subsection (b)(4) to read as follows:
+  `(4) develop and implement--
+  `(A) a schedule of income levels to determine the extent of payments of
+  premiums by such organizations for coverage of needy individuals; and
+  `(B) methods of improving the participation of Indians in receiving
+  the benefits provided under titles XVIII and XIX of the Social Security
+  Act.'; and
+  (2) by amending subsection (c) to read as follows:
+  `(c) The Secretary, acting through the Service, may enter into an agreement
+  with an Indian tribe, tribal organization, or urban Indian organization
+  which provides for the receipt and processing of applications for medical
+  assistance under title XIX of the Social Security Act and benefits under
+  title XVIII of the Social Security Act at a Service facility or a health
+  care facility administered by such tribe or organization pursuant to a
+  contract under the Indian Self-Determination Act.'.
+SEC. 404. EXTENSION OF DEMONSTRATION PROGRAM.
+  Section 405 of the Act (42 U.S.C. 1395qq note) is amended--
+  (1) in subsection (c)(2), by striking `1995' and inserting `1996'; and
+  (2) in subsection (e), by striking `1995' and inserting `1996'.
+SEC. 405. AUTHORIZATION FOR EMERGENCY CONTRACT HEALTH SERVICES.
+  Title IV of the Act is amended by adding at the end the following new
+  section:
+`AUTHORIZATION FOR EMERGENCY CONTRACT HEALTH SERVICES
+  `SEC. 406. With respect to an elderly or disabled Indian receiving
+  emergency medical care or services from a non-Service provider or in a
+  non-Service facility under the authority of this Act, the time limitation
+  (as a condition of payment) for notifying the Service of such treatment
+  or admission shall be 30 days.'.
+SEC. 406. AUTHORIZATION OF APPROPRIATIONS.
+  Title IV of the Act is amended by adding at the end the following new
+  section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 407. There are authorized to be appropriated such sums as may be
+  necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+TITLE V--HEALTH SERVICES FOR URBAN INDIANS
+SEC. 501. GRANT AUTHORITY.
+  (a) IN GENERAL- Section 502 of the Act (25 U.S.C. 1652) is amended--
+  (1) by striking `contracts with' and inserting the following: `contracts
+  with, or make grants to,';
+  (2) by inserting after `enters into with' the following: `, or in any
+  grant the Secretary makes to,'; and
+  (3) by amending the heading to read as follows:
+`CONTRACTS WITH, AND GRANTS TO, URBAN INDIAN ORGANIZATIONS'.
+  (b) CONFORMING AMENDMENTS- (1) Section 503 of the Act (25 U.S.C. 1653)
+  is amended--
+  (A) in subsection (a), in the material preceding paragraph (1)--
+  (i) by inserting `, or make grants to,' after `contracts with'; and
+  (ii) by inserting `or grant' after `such contract';
+  (B) in subsection (b)--
+  (i) in the material preceding paragraph (1), by inserting `or receive
+  grants' after `enter into contracts'; and
+  (ii) in paragraph (5), by inserting `or to meet the requirements for
+  receiving a grant' after `Secretary';
+  (C) in subsection (c)(1), by inserting before the period at the end the
+  following: `or receiving grants under subsection (a)';
+  (D) in subsection (d)(1), by inserting before the period at the end the
+  following: `or receiving grants under subsection (a)';
+  (E) in subsection (e)(1), by inserting before the period at the end the
+  following: `or receiving grants under subsection (a)';
+  (F) in subsection (f), by inserting `or receiving grants under subsection
+  (a)' after `this section'; and
+  (G) by amending the heading to read as follows:
+`CONTRACTS AND GRANTS FOR THE PROVISION OF HEALTH CARE AND REFERRAL SERVICES'.
+  (2) Section 504 of the Act (25 U.S.C. 1654) is amended--
+  (A) by striking `SEC. 504.' and all that follows through the end of
+  subsection (a) and inserting the following:
+  `SEC. 504. (a) Under authority of the Act of November 2, 1921 (25 U.S.C. 13),
+  popularly known as the Snyder Act, the Secretary, through the Service, may
+  enter into contracts with, or make grants to, urban Indian organizations
+  situated in urban centers for which contracts have not been entered into,
+  or grants have not been made, under section 503. The purpose of a contract
+  or grant made under this section shall be the determination of the matters
+  described in subsection (b)(1) in order to assist the Secretary in assessing
+  the health status and health care needs of urban Indians in the urban
+  center involved and determining whether the Secretary should enter into
+  a contract or make a grant under section 503 with respect to the urban
+  Indian organization which the Secretary has entered into a contract with,
+  or made a grant to, under this section.';
+  (B) in subsection (b)--
+  (i) in the material preceding paragraph (1), by inserting `, or grant made,'
+  after `contract entered into'; and
+  (ii) in paragraph (2), by striking `within one year' and all that follows
+  through the period at the end and inserting the following: `, or carry out
+  the requirements of the grant, within one year after the date on which the
+  Secretary and such organization enter into such contract, or within one
+  year after such organization receives such grant, whichever is applicable.';
+  (C) in subsection (c), by inserting `, or grant made,' after `entered
+  into'; and
+  (D) by amending the heading to read as follows:
+`CONTRACTS AND GRANTS FOR THE DETERMINATION OF UNMET HEALTH CARE NEEDS'.
+  (3) Section 505 of the Act (25 U.S.C. 1655) is amended--
+  (A) in subsection (a), by inserting `compliance with grant requirements
+  under this title and' before `compliance with,';
+  (B) in subsection (b)--
+  (i) by inserting `or received a grant' after `entered into a contract'; and
+  (ii) by inserting before the period at the end the following: `or the
+  terms of such grant';
+  (C) in subsection (c)--
+  (i) by inserting `the requirements of a grant or complied with' after
+  `complied with';
+  (ii) by inserting `or grant' after `such contract' each place it appears';
+  (iii) by inserting `or make a grant' after `enter into a contract'; and
+  (iv) by inserting `or grant' after `whose contract';
+  (D) in subsection (d), by inserting `or grant' after `a contract' each
+  place it appears; and
+  (E) by amending the heading to read as follows:
+`EVALUATIONS; RENEWALS'.
+  (4) Section 506 of the Act (25 U.S.C. 1656) is amended--
+  (A) in subsection (b), by inserting `or grants' after `any contracts';
+  (B) in subsection (d), by inserting `or grant' after `contract' each place
+  it appears;
+  (C) in subsection (e)--
+  (i) by inserting `, or grants to,' after `Contracts with'; and
+  (ii) by inserting `or grants' after `such contracts'; and
+  (D) by amending the heading to read as follows:
+`OTHER CONTRACT AND GRANT REQUIREMENTS'.
+  (5) Section 507 of the Act (25 U.S.C. 1657) is amended--
+  (A) in subsection (a)--
+  (i) in the material preceding paragraph (1), by inserting `, or a grant
+  received,' after `entered into'; and
+  (ii) in paragraphs (1) and (2), by inserting `or grant' after `contract'
+  each place it appears; and
+  (B) in subsections (b) and (c), by inserting `or grant' after `contract'
+  each place it appears.
+  (6) Section 509 of the Act (25 U.S.C. 1659) (as amended by section
+  902(5)(A) of this Act) is amended by inserting `or grant recipients' after
+  `contractors' each place it appears.
+  (7) Section 510(a) of the Act (25 U.S.C. 1660(a)) (as amended by section
+  902(5)(B) of this Act) is amended by inserting before the period at the
+  end the following: `and for providing central oversight of the programs
+  and services authorized under this title'.
+SEC. 502. ALCOHOL AND SUBSTANCE ABUSE.
+  Title V of the Act is amended by inserting after section 510 (as redesignated
+  by section 902(5)(B) of this Act) the following new section:
+`GRANTS FOR ALCOHOL AND SUBSTANCE ABUSE RELATED SERVICES
+  `SEC. 511. (a) GRANTS- The Secretary may make grants for the provision of
+  health-related services in prevention of, treatment of, rehabilitation of,
+  or school and community-based education in, alcohol and substance abuse in
+  urban centers to those urban Indian organizations with whom the Secretary
+  has entered into a contract under this title or under section 201.
+  `(b) GOALS OF GRANT- Each grant made pursuant to subsection (a) shall set
+  forth the goals to be accomplished pursuant to the grant. The goals shall
+  be specific to each grant as agreed to between the Secretary and the grantee.
+  `(c) CRITERIA- The Secretary shall establish criteria for the grants made
+  under subsection (a), including criteria relating to the--
+  `(1) size of the urban Indian population;
+  `(2) accessibility to, and utilization of, other health resources available
+  to such population;
+  `(3) duplication of existing Service or other Federal grants or contracts;
+  `(4) capability of the organization to adequately perform the activities
+  required under the grant;
+  `(5) satisfactory performance standards for the organization in meeting the
+  goals set forth in such grant, which standards shall be negotiated and agreed
+  to between the Secretary and the grantee on a grant-by-grant basis; and
+  `(6) identification of need for services.
+`The Secretary shall develop a methodology for allocating grants made pursuant
+to this section based on such criteria.
+  `(d) TREATMENT OF FUNDS RECEIVED BY URBAN INDIAN ORGANIZATIONS- Any funds
+  received by an urban Indian organization under this Act for substance
+  abuse prevention, treatment, and rehabilitation shall be subject to the
+  criteria set forth in subsection (c).'.
+SEC. 503. TREATMENT OF DEMONSTRATION PROJECTS.
+  Title V of the Act (as amended by section 502 of this Act) is amended by
+  adding at the end the following new section:
+`TREATMENT OF CERTAIN DEMONSTRATION PROJECTS
+  `SEC. 512. (a) Notwithstanding any other provision of law, the Oklahoma
+  City Clinic demonstration project and the Tulsa Clinic demonstration
+  project shall be treated as service units in the allocation of resources
+  and coordination of care and shall not be subject to the provisions of the
+  Indian Self-Determination Act for the term of such projects. The Secretary
+  shall provide assistance to such projects in the development of resources
+  and equipment and facility needs.
+  `(b) The Secretary shall submit to the President, for inclusion in the
+  report required to be submitted to the Congress under section 801 for
+  fiscal year 1999, a report on the findings and conclusions derived from
+  the demonstration projects specified in subsection (a).'.
+SEC. 504. URBAN NIAAA TRANSFERRED PROGRAMS.
+  Title V of the Act (as amended by section 503 of this Act) is amended by
+  adding at the end the following new section:
+`URBAN NIAAA TRANSFERRED PROGRAMS
+  `SEC. 513. (a) The Secretary shall, within the Branch of Urban Health
+  Programs of the Service, make grants or enter into contracts for the
+  administration of urban Indian alcohol programs that were originally
+  established under the National Institute on Alcoholism and Alcohol Abuse
+  (hereafter in this section referred to as `NIAAA') and transferred to
+  the Service.
+  `(b) Grants provided or contracts entered into under this section shall
+  be used to provide support for the continuation of alcohol prevention and
+  treatment services for urban Indian populations and such other objectives as
+  are agreed upon between the Service and a recipient of a grant or contract
+  under this section.
+  `(c) Urban Indian organizations that operate Indian alcohol programs
+  originally funded under NIAAA and subsequently transferred to the Service
+  are eligible for grants or contracts under this section.
+  `(d) For the purpose of carrying out this section, the Secretary may
+  combine NIAAA alcohol funds with other substance abuse funds currently
+  administered through the Branch of Urban Health Programs of the Service.
+  `(e) The Secretary shall evaluate and report to the Congress on the
+  activities of programs funded under this section at least every two years.'.
+SEC. 505. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION- Title V of the Act (as amended by section 504 of this
+  Act) is amended by adding at the end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 514. There are authorized to be appropriated such sums as may be
+  necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+  (b) CONFORMING AMENDMENTS- Title V of the Act (25 U.S.C. 1650 et seq.) is
+  amended--
+  (1) in section 503--
+  (A) in subsection (c), by striking out `(c)(1)' and inserting `(c)' and
+  by striking out paragraph (2);
+  (B) in subsection (d), by striking out paragraph (4);
+  (C) in subsection (e), by striking out paragraph (4); and
+  (D) in subsection (f), by striking out paragraph (5); and
+  (2) in section 509 (as redesignated by section 902(5)(A) of this Act),
+  by striking out the last sentence.
+TITLE VI--ORGANIZATIONAL IMPROVEMENTS
+SEC. 601. INDIAN HEALTH SERVICE.
+  Section 601(c) of the Act (15 U.S.C. 1661(c)) is amended--
+  (1) in paragraph (2), by striking out `and' after the semicolon;
+  (2) in paragraph (3), by striking out the period at the end and inserting
+  in lieu thereof `; and'; and
+  (3) by adding at the end the following new paragraph:
+  `(4) all scholarship and loan functions carried out under title I.'.
+SEC. 602. DIRECTOR OF INDIAN HEALTH SERVICE.
+  (a) CONFIRMATION BY SENATE-
+  (1) IN GENERAL- Section 601(a) of the Act (25 U.S.C. 1661(a)) is amended
+  in the second sentence by striking `Secretary' and inserting `President,
+  by and with the advice and consent of the Senate'.
+  (2) EFFECTIVE DATE- The amendment made by paragraph (1) shall take effect
+  January 1, 1993.
+  (b) INTERIM APPOINTMENT- The President may appoint an individual to serve
+  as Interim Director of the Service from January 1, 1993, until such time
+  as a Director is appointed and confirmed as provided in section 601(a)
+  of the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.) (as
+  amended by subsection (a) of this section).
+  (c) TERM- Section 601(a) of the Act (25 U.S.C. 1661(a)) is amended by adding
+  at the end the following: `Effective with respect to an individual appointed
+  by the President, by and with the advice and consent of the Senate, after
+  January 1, 1993, the term of service of the Director shall be 4 years. A
+  Director may serve more than 1 term.'.
+SEC. 603. AUTHORIZATION OF APPROPRIATIONS.
+  Title VI of the Act (25 U.S.C. 1661 et seq.) is amended by adding at the
+  end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 603. There are authorized to be appropriated such sums as may be
+  necessary for each fiscal year through fiscal year 2000 to carry out
+  this title.'.
+TITLE VII--SUBSTANCE ABUSE PROGRAMS
+SEC. 701. REDESIGNATION OF EXISTING TITLE VII.
+  (a) TITLE HEADING- Title VII of the Act (25 U.S.C. 1671 et seq.) is
+  redesignated as title VIII and the title heading is amended to read
+  as follows:
+`TITLE VIII--MISCELLANEOUS'
+  (b) REDESIGNATION OF SECTIONS- Sections 701 through 720 of the Act (25
+  U.S.C. 1671 et seq.) are hereby redesignated as sections 801 through 820,
+  respectively.
+  (c) CONFORMING AMENDMENTS- The Act is amended--
+  (1) in section 207(a), by striking out `section 713' and inserting in lieu
+  thereof `section 813';
+  (2) in section 307(e), by striking out `section 713' and inserting in lieu
+  thereof `section 813'; and
+  (3) in section 405(b)--
+  (A) in paragraph (1), by striking out `sections 402(c) and 713(b)(2)(A)'
+  and inserting in lieu thereof `sections 402(a) and 813(b)(2)(A)'; and
+  (B) in paragraph (4), by striking out `section 402(c)' each place it
+  appears and inserting in lieu thereof `section 402(a)'.
+  (d) REFERENCES- Any reference in a provision of law other than the Indian
+  Health Care Improvement Act to sections redesignated by subsection (b)
+  shall be deemed to refer to the section as so redesignated.
+SEC. 702. SUBSTANCE ABUSE PROGRAMS.
+  (a) IN GENERAL- The Act is amended by inserting after title VI the following
+  new title:
+`TITLE VII--SUBSTANCE ABUSE PROGRAMS
+`INDIAN HEALTH SERVICE RESPONSIBILITIES
+  `SEC. 701. The Memorandum of Agreement entered into pursuant to section
+  4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment
+  Act of 1986 (25 U.S.C. 2411) shall include specific provisions pursuant
+  to which the Service shall assume responsibility for--
+  `(1) the determination of the scope of the problem of alcohol and substance
+  abuse among Indian people, including the number of Indians within the
+  jurisdiction of the Service who are directly or indirectly affected by
+  alcohol and substance abuse and the financial and human cost;
+  `(2) an assessment of the existing and needed resources necessary for the
+  prevention of alcohol and substance abuse and the treatment of Indians
+  affected by alcohol and substance abuse; and
+  `(3) an estimate of the funding necessary to adequately support a program
+  of prevention of alcohol and substance abuse and treatment of Indians
+  affected by alcohol and substance abuse.
+`INDIAN HEALTH SERVICE PROGRAM
+  `SEC. 702. (a) COMPREHENSIVE PREVENTION AND TREATMENT PROGRAM- (1)
+  The Secretary, acting through the Service, shall provide a program of
+  comprehensive alcohol and substance abuse prevention and treatment which
+  shall include--
+  `(A) prevention, through educational intervention, in Indian communities;
+  `(B) acute detoxification and treatment;
+  `(C) community-based rehabilitation;
+  `(D) community education and involvement, including extensive training of
+  health care, educational, and community-based personnel; and
+  `(E) residential treatment programs for pregnant and post partum women
+  and their children.
+  `(2) The target population of such program shall be members of Indian
+  tribes. Efforts to train and educate key members of the Indian community
+  shall target employees of health, education, judicial, law enforcement,
+  legal, and social service programs.
+  `(b) CONTRACT HEALTH SERVICES- (1) The Secretary, acting through the Service,
+  may enter into contracts with public or private providers of alcohol and
+  substance abuse treatment services for the purpose of assisting the Service
+  in carrying out the program required under subsection (a).
+  `(2) In carrying out this subsection, the Secretary shall provide assistance
+  to Indian tribes to develop criteria for the certification of alcohol and
+  substance abuse service providers and accreditation of service facilities
+  which meet minimum standards for such services and facilities as may
+  be determined pursuant to section 4205(a)(3) of the Indian Alcohol and
+  Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411(a)(3)).
+  `(c) GRANTS FOR MODEL PROGRAM- (1) The Secretary, acting through the
+  Service shall make a grant to the Standing Rock Sioux Tribe to develop a
+  community-based demonstration project to reduce drug and alcohol abuse on
+  the Standing Rock Sioux Reservation and to rehabilitate Indian families
+  afflicted by such abuse.
+  `(2) Funds shall be used by the Tribe to--
+  `(A) develop and coordinate community-based alcohol and substance abuse
+  prevention and treatment services for Indian families;
+  `(B) develop prevention and intervention models for Indian families;
+  `(C) conduct community education on alcohol and substance abuse; and
+  `(D) coordinate with existing Federal, State, and tribal services on the
+  reservation to develop a comprehensive alcohol and substance abuse program
+  that assists in the rehabilitation of Indian families that have been or
+  are afflicted by alcoholism.
+  `(3) The Secretary shall submit to the President for inclusion in the report
+  to be transmitted to the Congress under section 801 for fiscal year 1995
+  an evaluation of the demonstration project established under paragraph (1).
+`INDIAN WOMEN TREATMENT PROGRAMS
+  `SEC. 703. (a) The Secretary may make grants to Indian tribes and tribal
+  organizations to develop and implement a comprehensive alcohol and substance
+  abuse program of prevention, intervention, treatment, and relapse prevention
+  services that specifically addresses the cultural, historical, social,
+  and child care needs of Indian women, regardless of age.
+  `(b) Grants made pursuant to this section may be used to--
+  `(1) develop and provide community training, education, and prevention
+  programs for Indian women relating to alcohol and substance abuse issues,
+  including fetal alcohol syndrome and fetal alcohol effect;
+  `(2) identify and provide appropriate counseling, advocacy, support,
+  and relapse prevention to Indian women and their families; and
+  `(3) develop prevention and intervention models for Indian women which
+  incorporate traditional healers, cultural values, and community and family
+  involvement.
+  `(c) The Secretary shall establish criteria for the review and approval
+  of applications for grants under this section.
+  `(d)(1) There are authorized to be appropriated to carry out this section
+  $10,000,000 for fiscal year 1993 and such sums as are necessary for each
+  of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+  `(2) Twenty percent of the funds appropriated pursuant to this subsection
+  shall be used to make grants to urban Indian organizations funded under
+  title V.
+`INDIAN HEALTH SERVICE YOUTH PROGRAM
+  `SEC. 704. (a) DETOXIFICATION AND REHABILITATION- The Secretary shall
+  develop and implement a program for acute detoxification and treatment
+  for Indian youth who are alcohol and substance abusers. The program shall
+  include regional treatment centers designed to include detoxification and
+  rehabilitation for both sexes on a referral basis. These regional centers
+  shall be integrated with the intake and rehabilitation programs based in
+  the referring Indian community.
+  `(b) TREATMENT CENTERS OR FACILITIES- (1) The Secretary shall construct,
+  renovate, or, as necessary, purchase, and appropriately staff and operate,
+  a youth regional treatment center in each area under the jurisdiction of
+  an area office. For the purposes of this subsection, the area offices of
+  the Service in Tucson and Phoenix, Arizona, shall be considered one area
+  office and the area office in California shall be considered to be two area
+  offices, one office whose jurisdiction shall be considered to encompass the
+  northern area of the State of California, and one office whose jurisdiction
+  shall be considered to encompass the remainder of the State of California.
+  `(2) For the purpose of staffing and operating such centers or facilities,
+  funding shall be pursuant to the Act of November 2, 1921 (25 U.S.C. 13).
+  `(3) A youth treatment center constructed or purchased under this subsection
+  shall be constructed or purchased at a location within the area described in
+  paragraph (1) agreed upon (by appropriate tribal resolution) by a majority
+  of the tribes to be served by such center.
+  `(4)(A) Notwithstanding any other provision of this title, the Secretary
+  may, from amounts authorized to be appropriated for the purposes of carrying
+  out this section, make funds available to--
+  `(i) the Tanana Chiefs Conference, Incorporated, for the purpose of leasing,
+  constructing, renovating, operating and maintaining a residential youth
+  treatment facility in Fairbanks, Alaska; and
+  `(ii) the Southeast Alaska Regional Health Corporation to staff and operate a
+  residential youth treatment facility without regard to the proviso set forth
+  in section 4(l) of the Indian Self-Determination and Education Assistance
+  Act (25 U.S.C. 450b(l)).
+  `(B) Until additional residential youth treatment facilities are established
+  in Alaska pursuant to this section, the facilities specified in subparagraph
+  (A) shall make every effort to provide services to all eligible Indian
+  youth residing in such State.
+  `(c) FEDERALLY OWNED STRUCTURES-
+  `(1) The Secretary, acting through the Service, shall, in consultation
+  with Indian tribes--
+  `(A) identify and use, where appropriate, federally owned structures
+  suitable as local residential or regional alcohol and substance abuse
+  treatment centers for Indian youth; and
+  `(B) establish guidelines for determining the suitability of any such
+  federally owned structure to be used as a local residential or regional
+  alcohol and substance abuse treatment center for Indian youth.
+  `(2) Any structure described in paragraph (1) may be used under such terms
+  and conditions as may be agreed upon by the Secretary and the agency having
+  responsibility for the structure.
+  `(d) REHABILITATION AND AFTERCARE SERVICES-
+  `(1) The Secretary, in cooperation with the Secretary of the Interior, shall
+  develop and implement within each Service service unit community-based
+  rehabilitation and follow-up services for Indian youth who are alcohol
+  or substance abusers which are designed to integrate long-term treatment
+  and to monitor and support the Indian youth after their return to their
+  home community.
+  `(2) Services under paragraph (1) shall be administered within each service
+  unit by trained staff within the community who can assist the Indian youth
+  in continuing development of self-image, positive problem-solving skills,
+  and nonalcohol or substance abusing behaviors. Such staff shall include
+  alcohol and substance abuse counselors, mental health professionals,
+  and other health professionals and paraprofessionals, including community
+  health representatives.
+  `(e) INCLUSION OF FAMILY IN YOUTH TREATMENT PROGRAM- In providing the
+  treatment and other services to Indian youth authorized by this section,
+  the Secretary shall provide for the inclusion of family members of such youth
+  in the treatment programs or other services as may be appropriate. Not less
+  than 10 percent of the funds appropriated for the purposes of carrying out
+  subsection (d) shall be used for outpatient care of adult family members
+  related to the treatment of an Indian youth under that subsection.
+  `(f) MULTIDRUG ABUSE STUDY- (1) The Secretary shall conduct a study to
+  determine the incidence and prevalence of the abuse of multiple forms
+  of drugs, including alcohol, among Indian youth residing on Indian
+  reservations and in urban areas and the interrelationship of such abuse
+  with the incidence of mental illness among such youth.
+  `(2) The Secretary shall submit a report detailing the findings of such
+  study, together with recommendations based on such findings, to the Congress
+  no later than two years after the date of the enactment of this section.
+`TRAINING AND COMMUNITY EDUCATION
+  `SEC. 705. (a) COMMUNITY EDUCATION- The Secretary, in cooperation with
+  the Secretary of the Interior, shall develop and implement within each
+  service unit a program of community education and involvement which shall
+  be designed to provide concise and timely information to the community
+  leadership of each tribal community. Such program shall include education
+  in alcohol and substance abuse to political leaders, tribal judges, law
+  enforcement personnel, members of tribal health and education boards,
+  and other critical members of each tribal community.
+  `(b) TRAINING- The Secretary shall, either directly or by contract,
+  provide instruction in the area of alcohol and substance abuse, including
+  instruction in crisis intervention and family relations in the context of
+  alcohol and substance abuse, youth alcohol and substance abuse, and the
+  causes and effects of fetal alcohol syndrome to appropriate employees of
+  the Bureau of Indian Affairs and the Service, and to personnel in schools
+  or programs operated under any contract with the Bureau of Indian Affairs
+  or the Service, including supervisors of emergency shelters and halfway
+  houses described in section 4213 of the Indian Alcohol and Substance Abuse
+  Prevention and Treatment Act of 1986 (25 U.S.C. 2433).
+  `(c) COMMUNITY-BASED TRAINING MODELS- In carrying out the education and
+  training programs required by this section, the Secretary, acting through
+  the Service and in consultation with tribes and Indian alcohol and substance
+  abuse prevention experts, shall develop and provide community-based training
+  models. Such models shall address--
+  `(1) the elevated risk of alcohol and substance abuse faced by children
+  of alcoholics;
+  `(2) the cultural and multigenerational aspects of alcohol and substance
+  abuse prevention and recovery; and
+  `(3) community-based and multidisciplinary strategies for preventing and
+  treating alcohol and substance abuse.
+`GALLUP ALCOHOL AND SUBSTANCE ABUSE TREATMENT CENTER
+  `SEC. 706. (a) GRANTS FOR RESIDENTIAL TREATMENT- The Secretary shall
+  make grants to the Navajo Nation for the purpose of providing residential
+  treatment for alcohol and substance abuse for adult and adolescent members
+  of the Navajo Nation and neighboring tribes.
+  `(b) PURPOSES OF GRANTS- Grants made pursuant to this section shall (to
+  the extent appropriations are made available) be used to--
+  `(1) provide at least 15 residential beds each year for adult long-term
+  treatment, including beds for specialized services such as polydrug
+  abusers, dual diagnosis, and specialized services for women with fetal
+  alcohol syndrome children;
+  `(2) establish clinical assessment teams consisting of a clinical
+  psychologist, a part-time addictionologist, a master's level assessment
+  counselor, and a certified medical records technician which shall be
+  responsible for conducting individual assessments and matching Indian
+  clients with the appropriate available treatment;
+  `(3) provide at least 12 beds for an adolescent shelterbed program in
+  the city of Gallup, New Mexico, which shall serve as a satellite facility
+  to the Acoma/Canoncito/Laguna Hospital and the adolescent center located
+  in Shiprock, New Mexico, for emergency crisis services, assessment, and
+  family intervention;
+  `(4) develop a relapse program for the purposes of identifying sources of
+  job training and job opportunity in the Gallup area and providing vocational
+  training, job placement, and job retention services to recovering substance
+  abusers; and
+  `(5) provide continuing education and training of treatment staff in the
+  areas of intensive outpatient services, development of family support
+  systems, and case management in cooperation with regional colleges,
+  community colleges, and universities.
+  `(c) CONTRACT FOR RESIDENTIAL TREATMENT- The Navajo Nation, in carrying out
+  the purposes of this section, shall enter into a contract with an institution
+  in the Gallup, New Mexico, area which is accredited by the Joint Commission
+  of the Accreditation of Health Care Organizations to provide comprehensive
+  alcohol and drug treatment as authorized in subsection (b).
+  `(d) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be
+  appropriated--
+  `(1) to carry out the purposes of subsection (b)(1)--
+  `(A) $400,000 for fiscal year 1993;
+  `(B) $400,000 for fiscal year 1994; and
+  `(C) $500,000 for fiscal year 1995;
+  `(2) to carry out the purposes of subsection (b)(2)--
+  `(A) $100,000 for fiscal year 1993;
+  `(B) $125,000 for fiscal year 1994; and
+  `(C) $150,000 for fiscal year 1995;
+  `(3) to carry out the purposes of subsection (b)(3)--
+  `(A) $75,000 for fiscal year 1993;
+  `(B) $85,000 for fiscal year 1994; and
+  `(C) $100,000 for fiscal year 1995;
+  `(4) to carry out the purposes of subsection (b)(4), $150,000 for each of
+  fiscal years 1993, 1994, and 1995; and
+  `(5) to carry out the purposes of subsection (b)(5)--
+  `(A) $75,000 for fiscal year 1993;
+  `(B) $90,000 for fiscal year 1994; and
+  `(C) $100,000 for fiscal year 1995.
+`REPORTS
+  `SEC. 707. (a) COMPILATION OF DATA- The Secretary, with respect to the
+  administration of any health program by a service unit, directly or through
+  contract, including a contract under the Indian Self-Determination Act,
+  shall require the compilation of data relating to the number of cases or
+  incidents in which any Service personnel or services were involved and
+  which were related, either directly or indirectly, to alcohol or substance
+  abuse. Such report shall include the type of assistance provided and the
+  disposition of these cases.
+  `(b) REFERRAL OF DATA- The data compiled under subsection (a) shall be
+  provided annually to the affected Indian tribe and Tribal Coordinating
+  Committee to assist them in developing or modifying a Tribal Action Plan
+  under section 4206 of the Indian Alcohol and Substance Abuse Prevention
+  and Treatment Act of 1986 (25 U.S.C. 2471 et seq.).
+  `(c) COMPREHENSIVE REPORT- Each service unit director shall be responsible
+  for assembling the data compiled under this section and section 4214 of
+  the Indian Alcohol and Substance Abuse Prevention and Treatment Act of
+  1986 (25 U.S.C. 2434) into an annual tribal comprehensive report. Such
+  report shall be provided to the affected tribe and to the Director of the
+  Service who shall develop and publish a biennial national report based on
+  such tribal comprehensive reports.
+`FETAL ALCOHOL SYNDROME AND FETAL ALCOHOL EFFECT GRANTS
+  `SEC. 708. (a)(1) The Secretary may make grants to Indian tribes and tribal
+  organizations to establish fetal alcohol syndrome and fetal alcohol effect
+  programs as provided in this section for the purposes of meeting the health
+  status objectives specified in section 3(b).
+  `(2) Grants made pursuant to this section shall be used to--
+  `(A) develop and provide community and in-school training, education,
+  and prevention programs relating to FAS and FAE;
+  `(B) identify and provide alcohol and substance abuse treatment to
+  high-risk women;
+  `(C) identify and provide appropriate educational and vocational support,
+  counseling, advocacy, and information to FAS and FAE affected persons and
+  their families or caretakers;
+  `(D) develop and implement counseling and support programs in schools for
+  FAS and FAE affected children;
+  `(E) develop prevention and intervention models which incorporate traditional
+  healers, cultural values and community involvement;
+  `(F) develop, print, and disseminate education and prevention materials
+  on FAS and FAE; and
+  `(G) develop and implement, through the tribal consultation process,
+  culturally sensitive assessment and diagnostic tools for use in tribal
+  and urban Indian communities.
+  `(3) The Secretary shall establish criteria for the review and approval
+  of applications for grants under this section.
+  `(b) The Secretary, acting through the Service, shall--
+  `(1) develop an annual plan for the prevention, intervention, treatment,
+  and aftercare for those affected by FAS and FAE in Indian communities;
+  `(2) conduct a study, directly or by contract with any organization,
+  entity, or institution of higher education with significant knowledge of
+  FAS and FAE and Indian communities, of the special educational, vocational,
+  school-to-work transition, and independent living needs of adolescent and
+  adult Indians and Alaska Natives with FAS or FAE; and
+  `(3) establish a national clearinghouse for prevention and educational
+  materials and other information on FAS and FAE effect in Indian and Alaska
+  Native communities and ensure access to clearinghouse materials by any
+  Indian tribe or urban Indian organization.
+  `(c) The Secretary shall establish a task force to be known as the FAS/FAE
+  Task Force to advise the Secretary in carrying out subsection (b). Such task
+  force shall be composed of representatives from the National Institute on
+  Drug Abuse, the National Institute on Alcohol and Alcoholism, the Office
+  of Substance Abuse Prevention, the National Institute of Mental Health,
+  the Service, the Office of Minority Health of the Department of Health
+  and Human Services, the  Administration for Native Americans, the Bureau
+  of Indian Affairs, Indian tribes, tribal organizations, urban Indian
+  communities, and Indian FAS/FAE experts.
+  `(d) The Secretary, acting through the Substance Abuse and Mental Health
+  Services Administration, shall make grants to Indian tribes, tribal
+  organizations, universities working with Indian tribes on cooperative
+  projects, and urban Indian organizations for applied research projects which
+  propose to elevate the understanding of methods to prevent, intervene, treat,
+  or provide aftercare for Indians and urban Indians affected by FAS or FAE.
+  `(e)(1) The Secretary shall submit to the President, for inclusion in each
+  report required to be transmitted to the Congress under section 801, a
+  report on the status of FAS and FAE in the Indian population. Such report
+  shall include, in addition to the information required under section
+  (3)(d) with respect to the health status objective specified in section
+  (3)(b)(27), the following:
+  `(A) The progress of implementing a uniform assessment and diagnostic
+  methodology in Service and tribally based service delivery systems.
+  `(B) The incidence of FAS and FAE babies born for all births by reservation
+  and urban-based sites.
+  `(C) The prevalence of FAS and FAE affected Indian persons in Indian
+  communities, their primary means of support, and recommendations to improve
+  the support system for these individuals and their families or caretakers.
+  `(D) The level of support received from the entities specified in subsection
+  (c) in the area of FAS and FAE.
+  `(E) The number of inpatient and outpatient substance abuse treatment
+  resources which are specifically designed to meet the unique needs of Indian
+  women, and the volume of care provided to Indian women through these means.
+  `(F) Recommendations regarding the prevention, intervention, and appropriate
+  vocational, educational and other support services for FAS and FAE affected
+  individuals in Indian communities.
+  `(2) The Secretary may contract the production of this report to a national
+  organization specifically addressing FAS and FAE in Indian communities.
+  `(f)(1) There are authorized to be appropriated to carry out this section
+  $22,000,000 for fiscal year 1993 and such sums as may be necessary for
+  each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+  `(2) Ten percent of the funds appropriated pursuant to this section shall
+  be used to make grants to urban Indian organizations funded under title V.
+`PUEBLO SUBSTANCE ABUSE TREATMENT PROJECT FOR SAN JUAN PUEBLO, NEW MEXICO
+  `SEC. 709. The Secretary, acting through the Service, shall continue to make
+  grants, through fiscal year 1995, to the 8 Northern Indian Pueblos Council,
+  San Juan Pueblo, New Mexico, for the purpose of providing substance abuse
+  treatment services to Indians in need of such services.
+`THUNDER CHILD TREATMENT CENTER
+  `SEC. 710. (a) The Secretary, acting through the Service, shall make a grant
+  to the Intertribal Addictions Recovery Organization, Inc. (commonly known as
+  the Thunder Child Treatment Center) at Sheridan, Wyoming, for the completion
+  of construction of a multiple approach substance abuse treatment center
+  which specializes in the treatment of alcohol and drug abuse of Indians.
+  `(b) For the purposes of carrying out subsection (a), there are authorized
+  to be appropriated $2,000,000 for fiscal years 1993 and 1994. No funding
+  shall be available for staffing or operation of this facility. None of
+  the funding appropriated to carry out subsection (a) shall be used for
+  administrative purposes.
+`SUBSTANCE ABUSE COUNSELOR EDUCATION DEMONSTRATION PROJECT
+  `SEC. 711. (a) The Secretary, acting through the Service, may enter into
+  contracts with, or make grants to, accredited tribally controlled community
+  colleges, tribally controlled postsecondary vocational institutions,
+  and eligible community colleges to establish demonstration projects to
+  develop educational curricula for substance abuse counseling.
+  `(b) Funds provided under this section shall be used only for developing and
+  providing educational curricula for substance abuse counseling (including
+  paying salaries for instructors). Such curricula may be provided through
+  satellite campus programs.
+  `(c) A contract entered into or a grant provided under this section shall
+  be for a period of one year. Such contract or grant may be renewed for an
+  additional one year period upon the approval of the Secretary.
+  `(d) Not later than 180 days after the date of the enactment of this section,
+  the Secretary, after consultation with Indian tribes and administrators
+  of accredited tribally controlled community colleges, tribally controlled
+  postsecondary vocational institutions, and eligible community colleges,
+  shall develop and issue criteria for the review and approval of applications
+  for funding (including applications for renewals of funding) under this
+  section. Such criteria shall ensure that demonstration projects established
+  under this section promote the development of the capacity of such entities
+  to educate substance abuse counselors.
+  `(e) The Secretary shall provide such technical and other assistance as
+  may be necessary to enable grant recipients to comply with the provisions
+  of this section.
+  `(f) The Secretary shall submit to the President, for inclusion in the report
+  which is required to be submitted under section 801 for fiscal year 1999,
+  a report on the findings and conclusions derived from the demonstration
+  projects conducted under this section.
+  `(g) For the purposes of this section, the following definitions apply:
+  `(1) The term `educational curriculum' means one or more of the following:
+  `(A) Classroom education.
+  `(B) Clinical work experience.
+  `(C) Continuing education workshops.
+  `(2) The term `eligible community college' means an accredited community
+  college that--
+  `(i) is located on or near an Indian reservation;
+  `(ii) has entered into a cooperative agreement with the governing body of
+  such Indian reservation to carry out a demonstration project under this
+  section; and
+  `(iii) has a student enrollment of not less than 10 percent Indian.
+  `(3) The term `tribally controlled community college' has the meaning
+  given such term in section 2(a)(4) of the Tribally Controlled Community
+  College Assistance Act of 1978 (25 U.S.C. 1801(a)(4)).
+  `(4) The term `tribally controlled postsecondary vocational institution'
+  has the meaning given such term in section 390(2) of the Tribally Controlled
+  Vocational Institutions Support Act of 1990 (20 U.S.C. 2397h(2)).
+  `(h) There are authorized to be appropriated for each of the fiscal years
+  1993, 1994, 1995, 1996, and 1997, such sums as may be necessary to carry
+  out the purposes of this section. Such sums shall remain available until
+  expended.
+`GILA RIVER ALCOHOL AND SUBSTANCE ABUSE TREATMENT FACILITY
+  `SEC. 712. (a) The Secretary, acting through the Service, shall establish
+  a regional youth alcohol and substance abuse prevention and treatment
+  center in Sacaton, Arizona, on the Gila River Indian Reservation. The
+  center shall be established within facilities leased, with the consent of
+  the Gila River Indian Community, by the Service from such Community.
+  `(b) The center established pursuant to this section shall be known as the
+  `Regional Youth Alcohol and Substance Abuse Prevention and Treatment Center'.
+  `(c) The Secretary, acting through the Service, shall establish, as a unit
+  of the regional center, a youth alcohol and substance abuse prevention
+  and treatment facility in Fallon, Nevada.
+`ALASKA NATIVE DRUG AND ALCOHOL ABUSE DEMONSTRATION PROJECT
+  `SEC. 713. (a) The Secretary, acting through the Service, shall make
+  grants to the Alaska Native Health Board for the conduct of a two-part
+  community-based demonstration project to reduce drug and alcohol abuse
+  in Alaska Native villages and to rehabilitate families afflicted by such
+  abuse. Sixty percent of such grant funds shall be used by the Health Board
+  to stimulate coordinated community development programs in villages seeking
+  to organize to combat alcohol and drug use. Forty percent of such grant
+  funds shall be transferred to a qualified nonprofit corporation providing
+  alcohol recovery services in the village of St. Mary's, Alaska, to enlarge
+  and strengthen a family life demonstration program of rehabilitation for
+  families that have been or are afflicted by alcoholism.
+  `(b) The Secretary shall submit to the President for inclusion in the
+  report required to be submitted to the Congress under section 801 for
+  fiscal year 1995 an evaluation of the demonstration project established
+  under subsection (a).
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 714. Except as provided in sections 703, 706, 708, 710, and 711,
+  there are authorized to be appropriated such sums as may be necessary for
+  each fiscal year through fiscal year 2000 to carry out the provisions of
+  this title.'.
+  (b) REDESIGNATION AND REPEAL OF EXISTING PROVISIONS-
+  (1) REDESIGNATION- The Indian Alcohol and Substance Abuse Prevention and
+  Treatment Act of 1986 (25 U.S.C. 2401 et seq.) is amended by redesignating
+  section 4224 as section 4208A.
+  (2) REPEAL- Part 6 of the Indian Alcohol and Substance Abuse Prevention
+  and Treatment Act of 1986 (25 U.S.C. 2471 et seq.), as amended by paragraph
+  (1), is hereby repealed.
+SEC. 703. INDIAN ALCOHOL AND SUBSTANCE ABUSE PREVENTION AND TREATMENT ACT
+OF 1986 AMENDMENTS.
+  The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986
+  (25 U.S.C. 2401 et seq.) is amended--
+  (1) in section 4206--
+  (A) in subsection (c)--
+  (i) in paragraph (2)--
+  (I) by striking `(2) the' and inserting `(B) the';
+  (II) by striking `(3) the' and inserting `(C) the';
+  (III) by striking `(4) the' and inserting `(D) the';
+  (IV) in subparagraph (D) (as redesignated by subclause (III)), by striking
+  `and' at the end;
+  (V) in subparagraph (E), by striking the period at the end and inserting
+  `, and'; and
+  (VI) by adding at the end the following new subparagraph:
+  `(F) an evaluation component to measure the success of efforts made.'; and
+  (ii) by adding at the end the following new paragraph:
+  `(3) All Tribal Action Plans shall be updated every 2 years.'; and
+  (B) in subsection (d), by amending paragraph (2) to read as follows:
+  `(2) There are authorized to be appropriated for grants under this
+  subsection not more than $2,000,000 for fiscal year 1993 and such sums as
+  are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998,
+  1999, and 2000.'; and
+  (C) by adding at the end the following new subsection:
+  `(f)(1) The Secretary of the Interior may make grants to Indian tribes
+  adopting a resolution pursuant to subsection (a) to implement and develop
+  community and in-school training, education, and prevention programs on
+  alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
+  `(2) Funds provided under this section may be used for, but are not limited
+  to, the development and implementation of tribal programs for--
+  `(A) youth employment;
+  `(B) youth recreation;
+  `(C) youth cultural activities;
+  `(D) community awareness programs; and
+  `(E) community training and education programs.
+  `(3) There are authorized to be appropriated to carry out the provisions
+  of this subsection $5,000,000 for fiscal year 1993 and such sums as are
+  necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999,
+  and 2000.';
+  (2) in section 4207(b), by amending paragraph (3) to read as follows:
+  `(3) The Assistant Secretary of the Interior for Indian Affairs shall
+  appoint such employees to work in the Office of Alcohol and Substance
+  Abuse, and shall provide such funding, services, and equipment as may be
+  necessary to enable the Office of Alcohol and Substance Abuse to carry
+  out its responsibilities.';
+  (3) in section 4210, by amending subsection (b) to read as follows:
+  `(b) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  to carry out this section $500,000 for fiscal year 1993 and such sums
+  as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997,
+  1998, 1999, and 2000.';
+  (4) in section 4212(a), by striking out `1989, 1990, 1991, and 1992'
+  and inserting in lieu thereof `1993, 1994, 1995, 1996, 1997, 1998, 1999,
+  and 2000';
+  (5) in section 4213(e), by amending paragraphs (1) and (2) to read as
+  follows:
+  `(1) For the planning and design, construction, and renovation of,
+  or purchase or lease of land or facilities for, emergency shelters and
+  half-way houses to provide emergency care for Indian youth, there are
+  authorized to be appropriated $10,000,000 for fiscal year 1993 and such
+  sums as may be necessary for each of the fiscal years 1994, 1995, 1996,
+  1997, 1998, 1999, and 2000.
+  `(2) For the staffing and operation of emergency shelters and half-way
+  houses, there are authorized to be appropriated $5,000,000 for fiscal year
+  1993 and $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997,
+  1998, 1999, and 2000.';
+  (6) in section 4216(a)(1)--
+  (A) in subparagraph (A), by striking `and' at the end;
+  (B) in subparagraph (B), by striking the period at the end and inserting
+  `, and'; and
+  (C) by adding at the end the following new subparagraph:
+  `(C) the Makah Indian Tribe of Washington for the investigation and control
+  of illegal narcotic traffic on the Makah Indian Reservation arising from
+  its proximity to international waters.';
+  (7) by amending section 4216(a)(3) to read as follows:
+  `(3) For the purpose of providing the assistance required by this subsection,
+  there are authorized to be appropriated--
+  `(A) $500,000 under paragraph (1)(A) for fiscal year 1993 and such sums
+  as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997,
+  1998, 1999, and 2000,
+  `(B) $500,000 under paragraph (1)(B) for fiscal year 1993 and such sums
+  as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997,
+  1998, 1999, and 2000, and
+  `(C) $500,000 under paragraph (1)(C) for fiscal year 1993 and such sums
+  as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997,
+  1998, 1999, and 2000.';
+  (8) by amending section 4216(b) to read as follows:
+  `(b)(1) MARIJUANA ERADICATION AND INTERDICTION- The Secretary of the
+  Interior, in cooperation with appropriate Federal, tribal, and State and
+  local law enforcement agencies, shall establish and implement a program for
+  the eradication of marijuana cultivation, and interdiction, investigation,
+  and control of illegal narcotics trafficking within Indian country as
+  defined in section 1152 of title 18, United States Code. The Secretary shall
+  establish a priority for the use of funds appropriated under paragraph
+  (2) for those Indian reservations where the scope of the problem is most
+  critical, and such funds shall be available for contracting by Indian tribes
+  pursuant to the Indian Self-Determination Act (25 U.S.C. 450f et seq.).
+  `(2) For the purpose of establishing the program required by paragraph
+  (1), there are authorized to be appropriated $2,000,000 for fiscal year
+  1993 and such sums as may be necessary for each of the fiscal years 1994,
+  1995, 1996, 1997, 1998, 1999, and 2000.';
+  (9) in section 4218, by amending subsection (b) to read as follows:
+  `(b) AUTHORIZATION- For the purposes of providing the training required
+  by subsection (a), there are authorized to be appropriated $2,000,000 for
+  fiscal year 1993 and such sums as may be necessary for each of the fiscal
+  years 1994, 1995, 1996, 1997, 1998, 1999 and 2000.'; and
+  (10) in section 4220(b), by amending paragraphs (1) and (2) to read
+  as follows:
+  `(1) For the purpose of constructing or renovating juvenile detention centers
+  as provided in subsection (a), there are authorized to be appropriated
+  $10,000,000 for fiscal year 1993 and such sums as may be necessary for
+  each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+  `(2) For the purpose of staffing and operating juvenile detention centers,
+  there are authorized to be appropriated $7,000,000 for fiscal year 1993
+  and such sums as may be necessary for each of the fiscal years 1994, 1995,
+  1996, 1997, 1998, 1999, and 2000.'.
+TITLE VIII--MISCELLANEOUS
+SEC. 801. REPORTS.
+  Section 801 of the Act (25 U.S.C. 1671) (as redesignated by section 701(b)
+  of this Act) is amended to read as follows:
+`REPORTS
+  `SEC. 801. The President shall, at the time the budget is submitted under
+  section 1105 of title 31, United States Code, for each fiscal year transmit
+  to the Congress a report containing--
+  `(1) a report on the progress made in meeting the objectives of this Act,
+  including a review of programs established or assisted pursuant to this Act
+  and an assessment and recommendations of additional programs or additional
+  assistance necessary to, at a minimum, provide health services to Indians,
+  and ensure a health status for Indians, which are at a parity with the health
+  services available to and the health status of, the general population;
+  `(2) a report on whether, and to what extent, new national health care
+  programs, benefits, initiatives, or financing systems have had an impact
+  on the purposes of this Act and any steps that the Secretary may have
+  taken to consult with Indian tribes to address such impact;
+  `(3) a report on the use of health services by Indians--
+  `(A) on a national and area or other relevant geographical basis;
+  `(B) by gender and age;
+  `(C) by source of payment and type of service; and
+  `(D) comparing such rates of use with rates of use among comparable
+  non-Indian populations.
+  `(4) a separate statement which specifies the amount of funds requested
+  to carry out the provisions of section 201;
+  `(5) a separate statement of the total amount obligated or expended in
+  the most recently completed fiscal year to achieve each of the objectives
+  described in section 814, relating to infant and maternal mortality and
+  fetal alcohol syndrome;
+  `(6) the reports required by sections 3(d), 108(n), 203(b), 209(j), 301(c),
+  302(g), 305(a)(3), 403, 708(e), and 817(a), and 822(f);
+  `(7) for fiscal year 1995, the report required by sections 702(c)(3)
+  and 713(b);
+  `(8) for fiscal year 1997, the interim report required by section 307(h)(1);
+  and
+  `(9) for fiscal year 1999, the reports required by sections 307(h)(2),
+  512(b), 711(f), and 821(g).'.
+SEC. 802. REGULATIONS.
+  Section 802 of the Act (25 U.S.C. 1672) (as redesignated by section 701(b)
+  of this Act) is amended to read as follows:
+`REGULATIONS
+  `SEC. 802. Prior to any revision of or amendment to rules or regulations
+  promulgated pursuant to this Act, the Secretary shall consult with Indian
+  tribes and appropriate national or regional Indian organizations and shall
+  publish any proposed revision or amendment in the Federal Register not less
+  than sixty days prior to the effective date of such revision or amendment
+  in order to provide adequate notice to, and receive comments from, other
+  interested parties.'.
+SEC. 803. EXTENSION OF TREATMENT OF ARIZONA AS A CONTRACT HEALTH SERVICE
+DELIVERY AREA.
+  Section 808 of the Act (25 U.S.C. 1678) (as redesignated by section 701(b)
+  of this Act) is amended by striking out `1991' and inserting in lieu thereof
+  `2000'.
+SEC. 804. INFANT AND MATERNAL MORTALITY; FETAL ALCOHOL SYNDROME.
+  Section 814 of the Act (25 U.S.C. 1680d) (as redesignated by section 701(b)
+  of this Act) is amended--
+  (1) by striking out `(a)'; and
+  (2) by striking out subsection (b).
+SEC. 805. REALLOCATION OF BASE RESOURCES.
+  Section 817(a) of the Act (25 U.S.C. 1680(g)) (as redesignated by section
+  701(b) of this Act) is amended by striking out `Secretary has submitted
+  to the Congress' and inserting in lieu thereof the following: `Secretary
+  has submitted to the President, for inclusion in the report required to
+  be transmitted to the Congress under section 801,'.
+SEC. 806. CHILD SEXUAL ABUSE TREATMENT PROGRAMS.
+  Section 819 of the Act (25 U.S.C. 1680i) (as redesignated by section 701(b)
+  of this Act) is amended to read as follows:
+`CHILD SEXUAL ABUSE TREATMENT PROGRAMS
+  `SEC. 819. (a) The Secretary and the Secretary of the Interior shall,
+  for each fiscal year through fiscal year 1995, continue the demonstration
+  programs involving treatment for child sexual abuse provided through the
+  Hopi Tribe and the Assiniboine and Sioux Tribes of the Fort Peck Reservation.
+  `(b) Beginning October 1, 1995, the Secretary and the Secretary of the
+  Interior may establish, in any service area, demonstration programs
+  involving treatment for child sexual abuse, except that the Secretaries
+  may not establish a greater number of such programs in one service area
+  than in any other service area until there is an equal number of such
+  programs established with respect to all service areas  from which the
+  Secretary receives qualified applications during the application period
+  (as determined by the Secretary).'.
+SEC. 807. TRIBAL LEASING.
+  Section 820 of the Act (25 U.S.C. 1680j) (as redesignated by section 701(b)
+  of this Act) is amended to read as follows:
+`TRIBAL LEASING
+  `SEC. 820. Indian tribes providing health care services pursuant to a
+  contract entered into under the Indian Self-Determination Act may lease
+  permanent structures for the purpose of providing such health care services
+  without obtaining advance approval in appropriation Acts.'.
+SEC. 808. EXTENSION OF TERMINATION DATE OF CERTAIN DEMONSTRATION PROJECTS;
+JOINT VENTURE PROJECTS.
+  Section 818 of the Act (25 U.S.C. 1680h) (as redesignated by section 701(b)
+  of this Act) is amended--
+  (1) in subsection (d)--
+  (A) in paragraph (1), by inserting before the period at the end the
+  following: `, or, in the case of a demonstration project for which a grant
+  is made after September 30, 1990, three years after the date on which such
+  grant is made'; and
+  (B) in paragraph (2), by striking `1994' and inserting `1996'; and
+  (2) by amending subsection (e) to read as follows:
+  `(e)(1) The Secretary, acting through the Service, shall make arrangements
+  with Indian tribes to establish joint venture demonstration projects under
+  which an Indian tribe shall expend tribal, private, or other available
+  nontribal funds, for the acquisition or construction of a health facility
+  for a minimum of 20 years, under a no-cost lease, in exchange for agreement
+  by the Service to provide the equipment, supplies, and staffing for the
+  operation and maintenance of such a health facility. A tribe may utilize
+  tribal funds, private sector, or other available resources, including loan
+  guarantees, to fulfill its commitment under this subsection.
+  `(2) The Secretary shall make such an arrangement with an Indian tribe
+  only if the Secretary first determines that the Indian tribe has the
+  administrative and financial capabilities necessary to complete the timely
+  acquisition or construction of the health facility described in paragraph
+  (1).
+  `(3) An Indian tribe or tribal organization that has entered into a written
+  agreement with the Secretary under this subsection, and that breaches or
+  terminates without cause such agreement, shall be liable to the United
+  States for the amount that has been paid to the tribe, or paid to a third
+  party on the tribe's behalf, under the agreement. The Secretary has the
+  right to recover tangible property (including supplies), and equipment,
+  less depreciation, and any funds expended for operations and maintenance
+  under this section. The preceding sentence does not apply to any funds
+  expended for the delivery of health care services, or for personnel or
+  staffing, shall be recoverable.'.
+SEC. 809. HOME AND COMMUNITY BASED CARE DEMONSTRATION PROJECT.
+  Title VIII of the Act (as redesignated by subsections (a) and (b) of section
+  701 of this Act) is amended by adding at the end the following new section:
+`HOME- AND COMMUNITY-BASED CARE DEMONSTRATION PROJECT
+  `SEC. 821. (a) The Secretary, acting through the Service, is authorized
+  to enter into contracts with, or make grants to, Indian tribes or tribal
+  organizations providing health care services pursuant to a contract entered
+  into under the Indian Self-Determination Act, to establish demonstration
+  projects for the delivery of home- and community-based services to
+  functionally disabled Indians.
+  `(b)(1) Funds provided for a demonstration project under this section
+  shall be used only for the delivery of home- and community-based services
+  (including transportation services) to functionally disabled Indians.
+  `(2) Such funds may not be used--
+  `(A) to make cash payments to functionally disabled Indians;
+  `(B) to provide room and board for functionally disabled Indians;
+  `(C) for the construction or renovation of facilities or the purchase of
+  medical equipment; or
+  `(D) for the provision of nursing facility services.
+  `(c) Not later than 180 days after the date of the enactment of this
+  section, the Secretary, after consultation with Indian tribes and tribal
+  organizations, shall develop and issue criteria for the approval of
+  applications submitted under this section. Such criteria shall ensure
+  that demonstration projects established under this section promote the
+  development of the capacity of tribes and tribal organizations to deliver,
+  or arrange for the delivery of, high quality, culturally appropriate home-
+  and community-based services to functionally disabled Indians;
+  `(d) The Secretary shall provide such technical and other assistance as
+  may be necessary to enable applicants to comply with the provisions of
+  this section.
+  `(e) At the discretion of the tribe or tribal organization, services
+  provided under a demonstration project established under this section
+  may be provided (on a cost basis) to persons otherwise ineligible for the
+  health care benefits of the Service.
+  `(f) The Secretary shall establish not more than 24 demonstration projects
+  under this section. The Secretary may not establish a greater number of
+  demonstration projects under this section in one service area than in any
+  other service area until there is an equal number of such demonstration
+  projects established with respect to all service areas from which the
+  Secretary receives applications during the application period (as determined
+  by the Secretary) which meet the criteria issued pursuant to subsection (c).
+  `(g) The Secretary shall submit to the President, for inclusion in the
+  report which is required to be submitted under section 801 for fiscal
+  year 1999, a report on the findings and conclusions derived from the
+  demonstration projects conducted under this section, together with
+  legislative recommendations.
+  `(h) For the purposes of this section, the following definitions shall apply:
+  `(1) The term `home- and community-based services' means one or more of
+  the following:
+  `(A) Homemaker/home health aide services.
+  `(B) Chore services.
+  `(C) Personal care services.
+  `(D) Nursing care services provided outside of a nursing facility by,
+  or under the supervision of, a registered nurse.
+  `(E) Respite care.
+  `(F) Training for family members in managing a functionally disabled
+  individual.
+  `(G) Adult day care.
+  `(H) Such other home- and community-based services as the Secretary may
+  approve.
+  `(2) The term `functionally disabled' means an individual who is determined
+  to require home- and community-based services based on an assessment
+  that uses criteria (including, at the discretion of the tribe or tribal
+  organization, activities of daily living) developed by the tribe or tribal
+  organization.
+  `(i) There are authorized to be appropriated for each of the fiscal years
+  1993, 1994, 1995, 1996, and 1997 such sums as may be necessary to carry
+  out this section. Such sums shall remain available until expended.'.
+SEC. 810. SHARED SERVICES DEMONSTRATION PROJECTS.
+  Title VIII of the Act (as redesignated by subsections (a) and (b) of
+  section 701 and amended by section 809 of this Act) is amended by adding
+  at the end the following new section:
+`SHARED SERVICES DEMONSTRATION PROJECT
+  `SEC. 822. (a) The Secretary, acting through the Service and notwithstanding
+  any other provision of law, is authorized to enter into contracts with Indian
+  tribes or tribal organizations to establish not more than 6 shared services
+  demonstration projects for the delivery of long-term care to Indians. Such
+  projects shall provide for the sharing of staff or other services between
+  a Service facility and a nursing facility owned and operated (directly or
+  by contract) by such Indian tribe or tribal organization.
+  `(b) A contract entered into pursuant to subsection (a)--
+  `(1) may, at the request of the Indian tribe or tribal organization,
+  delegate to such tribe or tribal organization such powers of supervision
+  and control over Service employees as the Secretary deems necessary to
+  carry out the purposes of this section;
+  `(2) shall provide that expenses (including salaries) relating to services
+  that are shared between the Service facility and the tribal facility be
+  allocated proportionately between the Service and the tribe or tribal
+  organization; and
+  `(3) may authorize such tribe or tribal organization to construct, renovate,
+  or expand a nursing facility (including the construction of a facility
+  attached to a Service facility), except that no funds appropriated for
+  the Service shall be obligated or expended for such purpose.
+  `(c) To be eligible for a contract under this section, a tribe or tribal
+  organization, shall, as of the date of the enactment of this Act--
+  `(1) own and operate (directly or by contract) a nursing facility;
+  `(2) have entered into an agreement with a consultant to develop a plan
+  for meeting the long-term needs of the tribe or tribal organization; or
+  `(3) have adopted a tribal resolution providing for the construction of
+  a nursing facility.
+  `(d) Any nursing facility for which a contract is entered into under this
+  section shall meet the requirements for nursing facilities under section
+  1919 of the Social Security Act.
+  `(e) The Secretary shall provide such technical and other assistance as
+  may be necessary to enable applicants to comply with the provisions of
+  this section.
+  `(f) The Secretary shall submit to the President, for inclusion in each
+  report required to be transmitted to the Congress under section 801,
+  a report on the findings and conclusions derived from the demonstration
+  projects conducted under this section.'.
+SEC. 811. RESULTS OF DEMONSTRATION PROJECTS.
+  Title VIII of the Act (as redesignated by subsections (a) and (b) of
+  section 701 and amended by section 810 of this Act) is amended by adding
+  at the end the following new section:
+`RESULTS OF DEMONSTRATION PROJECTS
+  `SEC. 823. The Secretary shall provide for the dissemination to Indian
+  tribes of the findings and results of demonstration projects conducted
+  under this Act.'.
+SEC. 812. PRIORITY FOR INDIAN RESERVATIONS.
+  Title VIII of the Act (as redesignated by subsections (a) and (b) of
+  section 701 and amended by section 811 of this Act) is amended by adding
+  at the end the following new section:
+`PRIORITY FOR INDIAN RESERVATIONS
+  `SEC. 824. (a) Beginning on the date of the enactment of this section,
+  the Bureau of Indian Affairs and the Service shall, in all matters
+  involving the reorganization or development of Service facilities, or in
+  the establishment of related employment projects to address unemployment
+  conditions in economically depressed areas, give priority to locating such
+  facilities and projects on Indian lands if requested by the Indian tribe
+  with jurisdiction over such lands.
+  `(b) For purposes of this section, the term `Indian lands' means--
+  `(1) all lands within the limits of any Indian reservation; and
+  `(2) any lands title which is held in trust by the United States for the
+  benefit of any Indian tribe or individual Indian, or held by any Indian tribe
+  or individual Indian subject to restriction by the United States against
+  alienation and over which an Indian tribe exercises governmental power.'.
+SEC. 813. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION- Title VIII of the Act (as redesignated by subsections
+  (a) and (b) of section 701 and amended by section 812 of this Act) is
+  amended by adding at the end the following new section:
+`AUTHORIZATION OF APPROPRIATIONS
+  `SEC. 825. Except as provided in section 821, there are authorized to be
+  appropriated such sums as may be necessary for each fiscal year through
+  fiscal year 2000 to carry out this title.'.
+  (b) CONFORMING AMENDMENTS- Section 807 of the Act (25 U.S.C. 1677)
+  (as redesignated by subsections (a) and (b) of section 701 of this Act)
+  is amended by striking out subsection (f).
+SEC. 814. TRIBAL SELF-GOVERNANCE PROJECT.
+  The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f
+  note) is amended--
+  (1) in section 301, by inserting after `Interior' the following: `and the
+  Secretary of Health and Human Services (hereafter in this title referred
+  to as the `Secretaries') each';
+  (2) in sections 302, 303, 304, and 305, by striking `Secretary' each place
+  it appears and inserting in lieu thereof `Secretaries';
+  (3) in section 303(a)(1), by inserting after `Interior' the following:
+  `and the Indian Health Service of the Department of Health and Human
+  Services'; and
+  (4) by adding after section 309 the following new section:
+  `SEC. 310. For the purposes of providing one year planning and negotiations
+  grants to the Indian tribes identified by section 302, with respect to the
+  programs, activities, functions, or services of the Indian Health Service,
+  there are authorized to be appropriated such sums as may be necessary to
+  carry out such purposes. Upon completion of an authorized planning activity
+  or a comparable planning activity by a tribe, the Secretary is authorized
+  to negotiate and implement a Compact of Self-Governance and Annual Funding
+  Agreement with such tribe.'.
+TITLE IX--TECHNICAL CORRECTIONS
+SEC. 901. REPEAL OF EXPIRED REPORTING REQUIREMENTS.
+  The Act is amended--
+  (1) in section 116, by striking out subsection (d);
+  (2) in section 204(a)--
+  (A) by striking out paragraph (2);
+  (B) by striking out `(a)(1)' and inserting in lieu thereof `(a)';
+  (C) by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2),
+  respectively; and
+  (D) in paragraph (2) (as redesignated by subparagraph (C)), by striking out
+  `subparagraph (A)' and inserting in lieu thereof `paragraph (1)';
+  (3) in section 602, by striking out subsection (a)(3); and
+  (4) by striking out section 803 (as redesignated by section 701(b) of
+  this Act).
+SEC. 902. OTHER TECHNICAL CORRECTIONS.
+  The Act is amended--
+  (1) in section 4(c), by striking out `sections 102, 103, and 201(c)(5),'
+  and inserting in lieu thereof the following: `sections 102 and 103,';
+  (2) in title I--
+  (A) in section 102(b)(1), by striking `: Provided, That the' and inserting
+  in lieu thereof `. The';
+  (B) in section 105(c), by striking out `Department of Health, Education,
+  and Welfare' and inserting in lieu thereof `Department of Health and
+  Human Services';
+  (C) in section 108(d)(1)(A), by striking out `Indian Health' and inserting
+  in lieu thereof `Indian health'; and
+  (D) in section 108(i), by striking out `Service manpower programs' and
+  inserting in lieu thereof `health professional programs of the Service'.
+  (3) in title II--
+  (A) by striking out `SEC. 209. MENTAL HEALTH PREVENTION AND TREATMENT
+  SERVICES.' and inserting in lieu thereof the following:
+`MENTAL HEALTH PREVENTION AND TREATMENT SERVICES
+  `SEC. 209.'; and
+  (B) in section 209, by redesignating subsections (c) through (l) as
+  subsections (b) through (k), respectively;
+  (4) in title III--
+  (A) by striking out `SEC. 307. INDIAN HEALTH CARE DELIVERY DEMONSTRATION
+  PROJECT.' and inserting in lieu thereof the following:
+`INDIAN HEALTH CARE DELIVERY DEMONSTRATION PROJECT
+  `SEC. 307.'; and
+  (B) in section 301(d) (as redesignated by section 301(2) of this Act),
+  by striking out `sections 102 and 103(b)' and inserting in lieu thereof
+  `section 102';
+  (5) in title V--
+  (A) by striking out `SEC. 409. FACILITIES RENOVATION.' and inserting in
+  lieu thereof the following:
+`FACILITIES RENOVATION
+  `SEC. 509.'; and
+  (B) by striking out `SEC. 511. URBAN HEALTH PROGRAMS BRANCH.' and inserting
+  in lieu thereof the following:
+`URBAN HEALTH PROGRAMS BRANCH
+  `SEC. 510.';
+  (6) in section 601(c)(3)(D), by striking out `(25 U.S.C. 2005, et seq.)' and
+  inserting in lieu thereof `(42 U.S.C. 2005 et seq.)';
+  (7) in section 601(d)(1)(C), by striking out `appropriate' and inserting
+  in lieu thereof `appropriated';
+  (8) in section 813(b)(2)(A) (as redesignated by section 701(b) of this
+  Act), by striking out `section 402(c)' and inserting in lieu thereof
+  `section 402(a)'; and
+  (9) by amending the heading for section 816 (as redesignated by section
+  701(b)) to read as follows:
+`INDIAN HEALTH SERVICE AND DEPARTMENT OF VETERANS AFFAIRS HEALTH FACILITIES
+AND SERVICES SHARING'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

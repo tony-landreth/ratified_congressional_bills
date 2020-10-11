@@ -1,0 +1,137 @@
+ 
+--H.R.3310--
+H.R.3310
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations for activities of the National Telecommunications
+and
+Information Administration for fiscal years 1990 and 1991.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled, That there is authorized to be
+ appropriated for activities of the National Telecommunications and Information
+ Administration $14,554,000 for fiscal year 1990 and $18,000,000 for fiscal
+ year 1991, together with such sums as may be necessary for increases resulting
+ from adjustments in salary, pay, retirement, other employee benefits required
+ by law, and other nondiscretionary costs, for fiscal year 1991.
+ SEC. 2. (a) The Congress finds that--
+ (1) the Pacific Ocean region is of strategic and economic importance to
+ the  United States;
+ (2) other nations, especially the Soviet Union and Japan, are seeking to
+ increase their influence in this region;
+ (3) because the Pacific Basin communities are geographically isolated
+ and because many are relatively poor, they are in great need of quality,
+ low-cost communications services to maintain contact among themselves and
+ with other countries;
+ (4) from 1971 until 1985, such communications needs were satisfied by the
+ Pan-Pacific Educational and Cultural Experiments by Satellite Program
+ (hereinafter referred to as the `PEACESAT Program') operating over the
+ ATS-1 satellite of the National Aeronautics and Space Administration;
+ (5) the ATS-1 satellite ran out of station-keeping fuel in 1985 and has
+ provided only intermittent service since then;
+ (6) the Act entitled `An Act to provide authorization of appropriations for
+ activities of the National Telecommunications and Information Administration',
+ approved November 3, 1988 (Public Law 100-584; 102 Stat. 2970), authorized
+ $3,400,000 in funding during fiscal years 1988 and 1989 for re-establishing
+ the communications network of the PEACESAT Program;
+ (7) Congress appropriated $1,700,000 for fiscal year 1988 and $200,000 for
+ fiscal year 1989 for the purposes of re-establishing the communications
+ network of the PEACESAT Program;
+ (8) since 1988, significant progress has been made to ensure resumption
+ of this vital communications service by repairing earth terminals in the
+ Pacific communities, by identifying the short-term and long-term needs
+ of the residents of these communities, and by negotiating to acquire the
+ use of the GOES-3 satellite owned by the National Oceanic and Atmospheric
+ Administration, which is expected to provide service from 1990 to 1994;
+ (9) the National Telecommunications and Information Administration will
+ issue a contract for the design and construction of earth terminals to
+ work with the GOES-3 satellite by early 1990 that will exhaust the funds
+ previously appropriated;
+ (10) additional funding will be necessary for fiscal years 1990 and 1991
+ to pay for the costs of operating the GOES-3 satellite, for installing the
+ earth stations and training engineers to operate them, and for administering
+ the program; and
+ (11) additional but undetermined funding may also be necessary in fiscal
+ year 1991 to begin acquiring replacement satellite capacity for the GOES-3
+ satellite after it goes out of service.
+ (b) It is the purpose of this section to assist in the acquisition of
+ satellite communications services until viable alternatives are available
+ and to provide interim funding in order that the PEACESAT Program may
+ again serve the educational, medical, and cultural needs of the Pacific
+ Basin  communities.
+ (c)(1) The Secretary of Commerce shall expeditiously negotiate for and acquire
+ satellite space segment capacity and related ground segment equipment to
+ provide communications services for former users of the ATS-1 satellite of
+ the National Aeronautics and Space Administration.
+ (2)(A) The Secretary of Commerce shall provide to the manager of the PEACESAT
+ Program such funds, from appropriations authorized under subsection (d) of
+ this section, as the Secretary considers necessary to manage the operation
+ of the satellite communications services provided with the capacity and
+ equipment acquired under this subsection.
+ (B) The recipient of funds under subparagraph (A) of this paragraph shall
+ keep such records as may reasonably be necessary to enable the Secretary
+ of Commerce to conduct an effective audit of such funds.
+ (C) The Secretary of Commerce and the Comptroller General of the  United
+ States, or any of their duly authorized representatives, shall have access
+ for the purpose of audit and examination to any books, documents, papers,
+ and records of such recipient that are pertinent to the funds received
+ under subparagraph (A) of this paragraph.
+ (d) There are authorized to be appropriated $1,000,000 for fiscal year
+ 1990 and such sums as may be necessary for fiscal year 1991 for use by the
+ Secretary of Commerce in the negotiation for and acquisition of capacity
+ and equipment under subsection (c)(1) of this section and the management of
+ the operation of satellite communications services under subsection (c)(2)
+ of this   section. Sums appropriated pursuant to this subsection may be
+ used by the Secretary of Commerce to cover administrative costs associated
+ with the provisions of this section.
+ (e) The Secretary of Commerce shall consult with appropriate departments and
+ agencies of the Federal Government, representatives of the PEACESAT Program,
+ and other affected parties regarding the development of a long-term solution
+ to the communications needs of the Pacific Ocean region. Within one year
+ after the date of enactment of this Act, the Secretary of Commerce shall
+ report to the Congress regarding such consultation.
+ SEC. 3. (a) It is the purpose of this section to improve the ability of
+ rural health providers to use communications to obtain health information
+ and to consult with others concerning the delivery of patient care. Such
+ enhanced communications ability may assist in--
+ (1) improving and extending the training of rural health professionals; and
+ (2) improving the continuity of patient care in rural areas.
+ (b) The Secretary of Commerce, in conjunction with the Secretary of Health
+ and Human Services, shall establish an advisory panel (hereafter in this
+ section referred to as the `Panel') to develop recommendations for the
+ improvement of rural health care through the collection of information
+ needed by providers and the improvement in the use of communications to
+ disseminate such information.
+ (c) The Panel shall be composed of individuals from organizations with
+ rural constituencies and practitioners from health care disciplines,
+ representatives of the National Library of Medicine, and representatives
+ of different health professions schools, including nurse practitioners.
+ (d) The Panel may select consultants to provide advice to the Panel
+ regarding the types of information that rural health care practitioners
+ need, the procedures to gather and disseminate such information, and the
+ types of communications equipment and training needed by rural health care
+ practitioners to obtain access to such information.
+ (e) Not later than 1 year after the Panel is established under subsection
+ (b), the Secretary of Commerce shall prepare and submit, to the Committee
+ on Commerce, Science, and Transportation and the Committee on Labor and
+ Human Resources of the Senate and to the Committee on Energy and Commerce
+ of the House of Representatives, a report summarizing the recommendations
+ made by the Panel under subsection (b).
+ (f) There is authorized to be appropriated to the Secretary of Commerce to
+ carry out this section $1,000,000 to remain available until expended.
+ SEC. 4. (a) Section 226 of the Communications Act of 1934 (47  U.S.C. 226)
+ is amended by striking `30' each place it appears in subsection (b) (1)
+ and (2), subsection (c)(1), and subsection (h)(1)(A) and inserting in lieu
+ thereof `90'.
+ (b) Section 226(b)(1) of the Communications Act of 1934 (47  U.S.C. 226(b)(1))
+ is amended--
+ (1) in subparagraph (H) by adding `and' at the end;
+ (2) in subparagraph (I) by striking `; and' and inserting in lieu thereof
+ a period; and
+ (3) by striking subparagraph (J).
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

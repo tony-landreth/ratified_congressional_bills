@@ -1,0 +1,1240 @@
+ 
+--H.R.6168--
+H.R.6168
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Airport and Airway Improvement Act of 1982 to authorize
+appropriations, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Airport and Airway Safety,
+  Capacity, Noise Improvement, and Intermodal Transportation Act of 1992'.
+  (b) TABLE OF CONTENTS-
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+TITLE I--AIRPORT AND AIRWAY IMPROVEMENT ACT AMENDMENTS
+Sec. 101. Declaration of policy.
+Sec. 102. Airport improvement program.
+Sec. 103. Airway improvement program.
+Sec. 104. FAA operations.
+Sec. 105. Linkage with passenger facility charges program.
+Sec. 106. Apportionments.
+Sec. 107. Military airports.
+Sec. 108. Airport noise compatibility program.
+Sec. 109. Maximum obligation of the United States.
+Sec. 110. Terminal development.
+Sec. 111. Letters of intent.
+Sec. 112. Airport development defined.
+Sec. 113. Public access and participation with respect to airports.
+Sec. 114. National airway system.
+Sec. 115. Definition of passengers enplaned.
+Sec. 116. Extension of State block grant pilot program.
+Sec. 117. Disadvantaged business enterprise.
+Sec. 118. Extension of certain restrictions on contract and grant awards.
+Sec. 119. Acquisition or construction of facilities for advanced training
+of maintenance technicians for air carrier aircraft.
+Sec. 120. Air traffic controller staffing.
+Sec. 121. Aviation safety inspectors.
+Sec. 122. Limitation on privatization of operation of certain airport
+control towers.
+Sec. 123. Effects of airport noise.
+Sec. 124. Aircraft operations in winter conditions.
+Sec. 125. Visual flight rule routes for complex terminal airspace areas.
+Sec. 126. Study on reflectorization of taxiway and runway markings.
+Sec. 127. Options to purchase land.
+Sec. 128. Lighting systems for aircraft obstructions and airport runways.
+Sec. 129. Economic benefits of airport development projects.
+Sec. 130. Soundproofing of certain residential buildings in areas surrounding
+airports.
+Sec. 131. Laredo International Airport, Laredo, Texas.
+Sec. 132. Study of small airport runway maintenance.
+Sec. 133. Tucson study.
+Sec. 134. Air traffic over Grand Canyon.
+Sec. 135. Civil Tiltrotor Development Advisory Committee.
+Sec. 136. Technical amendments.
+TITLE II--FEDERAL AVIATION ACT AMENDMENTS
+Sec. 201. Procurement reform.
+Sec. 202. Aviation security training.
+Sec. 203. Hazards to safe and efficient air commerce.
+Sec. 204. National commission to promote a strong and competitive airline
+industry.
+Sec. 205. Strengthening of competition.
+Sec. 206. Slot rule effective date.
+Sec. 207. Emergency vision equipment.
+Sec. 208. Technical amendments to civil penalties.
+TITLE III--RESEARCH, ENGINEERING, AND DEVELOPMENT
+Sec. 301. Short title.
+Sec. 302. Aviation research authorization of appropriations.
+Sec. 303. Deicing study.
+Sec. 304. Aircraft noise research program.
+Sec. 305. Use of domestic products.
+TITLE IV--AVIATION INSURANCE
+Sec. 401. Insurance for departments and agencies of the United States.
+Sec. 402. Extension of program.
+Sec. 403. Administration of aviation insurance program.
+Sec. 404. Continuation of aviation insurance laws.
+TITLE V--EXTENSION OF AIRPORT AND AIRWAY TRUST FUND
+Sec. 501. Extension of Airport and Airway Trust Fund.
+Sec. 502. Clarification of trust fund revenues.
+SEC. 2. FINDINGS.
+  Congress finds that--
+  (1) the Nation's aviation system must be part of an intermodal
+  transportation system consisting of hubs and interconnections with other
+  forms of transportation that will move people and goods in the fastest,
+  most efficient manner;
+  (2) our Nation's airports are our interconnections with the global
+  economy; expanded flight capacity and greatly improved ground access for
+  passengers and cargo are essential to our Nation's ability to compete in
+  the international marketplace;
+  (3) without significant additional financial resources, the Nation's
+  airports will be unable to accommodate fully the growing aviation and
+  ground traffic demands of the 1990's;
+  (4) 27 of the Nation's top 100 airports are now unacceptably congested
+  and the resulting delays in flights are costing our economy billions of
+  dollars a year in lost productivity and undermining the Nation's ability
+  to compete in the global economy;
+  (5) unless the capacity of our airports is increased substantially, the
+  problem of flight delays will escalate dramatically and, by the year 2000,
+  40 major airports will be congested and incurring more than 20,000 hours
+  of flight delay a year;
+  (6) the Nation must undertake an airport improvement and development program
+  costing at least $7,000,000,000 a year over the next decade just to prevent
+  the problem of airport delay from growing worse in the 21st century;
+  (7) neither State, local, nor Federal Government can independently finance
+  the needed airport and intermodal development and there must be a combined
+  effort relying on all levels of government;
+  (8) both the Federal airport improvement program and local passenger
+  facility charge programs are essential to funding the development, as part
+  of an intermodal transportation system, of airports (including necessary
+  ground access eligible for funding under such programs) which meet our
+  Nation's needs;
+  (9) the Nation's air traffic control system must be modernized with the
+  highest advanced technology to enable it to continue to move traffic safely
+  and efficiently and the necessary development and procurement of capital
+  equipment will cost at least $18,000,000,000 over the next decade;
+  (10) the modernization of the air traffic control system will result in
+  productivity and safety benefits of $257,000,000,000 over the life of the
+  equipment purchased; these benefits include the value of time saved by
+  airline passengers, reductions in airline operating costs, and reduced
+  government expenditures and benefits from increased safety;
+  (11) there will need to be a continuing increase in staffing for the
+  air traffic control system to enable controllers to handle, safely and
+  efficiently, the increased workload which will arise as air transportation
+  grows over the next decade;
+  (12) the Federal Government must play a major role in developing our
+  aviation system; full use must be made of the more than $5,000,000,000
+  which aviation users contribute to the Airport and Airway Trust Fund each
+  year and the $7,400,000,000 surplus which has accumulated in the Trust Fund;
+  (13) although survival of a strong and competitive airline industry is
+  essential to our Nation's economic future--the Nation's airlines are in
+  a financial and competitive crisis which threatens our entire aviation
+  system and our Nation's ability to move people; major airlines have lost
+  more than $6,000,000,000 over the past 2 years; many airlines have merged
+  or discontinued operations; and new entry into the industry has ceased;
+  (14) the opportunities for new entrants and financially weak airlines to
+  compete successfully can be maximized by the development of new airport
+  capacity, particularly terminal facilities and gates, which will facilitate
+  the ability of new airlines to compete against the airlines which now
+  dominate the facilities at major hub airports;
+  (15) investment in the aviation transportation infrastructure of the
+  United States will pay immediate and long-term dividends in jobs and
+  economic productivity and provide the foundation for the Nation's continued
+  leadership in the global economic competition of the 21st century;
+  (16) infrastructure investment differs significantly from other forms of
+  government spending because it creates new wealth for the Nation;
+  (17) the wealth and economic strength of the United States is in the Nation's
+  infrastructure which provides the foundation for all aspects of life;
+  (18) failure to invest in the transportation infrastructure, including
+  aviation, has placed the United States in danger of becoming a
+  service-oriented economy, rather than having a strong and independent
+  manufacturing-based economy;
+  (19) the creation of a national intermodal transportation system is central
+  to the transportation issues of the coming decades and will create the
+  new wealth of the Nation to provide the funds for the Nation to meet the
+  challenges of the 21st century;
+  (20) our Nation should devote greater efforts to integrating the aviation
+  system with highway and mass transit facilities providing access to airports;
+  (21) transportation planning, taking account of commerce and land-use
+  patterns, must be improved at all levels and local officials must have a
+  significant role in transportation decisions affecting their areas;
+  (22) failure to develop an improved intermodal transportation system for
+  the 1990's and the 21st century will result in continuing the two decade
+  trend of decline in United States competitiveness in the global economy
+  and the accompanying decline in the Nation's standard of living;
+  (23) the safety of the traveling public is of paramount national importance;
+  (24) aircraft deicing is an important element of aviation safety and past
+  aircraft incidents suggest that both the Federal Government and private
+  industries should focus on methods to improve aircraft deicing procedures
+  and facilities;
+  (25) noise associated with the use of our Nation's airports must be reduced
+  and efforts to mitigate noise must be continued;
+  (26) airports must use the airport noise planning program to ensure that
+  capacity expansion minimizes noise to the surrounding community;
+  (27) the Nation's air traffic control system must be modernized with
+  the most advanced technology, and the necessary capital equipment must
+  be developed and procured, in order to continue the safe and efficient
+  operation of the national airspace system;
+  (28) there will need to be a continuing increase in the number of aviation
+  safety inspectors to handle the current and future workload of the air
+  carrier and commuter industry; and
+  (29) the United States airline industry lost more than $6 billion in 1990
+  and 1991, the number of air carriers serving the public has declined
+  substantially as a result of the industry's financial distress and the
+  absence of governmental policies to promote competition, and continued
+  financial losses could result in the further loss of air carrier competition
+  and service to the traveling public.
+TITLE I--AIRPORT AND AIRWAY IMPROVEMENT ACT AMENDMENTS
+SEC. 101. DECLARATION OF POLICY.
+  (a) NATIONAL TRANSPORTATION POLICY- Section 502 of the Airport and Airway
+  Improvement Act of 1982 (49 U.S.C. App. 2201) is amended by adding at the
+  end the following:
+  `(c) NATIONAL TRANSPORTATION POLICY-
+  `(1) It is a goal of the United States to develop a national intermodal
+  transportation system that moves people and goods in an efficient
+  manner. The Nation's future economic direction is dependent on its ability to
+  confront directly the enormous challenges of the global economy, declining
+  productivity growth, energy vulnerability, air pollution, and the need to
+  rebuild the Nation's infrastructure.
+  `(2) United States leadership in the world economy, the expanding wealth
+  of the Nation, the competitiveness of the Nation's industry, the standard
+  of living, and the quality of life are at stake.
+  `(3) A national intermodal transportation system is a coordinated, flexible
+  network of diverse but complementary forms of transportation which moves
+  people and goods in the most efficient manner. By reducing transportation
+  costs, these intermodal systems will enhance United States industry's
+  ability to compete in the global marketplace.
+  `(4) All forms of transportation, including aviation and other transportation
+  systems of the future, will be full partners in the effort to reduce energy
+  consumption and air pollution while promoting economic development.
+  `(5) An intermodal transportation system consists of transportation hubs
+  which connect different forms of appropriate transportation and provides
+  users with the most efficient means of transportation and with access
+  to commercial centers, business locations, population centers, and the
+  Nation's vast rural areas, as well as providing links to other forms of
+  transportation and to intercity connections.
+  `(6) Intermodality and flexibility are paramount issues in the process
+  of developing an integrated system that will obtain the optimum yield of
+  United States resources.
+  `(7) The United States transportation infrastructure must be reshaped to
+  provide the economic underpinnings for the Nation to compete in the 21st
+  century global economy. The United States can no longer rely on the sheer
+  size of its economy to dominate international economic rivals and must
+  recognize fully that its economy is no longer a separate entity but is
+  part of the global marketplace. The Nation's future economic prosperity
+  depends on its ability to compete in an international marketplace that
+  is teeming with competitors but where a full one-quarter of the Nation's
+  economic activity takes place.
+  `(8) The United States must make a national commitment to rebuild its
+  infrastructure through development of a national intermodal transportation
+  system. The United States must provide the foundation for its industries to
+  improve productivity and their ability to compete in the global economy with
+  a system that will move people and goods faster in an efficient manner.'.
+  (b) CAPACITY EXPANSION AND NOISE ABATEMENT- Such section is further amended
+  by adding at the end the following new subsection:
+  `(d) CAPACITY EXPANSION AND NOISE ABATEMENT- It is in the public interest
+  to recognize the effects of airport capacity expansion projects on aircraft
+  noise. Efforts to increase capacity through any means can have an impact
+  on surrounding communities. Noncompatible land uses around airports must
+  be reduced and efforts to mitigate noise must be given a high priority.'.
+SEC. 102. AIRPORT IMPROVEMENT PROGRAM.
+  (a) AUTHORIZATION OF APPROPRIATIONS- Section 505(a) of the Airport and
+  Airway Improvement Act of 1982 (49 U.S.C. App. 2204(a)) is amended--
+  (1) by striking `and' following `1991,'; and
+  (2) by inserting before the period at the end of the second sentence the
+  following: `, and $15,966,700,000 for fiscal years ending before October
+  1, 1993'.
+  (b) OBLIGATIONAL AUTHORITY- Section 505(b)(1) of such Act is amended by
+  striking `1992' and inserting `1993'.
+SEC. 103. AIRWAY IMPROVEMENT PROGRAM.
+  (a) AUTHORIZATION OF APPROPRIATIONS- Section 506(a)(1) of the Airport and
+  Airway Improvement Act of 1982 (49 U.S.C. App. 2205(a)(1)) is amended--
+  (1) by striking `and' following `1991' and inserting a comma; and
+  (2) by inserting before the period at the end of the first sentence the
+  following: `, $8,200,000,000 for fiscal years ending before October 1,
+  1993, $11,100,000,000 for fiscal years ending before October 1, 1994,
+  and $14,000,000,000 for fiscal years ending before October 1, 1995'.
+  (b) CAPITAL INVESTMENT PLAN AUGMENTATION- Section 506(a)(2) of such Act
+  is amended to read as follows:
+  `(2) CAPITAL INVESTMENT PLAN AUGMENTATION- If the Secretary determines that
+  it is  necessary to augment or substantially modify elements of the Airway
+  Capital Investment Plan submitted to Congress under section 504 of this
+  title (including a determination that it is necessary to establish more
+  than 23 area control facilities), there is authorized to be appropriated
+  from the Trust Fund for fiscal year 1994 to carry out such augmentation
+  or modification $100,000,000. Amounts appropriated under this paragraph
+  shall remain available until expended.'.
+  (c) OTHER EXPENSES-
+  (1) EXTENSION- Section 506(c)(4) of such Act is amended--
+  (A) in the paragraph heading by striking `-1992' and inserting `-1995'; and
+  (B) by striking `and 1992' and inserting `, 1992, 1993, 1994, and 1995'.
+  (2) CONFORMING AMENDMENT- Section 506(e)(5) of such Act is amended by
+  striking `1992' and inserting `1995'.
+  (d) WEATHER SERVICES- Section 506(d) of such Act is amended by striking the
+  second sentence and inserting the following new sentence: `Expenditures
+  for the purposes of carrying out this subsection shall be limited to
+  $35,596,000 for fiscal year 1993, $37,800,000 for fiscal year 1994, and
+  $39,000,000 for fiscal year 1995.'.
+  (e) RADAR SYSTEM FOR NORTHERN MAINE- Of amounts authorized under section
+  505(a)(1) of the Airport and Airway Improvement Act of 1982 for fiscal years
+  1993 and 1994, not less than $18,000,000 is authorized for site selection
+  and installation of 1 Federal Aviation Administration long-range air route
+  surveillance radar system for that portion of northern Maine currently
+  served by approach control at Loring Air Force Base.
+SEC. 104. FAA OPERATIONS.
+  Section 106(k) of title 49, United States Code, is amended--
+  (1) by striking `and' and inserting a comma; and
+  (2) by inserting before the period at the end the following: `,
+  $4,716,500,000 for fiscal year 1993, $5,100,000,000 for fiscal year 1994,
+  and $5,520,000,000 for fiscal year 1995'.
+SEC. 105. LINKAGE WITH PASSENGER FACILITY CHARGES PROGRAM.
+  Paragraph (4) of section 1113(e) of the Federal Aviation Act of 1958
+  (49 U.S.C. App. 1513(e)(4)) is amended by striking `under this subsection
+  on or before' and all that follows through the period at the end of such
+  paragraph and inserting the following:
+`under this subsection on or before September 30, 1993, if, during fiscal year
+1993, the amount available for obligation under section 419 of this Act is
+less than $38,600,000. This limitation on the authority to impose a fee shall
+not apply if the amount available in fiscal year 1993 for obligation under
+section 419 is less than $38,600,000 as a result of sequestration or other
+general appropriations reductions applied proportionately to appropriations
+accounts throughout an appropriations Act. The provisions of this paragraph
+shall not affect the authority of the Secretary to approve the imposition
+of a fee or the use of revenues derived from a fee imposed pursuant to an
+approval made under this subsection by a public agency which has received
+an approval to impose a fee under this subsection prior to September 30,
+1993, regardless of whether such fee is being imposed on September 30, 1993.'.
+SEC. 106. APPORTIONMENTS.
+  (a) INCREASE FOR CARGO HUBS- Section 507(a)(2) of the Airport and Airway
+  Improvement Act of 1982 (49 U.S.C. App. 2206(a)(2)) is amended--
+  (1) by striking `3 percent' and inserting `3.5 percent'; and
+  (2) by striking `(but not to exceed $50,000,000)'.
+  (b) LIMITS- Section 507(b)(1) of such Act is amended by striking
+  `$300,000 nor more than $16,000,000' and inserting `$400,000 nor more
+  than $22,000,000'.
+  (c) PRIMARY AND CARGO SERVICE AIRPORTS- Section 507(b)(3) of such Act is
+  amended by striking `49.5 percent' each place it appears and inserting
+  `44 percent'.
+  (d) RULES REGARDING CERTAIN ALASKA AIRPORTS- Section 507(b)(5) of such
+  Act is amended by adding at the end the following new subparagraph:
+  `(F) INCLUDED AIRPORTS- For purposes of this paragraph, the airports referred
+  to in subparagraph (A) include those public airports that received scheduled
+  service as of September 3, 1982, but were not apportioned funds in fiscal
+  year 1980 under section 15(a) of the Airport and Airway Development Act
+  of 1970 because the airports were not under the control of State or local
+  public agencies.'.
+SEC. 107. MILITARY AIRPORTS.
+  (a) SET-ASIDE- Section 508(d)(5) of the Airport and Airway Improvement Act
+  of 1982 (49 U.S.C. App. 2207(d)(5)) is amended by inserting after `1992' the
+  following: `, not less than 2.25 percent of the funds made available under
+  section 505 in fiscal year 1993, and not less than 2.5 percent of the funds
+  made available under section 505 in each of fiscal years 1994 and 1995'.
+  (b) DESIGNATION- Section 508(f)(1) of such Act is amended--
+  (1) by striking `not more than 8' and inserting `not more than 12'; and
+  (2) by striking the second sentence.
+  (c) CONSTRUCTION OF PARKING LOTS, FUEL FARMS, AND UTILITIES-
+  (1) FUNDING- Section 508(f) of such Act is amended by adding at the end
+  the following new paragraph:
+  `(6) FUNDING FOR CONSTRUCTION OF PARKING LOTS, FUEL FARMS, AND UTILITIES-
+  Not to exceed $4,000,000 per airport of the sums to be distributed at the
+  discretion of the Secretary under section 507(c) for fiscal years 1993,
+  1994, and 1995 may be used in the aggregate by the sponsor of a current or
+  former military airport designated by the Secretary under this subsection
+  for construction, improvement, or repair of airport surface parking lots,
+  fuel farms, and utilities.'.
+  (2) CONFORMING AMENDMENT- Section 513(c) of such Act is amended by inserting
+  after `this section' the following: `and section 508(f)(6) of this title'.
+  (d) MILITARY BASE CLOSURE REPORT- Within 30 days after the date on which
+  the Secretary of Defense recommends a list of military bases for closure
+  or realignment pursuant to section 2903(c) of the Defense Base Closure
+  and Realignment Act of 1990 (Public Law 101-510; U.S.C. 2687 note),
+  the Administrator of the Federal Aviation Administration shall submit to
+  Congress and the Defense Base Closure and Realignment Commission a report
+  on the effects of all those recommendations involving military airbases,
+  including but not limited to, the effect of the proposed closures or
+  realignments on civilian airports and airways in the local community
+  and region; potential modifications and costs necessary to convert such
+  bases to civilian aviation use; and in the case of air traffic control or
+  radar coverage currently provided by the Department of Defense, potential
+  installations or adjustments of equipment and costs necessary for the
+  Federal Aviation Administration to maintain existing levels of service
+  for the local community and region.
+SEC. 108. AIRPORT NOISE COMPATIBILITY PROGRAM.
+  Section 508(d)(2) of the Airport and Airway Improvement Act of 1982 (49
+  U.S.C. App. 2207(d)(2)) is amended by striking `10 percent' and inserting
+  `12.5 percent'.
+SEC. 109. MAXIMUM OBLIGATION OF THE UNITED STATES.
+  Section 512(b)(3) of the Airport and Airway Improvement Act of 1982 (49
+  U.S.C. App. 2211(b)(3)) is amended by striking the period at the end
+  and inserting the following: `; except that, for fiscal year 1993 and
+  thereafter, for grants for the acquisition of land or interests in land,
+  the maximum obligation of the United States may be increased for an airport
+  (other than a primary airport) either by not more than 15 percent or by
+  an amount not to exceed 25 percent of the total increase in allowable
+  project costs attributable to the acquisition of land or interests in
+  land, whichever is greater, based on current credible appraisals or a
+  court award in a condemnation proceeding.'.
+SEC. 110. TERMINAL DEVELOPMENT.
+  (a) ALLOWABLE PROJECT COSTS- Section 513(b)(1) of the Airport and Airway
+  Improvement Act of 1982 (49 U.S.C. App. 2212(b)(1)) is amended by adding
+  at the end the following new sentence: `In the case of a commercial service
+  airport which annually has .05 percent or less of the total enplanements in
+  the United States, the Secretary may approve, under the preceding sentence
+  as allowable project costs of a project for airport development at such
+  airport, terminal development in revenue-producing areas and construction,
+  reconstruction, repair, and improvement of nonrevenue-producing parking
+  lots if the sponsor certifies that no project for needed airport development
+  affecting safety, security, or capacity will be deferred by such approval.'.
+  (b) FEDERAL SHARE- Section 513(b)(5) of such Act is amended by inserting
+  before the period at the end the following: `; except that the United States
+  share of project costs allowable for any project under such paragraph at
+  a commercial service airport which annually has .05 percent or less of
+  the total enplanements in the United States shall be 85 percent'.
+  (c) RETROACTIVE APPLICABILITY- The amendment made by subsection (a) may
+  be applied to any terminal development which is underway in calendar year
+  1992 or later.
+SEC. 111. LETTERS OF INTENT.
+  Section 513(d)(1) of the Airport and Airway Improvement Act of 1982 (49
+  U.S.C. App. 2212(d)(1)) is amended by adding at the end the following
+  new subparagraph:
+  `(G) OTHER CONSIDERATIONS- A letter of intent issued under this paragraph
+  shall not condition the obligation of any funds on the imposition of a
+  passenger facility charge.'.
+SEC. 112. AIRPORT DEVELOPMENT DEFINED.
+  (a) AIRCRAFT DEICING EQUIPMENT- Section 503(a)(2)(B) of  the Airport and
+  Airway Improvement Act of 1982 (49 U.S.C. App. 2202(a)(2)(B)) is amended--
+  (1) by striking `or' at the end of clause (v);
+  (2) by inserting after clause (vi) the following:
+  `(vii) aircraft deicing equipment and structures (other than aircraft
+  deicing fluids and storage facilities for such equipment and fluids); or
+  `(viii) interactive training systems;'.
+  (b) CONTROL TOWER AND NAVIGATIONAL AIDS RELOCATION; MEETING MANDATES
+  OF CERTAIN FEDERAL LAWS; AIRCRAFT DEICING FACILITIES- Section 503(a)(2)
+  of such Act is further amended--
+  (1) by striking `and' at the end of subparagraph (C);
+  (2) by striking the period at the end of subparagraph (D) and inserting
+  a semicolon; and
+  (3) by adding at the end the following new subparagraphs:
+  `(E) the relocation, after December 31, 1991, of an air traffic control
+  tower and any navigational aid (including radar) if such relocation is
+  necessary to carry out a project approved by the Secretary under this title;
+  `(F) and if funded by a grant under this title,  any construction,
+  reconstruction, repair, or improvement of an airport (or any purchase
+  of capital equipment for an airport) which is necessary for compliance
+  with the responsibilities of the operator or owner of the airport under
+  the Americans with Disabilities Act of 1990, the Clean Air Act, and the
+  Federal Water Pollution Control Act with respect to the airport, other than
+  construction or purchase of capital equipment which would primarily benefit a
+  revenue producing area of the airport used by a nonaeronautical business; and
+  `(G) any acquisition of land for, or work necessary to construct, a pad
+  suitable for deicing aircraft prior to takeoff at a commercial service
+  airport, including construction or reconstruction of paved areas, drainage
+  collection structures, treatment and discharge systems, appropriate lighting,
+  and paved access for deicing vehicles and aircraft, but excluding acquisition
+  of aircraft deicing fluids and construction and reconstruction of storage
+  facilities for aircraft deicing equipment and fluids.'.
+  (c) REPORT- Not later than 6 months after the date of the enactment of
+  this Act, the Administrator of the Federal Aviation Administration shall
+  report to the Committee on Commerce, Science, and Transportation of the
+  Senate and the Committee on Public Works and Transportation of the House
+  of Representatives on the cost and the feasibility of maintaining and
+  operating navigational aids (including radar) for a transition period of
+  up to 2 years at airports converting in whole or in part from military
+  airports to civilian commercial or reliever airports.
+SEC. 113. PUBLIC ACCESS AND PARTICIPATION WITH RESPECT TO AIRPORTS.
+  (a) PUBLIC ACCESS TO AIRPORT BUDGET- Section 511(a)(11) of the Airport
+  and Airway Improvement Act of 1982 (49 U.S.C. App. 2210(a)(11)) is amended
+  by inserting `and a report of the airport budget will be available to the
+  public at reasonable times and places' before the semicolon at the end.
+  (b) PUBLIC PARTICIPATION WITH RESPECT TO AIRPORT PROJECTS- Section
+  509(b)(6)(A) of such Act (49 U.S.C. App. 2208(b)(6)(A)) is amended by
+  inserting `(i)' after `unless' and by striking the period at the end and
+  inserting the following: `, and (ii) the sponsor of the project certifies
+  to the Secretary that the airport management board either has voting
+  representation from the communities where the project is located or has
+  advised the communities that they have the right to petition the Secretary
+  concerning a proposed project.'.
+SEC. 114. NATIONAL AIRWAY SYSTEM.
+  (a) ELIMINATION OF REPORTING REQUIREMENT- Section 504(b) of the Airport
+  and Airway Improvement Act of 1982 (49 U.S.C. App. 2203(b)) is amended by
+  striking paragraph (2).
+  (b) CONFORMING AMENDMENTS- Such section is further amended--
+  (1) by striking `(1)';
+  (2) by striking `(A)', `(B)', and `(C)' and inserting `(1)', `(2)', and
+  `(3)', respectively; and
+  (3) by striking `(i)', `(ii)', and `(iii)' and inserting `(A)', `(B)',
+  and `(C)', respectively.
+SEC. 115. DEFINITION OF PASSENGERS ENPLANED.
+  Section 503(a)(10) of  the Airport and Airway Improvement Act of 1982
+  (49 U.S.C. App. 2202(a)(10)) is amended by inserting `or Alaska or Hawaii'
+  after `contiguous States'.
+SEC. 116. EXTENSION OF STATE BLOCK GRANT PILOT PROGRAM.
+  (a) EXTENSION- Section 534(a) of the Airport and Airway Improvement Act of
+  1982 (49 U.S.C. 2227(a)) is amended by striking `1992' and inserting `1996'.
+  (b) PARTICIPATING STATES- Section 534(b) of such Act is amended--
+  (1) by striking `3' and inserting `7'; and
+  (2) by adding at the end the following new sentence: `The 7 States to be
+  selected for participation in the program in fiscal years 1993, 1994, 1995,
+  and 1996 shall include the 3 States selected for the participation in the
+  program in fiscal year 1992 (Illinois, Missouri, and North Carolina).'.
+SEC. 117. DISADVANTAGED BUSINESS ENTERPRISE.
+  (a) ASSURANCE- Section 511(a)(17) of the Airport and Airway Improvement
+  Act of 1982 (49 U.S.C. App. 2210(a)(17)) is amended by inserting `or
+  which provide ground transportation, baggage carts, automobile rentals,
+  or other consumer services' after `or other consumer products'.
+  (b) ADMINISTRATION OF DBE ASSURANCE- Section 511 of such Act is further
+  amended by adding at the end the following new subsection:
+  `(h) ADMINISTRATION OF DBE ASSURANCE-
+  `(1) MANAGEMENT CONTRACTS- In administering subsection (a)(17) of this
+  section, an airport owner or operator is authorized to meet the overall
+  percentage goal established under such subsection by including businesses
+  operated through management contracts and subcontracts. The dollar amount
+  of a management contract and subcontract with a DBE firm shall be added
+  to the total of DBE participation in airport concessions and to the base
+  from which the airport's overall percentage goal is calculated. The dollar
+  amount of management contracts and subcontracts with non-DBE firms and
+  the gross revenues of business activities to which management contracts
+  and subcontracts pertain shall not be added to this base.
+  `(2) PURCHASE OF GOODS AND SERVICES- Except as provided in subsection
+  (h)(3), an airport owner or operator may meet the overall percentage goal
+  established under subsection (a)(17) of this section by including the
+  purchase from DBE's of goods or services used in businesses conducted
+  on the airport, provided that good faith efforts shall be made by the
+  airport owner or operator and the businesses conducted on the airport to
+  explore all available options to achieve, to the maximum extent practical,
+  compliance with such goal through direct ownership arrangements, including,
+  but not limited to, joint ventures and franchises.
+  `(3) PROVISION FOR CAR RENTAL FIRMS-
+  `(A) In complying with subsection (a)(17) of this section, an airport
+  owner or operator shall include the revenues of car rental firms on the
+  airport in the base from which the overall percentage goal set forth in
+  such subsection is calculated.
+  `(B) An airport owner or operator may require a car rental firm to meet any
+  requirement imposed under subsection (a)(17) of this section through the
+  purchase or lease of goods or services from DBE's. In the event an airport
+  owner or operator requires the purchase or lease of goods or services from
+  DBE's, a car rental firm shall be permitted to meet such requirement by
+  including purchases or leases of vehicles from any vendor that qualifies
+  as a small business concern (as defined by the Secretary by regulation)
+  owned and controlled by socially and economically disadvantaged individuals
+  (as defined under section 505(d)(2)(B)).
+  `(C) Nothing in this subsection or subsection (a)(17) of this section shall
+  require a car rental firm to change its corporate structure to provide
+  for direct ownership arrangements in order to meet the requirements of
+  such subsection or subsection (a)(17).
+  `(4) GENERAL PROVISIONS-
+  `(A) Nothing in this subsection or subsection (a)(17) shall preempt any
+  State or local law, regulation, or policy enacted by the governing body
+  of an airport owner or operator, or the authority of any State or local
+  government or airport owner or operator to adopt or enforce any law,
+  regulation, or policy relating to DBE's.
+  `(B) An airport owner or operator shall be permitted to afford opportunities
+  for small business concerns owned and controlled by socially and
+  economically disadvantaged individuals to participate through direct
+  contractual agreement with such concerns.
+  `(5) EXCLUSION OF AIR CARRIER SERVICES- Air carriers in providing passenger
+  or freight-carrying services and other businesses that conduct aeronautical
+  activities at an airport shall not be included in the overall percentage
+  goal set forth in subsection (a)(17) of this section for participation of
+  small business concerns at the airport.'.
+  (c) BASIC PROGRAM- Section 505(d)(2)(A) of such Act (49
+  U.S.C. App. 2204(d)(2)(A)) is amended by striking `$14,000,000' and inserting
+  `$16,015,000'.
+  (d) REGULATIONS- Not later than the 180th day following the date of
+  the enactment of this Act, the Secretary of Transportation shall issue
+  regulations to carry out sections 511(a)(17) and 511(h) of the Airport
+  and Airway Improvement Act of 1982, as amended by subsections (a) and (b)
+  of this section, relating to the disadvantaged business enterprise assurance.
+SEC. 118. EXTENSION OF CERTAIN RESTRICTIONS ON CONTRACT AND GRANT AWARDS.
+  (a) PROHIBITION AGAINST FRAUDULENT USE OF `MADE IN AMERICA' LABELS-
+  Section 9130 of the Aviation Safety and Capacity Expansion Act of 1990
+  (49 U.S.C. App. 2226b) is amended by inserting `, section 106(k) of title
+  49, United States Code, or the Airport and Airway Improvement Act of 1982
+  (other than section 506(b))' after `subtitle'.
+  (b) FOREIGN GOVERNMENTS DISCRIMINATING AGAINST U.S. PRODUCTS- Section 9131 of
+  such Act (49 U.S.C. App. 2226c) is amended by inserting `, section 106(k)
+  of title 49, United States Code, or the Airport and Airway Improvement
+  Act of 1982 (other than section 506(b))' after `subtitle'.
+SEC. 119. ACQUISITION OR CONSTRUCTION OF FACILITIES FOR ADVANCED TRAINING
+OF MAINTENANCE TECHNICIANS FOR AIR CARRIER AIRCRAFT.
+  (a) GRANTS- The Administrator of the Federal Aviation Administration may
+  make grants to not to exceed 4 vocational technical institutions for the
+  purpose of acquiring or constructing facilities to be used for the advanced
+  training of maintenance technicians for air carrier aircraft.
+  (b) ELIGIBILITY CRITERIA- The Administrator may only make a grant under
+  this section to a vocational technical educational institution if such
+  institution has a training curriculum which prepares aircraft maintenance
+  technicians who hold an airframe and power plant certificate issued under
+  subpart D of part 65 of title 14 of the Code of Federal Regulations to
+  maintain, without direct supervision, air carrier aircraft.
+  (c) LIMITATION ON AMOUNTS OF GRANTS- The maximum amount of Federal funds
+  which a vocational technical educational institution may receive, in the
+  aggregate, through grants made under this section shall be $5,000,000.
+  (d) AUTHORIZATION OF APPROPRIATIONS- There is authorized to be appropriated,
+  from the Airport and Airway Trust Fund, such sums as may be necessary for
+  carrying out this section for fiscal years 1993, 1994, and 1995. Such sums
+  shall remain available until expended.
+SEC. 120. AIR TRAFFIC CONTROLLER STAFFING.
+  The Administrator of the Federal Aviation Administration shall develop
+  and submit annually to the Committee on Public Works and Transportation
+  of the House of Representatives and the Committee on Commerce, Science,
+  and Transportation of the Senate a report containing the staffing standards
+  used to determine the number of air traffic controllers needed to operate
+  the air traffic control system of the United States, a 3-year projection
+  of the number of air traffic controllers needed to be employed to operate
+  such system to meet such standards, and a detailed plan for employing such
+  controllers, including projected budget requests.
+SEC. 121. AVIATION SAFETY INSPECTORS.
+  The Administrator of the Federal Aviation Administration shall develop and
+  submit by June 30, 1993, to the Committee on Public Works and Transportation
+  of the House of Representatives and the Committee on Commerce, Science,
+  and Transportation of the Senate--
+  (1) a report on the criteria used to determine the required number of
+  safety inspectors; and
+  (2) a 3-year projection of the number of inspectors needed, the training
+  plans for such inspectors, and the support staff required for the inspector
+  workforce.
+SEC. 122. LIMITATION ON PRIVATIZATION OF OPERATION OF CERTAIN AIRPORT
+CONTROL TOWERS.
+  The Administrator of the Federal Aviation Administration shall not enter
+  into any contract on or before September 30, 1994, with a private person
+  for operation of an airport control tower at any airport which in fiscal
+  year 1990 had 5,500 or more air carrier operations and 40,000 or more air
+  taxi operations unless the owner or operator of such airport first agrees,
+  in writing, to the Administrator entering into such contract.
+SEC. 123. EFFECTS OF AIRPORT NOISE.
+  (a) STUDY- The Administrator of the Federal Aviation Administration shall--
+  (1) analyze the social, economic, and health effects of airport noise on
+  populations within 65, 60, and 55 LDN noise areas to determine the actual
+  level at which noise creates an adverse impact on populations; and
+  (2) study the effect of single event noise on populations.
+  (b) REPORT- Not later than 1 year after the date of the enactment of
+  this Act and after providing notice and opportunity for public comment,
+  the Administrator shall transmit to the Committee on Commerce, Science,
+  and Transportation of the Senate and the Committee on Public Works and
+  Transportation of the House of Representatives a report on the results of
+  the analysis and study conducted under subsection (a).
+SEC. 124. AIRCRAFT OPERATIONS IN WINTER CONDITIONS.
+  (a) IN GENERAL- Before November 1, 1992, the Administrator of the Federal
+  Aviation Administration shall require, by regulation, procedures to improve
+  safety of aircraft operations during winter conditions.
+  (b) FACTORS TO BE CONSIDERED- In determining procedures to be required
+  under subsection (a), the Administrator shall consider, among other
+  things, aircraft and air traffic control modifications, the availability
+  of different types of deicing fluids (taking into account their efficacy
+  and environmental limitations), the types of deicing equipment available,
+  and the feasibility and desirability of establishing timeframes within
+  which deicing must occur under certain types of inclement weather.
+SEC. 125. VISUAL FLIGHT RULE ROUTES FOR COMPLEX TERMINAL AIRSPACE AREAS.
+  Section 307(b) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1348(b))
+  is amended by adding at the end the following: `In carrying out clause
+  (3), the Administrator shall update and arrange for publication of clearly
+  defined routes for navigating through a complex terminal airspace area, and
+  to and from an airport located within such an area, where the Administrator
+  determines that publication of such routes would promote safety in air
+  navigation. Such routes shall be for the optional use of pilots operating
+  under visual flight rules and shall be developed in consultation with
+  pilots and other users of affected airports.'.
+SEC. 126. STUDY ON REFLECTORIZATION OF TAXIWAY AND RUNWAY MARKINGS.
+  (a) STUDY- The Secretary of Transportation shall conduct a study to determine
+  whether the safety benefits derived from the reflectorization of runways and
+  taxiways of all military airfields under Federal Specification TT-B-1325B
+  should be extended to runways and taxiways of public use airports.
+  (b) REPORT- Not later than June 30, 1993, the Secretary shall transmit
+  to Congress a report on the results of the study conducted under this
+  section, together with recommendations concerning requirements for upgraded
+  reflectorization of runways and taxiways at public use airports.
+SEC. 127. OPTIONS TO PURCHASE LAND.
+  (a) STUDY- The Secretary of Transportation shall conduct a study on the
+  purchase of options to purchase land for airport development.
+  (b) CONTENT- In conducting the study under subsection (a), the Secretary
+  shall examine the following:
+  (1) ELIGIBILITY FOR FUNDING- Whether or not the purchase of options to
+  purchase land for airport development should be eligible for funding under
+  the Airport Improvement Program.
+  (2) CONDITIONS- If the purchase of such options become eligible for funding
+  under the Airport Improvement Program--
+  (A) whether or not certain limitations should be imposed on such purchases;
+  (B) whether or not priority should be afforded to the funding of such
+  purchases in relation to other airport development projects; and
+  (C) whether or not certain environmental requirements should be imposed
+  on such purchases.
+  (c) REPORT- Not later than December 31, 1993, the Secretary shall transmit
+  to Congress a report on the results of the study conducted under subsection
+  (a), together with any appropriate recommendations for legislative and
+  administrative action.
+SEC. 128. LIGHTING SYSTEMS FOR AIRCRAFT OBSTRUCTIONS AND AIRPORT RUNWAYS.
+  (a) STUDY- The Secretary of Transportation shall conduct a study to assess
+  the current Federal program for monitoring the installation and operation
+  of lighting systems for aircraft obstructions and airport runways.
+  (b) REPORT- Not later than 180 days after the date of the enactment of
+  this Act, the Secretary shall transmit to the Committee on Public Works and
+  Transportation of the House of Representatives and the Committee on Commerce,
+  Science, and Transportation of the Senate a report containing the results
+  of the study conducted under this section, together with recommendations
+  on methods to ensure that the best available technologies are utilized in
+  lighting systems described in subsection (a).
+SEC. 129. ECONOMIC BENEFITS OF AIRPORT DEVELOPMENT PROJECTS.
+  (a) STUDY- The Secretary of Transportation shall conduct a study to assess
+  the economic benefits of carrying out airport development projects in areas
+  designated as `redevelopment areas' under section 401 of the Public Works
+  and Economic Development Act of 1965.
+  (b) REPORT- Not later than 1 year after the date of the enactment of
+  this Act, the Secretary shall transmit to Congress a report containing
+  the results of the study conducted under subsection (a), together with
+  recommendations on whether or not airport development projects in areas
+  described in subsection (a) should receive priority consideration in the
+  distribution of grants under the Airport Improvement Program.
+SEC. 130. SOUNDPROOFING OF CERTAIN RESIDENTIAL BUILDINGS IN AREAS SURROUNDING
+AIRPORTS.
+  During the 2-year period beginning on the date of the enactment of this Act,
+  the Secretary may make grants under section 104(c)(2) of the Aviation Safety
+  and Noise Abatement Act of 1979 for projects to soundproof residential
+  buildings--
+  (1) if the operator of the airport involved received approval for a grant
+  for a project to soundproof residential buildings pursuant to section
+  301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act
+  of 1987;
+  (2) if the operator of the airport involved submits updated noise exposure
+  contours, as required by the Secretary; and
+  (3) if the Secretary determines that the proposed projects are compatible
+  with the purposes of the Aviation Safety and Noise Abatement Act of 1979.
+SEC. 131. LAREDO INTERNATIONAL AIRPORT, LAREDO, TEXAS.
+  Section 313(c)(2)(C) of the Airport and Airway Safety and Capacity Expansion
+  Act of 1987 (101 Stat. 1531) is amended by striking `20 years' and inserting
+  `40 years'.
+SEC. 132. STUDY OF SMALL AIRPORT RUNWAY MAINTENANCE.
+  (a) STUDY- The Secretary of Transportation shall conduct a study to assess
+  the ability of airports which annually enplane .05 percent or less of total
+  enplanements in the United States to finance the maintenance of runways,
+  aprons, and taxiways constructed under the Airport Improvement Program,
+  whether or not it would be desirable to make maintenance of runways, aprons,
+  and taxiways eligible projects for grants under the Airport Improvement
+  Program, and whether or not the result of making such maintenance eligible
+  projects would be to reduce the long-term costs of airport development.
+  (b) REPORT- Not later than 1 year after the date of the enactment of this
+  Act, the Secretary shall transmit to Congress a report containing the results
+  of the study conducted under subsection (a), together with recommendations.
+SEC. 133. TUCSON STUDY.
+  (a) STUDY- The Administrator of the Federal Aviation Administration shall
+  conduct a study of the current and projected need for air traffic control
+  and related services in the airspace in the vicinity of Tucson, Arizona. In
+  particular the study shall focus upon--
+  (1) the facilities and personnel necessary to assist general aviation
+  pilots in the vicinity of Tucson and the United States-Mexico border area
+  with services such as weather and traffic advisories;
+  (2) flight plan filings; and
+  (3) notification of law enforcement agencies that monitor international
+  air traffic between Arizona and Mexico.
+  (b) REPORT- Not later than May 1, 1993, the Administrator of the Federal
+  Aviation Administration shall submit to the Committee on Commerce, Science,
+  and Transportation of the Senate and the Committee on Public Works and
+  Transportation of the House of Representatives a report on the results of
+  the study conducted under subsection (a). The report shall include the
+  Administrator's evaluation of the ability of the consolidation plans of
+  the Federal Aviation Administration to assure no reduction or delay in
+  the delivery of air traffic control and related services to pilots in the
+  vicinity of Tucson.
+  (c) STATUS- The Administrator of the Federal Aviation Administration shall
+  not change the status (including reductions in staff, changes in operating
+  hours, changes in jurisdiction, and disconnection of telephone lines)
+  of the Tucson flight service station before the 60th day following the
+  date on which the report required by subsection (b) is submitted.
+SEC. 134. AIR TRAFFIC OVER GRAND CANYON.
+  (a) STUDY- The Administrator of the Federal Aviation Administration, in
+  consultation with the Director of the National Park Service, the State
+  of Arizona, the State of Nevada, the Clark County Department of Aviation,
+  affected Indian tribes, and the general public, shall conduct a study on
+  increased air traffic over Grand Canyon National Park.
+  (b) REPORT- The Administrator of the Federal Aviation Administration shall
+  submit to Congress a report on the results of the study conducted under
+  subsection (a). The report shall include the following:
+  (1) A report on the increase in air traffic over Grand Canyon National
+  Park since 1987.
+  (2) A forecast of the increase in air traffic over Grand Canyon National
+  Park through 2010.
+  (3) A report on the carrying capacity of the airspace over Grand Canyon
+  National Park to ensure aviation safety and to meet the requirements
+  established by section 3 of the Act of August 18, 1987 (Public Law 100-91;
+  101 Stat. 676), including the substantial restoration of natural quiet at
+  the Park.
+  (4) A plan of action to manage increased air traffic over Grand Canyon
+  National Park to ensure aviation safety and to meet the requirements
+  established by such section 3 of the Act of August 18, 1987, including any
+  measures to encourage or require the use of quiet aircraft technology by
+  commercial air tour operators.
+SEC. 135. CIVIL TILTROTOR DEVELOPMENT ADVISORY COMMITTEE.
+  (a) ESTABLISHMENT- The Secretary of Transportation shall establish in the
+  Department of Transportation a Civil Tiltrotor Development Advisory Committee
+  (hereinafter in this section referred to as the `Advisory Committee') to
+  evaluate the technical feasibility and economic viability of developing
+  civil tiltrotor aircraft and a national system of infrastructure to support
+  the incorporation of tiltrotor aircraft technology into the national
+  transportation system.
+  (b) MEMBERSHIP-
+  (1) APPOINTMENT- The Advisory Committee shall be composed of members
+  appointed by the Secretary of Transportation, not later than 60 days after
+  the date of the enactment of this Act, as follows:
+  (A) At least 1 representative of the Department of Transportation.
+  (B) At least 1 representative of the Federal Aviation Administration.
+  (C) At least 1 representative of the National Aeronautics and Space
+  Administration.
+  (D) Representatives of other Federal departments and agencies, State and
+  local governments, and private industry, as considered appropriate and
+  necessary by the Secretary.
+  (2) QUALIFICATION- Members appointed pursuant to subparagraphs (A), (B),
+  and (C) of paragraph (1) shall be appointed from among individuals employed
+  under the Federal departments and agencies described in such subparagraphs
+  who receive an annual rate of basic pay which equals or exceeds the rate
+  payable for level VI of the Senior Executive Service.
+  (3) CHAIRPERSON- The Secretary of Transportation shall appoint a Chairperson
+  of the Advisory Committee from among individuals employed under the
+  Department of Transportation who receive an annual rate of basic pay which
+  equals or exceeds the rate payable for level IV of the Executive Schedule.
+  (c) DUTIES- The Advisory Committee shall--
+  (1) determine the costs, feasibility, and economic viability of developing
+  a civil tiltrotor aircraft and establishing the necessary infrastructure to
+  incorporate such aircraft and other advanced vertical takeoff and landing
+  aircraft into the national transportation system;
+  (2) determine the benefits to the national economy and transportation system,
+  including the potential for improved linkages and connections with other
+  modes of transportation, of incorporating civil tiltrotor aircraft and
+  other advanced vertical takeoff and landing aircraft into the national
+  transportation system;
+  (3) determine further aeronautical research and development requirements
+  needed to incorporate civil tiltrotor aircraft and other advanced vertical
+  takeoff and landing aircraft into the national transportation system;
+  (4) determine changes to regulatory standards governing use of the
+  airspace which would be required to incorporate civil tiltrotor aircraft
+  and other advanced vertical takeoff and landing aircraft into the national
+  transportation system; and
+  (5) recommend which of the costs of developing civil tiltrotor aircraft
+  and establishing the infrastructure necessary to support civil tiltrotor
+  aircraft and other advanced vertical takeoff and landing aircraft should
+  be paid by the Federal Government and which of such costs should be paid
+  by private industry.
+  (d) REPORT- Not later than the 365th day following the date of the first
+  meeting of the Advisory Committee, the Advisory Committee shall transmit
+  to Congress a report containing its determinations and recommendations
+  under subsection (c).
+  (e) TERMINATION- The Advisory Committee shall terminate on the 30th day
+  following the date of submission of its report under subsection (d).
+SEC. 136. TECHNICAL AMENDMENTS.
+  (a) EXEMPTION RELATED TO CERTAIN AGREEMENTS- Section 9304(a)(2)(D) of
+  the Airport Noise and Capacity Act of 1990 (49 U.S.C. App. 2153(a)(2)(D))
+  is amended by striking all after `changes' and inserting the following:
+  `, unless an agreement relating to noise reductions at such airport is
+  entered into between the airport proprietor and an airline or airlines
+  constituting a majority of the airline use of such airport, in which case
+  the exception to subsections (b) and (d) provided by this sentence shall
+  apply only to local actions to enforce such agreement.'.
+  (b) AIRCRAFT CONTRACTS- Section 9309 of the Airport Noise and Capacity
+  Act of 1990 (49 U.S.C. App. 2158) is amended--
+  (1) in subsection (a)(2) by striking `written contract executed' and
+  inserting `legally binding contract entered into'; and
+  (2) in subsection (c)(2) by striking `air'.
+TITLE II--FEDERAL AVIATION ACT AMENDMENTS
+SEC. 201. PROCUREMENT REFORM.
+  (a) IN GENERAL- Section 303 of the Federal Aviation Act of 1958 (49
+  U.S.C. App. 1344) is amended by adding at the end the following new
+  subsections:
+  `(g) LIMITED SOURCES OF PROCUREMENT- The Administrator shall have the
+  same authority as the Administrator would have under section 2304(c)(1)
+  of title 10, United States Code, if the Federal Aviation Administration
+  were an agency listed under section 2303(a) of title 10, United States Code.
+  `(h) CONTRACT TOWER PROGRAM- The Administrator may enter into a contract,
+  on a sole source basis, with a State or political subdivision thereof for
+  the purpose of permitting such State or political subdivision to operate
+  an airport traffic control tower classified as a level I visual flight
+  rules tower by the Administrator if the Administrator determines that
+  the State or political subdivision has the capability to comply with the
+  requirements of this subsection. Any such contract shall require that the
+  State or political subdivision comply with all applicable safety regulations
+  in its operation of the facility and with applicable competition requirements
+  in the subcontracting of any work to be performed under the contract.'.
+  (b) CONFORMING AMENDMENT- The portion of the table of contents contained
+  in the first section of such Act relating to section 303 is amended by
+  adding at the end the following:
+`(g) Limited sources of procurement.
+`(h) Contract tower program.'.
+SEC. 202. AVIATION SECURITY TRAINING.
+  Section 316(c) of the Federal Aviation Act of 1958 (49 U.S.C. 1357(c))
+  is amended by inserting `(1)' after `(c)' and by adding at the end the
+  following new paragraph:
+  `(2) REIMBURSEMENT FOR CERTAIN EXPENSES- At the discretion of the
+  Administrator, reimbursement may be made for travel, transportation, and
+  subsistence expenses for the security training of non-Federal domestic and
+  foreign security personnel whose services will contribute significantly
+  to carrying out civil aviation security programs under this section. To
+  the extent practicable, air travel reimbursed under this paragraph shall
+  be conducted on United States air carriers.'.
+SEC. 203. HAZARDS TO SAFE AND EFFICIENT AIR COMMERCE.
+  (a) NOTICE OF CONSTRUCTION- Section 1101(a) of the Federal Aviation Act
+  of 1958 (49 U.S.C. App. 1501(a)) is amended--
+  (1) by inserting after `of the construction or alteration,' the following:
+  `or the establishment or expansion,';
+  (2) by inserting after `or of the proposed construction or alteration,'
+  the following: `or of the proposed establishment or expansion,'; and
+  (3) by inserting `or sanitary landfill' after `structure'.
+  (b) LANDFILL HAZARD STUDY AND REPORT-
+  (1) REQUIREMENTS- The Secretary of Transportation, in consultation with
+  the Administrator of the Environmental Protection Agency, shall conduct a
+  study to determine whether a municipal solid waste facility located within a
+  5-mile radius of the end of a runway may have the potential for attracting
+  or sustaining bird movements (from feeding, watering, or roosting in the
+  area) that may pose a hazard across the runways or approach and departure
+  patterns of aircraft.
+  (2) REPORT- Not later than December 31, 1993, the Secretary of Transportation
+  shall transmit to Congress, after first having provided an opportunity
+  for public comment, a report on the results of the study conducted under
+  paragraph (1), together with an assessment of the threat posed to aviation
+  safety by the location of solid waste facilities near airport runways. The
+  report shall include recommendations concerning the construction of new
+  solid waste facilities and the expansion of existing facilities within a
+  5-mile radius of an airport runway.
+SEC. 204. NATIONAL COMMISSION TO PROMOTE A STRONG AND COMPETITIVE AIRLINE
+INDUSTRY.
+  (a) FINDINGS- Congress finds the following:
+  (1) The Nation's airlines must be part of an intermodal transportation
+  system that will move people and goods in the fastest, most efficient manner.
+  (2) The Nation's airlines provide our connections with the global economy. A
+  strong airline industry is essential to our Nation's ability to compete
+  in the international marketplace.
+  (3) The Nation's airlines are in a state of financial distress, having
+  lost more than $6,000,000,000 in 1990 and 1991. These losses threaten
+  the ability of our airlines to accommodate the growing aviation traffic
+  demands of the 1990's which threaten to undermine our Nation's ability to
+  compete in the global economy.
+  (4) Because of the airline industry's financial distress and the absence of
+  government policies to promote competition, there has been a precipitous
+  decline in the number of major airlines. Of the 22 airlines which entered
+  the industry following airline deregulation, only 2 are now operating. The
+  rest have either gone out of business or merged with other carriers.
+  (5) Concentration in the airline industry has advanced rapidly in
+  the past few years. The top 4 major airlines now control 67 percent of
+  aviation traffic and the top 7 airlines now control 91 percent of aviation
+  traffic. Three major airlines, carrying 19 percent of aviation traffic,
+  are in chapter 11 bankruptcy and their survival is in doubt.
+  (6) The continued success of a deregulated airline system requires the
+  spur of effective actual and potential competition to force airlines to
+  provide high quality service at the lowest possible fares.
+  (7) Further reductions in the number of major airlines may leave the
+  industry without sufficient competition to ensure a continuation of the
+  benefits consumers have received under airline deregulation.
+  (b) ESTABLISHMENT- There is established a commission to be known as the
+  `National Commission to Ensure a Strong Competitive Airline Industry'
+  (hereinafter in this section referred to as the `Commission').
+  (c) FUNCTIONS-
+  (1) INVESTIGATION AND STUDY- The Commission shall make a complete
+  investigation and study of the financial condition of the airline industry,
+  the adequacy of competition in the airline industry, and legal impediments
+  to a financially strong and competitive airline industry.
+  (2) POLICY RECOMMENDATIONS- Based on the results of the investigation and
+  study to be conducted under paragraph (1), the Commission shall recommend
+  to the President and Congress those policies which need to be adopted to--
+  (A) achieve the national goal of a strong and competitive airline system
+  which will facilitate the ability of the Nation to compete in the global
+  economy;
+  (B) provide adequate levels of competition and service at reasonable fares
+  in cities of all sizes;
+  (C) retard the flow of United States air carrier bankruptcies and
+  accompanying loss of jobs for United States citizens;
+  (D) provide a stable work environment for airline industry employees; and
+  (E) continue to reduce noise for citizens around airports without damaging
+  the economic or competitive positions of the air carriers.
+  (3) CONSIDERATION OF AIRCRAFT NOISE ABATEMENT- In carrying out the study
+  and investigation under paragraph (1), the Commission shall take into
+  account aircraft noise abatement, a priority established by Congress by
+  enactment of the Airport Noise and Capacity Act of 1990.
+  (d) SPECIFIC MATTERS TO BE ADDRESSED- The Commission shall specifically
+  investigate and study under subsection (c)(1) the following:
+  (1) FINANCIAL CONDITION OF AIRLINE INDUSTRY- The current financial condition
+  of the airline industry and how the industry's financial condition is
+  likely to change over the next 5 years, including--
+  (A) the profits or losses likely to be achieved by the airline industry
+  over the next 5 years;
+  (B) whether or not any profits realized will be adequate to permit airlines
+  to acquire the capital equipment necessary to meet the demand of the
+  traveling public in a safe and efficient manner, while complying with
+  environmental regulations; and
+  (C) whether or not any major airlines are likely to fail or sell major
+  assets in order to survive.
+  (2) ADEQUACY OF COMPETITION- The current state of competition in the
+  airline industry, how the structure of airline industry competition is
+  likely to change over the next 5 years, and whether or not the expected
+  level of competition will be sufficient to continue the consumer benefits
+  of airline deregulation.
+  (3) LEGAL IMPEDIMENTS TO A FINANCIALLY STRONG AND COMPETITIVE AIRLINE
+  INDUSTRY- Whether or not the Federal Government should take any legislative
+  or administrative actions to improve the financial conditions of the airline
+  industry or to enhance airline competition, including whether or not any
+  changes are needed in the legal and administrative policies which govern--
+  (A) the initial award and the transfer of international airline routes;
+  (B) the allocation of slots at high density airports;
+  (C) the allocation of gates, particularly at airports dominated by 1 or
+  a limited number of airlines;
+  (D) frequent flier programs;
+  (E) airline computer reservations systems;
+  (F) the rights of foreign investors to invest in United States airlines;
+  (G) the taxes and user fees imposed on United States airlines;
+  (H) the regulatory responsibilities imposed on United States airlines;
+  (I) the bankruptcy laws of the United States and related fitness rules
+  administered by the Department of Transportation as they apply to airlines;
+  and
+  (J) the obligations of failing airlines to meet pension obligations.
+  (4) INTERNATIONAL AVIATION POLICY- Whether or not the policies and strategies
+  followed by the United States in international aviation are promoting the
+  ability of United States airlines to achieve long-term competitive success
+  in international markets, including--
+  (A) the Government's general negotiating policy;
+  (B) the desirability of multilateral rather than bilateral negotiations;
+  (C) whether or not foreign countries have developed the necessary
+  infrastructure of airports and airways to enable United States airlines to
+  provide the service needed to meet the demand for aviation service between
+  the United States and such countries;
+  (D) the rights granted foreign airlines to provide service in United States
+  domestic markets (`cabotage'); and
+  (E) the rights granted foreign investors to invest in United States airlines.
+  (5) ASSESSMENT OF AIRCRAFT MANUFACTURING INDUSTRY- The state of the United
+  States aircraft manufacturing industry and make recommendations to the
+  President and Congress concerning policies that will help foster a healthy,
+  competitive United States aircraft manufacturing industry.
+  (6) STUDY OF INCENTIVES FOR EXPEDITED FLEET CONVERSION- The possibility of
+  long-term loan guarantees and tax incentives for air carriers to expedite
+  the conversion of the commercial airline fleet from Stage 2 to Stage 3
+  aircraft in advance of the deadlines established by the Airport Noise and
+  Capacity Act of 1990.
+  (e) MEMBERSHIP-
+  (1) APPOINTMENT- The Commission shall be composed of 7 members as follows:
+  (A) 1 member appointed by the President.
+  (B) 3 members appointed by the Speaker of the House of Representatives.
+  (C) 3 members appointed by the majority leader of the Senate.
+  (2) QUALIFICATIONS-
+  (A) IN GENERAL- Members appointed pursuant to paragraph (1) shall be
+  appointed from among individuals who are experts in transportation policy
+  (including representatives of Federal, State, and local governments and
+  other public authorities owning or operating airports) and organizations
+  representing airlines, passengers, shippers, airline employees, aircraft
+  manufacturers, general aviation, and the financial community.
+  (B) SECTORS REPRESENTED- Members appointed pursuant to paragraph (1)
+  shall be appointed in a manner such that the interests of both large hub
+  airports and small airports with commercial air service will be taken into
+  consideration. One member of the Commission shall be a citizen representing
+  a consensus among citizen noise groups or noise affected municipalities.
+  (3) TERMS- Members shall be appointed for the life of the Commission.
+  (4) VACANCIES- A vacancy in the Commission shall be filled in the manner
+  in which the original appointment was made.
+  (5) TRAVEL EXPENSES- Members shall serve without pay but shall receive
+  travel expenses, including per diem in lieu of subsistence, in accordance
+  with sections 5702 and 5703 of title 5, United States Code.
+  (6) CHAIRMAN- The Chairman of the Commission shall be elected by the members.
+  (f) STAFF- The Commission may appoint and fix the pay of such personnel
+  as it considers appropriate.
+  (g) STAFF OF FEDERAL AGENCIES- Upon request of the Commission, the head of
+  any department or agency of the United States may detail, on a reimbursable
+  basis, any of the personnel of that department or agency to the Commission
+  to assist it in carrying out its duties under this section.
+  (h) ADMINISTRATIVE SUPPORT SERVICES- Upon the request of the Commission,
+  the Administrator of General Services shall provide to the Commission,
+  on a reimbursable basis, the administrative support services necessary
+  for the Commission to carry out its responsibilities under this section.
+  (i) OBTAINING OFFICIAL DATA- The Commission may secure directly from any
+  department or agency of the United States information (other than information
+  required by any statute of the United States to be kept confidential by
+  such department or agency) necessary for the Commission to carry out its
+  duties under this section. Upon request of the Commission, the head of
+  that department or agency shall furnish such nonconfidential information
+  to the Commission.
+  (j) REPORT- Not later than 6 months after the date on which initial
+  appointments of members to the Commission are completed, the Commission
+  shall transmit to the President and Congress a report on the activities
+  of the Commission, including recommendations made by the Commission under
+  subsection (c)(2).
+  (k) TERMINATION- The Commission shall terminate on the 180th day following
+  the date of transmittal of the report under subsection (j). All records and
+  papers of the Commission shall thereupon be delivered by the Administrator
+  of General Services for deposit in the National Archives.
+SEC. 205. STRENGTHENING OF COMPETITION.
+  Section 102 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1302)
+  is amended by adding at the end the following new subsection:
+  `(c) STRENGTHENING OF COMPETITION- In selecting an air carrier to provide
+  foreign air transportation from among competing applicants to provide such
+  transportation, the Secretary shall consider the strengthening of competition
+  among air carriers operating in the United States in order to prevent undue
+  concentration in the air carrier industry, in addition to considering the
+  factors specified in subsections (a) and (b) of this section.'.
+SEC. 206. SLOT RULE EFFECTIVE DATE.
+  The final rule of the Federal Aviation Administration which requires an
+  increased level of minimum use for high density traffic airport slots
+  (57 Federal Register 37308) shall take effect January 1, 1993.
+SEC. 207. EMERGENCY VISION EQUIPMENT.
+  The Administrator of the Federal Aviation Administration shall evaluate and
+  report to the Committee on Public Works and Transportation of the House of
+  Representatives and the Committee on Commerce, Science, and Transportation of
+  the Senate, no later than 9 months after the date of the enactment of this
+  Act, on effects of quantities of smoke in the cockpit of an aircraft which
+  could affect the pilot's vision. In such report, the Administrator shall
+  also explore the efficiency of any existing technologies to evacuate smoke
+  from the cockpit, shall evaluate the need for any change in requirements
+  or operating rules, and shall estimate the cost of installation of such
+  technologies for the commercial airline fleet.
+SEC. 208. TECHNICAL AMENDMENT TO CIVIL PENALTIES.
+  Section 901(a)(3)(A) of the Federal Aviation Act of 1958 (49
+  U.S.C. App. 1471(a)(3)(A)) is amended by inserting `901(c), 901(d),' after
+  `section'.
+TITLE III--RESEARCH, ENGINEERING, AND DEVELOPMENT
+SEC. 301. SHORT TITLE.
+  This title may be cited as the `Federal Aviation Administration Research,
+  Engineering, and Development Authorization Act of 1992'.
+SEC. 302. AVIATION RESEARCH AUTHORIZATION OF APPROPRIATIONS.
+  Section 506(b)(2) of the Airport and Airway Improvement Act of 1982 (49
+  U.S.C. App. 2205(b)(2)) is amended by striking subparagraph (A) and all
+  that follows and inserting in lieu thereof the following:
+  `(A) for fiscal year 1993--
+  `(i) $14,700,000 solely for management and analysis projects and activities;
+  `(ii) $87,000,000 solely for capacity and air traffic management technology
+  projects and activities;
+  `(iii) $28,000,000 solely for communications, navigation, and surveillance
+  projects and activities;
+  `(iv) $7,700,000 solely for weather projects and activities;
+  `(v) $6,800,000 solely for airport technology projects and activities;
+  `(vi) $44,000,000 solely for aircraft safety technology projects and
+  activities;
+  `(vii) $41,100,000 solely for system security technology projects and
+  activities;
+  `(viii) $31,000,000 solely for human factors and aviation medicine projects
+  and activities;
+  `(ix) $4,500,000 for environment and energy projects and activities; and
+  `(x) $5,200,000 for innovative/cooperative research projects and activities;
+  and
+  `(B) for fiscal year 1994, $297,000,000.
+Not less than 15 percent of the amount appropriated pursuant to this
+paragraph shall be for long-term research projects, and not less than 3
+percent of the amount appropriated under this paragraph shall be available
+to the Administrator for making grants under section 312(g) of the Federal
+Aviation Act of 1958.'.
+SEC. 303. DEICING STUDY.
+  Not later than 6 months after the date of the enactment of this Act, the
+  Secretary of Transportation shall report to Congress on the feasibility of
+  requiring commercial airports and commercial airlines to employ portable
+  equipment to deice commercial aircraft immediately prior to takeoff
+  by placing deicing equipment close to the departure end of the active
+  runway. In addition, the Secretary shall undertake research to develop new
+  techniques and to develop more efficient fluids and technologies for deicing.
+SEC. 304. AIRCRAFT NOISE RESEARCH PROGRAM.
+  (a) ESTABLISHMENT- The Administrator of the Federal Aviation Administration
+  and the Administrator of the National Aeronautics and Space Administration
+  shall jointly conduct a research program to develop new technologies for
+  quieter subsonic jet aircraft engines and airframes.
+  (b) GOAL- The goal of the research program established by subsection
+  (a) is to develop by the year 2000 technologies for subsonic jet aircraft
+  engines and airframes which would permit a subsonic jet aircraft to operate
+  at reduced noise levels.
+  (c) PARTICIPATION- In carrying out the program established by subsection
+  (a), the Administrator of the Federal Aviation Administration and the
+  Administrator of the National Aeronautics and Space Administration shall
+  encourage the participation of representatives of the aviation industry
+  and academia.
+  (d) REPORT TO CONGRESS- The Administrator of the Federal Aviation
+  Administration and the Administrator of the National Aeronautics and Space
+  Administration shall jointly submit to Congress, on an annual basis during
+  the term of the program established by subsection (a), a report on the
+  progress being made under the program toward meeting the goal described
+  in subsection (b).
+SEC. 305. USE OF DOMESTIC PRODUCTS.
+  (a) PROHIBITION AGAINST FRAUDULENT USE OF `MADE IN AMERICA' LABELS- (1) A
+  person shall not intentionally affix a label bearing the inscription of `Made
+  in America', or any inscription with that meaning, to any product sold in
+  or shipped to the United States, if that product is not a domestic product.
+  (2) A person who violates paragraph (1) shall not be eligible for any
+  contract for a procurement carried out with amounts authorized under
+  this title, including any subcontract under such a contract pursuant to
+  the debarment, suspension, and ineligibility procedures in subpart 9.4
+  of chapter 1 of title 48, Code of Federal Regulations, or any successor
+  procedures thereto.
+  (b) COMPLIANCE WITH BUY AMERICAN ACT- (1) Except as provided in paragraph
+  (2), the head of each agency which conducts procurements shall ensure that
+  such procurements are conducted in compliance with sections 2 through 4 of
+  the Act of March 3, 1933 (41 U.S.C. 10a through 10c, popularly known as the
+  `Buy American Act').
+  (2) This subsection shall apply only to procurements made for which--
+  (A) amounts are authorized by this title to be made available; and
+  (B) solicitations for bids are issued after the date of enactment of
+  this Act.
+  (3) The Secretary of Transportation, before January 1, 1994, shall report
+  to the Congress on procurements covered under this subsection of products
+  that are not domestic products.
+  (c) DEFINITIONS- For the purposes of this section, the term `domestic
+  product' means a product--
+  (1) that is manufactured or produced in the United States; and
+  (2) at least 50 percent of the cost of the articles, materials, or supplies
+  of which are mined, produced, or manufactured in the United States.
+TITLE IV--AVIATION INSURANCE
+SEC. 401. INSURANCE FOR DEPARTMENTS AND AGENCIES OF THE UNITED STATES.
+  (a) IN GENERAL- Section 1304(a) of the Federal Aviation Act of 1958 (49
+  U.S.C. App. 1534(a)) is amended--
+  (1) by inserting after `under this title' the following: `, including
+  insurance to cover any risk from the operation of an aircraft while such
+  aircraft is engaged in intrastate, interstate, or overseas air commerce'; and
+  (2) by adding at the end the following new sentence: `In addition, such
+  department or agency may, with the approval of the President, procure such
+  insurance to cover any risk arising from the provision of goods or services
+  directly related to and necessary for an operation of an aircraft covered
+  by insurance procured under the preceding sentence if such operation is
+  in the performance of a contract of such department or agency or is for
+  the purpose of transporting military forces or materiel on behalf of the
+  United States pursuant to an agreement between the United States and a
+  foreign government.'.
+  (b) CONFORMING AMENDMENT- Section 1302(a)(3) of such Act (49
+  U.S.C. App. 1532(a)(3)) is amended by striking `Insurance' and inserting
+  `Subject to section 1304(a), insurance'.
+SEC. 402. EXTENSION OF PROGRAM.
+  Section 1312 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1542)
+  is amended by striking `1992' and inserting `1997'.
+SEC. 403. ADMINISTRATION OF AVIATION INSURANCE PROGRAM.
+  (a) REVIEW- The Comptroller General of the United States shall conduct a
+  review of the administration of the aviation insurance program under title
+  XIII of the Federal Aviation Act of 1958 during the Persian Gulf conflict
+  for the purpose of determining methods of improving the efficiency of the
+  administration of such program by reducing the paperwork and time period
+  required for provision of insurance under such program.
+  (b) REPORT- Not later than 1 year after the date of the enactment of this
+  Act, the Comptroller General shall transmit to Congress a report on the
+  results of the review conducted under subsection (a), together with any
+  recommendations of the Comptroller General for improving the efficiency
+  of the administration of the aviation insurance program under title XIII
+  of the Federal Aviation Act of 1958.
+SEC. 404. CONTINUATION OF AVIATION INSURANCE LAWS.
+  Notwithstanding any other provision of law, the provisions of title XIII of
+  the Federal Aviation Act of 1958 and all insurance policies issued by the
+  Secretary of Transportation under such title, as in effect on September
+  30, 1992, shall be treated as having continued in effect until the date
+  of the enactment of this Act.
+TITLE V--EXTENSION OF AIRPORT AND AIRWAY TRUST FUND
+SEC. 501. EXTENSION OF AIRPORT AND AIRWAY TRUST FUND.
+  Paragraph (1) of section 9502(d) of the Internal Revenue Code of 1986
+  (relating to expenditures from Airport and Airway Trust Fund) is amended--
+  (1) by striking `October 1, 1992' and inserting `October 1, 1995', and
+  (2) by striking in subparagraph (A) `(as such Acts were in effect on the
+  date of the enactment of the Aviation Safety and Capacity Expansion Act
+  of 1990)' and inserting `(as such Acts were in effect on the date of the
+  enactment of the Airport and Airway Safety, Capacity, Noise Improvement,
+  and Intermodal Transportation Act of 1992)'.
+SEC. 502. CLARIFICATION OF TRUST FUND REVENUES.
+  (a) IN GENERAL- Paragraph (1) of section 9502(e) of the Internal Revenue
+  Code of 1986 (relating to special rules for transfers into trust fund)
+  is amended to read as follows:
+  `(1) INCREASES IN TAX REVENUES BEFORE 1993 TO REMAIN IN GENERAL FUND-
+  In the case of taxes imposed before January 1, 1993, the amounts required
+  to be appropriated under paragraphs (1), (2), and (3) of subsection (b)
+  shall be determined without regard to any increase in a rate of tax enacted
+  by the Revenue Reconciliation Act of 1990.'.
+  (b) EFFECTIVE DATE- The amendment made by subsection (a) shall take effect
+  as if included in section 11213 of the Revenue Reconciliation Act of 1990
+  on the date of the enactment of such Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

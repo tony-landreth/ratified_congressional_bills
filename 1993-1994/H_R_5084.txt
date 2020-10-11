@@ -1,0 +1,143 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5084 Enrolled Bill (ENR)]
+
+        H.R.5084
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend title 13, United States Code, to improve the accuracy of 
+census address lists, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Census Address List Improvement Act 
+of 1994''.
+SEC. 2. ADDRESS INFORMATION REVIEWED BY LOCAL GOVERNMENTS.
+    (a) In General.--Chapter 1 of title 13, United States Code, is 
+amended by adding after section 15 the following new section:
+``Sec. 16. Address information reviewed by States and local governments
+    ``(a) The Secretary, to assist efforts to ensure the accuracy of 
+censuses and surveys under this title, shall--
+        ``(1) publish standards defining the content and structure of 
+    address information which States and local units of general purpose 
+    government may submit to the Secretary to be used in developing a 
+    national address list;
+        ``(2)(A) develop and publish a timetable for the Bureau to 
+    receive, review, and respond to submissions of information under 
+    paragraph (1) before the decennial census date; and
+        ``(B) provide for a response by the Bureau with respect to such 
+    submissions in which the Bureau specifies its determinations 
+    regarding such information and the reasons for such determinations; 
+    and
+        ``(3) be subject to the review process developed under section 
+    3 of the Census Address List Improvement Act of 1994 relating to 
+    responses pursuant to paragraph (2).
+    ``(b)(1) The Secretary--
+        ``(A) shall provide officials who are designated as census 
+    liaisons by a local unit of general purpose government with access 
+    to census address information for the purpose of verifying the 
+    accuracy of the address information of the Bureau for census and 
+    survey purposes; and
+        ``(B) together with such access, should provide an explanation 
+    of duties and obligations under this title.
+    ``(2) Access under paragraph (1) shall be limited to address 
+information concerning addresses within the local unit of general 
+purpose government represented by the census liaison or an adjacent 
+local unit of general purpose government.
+    ``(3) The Bureau should respond to each recommendation made by a 
+census liaison concerning the accuracy of address information, 
+including the determination (and reasons therefor) of the Bureau 
+regarding each such recommendation.
+    ``(4) For the purposes of paragraph (1), in a case in which a local 
+unit of general purpose government is within another local unit of 
+general purpose government and is not independent of the enclosing 
+unit, the census liaison shall be designated by the local unit of 
+general purpose government which is within the enclosing local unit of 
+general purpose government.
+    ``(5) A census liaison may not use information made available under 
+paragraph (1) for any purpose other than the purpose specified in 
+paragraph (1).
+    ``(c) For the purposes of this section--
+        ``(1) the term `local unit of general purpose government' has 
+    the meaning given such term by section 184(1) of this title; and
+        ``(2) the term `State' includes the District of Columbia, the 
+    Commonwealth of Puerto Rico, the Commonwealth of the Northern 
+    Mariana Islands, American Samoa, Guam, the Virgin Islands, and any 
+    other territory or possession of the United States.''.
+    (b) Confidentiality.--Section 9(a) of such title is amended--
+        (1) by inserting ``or local government census liaison,'' after 
+    ``thereof,''; and
+        (2) by inserting ``or 16'' after ``section 8''.
+    (c) Penalty.--Section 214 of such title is amended by inserting 
+``or whoever, being or having been a census liaison within the meaning 
+of section 16 of this title,'' after ``title,'' the second place it 
+appears.
+    (d) Clerical Amendment.--The table of sections at the beginning of 
+chapter 1 of such title is amended by inserting after the item relating 
+to section 15 the following:
+
+    ``16. Address information reviewed by local governments.''.
+SEC. 3. DEVELOPMENT OF APPEALS PROCESS BY ADMINISTRATOR OF THE OFFICE 
+OF INFORMATION AND REGULATORY AFFAIRS.
+    The Administrator of the Office of Information and Regulatory 
+Affairs, acting through the Chief Statistician and in consultation with 
+the Bureau of the Census, shall develop an appeals process for those 
+States and local units of general purpose government which desire to 
+appeal determinations of the Bureau of the Census pursuant to section 
+16(a)(2) or (b)(3) of title 13, United States Code. Appeals under such 
+process shall be resolved before the decennial census date. The Chief 
+Statistician shall publish the proposed appeals process for a period of 
+public comment before finalizing such process.
+SEC. 4. AUTHORITY OF UNITED STATES POSTAL SERVICE TO SHARE ADDRESS 
+LISTS.
+    Section 412 of title 39, United States Code, is amended--
+        (1) by striking out ``Except'' and all that follows through 
+    ``law,'' and inserting in lieu thereof ``(a) Except as specifically 
+    provided by subsection (b) or other law,''; and
+        (2) by adding at the end the following:
+    ``(b) The Postal Service shall provide to the Secretary of Commerce 
+for use by the Bureau of the Census such address information, address-
+related information, and point of postal delivery information, 
+including postal delivery codes, as may be determined by the Secretary 
+to be appropriate for any census or survey being conducted by the 
+Bureau of the Census. The provision of such information under this 
+subsection shall be in accordance with such mutually agreeable terms 
+and conditions, including reimbursability, as the Postal Service and 
+the Secretary of Commerce shall deem appropriate.''.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

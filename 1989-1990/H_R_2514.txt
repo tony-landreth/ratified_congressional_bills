@@ -1,0 +1,332 @@
+ 
+--H.R.2514--
+H.R.2514
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+Amending subchapter III of chapter 84 of title 5, United States Code.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Thrift Savings Plan Technical Amendments Act
+ of 1990'.
+SEC. 2. CORRECTION OF EMPLOYING AGENCY ERRORS RELATING TO THE THRIFT
+SAVINGS PLAN.
+ (a) IN GENERAL-
+ (1) AMENDMENT TO CHAPTER 84- Chapter 84 of title 5, United States Code,
+ is amended by inserting after section 8432 the following:
+`Sec. 8432a. Payment of lost earnings
+ `(a)(1) The Executive Director shall prescribe regulations under which
+ an employing agency shall be required to pay to the Thrift Savings Fund
+ amounts representing lost earnings resulting from errors (including errors
+ of omission) made by such agency in carrying out this subchapter, subject
+ to paragraph (2).
+ `(2) If the error involves an employing agency's failure to deduct from
+ basic pay contributions (in whole or in part) on behalf of an individual
+ in accordance with section 8432(a), the regulations shall not provide for
+ the payment of any lost earnings which would be attributable to--
+ `(A) the contributions that the agency failed to deduct from basic pay in
+ accordance with section 8432(a); or
+ `(B) any related contributions under section 8432(c)(2) that the employing
+ agency is not required (by statute or otherwise) to make up.
+ `(b) The regulations--
+ `(1) shall include--
+ `(A) procedures for computing lost earnings; and
+ `(B) procedures under which amounts paid to the Thrift Savings Fund under
+ this section shall be credited to appropriate accounts;
+ `(2) may provide for exceptions from the requirements of this section to
+ the extent that correction of an error is not administratively feasible;
+ `(3) may require an employing agency to reimburse the Thrift Savings Fund
+ for costs incurred by the Thrift Savings Fund in implementing corrections
+ of employing agency errors under this section; and
+ `(4) may include such other provisions as the Executive Director determines
+ appropriate to carry out this section.
+ `(c) Any amounts required to be paid by an employing agency under this section
+ shall be paid from the appropriation or fund available to the employing agency
+ for payment of salaries of the participant's office or establishment. If a
+ participant in the legislative branch is paid by the Clerk of the House of
+ Representatives, the Clerk may pay from the contingent fund of the House of
+ Representatives the amount required to be paid to correct errors relating to
+ the Thrift Savings Fund that otherwise would be paid from the appropriation
+ or fund used to pay the participant.'
+ (2) CONFORMING AMENDMENT- The table of sections for chapter 84 of title 5,
+ United States Code, is amended by inserting after the item relating to
+ section 8432 the following:
+`8432a. Payment of lost earnings.'
+ (b) APPLICABILITY- The amendments made by this section shall apply with
+ respect to lost earnings attributable to errors made before, on, or after
+ the date of enactment of this Act.
+SEC. 3. REMOVAL OF RESTRICTIONS RELATING TO THE INVESTMENT OF AMOUNTS IN
+THE THRIFT SAVINGS FUND.
+ (a) IN GENERAL- Section 8438 of title 5, United States Code, is amended--
+ (1) by striking subsection (e) and redesignating subsections (f) through
+ (i) as subsections (e) through (h), respectively;
+ (2) in subsection (b)(1)(A), by striking `subsection (f)' and inserting
+ `subsection (e)';
+ (3) in subsection (c)(1), by striking `Subject to subsection (e), the'
+ and inserting `The';
+ (4) in subsection (d)(1), by striking `and not subject to subsection (e)';
+ (5) in paragraphs (1) and (2) of subsection (g) (as so redesignated by
+ paragraph (1)), by striking `subsection (f)' and inserting `subsection (e)',
+ and in paragraph (3) of subsection (g) (as so redesignated), by striking
+ `subsection (f)(2)' and inserting `subsection (e)(2)';
+ (6) in subsection (g)(6) (as so redesignated by paragraph (1)), by striking
+ `subsection (i)' and inserting `subsection (h)'; and
+ (7) in paragraph (1) of subsection (h) (as so redesignated by paragraph (1)),
+ by striking `subsection (h)' and inserting `subsection (g)', and in paragraph
+ (2) of subsection (h) (as so redesignated), by striking `subsection (f)'
+ and inserting `subsection (e)'.
+ (b) REMOVAL OF INVESTMENT RESTRICTIONS AFFECTING CSRS PARTICIPANTS AND OTHERS-
+ (1) CSRS PARTICIPANTS- Section 8351(b)(8) of title 5, United States Code,
+ is repealed.
+ (2) JUSTICES AND JUDGES- Subsection (b) of the first section 8440a of title 5,
+ United States Code, is amended by striking paragraph (6) and redesignating
+ paragraph (7) as paragraph (6).
+ (3) BANKRUPTCY JUDGES AND MAGISTRATES- Section 8440b(b) of title 5, United
+ States Code (as so redesignated by section 9) is amended by striking paragraph
+ (7) and redesignating paragraph (8) as paragraph (7).
+ (4) OTHERS- Any other provision of law, in effect on the date of enactment
+ of this Act, which provides that any amounts contributed to the Thrift
+ Savings Fund, or earnings thereon, may be invested or reinvested only in the
+ Government Securities Investment Fund established under section 8438(b)(1)(A)
+ of title 5, United States Code, shall cease to be effective.
+ (c) EFFECTIVE DATE- Subsections (a) and (b), and the amendments made by such
+ subsections, shall be effective as of the second election period described in
+ section 8432(b) of title 5, United States Code, beginning after the date of
+ enactment of this Act, or as of such earlier date as the Executive Director
+ may by regulation prescribe.
+SEC. 4. EXEMPTION OF THRIFT SAVINGS PLAN ANNUITIES FROM STATE AND LOCAL
+PREMIUM TAXES.
+ (a) IN GENERAL- Section 8434 of title 5, United States Code, is amended by
+ adding at the end the following:
+ `(e)(1) No tax, fee, or other monetary payment may be imposed or collected
+ by any State, the District of Columbia, or the Commonwealth of Puerto Rico,
+ or by any political subdivision or other governmental authority thereof,
+ on, or with respect to, any amount paid to purchase an annuity contract
+ under this section.
+ `(2) Paragraph (1) shall not be construed to exempt any company or other
+ entity issuing an annuity contract under this section from the imposition,
+ payment, or collection of a tax, fee, or other monetary payment on the
+ net income or profit accruing to or realized by that entity from the sale
+ of an annuity contract under this section if that tax, fee, or payment is
+ applicable to a broad range of business activity.'
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall take effect
+ 30 days after the date of enactment of this Act.
+SEC. 5. CLARIFYING AMENDMENTS RELATING TO AN ANNUITY'S COMMENCEMENT DATE.
+ (a) AMENDMENTS TO SECTION 8433-
+ (1) RELATING TO DEADLINE FOR CHANGING AN ELECTION- Section 8433(f)(3)(A)
+ of title 5, United States Code, is amended by striking `an annuity elected
+ by the former employee or Member commences.' and inserting `an annuity
+ contract is purchased to provide for the annuity elected by the former
+ employee or Member.'
+ (2) RELATING TO RESTRICTIONS CONCERNING DEFERRED ANNUITIES- Section
+ 8433(f)(3)(B) of title 5, United States Code, is amended to read as follows:
+ `(B) A modification of a date may not be made under paragraph (2) on or
+ after the date on which an annuity contract is purchased to provide for
+ the annuity involved, and may not specify a date for the commencement of
+ an annuity earlier than 90 days after the date on which the modification
+ is submitted to the Executive Director (or such period shorter than 90 days
+ as the Executive Director may by regulation prescribe).'
+ (b) AMENDMENTS TO SECTION 8434-
+ (1) RELATING TO DEADLINE FOR CHANGING AN ELECTION- Section 8434(b) of title
+ 5, United States Code, is amended by striking `the annuity commences,'
+ and inserting `an annuity contract is purchased to provide for that annuity,'.
+ (2) RELATING TO THE PURCHASE OF ANNUITY CONTRACTS- Section 8434(d)(1) of
+ title 5, United States Code, is amended by striking `At the time an annuity
+ is to commence under this subchapter,' and inserting `Not earlier than 90
+ days (or such shorter period as the Executive Director may by regulation
+ prescribe) before an annuity is to commence under this subchapter,'.
+ (c) AMENDMENTS TO SECTION 8435-
+ (1) DETERMINATION OF MARITAL STATUS- Section 8435(c)(1) of title 5, United
+ States Code, is amended--
+ (A) by inserting `an annuity contract is purchased to provide for' after
+ `the date on which'; and
+ (B) by striking `commences'.
+ (2) DEADLINE FOR RECEIPT OF NOTIFICATION- Section 8435(d)(2)(B)(ii) of
+ title 5, United States Code, is amended by striking `the annuity commences,'
+ and inserting `an annuity contract is purchased to provide for the annuity,'.
+ (d) EFFECTIVE DATE- The amendments made by this section shall be effective
+ as of April 1, 1987.
+SEC. 6. PROVISIONS RELATING TO ACCOUNTS HAVING A FINAL BALANCE OF $3,500
+OR LESS.
+ (a) IN GENERAL-
+ (1) DEFINITION- Section 8401 of title 5, United States Code, is amended--
+ (A) in paragraph (30), by striking the final `and';
+ (B) in paragraph (31), by striking `States.' and inserting `States; and'; and
+ (C) by adding at the end the following:
+ `(32) the term `nonforfeitable account balance' means any amounts in
+ an account, established and maintained under subchapter III, which are
+ nonforfeitable (as determined under section 8432(g)).'
+ (2) PAYMENT OF NONFORFEITABLE ACCOUNT BALANCE IN CASE OF NONELECTION-
+ Section 8433(h) of title 5, United States Code, is amended to read as follows:
+ `(h)(1) Notwithstanding subsection (d), if an employee or Member separates
+ from Government employment before becoming entitled to a deferred annuity
+ under subchapter II, and such employee's or Member's nonforfeitable account
+ balance is $3,500 or less, the Executive Director shall pay the nonforfeitable
+ account balance to the participant in a single payment unless the employee
+ or Member elects, at such time and otherwise in such manner as the Executive
+ Director prescribes, to have the nonforfeitable account balance transferred
+ to an eligible retirement plan as provided in subsection (e).
+ `(2) Notwithstanding subsections (b) and (c), if an employee or Member
+ separates from Government employment under circumstances making such employee
+ or Member eligible to make an election under either of those subsections,
+ and such employee's or Member's nonforfeitable account balance is $3,500 or
+ less, the Executive Director shall pay the nonforfeitable account balance to
+ the participant in a single payment unless the employee or Member elects, at
+ such time and otherwise in such manner as the Executive Director prescribes,
+ one of the options available under subsection (b) or (c), as applicable.
+ `(3) Unless otherwise elected under this section, and subject to paragraphs
+ (1) and (2), benefits under this subchapter shall be paid as an annuity
+ commencing for an employee, Member, former employee, or former Member on
+ February 1 of the year following the latest of the year in which--
+ `(A) the employee, Member, former employee, or former Member becomes 65
+ years of age;
+ `(B) occurs the tenth anniversary of the year in which the employee, Member,
+ former employee, or former Member became subject to this subchapter; or
+ `(C) the employee, Member, former employee, or former Member separates from
+ Government employment.'
+ (3) WAIVER OF NOTIFICATION REQUIREMENTS- Section 8435 of title 5, United
+ States Code, is amended by redesignating subsection (h) as subsection (i),
+ and by inserting after subsection (g) the following:
+ `(h) Except with respect to the making of loans under section 8433(i),
+ none of the provisions of this section requiring notification to, or the
+ consent or waiver of, a spouse or former spouse of an employee, Member,
+ former employee, or former Member shall apply in any case in which the
+ nonforfeitable account balance of the employee, Member, former employee,
+ or former Member is $3,500 or less.'
+ (b) CONFORMING AMENDMENTS-
+ (1) CSRS- Section 8351(b) of title 5, United States Code, as amended by
+ section 3(b)(1), is further amended--
+ (A) by adding after paragraph (7) the following:
+ `(8) Notwithstanding paragraph (6), if an employee or Member who elects
+ to make contributions to the Thrift Savings Fund under subsection (a)
+ separates from Government employment before becoming entitled to a deferred
+ or immediate annuity under this subchapter, and such employee's or Member's
+ nonforfeitable account balance is $3,500 or less, the Executive Director
+ shall pay the nonforfeitable account balance to the participant in a single
+ payment unless the employee or Member elects, at such time and otherwise in
+ such manner as the Executive Director prescribes, to have the nonforfeitable
+ account balance transferred to an eligible retirement plan as provided in
+ section 8433(e).
+ `(9) Notwithstanding paragraphs (4) and (5), if an employee or Member
+ separates from Government employment under circumstances making such employee
+ or Member eligible to make an election under subsection (b) or (c) of section
+ 8433, and such employee's or Member's nonforfeitable account balance is
+ $3,500 or less, the Executive Director shall pay the nonforfeitable account
+ balance to the participant in a single payment unless the employee or Member
+ elects, at such time and otherwise in such manner as the Executive Director
+ prescribes, one of the options available under such subsection (b) or (c),
+ as applicable.
+ `(10) For the purpose of this section, the term `nonforfeitable account
+ balance' has the same meaning as under section 8401(32).'; and
+ (B) by inserting after paragraph (7)(C) the following:
+ `(D) Except with respect to the making of loans under section 8433(i),
+ none of the provisions of this paragraph requiring notification to a spouse
+ or former spouse of an employee, Member, former employee, or former Member
+ shall apply in any case in which the nonforfeitable account balance of the
+ employee, Member, former employee, or former Member is $3,500 or less.'
+ (2) JUSTICES AND JUDGES- Subsection (b) of the first section 8440a of title
+ 5, United States Code, as amended by section 3(b)(2), is further amended
+ by adding at the end the following:
+ `(7) Notwithstanding paragraph (5), if any justice or judge who elects to make
+ contributions to the Thrift Savings Fund under subsection (a) resigns without
+ having met the age and service requirements set forth in section 371(c) of
+ title 28, and such justice's or judge's nonforfeitable account balance is
+ $3,500 or less, the Executive Director shall pay the nonforfeitable account
+ balance to the participant in a single payment unless the justice or judge
+ elects, at such time and otherwise in such manner as the Executive Director
+ prescribes, to have the nonforfeitable account balance transferred to an
+ eligible retirement plan as provided in section 8433(e).
+ `(8) Notwithstanding paragraph (4), if any justice or judge retires under
+ subsection (a) or (b) of section 371 or section 372(a) of title 28, and
+ such justice's or judge's nonforfeitable account balance is $3,500 or less,
+ the Executive Director shall pay the nonforfeitable account balance to the
+ participant in a single payment unless the justice or judge elects, at such
+ time and otherwise in such manner as the Executive Director prescribes,
+ one of the options available under section 8433(b).'
+ (3) BANKRUPTCY JUDGES AND MAGISTRATES- Subsection (b) of section 8440b of
+ title 5, United States Code (as so redesignated by section 9, and as amended
+ by section 3(b)(3)) is further amended by adding at the end the following:
+ `(8) Notwithstanding paragraph (4)(C), if any bankruptcy judge or magistrate
+ who elects to make contributions to the Thrift Savings Fund under subsection
+ (a) retires before becoming entitled to an immediate annuity, or an annuity
+ upon attaining age 65, under section 377 of title 28 or section 2(c) of the
+ Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act
+ of 1988, and such bankruptcy judge's or magistrate's nonforfeitable account
+ balance is $3,500 or less, the Executive Director shall pay the nonforfeitable
+ account balance to the participant in a single payment unless the bankruptcy
+ judge or magistrate elects, at such time and otherwise in such manner as the
+ Executive Director prescribes, to have the nonforfeitable account balance
+ transferred to an eligible retirement plan as provided in section 8433(e).
+ `(9) Notwithstanding subparagraphs (A) and (B) of paragraph (4), if any
+ bankruptcy judge or magistrate retires under circumstances making such
+ bankruptcy judge or magistrate eligible to make an election under subsection
+ (b) or (c) of section 8433, and such bankruptcy judge's or magistrate's
+ nonforfeitable account balance is $3,500 or less, the Executive Director
+ shall pay the nonforfeitable account balance to the participant in a single
+ payment unless the bankruptcy judge or magistrate elects, at such time and
+ otherwise in such manner as the Executive Director prescribes, one of the
+ options available under such subsection (b) or (c), as applicable.'
+ (4) OTHERS- The Executive Director (as appointed under section 8474(a)
+ of title 5, United States Code) shall prescribe regulations under which
+ the purposes of the amendments made by this section shall be carried out
+ with respect to any individuals participating in the Thrift Savings Plan
+ who would not otherwise be affected by this section.
+ (c) EFFECTIVE DATE- This section, and the amendments made by this section,
+ shall be effective as of the second election period described in section
+ 8432(b) of title 5, United States Code, beginning after the date of enactment
+ of this Act (or as of such earlier date as the Executive Director may by
+ regulation prescribe), and shall apply with respect to separations occurring
+ before, on, or after that effective date.
+SEC. 7. ELECTION TO REMAIN SUBJECT TO CERTAIN PROVISIONS RELATING TO CAREER
+APPOINTEES.
+ (a) IN GENERAL- Section 3392(c) of title 5, United States Code, is amended--
+ (1) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B),
+ respectively;
+ (2) by redesignating subsection (c) as subsection (c)(1); and
+ (3) by adding at the end the following:
+ `(2) An election under paragraph (1) may also be made by any career appointee
+ who is appointed to a civilian position in the executive branch--
+ `(A) which is not in the Senior Executive Service; and
+ `(B) which is covered by the Executive Schedule, or the rate of basic pay
+ for which is fixed by statute at a rate equal to 1 of the levels of the
+ Executive Schedule.
+An election under this paragraph shall remain effective so long as the
+appointee continues to serve in the same position.'
+ (b) EFFECTIVE DATE; ELECTION BY PERSONS PREVIOUSLY APPOINTED-
+ (1) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on the date of enactment of this Act.
+ (2) ELECTION BY PERSONS PREVIOUSLY APPOINTED- The Office of Personnel
+ Management shall prescribe regulations (including procedures and deadlines)
+ under which an election under section 3392(c)(2) of title 5, United States
+ Code (as amended by this section) may be made by any individual who--
+ (A) on the date of enactment of this Act, is serving in a civilian position
+ in the executive branch which--
+ (i) is not in the Senior Executive Service; and
+ (ii) satisfies section 3392(c)(2)(B) of such title 5 (as so amended);
+ (B) was appointed to that position on or after November 1, 1986, and has
+ served continuously in such position since then;
+ (C) was a career appointee (within the meaning of section 3132(a)(4) of
+ such title 5) immediately before having been so appointed; and
+ (D) was not, based on such individual's appointment to the position described
+ in subparagraph (A), eligible to make an election under section 3392(c)
+ of such title 5 (as then in effect).
+An election under this paragraph shall be effective as of the date of
+appointment to the position described in subparagraph (A).
+SEC. 8. REPEAL.
+ Subsection (c) of section 133 of Public Law 100-238 (5 U.S.C. 8477 note)
+ is repealed.
+SEC. 9. TECHNICAL CORRECTION.
+ (a) SECTION REDESIGNATION- Chapter 84 of title 5, United States Code,
+ is amended by redesignating the second section 8440a thereof (relating to
+ bankruptcy judges and magistrates) as section 8440b.
+ (b) TABLE OF SECTIONS- The table of sections for chapter 84 of title 5,
+ United States Code, is amended by striking the item relating to the second
+ section 8440a and inserting the following:
+`8440b. Bankruptcy judges and magistrates.'
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,1020 @@
+ 
+--H.R.1312--
+H.R.1312
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To revise and extend the programs of the Domestic Volunteer Service Act
+of 1973.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `Domestic Volunteer Service
+ Act Amendments of 1989'.
+ (b) TABLE OF CONTENTS- The table of contents is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. References to the Domestic Volunteer Service Act of 1973.
+TITLE I--NATIONAL VOLUNTEER ANTIPOVERTY PROGRAMS
+Sec. 101. Selection and assignment of volunteers.
+Sec. 102. Support services.
+Sec. 103. Applications for assistance by previous recipients.
+TITLE II--SERVICE-LEARNING PROGRAMS
+Sec. 201. Change in general reference to programs.
+TITLE III--SPECIAL VOLUNTEER PROGRAMS
+Sec. 301. Authority to establish and operate programs.
+Sec. 302. Special initiatives.
+TITLE IV--ADMINISTRATION AND COORDINATION
+Sec. 401. Reports.
+Sec. 402. Evaluation.
+Sec. 403. Definitions.
+TITLE V--OLDER AMERICAN VOLUNTEER PROGRAMS
+Sec. 501. Purposes.
+Sec. 502. Programs of national significance.
+Sec. 503. Increase in stipend or allowance.
+Sec. 504. Volunteers serving without stipends.
+Sec. 505. Promotion of programs.
+Sec. 506. Administrative costs.
+Sec. 507. Multiyear grants or contracts.
+TITLE VI--LITERACY
+Sec. 601. VISTA Literacy Corps.
+Sec. 602. Technical and financial assistance for improvement of volunteer
+programs.
+Sec. 603. Special initiatives.
+TITLE VII--GENERAL PROVISIONS
+Sec. 701. Assignment of volunteers to health care problems.
+Sec. 702. Oath or affirmation.
+Sec. 703. Limitation on funds appropriated for grants and contracts.
+Sec. 704. Administrative organization.
+Sec. 705. Amendments relating to demonstration partnership agreements
+addressing the needs of the poor.
+TITLE VIII--AUTHORIZATION OF APPROPRIATIONS
+Sec. 801. National volunteer antipoverty programs authorization.
+Sec. 802. Priority.
+Sec. 803. Administration and coordination.
+Sec. 804. Older American volunteer programs.
+TITLE IX--TECHNICAL AMENDMENTS
+Sec. 901. Amendments to table of contents.
+Sec. 902. Technical amendments.
+TITLE X--TECHNICAL AMENDMENTS TO OTHER LAWS
+Sec. 1001. Technical amendments to the Anti-Drug Abuse Act of 1988.
+Sec. 1002. Technical amendment to the Juvenile Justice and Delinquency
+Prevention Act of 1974.
+Sec. 1003. Technical amendments to the Runaway and Homeless Youth Act.
+Sec. 1004. Technical amendments to the Missing Children's Assistance Act.
+SEC. 2. REFERENCES TO THE DOMESTIC VOLUNTEER SERVICE ACT OF 1973.
+ Except as otherwise specifically provided, whenever in this Act an amendment
+ or repeal is expressed in terms of an amendment to, or repeal of, a section
+ or other provision, the reference shall be considered to be made to a
+ section or other provision of the Domestic Volunteer Service Act of 1973
+ (42 U.S.C. 4951 et seq.).
+TITLE I--NATIONAL VOLUNTEER ANTIPOVERTY PROGRAMS
+SEC. 101. SELECTION AND ASSIGNMENT OF VOLUNTEERS.
+ (a) RECRUITMENT AND PLACEMENT PROCEDURES- Subsection (b) of section 103
+ (42 U.S.C. 4953(b)) is amended to read as follows:
+ `(b)(1) The Director shall establish recruitment and placement procedures
+ that offer opportunities for both local and national placement of volunteers
+ for service under this part.
+ `(2)(A) The Director shall establish and maintain within the national
+ headquarters of the ACTION Agency a volunteer placement office. The office
+ shall be headed by an individual designated by the Director to be the national
+ Administrator of Recruitment and Placement, who shall be responsible for
+ carrying out the functions described in this subsection and subsection (c)
+ and all other functions delegated by the Director relating to the recruitment
+ and placement of volunteers under this part.
+ `(B) Such volunteer placement office shall develop, operate, and maintain a
+ current and comprehensive central information system that shall, on request,
+ promptly provide information--
+ `(i) to individuals, with respect to specific opportunities for service as
+ a volunteer with approved projects or programs to which no volunteer has
+ been assigned; and
+ `(ii) to approved projects or programs, with respect to the availability of
+ individuals whose applications for service as a volunteer have been approved
+ and who are awaiting an assignment with a specific project or program.
+ `(C) The Director shall, at a minimum, designate one employee of the
+ ACTION Agency in each region of the United States whose primary duties and
+ responsibilities shall be to assist the Administrator in carrying out the
+ functions described in this subsection and subsection (c).
+ `(D) The Director shall assign or hire as necessary, such additional national,
+ regional, and State personnel to carry out the functions described in
+ this subsection and subsection (c) as may be necessary to ensure that such
+ functions are carried out in a timely and effective manner. The Director
+ shall give priority in the hiring of such additional personnel to individuals
+ who have formerly served as volunteers under this part and to individuals
+ who have specialized experience in the recruitment of volunteers.
+ `(3) Volunteers shall be selected from among qualified individuals submitting
+ an application for such service at such time, in such form, and containing
+ such information as may be necessary to evaluate the suitability of each
+ individual for such service and to determine, in accordance with paragraph
+ (7), the most appropriate assignment for each such volunteer. The Director
+ shall approve the application of each individual who applies in conformance
+ with this subsection and who, on the basis of the information provided in
+ the application, is determined by the Director to be qualified to serve as
+ a volunteer under this part.
+ `(4) Each application for service as a volunteer under this part shall--
+ `(A) indicate the period of time during which the applicant is available
+ to serve as a volunteer under this part;
+ `(B) describe the previous education, training, military and work experience,
+ and any other relevant skills or interests of the applicant;
+ `(C) specify the State or geographic region in which the applicant prefers
+ to be assigned; and
+ `(D) specify--
+ `(i) the type of project or program to which the applicant prefers to be
+ assigned; or
+ `(ii) the particular project or program to which the applicant prefers to
+ be assigned.
+ `(5) The Director shall ensure that applications for service as a volunteer
+ under this part are available to the public on request to the ACTION
+ Agency (including any State or regional offices of the Agency) and that
+ an individual making such request is informed of the manner in which such
+ application is required to be submitted. A completed application may be
+ submitted by any interested individual to, and shall be accepted by, any
+ office of the ACTION Agency.
+ `(6) Completed applications received by the ACTION Agency shall be forwarded
+ to the regional ACTION office representing the State in which such applicant
+ resides. The regional or State employees designated in subparagraphs (C)
+ and (D) of paragraph (2) shall assist in evaluating such applications and,
+ to the extent feasible and appropriate, interviewing applicants.
+ `(7)(A) The Director shall provide for the assignment of each applicant
+ approved as a volunteer under this part to a project or program that is, to
+ the maximum extent practicable, consistent with the abilities, experiences,
+ and preferences of such applicant that are set forth in the application
+ described in paragraph (4) and the needs and preferences of projects or
+ programs approved for the assignment of such volunteers.
+ `(B) In carrying out subparagraph (A), the Director shall utilize the
+ information system established under paragraph (2)(B).
+ `(C) A sponsoring organization of VISTA may recruit volunteers for service
+ under this part. The Director shall give a locally recruited volunteer
+ priority for placement in the sponsoring organization of VISTA that recruited
+ such volunteer.
+ `(D) A volunteer under this part shall not be assigned to any project or
+ program without the express approval and consent of such project or program.
+ `(E) If an applicant under this part who is recruited locally becomes
+ unavailable for service prior to the commencement of service, the recipient
+ of the project grant or contract that was designated to receive the services
+ of such applicant may replace such applicant with another qualified applicant
+ approved by the Director.
+ `(F) If feasible and appropriate, low-income community volunteers shall
+ be given the option of serving in the home communities of such volunteers
+ in teams with nationally recruited specialist volunteers. The Director
+ shall attempt to assign such volunteers to serve in the home or nearby
+ communities of such volunteers and shall make national efforts to attract
+ other individuals to serve in the VISTA program. The Director shall also,
+ in the assignment of volunteers under this subparagraph, recognize that
+ community-identified needs that cannot be met in the local area and the
+ individual desires of VISTA volunteers in regard to the service in various
+ geographical areas of the United States should be taken into consideration.'.
+ (b) PUBLIC AWARENESS AND RECRUITMENT- Section 103 (42 U.S.C. 4953)
+ is amended--
+ (1) by redesignating subsections (c) through (f) as subsections (d) through
+ (g), respectively; and
+ (2) by inserting after subsection (b) the following new subsection:
+ `(c)(1) The Director, in conjunction with the regional or State employees
+ designated in subparagraphs (C) and (D) of subsection (b)(2), shall engage in
+ public awareness and recruitment activities. Such activities shall include--
+ `(A) public service announcements through radio, television, and the
+ print media;
+ `(B) advertising through the print media, direct mail, and other means;
+ `(C) disseminating information about opportunities for service as a
+ volunteer under this part to relevant entities including institutions of
+ higher education and other educational institutions (including libraries),
+ professional associations, community-based agencies, youth service and
+ volunteer organizations, business organizations, labor unions, senior
+ citizens organizations, and other institutions and organizations from or
+ through which potential volunteers may be recruited;
+ `(D) disseminating such information through presentations made personally
+ by employees of the ACTION Agency or other designees of the Director,
+ to students and faculty at institutions of higher education and to other
+ entities described in subparagraph (C), including presentations made at
+ the facilities, conventions, or other meetings of such entities;
+ `(E) publicizing the student loan deferment and forgiveness opportunities
+ available to VISTA volunteers under parts B and E of title IV of the Higher
+ Education Act of 1965 (20 U.S.C. 1071 et seq.) and including such information
+ in all applications and recruitment materials;
+ `(F) providing, on request, technical assistance with the recruitment of
+ volunteers under this part to programs and projects receiving assistance
+ under this part; and
+ `(G) maintaining and publicizing a national toll-free telephone number
+ through which individuals may obtain information about opportunities for
+ service as a volunteer under this part and request and receive an application
+ for such service.
+ `(2) In designing and implementing the activities authorized under this
+ section, the Director shall seek to involve individuals who have formerly
+ served as volunteers under this part to assist in the dissemination
+ of information concerning the program established under this part. The
+ Director may reimburse the costs incurred by such former volunteers for
+ such participation, including expenses incurred for travel.
+ `(3) The Director shall consult with the Director of the Peace Corps to
+ coordinate the recruitment and public awareness activities carried out under
+ this subsection with those of the Peace Corps and to develop joint procedures
+ and activities for the recruitment of volunteers to serve under this part.
+ `(4) At the beginning of each fiscal year, the Director shall develop an
+ annual plan for the recruitment of volunteers under this part that--
+ `(A) describes in detail (including the cost) the recruitment and public
+ awareness activities carried out during the preceding fiscal year and
+ evaluates the effectiveness of such activities;
+ `(B) identifies methods and goals for the recruitment of volunteers during
+ the fiscal year in which such plan is made, including specific methods
+ and goals for the recruitment of individuals 55 years of age and older,
+ individuals 18 through 27 years of age, recent graduates of institutions
+ of higher education, and special skilled volunteers; and
+ `(C) describes in detail (including the expected cost) the recruitment and
+ public awareness activities that shall be undertaken throughout the year
+ to achieve the goals specified in subparagraph (B); and
+ `(D) describes in detail (including the expected cost) the recruitment
+ and public awareness activities that shall be undertaken throughout the
+ year to achieve the goals for the recruitment of individuals described in
+ subparagraph (B).
+ `(5) The Director shall ensure that not less than 20 percent of all volunteers
+ under this part are 55 years of age or older and that, by the beginning of
+ fiscal year 1991 and for each fiscal year thereafter, not less than 20 percent
+ of all such volunteers are between 18 and 27 years of age, (inclusive).
+ `(6) Beginning in fiscal year 1991 and for each fiscal year thereafter,
+ for the purpose of carrying out this subsection, the Director shall obligate
+ not less than 1.5 percent of the amounts appropriated for each fiscal year
+ under section 501(a).'.
+ (c) TEMPORARY AUTHORITY FOR EXTENSIONS OF PERIOD OF SERVICE-
+ (1) IN GENERAL- Notwithstanding the limitations established in section
+ 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b))
+ for the maximum period of service as a volunteer under part A of title I of
+ such Act (42 U.S.C. 4951 et seq.), the Director of the ACTION Agency may,
+ subject to paragraphs (2) and (3), extend beyond such maximum the period
+ of service for such volunteer in any case in which--
+ (A) such extension is requested by the project or program to which such
+ volunteer involved is assigned; and
+ (B) such Director determines that such extension is appropriate with respect
+ to meeting the goals of such project or program.
+ (2) LIMITATIONS ON EXTENSIONS- With respect to extensions under paragraph
+ (1) for volunteers described in such paragraph--
+ (A) such an extension shall not exceed a 1-year period;
+ (B) not more than two of such extensions may be made for any one volunteer;
+ and
+ (C) not more than 1 percent of the total number of such volunteers serving
+ for the fiscal year involved may receive such extensions.
+ (2) DURATION OF AUTHORITY- The authority established in paragraph (1)
+ shall be effective only for fiscal years 1990 through 1993.
+ (d) TECHNICAL AND CONFORMING AMENDMENTS- The Act (42 U.S.C. 4951 et seq.) is
+ amended--
+ (1) in section 102 (42 U.S.C. 4952)--
+ (A) by striking subsections (b) and (c); and
+ (B) by striking the subsection designation in subsection (a); and
+ (2) in section 103 (42 U.S.C. 4953)--
+ (A) in the heading for such section, by inserting `SELECTION AND' before
+ `ASSIGNMENT';
+ (B) in subsection (a), in the matter preceding paragraph (1), by striking
+ `The Director' and all that follows through `work--' and inserting the
+ following: `The Director, on the receipt of applications by a public or
+ nonprofit private organizations to receive volunteers under this part,
+ may assign volunteers selected under subsection (b) to work in appropriate
+ projects and programs sponsored by such organizations, including work--'; and
+ (C) in subsection (f) (as redesignated by subsection (b)(1)), by striking
+ `subsection (d),' and inserting `subsection (e),'.
+SEC. 102. SUPPORT SERVICES.
+ Section 105 (42 U.S.C. 4955) is amended--
+ (1) in subsection (a)(1), by striking `$75 per month' both places it appears
+ and inserting `$75 per month in fiscal year 1990, $90 per month in fiscal
+ year 1991, and $95 per month in subsequent fiscal years'; and
+ (2) in subsection (b)--
+ (A) by inserting `(1)' after the subsection designation;
+ (B) by striking `places of training),' and inserting `places of training
+ and to and from locations to which volunteers are assigned during periods
+ of service)'; and
+ (C) by adding at the end the following new paragraphs:
+ `(2) The Director shall set the subsistence allowance for volunteers under
+ paragraph (1) for each fiscal year so that--
+ `(A) the minimum allowance is not less than an amount equal to 95 percent of
+ such poverty line (as defined in section 673(2) of the Community Services
+ Block Grant Act (42 U.S.C. 9902(2))) for a single individual as expected
+ for each fiscal year; and
+ `(B) the average subsistence allowance, excluding allowances for Hawaii, Guam,
+ American Samoa, and Alaska, is no less than 105 percent of such poverty line.
+ `(3)(A) The Director shall consult with regional and State offices of the
+ ACTION Agency to make a determination of the cost of living within each State
+ and whether there are significant local price differentials within the State.
+ `(B) The Director shall adjust the subsistence allowances for volunteers
+ serving in areas that have a higher cost of living than the national average
+ to reflect such higher cost.
+ `(4) The Director, in coordination with regional and State offices of
+ the ACTION Agency and taking into account paragraphs (2) and (3), shall
+ establish a method for setting subsistence allowances. The Director shall
+ submit a report on such methods to the appropriate authorizing committees
+ of Congress not later than 90 days after the date of enactment of the fiscal
+ year 1990 appropriation.'.
+SEC. 103. APPLICATIONS FOR ASSISTANCE BY PREVIOUS RECIPIENTS.
+ Part A of title I (42 U.S.C. 4951 et seq.) is amended by adding at the end
+ the following new section:
+`SEC. 110. APPLICATIONS FOR ASSISTANCE BY PREVIOUS RECIPIENTS.
+ `(a) DURATION- The Director shall not deny assistance under this part to
+ any project or program, or any public or private nonprofit organization,
+ solely on the basis of the duration of the assistance such project, program,
+ or organization has previously received under this part.
+ `(b) CONSIDERATION OF APPLICATION- The Director shall consider each
+ application for the renewal of assistance under this part to any project
+ or program on an individualized, case-by-case basis, taking into account--
+ `(1) the extent to which the sponsoring organization has made good faith
+ efforts to achieve the goals agreed on in the application of such project
+ or program; and
+ `(2) any extenuating circumstance beyond the control of the sponsoring
+ organization that may have prevented, delayed, or otherwise impaired the
+ achievement of such goals.
+ `(c) NEW PROJECT OR PROGRAM- The Director shall consider each application for
+ assistance under this part for a new project or program, that is submitted
+ by a public or private nonprofit organization that has previously received
+ such assistance (so long as such new project or program is clearly distinct
+ from activities for which the organization has previously received such
+ assistance), on an equal basis with all other applications for such assistance
+ and without regard for the fact that the organization has previously received
+ such assistance.
+ `(d) RENEWAL OF ASSISTANCE- With respect to any consideration that relates
+ to the duration of assistance under this part and that is applied by the
+ Director in the case of a request for a renewal of assistance under this part,
+ the Director may not apply any such consideration against any entity that is--
+ `(1) functioning as an intermediary between the Director and organizations
+ requesting such renewal and ultimately receiving such assistance; and
+ `(2) utilized by such organizations--
+ `(A) to prepare and submit applications for such assistance to the Director;
+ and
+ `(B) to perform other administrative functions and services associated with
+ applying for and receiving such assistance.
+ `(e) ELIGIBILITY- All eligible public and private nonprofit organizations
+ shall be able to apply for assistance under this part.
+ `(f) NOTICE- The Director shall ensure that the language of each of
+ subsections (a) through (e) is included verbatim in--
+ `(1) an application developed by the agency for use by individuals who
+ request assistance under this part for a project or program; and
+ `(2) any regulation or guideline issued for the program established under
+ this part.'.
+TITLE II--SERVICE-LEARNING PROGRAMS
+SEC. 201. CHANGE IN GENERAL REFERENCE TO PROGRAMS.
+ Part B of title I (42 U.S.C. 4971 et seq.) is amended--
+ (1) by amending the heading for such part to read as follows:
+`PART B--STUDENT COMMUNITY SERVICE PROGRAMS';
+ (2) in the first sentence of section 111(a) (42 U.S.C. 4971(a)), by inserting
+ `and community service' after `service-learning' both places it appears; and
+ (3) in section 114 (42 U.S.C. 4974)--
+ (A) by amending the heading to read as follows:
+`STUDENT COMMUNITY SERVICE PROGRAMS';
+and
+ (B) in the first sentence of subsection (a), by inserting `and community
+ service' after `service-learning'.
+TITLE III--SPECIAL VOLUNTEER PROGRAMS
+SEC. 301. AUTHORITY TO ESTABLISH AND OPERATE PROGRAMS.
+ (a) LIMITATION ON GRANTS AND CONTRACTS- Section 122(d) (42 U.S.C. 4992(d))
+ is amended--
+ (1) by redesignating paragraph (3) as paragraph (4); and
+ (2) by inserting after paragraph (2) the following new paragraph:
+ `(3) After the date of enactment of the Domestic Volunteer Service Act
+ Amendments of 1989, no grant or contract under this part may exceed
+ $250,000.'.
+ (b) PROHIBITION AGAINST USE OF FUNDS FOR CERTAIN STATE OFFICES- Section 122
+ (42 U.S.C. 4992) is amended by adding at the end the following new subsection:
+ `(e) None of the amounts made available under section 501(c) for fiscal
+ year 1990 or subsequent fiscal years may be expended for the purpose of
+ establishing or operating any State office with respect to volunteerism.'.
+SEC. 302. SPECIAL INITIATIVES.
+ Section 124 (42 U.S.C. 4994) is amended--
+ (1) by amending the section heading to read as follows:
+`DRUG ABUSE EDUCATION AND PREVENTION SERVICES AND ACTIVITIES';
+ (2) in subsection (a), by striking `public service announcements,';
+ (3) in subsection (b), by striking paragraph (3) and redesignating paragraph
+ (4) as paragraph (3); and
+ (4) by adding at the end the following new subsections:
+ `(c) In awarding grants and contracts under this section, the Director
+ shall give priority to drug abuse education and prevention projects that
+ serve communities, including rural communities, that have not previously
+ received assistance under this part.
+ `(d) The Director shall provide for the evaluation of activities and
+ projects conducted with financial assistance received under this section. An
+ application for a grant under this section in excess of $10,000 shall
+ include a description of the methods to be used in evaluating the impact
+ any activities and programs financed through such grant have on the drug
+ abuse problem within the communities where such activities and projects
+ are carried out.'.
+TITLE IV--ADMINISTRATION AND COORDINATION
+SEC. 401. REPORTS.
+ Section 407 (42 U.S.C. 5047) is amended to read as follows:
+`SEC. 407. REPORTS.
+ Not later than 60 days after the beginning of each fiscal year, the Director
+ shall prepare and submit to the appropriate committees of Congress a report
+ that shall include--
+ `(1) the annual recruitment plan developed under section 103(c)(4);
+ `(2) a description of the activities carried out under section 103(b) during
+ the preceding fiscal year, including a specification of the total number of--
+ `(A) individuals who applied for service as a volunteer under this part;
+ `(B) applicants approved for such service;
+ `(C) approved applicants provided an assignment as a volunteer under section
+ 103(b); and
+ `(D) volunteers assigned to projects and programs that were outside the
+ original home communities of such volunteers;
+ `(3) a description of efforts undertaken by the Director during the preceding
+ fiscal year to involve individuals, who have formerly served as volunteers
+ under this part, in the activities authorized under section 103(c);
+ `(4) a description of the number of individuals referred to in paragraph
+ (3) that were involved in the activities referred to in paragraph (3)
+ and the manner of involvement of such individuals; and
+ `(5) a specification of the number and location of employees of the ACTION
+ Agency designated by the Director to assist in carrying out the duties
+ described in subsections (b) and (c) of section 103 during the preceding
+ fiscal year.'.
+SEC. 402. EVALUATION.
+ The first sentence of section 416(a) (42 U.S.C. 5056(a)) is amended by
+ inserting after `this Act' the following: `(including the VISTA Literacy Corps
+ which shall be evaluated as a separate program at least once every 3 years)'.
+SEC. 403. DEFINITIONS.
+ Section 421 (42 U.S.C. 5061) is amended--
+ (1) by striking `and' at the end of paragraph (4);
+ (2) by striking the period at the end of paragraph (5) and inserting a
+ semicolon; and
+ (3) by adding at the end the following new paragraph:
+ `(6) the term `poverty line for a single individual' means such poverty
+ line as established by the Director of the Office of Management and Budget
+ in accordance with section 673(2) of the Community Services Block Grant Act
+ (42 U.S.C. 9902(2)); and'.
+TITLE V--OLDER AMERICAN VOLUNTEER PROGRAMS
+SEC. 501. PURPOSES.
+ Title II (42 U.S.C. 5001 et seq.) is amended by inserting after the heading
+ for such title the following new section:
+`STATEMENT OF PURPOSES
+ `SEC. 200. It is the purpose of--
+ `(1) this title to provide for Older American Volunteer Programs, comprised
+ of the retired senior volunteer program, the foster grandparent program, and
+ the senior companion program, that empower older individuals to contribute
+ to their communities through volunteer service, enhance the lives of the
+ volunteers and those whom they serve, and provide communities with valuable
+ services;
+ `(2) part A, the retired senior volunteer program, to utilize the vast
+ talents of older individuals willing to share their experiences, abilities,
+ and skills in responding to a wide variety of community needs;
+ `(3) part B, the foster grandparent program, to afford low-income older
+ individuals an opportunity to provide supportive, individualized services
+ to children with exceptional or special needs; and
+ `(4) part C, the senior companion program, to afford low-income older
+ individuals the opportunity to provide personal assistance and companionship
+ to other older individuals through volunteer service.'.
+SEC. 502. PROGRAMS OF NATIONAL SIGNIFICANCE.
+ (a) AUTHORITY TO MAKE GRANTS- Part D of title II (42 U.S.C. 5021 et seq.) is
+ amended by adding at the end the following new section:
+`PROGRAMS OF NATIONAL SIGNIFICANCE
+ `SEC. 225. (a)(1) With not less than one-third of the funds made available
+ under subsection (d) in each fiscal year, the Director shall make grants
+ under the programs authorized in parts A, B, and C to support programs that
+ address national problems of local concern.
+ `(2) Except as provided in paragraph (3), the Director may make such grants--
+ `(A) under the program authorized in part A, to support programs that
+ address the national problems specified in subsection (b);
+ `(B) under the program authorized in part B, to support programs that address
+ the national problems specified in subsection (b), other than paragraph
+ (10) of such subsection; and
+ `(C) under the program authorized in part C, to support programs that
+ address the national problems referred to in paragraphs (1), (2), (5),
+ (6), and (10) of subsection (b).
+ `(3) Each program for which a grant is received under this subsection shall
+ be carried out in accordance with the requirements applicable to the program
+ under part A, B, or C under which the program supported by such grant is
+ to be carried out.
+ `(b) The Director shall make grants under subsection (a) to support one or
+ more of the following programs to address problems that concern the Nation:
+ `(1) Programs that assist individuals with chronic and debilitating illnesses,
+ such as acquired immune deficiency syndrome.
+ `(2) Programs designed to decrease drug and alcohol abuse.
+ `(3) Programs that work with teenage parents.
+ `(4) Programs that match volunteer mentors with youth who need guidance.
+ `(5) Programs that provide adult and school-based literacy assistance.
+ `(6) Programs that provide respite care, including care for frail elderly
+ individuals and for disabled or chronically ill children living at home.
+ `(7) Programs that provide before- and after-school activities that are
+ sponsored by organizations, such as libraries, that serve children of
+ working parents.
+ `(8) Programs that work with boarder babies.
+ `(9) Programs that serve children who are enrolled in child care programs,
+ giving priority to such programs that serve children with special needs.
+ `(10) Programs that provide care to developmentally disabled adults who
+ reside at home and in community-based settings, including programs that,
+ when appropriate, involve older developmentally disabled individuals as
+ volunteers under this title.
+ `(11) Programs that provide volunteer tutors to assist educationally
+ disadvantaged children, on a one-to-one basis, to improve the basic skills
+ of such children.
+ `(c)(1) In order for an applicant to be eligible to receive a grant under
+ subsection (a), such applicant shall demonstrate to the Director that such
+ grant will be used to increase the total number of volunteers supported by
+ such applicant under this title.
+ `(2) Funds made available under subsection (d) shall be used to supplement
+ and not supplant the number of volunteers engaged in activities under parts
+ A, B, and C (without regard to this section) addressing the problem for
+ which such funds are awarded unless such sums are an extension of funds
+ previously provided under this section.
+ `(d)(1) Except as provided in paragraph (2), in each fiscal year there
+ shall be available to the Director to make grants under subsection (a)
+ not more than--
+ `(A) $6,000,000 from funds appropriated under section 502(a);
+ `(B) $9,000,000 from funds appropriated under section 502(b); and
+ `(C) $9,000,000 from funds appropriated under section 502(c).
+ `(2) No funds shall be available to the Director to make grants under
+ subsection (a) for a fiscal year unless the amounts appropriated under
+ subsections (a), (b), and (c) of section 502 and available for such fiscal
+ year to carry out parts A, B, and C (without regard to this section) are
+ sufficient to maintain the number of projects and volunteers funded under
+ parts A, B, and C, respectively, in the preceding fiscal year.
+ `(e) The Director shall disseminate information on grants that may be
+ made under subsection (a) to field personnel of the ACTION Agency and to
+ community volunteer organizations that request such information.'.
+ (b) DEFINITION- Section 421 (42 U.S.C. 5061), as amended by section 403 of
+ this Act, is amended by adding at the end the following new paragraph:
+ `(7) the term `boarder baby' means an infant described in section 103
+ of the Abandoned Infants Assistance Act of 1988 (Public Law 100-505; 42
+ U.S.C. 670 note).'.
+SEC. 503. INCREASE IN STIPEND OR ALLOWANCE.
+ Section 211(d) (42 U.S.C. 5011(d)) is amended--
+ (1) in the matter preceding paragraph (1), by inserting after `$2.20 per
+ hour' the following: `until October 1, 1990, $2.35 per hour during fiscal
+ year 1991, and $2.50 per hour on and after October 1, 1992';
+ (2) in paragraph (1), by striking `no increase in the stipend or allowance
+ shall be made pursuant' and inserting `such stipend or allowance shall not
+ be increased as a result of an amendment made'; and
+ (3) in paragraph (2), by striking `$2.20 per hour' and inserting `the
+ minimum hourly rate specified in this sentence'.
+SEC. 504. VOLUNTEERS SERVING WITHOUT STIPENDS.
+ Section 211(f) (42 U.S.C. 5011(f)) is amended--
+ (1) in paragraph (1)(C) by inserting `unless such individuals have been
+ referred previously for possible placement as volunteers under part A and
+ such placement did not occur' before the period at the end; and
+ (2) in paragraph (3)--
+ (A) by inserting `take into consideration or' after `may not';
+ (B) in subparagraph (A) by inserting `or recruit' after `accept'; and
+ (C) by adding at the end of paragraph (3) the following:
+`The Director may not coerce any applicant for, or recipient of, such grant
+or contract to engage in conduct described in subparagraph (A) or (B).'.
+SEC. 505. PROMOTION OF PROGRAMS.
+ (a) DUTIES OF DIRECTOR- Section 221 (42 U.S.C. 5021) is amended--
+ (1) by amending the heading to read as follows:
+`PROMOTION OF OLDER AMERICAN VOLUNTEER PROGRAMS';
+ (2) by inserting `(a)' after `SEC. 221.'; and
+ (3) by adding at the end the following new subsection:
+ `(b)(1) In carrying out this title, the Director shall encourage and
+ facilitate the efforts of private organizations to promote the programs
+ established in parts A, B, and C and the involvement of older individuals
+ as volunteers in such programs.
+ `(2) The Director shall take appropriate actions to ensure that special
+ efforts are made to publicize the programs established in parts A, B, and C,
+ in order to facilitate recruitment efforts, to encourage greater participation
+ of volunteers, and to emphasize the value of volunteering to the health
+ and well-being of volunteers and the communities of such volunteers. Such
+ actions shall include informing recipients of grants and contracts under
+ this title of all informational materials available from the Director.
+ `(3) From funds appropriated under section 502, the Director shall expend
+ not less than $250,000 in each fiscal year to carry out paragraph (2).'.
+SEC. 506. ADMINISTRATIVE COSTS.
+ Part D of title II (42 U.S.C. 5021 et seq.), as amended by section 502(a)
+ of this Act, is amended by adding at the end the following new section:
+`adjustments to federal financial assistance
+ `SEC. 226. (a)(1)(A) In determining the amount of Federal financial assistance
+ to be provided under this title to applicants, the Director shall consider
+ the impact of changes in the Consumer Price Index For All Urban Consumers
+ published by the Bureau of Labor Statistics of the Department of Labor on
+ the administrative costs of operating the projects for which such assistance
+ will be provided.
+ `(B) The Director shall, to the fullest extent practicable, make appropriate
+ adjustments in the amount referred to in subparagraph (A) to ensure the
+ effective administration of such projects.
+ `(2) The Director shall take reasonable actions to inform applicants for
+ such assistance that such adjustments may be available.
+ `(b)(1) The Director shall submit annually, to the Committee on Education
+ and Labor of the House of Representatives and the Committee on Labor and
+ Human Resources of the Senate, a report on the extent to which adjustments
+ are made under subsection (a).
+ `(2) With respect to each of parts A, B, and C, the Director shall include
+ in such report--
+ `(A) a summary of the number of, and purposes for which, such adjustments
+ are requested by the recipients of grants and contracts under parts A, B,
+ and C, respectively;
+ `(B) a description of the extent that such requests are accommodated; and
+ `(C) a statement explaining the decisions made by the Director with respect
+ to the requested adjustments.'.
+SEC. 507. MULTIYEAR GRANTS OR CONTRACTS.
+ Title II (42 U.S.C. 5001 et seq.), as amended by sections 502(a) and 506
+ of this Act, is amended by adding at the end the following new section:
+`multiyear grants or contracts
+ `SEC. 227. (a)(1) Subject to paragraph (2) and the availability of funds,
+ the Director may make a grant or enter into a contract under part A, B, or
+ C for a period not to exceed 3 years. Each applicant who receives a grant,
+ or enters into a contract, under such part for a period exceeding 1 year
+ shall comply with such regulations as the Director may issue to require
+ such applicant--
+ `(A) to demonstrate that such applicant is in compliance with such part
+ and with the terms and conditions of such grant or contract; and
+ `(B) to provide information to update the application submitted to obtain
+ such grant or contract.
+ `(2) If the amount appropriated for any fiscal year to carry out part A, B,
+ or C in a period during which multiyear grants or contracts are in effect
+ under such part is less than the amount appropriated to carry out such part
+ in the first fiscal year in such period, then the amounts payable under all
+ such grants and contracts in effect in such period under such part shall
+ be reduced pro rata.
+ `(b) The Director shall require each applicant for a multiyear grant or
+ contract under this section, to document or describe in the application
+ any meaningful administrative savings that will result from such multiyear
+ grant or contract.
+ `(c) If an applicant does not receive a multiyear grant or contract under
+ this section, the Director shall consider such applicant for a single-year
+ grant or contract.
+ `(d) If the Director approves an application for a contract or grant to
+ carry out a project for a multiyear period as referred to in subsection
+ (a), the Director shall ensure that such project shall be treated in the
+ same manner as a single-year contract or grant with respect to--
+ `(1) the overall level of funding for such project;
+ `(2) any adjustments to Federal financial assistance that may be available
+ under section 226; and
+ `(3) the renewal of funding on the expiration of the term of such contract
+ or grant.'.
+TITLE VI--LITERACY
+SEC. 601. VISTA LITERACY CORPS.
+ Section 109 (42 U.S.C. 4959) is amended--
+ (1) in subsection (g)(1), by adding at the end the following new sentence:
+ `The Director shall ensure that records are maintained to indicate the
+ degree of compliance with this requirement.'; and
+ (2) by adding at the end the following new subsection:
+ `(h)(1) Subject to paragraphs (2) and (3), with respect to any individual
+ providing volunteer services in the program under this section regarding
+ literacy, the Director may, with the written consent of the individual,
+ assign the individual to serve in the general program under this part
+ regarding literacy.
+ `(2) To the extent practicable and without undue delay, the Director shall
+ ensure that a volunteer under this section is assigned to the vacancy
+ created within the relevant literacy project or program established under
+ this section.
+ `(3) Nothing in this subsection shall diminish or otherwise affect the
+ requirement in subsection (g)(1) that funds made available for this section
+ shall be used to supplement and not to supplant the 1986 level of literacy
+ services provided under part A.'.
+SEC. 602. TECHNICAL AND FINANCIAL ASSISTANCE FOR IMPROVEMENT OF VOLUNTEER
+PROGRAMS.
+ Section 123 (42 U.S.C. 4993) is amended--
+ (1) by adding `(a)' after the section designation; and
+ (2) by adding at the end the following new subsection:
+ `(b)(1) The Director shall provide assistance for identification, development,
+ and dissemination of effective literacy materials and programs by grant
+ or contract to public and private nonprofit organizations whose principal
+ purpose is combatting of illiteracy and its associated problems.
+ `(2) The Director shall consult with and annually submit summaries of
+ exemplary projects based on project reports to the national clearinghouse
+ on literacy education, as designated under section 372(d)(2) of the Adult
+ Education Act (20 U.S.C. 1211a(d)(2)).
+ `(3) The emphasis for the grants or contracts under paragraph (1) shall be--
+ `(A) broadly disseminating information relating to training and technical
+ assistance for the use of volunteers in projects or programs providing
+ literary services in poor urban and rural areas, including English language
+ literacy services for individuals with limited English proficiency; or
+ `(B) developing new and innovative solutions to illiteracy problems that
+ involve the more effective and extensive use of volunteers in such projects
+ or programs.'.
+SEC. 603. SPECIAL INITIATIVES.
+ Section 124 (42 U.S.C. 4994) is amended by adding at the end the following
+ new subsection:
+ `(c) The Director may provide technical assistance, by grant or contract,
+ to employers who have established or desire to establish worksite literacy
+ programs to assist such employers in obtaining, training, and integrating
+ volunteers into worksite literacy programs. The Director shall coordinate any
+ activities assisted under this subsection with the Department of Education
+ Workplace Literacy programs established under part C of the Adult Education
+ Act (20 U.S.C. 1201 et seq.).'.
+TITLE VII--GENERAL PROVISIONS
+SEC. 701. ASSIGNMENT OF VOLUNTEERS TO HEALTH CARE PROBLEMS.
+ Section 103(a) (42 U.S.C. 4953(a)) is amended--
+ (1) by striking `and' at the end of paragraph (4);
+ (2) by redesignating paragraph (5) as paragraph (6); and
+ (3) by inserting after paragraph (4) the following new paragraph:
+ `(5) in addressing significant health care problems, including chronic
+ and life-threatening illnesses and health care for homeless individuals
+ (especially homeless children) through prevention, treatment, and
+ community-based care activities; and'.
+SEC. 702. OATH OR AFFIRMATION.
+ The first sentence of section 104(c) (42 U.S.C. 4954(c)) is amended by
+ striking `in section 5(j)' and all that follows through `except' and inserting
+ `for persons appointed to any office of honor or profit by section 3331 of
+ title 5, United States Code, and shall swear (or affirm) that the volunteer
+ does not advocate the overthrow of the constitutional form of government of
+ the United States and that the volunteer is not a member of an organization
+ that advocates the overthrow of the constitutional form of government of
+ the United States, knowing that such organization so advocates, except'.
+SEC. 703. LIMITATION ON FUNDS APPROPRIATED FOR GRANTS AND CONTRACTS.
+ Section 108(a) (42 U.S.C. 4958(a)) is amended by striking `16 per centum'
+ and inserting `30 percent'.
+SEC. 704. ADMINISTRATIVE ORGANIZATION.
+ Section 401 (42 U.S.C. 5041) is amended by adding at the end the following:
+ `There shall also be in such agency three individuals who shall report
+ directly to the Assistant Director who is primarily responsible for the
+ Older American Volunteer Programs under title II of this Act. Each of
+ such individuals shall be primarily responsible for part A, B, or C of
+ such title.'.
+SEC. 705. AMENDMENTS RELATING TO DEMONSTRATION PARTNERSHIP AGREEMENTS
+ADDRESSING THE NEEDS OF THE POOR.
+ (a) GENERAL AUTHORITY- Section 408(a)(1) of the Human Services Reauthorization
+ Act of 1986 (42 U.S.C. 9910b(a)(1)) is amended--
+ (1) in the first sentence, by striking `provide for the self-sufficiency
+ of the Nation's poor' and inserting `stimulate the development of new
+ approaches to provide for greater self-sufficiency of the poor, to test and
+ evaluate such new approaches, to disseminate project results and evaluation
+ findings so that such approaches can be replicated, and to strengthen the
+ integration, coordination, and redirection of activities to promote maximum
+ self-sufficiency among the poor'; and
+ (2) in the second sentence--
+ (A) by striking `or' at the end of subparagraph (B);
+ (B) by striking the period at the end of subparagraph (C) and inserting `;
+ and'; and
+ (C) by adding at the end the following new subparagraph:
+ `(D) contain an assurance that the applicant for such grants will obtain
+ an independent, methodologically sound evaluation of the effectiveness of
+ the activities carried out with such grant and will submit such evaluation
+ to the Secretary.'.
+ (b) LIMITATIONS-
+ (1) SUBSEQUENT GRANTS- Section 408(b)(1) of such Act is amended--
+ (A) by striking `Grants' and inserting `(A) Subject to subparagraph (B),
+ grants';
+ (B) by striking `new' both places it appears; and
+ (C) by adding at the end the following new subparagraph:
+ `(B) After the first fiscal year for which an eligible entity receives a
+ grant under this section to carry out a program, the amount of a subsequent
+ grant made under this section to such entity to carry out such program may
+ not exceed 80 percent of the amount of the grant previously received by
+ such entity under this section to carry out such program.'.
+ (2) AMOUNT AND NUMBER OF GRANTS- Section 408(b)(3) of such Act is amended--
+ (A) by inserting `in each fiscal year' after `one grant';
+ (B) by striking `$250,000' and inserting `$350,000'; and
+ (C) by adding at the end the following new sentence: `Not more than 2
+ grants may be made under this section to an eligible entity to carry out
+ a particular program.'.
+ (c) DISSEMINATION OF RESULTS- Subsection (c) of section 408 of such Act is
+ amended to read as follows:
+ `(c) DISSEMINATION OF RESULTS- As soon as practicable, but not later than
+ 180 days after the end of the fiscal year in which a recipient of a grant
+ under this section completes the expenditure of such grant, the Secretary
+ shall prepare and make available to each State and each eligible entity
+ a description of the program carried out with such grant, any relevant
+ information developed and results achieved, and a summary of the evaluation
+ of such program received under subsection (a)(1)(D) so as to provide a
+ model of innovative programs for other eligible entities.'.
+ (d) DEFINITION- Section 408(d)(1) of such Act is amended by inserting before
+ the semicolon the following: `, except that such term includes an organization
+ that serves migrant and seasonal farm workers and that receives a grant
+ under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the
+ fiscal year preceding the fiscal year for which such organization requests
+ a grant under this section'.
+ (e) AUTHORIZATION OF APPROPRIATIONS- Section 408(e) of such Act is amended--
+ (1) by striking `is' and inserting `are'; and
+ (2) by inserting after `1989,' the following: `and $7,000,000 for fiscal
+ year 1990,'.
+ (f) REPORT TO CONGRESS- Section 408 of such Act (as amended by subsections
+ (d) and (e) of this section) is amended--
+ (1) by redesignating subsections (d) and (e) as subsections (f) and (g),
+ respectively; and
+ (2) by inserting after subsection (c) the following new subsections:
+ `(d) REPLICATION OF PROGRAMS- (1) The Secretary shall annually identify
+ programs that receive grants under this section that demonstrate a significant
+ potential for dealing with particularly critical needs or problems of the
+ poor that exist in a number of communities.
+ `(2) Not less than 10 percent, and not more than 25 percent, of the funds
+ appropriated for each fiscal year to carry out this section shall be
+ available to make grants under this section to replicate in additional
+ geographic areas programs identified under paragraph (1).
+ `(e) REPORT TO CONGRESS- The Secretary shall submit annually, to the
+ Committee on Education and Labor of the House of Representatives and the
+ Committee on Labor and Human Resources of the Senate, a report containing--
+ `(1) a description of--
+ `(A) programs for which grants under this section in the then most recently
+ completed fiscal year; and
+ `(B) the evaluations received under subsection (a)(1)(D) in such fiscal
+ year; and
+ `(2) a description of the methods used by the Secretary to comply with
+ subsection (c);
+ `(3) recommendations of the Secretary regarding the suitability of carrying
+ out such programs with funds made available under other Federal laws; and
+ `(4) a description of each program identified under subsection (d)(1) or
+ replicated under subsection (d)(2), and an identification of the geographical
+ location where such program was carried out.'.
+TITLE VIII--AUTHORIZATION OF APPROPRIATIONS
+SEC. 801. NATIONAL VOLUNTEER ANTIPOVERTY PROGRAMS AUTHORIZATION.
+ (a) VOLUNTEERS IN SERVICE TO AMERICA- Section 501(a)(1) (42 U.S.C. 5081(a)(1))
+ is amended--
+ (1) by striking `and' after `1988,'; and
+ (2) by inserting before the period at the end the following: `, $30,600,000
+ for fiscal year 1990, $39,900,000 for fiscal year 1991, $47,800,000 for
+ fiscal year 1992, and $56,000,000 for fiscal year 1993';
+ (b) VISTA LITERACY CORPS- Section 501(a) (42 U.S.C. 5081(a)) is amended--
+ (1) in paragraph (2)--
+ (A) by striking `and' after `1988,'; and
+ (B) by inserting before the period at the end the following: `, $6,050,000
+ for fiscal year 1990, $7,500,000 for fiscal year 1991, $9,000,000 for fiscal
+ year 1992, and $10,500,000 for fiscal year 1993'; and
+ (2) in paragraph (3), by striking `1987, 1988, and 1989' and inserting
+ `1987 through 1993'.
+ (c) SERVICE-LEARNING PROGRAMS- Section 501(b) (42 U.S.C. 5081(b)) is amended
+ by inserting before the period at the end the following: `, $1,900,000 for
+ fiscal year 1990, $2,000,000 for fiscal year 1991, $2,100,000 for fiscal
+ year 1992, and $2,200,000 for fiscal year 1993';
+ (d) SPECIAL VOLUNTEER PROGRAMS- Section 501(c) (42 U.S.C. 5081(c))
+ is amended--
+ (1) in the first sentence, by inserting before the period at the end the
+ following: `, $1,100,000 for fiscal year 1990, $1,150,000 for fiscal year
+ 1991, $1,200,000 for fiscal year 1992, and $1,275,000 for fiscal year
+ 1993'; and
+ (2) in the third sentence--
+ (A) by striking `and' after `1989,'; and
+ (B) by inserting before the period the following: `, $5,250,000 for fiscal
+ year 1992, and $5,500,000 for fiscal year 1993'.
+ (e) YEARS OF VOLUNTEER SERVICE- Section 501(d)(1) (42 U.S.C. 5081(d)(1))
+ is amended--
+ (1) by striking `and' at the end of subparagraph (B);
+ (2) by striking the period at the end of subparagraph (C) and inserting a
+ semicolon; and
+ (3) by adding at the end the following new subparagraphs:
+ `(D) 2800 years of volunteer service in fiscal year 1990;
+ `(E) 3000 years of volunteer service in fiscal year 1991;
+ `(F) 3200 years of volunteer service in fiscal year 1992; and
+ `(G) 3400 years of volunteer service in fiscal year 1993.'.
+SEC. 802. PRIORITY.
+ Section 501(d) (42 U.S.C. 5081(d)) is amended by adding at the end the
+ following new paragraph:
+ `(4)(A) In applying criteria with respect to meeting the number of years
+ of volunteer service under paragraph (1) for a fiscal year, the Director
+ may not exclude the costs of complying with section 105(b)(2) for each
+ volunteer under this part.
+ `(B) The minimum level of allowances for subsistence required under section
+ 105(b)(2) to be provided to each volunteer under this part may not be reduced
+ or limited in order to provide for the increase in the number of years of
+ volunteer service specified in paragraph (1) for each of the fiscal years
+ 1990 through 1993.
+ `(C) If the Director determines that funds appropriated to carry out part A
+ of title I are insufficient to provide for the years of volunteer service
+ as required in paragraph (1), the Director shall, within a reasonable
+ period of time in advance of the date on which such additional funds must
+ be reallocated to satisfy the requirements of such subsection, notify the
+ relevant authorizing and appropriating Committees of Congress. Funds shall
+ be reallocated to part A of title I from amounts appropriated for part C of
+ such title prior to the reallocation of funds appropriated for other parts.'.
+SEC. 803. ADMINISTRATION AND COORDINATION.
+ Section 504 (42 U.S.C. 5084) is amended--
+ (1) by inserting `(a)' after `SEC. 504.'; and
+ (2) by adding at the end the following new subsection:
+ `(b) For each of the fiscal years 1990 through 1993, there is authorized to
+ be appropriated for the administration of this Act, as authorized in title
+ IV, 20 percent of the total amount appropriated under sections 501 and 502.'.
+SEC. 804. OLDER AMERICAN VOLUNTEER PROGRAMS.
+ (a) RETIRED SENIOR VOLUNTEER PROGRAM- Section 502(a) (42 U.S.C. 5082(a))
+ is amended--
+ (1) by inserting after `appropriated' the following: `not less than the
+ amount appropriated in the previous fiscal year and not more than';
+ (2) by striking `$31,100,000' and all that follows through `1988, and'; and
+ (3) by inserting after `1989' the following: `, $39,900,000 for fiscal year
+ 1990, $43,900,000 for fiscal year 1991, $48,300,000 for fiscal year 1992,
+ and $53,100,000 for fiscal year 1993,'.
+ (b) FOSTER GRANDPARENT PROGRAM- Section 502(b) (42 U.S.C. 5082(b))
+ is amended--
+ (1) by inserting after `appropriated' `not less than the amount appropriated
+ in the previous fiscal year and not more than';
+ (2) by striking `$58,700,000' and all that follows through `1988, and'; and
+ (3) by inserting after `1989' the following: `, $70,800,000 for fiscal year
+ 1990, $80,900,000 for fiscal year 1991, $91,700,000 for fiscal year 1992,
+ and $98,200,000 for fiscal year 1993,'.
+ (c) SENIOR COMPANION PROGRAM- Section 502(c) (42 U.S.C. 5082(c)) is amended--
+ (1) by inserting after `appropriated' `not less than the amount appropriated
+ in the previous fiscal year and not more than';
+ (2) by striking `$28,600,000' and all that follows through `1988, and'; and
+ (3) by inserting after `1989' the following: `, $36,600,000 for fiscal year
+ 1990, $39,000,000 for fiscal year 1991, $44,700,000 for fiscal year 1992,
+ and $48,700,000 for fiscal year 1993,'.
+TITLE IX--TECHNICAL AMENDMENTS
+SEC. 901. AMENDMENTS TO TABLE OF CONTENTS.
+ The table of contents in the first section (42 U.S.C. prec. 4951) is amended--
+ (1) by striking the item relating to section 103 and inserting the following
+ new item:
+`Sec. 103. Selection and assignment of volunteers.';
+ (2) by inserting after the item relating to section 109 the following
+ new item:
+`Sec. 110. Applications for assistance by previous recipients.';
+ (3) by striking the item relating to the heading for part B of title I and
+ inserting the following new item:
+`Part B--Student Community Service Programs';
+ (4) by striking the item relating to section 114 and inserting the following
+ new item:
+`Sec. 114. Student community service programs.';
+ (5) by striking the item relating to section 124 and inserting the following
+ new item:
+`Sec. 124. Drug abuse education and prevention services and activities.';
+ (6) by striking the item relating to the heading of title II and inserting
+ the following new item:
+`TITLE II--OLDER AMERICAN VOLUNTEER PROGRAMS';
+ (7) by inserting after the item relating to the heading of title II the
+ following new item:
+`Sec. 200. Statement of purposes.';
+ (8) in the matter relating to the heading of part B of title II by striking
+ `AND OLDER AMERICAN COMMUNITY SERVICE PROGRAMS';
+ (9) by striking the item relating to section 221 and inserting the following
+ new item:
+`Sec. 221. Promotion of older American volunteer programs.';
+ (10) by adding at the end of the items relating to part D of title II the
+ following new items:
+`Sec. 225. Programs of national significance.
+`Sec. 226. Adjustments to Federal financial assistance.
+`Sec. 227. Multiyear grants or contracts.';
+and
+ (11) by striking the item relating to section 502 and inserting the following
+ new item:
+`Sec. 502. Older Americans volunteer programs.'.
+SEC. 902. TECHNICAL AMENDMENTS.
+ The Act (42 U.S.C. 4951 et seq.) is amended--
+ (1) in the heading of title II (42 U.S.C. prec. 5001), by striking `NATIONAL';
+ (2) in section 201(a) (42 U.S.C. 5001(a)--
+ (A) by striking `programs' and inserting `projects'; and
+ (B) by striking `program' each place it appears and inserting `project';
+ (3) in the heading of part B of title II (42 U.S.C. prec. 5011) by striking
+ `AND OLDER AMERICAN COMMUNITY SERVICE PROGRAMS';
+ (4) in section 212(b) (42 U.S.C. 5012(b)), by striking `a community action
+ agency' and all that follows through the period and inserting `an eligible
+ entity as defined in section 673(1) of the Community Services Block Grant
+ Act (42 U.S.C. 9902(1)).';
+ (5) in section 213(c)(1) (42 U.S.C. 5013(c))--
+ (A) by inserting `after subsection (a)' after `contracts'; and
+ (B) by inserting `individuals' after `elderly' each place it appears;
+ (6) in section 224 (42 U.S.C. 5024), by striking `programs' and inserting
+ `projects'; and
+ (7) in the heading of section 502 (42 U.S.C. 5082) by striking `NATIONAL'.
+TITLE X--TECHNICAL AMENDMENTS TO OTHER LAWS
+SEC. 1001. TECHNICAL AMENDMENTS TO THE ANTI-DRUG ABUSE ACT OF 1988.
+ (a) DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS- Section 3503(2)
+ of the Anti-Drug Abuse Act of 1988 (42 U.S.C. 11803(2)) is amended by striking
+ `that it has' and inserting `have'.
+ (b) PROGRAM FOR RUNAWAY AND HOMELESS YOUTH- Section 3515 of such Act (42
+ U.S.C. 11825) is amended--
+ (1) in subsection (b)(1)--
+ (A) in subparagraph (B), by inserting `stating' after `(B)'; and
+ (B) in subparagraph (C), by striking `a description of' and inserting
+ `describing'; and
+ (2) in subsection (c), by striking `Administrator' and inserting `such
+ officer'.
+ (c) EVALUATION-
+ (1) IN GENERAL- Section 3522 of such Act (42 U.S.C. 11842) is amended--
+ (A) in subsection (a)--
+ (i) by striking `, acting through the Administrator,'; and
+ (ii) by striking `(as defined in section 3601(6))'; and
+ (B) in subsection (b), by striking `Administrator' and inserting `Secretary
+ of Health and Human Services'.
+ (2) ADMINISTRATOR- Section 3601 of such Act (42 U.S.C. 11851) is amended--
+ (A) by striking paragraph (1); and
+ (B) by redesignating paragraphs (2) through (13) as paragraphs (1) through
+ (12), respectively.
+ (d) REPORTS- Section 7296(b) of such Act (42 U.S.C. 5601 note) is amended--
+ (1) in paragraph (2) by striking `section 7274(b)(1)' and inserting `section
+ 7253(b)(1)'; and
+ (2) by amending paragraph (3) to read as follows:
+ `(3) Notwithstanding the 180-day period provided in--
+ `(A) section 207 of the Juvenile Justice and Delinquency Prevention Act of
+ 1974 (42 U.S.C. 5611 et seq.), as added by section 7255;
+ `(B) section 361 of the Runaway and Homeless Youth Act (42 U.S.C. 5701 et
+ seq.), as redesignated by section 7273(e)(2) and amended by section 7274; and
+ `(C) section 404(a)(5) of the Missing Children's Assistance Act (42
+ U.S.C. 5773(a)(5)), as amended by section 7285(a)(3);
+the reports required by such sections to be submitted with respect to fiscal
+year 1988 shall be submitted not later than August 1, 1989.'.
+ (e) CLERICAL AMENDMENTS-
+ (1) AUTHORIZED FUNDS- Section 7265(a)(4) of such Act (102 Stat. 4448)
+ is amended by inserting `after `fiscal years' ' before `, and'.
+ (2) AUTHORIZATION OF APPROPRIATIONS- Section 7280(2) of such Act (102
+ Stat. 4459) is amended by inserting `after `fiscal years' ' before the
+ comma at the end.
+ (3) AUTHORIZATION OF APPROPRIATIONS- Section 7289(3) of such Act (102 Stat
+ 4461) is amended by inserting `after `fiscal years' ' before the period at
+ the end.
+SEC. 1002. TECHNICAL AMENDMENT TO THE JUVENILE JUSTICE AND DELINQUENCY
+PREVENTION ACT OF 1974.
+ Section 291(a)(1) of the Juvenile Justice and Delinquency Prevention Act
+ of 1974 (42 U.S.C. 5671(a)(1)) is amended by striking `is authorized'
+ and inserting `are authorized'.
+SEC. 1003. TECHNICAL AMENDMENTS TO THE RUNAWAY AND HOMELESS YOUTH ACT.
+ The Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.) is amended--
+ (1) in section 361(a) (42 U.S.C. 5715(a)), by striking `report to the
+ Congress' and inserting `submit a report to the Committee on Education and
+ Labor of the House of Representatives and the Committee on the Judiciary
+ of the Senate';
+ (2) in section 361(b) (42 U.S.C. 5715(b)), by striking `The Secretary shall
+ annually report to the Congress' and inserting `Not later than 180 days
+ after the end of each fiscal year, the Secretary shall submit a report to
+ the Committee on Education and Labor of the House of Representatives and
+ the Committee on the Judiciary of the Senate'; and
+ (3) in section 366(a)(1) (42 U.S.C. 5751(a)(1)), by striking `is authorized'
+ and inserting `are authorized'.
+SEC. 1004. TECHNICAL AMENDMENTS TO THE MISSING CHILDREN'S ASSISTANCE ACT.
+ The Missing Children's Assistance Act (42 U.S.C. 5771 et seq.) is amended--
+ (1) in section 401 (42 U.S.C. 5601 note)--
+ (A) by inserting open quotation marks after `as the'; and
+ (B) by inserting close quotation marks after `Act';
+ (2) in section 404 (42 U.S.C. 5773)--
+ (A) in subsection (a)(5)(C), by striking the comma at the end and inserting
+ a semicolon; and
+ (B) in subsection (b)(2)(A), by inserting `to' after `(A)'; and
+ (3) in section 405(a)(9), (42 U.S.C. 5775(a)(9)), by striking `clearinghouse'
+ and inserting `clearinghouses'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

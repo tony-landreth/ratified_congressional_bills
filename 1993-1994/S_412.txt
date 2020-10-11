@@ -1,0 +1,525 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 412 Enrolled Bill (ENR)]
+
+        S.412
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To amend title 49, United States Code, relating to procedures for 
+resolving claims
+
+   involving unfiled, negotiated transportation rates, and for other 
+                                purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Negotiated Rates Act of 1993''.
+SEC. 2. PROCEDURES FOR RESOLVING CLAIMS INVOLVING UNFILED, NEGOTIATED 
+TRANSPORTATION RATES.
+    (a) In General.--Section 10701 of title 49, United States Code, is 
+amended by adding at the end the following:
+    ``(f) Procedures for Resolving Claims Involving Unfiled, Negotiated 
+Transportation Rates.--
+        ``(1) In general.--When a claim is made by a motor carrier of 
+    property (other than a household goods carrier) providing 
+    transportation subject to the jurisdiction of the Commission under 
+    subchapter II of chapter 105 of this title, by a freight forwarder 
+    (other than a household goods freight forwarder), or by a party 
+    representing such a carrier or freight forwarder regarding the 
+    collection of rates or charges for such transportation in addition 
+    to those originally billed and collected by the carrier or freight 
+    forwarder for such transportation, the person against whom the claim 
+    is made may elect to satisfy the claim under the provisions of 
+    paragraph (2), (3), or (4) of this subsection, upon showing that--
+            ``(A) the carrier or freight forwarder is no longer 
+        transporting property or is transporting property for the 
+        purpose of avoiding the application of this subsection; and
+            ``(B) with respect to the claim--
+                ``(i) the person was offered a transportation rate by 
+            the carrier or freight forwarder other than that legally on 
+            file with the Commission for the transportation service;
+                ``(ii) the person tendered freight to the carrier or 
+            freight forwarder in reasonable reliance upon the offered 
+            transportation rate;
+                ``(iii) the carrier or freight forwarder did not 
+            properly or timely file with the Commission a tariff 
+            providing for such transportation rate or failed to enter 
+            into an agreement for contract carriage;
+                ``(iv) such transportation rate was billed and collected 
+            by the carrier or freight forwarder; and
+                ``(v) the carrier or freight forwarder demands 
+            additional payment of a higher rate filed in a tariff.
+    If there is a dispute as to the showing under subparagraph (A), such 
+    dispute shall be resolved by the court in which the claim is 
+    brought. If there is a dispute as to the showing under subparagraph 
+    (B), such dispute shall be resolved by the Commission. Pending the 
+    resolution of any such dispute, the person shall not have to pay any 
+    additional compensation to the carrier or freight forwarder. 
+    Satisfaction of the claim under paragraph (2), (3), or (4) of this 
+    subsection shall be binding on the parties, and the parties shall 
+    not be subject to chapter 119 of this title.
+        ``(2) Claims involving shipments weighing 10,000 pounds or 
+    less.--A person from whom the additional legally applicable and 
+    effective tariff rate or charges are sought may elect to satisfy the 
+    claim if the shipments each weighed 10,000 pounds or less, by 
+    payment of 20 percent of the difference between the carrier's 
+    applicable and effective tariff rate and the rate originally billed 
+    and paid. In the event that a dispute arises as to the rate that was 
+    legally applicable to the shipment, such dispute shall be resolved 
+    by the Commission.
+        ``(3) Claims involving shipments weighing more than 10,000 
+    pounds.--A person from whom the additional legally applicable and 
+    effective tariff rate or charges are sought may elect to satisfy the 
+    claim if the shipments each weighed more than 10,000 pounds, by 
+    payment of 15 percent of the difference between the carrier's 
+    applicable and effective tariff rate and the rate originally billed 
+    and paid. In the event that a dispute arises as to the rate that was 
+    legally applicable to the shipment, such dispute shall be resolved 
+    by the Commission.
+        ``(4) Claims involving public warehousemen.--Notwithstanding 
+    paragraphs (2) and (3), a person from whom the additional legally 
+    applicable and effective tariff rate or charges are sought may elect 
+    to satisfy the claim by payment of 5 percent of the difference 
+    between the carrier's applicable and effective tariff rate and the 
+    rate originally billed and paid if such person is a public 
+    warehouseman. In the event that a dispute arises as to the rate that 
+    was legally applicable to the shipment, such dispute shall be 
+    resolved by the Commission.
+        ``(5) Effects of election.--When a person from whom additional 
+    legally applicable freight rates or charges are sought does not 
+    elect to use the provisions of paragraph (2), (3), or (4), the 
+    person may pursue all rights and remedies existing under this title.
+        ``(6) Stay of additional compensation.--When a person proceeds 
+    under this section to challenge the reasonableness of the legally 
+    applicable freight rate or charges being claimed by a carrier or 
+    freight forwarder described in paragraph (1) in addition to those 
+    already billed and collected, the person shall not have to pay any 
+    additional compensation to the carrier or freight forwarder until 
+    the Commission has made a determination as to the reasonableness of 
+    the challenged rate as applied to the freight of the person against 
+    whom the claim is made.
+        ``(7) Limitation on statutory construction.--Except as 
+    authorized in paragraphs (2), (3), (4), and (9) of this subsection, 
+    nothing in this subsection shall relieve a motor common carrier of 
+    the duty to file and adhere to its rates, rules, and classifications 
+    as required in sections 10761 and 10762 of this title.
+        ``(8) Notification of election.--
+            ``(A) General rule.--A person must notify the carrier or 
+        freight forwarder as to its election to proceed under paragraph 
+        (2), (3), or (4). Except as provided in subparagraphs (B), (C), 
+        and (D), such election may be made at any time.
+            ``(B) Demands for payment initially made after date of 
+        enactment.--If the carrier or freight forwarder or party 
+        representing such carrier or freight forwarder initially demands 
+        the payment of additional freight charges after the date of the 
+        enactment of this subsection and notifies the person from whom 
+        additional freight charges are sought of the provisions of 
+        paragraphs (1) through (7) at the time of the making of such 
+        initial demand, the election must be made not later than the 
+        later of--
+                ``(i) the 60th day following the filing of an answer to 
+            a suit for the collection of such additional legally 
+            applicable freight rate or charges, or
+                ``(ii) the 90th day following the date of the enactment 
+            of this subsection.
+            ``(C) Pending suits for collection made before or on date of 
+        enactment.--If the carrier or freight forwarder or party 
+        representing such carrier or freight forwarder has filed, before 
+        or on the date of the enactment of this subsection, a suit for 
+        the collection of additional freight charges and notifies the 
+        person from whom additional freight charges are sought of the 
+        provisions of paragraphs (1) through (7), the election must be 
+        made not later than the 90th day following the date on which 
+        such notification is received.
+            ``(D) Demands for payment made before or on date of 
+        enactment.--If the carrier or freight forwarder or party 
+        representing such carrier or freight forwarder has demanded the 
+        payment of additional freight charges, and has not filed a suit 
+        for the collection of such additional freight charges, before or 
+        on the date of the enactment of this subsection and notifies the 
+        person from whom additional freight charges are sought of the 
+        provisions of paragraphs (1) through (7), the election must be 
+        made not later than the later of--
+                ``(i) the 60th day following the filing of an answer to 
+            a suit for the collection of such additional legally 
+            applicable freight rate or charges, or
+                ``(ii) the 90th day following the date of the enactment 
+            of this subsection.
+        ``(9) Claims involving small-business concerns, charitable 
+    organizations, and recyclable materials.--Notwithstanding paragraphs 
+    (2), (3), and (4), a person from whom the additional legally 
+    applicable and effective tariff rate or charges are sought shall not 
+    be liable for the difference between the carrier's applicable and 
+    effective tariff rate and the rate originally billed and paid--
+            ``(A) if such person qualifies as a small-business concern 
+        under the Small Business Act (15 U.S.C. 631 et seq.),
+            ``(B) if such person is an organization which is described 
+        in section 501(c)(3) of the Internal Revenue Code of 1986 and 
+        exempt from tax under section 501(a) of such Code, or
+            ``(C) if the cargo involved in the claim is recyclable 
+        materials, as defined in section 10733.''.
+    (b) Conforming Amendment.--Subsection (e) of such section is amended 
+by striking ``In'' and inserting ``Except as provided in subsection (f), 
+in''.
+    (c) Applicability.--The amendments made by subsections (a) and (b) 
+of this section shall apply to all claims pending as of the date of the 
+enactment of this Act and to all claims arising from transportation 
+shipments tendered on or before the last day of the 24-month period 
+beginning on such date of enactment.
+    (d) Report.--Not later than 18 months after the date of the 
+enactment of this Act, the Interstate Commerce Commission shall transmit 
+to Congress a report regarding whether there exists a justification for 
+extending the applicability of amendments made by subsections (a) and 
+(b) of this section beyond the period specified in subsection (c).
+    (e) Alternative Procedure for Resolving Disputes.--
+        (1) General rule.--For purposes of section 10701 of title 49, 
+    United States Code, it shall be an unreasonable practice for a motor 
+    carrier of property (other than a household goods carrier) providing 
+    transportation subject to the jurisdiction of the Commission under 
+    subchapter II of chapter 105 of such title, a freight forwarder 
+    (other than a household goods freight forwarder), or a party 
+    representing such a carrier or freight forwarder to attempt to 
+    charge or to charge for a transportation service provided before 
+    September 30, 1990, the difference between the applicable rate that 
+    is lawfully in effect pursuant to a tariff that is filed in 
+    accordance with chapter 107 of such title by the carrier or freight 
+    forwarder applicable to such transportation service and the 
+    negotiated rate for such transportation service if the carrier or 
+    freight forwarder is no longer transporting property between places 
+    described in section 10521(a)(1) of such title or is transporting 
+    property between places described in section 10521(a)(1) of such 
+    title for the purpose of avoiding the application of this 
+    subsection.
+        (2) Jurisdiction of commission.--The Commission shall have 
+    jurisdiction to make a determination of whether or not attempting to 
+    charge or the charging of a rate by a motor carrier or freight 
+    forwarder or party representing a motor carrier or freight forwarder 
+    is an unreasonable practice under paragraph (1). If the Commission 
+    determines that attempting to charge or the charging of the rate is 
+    an unreasonable practice under paragraph (1), the carrier, freight 
+    forwarder, or party may not collect the difference described in 
+    paragraph (1) between the applicable rate and the negotiated rate 
+    for the transportation service. In making such determination, the 
+    Commission shall consider--
+            (A) whether the person was offered a transportation rate by 
+        the carrier or freight forwarder or party other than that 
+        legally on file with the Commission for the transportation 
+        service;
+            (B) whether the person tendered freight to the carrier or 
+        freight forwarder in reasonable reliance upon the offered 
+        transportation rate;
+            (C) whether the carrier or freight forwarder did not 
+        properly or timely file with the Commission a tariff providing 
+        for such transportation rate or failed to enter into an 
+        agreement for contract carriage;
+            (D) whether the transportation rate was billed and collected 
+        by the carrier or freight forwarder; and
+            (E) whether the carrier or freight forwarder or party 
+        demands additional payment of a higher rate filed in a tariff.
+        (3) Stay of additional compensation.--When a person proceeds 
+    under this subsection to challenge the reasonableness of the 
+    practice of a motor carrier, freight forwarder, or party described 
+    in paragraph (1) to attempt to charge or to charge the difference 
+    described in paragraph (1) between the applicable rate and the 
+    negotiated rate for the transportation service in addition to those 
+    charges already billed and collected for the transportation service, 
+    the person shall not have to pay any additional compensation to the 
+    carrier, freight forwarder, or party until the Commission has made a 
+    determination as to the reasonableness of the practice as applied to 
+    the freight of the person against whom the claim is made.
+        (4) Treatment.--Paragraph (1) of this subsection is enacted as 
+    an exception, and shall be treated as an exception, to the 
+    requirements of sections 10761(a) and 10762 of title 49, United 
+    States Code, relating to a filed tariff rate for a transportation or 
+    service subject to the jurisdiction of the Commission and other 
+    general tariff requirements.
+        (5) Nonapplicability of negotiated rate dispute resolution 
+    procedure.--If a person elects to seek enforcement of paragraph (1) 
+    with respect to a rate for a transportation or service, section 
+    10701(f) of title 49, United States Code, as added by subsection (a) 
+    of this section, shall not apply to such rate.
+        (6) Definitions.--For purposes of this subsection, the following 
+    definitions apply:
+            (A) Commission, household goods, household goods freight 
+        forwarder, and motor carrier.--The terms ``Commission'', 
+        ``household goods'', ``household goods freight forwarder'', and 
+        ``motor carrier'' have the meaning such terms have under section 
+        10102 of title 49, United States Code.
+            (B) Negotiated rate.--The term ``negotiated rate'' means a 
+        rate, charge, classification, or rule agreed upon by a motor 
+        carrier or freight forwarder described in paragraph (1) and a 
+        shipper through negotiations pursuant to which no tariff was 
+        lawfully and timely filed with the Commission and for which 
+        there is written evidence of such agreement.
+    (f) Prior Settlements and Adjudications.--Any claim that, but for 
+this subsection, would be subject to any provision of this Act 
+(including any amendment made by this Act) and that was settled by 
+mutual agreement of the parties to such claim, or resolved by a final 
+adjudication of a Federal or State court, before the date of the 
+enactment of this Act shall be treated as binding, enforceable, and not 
+contrary to law, unless such settlement was agreed to as a result of 
+fraud or coercion.
+    (g) Rate Reasonableness.--Section 10701(e) of title 49, United 
+States Code, is amended by adding at the end the following: ``Any 
+complaint brought against a motor carrier (other than a carrier 
+described in subsection (f)(1)(A)) by a person (other than a motor 
+carrier) for unreasonably high rates for past or future transportation 
+shall be determined under this subsection.''.
+
+SEC. 3. STATUTE OF LIMITATIONS.
+
+    (a) Motor Carrier Charges.--Section 11706(a) of title 49, United 
+States Code, is amended by striking the period at the end and inserting 
+the following: ``; except that a motor carrier (other than a motor 
+carrier providing transportation of household goods) or freight 
+forwarder (other than a household goods freight forwarder)--
+        ``(1) must begin such a civil action within 2 years after the 
+    claim accrues if the transportation or service is provided by the 
+    carrier in the 1-year period beginning on the date of the enactment 
+    of the Negotiated Rates Act of 1993; and
+        ``(2) must begin such a civil action within 18 months after the 
+    claim accrues if the transportation or service is provided by the 
+    carrier after the last day of such 1-year period.''.
+    (b) Motor Carrier Overcharges.--Section 11706(b) of title 49, United 
+States Code, is amended by striking ``. If that claim is against a 
+common carrier'' and inserting the following: ``; except that a person 
+must begin a civil action to recover overcharges from a motor carrier 
+subject to the jurisdiction of the Commission under subchapter II of 
+chapter 105 of this title for transportation or service--
+        ``(1) within 2 years after the claim accrues if such 
+    transportation or service is provided in the 1-year period beginning 
+    on the date of the enactment of the Negotiated Rate Act of 1993; and
+        ``(2) within 18 months after the claim accrues if such 
+    transportation or service is provided after the last day of such 1-
+    year period.
+If the claim is against a common carrier''.
+    (c) Conforming Amendment.--Section 11706(d) of title 49, United 
+States Code, is amended--
+        (1) by striking ``3-year period'' each place it appears and 
+    inserting ``limitation periods'';
+        (2) by striking ``is extended'' the first place it appears and 
+    inserting ``are extended''; and
+        (3) by striking ``each''.
+SEC. 4. TARIFF RECONCILIATION RULES FOR MOTOR CARRIERS OF PROPERTY.
+    (a) In General.--Chapter 117 of title 49, United States Code, is 
+amended by adding at the end the following:
+
+``§11712. Tariff reconciliation rules for motor common carriers of 
+            property
+
+    ``(a) Mutual Consent.--Subject to Commission review and approval, 
+motor carriers subject to the jurisdiction of the Commission under 
+subchapter II of chapter 105 of this title (other than motor carriers 
+providing transportation of household goods) and shippers may resolve, 
+by mutual consent, overcharge and undercharge claims resulting from 
+incorrect tariff provisions or billing errors arising from the 
+inadvertent failure to properly and timely file and maintain agreed upon 
+rates, rules, or classifications in compliance with sections 10761 and 
+10762 of this title. Resolution of such claims among the parties shall 
+not subject any party to the penalties of chapter 119 of this title.
+    ``(b) Limitation on Statutory Construction.--Nothing in this section 
+shall relieve the motor carrier of the duty to file and adhere to its 
+rates, rules, and classifications as required in sections 10761 and 
+10762, except as provided in subsection (a) of this section.
+    ``(c) Rulemaking Proceeding.--Not later than 90 days after the date 
+of the enactment of this section, the Commission shall institute a 
+proceeding to establish rules pursuant to which the tariff requirements 
+of sections 10761 and 10762 of this title shall not apply under 
+circumstances described in subsection (a) of this section.''.
+    (b) Conforming Amendment.--The analysis for chapter 117 of title 49, 
+United States Code, is amended by adding at the end the following:
+``11712. Tariff reconciliation rules for motor common carriers of 
+          property.''.
+
+SEC. 5. CUSTOMER ACCOUNT CODES AND RANGE TARIFFS.
+
+    (a) Customer Account Codes.--Section 10762 of title 49, United 
+States Code, is amended by adding at the end the following:
+    ``(h) Customer Account Codes.--No tariff filed by a motor carrier of 
+property with the Commission before, on, or after the date of the 
+enactment of this subsection may be held invalid solely on the basis 
+that a numerical or alpha account code is used in such tariff to 
+designate customers or to describe the applicability of rates. For 
+transportation performed on and after the 180th day following such date 
+of enactment, the name of the customer for each account code must be set 
+forth in the tariff (other than the tariff of a motor carrier providing 
+transportation of household goods).''.
+    (b) Range Tariffs.--Such section is further amended by adding at the 
+end the following:
+    ``(i) Range Tariffs.--No tariff filed by a motor carrier of property 
+with the Commission before, on, or after the date of the enactment of 
+this subsection may be held invalid solely on the basis that the tariff 
+does not show a specific rate or discount for a specific shipment if the 
+tariff is based on a range of rates or discounts for specific classes of 
+shipments. For transportation performed on or after the 180th day 
+following such date of enactment, such a range tariff must identify the 
+specific rate or discount from among the range of rates or discounts 
+contained in such range tariff which is applicable to each specific 
+shipment or must contain an objective means for determining the rate.''.
+
+SEC. 6. CONTRACTS OF MOTOR CONTRACT CARRIERS.
+
+    (a) In General.--Section 10702 of title 49, United States Code, is 
+amended by adding at the end the following new subsection:
+    ``(c) Contracts of Carriage for Motor Contract Carriers.--
+        ``(1) General rule.--A motor contract carrier providing 
+    transportation subject to the jurisdiction of the Commission under 
+    subchapter II of chapter 105 of this title shall enter into a 
+    written agreement, separate from the bill of lading or receipt, for 
+    each contract for the provision of transportation subject to such 
+    jurisdiction which is entered into after the 90th day following the 
+    date of the enactment of this subsection.
+        ``(2) Minimum content requirements.--The written agreement 
+    shall, at a minimum--
+            ``(A) identify the parties thereto;
+            ``(B) commit the shipper to tender and the carrier to 
+        transport a series of shipments;
+            ``(C) contain the contract rate or rates for the 
+        transportation service to be or being provided; and
+            ``(D)(i) state that it provides for the assignment of motor 
+        vehicles for a continuing period of time for the exclusive use 
+        of the shipper; or
+            ``(ii) state that it provides that the service is designed 
+        to meet the distinct needs of the shipper.
+        ``(3) Retention by carrier.--All written agreements entered into 
+    by a motor contract carrier under paragraph (1) shall be retained by 
+    the carrier while in effect and for a minimum period of 3 years 
+    thereafter and shall be made available to the Commission upon 
+    request.
+        ``(4) Random audits by commission.--The Commission shall conduct 
+    periodic random audits to ensure that motor contract carriers are 
+    complying with this subsection and are adhering to the rates set 
+    forth in their agreements.''.
+    (b) Civil Penalty.--Section 11901(g) of such title is amended--
+        (1) by inserting ``or enter into or retain a written agreement 
+    under section 10702(c) of this title'' after ``under this subtitle'' 
+    the first place it appears; and
+        (2) by striking ``or (5)'' and inserting ``(5) does not comply 
+    with section 10702(c) of this title, or (6)''.
+    (c) Criminal Penalty.--Section 11909(b) of such title is amended--
+        (1) by inserting ``or enter into or retain a written agreement 
+    under section 10702(c) of this title'' after ``under this subtitle'' 
+    the first place it appears; and
+        (2) in clause (1) by inserting after ``make that report'' the 
+    following: ``or willfully does not enter into or retain that 
+    agreement''.
+
+SEC. 7. BILLING AND COLLECTING PRACTICES.
+
+    (a) In General.--Subchapter IV of chapter 107 of title 49, United 
+States Code, is amended by adding at the end the following:
+
+``§10767. Billing and collecting practices
+
+    ``(a) Regulations Limiting Reduced Rates.--Not later than 120 days 
+after the date of the enactment of this section, the Commission shall 
+issue regulations that prohibit a motor carrier subject to the 
+jurisdiction of the Commission under subchapter II of chapter 105 of 
+this title from providing a reduction in a rate set forth in its tariff 
+or contract for the provision of transportation of property to any 
+person other than (1) the person paying the motor carrier directly for 
+the transportation service according to the bill of lading, receipt, or 
+contract, or (2) an agent of the person paying for the transportation.
+    ``(b) Disclosure of Actual Rates, Charges, and Allowances.--The 
+regulations of the Commission issued pursuant to this section shall 
+require a motor carrier to disclose, when a document is presented or 
+transmitted electronically for payment to the person responsible 
+directly to the motor carrier for payment or agent of such responsible 
+person, the actual rates, charges, or allowances for the transportation 
+service and shall prohibit any person from causing a motor carrier to 
+present false or misleading information on a document about the actual 
+rate, charge, or allowance to any party to the transaction. Where the 
+actual rate, charge, or allowance is dependent upon the performance of a 
+service by a party to the transportation arrangement, such as tendering 
+a volume of freight over a stated period of time, the motor carrier 
+shall indicate in any document presented for payment to the person 
+responsible directly to the motor carrier for the payment that a 
+reduction, allowance, or other adjustment may apply.
+    ``(c) Payments or Allowances for Certain Services.--The regulations 
+issued by the Commission pursuant to this section shall not prohibit a 
+motor carrier from making payments or allowances to a party to the 
+transaction for services that would otherwise be performed by the motor 
+carrier, such as a loading or unloading service, if the payments or 
+allowances are reasonably related to the cost that such party knows or 
+has reason to know would otherwise be incurred by the motor carrier.''.
+    (b) Conforming Amendment.--The analysis for such subchapter is 
+amended by adding at the end the following new item:
+``10767. Billing and collecting practices.''.
+
+    (c) Violation.--
+        (1) In general.--Section 11901 of such title is amended by 
+    redesignating subsection (l) as subsection (m) and by inserting 
+    after subsection (k) the following:
+    ``(l) Rate Discounts.--A person, or an officer, employee, or agent 
+of that person, that knowingly pays, accepts, or solicits a reduced rate 
+or rates in violation of the regulations issued under section 10767 of 
+this title is liable to the United States for a civil penalty of not 
+less than $5,000 and not more than $10,000 plus 3 times the amount of 
+damages which a party incurs because of such violation. Notwithstanding 
+any other provision of this title, the express civil penalties and 
+damages provided for in this subsection are the exclusive legal 
+sanctions to be imposed under this title for practices found to be in 
+violation of the regulations issued under section 10767 and such 
+violations do not render tariff or contract provisions void or 
+unenforceable.''.
+        (2) Venue.--Section 11901(m)(2) of such title (as redesignated 
+    by paragraph (1)) is amended by striking ``or (k)'' and inserting 
+    ``(k), or (l)''.
+SEC. 8. RESOLUTION OF DISPUTES RELATING TO CONTRACT OR COMMON CARRIER 
+CAPACITIES.
+    Section 11101 of title 49, United States Code, is amended by adding 
+at the end the following:
+    ``(d) Resolution of Disputes Relating to Contract or Common Carrier 
+Capacities.--If a motor carrier (other than a motor carrier providing 
+transportation of household goods) subject to the jurisdiction of the 
+Commission under subchapter II of chapter 105 of this title has 
+authority to provide transportation as both a motor common carrier and a 
+motor contract carrier and a dispute arises as to whether certain 
+transportation is provided in its common carrier or contract carrier 
+capacity and the parties are not able to resolve the dispute 
+consensually, the Commission shall have jurisdiction to, and shall, 
+resolve the dispute.''.
+
+SEC. 9. LIMITATION ON STATUTORY CONSTRUCTION.
+
+    Nothing in this Act (including any amendment made by this Act) shall 
+be construed as limiting or otherwise affecting application of title 11, 
+United States Code, relating to bankruptcy; title 28, United States 
+Code, relating to the jurisdiction of the courts of the United States 
+(including bankruptcy courts); or the Employee Retirement Income 
+Security Act of 1974.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

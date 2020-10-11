@@ -1,0 +1,34 @@
+ 
+--S.893--
+S.893
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend title 18, United States Code, with respect to the criminal penalties
+for copyright infringement.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. CRIMINAL PENALTIES FOR COPYRIGHT INFRINGEMENT.
+  Section 2319(b) of title 18, United States Code, is amended to read
+  as follows:
+  `(b) Any person who commits an offense under subsection (a) of this section--
+  `(1) shall be imprisoned not more than 5 years, or fined in the amount set
+  forth in this title, or both, if the offense consists of the reproduction
+  or distribution, during any 180-day period, of at last 10 copies or
+  phonorecords, of 1 or more copyrighted works, with a retail value of more
+  than $2,500;
+  `(2) shall be imprisoned not more than 10 years, or fined in the amount
+  set forth in this title, or both, if the offense is a second or subsequent
+  offense under paragraph (1); and
+  `(3) shall be imprisoned not more than 1 year, or fined in the amount set
+  forth in this title, or both, in any other case.'.
+SEC. 2. CONFORMING AMENDMENTS.
+  Section 2319(c) of title 18, United States Code, is amended--
+  (1) in paragraph (1) by striking `sound recording', `motion picture',
+  `audiovisual work', `phonorecord',' and inserting `phonorecord'; and
+  (2) in paragraph (2) by striking `118' and inserting `120'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

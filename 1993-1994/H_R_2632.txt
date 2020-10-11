@@ -1,0 +1,197 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2632 Enrolled Bill (ENR)]
+
+        H.R.2632
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To authorize appropriations for the Patent and Trademark Office in the 
+Department
+
+        of Commerce for fiscal year 1994, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Patent and Trademark Office 
+Authorization Act of 1993''.
+SEC. 2. AUTHORIZATION OF AMOUNTS AVAILABLE TO THE PATENT AND TRADEMARK 
+OFFICE.
+    (a) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Patent and Trademark Office for salaries and 
+necessary expenses the sum of $103,000,000 for fiscal year 1994, to be 
+derived from deposits in the Patent and Trademark Office Fee Surcharge 
+Fund established under section 10101 of the Omnibus Budget 
+Reconciliation Act of 1990 (35 U.S.C. note).
+    (b) Fees.--There are also authorized to be made available to the 
+Patent and Trademark Office for fiscal year 1994, to the extent provided 
+in advance in appropriation Acts, such sums as are equal to the amount 
+collected during such fiscal year from fees under title 35, United 
+States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 and 
+following).
+
+SEC. 3. AMOUNTS AUTHORIZED TO BE CARRIED OVER.
+
+    Amounts appropriated or made available pursuant to this Act may 
+remain available until expended.
+
+SEC. 4. ADJUSTMENT OF TRADEMARK FEES.
+
+    Effective on the date of the enactment of this Act, the fee under 
+section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for 
+filing an application for the registration of a trademark shall be $245. 
+Any adjustment of such fee under the second sentence of such section may 
+not be effective before October 1, 1994.
+
+SEC. 5. INTERIM PATENT EXTENSIONS.
+
+    Section 156 of title 35, United States Code, is amended--
+        (1) in subsection (c)(4) by striking out ``extended'' and 
+    inserting ``extended under subsection (e)(1)'';
+        (2) in the second sentence of subsection (d)(1) by striking 
+    ``Such'' and inserting ``Except as provided in paragraph (5), 
+    such''; and
+        (3) by adding at the end of subsection (d) the following new 
+    paragraph:
+    ``(5)(A) If the owner of record of the patent or its agent 
+reasonably expects that the applicable regulatory review period 
+described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), 
+or (5)(B)(ii) of subsection (g) that began for a product that is the 
+subject of such patent may extend beyond the expiration of the patent 
+term in effect, the owner or its agent may submit an application to the 
+Commissioner for an interim extension during the period beginning 6 
+months, and ending 15 days, before such term is due to expire. The 
+application shall contain--
+        ``(i) the identity of the product subject to regulatory review 
+    and the Federal statute under which such review is occurring;
+        ``(ii) the identity of the patent for which interim extension is 
+    being sought and the identity of each claim of such patent which 
+    claims the product under regulatory review or a method of using or 
+    manufacturing the product;
+        ``(iii) information to enable the Commissioner to determine 
+    under subsection (a)(1), (2), and (3) the eligibility of a patent 
+    for extension;
+        ``(iv) a brief description of the activities undertaken by the 
+    applicant during the applicable regulatory review period to date 
+    with respect to the product under review and the significant dates 
+    applicable to such activities; and
+        ``(v) such patent or other information as the Commissioner may 
+    require.
+    ``(B) If the Commissioner determines that, except for permission to 
+market or use the product commercially, the patent would be eligible for 
+an extension of the patent term under this section, the Commissioner 
+shall publish in the Federal Register a notice of such determination, 
+including the identity of the product under regulatory review, and shall 
+issue to the applicant a certificate of interim extension for a period 
+of not more than 1 year.
+    ``(C) The owner of record of a patent, or its agent, for which an 
+interim extension has been granted under subparagraph (B), may apply for 
+not more than 4 subsequent interim extensions under this paragraph, 
+except that, in the case of a patent subject to subsection (g)(6)(C), 
+the owner of record of the patent, or its agent, may apply for only 1 
+subsequent interim extension under this paragraph. Each such subsequent 
+application shall be made during the period beginning 60 days before, 
+and ending 30 days before, the expiration of the preceding interim 
+extension.
+    ``(D) Each certificate of interim extension under this paragraph 
+shall be recorded in the official file of the patent and shall be 
+considered part of the original patent.
+    ``(E) Any interim extension granted under this paragraph shall 
+terminate at the end of the 60-day period beginning on the date on which 
+the product involved receives permission for commercial marketing or 
+use, except that, if within that 60-day period the applicant notifies 
+the Commissioner of such permission and submits any additional 
+information under paragraph (1) of this subsection not previously 
+contained in the application for interim extension, the patent shall be 
+further extended, in accordance with the provisions of this section--
+        ``(i) for not to exceed 5 years from the date of expiration of 
+    the original patent term; or
+        ``(ii) if the patent is subject to subsection (g)(6)(C), from 
+    the date on which the product involved receives approval for 
+    commercial marketing or use.
+    ``(F) The rights derived from any patent the term of which is 
+extended under this paragraph shall, during the period of interim 
+extension--
+        ``(i) in the case of a patent which claims a product, be limited 
+    to any use then under regulatory review;
+        ``(ii) in the case of a patent which claims a method of using a 
+    product, be limited to any use claimed by the patent then under 
+    regulatory review; and
+        ``(iii) in the case of a patent which claims a method of 
+    manufacturing a product, be limited to the method of manufacturing 
+    as used to make the product then under regulatory review.''.
+
+SEC. 6. CONFORMING AMENDMENTS.
+
+    Section 156 of title 35, United States Code, is amended--
+        (1) in subsection (a)--
+            (A) in paragraph (1) by striking ``(d)'' and inserting 
+        ``(d)(1)''; and
+            (B) in paragraph (3) by striking ``subsection (d)'' and 
+        inserting ``paragraphs (1) through (4) of subsection (d)'';
+        (2) in subsection (b) by striking ``The rights'' and inserting 
+    ``Except as provided in subsection (d)(5)(F), the rights''; and
+        (3) in subsection (e)--
+            (A) in paragraph (1) by striking ``subsection (d)'' and 
+        inserting ``paragraphs (1) through (4) of subsection (d)''; and
+            (B) in paragraph (2) by striking ``(d)'' and inserting 
+        ``(d)(1)''.
+
+SEC. 7. PATENT TERM EXTENSIONS FOR AMERICAN LEGION.
+
+    (a) Badge of American Legion.--The term of a certain design patent 
+numbered 54,296 (for the badge of the American Legion) is renewed and 
+extended for a period of 14 years beginning on the date of enactment of 
+this Act, with all the rights and privileges pertaining to such patent.
+    (b) Badge of American Legion Women's Auxiliary.--The term of a 
+certain design patent numbered 55,398 (for the badge of the American 
+Legion Women's Auxiliary) is renewed and extended for a period of 14 
+years beginning on the date of enactment of this Act, with all the 
+rights and privileges pertaining to such patent.
+    (c) Badge of Sons of the American Legion.--The term of a certain 
+design patent numbered 92,187 (for the badge of the Sons of the American 
+Legion) is renewed and extended for a period of 14 years beginning on 
+the date of enactment of this Act, with all the rights and privileges 
+pertaining to such patent.
+
+SEC. 8. INTERVENING RIGHTS.
+
+    The renewals and extensions of the patents under section 6 shall not 
+result in infringement of any such patent on account of any use of the 
+subject matter of the patent, or substantial preparation for such use, 
+which began after the patent expired, but before the date of the 
+enactment of this Act.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

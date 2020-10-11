@@ -1,0 +1,37 @@
+ 
+--H.R.5872--
+H.R.5872
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend title I of the Employee Retirement Income Security Act of 1974
+to require
+qualifying employer securities to include interest in publicly traded
+partnerships.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. QUALIFYING EMPLOYER SECURITY TO INCLUDE INTEREST IN PUBLICLY
+TRADED PARTNERSHIPS.
+ Paragraph (5) of section 407(d) of the Employee Retirement Income Security
+ Act of 1974 (29 U.S.C. 1107(d)(5)) is amended to read as follows:
+ `(5) The term `qualifying employer security' means an employer security
+ which is--
+ `(A) stock,
+ `(B) a marketable obligation (as defined in subsection (e)), or
+ `(C) an interest in a publicly traded partnership (as defined in section
+ 7704(b) of the Internal Revenue Code of 1986), but only if such partnership
+ is an existing partnership as defined in section 10211(c)(2)(A) of the
+ Revenue Act of 1987 (Public Law 100-203).
+After December 17, 1987, in the case of a plan other than an eligible
+individual account plan, an employer security described in subparagraph
+(A) or (C) shall be considered a qualifying employer security only if such
+employer security satisfies the requirements of subsection (f)(1).'.
+SEC. 2. EFFECTIVE DATE.
+ The amendment made by section 1 shall apply to interests in publicly traded
+ partnerships acquired before, on, or after January 1, 1987.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

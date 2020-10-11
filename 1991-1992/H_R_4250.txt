@@ -1,0 +1,404 @@
+ 
+--H.R.4250--
+H.R.4250
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To authorize appropriations for the National Railroad Passenger Corporation,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Amtrak Authorization and Development Act'.
+SEC. 2. SAFETY IMPROVEMENTS.
+  Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) is
+  amended by adding at the end the following new section:
+`SEC. 811. RAIL AT-GRADE CROSSINGS.
+  `(a) ELIMINATION- The Secretary, in consultation with the States along the
+  main line of the Northeast Corridor, shall develop a plan by September 30,
+  1993, for the elimination of all highway at-grade crossings of such main
+  line by December 31, 1997.
+  `(b) EXCEPTIONS- The plan developed under subsection (a) may provide
+  that the elimination of a highway at-grade crossing not be required if
+  eliminating such crossing is impracticable or unnecessary and the use
+  of the crossing will be consistent with such conditions as the Secretary
+  considers appropriate to ensure safety.
+  `(c) FUNDING- The Corporation shall pay 20 percent of the cost of the
+  elimination of each highway at-grade crossing pursuant to the plan.'.
+SEC. 3. EXPERIMENTATION WITH NEW TECHNOLOGIES.
+  Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) (as
+  amended by section 2) is amended by adding at the end the following new
+  section:
+`SEC. 812. EXPERIMENTATION WITH NEW TECHNOLOGIES.
+  `(a) PLAN- The Corporation shall develop a plan for the demonstration of new
+  technologies in rail passenger equipment. Such plan shall provide that any
+  new equipment procured by the Corporation that may significantly increase
+  train speeds over existing rail facilities shall be demonstrated, to the
+  extent practicable, throughout the national intercity rail passenger system.
+  `(b) REPORT TO CONGRESS- The Corporation shall, not later than September
+  30, 1993, submit to the Committee on Energy and Commerce of the House of
+  Representatives and the Committee on Commerce, Science, and Transportation
+  of the Senate a report summarizing the plan developed under subsection
+  (a), including its goals, locations for technology demonstration, and a
+  schedule for implementation of the plan.
+  `(c) COOPERATION- The Corporation, in order to facilitate efforts to increase
+  train speeds throughout the national intercity rail passenger system,
+  shall, upon request by eligible applicants, consult and cooperate, to the
+  extent feasible, with such applicants proposing technology demonstrations
+  authorized and funded pursuant to Federal law.'.
+SEC. 4. NORTHEAST CORRIDOR PROGRAM MASTER PLAN.
+  (a) AMENDMENT- Title VII of the Railroad Revitalization and Regulatory
+  Reform Act of 1976 (45 U.S.C. 851 et seq.) is amended by adding at the
+  end the following new section:
+`SEC. 708. PROGRAM MASTER PLAN.
+  `Within 1 year after the date of enactment of this section, the
+  Secretary, in consultation with the Corporation and the commuter and
+  freight railroads operating over the Northeast Corridor main line between
+  Boston, Massachusetts, and New York, New York, shall develop and submit
+  to the Committee on Energy and Commerce of the House of Representatives
+  and the Committee on Commerce, Science, and Transportation of the Senate
+  a program master plan for a coordinated program of improvements to such
+  main line that will permit the establishment of regularly scheduled, safe,
+  and dependable rail passenger service between Boston, Massachusetts, and
+  New York, New York, including appropriate intermediate stops, in 3 hours
+  or less. Such plan shall include--
+  `(1) a description of the implications of such improvements for the
+  regional transportation system, including the probable effects on general
+  travel trends and on travel volumes in other transportation modes, and the
+  implications for State and local governments in attaining compliance with
+  the Clean Air Act;
+  `(2) an identification of the coordinated program of improvements and the
+  specific projects that comprise that program, including their estimated
+  costs, schedules, timing, and relationship with other projects;
+  `(3) an identification of the financial responsibility for the specific
+  projects that comprise the program, and the sources of those funds;
+  `(4) an operating plan for the period of construction of the improvements
+  demonstrating a coordinated approach to scheduling intercity and commuter
+  trains;
+  `(5) an operating plan, for the period after completion of the program,
+  for the coordinated scheduling of intercity and commuter trains, including
+  the provision of priority scheduling, dispatching, and occupancy of tracks
+  for appropriately frequent, regularly scheduled intercity rail passenger
+  service of 3 hours or less between Boston, Massachusetts, and New York,
+  New York, with appropriate intermediate stops;
+  `(6) a comprehensive plan to control future congestion on the Northeast
+  Corridor attributable to increases in intercity and commuter rail passenger
+  service;
+  `(7) an assessment of long-term operational safety needs and a list of
+  specific projects designed to maximize operational safety; and
+  `(8) any comments the Corporation submits to the Secretary regarding the
+  contents of the plan.
+The Secretary shall submit to the Congress any modifications made to the
+program master plan, along with any comments the Corporation submits to the
+Secretary regarding such modifications.'.
+  (b) CONFORMING AMENDMENT- The table of contents for the Railroad
+  Revitalization and Regulatory Reform Act of 1976 is amended by inserting
+  after the item relating to section 707 the following new item:
+`Sec. 708. Program master plan.'.
+SEC. 5. AUTHORIZATION OF PREFERRED STOCK.
+  Section 304(c) of the Rail Passenger Service Act (45 U.S.C. 544(c)) is
+  amended by adding at the end the following new paragraph:
+  `(4) No amendment to the articles of incorporation of the Corporation shall
+  be required for the issuance of the preferred stock required to be issued
+  pursuant to this subsection.'.
+SEC. 6. PROPERTY FINANCING.
+  Section 306(n) of the Rail Passenger Service Act (45 U.S.C. 546(n)) is
+  amended to read as follows:
+  `(n)(1) The Corporation shall not be required to pay any additional taxes
+  as a consequence of its expenditure of funds to acquire or improve real
+  property, equipment, facilities, or right-of-way materials or structures
+  used directly or indirectly in the provision of rail passenger service. For
+  purposes of this subsection, `additional taxes' means taxes or fees (A) on
+  the acquisition, improvement, ownership, or operation of personal property
+  by the Corporation; and (B) on real property other than taxes or fees on the
+  acquisition of real property, or on the value of real property which is not
+  attributable to improvements made, or the operation of such improvements,
+  by the Corporation.
+  `(2) For purposes of this subsection, the term `Corporation' includes the
+  Corporation's railroad subsidiaries and any lessors and lessees of the
+  Corporation or its railroad subsidiaries.'.
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS.
+  (a) AUTHORIZATION OF APPROPRIATIONS- Section 601 of the Rail Passenger
+  Service Act (45 U.S.C. 601) is amended to read as follows:
+`SEC. 601. AUTHORIZATION OF APPROPRIATIONS.
+  `(a) Capital Acquisition and Corridor Development-
+  `(1) NORTHEAST CORRIDOR- There are authorized to be appropriated to the
+  Secretary for the benefit of the Corporation for making capital expenditures
+  under title VII of the Railroad Revitalization and Regulatory Improvement
+  Act of 1976 (45 U.S.C. 851 et seq.)--
+  `(A) $220,000,000 for fiscal year 1993; and
+  `(B) $250,000,000 for fiscal year 1994.
+  `(2) GENERAL CAPITAL EXPENDITURES- There are authorized to be appropriated
+  to the Secretary for the benefit of the Corporation for making capital
+  expenditures under this Act--
+  `(A) $250,000,000 for fiscal year 1993; and
+  `(B) $250,000,000 for fiscal year 1994.
+  `(3) New corridor development-
+  `(A) IN GENERAL- Of the amounts appropriated pursuant to paragraphs (1)
+  and (2), not more than 15 percent of each amount shall be made available
+  for projects described in subparagraphs (B) and (C) of this paragraph.
+  `(B) CORRIDORS BETWEEN DENSELY POPULATED CITIES- (i) Except as provided
+  in clause (ii), funds made available under subparagraph (A) shall be used
+  to develop new intercity rail passenger service on corridors--
+  `(I) between cities undergoing significant population growth; and
+  `(II) where such service can reasonably be expected to provide travel
+  times comparable with other surface transportation modes.
+  `(ii) Amounts shall be expended for the purposes described in clause (i)
+  only if the service is requested by a State or States and the Corporation
+  and such State or States agree that--
+  `(I) at least 90 percent of the cost of the acquisition of rolling stock
+  for such service shall be paid by the Corporation; and
+  `(II) at least 90 percent of the cost of improvements in the right-of-way,
+  including track structure, signal systems, passenger station facilities,
+  highway and pedestrian grade crossings, and other safety equipment or
+  facilities, shall be paid by the State or States.
+  `(iii) Service described in clause (i) shall be subject to section 403(b)
+  with respect to operating expenses.
+  `(C) LONG DISTANCE RAIL PASSENGER CORRIDOR DEVELOPMENT- (i) Except as
+  provided in clause (ii), funds made available under subparagraph (A)
+  shall be used to initiate new long distance intercity rail passenger service.
+  `(ii) Amounts shall be expended for the purposes described in clause (i)
+  only if the service is requested by a State or States and the Corporation
+  and such State or States agree that--
+  `(I) at least 75 percent of the cost of the acquisition of rolling stock
+  for such service shall be paid by the Corporation; and
+  `(II) at least 90 percent of the cost of improvements in the right-of-way,
+  including track structure, signal systems, passenger station facilities,
+  highway and pedestrian grade crossings, and other safety equipment or
+  facilities, shall be paid by the State or States.
+  `(iii) Service described in clause (i) shall be subject to section 403(b)
+  with respect to operating expenses.
+  `(b) OPERATING EXPENSES-
+  `(1) CORE SYSTEM- There are authorized to be appropriated to the Secretary
+  for the benefit of the Corporation for operating expenses--
+  `(A) $381,000,000 for fiscal year 1993; and
+  `(B) $381,000,000 for fiscal year 1994.
+Of the amounts appropriated in subparagraphs (A) and (B), not more than
+5 percent for each fiscal year shall be used for the payment of operating
+expenses under section 403(b) of this Act for service in operation as of
+September 30, 1992.
+  `(2) NEW STATE-SUPPORTED SERVICE- There are authorized to be appropriated to
+  the Secretary for the benefit of the Corporation for operating losses under
+  section 403(b) of this Act for service commencing after September 30, 1992--
+  `(A) $7,500,000 for fiscal year 1993; and
+  `(B) $9,500,000 for fiscal year 1994.
+The expenditure by the Corporation of funds appropriated for operating losses
+under section 403(b) of this Act for service commencing after September 30,
+1992, shall not be considered to be an operating expense for purposes of
+calculating the revenue-to-operating expense ratio of the Corporation.
+  `(c) MANDATORY PAYMENTS- There are authorized to be appropriated to the
+  Secretary $150,000,000 for fiscal year 1993, and such sums as may be
+  necessary for fiscal year 1994, for the payment of--
+  `(1) tax liabilities under section 3221 of the Internal Revenue Code of
+  1986 due in such fiscal years in excess of amounts needed to fund benefits
+  for individuals who retire from the Corporation and for their beneficiaries;
+  `(2) obligations of the Corporation under section 8(a) of the Railroad
+  Unemployment Insurance Act (45 U.S.C. 358(a)) due in such fiscal years in
+  excess of its obligations calculated on an experience-rated basis; and
+  `(3) obligations of the Corporation due under section 3321 of the Internal
+  Revenue Code of 1986.
+Funds appropriated under this subsection shall not be considered a Federal
+subsidy of the Corporation.
+  `(d) ADMINISTRATION OF APPROPRIATIONS- Funds appropriated pursuant to this
+  section shall be made available to the Secretary during the fiscal year for
+  which appropriated, except that appropriations for capital acquisitions
+  and improvements may be made in an appropriations Act for a fiscal year
+  preceding the fiscal year in which the appropriation is to be available
+  for obligation. Funds appropriated are authorized to remain available until
+  expended. Appropriated sums shall be paid by the Secretary to the Corporation
+  for expenditure by it in accordance with the Secretary's budget request
+  as approved or modified by Congress at the time of appropriation. Payments
+  by the Secretary to the Corporation of appropriated funds shall be made no
+  more frequently than every 90 days, unless the Corporation, for good cause,
+  requests more frequent payment before the expiration of any 90-day period.
+  `(e) SCHEDULE OF PAYMENTS- In each fiscal year in which funds are authorized
+  to be appropriated under this section, payments by the Secretary to the
+  Corporation of appropriated funds shall be made on the following basis--
+  `(1) 50 percent on the first day of a fiscal year;
+  `(2) 25 percent on the first day of the second quarter of a fiscal year; and
+  `(3) 25 percent on the first day of the third quarter of a fiscal year.'.
+  (b) CONFORMING AMENDMENT- Section 403(b)(1)(B)(iii) of the Rail Passenger
+  Service Act (45 U.S.C. 563(b)(1)(B)(iii)) is amended by striking `and 50
+  percent of the associated capital costs' and inserting in lieu thereof
+  `and, except as provided in section 601(a), 50 percent of the associated
+  capital costs'.
+  (c) REPEAL- Section 602 of the Rail Passenger Service Act (45 U.S.C. 602)
+  is repealed.
+SEC. 8. DEFINITION.
+  Section 103 of the Rail Passenger Service Act (45 U.S.C. 502) is amended--
+  (1) by redesignating paragraphs (13) through (17) as paragraphs (14)
+  through (18), respectively; and
+  (2) by inserting after paragraph (12) the following new paragraph:
+  `(13) `Northeast Corridor' has the meaning given such term in section
+  701(c) of the Railroad Revitalization and Regulatory Reform Act of 1976
+  (45 U.S.C. 851(c)).'.
+SEC. 9. HIGH SPEED RAIL CORRIDOR DEVELOPMENT.
+  Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) (as
+  amended by section 3) is amended by adding at the end the following new
+  section:
+`SEC. 813. HIGH SPEED RAIL CORRIDOR DEVELOPMENT.
+  `(a) ENCOURAGEMENT AND ASSISTANCE- The Corporation shall, upon reasonable
+  request by States, political subdivisions, regional partnerships, private
+  sector representatives, and other qualified persons, consult and cooperate
+  with such parties to the extent feasible to assist the efforts of such
+  parties to achieve high-speed rail service through equipment upgrades,
+  grade-crossing safety improvements, and incremental infrastructure
+  improvements on existing railroad facilities utilized by the Corporation,
+  other than the Northeast Corridor.
+  `(b) REPORT- The Corporation shall submit a written report to the Committee
+  on Energy and Commerce of the House of Representatives and the Committee
+  on Commerce, Science, and Transportation of the Senate by September 30,
+  1993, on the Corporation's efforts under subsection (a).'.
+SEC. 10. DISCONTINUATION, MODIFICATION, OR ALTERATION OF CERTAIN RAIL
+PASSENGER SERVICES.
+  Section 403(d) of the Rail Passenger Service Act (45 U.S.C. 563(d))
+  is amended by inserting at the end the following: `Notwithstanding the
+  second sentence of this subsection, on any date between October 1, 1993,
+  and September 30, 1995, if the service operated pursuant to this paragraph
+  on a route during the previous 6-month period has a short-term avoidable
+  loss, the Corporation may elect to consider discontinuance, modification,
+  or adjustment of such service. If such election is made, the Corporation
+  shall solicit public comment on alternatives to discontinuance, modification,
+  or adjustment of such service. The public comment period shall be at least
+  30 days. Within 60 days after the expiration of that comment period, the
+  Corporation may discontinue, modify, or adjust such service so that there
+  is no short-term avoidable loss for operation of service pursuant to this
+  subsection on the route. For purposes of this paragraph the calculation of
+  short-term avoidable loss shall not include the cost of providing passenger
+  equipment required to operate such service.'.
+SEC. 11. EMERGENCY TRAINING AND RESPONSE.
+  Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) (as
+  amended by section 9) is amended by adding at the end the following new
+  section:
+`SEC. 814. EMERGENCY TRAINING AND RESPONSE.
+  `(a) TASK FORCE- The Corporation, together with representatives from each
+  of the on-board service and operating crafts and unions, shall form a
+  task force to consider recommendations for improving emergency training and
+  performance of on-board service and operating crew members. A representative
+  of the Federal Railroad Administration shall serve on the task force. The
+  task force shall convene its first meeting within 90 days following the
+  date of enactment of this section.
+  `(b) MATTERS TO BE CONSIDERED- The task force formed under subsection (a)
+  shall consider, at a minimum--
+  `(1) whether the Corporation's emergency training and drill program as
+  presently constituted is adequate, and if not, in what ways it can be
+  augmented or improved;
+  `(2) whether medical first-aid training, including cardiopulmonary
+  resuscitation, should be required for all on-board service crew members;
+  `(3) whether the Corporation's requirements with respect to employee
+  responsibilities for passenger evacuation, emergency communications,
+  crew coordination, and disaster response should be coordinated; and
+  `(4) whether certification of the Corporation's emergency training
+  program and evacuation procedures by the Federal Railroad Administration
+  is warranted.
+In considering the matters described in paragraphs (1) through (4), the
+task force shall address relevant prior recommendations and findings by the
+National Transportation Safety Board.
+  `(c) REPORT- Not later than June 1, 1993, the task force shall report to
+  the Committee on Energy and Commerce of the House of Representatives and
+  the Committee on Commerce, Science, and Transportation of the Senate on its
+  findings in subsection (b), together with a summary of actions implemented
+  to date and recommendations for future action.'.
+SEC. 12. COLUMBUS AND GREENVILLE RAILWAY.
+  (a) IN GENERAL- Title V of the Railroad Revitalization and Regulatory
+  Reform Act of 1976 (45 U.S.C. 821 et seq.) is amended by adding at the
+  end the following new section:
+`SEC. 518. COLUMBUS AND GREENVILLE RAILWAY.
+  `(a) LIMITATION OF UNITED STATES INTEREST- Notwithstanding any other
+  provision of this title, the Secretary shall limit the interest of the
+  United States in any debt of the Columbus and Greenville Railway under
+  sections 505 and 511 of this title to an interest which attaches to such
+  debt in the event of (1) bankruptcy, or (2) substantial sale or liquidation
+  of the assets of the railroad, the proceeds of which are not reinvested
+  in the operations of the railroad. The Secretary may substitute for the
+  evidence of such debt contingency notes payable solely from the railroad
+  operating assets then securing such debt, including reinvestments thereof,
+  or such other contingency notes as the Secretary deems appropriate and
+  which conform to the terms in this section.
+  `(b) HIGHER PRIORITY FOR NEW DEBT- If the interest of the United States
+  is limited under subsection (a) of this section, any new debt issued by
+  such railroad subsequent to the issuance of the debt described in such
+  subsection may have such higher priority in the event of bankruptcy,
+  liquidation, or abandonment of the assets of such a railroad than the debt
+  described in such subsection as the Secretary and railroad may agree.'.
+  (b) CONFORMING AMENDMENT- The table of contents in the first section of
+  the Railroad Revitalization and Regulatory Reform Act of 1976 is amended by
+  inserting immediately after the item relating to section 517 the following
+  new item:
+`Sec. 518. Columbus and Greenville Railway.'.
+SEC. 13. NEW YORK CITY STATION FACILITIES.
+  Title VIII of the Rail Passenger Service Act (455 U.S.C. 642 et seq.) (as
+  amended by section 11) is amended by adding at the end the following
+  new section:
+`SEC. 815. NEW YORK CITY STATION FACILITIES.
+  `The Corporation shall develop a plan for new or redeveloped station
+  facilities in New York City, New York, to accommodate the intercity rail
+  passenger service requirements of the Corporation, along with needs of the
+  commuter rail services currently using New York Penn Station. In developing
+  the plan, the Corporation shall consider use of the James A. Farley Post
+  Office building as the primary facility for handling intercity passengers,
+  shall evaluate sources of State, local, and private funding therefor,
+  and shall determine the future allocation of space and costs in the
+  existing New York Penn Station and new facilities among all transportation
+  services using the facilities. The plan shall be predicated upon completing
+  the project without Federal funds appropriated for the Corporation. The
+  Corporation shall submit a report to the Committee on Energy and Commerce
+  of the House of Representatives and the Committee on Commerce, Science,
+  and Transportation of the Senate on such plan no later than April 1, 1993.'.
+SEC. 14. LOCOMOTIVE CONSPICUITY.
+  Section 202 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431)
+  is amended by adding at the end the following new subsection:
+  `(u) LOCOMOTIVE CONSPICUITY-
+  `(1) The Secretary shall conduct a review of the Department of
+  Transportation's  rules with respect to locomotive conspicuity and shall
+  complete the Department's current locomotive conspicuity research no later
+  than December 31, 1993. As part of this review, the Secretary shall collect
+  relevant data from operational experience by railroads having enhanced
+  conspicuity measures in service.
+  `(2) Not later than December 31, 1992, the Secretary shall issue interim
+  regulations identifying ditch lights, crossing lights, strobe lights,
+  and oscillating lights as interim locomotive conspicuity measures, and
+  authorizing and encouraging installation and use of such measures. The
+  interim regulations and any amendments  thereto shall be adopted without
+  regard to subchapter II of chapter 5 of title 5, United States Code. Any
+  locomotive equipped with such interim conspicuity measures on the date of
+  issuance of final regulations under paragraph (3) shall be considered in
+  full compliance with such final regulations until 4 years after issuance
+  of such final regulations.
+  `(3) Not later than June 30, 1994, the Secretary shall initiate a rulemaking
+  proceeding to issue  final regulations requiring substantially enhanced
+  locomotive conspicuity measures. In such rulemaking proceeding, the
+  Secretary shall consider, at a minimum--
+  `(A) revisions to the existing locomotive headlight standard, including
+  standards for placement and intensity;
+  `(B) requiring use  of reflective materials to enhance locomotive
+  conspicuity:
+  `(C) requiring use of additional alerting lights (including ditch, crossing,
+  strobe, and oscillating lights);
+  `(D) requiring use of auxiliary lights to enhance locomotive  conspicuity
+  when viewed from the side;
+  `(E) the effect of any enhanced conspicuity measures on the vision, health,
+  and safety of train crew members;
+  `(F) separate standards for self-propelled, push-pull and multi-unit
+  passenger operations without a dedicated head-end locomotive.
+  `(4) In issuing regulations under paragraph (3), the Secretary may
+  exclude from any specific conspicuity requirement and category of trains
+  or rail operations if the Secretary determines that such an exclusion
+  is in the public interest and is  consistent with rail safety (including
+  grade-crossing safety).
+  `(5) The Secretary shall issue final regulations requiring enhanced
+  locomotive conspicuity measures no later than June 30, 1995. The Secretary
+  shall require that all locomotives not excluded from the regulations be
+  equipped  with interim conspicuity measures under paragraph (2) or the
+  conspicuity measures mandated by final regulations issued under this
+  paragraph, no later than December 31, 1997.
+  `(6) As used in this subsection, the term `locomotive conspicuity' means
+  the enhancement of day and night visibility of the front-end unit of a
+  train, by means of lighting, reflective materials, or other means, with
+  particular consideration to the visibility and perspective of drivers of
+  motor vehicles at grade crossings.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

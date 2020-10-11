@@ -1,0 +1,803 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4867 Enrolled Bill (ENR)]
+
+        H.R.4867
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To authorize appropriations for high-speed rail transportation, and 
+for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+                        TITLE I--HIGH-SPEED RAIL
+
+SEC. 101. SHORT TITLE.
+
+    This title may be cited as the ``Swift Rail Development Act of 
+1994''.
+
+SEC. 102. FINDINGS; PURPOSE.
+
+    (a) Findings.--The Congress finds that--
+        (1) high-speed rail offers safe and efficient transportation in 
+    certain densely traveled corridors linking major metropolitan areas 
+    in the United States;
+        (2) high-speed rail may have environmental advantages over 
+    certain other forms of intercity transportation;
+        (3) Amtrak's Metroliner service between Washington, District of 
+    Columbia, and New York, New York, the United States premier high-
+    speed rail service, has shown that Americans will use high-speed 
+    rail when that transportation option is available;
+        (4) new high-speed rail service should not receive Federal 
+    subsidies for operating and maintenance expenses;
+        (5) State and local governments should take the prime 
+    responsibility for the development and implementation of high-speed 
+    rail service;
+        (6) the private sector should participate in funding the 
+    development of high-speed rail systems;
+        (7) in some intercity corridors, Federal planning assistance 
+    may be required to supplement the funding commitments of State and 
+    local governments and the private sector to ensure the adequate 
+    planning, including reasonable estimates of the costs and benefits, 
+    of high-speed rail systems;
+        (8) improvement of existing technologies can facilitate the 
+    development of high-speed rail systems in the United States; and
+        (9) Federal assistance is required for the improvement, 
+    adaptation, and integration of proven technologies for commercial 
+    application in high-speed rail service in the United States.
+    (b) Purpose.--The purpose of this title is to encourage farsighted 
+State, local, and private efforts in the analysis and planning for 
+high-speed rail systems in appropriate intercity corridors.
+
+SEC. 103. NATIONAL HIGH-SPEED RAIL ASSISTANCE PROGRAM.
+
+    (a) Amendments.--(1) Part D of subtitle V of title 49, United 
+States Code, is redesignated as part E, chapter 261 of such title is 
+redesignated as chapter 281, and sections 26101 and 26102 of such title 
+are redesignated as sections 28101 and 28102.
+    (2) Subtitle V of title 49, United States Code, is amended by 
+inserting after part C the following new part:
+
+                       ``PART D--HIGH-SPEED RAIL
+
+               ``CHAPTER 261--HIGH-SPEED RAIL ASSISTANCE
+
+``Sec.
+``26101. Corridor planning.
+``26102. High-speed rail technology improvements.
+``26103. Safety regulations.
+``26104. Authorization of appropriations.
+``26105. Definitions.
+
+``Sec. 26101. Corridor planning
+
+    ``(a) Corridor Planning Assistance.--(1) The Secretary may provide 
+under this section financial assistance to a public agency or group of 
+public agencies for corridor planning for up to 50 percent of the 
+publicly financed costs associated with eligible activities.
+    ``(2) No less than 20 percent of the publicly financed costs 
+associated with eligible activities shall come from State and local 
+sources, which State and local sources may not include funds from any 
+Federal program.
+    ``(b) Eligible Activities.--(1) A corridor planning activity is 
+eligible for financial assistance under subsection (a) if the Secretary 
+determines that it is necessary to establish appropriate engineering, 
+operational, financial, environmental, or socioeconomic projections for 
+the establishment of high-speed rail service in the corridor and that 
+it leads toward development of a prudent financial and institutional 
+plan for implementation of specific high-speed rail improvements. 
+Eligible corridor planning activities include--
+        ``(A) environmental assessments;
+        ``(B) feasibility studies emphasizing commercial technology 
+    improvements or applications;
+        ``(C) economic analyses, including ridership, revenue, and 
+    operating expense forecasting;
+        ``(D) assessing the impact on rail employment of developing 
+    high-speed rail corridors;
+        ``(E) assessing community economic impacts;
+        ``(F) coordination with State and metropolitan area 
+    transportation planning and corridor planning with other States;
+        ``(G) operational planning;
+        ``(H) route selection analyses and purchase of rights-of-way 
+    for proposed high-speed rail service;
+        ``(I) preliminary engineering and design;
+        ``(J) identification of specific improvements to a corridor, 
+    including electrification, line straightening and other right-of-
+    way improvements, bridge rehabilitation and replacement, use of 
+    advanced locomotives and rolling stock, ticketing, coordination 
+    with other modes of transportation, parking and other means of 
+    passenger access, track, signal, station, and other capital work, 
+    and use of intermodal terminals;
+        ``(K) preparation of financing plans and prospectuses; and
+        ``(L) creation of public/private partnerships.
+    ``(2) No financial assistance shall be provided under this section 
+for corridor planning with respect to the main line of the Northeast 
+Corridor, between Washington, District of Columbia, and Boston, 
+Massachusetts.
+    ``(c) Criteria for Determining Financial Assistance.--Selection by 
+the Secretary of recipients of financial assistance under this section 
+shall be based on such criteria as the Secretary considers appropriate, 
+including--
+        ``(1) the relationship of the corridor to the Secretary's 
+    national high-speed ground transportation policy;
+        ``(2) the extent to which the proposed planning focuses on 
+    systems which will achieve sustained speeds of 125 mph or greater;
+        ``(3) the integration of the corridor into metropolitan area 
+    and statewide transportation planning;
+        ``(4) the potential interconnection of the corridor with other 
+    parts of the Nation's transportation system, including the 
+    interconnection with other countries;
+        ``(5) the anticipated effect of the corridor on the congestion 
+    of other modes of transportation;
+        ``(6) whether the work to be funded will aid the efforts of 
+    State and local governments to comply with the Clean Air Act (42 
+    U.S.C. 7401 et seq.);
+        ``(7) the past and proposed financial commitments and other 
+    support of State and local governments and the private sector to 
+    the proposed high-speed rail program, including the acquisition of 
+    rolling stock;
+        ``(8) the estimated level of ridership;
+        ``(9) the estimated capital cost of corridor improvements, 
+    including the cost of closing, improving, or separating highway-
+    rail grade crossings;
+        ``(10) rail transportation employment impacts;
+        ``(11) community economic impacts;
+        ``(12) the extent to which the projected revenues of the 
+    proposed high-speed rail service, along with any financial 
+    commitments of State or local governments and the private sector, 
+    are expected to cover capital costs and operating and maintenance 
+    expenses;
+        ``(13) whether a specific route has been selected, specific 
+    improvements identified, and capacity studies completed; and
+        ``(14) whether the corridor has been designated as a high-speed 
+    rail corridor by the Secretary.
+
+``Sec. 26102. High-speed rail technology improvements
+
+    ``(a) Authority.--The Secretary may undertake activities for the 
+improvement, adaptation, and integration of proven technologies for 
+commercial application in high-speed rail service in the United States.
+    ``(b) Eligible Recipients.--In carrying out activities authorized 
+by subsection (a), the Secretary may provide financial assistance to 
+any United States private business, educational institution located in 
+the United States, State or local government or public authority, or 
+agency of the Federal Government.
+    ``(c) Consultation With Other Agencies.--In carrying out activities 
+authorized by subsection (a), the Secretary shall consult with such 
+other governmental agencies as may be necessary concerning the 
+availability of appropriate technologies for commercial application in 
+high-speed rail service in the United States.
+
+``Sec. 26103. Safety regulations
+
+    ``The Secretary shall promulgate such safety regulations as may be 
+necessary for high-speed rail services.
+
+``Sec. 26104. Authorization of appropriations
+
+    ``(a) Fiscal Year 1995.--There are authorized to be appropriated to 
+the Secretary $29,000,000 for fiscal year 1995, forP
+carrying out sections 26101 and 26102 (including payment of 
+administrative expenses related thereto).
+    ``(b) Fiscal Year 1996.--(1) There are authorized to be 
+appropriated to the Secretary $40,000,000 for fiscal year 1996, forP
+carrying out section 26101 (including payment of administrative 
+expenses related thereto).
+    ``(2) There are authorized to be appropriated to the Secretary 
+$30,000,000 for fiscal year 1996, for carrying out section 26102 
+(including payment of administrative expenses related thereto).
+    ``(c) Fiscal Year 1997.--(1) There are authorized to be 
+appropriated to the Secretary $45,000,000 for fiscal year 1997, for 
+carrying out section 26101 (including payment of administrative 
+expenses related thereto).
+    ``(2) There are authorized to be appropriated to the Secretary 
+$40,000,000 for fiscal year 1997, for carrying out section 26102 
+(including payment of administrative expenses related thereto).
+    ``(d) Funds to Remain Available.--Funds made available under this 
+section shall remain available until expended.
+
+``Sec. 26105. Definitions
+
+    ``For purposes of this chapter--
+        ``(1) the term `financial assistance' includes grants, 
+    contracts, and cooperative agreements;
+        ``(2) the term `high-speed rail' has the meaning given such 
+    term under section 511(n) of the Railroad Revitalization and 
+    Regulatory Reform Act of 1976;
+        ``(3) the term `publicly financed costs' means the costs funded 
+    after April 29, 1993, by Federal, State, and local governments;
+        ``(4) the term `Secretary' means the Secretary of 
+    Transportation;
+        ``(5) the term `State' means any of the several States, the 
+    District of Columbia, Puerto Rico, the Northern Mariana Islands, 
+    the Virgin Islands, Guam, American Samoa, and any other territory 
+    or possession of the United States; and
+        ``(6) the term `United States private business' means a 
+    business entity organized under the laws of the United States, or 
+    of a State, and conducting substantial business operations in the 
+    United States.''.
+    (b) Conforming Amendments.--(1) The table of chapters of subtitle V 
+of title 49, United States Code, is amended by striking the items 
+relating to part D and inserting in lieu thereof the following:
+
+                        ``PART D--HIGH-SPEED RAIL
+
+``261. HIGH-SPEED RAIL ASSISTANCE................................. 26101
+
+                         ``PART E--MISCELLANEOUS
+
+``281. LAW ENFORCEMENT..........................................28101''.
+
+    (2) The table of sections of chapter 281 of title 49, United States 
+Code, as such chapter is redesignated by subsection (a)(1) of this 
+section, is amended--
+        (A) by striking ``26101'' and inserting in lieu thereof 
+    ``28101''; and
+        (B) by striking ``26102'' and inserting in lieu thereof 
+    ``28102''.
+
+SEC. 104. COLUMBUS AND GREENVILLE RAILWAY.
+
+    (a) Redemption of Outstanding Obligations and Liabilities.--
+Notwithstanding any other provision of law, the Secretary of 
+Transportation, or the Secretary of the Treasury, if a holder of any of 
+the obligations, shall allow the Delta Transportation Company, doing 
+business as the Columbus and Greenville Railway, to redeem the 
+obligations and liabilities of such company which remain outstanding 
+under sections 505 and 511 of the Railroad Revitalization and 
+Regulatory Reform Act of 1976 (45 U.S.C. 825 and 831, respectively).
+    (b) Value.--For purposes of subsection (a), the value of each of 
+the obligations and liabilities shall be an amount equal to the value 
+established under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 
+et seq.).
+
+                         TITLE II--RAIL SAFETY
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Federal Railroad Safety 
+Authorization Act of 1994''.
+
+SEC. 202. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 20117(a)(1) of title 49, United States Code, is amended by 
+adding after subparagraph (B) the following new subparagraphs:
+        ``(C) $68,289,000 for fiscal year 1995.
+        ``(D) $75,112,000 for fiscal year 1996.
+        ``(E) $82,563,000 for fiscal year 1997.
+        ``(F) $90,739,000 for fiscal year 1998.''.
+
+SEC. 203. HOURS OF SERVICE PILOT PROJECTS.
+
+    (a) Amendment.--Chapter 211 of title 49, United States Code, is 
+amended by adding at the end the following new section:
+
+``Sec. 21108. Pilot projects
+
+    ``(a) Waiver.--A railroad carrier or railroad carriers and all 
+labor organizations representing any class or craft of directly 
+affected covered service employees of the railroad carrier or railroad 
+carriers, may jointly petition the Secretary of Transportation for 
+approval of a waiver, in whole or in part, of compliance with this 
+chapter, to enable the establishment of one or more pilot projects to 
+demonstrate the possible benefits of implementing alternatives to the 
+strict application of the requirements of this chapter to such class or 
+craft of employees, including requirements concerning maximum on-duty 
+and minimum off-duty periods. Based on such a joint petition, the 
+Secretary may, after notice and opportunity for comment, waive in whole 
+or in part compliance with this chapter for a period of no more than 
+two years, if the Secretary determines that such waiver of compliance 
+is in the public interest and is consistent with railroad safety. Any 
+such waiver may, based on a new petition, be extended for additional 
+periods of up to two years, after notice and opportunity for comment. 
+An explanation of any waiver granted under this section shall be 
+published in the Federal Register.
+    ``(b) Report.--The Secretary of Transportation shall submit to 
+Congress, no later than January 1, 1997, a report that--
+        ``(1) explains and analyzes the effectiveness of all pilot 
+    projects established pursuant to a waiver granted under subsection 
+    (a);
+        ``(2) describes the status of all other waivers granted under 
+    subsection (a) and their related pilot projects, if any; and
+        ``(3) recommends appropriate legislative changes to this 
+    chapter.
+    ``(c) Definition.--For purposes of this section, the term `directly 
+affected covered service employees' means covered service employees to 
+whose hours of service the terms of the waiver petitioned for 
+specifically apply.''.
+    (b) Table of Sections Amendment.--The table of sections for chapter 
+211 of title 49, United States Code, is amended by adding at the end 
+the following new item:
+``21108. Pilot projects.''.
+    SEC. 204. CONFORMING AMENDMENT REGARDING HOURS OF SERVICE 
+      VIOLATIONS.
+    Section 21303(a)(1) of title 49, United States Code, is amended by 
+inserting ``or violating any provision of a waiver applicable to that 
+person that has been granted under section 21108 of this title,'' after 
+``chapter 211 of this title''.
+    SEC. 205. TECHNICAL AMENDMENT REGARDING FEDERAL RAILROAD SAFETY.
+    Section 20111(c) of title 49, United States Code, is amended by 
+inserting ``this chapter or any of the laws transferred to the 
+jurisdiction of the Secretary of Transportation by subsection (e) (1), 
+(2), and (6)(A) of section 6 of the Department of Transportation Act, 
+as in effect on June 1, 1994, or'' after ``individual's violation of''.
+
+SEC. 206. BIENNIAL FEDERAL RAILROAD SAFETY REPORTING.
+
+    (a) Section 20116 of title 49, United States Code, is amended--
+        (1) by striking in its heading ``Annual'' and inserting in lieu 
+    thereof ``Biennial'';
+        (2) by striking ``not later than July 1 of each year a report 
+    on carrying out this chapter for the prior calendar year. The 
+    report shall include the following information about the prior 
+    year'' and inserting in lieu thereof ``every two years, on or 
+    before July 1 of the year due, a comprehensive report on the 
+    administration of this chapter for the preceding two calendar 
+    years. The report shall include the following information about 
+    such calendar years''; and
+        (3) in paragraph (1), by inserting ``, by calendar year'' after 
+    ``casualties by cause''.
+    (b) The item relating to section 20116 in the table of sections for 
+chapter 201 of title 49, United States Code, is amended to read as 
+follows:
+``20116. Biennial report.''.
+
+SEC. 207. REPORT ON BRIDGE DISPLACEMENT DETECTION SYSTEMS.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20145. Report on bridge displacement detection systems
+
+    ``Not later than 18 months after the date of enactment of the 
+Federal Railroad Safety Authorization Act of 1994, the Secretary of 
+Transportation shall transmit to the Committee on Commerce, Science, 
+and Transportation of the Senate and the Committee on Energy and 
+Commerce of the House of Representatives a report concerning any action 
+that has been taken by the Secretary on railroad bridge displacement 
+detection systems.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20145. Report on bridge displacement detection systems.''.
+
+SEC. 208. TRACK SAFETY.
+
+    Section 20142 of title 49, United States Code, is amended--
+        (1) in subsection (b), by striking ``September 3, 1994'' and 
+    inserting in lieu thereof ``September 1, 1995'';
+        (2) in subsection (a)(1), by inserting ``, including cold 
+    weather installation procedures'' after ``attendant structure''; 
+    and
+        (3) by adding at the end the following new subsection:
+    ``(d) Identification of Internal Rail Defects.--In carrying out 
+subsections (a) and (b), the Secretary shall consider whether or not to 
+prescribe regulations and issue orders concerning--
+        ``(1) inspection procedures to identify internal rail defects, 
+    before they reach imminent failure size, in rail that has 
+    significant shelling; and
+        ``(2) any specific actions that should be taken when a rail 
+    surface condition, such as shelling, prevents the identification of 
+    internal defects.''.
+
+SEC. 209. RESIDENCE OF EMPLOYEES.
+
+    The amendments made by section 7 of the Amtrak Reauthorization and 
+Improvement Act of 1990 shall apply to all periods before and after the 
+date of their enactment.
+
+SEC. 210. INSTITUTE FOR RAILROAD SAFETY.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20146. Institute for Railroad Safety
+
+    ``The Secretary of Transportation, in conjunction with a university 
+or college having expertise in transportation safety, shall establish, 
+within one year after the date of enactment of the Federal Railroad 
+Safety Authorization Act of 1994, an Institute for Railroad Safety. The 
+Institute shall research, develop, fund, and test measures for reducing 
+the number of fatalities and injuries relevant to railroad operations. 
+There are authorized to be appropriated to the Secretary $1,000,000 for 
+each of the fiscal years 1996 through 2000 to fund activities carried 
+out under this section by the Institute, which shall report at least 
+once each year on its use of such funds in carrying out such activities 
+and the results thereof to the Secretary of Transportation and the 
+Congress.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20146. Institute for Railroad Safety.''.
+
+SEC. 211. WARNING OF CIVIL LIABILITY.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20147. Warning of civil liability
+
+    ``The Secretary of Transportation shall encourage railroad carriers 
+to warn the public about potential liability for violation of 
+regulations related to vandalism of railroad signs, devices, and 
+equipment and to trespassing on railroad property.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20147. Warning of civil liability.''.
+
+SEC. 212. RAILROAD CAR VISIBILITY.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20148. Railroad car visibility
+
+    ``(a) Review of Rules.--The Secretary of Transportation shall 
+conduct a review of the Department of Transportation's rules with 
+respect to railroad car visibility. As part of this review, the 
+Secretary shall collect relevant data from operational experience by 
+railroads having enhanced visibility measures in service.
+    ``(b) Regulations.--If the review conducted under subsection (a) 
+establishes that enhanced railroad car visibility would likely improve 
+safety in a cost-effective manner, the Secretary shall initiate a 
+rulemaking proceeding to prescribe regulations requiring enhanced 
+visibility standards for newly manufactured and remanufactured railroad 
+cars. In such proceeding the Secretary shall consider, at a minimum--
+        ``(1) visibility of railroad cars from the perspective of 
+    nonrailroad traffic;
+        ``(2) whether certain railroad car paint colors should be 
+    prohibited or required;
+        ``(3) the use of reflective materials;
+        ``(4) the visibility of lettering on railroad cars;
+        ``(5) the effect of any enhanced visibility measures on the 
+    health and safety of train crew members; and
+        ``(6) the cost/benefit ratio of any new regulations.
+    ``(c) Exclusions.--In prescribing regulations under subsection (b), 
+the Secretary may exclude from any specific visibility requirement any 
+category of trains or railroad operations if the Secretary determines 
+that such an exclusion is in the public interest and is consistent with 
+railroad safety.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20148. Railroad car visibility.''.
+
+SEC. 213. COORDINATION WITH THE DEPARTMENT OF LABOR.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20149. Coordination with the Department of Labor
+
+    ``The Secretary of Transportation shall consult with the Secretary 
+of Labor on a regular basis to ensure that all applicable laws 
+affecting safe working conditions for railroad employees are 
+appropriately enforced to ensure a safe and productive working 
+environment for the railroad industry.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20149. Coordination with the Department of Labor.''.
+
+SEC. 214. POSITIVE TRAIN CONTROL SYSTEM PROGRESS REPORT.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20150. Positive train control system progress report
+
+    ``The Secretary of Transportation shall submit a report to the 
+Congress on the development, deployment, and demonstration of positive 
+train control systems by December 31, 1995.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20150. Positive train control system progress report.''.
+
+SEC. 215. PASSENGER CAR SAFETY STANDARDS.
+
+    (a) Amendment.--Section 20133 of title 49, United States Code, is 
+amended to read as follows:
+
+``Sec. 20133. Passenger cars
+
+    ``(a) Minimum Standards.--The Secretary of Transportation shall 
+prescribe regulations establishing minimum standards for the safety of 
+cars used by railroad carriers to transport passengers. Before 
+prescribing such regulations, the Secretary shall consider--
+        ``(1) the crashworthiness of the cars;
+        ``(2) interior features (including luggage restraints, seat 
+    belts, and exposed surfaces) that may affect passenger safety;
+        ``(3) maintenance and inspection of the cars;
+        ``(4) emergency response procedures and equipment; and
+        ``(5) any operating rules and conditions that directly affect 
+    safety not otherwise governed by regulations.
+The Secretary may make applicable some or all of the standards 
+established under this subsection to cars existing at the time the 
+regulations are prescribed, as well as to new cars, and the Secretary 
+shall explain in the rulemaking document the basis for making such 
+standards applicable to existing cars.
+    ``(b) Initial and Final Regulations.--(1) The Secretary shall 
+prescribe initial regulations under subsection (a) within 3 years after 
+the date of enactment of the Federal Railroad Safety Authorization Act 
+of 1994. The initial regulations may exempt equipment used by tourist, 
+historic, scenic, and excursion railroad carriers to transport 
+passengers.
+    ``(2) The Secretary shall prescribe final regulations under 
+subsection (a) within 5 years after such date of enactment.
+    ``(c) Personnel.--The Secretary may establish within the Department 
+of Transportation 2 additional full-time equivalent positions beyond 
+the number permitted under existing law to assist with the drafting, 
+prescribing, and implementation of regulations under this section.
+    ``(d) Consultation.--In prescribing regulations, issuing orders, 
+and making amendments under this section, the Secretary may consult 
+with Amtrak, public authorities operating railroad passenger service, 
+other railroad carriers transporting passengers, organizations of 
+passengers, and organizations of employees. A consultation is not 
+subject to the Federal Advisory Committee Act (5 U.S.C. App.), but 
+minutes of the consultation shall be placed in the public docket of the 
+regulatory proceeding.''.
+    (b) Table of Sections Amendment.--The item relating to section 
+20133 in the table of sections for chapter 201 of title 49, United 
+States Code, is amended to read as follows:
+``20133. Passenger cars.''.
+
+SEC. 216. CONTRACT AND GRANT AUTHORITY.
+
+    Section 103 of title 49, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(e) Subject to the provisions of the Federal Property and 
+Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the 
+Secretary of Transportation may make, enter into, and perform such 
+contracts, grants, leases, cooperative agreements, and other similar 
+transactions with Federal or other public agencies (including State and 
+local governments) and private organizations and persons, and make such 
+payments, by way of advance or reimbursement, as the Secretary may 
+determine to be necessary or appropriate to carry out functions of the 
+Federal Railroad Administration. The authority of the Secretary granted 
+by this subsection shall be carried out by the Administrator. 
+Notwithstanding any other provision of this chapter, no authority to 
+enter into contracts or to make payments under this subsection shall be 
+effective, except as provided for in appropriations Acts.''.
+
+SEC. 217. TOURIST RAILROAD CARRIERS.
+
+    Section 20103 of title 49, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(f) Tourist Railroad Carriers.--In prescribing regulations that 
+pertain to railroad safety that affect tourist, historic, scenic, or 
+excursion railroad carriers, the Secretary of Transportation shall take 
+into consideration any financial, operational, or other factors that 
+may be unique to such railroad carriers. The Secretary shall submit a 
+report to Congress not later than September 30, 1995, on actions taken 
+under this subsection.''.
+
+SEC. 218. OPERATION LIFESAVER.
+
+    Section 20117 of title 49, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(e) Operation Lifesaver.--In addition to amounts otherwise 
+authorized by law, there are authorized to be appropriated for railroad 
+research and development $300,000 for fiscal year 1995, $500,000 for 
+fiscal year 1996, and $750,000 for fiscal year 1997, to support 
+Operation Lifesaver, Inc.''.
+
+SEC. 219. RAILROAD TRESPASSING AND VANDALISM PREVENTION STRATEGY.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20151. Railroad trespassing and vandalism prevention strategy
+
+    ``(a) Evaluation of Existing Laws.--In consultation with affected 
+parties, the Secretary of Transportation shall evaluate and review 
+current local, State, and Federal laws regarding trespassing on 
+railroad property and vandalism affecting railroad safety, and develop 
+model prevention strategies and enforcement laws to be used for the 
+consideration of State and local legislatures and governmental 
+entities. The first such evaluation and review shall be completed 
+within 1 year after the date of enactment of the Federal Railroad 
+Safety Authorization Act of 1994. The Secretary shall revise such model 
+prevention strategies and enforcement codes periodically.
+    ``(b) Outreach Program.--The Secretary shall develop and maintain a 
+comprehensive outreach program to improve communications among Federal 
+railroad safety inspectors, State inspectors certified by the Federal 
+Railroad Administration, railroad police, and State and local law 
+enforcement officers, for the purpose of addressing trespassing and 
+vandalism problems on railroad property, and strengthening relevant 
+enforcement strategies. This program shall be designed to increase 
+public and police awareness of the illegality of, dangers inherent in, 
+and the extent of, trespassing on railroad rights-of-way, to develop 
+strategies to improve the prevention of trespassing and vandalism, and 
+to improve the enforcement of laws relating to railroad trespass, 
+vandalism, and safety.
+    ``(c) Model Legislation.--Within 18 months after the date of 
+enactment of the Federal Railroad Safety Authorization Act of 1994, the 
+Secretary, after consultation with State and local governments and 
+railroad carriers, shall develop and make available to State and local 
+governments model State legislation providing for--
+        ``(1) civil or criminal penalties, or both, for vandalism of 
+    railroad equipment or property which could affect the safety of the 
+    public or of railroad employees; and
+        ``(2) civil or criminal penalties, or both, for trespassing on 
+    a railroad owned or leased right-of-way.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20151. Railroad trespassing and vandalism prevention strategy.''.
+
+                    TITLE III--GRADE CROSSING SAFETY
+
+    SEC. 301. EMERGENCY NOTIFICATION OF GRADE CROSSING PROBLEMS.
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20152. Emergency notification of grade crossing problems
+
+    ``(a) Pilot Programs.--The Secretary of Transportation shall 
+conduct a pilot program to demonstrate an emergency notification system 
+utilizing a toll free telephone number that the public can use to 
+convey to railroad carriers, either directly or through public safety 
+personnel, information about malfunctions or other safety problems at 
+railroad-highway grade crossings. The pilot program, at a minimum--
+        ``(1) shall include railroad-highway grade crossings in at 
+    least 2 States;
+        ``(2) shall include provisions for public education and 
+    awareness of the program; and
+        ``(3) shall require information to be posted at the railroad-
+    highway grade crossing describing the emergency notification system 
+    and instructions on how to use the system.
+The Secretary may, by grant, provide funding for the expense of 
+information signs and public awareness campaigns necessary to 
+demonstrate the notification system.
+    ``(b) Report.--The Secretary shall complete the pilot program not 
+later than 24 months after the date of enactment of this section, and 
+shall submit to the Congress not later than 30 months after that date 
+an evaluation of the pilot program, together with findings as to the 
+effectiveness of such emergency notification systems. The report shall 
+compare and contrast the structure, cost, and effectiveness of the 
+pilot program with other emergency notification systems in effect 
+within other States. Such evaluation shall include analyses of the 
+safety benefits derived from the programs, cost effectiveness, and the 
+burdens on participants, including railroad carriers and law 
+enforcement personnel.''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20152. Emergency notification of grade crossing problems.''.
+
+SEC. 302. AUDIBLE WARNINGS AT HIGHWAY-RAIL GRADE CROSSINGS.
+
+    (a) Amendment.--Subchapter II of chapter 201 of title 49, United 
+States Code, is amended by adding at the end the following new section:
+
+``Sec. 20153. Audible warnings at highway-rail grade crossings
+
+    ``(a) Definitions.--As used in this section--
+        ``(1) the term ``highway-rail grade crossing'' includes any 
+    street or highway crossing over a line of railroad at grade;
+        ``(2) the term ``locomotive horn'' refers to a train-borne 
+    audible warning device meeting standards specified by the Secretary 
+    of Transportation; and
+        ``(3) the term ``supplementary safety measure'' refers to a 
+    safety system or procedure, provided by the appropriate traffic 
+    control authority or law enforcement authority responsible for 
+    safety at the highway-rail grade crossing, that is determined by 
+    the Secretary to be an effective substitute for the locomotive horn 
+    in the prevention of highway-rail casualties. A traffic control 
+    arrangement that prevents careless movement over the crossing 
+    (e.g., as where adequate median barriers prevent movement around 
+    crossing gates extending over the full width of the lanes in the 
+    particular direction of travel), and that conforms to standards 
+    prescribed by the Secretary under this subsection, shall be deemed 
+    to constitute a supplementary safety measure. The following do not, 
+    individually or in combination, constitute supplementary safety 
+    measures within the meaning of this subsection: standard traffic 
+    control devices or arrangements such as reflectorized crossbucks, 
+    stop signs, flashing lights, flashing lights with gates that do not 
+    completely block travel over the line of railroad, or traffic 
+    signals.
+    ``(b) Requirement.--The Secretary of Transportation shall prescribe 
+regulations requiring that a locomotive horn shall be sounded while 
+each train is approaching and entering upon each public highway-rail 
+grade crossing.
+    ``(c) Exception.--(1) In issuing such regulations, the Secretary 
+may except from the requirement to sound the locomotive horn any 
+categories of rail operations or categories of highway-rail grade 
+crossings (by train speed or other factors specified by regulation)--
+        ``(A) that the Secretary determines not to present a 
+    significant risk with respect to loss of life or serious personal 
+    injury;
+        ``(B) for which use of the locomotive horn as a warning measure 
+    is impractical; or
+        ``(C) for which, in the judgment of the Secretary, 
+    supplementary safety measures fully compensate for the absence of 
+    the warning provided by the locomotive horn.
+    ``(2) In order to provide for safety and the quiet of communities 
+affected by train operations, the Secretary may specify in such 
+regulations that any supplementary safety measures must be applied to 
+all highway-rail grade crossings within a specified distance along the 
+railroad in order to be excepted from the requirement of this section.
+    ``(d) Application for Waiver or Exemption.--Notwithstanding any 
+other provision of this subchapter, the Secretary may not entertain an 
+application for waiver or exemption of the regulations issued under 
+this section unless such application shall have been submitted jointly 
+by the railroad carrier owning, or controlling operations over, the 
+crossing and by the appropriate traffic control authority or law 
+enforcement authority. The Secretary shall not grant any such 
+application unless, in the judgment of the Secretary, the application 
+demonstrates that the safety of highway users will not be diminished.
+    ``(e) Development of Supplementary Safety Measures.--(1) In order 
+to promote the quiet of communities affected by rail operations and the 
+development of innovative safety measures at highway-rail grade 
+crossings, the Secretary may, in connection with demonstration of 
+proposed new supplementary safety measures, order railroad carriers 
+operating over one or more crossings to cease temporarily the sounding 
+of locomotive horns at such crossings. Any such measures shall have 
+been subject to testing and evaluation and deemed necessary by the 
+Secretary prior to actual use in lieu of the locomotive horn.
+    ``(2) The Secretary may include in regulations issued under this 
+subsection special procedures for approval of new supplementary safety 
+measures meeting the requirements of subsection (c)(1) of this section 
+following successful demonstration of those measures.
+    ``(f) Specific Rules.--The Secretary may, by regulation, provide 
+that the following crossings over railroad lines shall be subject, in 
+whole or in part, to the regulations required under this section:
+        ``(1) Private highway-rail grade crossings.
+        ``(2) Pedestrian crossings.
+        ``(3) Crossings utilized primarily by nonmotorized vehicles and 
+    other special vehicles.
+Regulations issued under this subsection shall not apply to any 
+location where persons are not authorized to cross the railroad.
+    ``(g) Issuance.--The Secretary shall issue regulations required by 
+this section pertaining to categories of highway-rail grade crossings 
+that in the judgment of the Secretary pose the greatest safety hazard 
+to rail and highway users not later than 24 months following the date 
+of enactment of this section. The Secretary shall issue regulations 
+pertaining to any other categories of crossings not later than 48 
+months following the date of enactment of this section.
+    ``(h) Impact of Regulations.--The Secretary shall include in 
+regulations prescribed under this section a concise statement of the 
+impact of such regulations with respect to the operation of section 
+20106 of this title (national uniformity of regulation).''.
+    (b) Table of Sections Amendment.--The table of sections for 
+subchapter II of chapter 201 of title 49, United States Code, is 
+amended by adding at the end the following new item:
+``20153. Audible warnings at highway-rail grade crossings.''.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

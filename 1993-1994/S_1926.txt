@@ -1,0 +1,265 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1926 Enrolled Bill (ENR)]
+
+<DOC>
+
+        S.1926
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend the Food Stamp Act of 1977 to modify the requirements 
+relating to monthly reporting and staggered issuance of coupons for 
+households residing on Indian reservations, to ensure adequate access to 
+retail food stores by food stamp households, and to maintain the 
+integrity of the food stamp program, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Food Stamp Program Improvements Act 
+of 1994''.
+
+ TITLE I_REPORTING AND STAGGERED ISSUANCE FOR HOUSEHOLDS ON RESERVATIONS
+
+SEC. 101. BUDGETING AND MONTHLY REPORTING ON RESERVATIONS.
+
+    (a) In General._Section 6(c)(1) of the Food Stamp Act of 1977 (7 
+U.S.C. 2015(c)(1)) is amended_
+        (1) in subparagraph (A)_
+            (A) by striking clause (ii); and
+            (B) by redesignating clauses (iii) and (iv) as clauses (ii) 
+        and (iii), respectively; and
+        (2) by adding at the end the following new subparagraph:
+        ``(C) A State agency may require periodic reporting on a monthly 
+    basis by households residing on a reservation only if_
+            ``(i) the State agency reinstates benefits, without 
+        requiring a new application, for any household residing on a 
+        reservation that submits a report not later than 1 month after 
+        the end of the month in which benefits would otherwise be 
+        provided;
+            ``(ii) the State agency does not delay, reduce, suspend, or 
+        terminate the allotment of a household that submits a report not 
+        later than 1 month after the end of the month in which the 
+        report is due;
+            ``(iii) on the date of enactment of this subparagraph, the 
+        State agency requires households residing on a reservation to 
+        file periodic reports on a monthly basis; and
+            ``(iv) the certification period for households residing on a 
+        reservation that are required to file periodic reports on a 
+        monthly basis is 2 years, unless the State demonstrates just 
+        cause to the Secretary for a shorter certification period.''.
+    (b) Conforming Amendments._
+        (1) The second sentence of section 3(c) of such Act (7 U.S.C. 
+    2012(c)) is amended by striking ``For'' and inserting ``Except as 
+    provided in section 6(c)(1)(C), for''.
+        (2) Section 5(f)(2)(C) of such Act (7 U.S.C. 2014(f)(2)(C)) is 
+    amended by striking ``clauses (i), (ii), (iii), and (iv)'' and 
+    inserting ``clauses (i), (ii), and (iii)''.
+
+SEC. 102. STAGGERED ISSUANCES ON RESERVATIONS.
+
+    Section 7(h)(1) of the Food Stamp Act of 1977 (7 U.S.C. 2016(h)(1)) 
+is amended by striking the second sentence and inserting the following 
+new sentence: ``Upon the request of the tribal organization that 
+exercises governmental jurisdiction over the reservation, the State 
+agency shall stagger the issuance of benefits for eligible households 
+located on reservations for at least 15 days of a month.''.
+    SEC. 103. GAO STUDY AND REPORT ON ADMINISTRATION OF FOOD STAMP 
+      PROGRAM BY TRIBAL ORGANIZATIONS.
+    (a) Study._The Comptroller General of the United States shall 
+conduct a study of the feasibility and desirability of_
+        (1) increasing the opportunity for a tribal organization of an 
+    Indian tribe to administer the food stamp program established under 
+    the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) in connection 
+    with members of the tribe by_
+            (A) modifying the requirements established under sections 
+        3(n)(2) and 11(d) of such Act (7 U.S.C. 2012(n)(2) and 2020(d));
+            (B) modifying or eliminating the cost-sharing requirements 
+        established for the tribal organization under section 16(a) of 
+        such Act (7 U.S.C. 2025); and
+            (C) taking such other actions as the Comptroller General 
+        considers appropriate; and
+        (2) permitting the tribal organization to establish reasonable 
+    and appropriate requirements with respect to issuance, reporting, 
+    and certification requirements under the food stamp program for 
+    members of the tribe.
+    (b) Report._Not later than December 1, 1994, the Comptroller General 
+shall report the results of the study required under subsection (a) to 
+the Committee on Agriculture, and the Subcommittee on Native American 
+Affairs of the Committee on Natural Resources, of the House of 
+Representatives, and the Committee on Agriculture, Nutrition, and 
+Forestry, and the Committee on Indian Affairs, of the Senate, so that 
+the results of the study may be considered by the Committee on 
+Agriculture of the House of Representatives and the Committee on 
+Agriculture, Nutrition, and Forestry of the Senate during the 
+reauthorization of the food stamp program during 1995.
+
+SEC. 104. CONFORMING AMENDMENTS.
+
+    (a) Section 908 of the Food, Agriculture, Conservation, and Trade 
+Act Amendments of 1991 (Public Law 102-237; 7 U.S.C. 2015 note) is 
+repealed.
+    (b) Section 6(c)(4) of the Food Stamp Act of 1977 (7 U.S.C. 
+2015(c)(4)) is amended by striking ``Any'' and inserting ``Except as 
+provided in paragraph (1)(C), any''.
+
+     TITLE II_ACCESS TO RETAIL FOOD STORES BY FOOD STAMP HOUSEHOLDS
+
+SEC. 201. FOOD STAMP ACT DEFINITIONS.
+
+    Section 3 of the Food Stamp Act of 1977 (7 U.S.C. 2012) is amended_
+        (1) in subsection (k)_
+            (A) by striking ``means (1) an establishment'' and all that 
+        follows through ``spices, (2) an establishment'' and inserting 
+        the following: ``means_
+        ``(1) an establishment or house-to-house trade route that sells 
+    food for home preparation and consumption and_
+            ``(A) offers for sale, on a continuous basis, a variety of 
+        foods in each of the 4 categories of staple foods specified in 
+        subsection (u)(1), including perishable foods in at least 2 of 
+        the categories; or
+            ``(B) has over 50 percent of the total sales of the 
+        establishment or route in staple foods,
+    as determined by visual inspection, sales records, purchase records, 
+    counting of stockkeeping units, or other inventory or accounting 
+    recordkeeping methods that are customary or reasonable in the retail 
+    food industry;
+        ``(2) an establishment'';
+            (B) by striking ``section, (3) a store'' and inserting the 
+        following: ``section;
+        ``(3) a store''; and
+            (C) by striking ``section, and (4) any private'' and 
+        inserting the following: ``section; and
+        ``(4) any private''; and
+        (2) by adding at the end the following new subsection:
+    ``(u)(1) Except as provided in paragraph (2), `staple foods' means 
+foods (as defined in subsection (g)) in the following categories:
+        ``(A) Meat, poultry, or fish.
+        ``(B) Bread or cereals.
+        ``(C) Vegetables or fruits.
+        ``(D) Dairy products.
+    ``(2) `Staple foods' do not include accessory food items, such as 
+coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, 
+condiments, and spices.''.
+
+SEC. 202. PERIODIC NOTICE.
+
+    Paragraph (2) of section 9(a) of the Food Stamp Act of 1977 (7 
+U.S.C. 2018(a)(2)) is amended to read as follows:
+    ``(2) The Secretary shall issue regulations providing for_
+        ``(A) the periodic reauthorization of retail food stores and 
+    wholesale food concerns; and
+        ``(B) periodic notice to participating retail food stores and 
+    wholesale food concerns of the definitions of `retail food store', 
+    `staple foods', `eligible foods', and `perishable foods'.''.
+    SEC. 203. USE AND DISCLOSURE OF INFORMATION PROVIDED BY RETAIL FOOD 
+      STORES AND WHOLESALE FOOD CONCERNS.
+    Section 9(c) of the Food Stamp Act of 1977 (7 U.S.C. 2018(c)) is 
+amended_
+        (1) in the second sentence, by inserting after ``disclosed to 
+    and used by'' the following: ``Federal law enforcement and 
+    investigative agencies and law enforcement and investigative 
+    agencies of a State government for the purposes of administering or 
+    enforcing this Act or any other Federal or State law and the 
+    regulations issued under this Act or such law, and'';
+        (2) by inserting after the second sentence the following new 
+    sentence: ``Any person who publishes, divulges, discloses, or makes 
+    known in any manner or to any extent not authorized by Federal law 
+    (including a regulation) any information obtained under this 
+    subsection shall be fined not more than $1,000 or imprisoned not 
+    more than 1 year, or both.''; and
+        (3) in the last sentence, by striking ``Such purposes shall not 
+    exclude'' and inserting the following: ``The regulations shall 
+    establish the criteria to be used by the Secretary to determine 
+    whether the information is needed. The regulations shall not 
+    prohibit''.
+    SEC. 204. DEMONSTRATION PROJECTS TESTING ACTIVITIES DIRECTED AT 
+      TRAFFICKING IN COUPONS.
+    Section 17 of the Food Stamp Act of 1977 (7 U.S.C. 2026) is amended 
+by adding at the end the following new subsection:
+    ``(l) The Secretary shall use up to $4,000,000 of the funds provided 
+in advance in appropriations Acts for projects authorized by this 
+section to conduct demonstration projects in which State or local food 
+stamp agencies test innovative ideas for working with State or local law 
+enforcement agencies to investigate and prosecute coupon trafficking.''.
+
+SEC. 205. CONTINUING ELIGIBILITY.
+
+    An establishment or house-to-house trade route that is otherwise 
+authorized to accept and redeem coupons under the Food Stamp Act of 1977 
+(7 U.S.C. 2011 et seq.) on the day before the date of enactment of this 
+Act shall be considered to meet the definition of ``retail food store'' 
+in section 3(k) of such Act (7 U.S.C. 2012(k)) (as amended by section 
+201) until the earlier of_
+        (1) the periodic reauthorization of the establishment or route; 
+    or
+        (2) such time as the eligibility of the establishment or route 
+    for continued participation in the food stamp program is evaluated 
+    for any reason.
+
+SEC. 206. REPORT ON IMPACT ON RETAIL FOOD STORES.
+
+    Not later than 18 months after the date of enactment of this Act, 
+the Secretary of Agriculture shall prepare and submit to the Committee 
+on Agriculture of the House of Representatives and the Committee on 
+Agriculture, Nutrition, and Forestry of the Senate a report on the 
+impact of the amendments made by sections 201 and 202 on the involvement 
+of retail food stores in the food stamp program established under the 
+Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), including a description 
+of_
+        (1) the numbers and types of stores that were newly authorized 
+    to participate in the food stamp program after implementation of the 
+    amendments;
+        (2) the numbers and types of stores that were withdrawn from the 
+    food stamp program after implementation of the amendments;
+        (3) the procedures used by the Secretary, and the adequacy of 
+    the procedures used, to determine the eligibility of stores to 
+    participate in the food stamp program and to authorize and 
+    reauthorize the stores to participate in the food stamp program;
+        (4) the adequacy of the guidance provided by the Secretary to 
+    retail food stores concerning_
+            (A) the definitions of ``retail food store'', ``staple 
+        foods'', ``eligible foods'', and ``perishable foods'' for 
+        purposes of the food stamp program; and
+            (B) eligibility criteria for stores to participate in the 
+        food stamp program; and
+        (5) an assessment of whether the amendment to the definition of 
+    ``retail food store'' under section 3(k) of such Act (as amended by 
+    section 201(1)) has had an adverse effect on the integrity of the 
+    food stamp program.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

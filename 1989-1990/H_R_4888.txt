@@ -1,0 +1,181 @@
+ 
+--H.R.4888--
+H.R.4888
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To improve navigational safety and to reduce the hazards to navigation
+resulting from vessel collisions with pipelines in the marine environment,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. OFFSHORE PIPELINE INSPECTION AND BURIAL.
+ (a) NATURAL GAS PIPELINE SAFETY ACT OF 1968- Section 3 of the Natural Gas
+ Pipeline Safety Act of 1968 (49 U.S.C. App. 1672) is amended by adding at
+ the end the following new subsection:
+ `(h) OFFSHORE PIPELINE INSPECTION AND BURIAL-
+ `(1) INITIAL INSPECTION-
+ `(A) REQUIREMENT- Not later than--
+ `(i) 18 months after the date of enactment of this subsection; or
+ `(ii) one year after the issuance of standards under subparagraph (D),
+whichever occurs first, the operator of each offshore pipeline facility in
+the Gulf of Mexico and its inlets shall inspect such pipeline facility and
+report to the Secretary on any portion of the pipeline facility which is
+exposed or is a hazard to navigation. This subparagraph shall apply only
+to pipeline facilities between the mean high water mark and the point where
+the subsurface is under 15 feet of water, as measured from mean low water.
+ `(B) EXTENSION- The Secretary may extend the time period for compliance under
+ subparagraph (A) with respect to a pipeline facility for an additional period
+ of up to six months if the operator of the pipeline facility demonstrates
+ to the satisfaction of the Secretary that a good faith effort, with due
+ diligence and care, has failed to enable compliance with the deadline under
+ subparagraph (A).
+ `(C) PRIOR INSPECTION RECOGNITION- Any inspection of a pipeline facility
+ which has occurred after October 3, 1989, may be used for compliance with
+ subparagraph (A), if the inspection conforms to the requirements of that
+ subparagraph.
+ `(D) ESTABLISHMENT OF STANDARDS- The Secretary shall, within six months
+ after the date of enactment of this subsection, establish standards--
+ `(i) for the purposes of this subsection, for what constitutes an exposed
+ pipeline facility; and
+ `(ii) for the purposes of this subsection, for what constitutes a hazard
+ to navigation.
+ `(2) HAZARDOUS CONDITIONS-
+ `(A) REPORTING PROCEDURE- The Secretary shall, by regulation, establish
+ a program to require pipeline facility operators described in paragraph
+ (1)(A) to report potential or existing navigational hazards involving
+ pipeline facilities to the Secretary through appropriate Coast Guard offices.
+ `(B) MARKING OF HAZARDOUS PIPELINE FACILITIES- The operator of a pipeline
+ facility described in paragraph (1)(A) who discovers any portion of the
+ pipeline facility which is a hazard to navigation shall mark the location
+ of the hazardous portion with a Coast Guard approved marine buoy or marker
+ and shall immediately notify the Secretary as provided by the Secretary
+ pursuant to subparagraph (A) of this paragraph. Any marine buoy or marker
+ used pursuant to this subparagraph shall be considered a pipeline sign or
+ right-of-way marker for purposes of section 11(c)(3).
+ `(3) PERMANENT INSPECTION REQUIREMENT- Not later than 30 months after the
+ date of enactment of this subsection, on the basis of experience with the
+ initial inspection program under paragraph (1) and any other information
+ available to the Secretary, the Secretary shall establish a mandatory,
+ systematic, and where appropriate, periodic inspection program of offshore
+ pipeline facilities in the Gulf of Mexico and its inlets.
+ `(4) BURIAL REQUIREMENT- The Secretary shall, by regulation, require that
+ each offshore pipeline facility--
+ `(A) that is subject to inspection under paragraph (1) and is exposed or
+ constitutes a hazard to navigation; or
+ `(B) that constitutes a hazard to navigation,
+is buried within six months after the date that the condition of the pipeline
+facility is reported to the Secretary. The Secretary may extend the time period
+for compliance under this paragraph with respect to a pipeline facility for
+such period as is reasonable to ensure compliance with this paragraph.'.
+ (b) HAZARDOUS LIQUID PIPELINE SAFETY ACT OF 1979- Section 203 of the
+ Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. App. 2002) is
+ amended by adding at the end the following new subsection:
+ `(l) OFFSHORE PIPELINE INSPECTION AND BURIAL-
+ `(1) INITIAL INSPECTION-
+ `(A) REQUIREMENT- Not later than--
+ `(i) 18 months after the date of enactment of this subsection; or
+ `(ii) one year after the issuance of standards under subparagraph (D),
+whichever occurs first, the operator of each offshore pipeline facility in
+the Gulf of Mexico and its inlets, other than gathering lines of 4 inch
+nominal diameter and smaller, shall inspect such pipeline facility and
+report to the Secretary on any portion of the pipeline facility which is
+exposed or is a hazard to navigation. This subparagraph shall apply only
+to pipeline facilities between the mean high water mark and the point where
+the subsurface is under 15 feet of water, as measured from mean low water.
+ `(B) EXTENSION- The Secretary may extend the time period for compliance under
+ subparagraph (A) with respect to a pipeline facility for an additional period
+ of up to one year if the operator of the pipeline facility demonstrates
+ to the satisfaction of the Secretary that a good faith effort, with due
+ diligence and care, has failed to enable compliance with the deadline under
+ subparagraph (A).
+ `(C) PRIOR INSPECTION RECOGNITION- Any inspection of a pipeline facility
+ which has occurred after October 3, 1989, may be used for compliance with
+ subparagraph (A), if the inspection conforms to the requirements of that
+ subparagraph.
+ `(D) ESTABLISHMENT OF STANDARDS- The Secretary shall, within six months
+ after the date of enactment of this subsection, establish standards--
+ `(i) for the purposes of this subsection, for what constitutes an exposed
+ pipeline facility; and
+ `(ii) for the purposes of this subsection, for what constitutes a hazard
+ to navigation.
+ `(2) HAZARDOUS CONDITIONS-
+ `(A) REPORTING PROCEDURE- The Secretary shall, by regulation, establish
+ a program to require pipeline facility operators described in paragraph
+ (1)(A) to report potential or existing navigational hazards involving
+ pipeline facilities to the Secretary through appropriate Coast Guard offices.
+ `(B) MARKING OF HAZARDOUS PIPELINE FACILITIES- The operator of a pipeline
+ facility described in paragraph (1)(A) who discovers any portion of the
+ pipeline facility which is a hazard to navigation shall mark the location
+ of the hazardous portion with a Coast Guard approved marine buoy or marker
+ and shall immediately notify the Secretary as provided by the Secretary
+ pursuant to subparagraph (A) of this paragraph. Any marine buoy or marker
+ used pursuant to this subparagraph shall be considered a pipeline sign or
+ right-of-way marker for purposes of section 208(c)(3).
+ `(3) PERMANENT INSPECTION REQUIREMENT- Not later than 30 months after the
+ date of enactment of this subsection, on the basis of experience with the
+ initial inspection program under paragraph (1) and any other information
+ available to the Secretary, the Secretary shall establish a mandatory,
+ systematic, and where appropriate, periodic inspection program of offshore
+ pipeline facilities in the Gulf of Mexico and its inlets.
+ `(4) BURIAL REQUIREMENT- The Secretary shall, by regulation, require that
+ each offshore pipeline facility--
+ `(A) that is subject to inspection under paragraph (1) and is exposed or
+ constitutes a hazard to navigation; or
+ `(B) that constitutes a hazard to navigation,
+is buried within six months after the date that the condition of the pipeline
+facility is reported to the Secretary. The Secretary may extend the time period
+for compliance under this paragraph with respect to a pipeline facility for
+such period as is reasonable to ensure compliance with this paragraph.'.
+SEC. 2. NAVIGATIONAL HAZARDS.
+ The Ports and Waterways Safety Act (33 U.S.C. 1221 et seq.) is amended by
+ adding at the end the following new section:
+`SEC. 14. NAVIGATIONAL HAZARDS.
+ `(a) REPORTING PROCEDURE- The Secretary shall establish a program to
+ encourage fishermen and other vessel operators to report potential or
+ existing navigational hazards involving pipelines to the Secretary through
+ Coast Guard field offices.
+ `(b) SECRETARY'S RESPONSE- (1) Upon notification by the operator of a pipeline
+ of a hazard to navigation with respect to that pipeline, the Secretary shall
+ immediately notify Coast Guard headquarters, the Office of Pipeline Safety,
+ other affected Federal and State agencies, and vessel owners and operators
+ in the pipeline's vicinity.
+ `(2) Upon notification by any other person of a hazard or potential hazard
+ to navigation with respect to a pipeline, the Secretary shall promptly
+ determine whether a hazard exists, and if so shall immediately notify Coast
+ Guard headquarters, the Office of Pipeline Safety, other affected Federal
+ and State agencies, vessel owners and operators in the pipeline's vicinity,
+ and the owner and operator of the pipeline.
+ `(c) ESTABLISHMENT OF STANDARDS- The Secretary shall, within six months
+ after the date of enactment of this section, establish standards, for the
+ purposes of this section, for what constitutes a hazard to navigation.
+ `(d) DEFINITION- For purposes of this section, the term `pipelines' has the
+ meaning given the term `pipeline facilities' in the Natural Gas Pipeline
+ Safety Act of 1968 and the Hazardous Liquid Pipeline Safety Act of 1979.'.
+SEC. 3. STUDY.
+ (a) STUDY REQUIREMENT- The Secretary of Transportation shall--
+ (1) consult with appropriate Federal and State agencies, pipeline owners and
+ operators, the fishing and maritime industries, and other affected groups,
+ with respect to underwater pipeline burial;
+ (2) study feasible methods of determining how deeply underwater pipelines
+ are buried;
+ (3) research existing marine safety and vessel operational practices
+ relating to underwater pipeline rights-of-way, particularly in shallow
+ offshore waters, and related marine safety and navigational technology; and
+ (4) consider the availability and quality of navigational charts showing
+ the location of pipelines in the marine environment.
+Not later than six months after the date of enactment of this Act, the
+Secretary of Transportation shall report to the Congress on the results of
+actions taken under this section.
+ (b) DEFINITIONS- For purposes of this section--
+ (1) the term `marine environment' has the meaning given such term in section
+ 3(1) of the Ports and Waterways Safety Act (33 U.S.C. 1222(1)); and
+ (2) the term `pipelines' has the meaning given the term `pipeline facilities'
+ in the Natural Gas Pipeline Safety Act of 1968 and the Hazardous Liquid
+ Pipeline Safety Act of 1979.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,544 @@
+ 
+--H.R.4323--
+H.R.4323
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Federal Water Pollution Control Act relating to water quality
+in the
+Great Lakes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SHORT TITLE
+ SECTION 1. This Act may be cited as the `Great Lakes Critical Programs Act
+ of 1990'.
+TITLE I--GREAT LAKES
+GREAT LAKES ACTION SCHEDULES
+ SEC. 101. Section 118 of the Federal Water Pollution Control Act (33
+ U.S.C. 1268) is amended by inserting immediately after subsection (c)(1)
+ the following new paragraphs, and by renumbering the existing paragraphs
+ accordingly:
+ `(2) GREAT LAKES WATER QUALITY GUIDANCE-
+ `(A) By June 30, 1991, the Administrator, after consultation with the Program
+ Office, shall publish in the Federal Register for public notice and comment
+ proposed water quality guidance for the Great Lakes System. Such guidance
+ shall conform with the objectives and provisions of the Great Lakes Water
+ Quality Agreement, shall be no less restrictive than the provisions of this
+ Act and national water quality criteria and guidance, shall specify numerical
+ limits on pollutants in ambient Great Lakes waters to protect human health,
+ aquatic life, and wildlife, and shall provide guidance to the Great Lakes
+ States on minimum water quality standards, antidegradation policies, and
+ implementation procedures for the Great Lakes System.
+ `(B) By June 30, 1992, the Administrator, in consultation with the Program
+ Office, shall publish in the Federal Register, pursuant to this section
+ and the Administrator's authority under this chapter, final water quality
+ guidance for the Great Lakes System.
+ `(C) Within two years after such Great Lakes guidance is published, the Great
+ Lakes States shall adopt water quality standards, antidegradation policies,
+ and implementation procedures for waters within the Great Lakes System which
+ are consistent with such guidance. If a Great Lakes State fails to adopt such
+ standards, policies, and procedures, the Administrator shall promulgate them
+ not later than the end of such two-year period. When reviewing any Great
+ Lakes State's water quality plan, the agency shall consider the extent to
+ which the State has complied with the Great Lakes guidance issued pursuant
+ to this section.
+ `(3) REMEDIAL ACTION PLANS-
+ `(A) For each area of concern for which the United States has agreed to
+ draft a Remedial Action Plan, the Program Office shall ensure that the
+ Great Lakes State in which such area of concern is located--
+ `(i) submits a Remedial Action Plan to the Program Office by June 30, 1991;
+ `(ii) submits such Remedial Action Plan to the International Joint Commission
+ by January 1, 1992; and
+ `(iii) includes such Remedial Action Plans within the State's water quality
+ plan by January 1, 1993.
+ `(B) For each area of concern for which Canada has agreed to draft a Remedial
+ Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C)
+ of this section, work with Canada to assure the submission of such Remedial
+ Action Plans to the International Joint Commission by June 30, 1991, and
+ to finalize such Remedial Action Plans by January 1, 1993.
+ `(C) For any area of concern designated as such subsequent to the enactment
+ of this Act, the Program Office shall (i) if the United States has agreed
+ to draft the Remedial Action Plan, ensure that the Great Lakes State in
+ which such area of concern is located submits such Plan to the Program
+ Office within two years of the area's designation, submits it to the
+ International Joint Commission no later than six months after submitting it
+ to the Program Office, and includes such Plan in the State's water quality
+ plan no later than one year after submitting it to the Commission; and (ii)
+ if Canada has agreed to draft the Remedial Action Plan, work with Canada,
+ pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission
+ of such Plan to the International Joint Commission within two years of the
+ area's designation and the finalization of such Plan no later than eighteen
+ months after submitting it to such Commission.
+ `(D) The Program Office shall compile formal comments on individual
+ Remedial Action Plans made by the International Joint Commission pursuant
+ to section 4(d) of Annex 2 of the Great Lakes Water Quality Agreement and,
+ upon request by a member of the public, shall make such comments available
+ for inspection and copying. The Program Office shall also make available,
+ upon request, formal comments made by the Environmental Protection Agency
+ on individual Remedial Action Plans.
+ `(4) LAKEWIDE MANAGEMENT PLANS- The Administrator, in consultation with
+ the Program Office shall--
+ `(A) by January 1, 1992, publish in the Federal Register a proposed Lakewide
+ Management Plan for Lake Michigan and solicit public comments;
+ `(B) by January 1, 1993, submit a proposed Lakewide Management Plan for
+ Lake Michigan to the International Joint Commission for review; and
+ `(C) by January 1, 1994, publish in the Federal Register a final Lakewide
+ Management Plan for Lake Michigan and begin implementation.
+Nothing in this subparagraph shall preclude the simultaneous development of
+Lakewide Management Plans for the other Great Lakes.
+ `(5) SPILLS OF OIL AND HAZARDOUS MATERIALS- The Program Office, in
+ consultation with the Coast Guard, shall identify areas within the Great
+ Lakes which are likely to experience numerous or voluminous spills of oil
+ or other hazardous materials from land based facilities, vessels, or other
+ sources and, in consultation with the Great Lakes States, shall identify
+ weaknesses in Federal and State programs and systems to prevent and respond
+ to such spills. This information shall be included on at least a biennial
+ basis in the report required by this section.'.
+CONTAMINATED SEDIMENTS
+ SEC. 102. Section 118(c)(7) of the Federal Water Pollution Control Act
+ (33 U.S.C. 1268(c)(3)), as renumbered by section 101 of this title, is
+ amended by--
+ (1) inserting `(A)' following the title; and
+ (2) by adding the following new subsections:
+ `(B) The Program Office shall--
+ `(i) by December 31, 1990, complete chemical, physical, and biological
+ assessments of the contaminated sediments at the locations selected for
+ the study and demonstration projects;
+ `(ii) by December 31, 1990, announce the technologies that will be
+ demonstrated at each location and the numerical standard of protection
+ intended to be achieved at each location;
+ `(iii) by December 31, 1992, complete full or pilot scale demonstration
+ projects on site at each location of promising technologies to remedy
+ contaminated sediments; and
+ `(iv) by December 31, 1993, issue a final report to Congress on its findings.
+ `(C) The Administrator, after providing for public review and comment,
+ shall publish information concerning the public health and environmental
+ consequences of contaminants in Great Lakes sediment. Information published
+ pursuant to this subparagraph shall include specific numerical limits
+ to protect health, aquatic life, and wildlife from the bioaccumulation of
+ toxins. The Administrator shall, at a minimum, publish information pursuant to
+ this subparagraph within 2 years of the date of the enactment of this title.'.
+DEFINITIONS
+ SEC. 103. Section 118(a)(3) of the Federal Water Pollution Control Act
+ (33 U.S.C. 1268(a)(3)) is amended by deleting `and' at the end of clause
+ (D), by deleting the period at the end of clause (E), and inserting in lieu
+ thereof a semicolon; and by adding at the end thereof the following:
+ `(F) `area of concern' means a geographic area located within the Great
+ Lakes, in which beneficial uses are impaired and which has been officially
+ designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
+ `(G) `Great Lakes States' means the States of Illinois, Indiana, Michigan,
+ Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
+ `(H) `Great Lakes Water Quality Agreement' means the bilateral agreement,
+ between the United States and Canada which was signed in 1978 and amended
+ by the Protocol of 1987;
+ `(I) `Lakewide Management Plan' means a written document which embodies a
+ systematic and comprehensive ecosystem approach to restoring and protecting
+ the beneficial uses of the open waters of each of the Great Lakes, in
+ accordance with article VI and Annex 2 of the Great Lakes Water Quality
+ Agreement; and
+ `(J) `Remedial Action Plan' means a written document which embodies a
+ systematic and comprehensive ecosystem approach to restoring and protecting
+ the beneficial uses of areas of concern, in accordance with article VI and
+ Annex 2 of the Great Lakes Water Quality Agreement.'.
+GREAT LAKES CONFINED DISPOSAL FACILITIES
+ SEC. 104. At the end of section 118(c) of the Federal Water Pollution
+ Control Act (33 U.S.C. 1268(c)) add the following new paragraph:
+ `(11) CONFINED DISPOSAL FACILITIES- (A) The Administrator, in consultation
+ with the Assistant Secretary of the Army for Civil Works, shall develop
+ and implement, within one year of the date of enactment of this paragraph,
+ management plans for every Great Lakes confined disposal facility.
+ `(B) The plan shall provide for monitoring of such facilities, including--
+ `(i) water quality at the site and in the area of the site;
+ `(ii) sediment quality at the site and in the area of the site;
+ `(iii) the diversity, productivity, and stability of aquatic organisms at
+ the site and in the area of the site; and
+ `(iv) such other conditions as the Administrator deems appropriate.
+ `(C) The plan shall identify the anticipated use and management of the site
+ over the following twenty-year period including the expected termination
+ of dumping at the site, the anticipated need for site management, including
+ pollution control, following the termination of the use of the site.
+ `(D) The plan shall identify a schedule for review and revision of the plan
+ which shall not be less frequent than five years after adoption of the plan
+ and every five years thereafter.'.
+GREAT LAKES NATIONAL PROGRAM AUTHORIZATION
+ SEC. 105. (a) AUTHORIZATION- Section 118(h) of the Federal Water Pollution
+ Control Act (33 U.S.C. 1268(h)) is amended by deleting `1990, and 1991' and
+ inserting in lieu thereof `and 1990, and $25,000,000 for fiscal year 1991'.
+ (b) ALLOCATION- Section 118(h) of the Federal Water Pollution Control Act
+ (33 U.S.C. 1268(h)) is amended by adding after `30 percent' the following:
+ `or $3,300,000, whichever is the lesser,'.
+HEALTH RESEARCH REPORT
+ SEC. 106. Subsection 118(e) of the Federal Water Pollution Control Act is
+ amended by adding at the end thereof the following new paragraph--
+ `(3) HEALTH RESEARCH REPORT- (A) Not later than September 30, 1994, the
+ Program Office, in consultation with the Research Office, the Agency for
+ Toxic Substances and Disease Registry, and Great Lakes States shall submit
+ to the Congress a report assessing the adverse effects of water pollutants
+ in the Great Lakes System on the health of persons in Great Lakes States and
+ the health of fish, shellfish, and wildlife in the Great Lakes System. In
+ conducting research in support of this report, the Administrator may,
+ where appropriate, provide for research to be conducted under cooperative
+ agreements with Great Lakes States.
+ `(B) There is authorized to be appropriated to the Administrator to carry
+ out this section not to exceed $3,000,000 for each of fiscal years 1992,
+ 1993, and 1994.'.
+TITLE II--LONG ISLAND SOUND
+SHORT TITLE
+ SEC. 201. This part may be cited as the `Long Island Sound Improvement Act
+ of 1990'.
+AMENDMENT TO THE FEDERAL WATER POLLUTION CONTROL ACT
+ SEC. 202. Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251
+ et seq.) is amended by adding at the end the following new section:
+ `SEC. 119. LONG ISLAND SOUND- (a) The Administrator shall continue the
+ Management Conference of the Long Island Sound Study (hereinafter referred
+ to as the `Conference') as established pursuant to section 320 of this Act,
+ and shall establish an office (hereinafter referred to as the `Office')
+ to be located on or near Long Island Sound.
+ `(b) ADMINISTRATION AND STAFFING OF OFFICE- The Office shall be headed by a
+ Director, who shall be detailed by the Administrator, following consultation
+ with the Administrators of EPA regions I and II, from among the employees
+ of the Agency who are in civil service. The Administrator shall delegate
+ to the Director such authority and detail such additional staff as may be
+ necessary to carry out the duties of the Director under this section.
+ `(c) DUTIES OF THE OFFICE- The Office shall assist the Management Conference
+ of the Long Island Sound Study in carrying out its goals. Specifically,
+ the Office shall--
+ `(1) assist and support the implementation of the Comprehensive Conservation
+ and Management Plan for Long Island Sound developed pursuant to section
+ 320 of this Act;
+ `(2) conduct or commission studies deemed necessary for strengthened
+ implementation of the Comprehensive Conservation and Management Plan
+ including, but not limited to--
+ `(A) population growth and the adequacy of wastewater treatment facilities,
+ `(B) the use of biological methods for nutrient removal in sewage treatment
+ plants,
+ `(C) contaminated sediments, and dredging activities,
+ `(D) nonpoint source pollution abatement and land use activities in the
+ Long Island Sound watershed,
+ `(E) wetland protection and restoration,
+ `(F) atmospheric deposition of acidic and other pollutants into Long
+ Island Sound,
+ `(G) water quality requirements to sustain fish, shellfish, and wildlife
+ populations, and the use of indicator species to assess environmental quality,
+ `(H) State water quality programs, for their adequacy pursuant to
+ implementation of the Comprehensive Conservation and Management Plan, and
+ `(I) options for long-term financing of wastewater treatment projects and
+ water pollution control programs.
+ `(3) coordinate the grant, research and planning programs authorized under
+ this section;
+ `(4) coordinate activities and implementation responsibilities with other
+ Federal agencies which have jurisdiction over Long Island Sound and with
+ national and regional marine monitoring and research programs established
+ pursuant to the Marine Protection, Research, and Sanctuaries Act;
+ `(5) provide administrative and technical support to the conference;
+ `(6) collect and make available to the public publications, and other forms
+ of information the conference determines to be appropriate, relating to
+ the environmental quality of Long Island Sound;
+ `(7) not more than two years after the date of the issuance of the final
+ Comprehensive Conservation and Management Plan for Long Island Sound under
+ section 320 of this Act, and biennially thereafter, issue a report to the
+ Congress which--
+ `(A) summarizes the progress made by the States in implementing the
+ Comprehensive Conservation and Management Plan;
+ `(B) summarizes any modifications to the Comprehensive Conservation and
+ Management Plan in the twelve-month period immediately preceding such
+ report; and
+ `(C) incorporates specific recommendations concerning the implementation
+ of the Comprehensive Conservation and Management Plan; and
+ `(8) convene conferences and meetings for legislators from State governments
+ and political subdivisions thereof for the purpose of making recommendations
+ for coordinating legislative efforts to facilitate the environmental
+ restoration of Long Island Sound and the implementation of the Comprehensive
+ Conservation and Management Plan.
+ `(d) GRANTS- (1) The Administrator is authorized to make grants for
+ projects and studies which will help implement the Long Island Sound
+ Comprehensive Conservation and Management Plan. Special emphasis shall be
+ given to implementation, research and planning, enforcement, and citizen
+ involvement and education.
+ `(2) State, interstate, and regional water pollution control agencies, and
+ other public or nonprofit private agencies, institutions, and organizations
+ held to be eligible for grants pursuant to this subsection.
+ `(3) Citizen involvement and citizen education grants under this subsection
+ shall not exceed 95 per centum of the costs of such work. All other grants
+ under this subsection shall not exceed 50 per centum of the research,
+ studies, or work. All grants shall be made on the condition that the
+ non-Federal share of such costs are provided from non-Federal sources.
+ `(e) AUTHORIZATIONS- (1) There is authorized to be appropriated to the
+ Administrator for the implementation of this section, other than subsection
+ (d), such sums as may be necessary for each of the fiscal years 1991
+ through 1996.
+ `(2) There is authorized to be appropriated to the Administrator for the
+ implementation of subsection (d) not to exceed $3,000,000 for each of the
+ fiscal years 1991 through 1996.'.
+RELATIONSHIP TO OTHER LAWS
+ SEC. 203. Amend subsection 116(g) of the Marine Protection Research and
+ Sanctuaries Act (33 U.S.C. 1416(g)) by striking all after `shall comply with'
+ and inserting in lieu thereof the following `the requirements of this title.'.
+TITLE III--LAKE CHAMPLAIN
+SHORT TITLE
+ SEC. 301. This title may be cited as the `Lake Champlain Special Designation
+ Act of 1990'.
+DEMONSTRATION PROGRAM
+ SEC. 302. Paragraph (2) of section 314(d) of the Federal Water Pollution
+ Control Act (33 U.S.C. 1324(d)) is amended by inserting `Lake Champlain,
+ New York and Vermont;' before `Lake Houston, Texas'.
+lake champlain management conference
+ SEC. 303. Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251
+ et seq.) is amended by adding at the end thereof the following new section--
+`Lake Champlain Management Conference
+  `SEC. 120. (a) ESTABLISHMENT- There is established a Lake Champlain
+  Management Conference to develop a comprehensive pollution prevention,
+  control, and restoration plan for Lake Champlain. The Administrator
+  shall convene the management conference within ninety days of the date of
+  enactment of this section.
+ `(b) MEMBERSHIP- The Members of the Management Conference shall be comprised
+ of--
+ `(1) the Governors of the States of Vermont and New York;
+ `(2) each interested Federal agency, not to exceed a total of five members;
+ `(3) the Vermont and New York Chairpersons of the Vermont, New York,
+ Quebec Citizens Advisory Committee for the Environmental Management of
+ Lake Champlain;
+ `(4) four representatives of the State legislature of Vermont;
+ `(5) four representatives of the State legislature of New York;
+ `(6) six persons representing local governments having jurisdiction over
+ any land or water within the Lake Champlain basin, as determined appropriate
+ by the Governors; and
+ `(7) eight persons representing affected industries, nongovernmental
+ organizations, public and private educational institutions, and the general
+ public, as determined appropriate by the trigovernmental Citizens Advisory
+ Committee for the Environmental Management of Lake Champlain, but not to
+ be current members of the Citizens Advisory Committee.
+ `(c) TECHNICAL ADVISORY COMMITTEE- (1) The Management Conference shall,
+ not later than one hundred and twenty days after the date of enactment of
+ this section, appoint a Technical Advisory Committee.
+ `(2) Such Technical Advisory Committee shall consist of officials of:
+ appropriate departments and agencies of the Federal Government; the State
+ governments of New York and Vermont; and governments of political subdivisions
+ of such States; and public and private research institutions.
+ `(d) RESEARCH PROGRAM- (1) The Management Conference shall establish a
+ multi-disciplinary environmental research program for Lake Champlain. Such
+ research program shall be planned and conducted jointly with the Lake
+ Champlain Research Consortium.
+ `(e) POLLUTION PREVENTION, CONTROL, AND RESTORATION PLAN- (1) Not later than
+ three years after the date of the enactment of this section, the Management
+ Conference shall publish a pollution prevention, control, and restoration
+ plan (hereafter in this section referred to as the `Plan') for Lake Champlain.
+ `(2) The Plan developed pursuant to this section shall--
+ `(A) identify corrective actions and compliance schedules addressing point
+ and nonpoint sources of pollution necessary to restore and maintain the
+ chemical, physical, and biological integrity of water quality, a balanced,
+ indigenous population of shellfish, fish and wildlife, recreational, and
+ economic activities in and on the lake;
+ `(B) incorporate environmental management concepts and programs established in
+ State and Federal plans and programs in effect at the time of the development
+ of such plan;
+ `(C) clarify the duties of Federal and State agencies in pollution
+ prevention and control activities, and to the extent allowable by law,
+ suggest a timetable for adoption by the appropriate Federal and State
+ agencies to accomplish such duties within a reasonable period of time;
+ `(D) describe the methods and schedules for funding of programs, activities,
+ and projects identified in the Plan, including the use of Federal funds
+ and other sources of funds; and
+ `(E) include a strategy for pollution prevention and control that includes
+ the promotion of pollution prevention and management practices to reduce
+ the amount of pollution generated in the Lake Champlain basin.
+ `(3) The Administrator, in cooperation with the Management Conference, shall
+ provide for public review and comment on the draft Plan. At a minimum, the
+ Management Conference shall conduct one public meeting to hear comments on
+ the draft plan in the State of New York and one such meeting in the State
+ of Vermont.
+ `(4) Not less than one hundred and twenty days after the publication of the
+ Plan required pursuant to this section, the Administrator shall approve such
+ plan if the plan meets the requirements of this section and the Governors
+ of the States of New York and Vermont concur.
+ `(5) Upon approval of the plan, such plan shall be deemed to be an approved
+ management program for the purposes of section 319(h) of this Act and
+ such plan shall be deemed to be an approved comprehensive conservation and
+ management plan pursuant to section 320 of this Act.
+ `(f) GRANT ASSISTANCE- (1) The Administrator may, in consultation with the
+ Management Conference, make grants to State, interstate, and regional water
+ pollution control agencies, and public or nonprofit agencies, institutions,
+ and organizations.
+ `(2) Grants under this subsection shall be made for assisting research,
+ surveys, studies, and modeling and technical and supporting work necessary
+ for the development of the Plan and for retaining expert consultants in
+ support of litigation undertaken by the State of New York and the State
+ of Vermont to compel cleanup or obtain cleanup damage costs from persons
+ responsible for pollution of Lake Champlain.
+ `(3) The amount of grants to any person under this subsection for a fiscal
+ year shall not exceed 75 per centum of the costs of such research, survey,
+ study and work and shall be made available on the condition that non-Federal
+ share of such costs are provided from non-Federal sources.
+ `(4) The Administrator may establish such requirements for the administration
+ of grants as he determines to be appropriate.
+ `(g) DEFINITION- For the purposes of this section, the term `Lake Champlain
+ drainage basin' means all or part of Clinton, Franklin, Warren, Essex, and
+ Washington counties in the State of New York and all or part of Franklin,
+ Grand Isle, Chittenden, Addison, Rutland, Lamoille, Orange, Washington,
+ Orleans, and Caledonia counties in Vermont, that contain all of the streams,
+ rivers, lakes, and other bodies of water, including wetlands, that drain
+ into Lake Champlain.
+ `(h) STATUTORY INTERPRETATION- Nothing in this section shall be construed
+ so as to affect the jurisdiction or powers of--
+ `(1) any department or agency of the Federal Government or any State
+ government; or
+ `(2) any international organization or entity related to Lake Champlain
+ created by treaty or memorandum to which the United States is a signatory.
+ `(i) AUTHORIZATION- There are authorized to be appropriated to the
+ Environmental Protection Agency to carry out this section $2,000,000 for
+ each of fiscal years 1991, 1992, 1993, 1994, and 1995.'.
+FEDERAL PROGRAM COORDINATION
+ SEC. 304. (a) Designation of Lake Champlain as a Special Project Area Under
+ the Agricultural Conservation Program-
+ (1) IN GENERAL- Notwithstanding any other provision of law, the Lake Champlain
+ basin, as defined under section 120(h) of the Federal Water Pollution Control
+ Act, shall be designated by the Secretary of Agriculture as a special project
+ area under the Agricultural Conservation Program established under section
+ 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)).
+ (2) TECHNICAL ASSISTANCE REIMBURSEMENT- To carry out the purposes of this
+ subsection, the technical assistance reimbursement from the Agricultural
+ Stabilization and Conservation Service authorized under the Soil Conservation
+ and Domestic Allotment Act, shall be increased from 5 per centum to 10
+ per centum.
+ (3) COMPREHENSIVE AGRICULTURAL MONITORING- The Secretary, in consultation
+ with the Management Conference and appropriate State and Federal agencies,
+ shall develop a comprehensive agricultural monitoring and evaluation network
+ for all major drainages within the Lake Champlain basin.
+ (4) ALLOCATION OF FUNDS- In allocating funds under this subsection, the
+ Secretary of Agriculture shall consult with the Management Conference
+ established under section 120 of the Federal Water Pollution Control Act
+ and to the extent allowable by law, allocate funds to those agricultural
+ enterprises located at sites that the Management Conference determines to
+ be priority sites, on the basis of a concern for ensuring implementation
+ of nonpoint source pollution controls throughout the Lake Champlain basin.
+ (b) COOPERATION OF THE UNITED STATES GEOLOGICAL SURVEY OF THE DEPARTMENT OF
+ THE INTERIOR- For the purpose of enhancing and expanding basic data collection
+ and monitoring in operation in the Lake Champlain basin, as defined under
+ section 120 of the Federal Water Pollution Control Act, the Secretary of the
+ Interior, acting through the heads of water resources divisions of the New
+ York and New England districts of the United States Geological Survey, shall--
+ (1) in cooperation with appropriate universities and private research
+ institutions, and the appropriate officials of the appropriate departments
+ and agencies of the States of New York and Vermont, develop an integrated
+ geographic information system of the Lake Champlain basin;
+ (2) convert all partial recording sites in the Lake Champlain basin to
+ continuous monitoring stations with full gauging capabilities and status; and
+ (3) establish such additional continuous monitoring station sites in the
+ Lake Champlain basin as are necessary to carry out basic data collection
+ and monitoring, as defined by the Secretary of the Interior, including
+ groundwater mapping, and water quality and sediment data collection.
+ (c) Cooperation of the United States Fish and Wildlife Service of the
+ Department of the Interior-
+ (1) RESOURCE CONSERVATION PROGRAM- The Secretary of the Interior, acting
+ through the United States Fish and Wildlife Service, in cooperation with the
+ Lake Champlain Fish and Wildlife Management Cooperative and the Management
+ Conference established pursuant to this subsection shall--
+ (A) establish and implement a fisheries resources restoration, development
+ and conservation program, including dedicating a level of hatchery production
+ within the Lake Champlain basin at or above the level that existed immediately
+ preceding the date of enactment of this Act; and
+ (B) conduct a wildlife species and habitat assessment survey in the Lake
+ Champlain basin, including--
+ (i) a survey of Federal threatened and endangered species, listed or proposed
+ for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.),
+ New York State and State of Vermont threatened and endangered species and
+ other species of special concern, migratory nongame species of management
+ concern, and national resources plan species;
+ (ii) a survey of wildlife habitats such as islands, wetlands, and riparian
+ areas; and
+ (iii) a survey of migratory bird populations breeding, migrating and
+ wintering within the Lake Champlain basin.
+ (2) To accomplish the purposes of paragraph (1), the Director of the United
+ States Fish and Wildlife Service is authorized to carry out activities
+ related to--
+ (A) controlling sea lampreys and other nonindigenous aquatic animal nuisances;
+ (B) improving the health of fishery resources;
+ (C) conducting investigations about and assessing the status of fishery
+ resources, and disseminating that information to all interested parties; and
+ (D) conducting and periodically updating a survey of the fishery resources
+ and their habitats and food chains in the Lake Champlain basin.
+ (d) AUTHORIZATIONS- (1) There is authorized to be appropriated to the
+ Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992,
+ 1993, 1994, and 1995 to carry out subsection (a) of this section.
+ (2) There is authorized to be appropriated to the Department of Interior
+ $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to
+ carry out subsections (b) and (c) of this section.
+TITLE IV--ONONDAGA LAKE
+ SEC. 401. ONONDAGA LAKE. (a) The Assistant Secretary of the Army for
+ Civil Works, the Administrator of the Environmental Protection Agency,
+ and the Governor of the State of New York, acting jointly, shall convene
+ a management conference for the restoration, conservation, and management
+ of Onondaga Lake. The purpose of this management conference shall include
+ but not be limited to--
+ (1) the development, within a two-year period following the date of the
+ enactment of this Act, of a comprehensive restoration, conservation,
+ and management plan for Onondaga Lake that recommends priority corrective
+ actions and compliance schedules for the cleanup of such Lake; and
+ (2) the coordination  of the implementation of such plan by the State of
+ New York, the United States Army Corps of Engineers, the Environmental
+ Protection Agency and all local agencies, governments, and other groups
+ participating in such management conference.
+ (b)(1) The members of the management conference convened pursuant to
+ subsection (a) shall include, at a minimum, the Assistant Secretary of the
+ Army for Civil Works, the Administrator of the Environmental Protection
+ Agency, the Governor of the State of New York, and representatives of--
+ (A) the Attorney General of the State of New York;
+ (B) Onondaga County, New York; and
+ (C) The city of Syracuse, New York.
+ (2) Any member of the management conference may designate a representative
+ to attend meetings of the management conference and otherwise represent
+ such member on the management conference.
+ (3) The management conference shall have ex officio members which shall
+ include, at a minimum--
+ (A) the United States Senators from the State of New York; and
+ (B) the Member(s) of the United States House of Representatives within
+ whose congressional district(s) lies Onondaga Lake.
+ (4) The management conference shall have standing committees which shall
+ include, at a minimum--
+ (A) a Citizens Advisory Committee; and
+ (B) a Technical Review Committee.
+ (c)(1) Not later than one hundred and twenty days after the completion
+ of the plan developed pursuant to subsection (a), and after providing for
+ public review and comment, the Assistant Secretary of the Army for Civil
+ Works and the Administrator of the Environmental Protection Agency shall
+ approve such plan if such plan meets the requirements of this section,
+ and if the Governor of the State of New York concurs in such approval.
+ (2) Upon approval of the plan under this subsection, such plan shall be
+ implemented.
+ (d)(1) The Assistant Secretary of the Army for Civil Works and the
+ Administrator of the Environmental Protection Agency are authorized to
+ make grants to the State of New York to perform activities authorized
+ under this section or to contract for such performance, provided that such
+ grants shall not exceed 70 per centum of the costs of such activities and
+ that the non-Federal share of such costs are provided from non-Federal
+ sources. Administrative services for the development and implementation
+ of the plan approved pursuant to subsection (a) shall be provided by a
+ not-for-profit corporation established for the purpose of assisting with
+ the planning and coordination of the cleanup of Onondaga Lake.
+ (2) To carry out this section, the Governor of the State of New York may,
+ using funds provided pursuant to paragraph (1), make grants for--
+ (A) research, surveys, administrative services and studies approved by the
+ management conference as necessary for the development of the plan under
+ this section;
+ (B) other activities including administrative services that are approved by
+ the management conference and are necessary to implement the plan approved
+ by the management conference pursuant to subsection (a); and
+ (C) gathering data and retaining expert consultants in support of litigation
+ undertaken by the State of New York to compel cleanup or obtain cleanup and
+ damage costs from parties responsible for the pollution of Onondaga Lake,
+ including administrative services.
+ (3) In-kind payments shall qualify for the purpose of meeting the total
+ non-Federal matching requirements of this subsection.
+ (e) There are authorized to be appropriated to the Assistant Secretary
+ of the Army for Civil Works and the Administrator of the Environmental
+ Protection Agency such sums as may be necessary to carry out this section.
+ (f) Grants made under this section are not intended to relieve any person
+ who would otherwise be liable under Federal or State law for damages,
+ response costs, natural resource damages, restitution, equitable relief or
+ any other relief, from liability for such relief.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

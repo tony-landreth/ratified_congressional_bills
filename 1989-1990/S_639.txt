@@ -1,0 +1,207 @@
+ 
+--S.639--
+S.639
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To establish the Spark M. Matsunaga Hydrogen Research, Development, and Demon-
+stration Program Act of 1990
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SEC. 101. SHORT TITLE.
+ This Act may be referred to as the `Spark M. Matsunaga Hydrogen Research,
+ Development, and Demonstration Act of 1990'.
+SEC. 102. FINDING, PURPOSES, AND DEFINITION.
+ (a) FINDING- Congress finds that it is in the national interest to accelerate
+ efforts to develop a domestic capability to economically produce hydrogen
+ in quantities that will make a significant contribution toward reducing
+ the Nation's dependence on conventional fuels.
+ (b) PURPOSES- The purposes of this Act are--
+ (1) to direct the Secretary to prepare a comprehensive 5-year comprehensive
+ program management plan that will identify and resolve critical technical
+ issues necessary for the realization of a domestic capability to produce,
+ distribute, and use hydrogen economically within the shortest time
+ practicable;
+ (2) to direct the Secretary to develop a technology assessment and information
+ transfer program among the Federal agencies and aerospace, transportation,
+ energy, and other entities; and
+ (3) to develop renewable energy resources as a primary source of energy
+ for the production of hydrogen.
+ (c) DEFINITION- As used in this Act, the term:
+ (1) `critical technology' (or `critical technical issue') means a technology
+ (or issue) that, in the opinion of the Secretary, requires understanding
+ and development in order to take the next needed step in the development
+ of hydrogen as an economic fuel or storage medium; and
+ (2) `Secretary' means the Secretary of Energy.
+SEC. 103. COMPREHENSIVE MANAGEMENT PLAN.
+ (a) PLAN- The Secretary shall prepare a comprehensive 5-year program
+ management plan for research and development activities, which shall be
+ conducted over a period of no less than 5 years and shall be consistent
+ with the provisions of sections 104 and 105. In the preparation of such
+ plan, the Secretary shall consult with the Administrator of the National
+ Aeronautics and Space Administration, the Secretary of Transportation,
+ the Hydrogen Technical Advisory Panel established under section 108,
+ and the heads of such other Federal agencies and such public and private
+ organizations as he deems appropriate. The plan shall be structured to
+ identify and address areas of research critical to the realization of a
+ domestic hydrogen production capability within the shortest time practicable.
+ (b) CONTENTS OF PLAN- Within 180 days after the date of the enactment of
+ this Act, the Secretary shall transmit the comprehensive program management
+ plan to the Committee on Science, Space, and Technology of the House of
+ Representatives and the Committee on Energy and Natural Resources of the
+ Senate. Subsequent plans shall be incorporated in the management plan under
+ this section. The plan shall include--
+ (1) a prioritization of research areas critical to the economic use of
+ hydrogen as a fuel and energy storage medium;
+ (2) the program elements, management structure, and activities, including
+ program responsibilities of individual agencies and individual institutional
+ elements;
+ (3) the program strategies including technical milestones to be achieved
+ toward specific goals during each fiscal year for all major activities
+ and projects;
+ (4) the estimated costs of individual program items, including current as
+ well as proposed funding levels for each of the 5 years of the plan for
+ each of the participating agencies;
+ (5) a description of the methodology of coordination and technology
+ transfer; and
+ (6) the proposed participation by industry and academia in the planning
+ and implementation of the program.
+ (c) DEMONSTRATION PLAN- The Secretary shall, in consultation with the
+ Secretary of Transportation, the Administrator of the National Aeronautics
+ and Space Administration, and the Hydrogen Technical Advisory Panel
+ established under section 108, also prepare a comprehensive large-scale
+ hydrogen demonstration plan with respect to demonstrations carried out
+ pursuant to section 105. Subsequent plans shall be incorporated in the
+ management plan under this section. Such plan shall include--
+ (1) a description of the necessary research and development activities that
+ must be completed before initiation of a large-scale hydrogen production
+ and storage demonstration program;
+ (2) an assessment of the appropriateness of a large-scale demonstration
+ immediately upon completion of the necessary research and development
+ activities;
+ (3) an implementation schedule with associated budget and program management
+ resource requirements; and
+ (4) a description of the role of the private sector in carrying out the
+ demonstration program.
+SEC. 104. RESEARCH AND DEVELOPMENT.
+ (a) PROGRAM- The Secretary shall conduct a research and development
+ program, consistent with the comprehensive 5-year program management plan
+ under section 103, to ensure the development of a domestic hydrogen fuel
+ production capability within the shortest time practicable consistent with
+ market conditions.
+ (b) RESEARCH- (1) Particular attention shall be given to developing an
+ understanding and resolution of all critical technical issues preventing
+ the introduction of hydrogen into the marketplace.
+ (2) The Secretary shall initiate research or accelerate existing research
+ in critical technical issues that will contribute to the development of
+ more economic hydrogen production and use, including, but not limited
+ to, critical technical issues with respect to production, liquefaction,
+ transmission, distribution, storage, and use (including use of hydrogen in
+ surface transportation).
+ (c) RENEWABLE ENERGY PRIORITY- The Secretary shall give priority to those
+ production techniques that use renewable energy resources as their primary
+ source of energy for hydrogen production.
+ (d) NEW TECHNOLOGIES- The Secretary shall, for the purpose of performing his
+ responsibilities pursuant to this Act, solicit proposals for and evaluate
+ any reasonable new or improved technology that could lead or contribute to
+ the development of economic hydrogen production storage and utilization.
+ (e) INFORMATION- The Secretary shall conduct evaluations, arrange for tests
+ and demonstrations, and disseminate to developers information, data, and
+ materials necessary to support efforts undertaken pursuant to this section,
+ consistent with section 106.
+SEC. 105. DEMONSTRATIONS.
+ (a) REQUIREMENT- The Secretary shall conduct demonstrations of critical
+ technologies, preferably in self-contained locations, so that technical
+ and non-technical parameters can be evaluated to best determine commercial
+ applicability of the technology.
+ (b) SMALL-SCALE DEMONSTRATIONS- Concurrently with activities conducted
+ pursuant to section 104, the Secretary shall conduct small-scale
+ demonstrations of hydrogen technology at self-contained sites.
+SEC. 106. TECHNOLOGY TRANSFER PROGRAM.
+ (a) PROGRAM- The Secretary shall conduct a program designed to accelerate
+ wider application of hydrogen production, storage, utilization, and other
+ technologies available in near term as a result of aerospace experience
+ as well as other research progress by transferring critical technologies
+ to the private sector. The Secretary shall direct the program with the
+ advice and assistance of the Hydrogen Technical Advisory Panel established
+ under section 108. The objective in seeking this advice is to increase
+ participation of private industry in the demonstration of near commercial
+ applications through cooperative research and development arrangements,
+ joint ventures or other appropriate arrangements involving the private sector.
+ (b) INFORMATION- The Secretary, in carrying out the program authorized by
+ subsection (a), shall--
+ (1) undertake an inventory and assessment of hydrogen technologies and their
+ commercial capability to economically produce, store, or utilize hydrogen
+ in aerospace, transportation, electric utilities, petrochemical, chemical,
+ merchant hydrogen, and other industrial sectors; and
+ (2) develop a National Aeronautics Space Administration, Department of Energy,
+ and industry information exchange program to improve technology transfer for--
+ (A) application of aerospace experience by industry;
+ (B) application of research progress by industry and aerospace;
+ (C) application of commercial capability of industry by aerospace; and
+ (D) expression of industrial needs to research organizations.
+The information exchange program may consist of workshops, publications,
+conferences, and a data base for the use by the public and private sectors.
+SEC. 107. COORDINATION AND CONSULTATION.
+ (a) SECRETARY'S RESPONSIBILITY- The Secretary shall have overall management
+ responsibility for carrying out programs under this Act. In carrying out
+ such programs, the Secretary, consistent with such overall management
+ responsibility--
+ (1) shall use the expertise of the National Aeronautics and Space
+ Administration and the Department of Transportation; and
+ (2) may use the expertise of any other Federal agency in accordance with
+ subsection (b) in carrying out any activities under this title, to the
+ extent that the Secretary determines that any such agency has capabilities
+ which would allow such agency to contribute to the purpose of this Act.
+ (b) ASSISTANCE- The Secretary may, in accordance with subsection (a),
+ obtain the assistance of any department, agency, or instrumentality of
+ the Executive branch of the Federal Government upon written request, on a
+ reimbursable basis or otherwise and with the consent of such department,
+ agency, or instrumentality. Each such request shall identify the assistance
+ the Secretary deems necessary to carry out any duty under this Act.
+ (c) CONSULTATION- The Secretary shall consult with the Administrator
+ of the National Aeronautics and Space Administration, the Administrator
+ of the Environmental Protection Agency, the Secretary of Transportation,
+ and the Hydrogen Technical Advisory Panel established under section 108 in
+ carrying out his authorities pursuant to this Act.
+SEC. 108. TECHNICAL PANEL.
+ (a) ESTABLISHMENT- There is hereby established the Hydrogen Technical
+ Advisory Panel (the `technical panel'), to advise the Secretary on the
+ programs under this Act.
+ (b) MEMBERSHIP- The technical panel shall be appointed by the Secretary
+ and shall be comprised of such representatives from domestic industry,
+ universities, professional societies, Government laboratories, financial,
+ environmental, and other organizations as the Secretary deems appropriate
+ based on his assessment of the technical and other qualifications of such
+ representatives. Appointments to the technical panel shall be made within
+ 90 days after the enactment of this Act. The technical panel shall have a
+ chairman, who shall be elected by the members from among their number.
+ (c) COOPERATION- The heads of the departments, agencies, and instrumentalities
+ of the Executive branch of the Federal Government shall cooperate with the
+ technical panel in carrying out the requirements of this section and shall
+ furnish to the technical panel such information as the technical panel
+ deems necessary to carry out this section.
+ (d) REVIEW- The technical panel shall review and make any necessary
+ recommendations to the Secretary on the following items--
+ (1) the implementation and conduct of programs under this Act;
+ (2) the economic, technological, and environmental consequences of the
+ deployment of hydrogen production and use systems; and
+ (3) comments on and recommendations for improvements in the comprehensive
+ 5-year program management plan required under section 103.
+ (e) SUPPORT- The Secretary shall provide such staff, funds and other support
+ as may be necessary to enable the technical panel to carry out the functions
+ described in this section.
+SEC. 109. AUTHORIZATION OF APPROPRIATIONS.
+ There is hereby authorized to be appropriated to carry out the purposes of
+ this Act (in addition to any amounts made available for such purposes to
+ other Acts)--
+ (1) $3,000,000 for the fiscal year 1992;
+ (2) $7,000,000 for the fiscal year 1993; and
+ (3) $10,000,000 for the fiscal year 1994.
+Passed the Senate October 16 (legislative day, October 2), 1990.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

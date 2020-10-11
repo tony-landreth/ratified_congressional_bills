@@ -1,0 +1,631 @@
+ 
+--H.R.6181--
+H.R.6181
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Federal Food, Drug, and Cosmetic Act to authorize human drug
+application, prescription drug establishment, and prescription drug product
+fees and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+TITLE I--USER FEES
+SEC. 101. SHORT TITLE AND REFERENCE.
+  (a) SHORT TITLE- This title may be cited as the `Prescription Drug User
+  Fee Act of 1992'.
+  (b) REFERENCE- Whenever in this title an amendment or repeal is expressed
+  in terms of an amendment to, or repeal of, a section or other provision,
+  the reference shall be considered to be made to a section or other provision
+  of the Federal Food, Drug, and Cosmetic Act.
+SEC. 102. FINDINGS.
+  The Congress finds that--
+  (1) prompt approval of safe and effective new drugs is critical to the
+  improvement of the public health so that patients may enjoy the benefits
+  provided by these therapies to treat and prevent illness and disease;
+  (2) the public health will be served by making additional funds available for
+  the purpose of augmenting the resources of the Food and Drug Administration
+  that are devoted to the process for review of human drug applications; and
+  (3) the fees authorized by this title will be dedicated toward expediting
+  the review of human drug applications as set forth in the goals identified
+  in the letters of September 14, 1992, and September 21, 1992, from
+  the Commissioner of Food and Drugs to the Chairman of the Energy and
+  Commerce Committee of the House of Representatives and the Chairman of
+  the Labor and Human Resources Committee of the Senate, as set forth at
+  138 Cong. Rec. H9099-H9100 (daily ed. September 22, 1992).
+SEC. 103. FEES RELATING TO DRUGS.
+  Chapter VII, as amended by section 106, is amended by adding at the end
+  of subchapter C the following:
+`PART 2--FEES RELATING TO DRUGS
+`SEC. 735. DEFINITIONS.
+  `For purposes of this subchapter:
+  `(1) The term `human drug application' means an application for--
+  `(A) approval of a new drug submitted under section 505(b)(1),
+  `(B) approval of a new drug submitted under section 505(b)(2) after
+  September 30, 1992, which requests approval of--
+  `(i) a molecular entity which is an active ingredient (including any salt
+  or ester of an active ingredient), or
+  `(ii) an indication for a use,
+that had not been approved under an application submitted under section 505(b),
+  `(C) initial certification or initial approval of an antibiotic drug under
+  section 507, or
+  `(D) licensure of a biological product under section 351 of the Public
+  Health Service Act.
+Such term does not include a supplement to such an application, does not
+include an application with respect to whole blood or a blood component
+for transfusion, does not include an application with respect to a bovine
+blood product for topical application licensed before September 1, 1992,
+an allergenic extract product, or an in vitro diagnostic biologic product
+licensed under section 351 of the Public Health Service Act, and does not
+include an application with respect to a large volume parenteral drug product
+approved before September 1, 1992.
+  `(2) The term `supplement' means a request to the Secretary to approve a
+  change in a human drug application which has been approved.
+  `(3) The term `prescription drug product' means a specific strength or
+  potency of a drug in final dosage form--
+  `(A) for which a human drug application has been approved, and
+  `(B) which may be dispensed only under prescription pursuant to section
+  503(b).
+Such term does not include whole blood or a blood component for transfusion,
+does not include a bovine blood product for topical application licensed
+before September 1, 1992, an allergenic extract product, or an in vitro
+diagnostic biologic product licensed under section 351 of the Public Health
+Service Act, and does not include a large volume parenteral drug product
+approved before September 1, 1992.
+  `(4) The term `final dosage form' means, with respect to a prescription
+  drug product, a finished dosage form which is approved for administration
+  to a patient without further manufacturing.
+  `(5) The term `prescription drug establishment' means a foreign or domestic
+  place of business which is--
+  `(A) at one general physical location consisting of one or more buildings all
+  of which are within 5 miles of each other, at which one or more prescription
+  drug products are manufactured in final dosage form, and
+  `(B) under the management of a person that is listed as the applicant in
+  a human drug application for a prescription drug product with respect to
+  at least one such product.
+For purposes of this paragraph, the term `manufactured' does not include
+packaging.
+  `(6) The term `process for the review of human drug applications' means
+  the following activities of the Secretary with respect to the review of
+  human drug applications and supplements:
+  `(A) The activities necessary for the review of human drug applications
+  and supplements.
+  `(B) The issuance of action letters which approve human drug applications
+  or which set forth in detail the specific deficiencies in such applications
+  and, where appropriate, the actions necessary to place such applications
+  in condition for approval.
+  `(C) The inspection of prescription drug establishments and other
+  facilities undertaken as part of the Secretary's review of pending human
+  drug applications and supplements.
+  `(D) Activities necessary for the review of applications for licensure
+  of establishments subject to section 351 of the Public Health Service Act
+  and for the release of lots of biologics under such section.
+  `(E) Monitoring of research conducted in connection with the review of
+  human drug applications.
+  `(7) The term `costs of resources allocated for the process for the review
+  of human drug applications' means the expenses incurred in connection with
+  the process for the review of human drug applications for--
+  `(A) officers and employees of the Food and Drug Administration, employees
+  under contract with the Food and Drug Administration who work in facilities
+  owned or leased for the Food and Drug Administration, advisory committees,
+  and costs related to such officers, employees, and committees,
+  `(B) management of information, and the acquisition, maintenance, and
+  repair of computer resources,
+  `(C) leasing, maintenance, renovation, and repair of facilities and
+  acquisition, maintenance, and repair of fixtures, furniture, scientific
+  equipment, and other necessary materials and supplies, and
+  `(D) collecting fees under section 736 and accounting for resources
+  allocated for the review of human drug applications and supplements.
+  `(8) The term `adjustment factor' applicable to a fiscal year is the
+  lower of--
+  `(A) the Consumer Price Index for all urban consumers (all items; United
+  States city average) for August of the preceding fiscal year divided by
+  such Index for August 1992, or
+  `(B) the total of discretionary budget authority provided for programs
+  in the domestic category for the immediately preceding fiscal year (as
+  reported in the Office of Management and Budget sequestration preview
+  report, if available, required under section 254(d) of the Balanced Budget
+  and Emergency Deficit Control Act of 1985) divided by such budget authority
+  for fiscal year 1992 (as reported in the Office of Management and Budget
+  final sequestration report submitted after the end of the 102d Congress,
+  2d Session).
+The terms `budget authority' and `category' in subparagraph (B) are as
+defined in the Balanced Budget and Emergency Deficit Control Act of 1985,
+as in effect as of September 1, 1992.
+`SEC. 736. AUTHORITY TO ASSESS AND USE DRUG FEES.
+  `(a) TYPES OF FEES- Beginning in fiscal year 1993, the Secretary shall
+  assess and collect fees in accordance with this section as follows:
+  `(1) HUMAN DRUG APPLICATION AND SUPPLEMENT FEE-
+  `(A) IN GENERAL- Each person that submits, on or after September 1, 1992, a
+  human drug application or a supplement shall be subject to a fee as follows:
+  `(i) A fee established in subsection (b) for a human drug application for
+  which clinical data (other than bioavailability or bioequivalence studies)
+  with respect to safety or effectiveness are required for approval.
+  `(ii) A fee established in subsection (b) for a human drug application for
+  which clinical data with respect to safety or effectiveness are not required
+  or a supplement for which clinical data (other than bioavailability or
+  bioequivalence studies) with respect to safety or effectiveness are required.
+  `(B) PAYMENT SCHEDULE-
+  `(i) FIRST PAYMENT- 50 percent of the fee required by subparagraph (A)
+  shall be due upon submission of the application or supplement.
+  `(ii) FINAL PAYMENT- The remaining 50 percent of the fee required by
+  subparagraph (A) shall be due upon--
+  `(I) the expiration of 30 days from the date the Secretary sends to the
+  applicant a letter designated by the Secretary as an action letter described
+  in section 735(6)(B), or
+  `(II) the withdrawal of the application or supplement after it is filed
+  unless the Secretary waives the fee or a portion of the fee because no
+  substantial work was performed on such application or supplement after it
+  was filed.
+The designation under subclause (I) or the waiver under subclause (II)
+shall be solely in the discretion of the Secretary and shall not be reviewable.
+  `(C) EXCEPTION FOR PREVIOUSLY FILED APPLICATION OR SUPPLEMENT- If a human
+  drug application or supplement was submitted by a person that paid the fee
+  for such application or supplement, was accepted for filing, and was not
+  approved or was withdrawn (without a waiver), the submission of a human
+  drug application or a supplement for the same product by the same person
+  (or the person's licensee, assignee, or successor) shall not be subject
+  to a fee under subparagraph (A).
+  `(D) REFUND OF FEE IF APPLICATION NOT ACCEPTED FOR FILING- The Secretary
+  shall refund 50 percent of the fee paid under subparagraph (B)(i) for any
+  application or supplement which is not accepted for filing.
+  `(2) PRESCRIPTION DRUG ESTABLISHMENT FEE- Each person that--
+  `(A) owns a prescription drug establishment, at which is manufactured at
+  least 1 prescription drug product which is not the, or not the same as
+  a, product approved under an application filed under section 505(b)(2)
+  or 505(j), and
+  `(B) after September 1, 1992, had pending before the Secretary a human
+  drug application or supplement,
+shall be subject to the annual fee established in subsection (b) for each
+such establishment, payable on or before January 31 of each year.
+  `(3) PRESCRIPTION DRUG PRODUCT FEE-
+  `(A) IN GENERAL- Except as provided in subparagraph (B), each person--
+  `(i) who is named as the applicant in a human drug application for a
+  prescription drug product which is listed under section 510, and
+  `(ii) who, after September 1, 1992, had pending before the Secretary a
+  human drug application or supplement,
+shall pay for each such prescription drug product the annual fee established
+in subsection (b). Such fee shall be payable at the time of the first such
+listing of such product in each calendar year. Such fee shall be paid only
+once each year for each listed prescription drug product irrespective of
+the number of times such product is listed under section 510.
+  `(B) EXCEPTION- The listing of a prescription drug product under section
+  510 shall not require the person who listed such product to pay the fee
+  prescribed by subparagraph (A) if such product is the same product as
+  a product approved under an application filed under section 505(b)(2)
+  or 505(j).
+  `(b) FEE AMOUNTS-
+  `(1) SCHEDULE- Except as provided in paragraph (2) and subsections (c),
+  (d), (f), and (g), the fees required under subsection (a) shall be paid
+  in accordance with the following schedule:
+-------------------------------------------------------------------------------------------------------------------
+                              Fiscal Year 1993 Fiscal Year 1994 Fiscal Year
+                              1995 Fiscal Year 1996 Fiscal Year 1997
+-------------------------------------------------------------------------------------------------------------------
+  Subsection (a)(1)(A)(i) fee $100,000                 $150,000
+  $208,000         $217,000         $233,000
+Subsection (a)(1)(A)(ii)  fee $50,000                   $75,000
+$104,000         $108,000         $116,000
+                  Fee revenue $12,000,000           $18,000,000
+                  $25,000,000      $26,000,000      $28,000,000
+      Fee per estab- lishment $60,000                   $88,000
+      $126,000         $131,000         $138,000
+                  Fee revenue $12,000,000           $18,000,000
+                  $25,000,000      $26,000,000      $28,000,000
+              Fee per product $6,000                     $9,000
+              $12,500          $13,000          $14,000
+                  Fee revenue $12,000,000           $18,000,000
+                  $25,000,000      $26,000,000      $28,000,000
+           Total fee revenues $36,000,000           $54,000,000
+           $75,000,000      $78,000,000      $84,000,000
+-------------------------------------------------------------------------------------------------------------------
+  `(2) SMALL BUSINESS EXCEPTION- Any business which has fewer than 500
+  employees, including employees of affiliates, and which does not have a
+  prescription drug product introduced or delivered for introduction into
+  interstate commerce shall pay one-half the amount of the fee for human
+  drug applications it submits and shall pay the entire amount of the fee
+  for supplements it submits. Such a business shall not be required to pay
+  any portion of any fee required under subsection (a)(1)(A) until 1 year
+  after the date of the submission of the application involved. For purposes
+  of this paragraph, one business is an affiliate of another business when,
+  directly or indirectly, one business controls, or has the power to control,
+  the other business or a third party controls, or has the power to control,
+  both businesses.
+  `(c) INCREASES AND ADJUSTMENTS-
+  `(1) REVENUE INCREASE- The total fee revenues established by the schedule in
+  subsection (b)(1) shall be increased by the Secretary by notice, published
+  in the Federal Register, for a fiscal year to reflect the greater of--
+  `(A) the total percentage increase that occurred during the preceding
+  fiscal year in the Consumer Price Index for all urban consumers (all items;
+  U.S. city average), or
+  `(B) the total percentage increase for such fiscal year in basic pay
+  under the General Schedule in accordance with section 5332 of title 5,
+  United States Code, as adjusted by any locality-based comparability payment
+  pursuant to section 5304 of such title for Federal employees stationed in
+  the District of Columbia.
+  `(2) ANNUAL FEE ADJUSTMENT- Subject to the amount appropriated for a fiscal
+  year under subsection (g), the Secretary shall, within 60 days after the
+  end of each fiscal year beginning after October 1, 1992, adjust the fees
+  established by the schedule in subsection (b)(1) for the following fiscal
+  year to achieve the total fee revenues, as may be increased under paragraph
+  (1). Such fees shall be adjusted under this paragraph to maintain the
+  proportions established in such schedule.
+  `(3) LIMIT- The total amount of fees charged, as adjusted under paragraph
+  (2), for a fiscal year may not exceed the total costs for such fiscal
+  year for the resources allocated for the process for the review of human
+  drug applications.
+  `(d) FEE WAIVER OR REDUCTION- The Secretary shall grant a waiver from or
+  a reduction of 1 or more fees under subsection (a) where the Secretary
+  finds that--
+  `(1) such waiver or reduction is necessary to protect the public health,
+  `(2) the assessment of the fee would present a significant barrier to
+  innovation because of limited resources available to such person or other
+  circumstances,
+  `(3) the fees to be paid by such person will exceed the anticipated present
+  and future costs incurred by the Secretary in conducting the process for
+  the review of human drug applications for such person, or
+  `(4) assessment of the fee for an application or a supplement filed under
+  section 505(b)(1) pertaining to a drug containing an active ingredient
+  would be inequitable because an application for a product containing the
+  same active ingredient filed by another person under section 505(b)(2)
+  could not be assessed fees under subsection (a)(1).
+In making the finding in paragraph (3), the Secretary may use standard costs.
+  `(e) EFFECT OF FAILURE TO PAY FEES- A human drug application or supplement
+  submitted by a person subject to fees under subsection (a) shall be
+  considered incomplete and shall not be accepted for filing by the Secretary
+  until all fees owed by such person have been paid.
+  `(f) ASSESSMENT OF FEES-
+  `(1) LIMITATION- Fees may not be assessed under subsection (a) for a fiscal
+  year beginning after fiscal year 1993 unless appropriations for salaries
+  and expenses of the Food and Drug Administration for such fiscal year
+  (excluding the amount of fees appropriated for such fiscal year) are
+  equal to or greater than the amount of appropriations for the salaries
+  and expenses of the Food and Drug Administration for the fiscal year 1992
+  multiplied by the adjustment factor applicable to the fiscal year involved.
+  `(2) AUTHORITY- If the Secretary does not assess fees under subsection
+  (a) during any portion of a fiscal year because of paragraph (1) and if
+  at a later date in such fiscal year the Secretary may assess such fees,
+  the Secretary may assess and collect such fees, without any modification
+  in the rate, for human drug applications and supplements, prescription
+  drug establishments, and prescription drug products at any time in such
+  fiscal year notwithstanding the provisions of subsection (a) relating to
+  the date fees are to be paid.
+  `(g) CREDITING AND AVAILABILITY OF FEES-
+  `(1) IN GENERAL- Fees collected for a fiscal year pursuant to subsection (a)
+  shall be credited to the appropriation account for salaries and expenses
+  of the Food and Drug Administration and shall be available in accordance
+  with appropriation Acts until expended without fiscal year limitation.
+  `(2) COLLECTIONS AND APPROPRIATION ACTS- The fees authorized by this
+  section--
+  `(A) shall be collected in each fiscal year in an amount equal to the
+  amount specified in appropriation Acts for such fiscal year, and
+  `(B) shall only be collected and available to defray increases in the costs
+  of the resources allocated for the process for the review of human drug
+  applications (including increases in such costs for an additional number
+  of full-time equivalent positions in the Department of Health and Human
+  Services to be engaged in such process) over such costs for fiscal year
+  1992 multiplied by the adjustment factor.
+  `(3) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  for fees under this section--
+  `(A) $36,000,000 for fiscal year 1993,
+  `(B) $54,000,000 for fiscal year 1994,
+  `(C) $75,000,000 for fiscal year 1995,
+  `(D) $78,000,000 for fiscal year 1996, and
+  `(E) $84,000,000 for fiscal year 1997,
+as adjusted to reflect increases in the total fee revenues made under
+subsection (c)(1).
+  `(h) COLLECTION OF UNPAID FEES- In any case where the Secretary does not
+  receive payment of a fee assessed under subsection (a) within 30 days
+  after it is due, such fee shall be treated as a claim of the United
+  States Government subject to subchapter II of chapter 37 of title 31,
+  United States Code.
+  `(i) CONSTRUCTION- This section may not be construed to require that the
+  number of full-time equivalent positions in the Department of Health and
+  Human Services, for officers, employers, and advisory committees not engaged
+  in the process of the review of human drug applications, be reduced to offset
+  the number of officers, employees, and advisory committees so engaged.'.
+SEC. 104. ANNUAL REPORTS.
+  (a) FIRST REPORT- Within 60 days after the end of each fiscal year during
+  which fees are collected under part 2 of subchapter C of chapter VII of
+  the Federal Food, Drug, and Cosmetic Act, the Secretary of Health and Human
+  Services shall submit a report stating the Food and Drug Administration's
+  progress in achieving the goals identified in section 102(3) of this
+  Act during such fiscal year and that agency's future plans for meeting
+  such goals.
+  (b) SECOND REPORT- Within 120 days after the end of each fiscal year during
+  which such fees are collected, the Secretary of Health and Human Services
+  shall submit a report on the implementation of the authority for such fees
+  during such fiscal year and on the use the Food and Drug Administration made
+  of the fees collected during such fiscal year for which the report is made.
+  (c) COMMITTEES- The reports described in subsections (a) and (b) shall
+  be submitted to the Committee on Energy and Commerce of the House of
+  Representatives and the Committee on Labor and Human Resources of the Senate.
+SEC. 105. SUNSET.
+  The amendments made by section 103 shall not be in effect after October 1,
+  1997 and section 104 shall not be in effect after 120 days after such date.
+SEC. 106. CONFORMING AMENDMENTS TO CHAPTER VII
+  Chapter VII is amended--
+  (1) by striking out in the chapter heading `ADMINISTRATIVE PROVISIONS'
+  and inserting in lieu thereof `AUTHORITY',
+  (2) by inserting before the section heading for section 701 the following:
+`Subchapter A--General Administrative Provisions',
+  (3) by redesignating section 702A (21 U.S.C. 372a) as section 706 and
+  by inserting it after section 705 (21 U.S.C. 375) and by redesignating
+  section 712 (21 U.S.C. 379d) as section 711,
+  (4) by moving section 706 (21 U.S.C 376), as in effect on the date of the
+  enactment of this Act, to the end of chapter VII, by redesignating the
+  section as section 721, and by inserting before the section heading for
+  the section the following:
+`Subchapter B--Colors',
+  (5) by inserting after section 721 (as so redesignated) the following:
+`Subchapter C--Fees
+`PART 1--FREEDOM OF INFORMATION FEES', and
+  (6) by inserting section 711 (21 U.S.C. 379c), as in effect on the date
+  of the enactment of this Act, after the heading for part 1 of subchapter
+  C and redesignating it as section 731.
+SEC. 107. GENERAL CONFORMING AMENDMENTS.
+  To conform the Federal Food, Drug, and Cosmetic Act, to the amendments made
+  to that Act by section 106(4), the following conforming amendments are made:
+  (1) Section 201(u) (21 U.S.C. 321(u)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (2) Section 301(i)(1) (21 U.S.C. 331(i)(1)) is amended by striking out
+  `706' and inserting in lieu thereof `721'.
+  (3) Section 301(j) (21 U.S.C. 331(j)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (4) Section 402(c) (21 U.S.C. 342(c)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (5) Section 403(i) (21 U.S.C. 343(i)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (6) Section 403(m) (21 U.S.C. 343(m)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (7) Section 408(g) (21 U.S.C. 346a(g)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (8) Section 501(a)(4) (21 U.S.C 351(a)(4)) is amended by striking out
+  `706' each place it occurs and inserting in lieu thereof `721'.
+  (9) Section 502(m) (21 U.S.C. 352(m)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (10) Section 520(g)(2)(A) (21 U.S.C. 360j(g)(2)(A)) is amended by striking
+  out `706' and by inserting in lieu thereof `721'.
+  (11) Section 601(e) (21 U.S.C. 361(e)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (12) Section 602(e) (21 U.S.C. 362(e)) is amended by striking out `706'
+  and inserting in lieu thereof `721'.
+  (13) Section 4(g)(2)(D) of the Poultry Products Inspection Act (21
+  U.S.C. 453(g)(2)(D)) is amended by striking out `706' and inserting in
+  lieu thereof `721'.
+  (14) Section 1(m)(2)(D) of the Federal Meat Inspection Act (21
+  U.S.C. 601(m)(2)(D)) is amended by striking out `706' and inserting in
+  lieu thereof `721'.
+  (15) Section 4(a)(2)(D) of the Egg Products Inspection Act (21
+  U.S.C. 1033(a)(2)(D)) is amended by striking out `706' and inserting in
+  lieu thereof `721'.
+  (16) Section 10(b) of the Nutrition Labeling and Education Act of 1990
+  (21 U.S.C. 343 note) is amended--
+  (A) in paragraph (2)--
+  (i) by striking `(1) 24' and inserting `(A) 24'; and
+  (ii) by striking `(2) action' and inserting `(B) action';
+  (B) by indenting, and aligning the margins of, paragraph (2) so as to
+  align with paragraph (1); and
+  (C) by indenting, and aligning the margins of, subparagraphs (A) and (B)
+  of paragraph (2) (as so designated by subparagraph (A)) so as to align
+  with the subparagraphs of paragraph (1).
+  (17) Section 10(c)(2)(A) of the Nutrition Labeling and Education Act of 1990
+  (21 U.S.C. 343 note) (as amended by section 1 of the Act entitled `An Act
+  to make Technical Amendments to the Nutrition Information and Labeling Act,
+  and for other purposes', approved August 17, 1991 (Public Law 102-108;
+  105 Stat. 549) is amended by striking `706' and inserting `721'.
+SEC. 108. ANIMAL DRUG USER FEE STUDY.
+  (a) STUDY- The Secretary, in consultation with manufacturers of animal drug
+  products and other interested persons, shall undertake a study to evaluate
+  whether, and under what conditions, to impose user fees to supplement
+  appropriated funds in order to improve the process of reviewing applications
+  (including abbreviated and supplemental applications) for new animal drugs
+  under section 512 of the Federal Food, Drug, and Cosmetic Act. The study
+  shall include--
+  (1) an assessment of the overall review process for animal drugs at the
+  Center for Veterinary Medicine, including the number of applications
+  received, and the average times for interim and final decisions on each
+  type of application,
+  (2) the current allocation of funds to the animal drug review process,
+  (3) recommendations for goals for decision making times on applications
+  submitted to the Center for Veterinary Medicine and for additional resources
+  required to meet the goals, and
+  (4) recommendations for supplementing the resources for the animal drug
+  review process through user fees.
+  (b) COMPLETION- The results of the study required by subsection (a) shall
+  be presented no later than January 4, 1994, to the Committee on Energy
+  and Commerce of the House of Representatives and the Committee on Labor
+  and Human Resources of the Senate.
+TITLE II--DIETARY SUPPLEMENTS
+SEC. 201. SHORT TITLE.
+  This title may be cited as the `Dietary Supplement Act of 1992'.
+SEC. 202. PROHIBITION.
+  (a) IN GENERAL-
+  (1) PROHIBITION ON IMPLEMENTATION- Notwithstanding any other provision
+  of law and except as provided in subsection (b) and in the amendment
+  made by paragraph (2)(A), the Secretary of Health and Human Services may
+  not implement the Nutrition Labeling and Education Act of 1990 (Public
+  Law 101-535; 104 Stat. 2353), or any amendment made by such Act, earlier
+  than December 15, 1993, with respect to dietary supplements of vitamins,
+  minerals, herbs, or other similar nutritional substances.
+  (2) FEDERAL REGULATORY ACTION-
+  (A) PROPOSED REGULATIONS- The first sentence of section 2(b)(1), and
+  the first sentence of section 3(b)(1)(A), of the Nutrition Labeling and
+  Education Act of 1990 (21 U.S.C. 343 note) are each amended by inserting
+  before the period the following: `, except that the Secretary shall issue,
+  not later than June 15, 1993, proposed regulations that are applicable
+  to dietary supplements of vitamins, minerals, herbs, or other similar
+  nutritional substances to implement such section'.
+  (B) FINAL REGULATIONS-
+  (i) ISSUANCE OF FINAL REGULATIONS- The second sentence of section 2(b)(1),
+  and section 3(b)(1)(B), of the Nutrition Labeling and Education Act of
+  1990 (21 U.S.C. 343 note) are each amended by inserting before the period
+  the following: `, except that the Secretary shall issue, not later than
+  December 31, 1993, such a final regulation applicable to dietary supplements
+  of vitamins, minerals, herbs, or other similar nutritional substances.'.
+  (ii) REGULATIONS CONSIDERED TO BE FINAL- The first sentence of section
+  2(b)(2), and the first sentence of section 3(b)(2), of the Nutrition
+  Labeling and Education Act of 1990 (21 U.S.C. 343 note) are each amended
+  by inserting before the period the following: `, except that the proposed
+  regulations applicable to dietary supplements of vitamins, minerals,
+  herbs, or other similar nutritional substances shall not be considered to
+  be final regulations until December 31, 1993'.
+  (C) CONSTRUCTION- The amendments made by subparagraph (B) shall not be
+  construed to modify the effective date of final regulations under sections
+  2(b) and 3(b) of the Nutrition Labeling and Education Act of 1990 (21
+  U.S.C. 343 note) with respect to foods that are not such dietary supplements.
+  (3) STATE ACTION- Section 10(a)(1)(C) of the Nutrition Labeling and
+  Education Act of 1990 (21 U.S.C. 343 note) is amended by inserting before
+  the comma the following: `, except that such amendments shall take effect
+  with respect to such dietary supplements on December 31, 1993'.
+  (4) PREEMPTION- Section 10(b) of the Nutrition Labeling and Education Act
+  of 1990 (21 U.S.C. 343 note) is amended by adding at the end the following:
+  `(3) REQUIREMENTS PERTAINING TO CERTAIN CLAIMS- Notwithstanding subparagraphs
+  (D) and (E) of paragraph (1) and except with respect to claims approved
+  in accordance with section 202(b) of the Dietary Supplement Act of 1992,
+  the requirements described in paragraphs (4) and (5) of section 403A(a) of
+  the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343-1(a) (4) and (5))
+  that pertain to dietary supplements of vitamins, minerals, herbs, or other
+  similar nutritional substances shall not take effect until the date final
+  regulations take effect to implement subsection (q) or (r), as appropriate,
+  of section 403 of such Act with respect to such dietary supplements.'.
+  (b) HEALTH CLAIMS- Notwithstanding section 403(r)(5)(D) of the Federal
+  Food, Drug, and Cosmetic Act (21 U.S.C. 343(r)(5)(D)) and subsection (a),
+  the Secretary of Health and Human Services may, earlier than December 15,
+  1993, approve claims made with respect to dietary supplements of vitamins,
+  minerals, herbs, or other similar nutritional substances that are claims
+  described in clauses (vi) and (x) of section 3(b)(1)(A) of the Nutrition
+  Labeling and Education Act of 1990 (21 U.S.C. 343 note).
+SEC. 203. UNITED STATES RECOMMENDED DAILY ALLOWANCES.
+  Notwithstanding any other provision of Federal law, no regulations that
+  require the use of, or are based upon, recommended daily allowances
+  of vitamins or minerals may be promulgated before November 8, 1993
+  (other than regulations establishing the United States recommended
+  daily allowances specified at section 101.9(c)(7)(iv) of title 21, Code
+  of Federal Regulations, as in effect on October 6, 1992, or regulations
+  under section 403(r)(1)(A) of the Federal Food, Drug, and Cosmetic Act (21
+  U.S.C. 343(r)(1)(A)) that are based on such recommended daily allowances).
+SEC. 204. ENFORCEMENT REPORT.
+  (a) CONTENTS- The Secretary of Health and Human Services shall prepare a
+  report containing a statement of the enforcement priorities and practices
+  of the Food and Drug Administration under section 409 of the Federal Food,
+  Drug, and Cosmetic Act (21 U.S.C. 348) with respect to dietary supplements
+  of vitamins, minerals, herbs, or other similar nutritional substances.
+  (b) REPORT- Not later than 30 days after the date of enactment of this Act,
+  the Secretary of Health and Human Services shall submit the report described
+  in subsection (a) to the Committee on Energy and Commerce of the House of
+  Representatives and the Committee on Labor and Human Resources of the Senate.
+SEC. 205. MANAGEMENT ACTIVITIES STUDY.
+  (a) STUDY- The Comptroller General shall conduct a study of the management of
+  activities of the Food and Drug Administration that are related to dietary
+  supplements of vitamins, minerals, herbs, or other similar nutritional
+  substances.
+  (b) CONTENTS- In conducting the study, the Comptroller General shall examine,
+  with respect to such activities--
+  (1) the means by which the Food and Drug Administration makes a determination
+  that a substance poses a risk to public health and safety that justifies
+  the expenditure of resources by the agency;
+  (2) the means by which the Food and Drug Administration makes a determination
+  that a substance is adulterated, misbranded, or improperly manufactured;
+  (3) the means by which the Food and Drug Administration makes a determination
+  relating to the quantitative management of the agency response to specific
+  issues, in order to adjust the efforts of the agency to be commensurate
+  with the severity of the problem addressed by the agency;
+  (4) the approach by which the Food and Drug Administration determines
+  the adequacy of proof related to the risk posed by, or the safety of,
+  a substance, and the adequacy of such approach; and
+  (5) the relationship between--
+  (A)(i) the number of hours devoted by Food and Drug Administration personnel,
+  and the expertise of such personnel, in conducting such activities;
+  (ii) the cost of conducting such activities; and
+  (iii) the cost to manufacturers of such supplements to achieve compliance
+  with such activities; and
+  (B)(i) the level of risk suspected to be posed by such supplements; and
+  (ii) the level of risk determined to be posed by such supplements.
+  (c) APPROACH- In conducting the study, the Comptroller General shall analyze
+  the current practices of the Food and Drug Administration and the practices
+  of the agency within the 5 years prior to the date of enactment of this Act.
+  (d) ANALYSIS- In conducting the study, the Comptroller General shall--
+  (1) determine the relative proportion of resources devoted to Food and Drug
+  Administration regulatory and enforcement activities that are related to--
+  (A) dietary supplements of vitamins, minerals, herbs, or other similar
+  nutritional substances;
+  (B) food additives that are not such dietary supplements;
+  (C) foods that are not such dietary supplements;
+  (D) drugs that are not such dietary supplements, and devices; or
+  (E) cosmetics; and
+  (2) determine, with respect to such supplements, with respect to food
+  additives, and with respect to foods, the proportion of the resources
+  devoted to such regulatory and enforcement activities that are used to--
+  (A) determine whether a substance is misbranded;
+  (B) determine whether an improper manufacturing practice occurred during
+  the manufacturing of a substance;
+  (C) determine whether a substance is unsafe; and
+  (D) determine whether a substance is adulterated or otherwise in violation
+  of the Federal Food, Drug, and Cosmetic Act (other than by making a
+  determination described in subparagraph (A), (B), or (C)).
+  (e) REPORTS-
+  (1) INTERIM REPORT-
+  (A) IN GENERAL- Not later than 6 months after the date of enactment of this
+  Act, the Comptroller General shall prepare and submit to the Committee on
+  Energy and Commerce of the House of Representatives and the Committee on
+  Labor and Human Resources of the Senate an interim report containing the
+  findings resulting from the study and the recommendations described in
+  subparagraph (B).
+  (B) RECOMMENDATIONS- Such report shall include the recommendations of the
+  Comptroller General for administrative reform, including recommendations
+  regarding opportunities for encouraging economy and efficiency through
+  the appropriate targeting of problems, managing resources appropriately,
+  and making adequate determinations of risk or safety, in carrying out
+  activities related to such supplements.
+  (2) FINAL REPORT-
+  (A) IN GENERAL- Not later than 12 months after the date of enactment of
+  this Act, the Comptroller General shall prepare and submit to the Committee
+  on Energy and Commerce of the House of Representatives and the Committee
+  on Labor and Human Resources of the Senate a final report containing the
+  findings resulting from the study and the recommendations described in
+  subparagraph (B).
+  (B) RECOMMENDATIONS- Such report shall contain the recommendations described
+  in paragraph (1)(B).
+SEC. 206. SAFETY AND REGULATORY OUTCOMES STUDY.
+  (a) SAFETY STUDY- The Director of the Office of Technology Assessment,
+  in cooperation with the Congressional Research Service and subject to the
+  approval of the Technology Assessment Board, shall conduct a study of the
+  relationship between--
+  (1) regulatory systems affecting the development and sale of dietary
+  supplements of vitamins, minerals, herbs, or other similar nutritional
+  substances; and
+  (2) health outcomes.
+  (b) CONTENTS-
+  (1) IN GENERAL- In carrying out the study, the Director of the Office of
+  Technology Assessment shall examine the efforts of industrialized nations
+  (including the United States) to regulate the manufacture and sale of such
+  dietary supplements and the effect of the regulatory efforts on human health.
+  (2) INFORMATION- The study shall include information regarding--
+  (A) whether and how other countries regulate products that are regulated
+  as such dietary supplements in the United States;
+  (B) the classification systems used in regulating such products, such as
+  systems that classify such supplements by safety, function, source, usage,
+  dose, or other characteristics;
+  (C) the effect of the classification on the regulation of the supplements;
+  (D) how safety concerns, including safety concerns at the time of manufacture
+  and sale of the product are addressed by the regulatory process;
+  (E) how deception concerns (including misbranding) are addressed by the
+  regulatory process; and
+  (F) the labeling requirements, if any, for the sale of the products.
+  (3) ANALYSIS- The study shall also examine--
+  (A) whether there are disparate rates of morbidity and mortality associated
+  with the consumption of such dietary supplements among nations;
+  (B) whether particular regulatory systems may be associated with lower
+  morbidity and mortality rates; and
+  (C) whether a causal relationship may be demonstrated between the regulatory
+  system used and the health outcomes of the populations affected.
+  (c) REPORT- The Director of the Office of Technology Assessment shall,
+  not later than 6 months after the date on which the study is approved by
+  the Technology Assessment Board, submit a report containing the findings
+  of the study to the Committee on Energy and Commerce of the House of
+  Representatives and the Committee on Labor and Human Resources of the Senate.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

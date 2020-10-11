@@ -1,0 +1,650 @@
+ 
+--S.2344--
+S.2344
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To improve the provision of health care and other services to veterans by the
+Department of Veterans Affairs, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Veterans' Medical Programs
+  Amendments of 1992'.
+  (b) TABLE OF CONTENTS- The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. References to title 38, United States Code, and to Secretary of
+Veterans Affairs.
+TITLE I--HEALTH CARE
+Part A--General Health Care
+Sec. 101. Increase in limit on certain grants for home structural alterations
+for disabled veterans.
+Sec. 102. Submission of reports of Geriatrics and Gerontology Advisory
+Committee.
+Sec. 103. Authority to hold joint title to medical equipment.
+Sec. 104. Quality assurance activities.
+Sec. 105. Advisory Committee on Prosthetics and Special-Disabilities Programs.
+Sec. 106. Prosthetic services report.
+Sec. 107. Services for homeless veterans.
+Part B--Mental Health Provisions
+Sec. 121. Marriage and family counseling for Persian Gulf War veterans.
+Sec. 122. Post-traumatic stress disorder research and reports.
+Sec. 123. Post-traumatic stress disorder program planning.
+TITLE II--HEALTH-CARE PERSONNEL
+Sec. 201. Cap on certain rates of pay.
+Sec. 202. Minimum period of service for scholarship recipients.
+Sec. 203. Authority to purchase items of nominal value for recruitment
+purposes.
+Sec. 204. Special pay for certain physicians and dentists based on board
+certification.
+Sec. 205. Authority to appoint non-physician directors to the Office of the
+Under Secretary for Health.
+Sec. 206. Expansion of director grade of the physician and dentist pay
+schedule.
+TITLE III--MISCELLANEOUS PROVISIONS
+Sec. 301. Authorization requirement for construction of new medical facilities.
+Sec. 302. Redesignation of certain positions within the Department of
+Veterans Affairs.
+Sec. 303. Attorney fees in connection with certain Department of Veterans
+Affairs proceedings.
+SEC. 2. REFERENCES TO TITLE 38, UNITED STATES CODE, AND TO SECRETARY OF
+VETERANS AFFAIRS.
+  (a) REFERENCES TO TITLE 38- Except as otherwise expressly provided, whenever
+  in this Act an amendment or repeal is expressed in terms of an amendment to,
+  or repeal of, a section or other provision, the reference shall be considered
+  to be made to a section or other provision of title 38, United States Code.
+  (b) REFERENCES TO SECRETARY- Except as otherwise expressly provided, any
+  reference in this Act to `the Secretary' is a reference to the Secretary
+  of Veterans Affairs.
+TITLE I--HEALTH CARE
+Part A--General Health Care
+SEC. 101. INCREASE IN LIMIT ON CERTAIN GRANTS FOR HOME STRUCTURAL ALTERATIONS
+FOR DISABLED VETERANS.
+  (a) INCREASE- Section 1717(a)(2) is amended by striking out `$2,500' and
+  `$600' and inserting in lieu thereof `$4,100' and `$1,200', respectively.
+  (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply with
+  respect to a veteran who first applies for benefits under section 1717(a)(2)
+  of title 38, United States Code, after December 31, 1989.
+  (c) APPLICABILITY- A veteran who exhausts such veteran's eligibility for
+  benefits under section 1717(a)(2) of title 38, United States Code, before
+  January 1, 1990, is not entitled to additional benefits under such section
+  by reason of the amendments made by subsection (a).
+SEC. 102. SUBMISSION OF REPORTS OF GERIATRICS AND GERONTOLOGY ADVISORY
+COMMITTEE.
+  Paragraph (2) of section 7315(c) is amended to read as follows:
+  `(2) Whenever the Committee submits a report to the Secretary under paragraph
+  (1), the Committee shall at the same time transmit a copy of the report in
+  the same form to the appropriate committees of Congress. Not later than 90
+  days after receipt of a report under that paragraph, the Secretary shall
+  submit to the appropriate committees of Congress a report containing any
+  comments and recommendations of the Secretary with respect to the report
+  of the Committee.'.
+SEC. 103. AUTHORITY TO HOLD JOINT TITLE TO MEDICAL EQUIPMENT.
+  (a) IN GENERAL- (1) Chapter 81 is amended by adding at the end of subchapter
+  IV the following new sections:
+`Sec. 8157. Joint title to medical equipment
+  `(a) Subject to subsection (b), the Secretary may enter into agreements
+  with institutions described in section 8153(a) of this title for the joint
+  acquisition of medical equipment.
+  `(b)(1) The Secretary may not pay more than one-half of the purchase price
+  of equipment acquired through an agreement under subsection (a).
+  `(2) Any equipment to be procured under such an agreement shall be procured
+  by the Secretary. Title to such equipment shall be held jointly by the
+  United States and the institution.
+  `(3) Before equipment acquired under such an agreement may be used, the
+  parties to the agreement shall arrange by contract under section 8153 of
+  this title for the exchange or use of the equipment.
+  `(4) The Secretary may not contract for the acquisition of medical equipment
+  to be purchased jointly under an agreement under subsection (a) until the
+  institution which enters into the agreement provides to the Secretary its
+  share of the purchase price of the medical equipment.
+  `(c)(1) Notwithstanding any other provision of law, the Secretary may
+  transfer the interest of the Department in equipment acquired through an
+  agreement under subsection (a) to the institution which holds joint title
+  to the equipment if the Secretary determines that the transfer would be
+  justified by compelling clinical considerations or the economic interest of
+  the Department. Any such transfer may only be made upon agreement by the
+  institution to pay to the Department the amount equal to one-half of the
+  depreciated purchase price of the equipment. Any such payment when received
+  shall be credited to the applicable Department medical appropriation.
+  `(2) Notwithstanding any other provision of law, the Secretary may acquire
+  the interest of an institution in equipment acquired under subsection
+  (a) if the Secretary determines that the acquisition would be justified
+  by compelling clinical considerations or the economic interests of the
+  Department. The Secretary may not pay more than one-half the depreciated
+  purchase price of that equipment.
+`Sec. 8158. Deposit in escrow
+  `(a) To facilitate the procurement of medical equipment pursuant to section
+  8157 of this title, the Secretary may enter into escrow agreements with
+  institutions described in section 8153(a) of this title. Any such agreement
+  shall provide that--
+  `(1) the institutions shall pay to the Secretary the funds necessary to
+  make a payment under section 8157(b)(4) of this title;
+  `(2) the Secretary, as escrow agent, shall administer those funds in an
+  escrow account; and
+  `(3) the Secretary shall disburse the escrowed funds to pay for such
+  equipment upon its delivery or in accordance with the contract to procure
+  the equipment and shall disburse all accrued interest or other earnings
+  on the escrowed funds to the institution.
+  `(b) As escrow agent for funds placed in escrow pursuant to an agreement
+  under subsection (a), the Secretary may--
+  `(1) invest the escrowed funds in obligations of the Federal Government
+  or obligations which are insured or guaranteed by the Federal Government;
+  `(2) retain in the escrow account interest or other earnings on such
+  investments;
+  `(3) disburse the funds pursuant to the escrow agreement; and
+  `(4) return undisbursed funds to the institution.
+  `(c)(1) If the Secretary enters into an escrow agreement under this section,
+  the Secretary may enter into an agreement to procure medical equipment if
+  one-half the purchase price of the equipment is available in an appropriation
+  or fund for the expenditure or obligation.
+  `(2) Funds held in an escrow account under this section shall not be
+  considered to be public funds.'.
+  (2) The table of sections at the beginning of chapter 81 is amended by
+  inserting after the item relating to section 8156 the following new items:
+`8157. Joint title to medical equipment.
+`8158. Deposit in escrow.'.
+  (b) REPORT- Not later than 45 days after the date of the enactment of this
+  Act, the Secretary shall submit to the Committees on Veterans' Affairs
+  of the Senate and House of Representatives a report on the Secretary's
+  plans for implementation of this section. The report shall include an
+  identification and discussion of--
+  (1) the instructions the Secretary proposes to issue to medical facilities to
+  guide the development of proposals for procurement of medical equipment under
+  this section, including instructions for ensuring equitable arrangements
+  for use of the equipment by the Department and the co-purchasers of the
+  equipment;
+  (2) the criteria by which the Secretary plans to evaluate proposals to
+  procure medical equipment under this section;
+  (3) the means by which the Secretary will integrate the process of procuring
+  equipment under this section with the policies and procedures governing
+  health care planning by the Veterans Health Administration; and
+  (4) the criteria by which determinations to transfer title to equipment
+  under section 8157(c) of title 38, United States Code, as added by subsection
+  (a), would be made.
+SEC. 104. QUALITY ASSURANCE ACTIVITIES.
+  Effective on October 1, 1992, programs and activities which (1) the Secretary
+  carries out pursuant to section 7311(a) of title 38, United States Code, or
+  (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100-322
+  (102 Stat. 508) shall be deemed to be part of the operation of hospitals,
+  nursing homes, and domiciliary facilities of the Department of Veterans
+  Affairs, without regard to the location of the duty stations of employees
+  carrying out those programs and activities.
+SEC. 105. ADVISORY COMMITTEE ON PROSTHETICS AND SPECIAL-DISABILITIES PROGRAMS.
+  (a) STATUS AND NAME OF COMMITTEE- The Federal advisory committee established
+  by the Secretary and known as the Prosthetics Service Advisory Committee
+  shall after the date of the enactment of this Act be known as the  Advisory
+  Committee on Prosthetics and Special-Disabilities Programs and shall operate
+  as though such committee had been established by law. Notwithstanding any
+  other provision of law, the Committee may, upon the enactment of this Act,
+  meet and act on any matter covered by subsection (b) of section 543 of
+  title 38, United States Code, as added by subsection (b) of this section.
+  (b) STATUTORY ESTABLISHMENT- (1) Chapter 5 is amended by adding at the
+  end of subchapter III the following new section:
+`Sec. 543. Advisory Committee on Prosthetics and Special-Disabilities Programs
+  `(a) There is in the Department an advisory committee known as the Advisory
+  Committee on Prosthetics and Special-Disabilities Programs (hereinafter
+  in this section referred to as the `Committee').
+  `(b) The objectives and scope of activities of the Committee shall
+  relate to--
+  `(1) prosthetics and special-disabilities programs administered by the
+  Secretary;
+  `(2) the coordination of programs of the Department for the development
+  and testing of, and for information exchange regarding, prosthetic devices;
+  `(3) the coordination of Department and non-Department programs that
+  involve the development and testing of prosthetic devices; and
+  `(4) the adequacy of funding for the prosthetics and special-disabilities
+  programs of the Department.
+  `(c) The Secretary shall, on a regular basis, consult with and seek the
+  advice of the Committee on the matters described in subsection (b).
+  `(d) Not later than January 15 of 1993, 1994, and 1995, the Committee shall
+  submit to the Secretary and the Committees on Veterans' Affairs of the
+  Senate and House of Representatives a report on the effectiveness of the
+  prosthetics and special-disabilities programs administered by the Secretary
+  during the preceding fiscal year. Not more than 60 days after the date on
+  which any such report is received by the Secretary, the Secretary shall
+  submit a report to such committees commenting on the report of the Committee.
+  `(e) As used in this section, the term `special-disabilities programs'
+  includes all programs administered by the Secretary for--
+  `(1) spinal-cord-injured veterans;
+  `(2) blind veterans;
+  `(3) veterans who have lost or lost the use of extremities;
+  `(4) hearing-impaired veterans; and
+  `(5) other veterans with serious incapacities in terms of daily life
+  functions.'.
+  (2) The table of sections at the beginning of chapter 5 is amended by
+  adding at the end the following new item:
+`543. Advisory Committee on Prosthetics and Special-Disabilities Programs.'.
+SEC. 106. PROSTHETIC SERVICES REPORT.
+  Not later than six months after the date of the enactment of this Act,
+  the Secretary shall submit to the Committees on Veterans' Affairs of the
+  Senate and House of Representatives a report containing--
+  (1) the Secretary's evaluation of the reasons for the backlog that occurred
+  in the procurement of prosthetic appliances in fiscal year 1989, and
+  for the failure to furnish prosthetic appliances in accordance with the
+  priority established in section 1712(i) of title 38, United States Code; and
+  (2) a description of the actions that the Secretary has taken and plans
+  to take to prevent a recurrence of--
+  (A) the accumulation of a significant backlog in the procurement of
+  prosthetic appliances; and
+  (B) the failure to furnish prosthetic appliances in accordance with such
+  priority, including a schedule for any such planned actions.
+SEC. 107. SERVICES FOR HOMELESS VETERANS.
+  (a) PROGRAM DEVELOPMENT- The Secretary shall assess all programs developed
+  by facilities of the Department of Veterans Affairs which have been
+  designed to assist homeless veterans. To the maximum extent practicable,
+  the Secretary shall seek to replicate at other facilities of the Department
+  those programs that have as a goal the rehabilitation of homeless veterans
+  and which the Secretary has determined to be successful in achieving that
+  goal by fostering reintegration of homeless veterans into the community
+  and employment of such veterans.
+  (b) ASSESSMENT AND COORDINATION- (1) In carrying out subsection (a),
+  the Secretary shall require the director of each medical center or the
+  director of each regional benefits office to make an assessment of the
+  needs of homeless veterans living within the area served by the medical
+  center or regional office, as the case may be.
+  (2) Each such assessment shall be made in coordination with representatives
+  of State and local governments, other appropriate departments and agencies
+  of the Federal Government, and nongovernmental organizations that have
+  experience working with homeless persons in that area.
+  (3) Each such assessment shall identify the needs of homeless veterans
+  with respect to the following:
+  (A) Health care.
+  (B) Education and training.
+  (C) Employment.
+  (D) Shelter.
+  (E) Counseling.
+  (F) Outreach services.
+  (4) Each assessment shall also indicate the extent to which the needs
+  referred to in paragraph (3) are being met adequately by the programs of
+  the Department, of other departments and agencies of the Federal Government,
+  of State and local governments, and of nongovernmental organizations.
+  (5) Each assessment shall be carried out in accordance with uniform
+  procedures and guidelines prescribed by the Secretary.
+  (c) PLANNING- In furtherance of subsection (a), the Secretary shall require
+  the director of each medical center and the director of each regional
+  benefits office, in coordination with representatives of State and local
+  governments, other Federal officials, and nongovernmental organizations
+  that have experience working with homeless persons in the areas served by
+  such facility, to--
+  (1) develop a list of all public and private programs that provide assistance
+  to homeless persons or homeless veterans in the area concerned, together
+  with a description of the services offered by those programs; and
+  (2) seek to encourage the development by the representatives of such
+  entities, in coordination with the director, of a plan to coordinate among
+  such public and private programs the provision of services to homeless
+  veterans.
+  (d) SERVICES- In furtherance of subsection (a), the Secretary shall require
+  the director of each medical center or regional benefits office, in carrying
+  out such director's responsibilities under title 38, United States Code,
+  to take appropriate action to--
+  (1) meet, to the maximum extent practicable through existing programs and
+  available resources, the needs of homeless veterans that are identified
+  in the assessment conducted under subsection (b); and
+  (2) attempt to inform homeless veterans whose needs the director cannot
+  meet under paragraph (1) of the services available to such veterans within
+  the area served by such center or office.
+  (e) AUTHORITY TO ACCEPT DONATIONS FOR CERTAIN PROGRAMS- The Secretary
+  may accept donations of funds and services for the purposes of providing
+  one-stop, non-residential services and mobile support teams and for expanding
+  the medical services to homeless veterans eligible for such services from
+  the Department of Veterans Affairs.
+  (f) DEFINITIONS- As used in subsections (a) through (e):
+  (1) The term `medical center' means a medical center of the Department of
+  Veterans Affairs.
+  (2) The term `regional benefits office' means a regional benefits office
+  of the Department of Veterans Affairs.
+  (3) The term `veteran' has the meaning given such term in section 101(2)
+  of title 38, United States Code.
+  (4) The term `homeless' has the meaning given such term in section 103(a),
+  as limited by section 103(c), of the Stewart B. McKinney Homeless Assistance
+  Act (42 U.S.C. 11302(a)).
+  (g) EXTENSION OF CERTAIN PROGRAMS FOR HOMELESS VETERANS- Section 801
+  of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988
+  (Public Law 100-628; 102 Stat. 3257) is amended--
+  (1) in subsection (a), by striking out `to the Veterans' Administration'
+  and all that follows through the period and inserting in lieu thereof the
+  following: `to the Department of Veterans Affairs $50,000,000 for fiscal
+  year 1993 for medical care of veterans. Funds appropriated pursuant to
+  this section shall be in addition to any funds appropriated pursuant to
+  any other authorizations (whether definite or indefinite) for medical care
+  of veterans.'; and
+  (2) in subsections (b) and (c), by striking out `Of the amount appropriated
+  pursuant to subsection (a), 50 percent' and inserting in lieu thereof
+  `The amounts appropriated pursuant to subsection (a)'.
+  (h) EXTENSION OF PROGRAM FOR MENTALLY ILL HOMELESS VETERANS- Section 115(d)
+  of the Veterans' Benefits and Services Act of 1988 (38 U.S.C. 1712 note)
+  is amended by striking out `1992' and inserting in lieu thereof `1994'.
+  (i) REPORT- Not later than February 1, 1993, the Secretary shall
+  submit to the Committees on Veterans' Affairs of the Senate and House of
+  Representatives a report containing an evaluation of the programs referred
+  to in subsections (a) and (e).
+Part B--Mental Health Provisions
+SEC. 121. MARRIAGE AND FAMILY COUNSELING FOR PERSIAN GULF WAR VETERANS.
+  (a) REQUIREMENT- Subject to the availability of funds appropriated
+  pursuant to the authorization in subsection (g), the Secretary shall
+  conduct a program to furnish to the persons referred to in subsection
+  (b) the marriage and family counseling services referred to in subsection
+  (c). The authority to conduct the program shall expire on September 30, 1994.
+  (b) PERSONS ELIGIBLE FOR COUNSELING- The persons eligible to receive
+  marriage and family counseling services under the program are--
+  (1) veterans who were awarded a campaign medal for active-duty service during
+  the Persian Gulf War and the spouses and children of such veterans; and
+  (2) veterans who are or were members of the reserve components who were
+  called or ordered to active duty during the Persian Gulf War and the
+  spouses and children of such members.
+  (c) COUNSELING SERVICES- Under the program, the Secretary may provide
+  marriage and family counseling that the Secretary determines, based on an
+  assessment by a mental-health professional employed by the Department and
+  designated by the Secretary (or, in an area where no such professional
+  is available, a mental-health professional designated by the Secretary
+  and performing services under a contract or fee arrangement with the
+  Secretary), is necessary for the amelioration of psychological, marital,
+  or familial difficulties that result from the active duty service referred
+  to in subsection (b) (1) or (2).
+  (d) MANNER OF FURNISHING SERVICES- (1) Marriage and family counseling
+  services shall be furnished under the program--
+  (A) by personnel of the Department of Veterans Affairs who are qualified
+  to provide such counseling services;
+  (B) by appropriately certified marriage and family counselors employed by
+  the Department; and
+  (C) by qualified mental health professionals pursuant to contracts with
+  the Department, when Department facilities are not capable of furnishing
+  economical medical services because of geographical inaccessibility or
+  are not capable of furnishing the services required.
+  (2) The Secretary shall establish the qualifications required of personnel
+  under subparagraphs (A) and (C) of paragraph (1) and shall prescribe the
+  training, experience, and certification required of appropriately certified
+  marriage and family counselors under subparagraph (B) of such paragraph.
+  (3) The Secretary may employ licensed or certified marriage and family
+  counselors to provide counseling under paragraph (1)(B) and may classify
+  the positions in which they are employed at levels determined appropriate
+  by the Secretary, taking into consideration the training, experience,
+  and licensure or certification required of such counselors.
+  (e) CONTRACT COUNSELING SERVICES- (1) Subject to paragraphs (2) and
+  (4), a mental health professional referred to in subsection (d)(1)(C)
+  may furnish marriage and family counseling services to a person under the
+  program as follows:
+  (A) For a period of not more than 15 days beginning on the date of the
+  commencement of the furnishing of such services to the person.
+  (B) For a 90-day period beginning on such date if--
+  (i) the mental health professional submits to the Secretary a treatment
+  plan with respect to the person not later than 15 days after such date; and
+  (ii) the treatment plan and the assessment made under subsection (c) are
+  approved by an appropriate mental health professional of the Department
+  designated for that purpose by the Under Secretary for Health.
+  (C) For an additional 90-day period beginning on the date of the expiration
+  of the 90-day period referred to in subparagraph (B) (or any subsequent
+  90-day period) if--
+  (i) not more than 30 days before the expiration of the 90-day period
+  referred to in subparagraph (B) (or any subsequent 90-day period), the
+  mental health professional submits to the Secretary a revised treatment
+  plan containing a justification of the need of the person for additional
+  counseling services; and
+  (ii) the plan is approved in accordance with the provisions of subparagraph
+  (B)(ii).
+  (2)(A) A mental health professional referred to in paragraph (1) who
+  assesses the need of any person for services for the purposes of subsection
+  (c) may not furnish counseling services to that person.
+  (B) The Secretary may waive the prohibition referred to in subparagraph
+  (A) for locations (as determined by the Secretary) in which the Secretary
+  is unable to obtain the assessment referred to in that subparagraph from
+  a mental health professional other than the mental health professional
+  with whom the Secretary enters into contracts under subsection (d)(1)(C)
+  for the furnishing of counseling services.
+  (3) The Secretary shall reimburse mental health professionals for the
+  reasonable cost (as determined by the Secretary) of furnishing counseling
+  services under paragraph (1).  In the event of the disapproval of a treatment
+  plan of a person submitted by a mental health professional under paragraph
+  (1)(B)(i), the Secretary shall reimburse the mental health professional for
+  the reasonable cost (as so determined) of furnishing counseling services
+  to the person for the period beginning on the date of the commencement of
+  such services and ending on the date of the disapproval.
+  (4) The Secretary may authorize the furnishing of counseling in an individual
+  case for a period shorter than the 90-day period specified in subparagraph
+  (B) or (C) of paragraph (1) and, upon further consideration, extend the
+  shorter period to the full 90 days.
+  (5)(A) For the purposes of this subsection, the term `treatment plan',
+  with respect to a person entitled to counseling services under the program,
+  must include--
+  (i) an assessment by the mental health professional submitting the plan
+  of the counseling needs of the person described in the plan on the date
+  of the submittal of the plan; and
+  (ii) a description of the counseling services to be furnished to the
+  person by the mental health professional during the 90-day period covered
+  by the plan, including the number of counseling sessions proposed as part
+  of such services.
+  (B) The Secretary shall prescribe an appropriate form for the treatment plan.
+  (f) COST RECOVERY- For the purposes of section 1729 of title 38, United
+  States Code, marriage and family counseling services furnished under the
+  program shall be deemed to be care and services furnished by the Department
+  under chapter 17 of such title, and the United States shall be entitled
+  to recover or collect the reasonable cost of such services in accordance
+  with that section.
+  (g) AUTHORIZATION OF APPROPRIATIONS- There is authorized to be appropriated
+  $10,000,000 for each of fiscal years 1993 and 1994 to carry out this section.
+  (h) REPORT- Not later than July 1, 1994, the Secretary shall submit to
+  Congress a report on the program conducted pursuant to this section. The
+  report shall contain information regarding the persons furnished counseling
+  services under the program, including--
+  (1) the number of such persons, stated as a total number and separately
+  for each eligibility status referred to in subsection (b);
+  (2) the age and gender of such persons;
+  (3) the manner in which such persons were furnished such services under
+  the program; and
+  (4) the number of counseling sessions furnished to such persons.
+  (i) DEFINITIONS- For the purposes of this section, the terms `veteran',
+  `child', `active duty', `reserve component',  `spouse', and `Persian
+  Gulf War' have the meanings given such terms in paragraphs 101 (2), (4),
+  (21), (27), (31), and (33) of section 101 of title 38, United States Code,
+  respectively.
+SEC. 122. POST-TRAUMATIC STRESS DISORDER RESEARCH AND REPORTS.
+  (a) RESEARCH PRIORITY- In carrying out research and awarding grants under
+  chapter 73 of title 38, United States Code, the Secretary shall assign
+  a high priority to the conduct of research on mental illness, including
+  research regarding (1) post-traumatic stress disorder, (2) post-traumatic
+  stress disorder in association with substance abuse, and (3) the treatment
+  of those disorders.
+  (b) UPDATES OF REPORTS UNDER SECTION 110(c) OF PUBLIC LAW 98-528- (1) Not
+  later than October 1, 1992, and October 1, 1993, the Special Committee on
+  Post-Traumatic-Stress Disorder established pursuant to section 110(b)(1)
+  of the Veterans' Health Care Act of 1984 (38 U.S.C. 1712A note) shall
+  concurrently submit to the Secretary and the Committees on Veterans' Affairs
+  of the Senate and House of Representatives a report containing information
+  updating the reports submitted to the Secretary under section 110(e)
+  of the Veterans' Health Care Act of 1984, together with any additional
+  information the Special Committee considers appropriate regarding the
+  overall efforts of the Department of Veterans Affairs to meet the needs
+  of veterans with post-traumatic stress disorder and other psychological
+  problems in readjusting to civilian life.
+  (2) Not later than 90 days after receiving each of the reports under
+  paragraph (1), the Secretary shall submit to the committees any comments
+  concerning the report that the Secretary considers appropriate.
+SEC. 123. POST-TRAUMATIC STRESS DISORDER PROGRAM PLANNING.
+  (a) PLAN- The Secretary shall develop a plan--
+  (1) to ensure, to the maximum extent practicable, that veterans suffering
+  from post-traumatic stress disorder related to active duty are provided
+  appropriate treatment and rehabilitative services for that condition in
+  a timely manner;
+  (2) to expand and improve the services available for veterans suffering
+  from post-traumatic stress disorder related to active duty;
+  (3) to eliminate waiting lists for inpatient treatment and other modes of
+  treatment for post-traumatic stress disorder;
+  (4) to enhance outreach activities carried out to inform combat-area veterans
+  of the availability of treatment for post-traumatic stress disorder; and
+  (5) to ensure, to the extent practicable, that there are Department
+  post-traumatic stress disorder treatment units in locations that are
+  readily accessible to veterans residing in rural areas of the United States.
+  (b) CONSIDERATIONS- In developing the plan referred to in subsection (a),
+  the Secretary shall consider--
+  (1) the numbers of veterans suffering from post-traumatic stress disorder
+  related to active duty, as indicated by relevant studies, scientific and
+  clinical reports, and other pertinent information;
+  (2) the numbers of veterans who would likely seek post-traumatic stress
+  disorder treatment from the Department if waiting times for treatment
+  were eliminated and outreach activities to combat-area veterans with
+  post-traumatic stress disorder were enhanced;
+  (3) the current and projected capacity of the Department to provide
+  appropriate treatment and rehabilitative services for post-traumatic
+  stress disorder;
+  (4) the level and geographic accessibility of inpatient and outpatient care
+  available through the Department for veterans suffering from post-traumatic
+  stress disorder across the United States;
+  (5) the desirability of providing that inpatient and outpatient
+  post-traumatic stress disorder care be furnished in facilities of the
+  Department that are physically independent of general psychiatric wards
+  of the medical facilities of the Department;
+  (6) the treatment needs of veterans suffering from post-traumatic stress
+  disorder who are women, of such veterans who are ethnic minorities
+  (including Native Americans, Native Hawaiians, Asian-Pacific Islanders,
+  and Native Alaskans), and of such veterans who suffer from substance abuse
+  problems in addition to post-traumatic stress disorder; and
+  (7) the recommendations of the Special Committee on Post-Traumatic-Stress
+  Disorder with respect to (A) specialized inpatient and outpatient programs
+  of the Department for the treatment of post-traumatic stress disorder,
+  and (B) with respect to the establishment of educational programs that
+  are designed for each of the various levels of education, training, and
+  experience of the various mental health professionals involved in the
+  treatment of veterans suffering from post-traumatic stress disorder.
+  (c) REPORT- Not later than six months after the date of the enactment
+  of this Act, the Secretary shall submit to the Committees on Veterans'
+  Affairs of the Senate and House of Representatives a report on the plan
+  developed pursuant to subsection (a). The report shall include specific
+  information relating to the consideration given to the matters described
+  in subsection (b).
+  (d) DEFINITIONS- For the purposes of this section:
+  (1) The term `active duty' has the meaning given that term in section
+  101(21) of title 38, United States Code.
+  (2) The term `veteran' has the meaning given that term in section 101(2)
+  of such title.
+  (3) The term `combat-area veteran' means a veteran who served on active
+  duty in an area at a time during which hostilities (as defined in section
+  1712A(a)(2)(B) of such title) occurred in such area.
+TITLE II--HEALTH-CARE PERSONNEL
+SEC. 201. CAP ON CERTAIN RATES OF PAY.
+  Section 7455(c) is amended--
+  (1) by inserting `(1)' after `(c)';
+  (2) by inserting `by two times' after `exceed' the first place it appears;
+  and
+  (3) by adding at the end the following:
+  `(2) Whenever the amount of an increase under subsection (a) results in a
+  rate of basic pay for a position being equal to or greater than the amount
+  that is 94 percent of the maximum amount permitted under paragraph (1), the
+  Secretary shall promptly notify the Committees on Veterans' Affairs of the
+  Senate and House of Representatives of the increase and the amount thereof.'.
+SEC. 202. MINIMUM PERIOD OF SERVICE FOR SCHOLARSHIP RECIPIENTS.
+  (a) MINIMUM SERVICE REQUIREMENT- Section 7612(c)(1) is amended by striking
+  out the period at the end of subparagraph (B) and inserting in lieu thereof
+  `, but for not less than two years.'.
+  (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply to
+  scholarship agreements entered into after the date of the enactment of
+  this Act.
+SEC. 203. AUTHORITY TO PURCHASE ITEMS OF NOMINAL VALUE FOR RECRUITMENT
+PURPOSES.
+  Section 7423 is amended by adding at the end the following new subsection:
+  `(f) The Secretary may purchase promotional items of nominal value for use
+  in the recruitment of individuals for employment under this chapter. The
+  Secretary shall prescribe guidelines for the administration of the preceding
+  sentence.'.
+SEC. 204. SPECIAL PAY FOR CERTAIN PHYSICIANS AND DENTISTS BASED ON BOARD
+CERTIFICATION.
+  (a) IN GENERAL- Section 7437(e) is amended by striking out `only for the
+  special-pay' and all that follows through the period in paragraphs (1)(C)
+  and (2)(C) and inserting in lieu thereof `for no special-pay factors
+  other than primary, full-time, length of service, and specialty or board
+  certification.'.
+  (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply as if
+  enacted with the amendment made by section 102 of the Department of Veterans
+  Affairs Health-Care Personnel Act of 1991 (Public Law 102-40; 105 Stat. 187).
+  (c) AVAILABILITY OF FUNDS- Expenses incurred for periods before October 1,
+  1991, by reason of the amendments made by subsection (a) may be charged
+  to fiscal year 1992 appropriations available for the same purpose.
+SEC. 205. AUTHORITY TO APPOINT NON-PHYSICIAN DIRECTORS TO THE OFFICE OF THE
+UNDER SECRETARY FOR HEALTH.
+  Section 7306(a) is amended--
+  (1) by redesignating paragraph (7) as paragraph (8); and
+  (2) by inserting after paragraph (6) the following new paragraph (7):
+  `(7) Such directors of such other professional or auxiliary services
+  as may be appointed to suit the needs of the Department, who shall be
+  responsible to the Under Secretary for Health for the operation of their
+  respective services.'.
+SEC. 206. EXPANSION OF DIRECTOR GRADE OF THE PHYSICIAN AND DENTIST PAY
+SCHEDULE.
+  Section 7404(b)(2) is amended in the first sentence by inserting `, or
+  comparable position' before the period.
+TITLE III--MISCELLANEOUS
+SEC. 301. AUTHORIZATION REQUIREMENT FOR CONSTRUCTION OF NEW MEDICAL FACILITIES.
+  (a) AUTHORIZATION REQUIREMENT- (1) Paragraph (2) of section 8104(a) is
+  amended to read as follows:
+  `(2) No funds may be appropriated for any fiscal year, and the Secretary may
+  not obligate or expend funds (other than for advance planning and design),
+  for any major medical facility project or any major medical facility lease
+  unless funds for that project or lease have been specifically authorized
+  by law.'.
+  (2) Paragraph (3)(B) of that section is amended--
+  (A) by inserting `new' before `medical facility' the second place it
+  appears; and
+  (B) by striking out `$500,000' and inserting in lieu thereof `$300,000'.
+  (3) Subsection (c) of section 8104 is amended by striking out `resolution'
+  both places it appears and inserting in lieu thereof `law'.
+  (b) APPLICABILITY- The amendments made by subsection (a) shall not apply
+  with respect to any project for which funds were appropriated before the
+  date of the enactment of this Act.
+SEC. 302. REDESIGNATION OF CERTAIN POSITIONS WITHIN THE DEPARTMENT OF
+VETERANS AFFAIRS.
+  (a) REDESIGNATION OF POSITION OF CHIEF MEDICAL DIRECTOR- The position of
+  Chief Medical Director of the Department of Veterans Affairs is hereby
+  redesignated as Under Secretary for Health of the Department of Veterans
+  Affairs.
+  (b) REDESIGNATION OF POSITION OF CHIEF BENEFITS DIRECTOR- The position of
+  Chief Benefits Director of the Department of Veterans Affairs is hereby
+  redesignated as Under Secretary for Benefits of the Department of Veterans
+  Affairs.
+  (c) TITLE 38 CONFORMING AMENDMENTS- (1) Title 38, United States Code,
+  is amended by striking out `Chief Medical Director' and `Chief Benefits
+  Director' each place they appear (including in headings and tables but not
+  including the sentences added by paragraphs (2) and (3)) and inserting
+  in lieu thereof `Under Secretary for Health' and `Under Secretary for
+  Benefits', respectively.
+  (2) Section 7301(a) is amended by adding after the last sentence the
+  following: `The Under Secretary for Health may be referred to as the Chief
+  Medical Director.'.
+  (3) Section 7701(b) is amended by adding after the last sentence the
+  following: `The Under Secretary for Benefits may be referred to as the
+  Chief Benefits Director.'.
+  (d) EXECUTIVE SCHEDULE CONFORMING AMENDMENT- Section 5314 of title 5,
+  United States Code, is amended by striking out the following:
+  `Chief Medical Director, Department of Veterans Affairs.
+  `Chief Benefits Director, Department of Veterans Affairs.';
+  and inserting in lieu thereof the following:
+  `Under Secretary for Health, Department of Veterans Affairs.
+  `Under Secretary for Benefits, Department of Veterans Affairs.'.
+  (e) REFERENCES IN OTHER LAWS- Any reference in any Federal law, Executive
+  order, rule, regulation, or delegation of authority, or any document of
+  or pertaining to the Department of Veterans Affairs--
+  (1) to the Chief Medical Director of the Department of Veterans Affairs
+  shall be deemed to refer to the Under Secretary for Health of the Department
+  of Veterans Affairs; and
+  (2) to the Chief Benefits Director of the Department of Veterans Affairs
+  shall be deemed to refer to the Under Secretary for Benefits of the
+  Department of Veterans Affairs.
+SEC. 303. ATTORNEY FEES IN CONNECTION WITH CERTAIN DEPARTMENT OF VETERANS
+AFFAIRS PROCEEDINGS.
+  (a) IN GENERAL- Section 5904(c) is amended--
+  (1) By striking out `In' at the beginning of paragraph (1) and inserting
+  in lieu thereof `Except as provided in paragraph (3), in'; and
+  (2) by adding at the end the following new paragraph:
+  `(3) A reasonable fee may be charged or paid in connection with any
+  proceeding before the Department in a case arising out of a loan made,
+  guaranteed, or insured under chapter 37 of this title. A person who charges a
+  fee under this paragraph shall enter into a written agreement with the person
+  represented and shall file a copy of the fee agreement with the Secretary
+  at such time, and in such manner, as may be specified by the Secretary.'.
+  (b) EFFECTIVE DATE- Paragraph (3) of section 5904(c) of title 38, United
+  States Code, as added by subsection (a), shall apply with respect to services
+  of agents and attorneys provided after the date of the enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

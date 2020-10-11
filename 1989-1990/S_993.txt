@@ -1,0 +1,122 @@
+ 
+--S.993--
+S.993
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To implement the Convention on the Prohibition of the Development, Production,
+and Stockpiling of Bacteriological (Biological) and Toxin Weapons and Their
+Destruction, by prohibiting certain conduct relating to biological weapons,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Biological Weapons Anti-Terrorism Act of 1989'.
+SEC. 2. PURPOSE AND INTENT.
+ (a) PURPOSE- The purpose of this Act is to--
+ (1) implement the Biological Weapons Convention, an international agreement
+ unanimously ratified by the United States Senate in 1974 and signed by more
+ than 100 other nations, including the Soviet Union; and
+ (2) protect the United States against the threat of biological terrorism.
+ (b) INTENT OF ACT- Nothing in this Act is intended to restrain or restrict
+ peaceful scientific research or development.
+SEC. 3. TITLE 18 AMENDMENTS.
+ (a) IN GENERAL- Title 18, United States Code, is amended by inserting after
+ chapter 9 the following:
+`CHAPTER 10--BIOLOGICAL WEAPONS
+`Sec.
+`175. Prohibitions with respect to biological weapons.
+`176. Seizure, forfeiture, and destruction.
+`177. Injunctions.
+`178. Definitions.
+`Sec. 175. Prohibitions with respect to biological weapons
+ `(a) IN GENERAL- Whoever knowingly develops, produces, stockpiles, transfers,
+ acquires, retains, or possesses any biological agent, toxin, or delivery
+ system for use as a weapon, or knowingly assists a foreign state or any
+ organization to do so, shall be fined under this title or imprisoned for
+ life or any term of years, or both. There is extraterritorial Federal
+ jurisdiction over an offense under this section committed by or against a
+ national of the United States.
+ `(b) DEFINITION- For purposes of this section, the term `for use as a
+ weapon' does not include the development, production, transfer, acquisition,
+ retention, or possession of any biological agent, toxin, or delivery system
+ for prophylactic, protective, or other peaceful purposes.
+`Sec. 176. Seizure, forfeiture, and destruction
+ `(a) IN GENERAL- (1) Except as provided in paragraph (2), the Attorney
+ General may request the issuance, in the same manner as provided for a
+ search warrant, of a warrant authorizing the seizure of any biological agent,
+ toxin, or delivery system that--
+ `(A) exists by reason of conduct prohibited under section 175 of this
+ title; or
+ `(B) is of a type or in a quantity that under the circumstances has no
+ apparent justification for prophylactic, protective, or other peaceful
+ purposes.
+ `(2) In exigent circumstances, seizure and destruction of any biological
+ agent, toxin, or delivery system described in subparagraphs (A) and (B)
+ of paragraph (1) may be made upon probable cause without the necessity for
+ a warrant.
+ `(b) PROCEDURE- Property seized pursuant to subsection (a) shall be
+ forfeited to the United States after notice to potential claimants and
+ an opportunity for a hearing. At such hearing, the government shall bear
+ the burden of persuasion by a preponderance of the evidence. Except as
+ inconsistent herewith, the same procedures and provisions of law relating to
+ a forfeiture under the customs laws shall extend to a seizure or forfeiture
+ under this section. The Attorney General may provide for the destruction or
+ other appropriate disposition of any biological agent, toxin, or delivery
+ system seized and forfeited pursuant to this section.
+ `(c) AFFIRMATIVE DEFENSE- It is an affirmative defense against a forfeiture
+ under subsection (a)(1)(B) of this section that--
+ `(1) such biological agent, toxin, or delivery system is for a prophylactic,
+ protective, or other peaceful purpose; and
+ `(2) such biological agent, toxin, or delivery system, is of a type and
+ quantity reasonable for that purpose.
+`Sec. 177. Injunctions
+ `(a) IN GENERAL- The United States may obtain in a civil action an injunction
+ against--
+ `(1) the conduct prohibited under section 175 of this title;
+ `(2) the preparation, solicitation, attempt, or conspiracy to engage in
+ conduct prohibited under section 175 of this title; or
+ `(3) the development, production, stockpiling, transferring, acquisition,
+ retention, or possession, or the attempted development, production,
+ stockpiling, transferring, acquisition, retention, or possession of any
+ biological agent, toxin, or delivery system of a type or in a quantity that
+ under the circumstances has no apparent justification for prophylactic,
+ protective, or other peaceful purposes.
+ `(b) AFFIRMATIVE DEFENSE- It is an affirmative defense against an injunction
+ under subsection (a)(3) of this section that--
+ `(1) the conduct sought to be enjoined is for a prophylactic, protective,
+ or other peaceful purpose; and
+ `(2) such biological agent, toxin, or delivery system is of a type and
+ quantity reasonable for that purpose.
+`Sec. 178. Definitions
+ `As used in this chapter--
+ `(1) the term `biological agent' means any micro-organism, virus, or
+ infectious substance, capable of causing--
+ `(A) death, disease, or other biological malfunction in a human, an animal,
+ a plant, or another living organism;
+ `(B) deterioration of food, water, equipment, supplies, or material of any
+ kind; or
+ `(C) deleterious alteration of the environment;
+ `(2) the term `toxin' means, whatever its origin or method of production--
+ `(A) any poisonous substance produced by a living organism; or
+ `(B) any poisonous isomer, homolog, or derivative of such a substance;
+ `(3) the term `delivery system' means--
+ `(A) any apparatus, equipment, device, or means of delivery specifically
+ designed to deliver or disseminate a biological agent, toxin, or vector; or
+ `(B) any vector; and
+ `(4) the term `vector' means a living organism capable of carrying a
+ biological agent or toxin to a host.'.
+ (b) WIRE INTERCEPTION- Section 2516(c) of title 18, United States Code,
+ is amended by adding `section 175 (relating to biological weapons),' after
+ `section 33 (relating to destruction of motor vehicles or motor vehicle
+ facilities),'.
+ (c) CLERICAL AMENDMENT- The table of chapters for part I of title 18,
+ United States Code, is amended by inserting after the item relating to
+ chapter 9 the following new item:
+175.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

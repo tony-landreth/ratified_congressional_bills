@@ -1,0 +1,683 @@
+ 
+--H.R.5483--
+H.R.5483
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To modify the provisions of the Education of the Deaf Act of 1986, and
+for other
+purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Education of the Deaf Act Amendments of 1992'.
+TITLE I--AMENDMENTS TO EDUCATION OF THE DEAF ACT OF 1986
+Subtitle A--Reorganization of Act
+SEC. 101. REORGANIZATION.
+  (a) REPEALS- The following provisions of the Education of the Deaf Act of
+  1986 (20 U.S.C. 4301 et seq.) are repealed:
+  (1) Part B and part C of title I.
+  (2) Title III.
+  (b) REDESIGNATIONS- The Education of the Deaf Act of 1986, as amended by
+  subsection (a) of this section, is amended--
+  (1) in the heading for title I, by amending the heading to read as follows:
+`TITLE I--GALLAUDET UNIVERSITY; NATIONAL TECHNICAL INSTITUTE FOR THE DEAF';
+  (2) in the heading for part A of title I, by amending the heading to read
+  as follows:
+`Part A--Gallaudet University';
+  (3) by striking the heading for title II and inserting the following:
+`Part B--National Technical Institute for the Deaf';
+  (4) by redesignating sections 201 and 202 as sections 111 and 112,
+  respectively;
+  (5) by striking the heading for title IV and inserting the following:
+`TITLE II--GENERAL PROVISIONS'; and
+  (6) by redesignating sections 401 through 411 as sections 201 through 211,
+  respectively.
+  (c) CROSS-REFERENCE- The Education of the Deaf Act of 1986, as amended by
+  subsection (b) of this section, is amended in section 103(b)(8) by striking
+  `section 403' and inserting `section 203'.
+Subtitle B--Gallaudet University
+SEC. 111. BOARD OF TRUSTEES.
+  Section 103 of the Education of the Deaf Act of 1986 (20 U.S.C. 4303)
+  is amended--
+  (1) in subsection (a)(1)(B), by striking `, who on the effective date'
+  and all that follows through `such date,'; and
+  (2) in subsection (b)--
+  (A) in paragraph (1), by inserting after `corporation' the following:
+  `(including the construction of buildings and other facilities)';
+  (B) in paragraph (4) by amending the paragraph to read as follows:
+  `(4) appoint a president and establish policies, guidelines, and procedures
+  related to the appointments, the salaries, and the dismissals of professors,
+  instructors, and other employees of Gallaudet University, including the
+  adoption of a policy of outreach and recruitment to employ and advance in
+  employment qualified individuals with disabilities, particularly individuals
+  who are deaf or individuals who are hard of hearing.'; and
+  (C) in paragraph (6), by amending the paragraph to read as follows:
+  `(6) establish such schools, departments, and other units as the Board of
+  Trustees deems necessary to carry out the purpose of Gallaudet University;'.
+SEC. 112. ESTABLISHMENT OF AUTHORITY FOR CERTAIN PROGRAMS.
+  Part A of title I of the Education of the Deaf Act of 1986 (20 U.S.C. 4301
+  et seq.) is amended by adding at the end the following section:
+`SEC. 104. ELEMENTARY AND SECONDARY EDUCATIONAL PROGRAMS.
+  `(a) GENERAL AUTHORITY- (1)(A) The Board of Trustees of Gallaudet
+  University is authorized, in accordance with the agreement under section
+  105, to maintain and operate exemplary elementary and secondary education
+  programs, projects, and activities for the primary purpose of developing,
+  evaluating, and disseminating innovative curricula, instructional techniques
+  and strategies, and materials that can be used in various educational
+  environments serving individuals who are deaf and individuals who are hard
+  of hearing throughout the Nation.
+  `(B) The elementary and secondary programs described in subparagraph (A)
+  shall serve students with a broad spectrum of needs, including students
+  who are lower achieving academically, who come from non-English speaking
+  homes, who have secondary disabilities, who are members of minority groups,
+  or who are from rural areas.
+  `(C) The elementary and secondary programs described in subparagraph (A)
+  shall include--
+  `(i) the Kendall Demonstration Elementary School, to provide day facilities
+  for elementary education for individuals who are deaf, to provide such
+  individuals with the vocational, transitional, independent living, and
+  related services they need to function independently, and to prepare such
+  individuals for high school and other secondary study; and
+  `(ii) the Model Secondary School for the Deaf, to provide day and residential
+  facilities for secondary education for individuals who are deaf, to provide
+  such individuals with the vocational, transitional, independent living, and
+  related services they need to function independently, and to prepare such
+  individuals for college, other postsecondary opportunities, or the workplace.
+  `(2) The Model Secondary School for the Deaf may provide residential
+  facilities for students enrolled in the school--
+  `(A) who live beyond a reasonable commuting distance from the school; or
+  `(B) for whom such residency is necessary for them to receive a free
+  appropriate public education within the meaning of part B of the Individuals
+  with Disabilities Education Act.
+  `(b) ADMINISTRATIVE REQUIREMENTS- (1) The elementary and secondary education
+  programs shall--
+  `(A) provide technical assistance and outreach throughout the Nation to
+  meet the training and information needs of parents of infants and children
+  who are deaf or hard of hearing;
+  `(B) provide technical assistance and training to personnel for use
+  in teaching (i) students who are deaf or hard of hearing, in various
+  educational environments, and (ii) students who are deaf or hard of hearing
+  with a broad spectrum of needs as described in subsection (a); and
+  `(C) establish and publish priorities for research, development, and
+  demonstration through a process that allows for public input;
+  `(2) To the extent possible, the elementary and secondary education programs
+  shall provide the services required under paragraph (1) in an equitable
+  manner, based on the national distribution of students who are deaf or hard
+  of hearing in educational environments as determined by the Secretary for
+  purposes of section 618(b) of the Individuals with Disabilities Education
+  Act. Such educational environments shall include--
+  `(A) regular classes;
+  `(B) resource rooms;
+  `(C) separate classes;
+  `(D) separate, public or private, nonresidential schools; and
+  `(E) separate, public or private, residential schools and homebound or
+  hospital environments.
+  `(3) If a local educational agency, intermediate educational unit, or
+  State educational agency refers a child to, or places a child in, one of
+  the elementary or secondary education programs to meet its obligation to
+  make available a free appropriate public education under part B of the
+  Individuals with Disabilities Education Act, the agency or unit shall be
+  responsible for ensuring that the special education and related services
+  provided to the child by the education program are in accordance with part
+  B of that Act and that the child is provided the rights and procedural
+  safeguards under section 615 of that Act.
+  `(4) If the parents or guardian places a child in one of the elementary
+  or secondary education programs, the University shall--
+  `(A) notify the appropriate local educational agency, intermediate
+  educational unit, or State educational agency of that child's attendance
+  in the programs;
+  `(B) work with local educational agencies, intermediate educational units,
+  and State educational agencies, where appropriate, to ensure a smooth
+  transfer of students to and from those programs; and
+  `(C) provide the child a free appropriate public education in accordance with
+  part B of the Individuals with Disabilities Education Act and procedural
+  safeguards in accordance with the following provisions of section 615 of
+  such Act:
+  `(i) Subparagraphs (A), (C), (D), and (E) of paragraph (1) of subsection
+  (b), and paragraph (2) of such subsection.
+  `(ii) Subsection (d), except the portion of paragraph (4) requiring that
+  findings and decisions be transmitted to a State advisory panel.
+  `(iii) Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such
+  subsection is not applicable to decisions by the University to refuse to
+  admit or to dismiss a child, except that, before dismissing any child,
+  the University shall give at least 60 days notice to the child's parents
+  and to the local educational agency in which the child resides.
+  `(iv) Subsection (f).'.
+SEC. 113. ESTABLISHMENT OF CERTAIN REQUIREMENTS.
+  Part A of title I of the Education of the Deaf Act of 1986, as amended
+  by section 112 of this Act, is amended by adding at the end the following
+  section:
+`SEC. 105. AGREEMENT WITH GALLAUDET UNIVERSITY.
+  `(a) GENERAL AUTHORITY- The Secretary and Gallaudet University shall
+  establish, within 1 year after enactment of the Education of the Deaf Act
+  Amendments of 1992, a new agreement governing the operation and national
+  mission activities, including construction and provision of equipment,
+  of the elementary and secondary education programs at the University. The
+  Secretary and the University shall periodically update the agreement as
+  determined to be necessary by the Secretary or the University.
+  `(b) PROVISIONS OF AGREEMENT- The agreement shall--
+  `(1) provide that Federal funds appropriated for the benefit of the Kendall
+  Demonstration Elementary School and the Model Secondary School for the
+  Deaf will be used only for the purposes for which appropriated and in
+  accordance with the applicable provisions of this Act and such agreement;
+  `(2) provide that the University shall make an annual report, to be part of
+  the report required under section 204, to the Secretary on the operations
+  and national mission activities of the elementary and secondary education
+  programs, including such other information as the Secretary may consider
+  necessary;
+  `(3) provide that in the design and construction of any facilities, maximum
+  attention will be given to innovative auditory and visual devices and
+  installations appropriate for the educational functions of such facilities;
+  `(4) provide that any laborer or mechanic employed by any contractor or
+  subcontractor in the performance of work on any construction aided by
+  Federal funds appropriated for the benefit of the Kendall Demonstration
+  Elementary School and the Model Secondary School for the Deaf will be paid
+  wages at rates not less than those prevailing on similar construction in
+  the locality as determined by the Secretary of Labor in accordance with the
+  Act of March 3, 1931 (40 U.S.C. 276a-276a-5) commonly referred to as the
+  Davis-Bacon Act; and the Secretary of Labor shall have, with respect to the
+  labor standards specified in this paragraph, the authority and functions
+  set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and
+  section 2 of the Act of June 13, 1934 (40 U.S.C. 276c); and
+  `(5) include such other conditions as the Secretary or the University
+  considers necessary to carry out the purposes of this part.'.
+Subtitle C--National Technical Institute for the Deaf
+SEC. 121. AGREEMENT FOR NTID.
+  Section 112 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(4) of this Act, is amended--
+  (1) in subsection (a)--
+  (A) by striking `- The Secretary' and inserting `- (1) The Secretary'; and
+  (B) by adding at the end the following paragraph:
+  `(2) The Secretary, and the institution of higher education with which
+  the Secretary has an agreement under this section, shall, within 1 year
+  after the enactment of the Education of the Deaf Act Amendments of 1992,
+  assess the need for modification of the agreement. The Secretary and the
+  institution of higher education with which the Secretary has an agreement
+  under this section shall also periodically update the agreement as determined
+  to be necessary by the Secretary or the institution.';
+  (2) in subsection (b)(3), by striking `will make' and all that follows
+  through `the Congress' and inserting the following: `will prepare and
+  submit to the Secretary an annual report, including an accounting of
+  all indirect costs paid to the institution of higher education under the
+  agreement with the Secretary, which report the Secretary shall transmit
+  to the Committee on Education and Labor of the House of Representatives,
+  and to the Committee on Labor and Human Resources of the Senate,'; and
+  (3) in subsection (b) by adding, at the end the following new paragraph:
+  `(6) establish a policy of outreach and recruitment to employ and advance in
+  employment qualified individuals with disabilities, particularly individuals
+  who are deaf or individuals who are hard of hearing.'.
+Subtitle D--General Provisions
+SEC. 131. DEFINITIONS.
+  Section 201 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(6) of this Act, is amended--
+  (1) by striking paragraph (1) and inserting the following paragraph:
+  `(1) The term `international student' means an individual who--
+  `(A) is not a citizen or national of, or lawfully admitted for permanent
+  residence in, the United States;
+  `(B) does not provide evidence from the Immigration and Naturalization
+  Service that he or she is in the United States for other than temporary
+  purposes with the intention of becoming a citizen of, or lawfully admitted
+  for permanent residence in, the United States; or
+  `(C) is not lawfully admitted for permanent residence in American Samoa,
+  Guam, Palau (but only until the Compact of Free Association with Palau
+  takes effect), the Commonwealth of the Northern Mariana Islands, the
+  Commonwealth of Puerto Rico, or the Virgin Islands.';
+  (2)(A) by striking paragraph (4); and
+  (B) by redesignating paragraphs (5) through (8) as paragraphs (4) through
+  (7), respectively;
+  (3) in paragraph (7) (as redesignated by paragraph (2) of this section), by
+  striking `the Northern' and all that follows and inserting the following:
+  `the Commonwealth of the Northern Mariana Islands, and Palau (but only
+  until the Compact of Free Association with Palau takes effect).'; and
+  (4) by adding at the end the following paragraphs:
+  `(8) The term `NTID' means the National Technical Institute for the Deaf.
+  `(9) The term `University' means Gallaudet University.'.
+SEC. 132. GIFTS.
+  Section 202 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(6) of this Act, is amended to read as follows:
+`SEC. 202. GIFTS.
+  `The University and NTID are authorized to receive by gift, devise, bequest,
+  purchase, or otherwise, property, both real and personal, for the use of
+  the University or NTID, or for the use, as appropriate, for any programs,
+  departments, or other units as may be designated in the conveyance or will,
+  and to hold, invest, use, or dispose of such property for the purpose
+  stated in the conveyance or will.'.
+SEC. 133. AUDIT.
+  Section 203 of the Education of the Deaf Act of 1986, as redesignated
+  by section 101(b)(6) of this Act, is amended by adding at the end the
+  following subsection:
+  `(c) LIMITATIONS REGARDING EXPENDITURE OF FUNDS-
+  `(1) IN GENERAL- No funds appropriated under this Act for Gallaudet
+  University, including the Kendall Demonstration Elementary School and
+  the Model Secondary School for the Deaf, or for the National Technical
+  Institute for the Deaf may be expended on the following:
+  `(A) Alcoholic beverages.
+  `(B) Goods or services for personal use.
+  `(C) Housing and personal living expenses (but only to the extent such
+  expenses are not required by written employment agreement).
+  `(D) Lobbying, except that nothing in this subparagraph shall be construed to
+  prohibit the University and NTID from educating the Congress, the Secretary,
+  and others regarding programs, projects, and activities conducted at
+  those institutions.
+  `(E) Membership in country clubs and social or dining clubs and
+  organizations.
+  `(2) POLICIES-
+  `(A) Not later than 180 days after the date of the enactment of the Education
+  of the Deaf Act Amendments of 1992, the University and NTID shall develop
+  policies, to be applied uniformly, for the allowability of expenditures
+  for each institution. These policies should reflect the unique nature of
+  these institutions. The principles established by the Office of Management
+  and Budget for costs of educational institutions may be used as guidance
+  in developing these policies. General principles relating to allowability
+  and reasonableness of all costs associated with the operations of the
+  institutions shall be addressed. These policies shall be submitted to the
+  Secretary for review and comments, and to the Committee on Education and
+  Labor of the House of Representatives and the Committee on Labor and Human
+  Resources of the Senate.
+  `(B) Policies under subparagraph (A) shall include the following:
+  `(i) Noninstitutional professional activities.
+  `(ii) Fringe benefits.
+  `(iii) Interest on loans.
+  `(iv) Rental cost of buildings and equipment.
+  `(v) Sabbatical leave.
+  `(vi) Severance pay.
+  `(vii) Travel.
+  `(viii) Royalties and other costs for uses of patents.
+  `(C) The Secretary is not authorized to add items to those specified in
+  subparagraph (B).'.
+SEC. 134. REPORTS.
+  Section 204 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(6) of this Act, is amended to read as follows:
+`SEC. 204. REPORTS.
+  `The Board of Trustees of Gallaudet University and the Board of Trustees
+  or other governing body of the institution of higher education with which
+  the Secretary has an agreement under section 112 shall prepare and submit
+  an annual report to the Secretary, and to the Committee on Education and
+  Labor of the House of Representatives and the Committee on Labor and Human
+  Resources of the Senate, not later than 100 days after the end of each
+  fiscal year, which shall include the following:
+  `(1) The number of students during the preceding academic year who enrolled
+  and whether these were first time enrollments, who graduated, who found
+  employment, or who left without completing a program of study, reported
+  under each of the programs of the University (elementary, secondary,
+  preparatory, undergraduate, and graduate) and of NTID.
+  `(2) For the preceding academic year, and to the extent possible, the
+  following data on individuals who are deaf and from minority backgrounds
+  and who are students (at all educational levels) or employees:
+  `(A) The number of students enrolled full- and part-time.
+  `(B) The number of these students who completed or graduated from each of
+  the educational programs.
+  `(C) The disposition of these students upon graduation/completion of
+  programs at NTID and at the University and its elementary and secondary
+  schools in comparison to students from non-minority backgrounds.
+  `(D) The number of students needing and receiving support services (such
+  as tutoring and  counseling) at all educational levels.
+  `(E) The number of recruitment activities by type and location for all
+  educational levels.
+  `(F) Employment openings/vacancies and grade level/type of job and number
+  of these individuals that applied and that were hired.
+  `(G) Strategies (such as parent groups and training classes in the
+  development of Individualized Education Programs) used by the elementary
+  and secondary programs and the extension centers to reach and actively
+  involve minority parents in the educational programs of their children
+  who are deaf and the number of parents who have been served as a result
+  of these activities.
+  `(3) The annual audited financial statements of the University and NTID,
+  respectively, together with the auditor's report.
+  `(4) For the preceding fiscal year, a statement showing the receipts of
+  the University and NTID and from what Federal sources, and a statement
+  showing the expenditures of each institution by function, activity, and
+  administrative and academic unit.
+  `(5) A statement showing the use of funds (both corpus and income) provided
+  by the Federal Endowment Program under section 207.
+  `(6) A statement showing how such Endowment Program is invested, what the
+  gains or losses (both realized and unrealized) on such investments were
+  for the most recent fiscal year, and what changes were made in investments
+  during that year.
+  `(7) Such additional information as the Secretary may consider necessary.'.
+SEC. 135. MONITORING AND EVALUATION.
+  (a) EDUCATION OF THE DEAF ACT- Section 205 of the Education of the Deaf
+  Act of 1986, as redesignated by section 101(b)(6) of this Act, is amended
+  to read as follows:
+`SEC. 205. MONITORING, EVALUATION, AND REPORTING.
+  `(a) ACTIVITIES- The Secretary shall conduct monitoring and evaluation
+  activities of the education programs and activities and the administrative
+  operations of the University (including the elementary, secondary,
+  preparatory, undergraduate, and graduate programs) and of NTID. The Secretary
+  may also conduct studies related to the provision of preschool, elementary,
+  secondary, and postsecondary education and other related services to
+  individuals who are deaf. In carrying out the responsibilities described
+  in this section, the Secretary is authorized to employ such consultants
+  as may be necessary pursuant to the provisions of section 3109 of title 5,
+  United States Code.
+  `(b) REPORT- The Secretary, as part of the annual report required
+  under section 426 of the Department of Education Organization Act,
+  shall include a description of the monitoring and evaluation activities
+  pursuant to subsection (a), together with such recommendations, including
+  recommendations for legislation, as the Secretary may consider necessary.
+  `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  such sums as may be necessary for each of the fiscal years 1993, 1994,
+  1995, 1996, and 1997 to carry out the monitoring and evaluation activities
+  authorized under this section.'.
+  (b) REPORT- Not later than 180 days after the date of enactment of the
+  Education of the Deaf Act Amendments of 1992, the Secretary of Education
+  shall submit a report to Congress regarding progress made by the Department
+  of Education in implementing the recommendations of the Commission on
+  Education of the Deaf pertaining to the provision of a free and appropriate
+  public education to children who are deaf, and children who are hard of
+  hearing, and with respect to the establishment of standards for programs
+  and personnel to meet the educational, communicative, and psychological
+  needs of children who are deaf, and children who are hard of hearing. In
+  preparing this report, the Secretary of Education shall solicit input from
+  the community of individuals who are deaf, and individuals who are hard
+  of hearing.
+SEC. 136. LIAISON FOR EDUCATIONAL PROGRAMS.
+  Section 206 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(6) of this Act, is amended--
+  (1) in subsection (a), by striking `and the Rehabilitation Act of 1973.' and
+  inserting the following: `, the Rehabilitation Act of 1973, and other
+  Federal or non-Federal agencies, institutions, or organizations involved
+  with the education or rehabilitation of individuals who are deaf or hard
+  of hearing.'; and
+  (2) in subsection (b)--
+  (A) by striking `and' at the end of paragraph (1);
+  (B) by redesignating paragraph (2) as paragraph (3); and
+  (C) by inserting after paragraph (1) the following paragraph:
+  `(2) review research and other activities carried out by the University,
+  NTID, and other Federal or non-Federal agencies, institutions, or
+  organizations involved with the education or rehabilitation of individuals
+  who are deaf or hard of hearing for the purpose of determining overlap
+  and opportunities for coordination among such entities; and'.
+SEC. 137. FEDERAL ENDOWMENT PROGRAMS.
+  The Education of the Deaf Act of 1986, as amended by section 101(b)(6)
+  of this Act, is amended--
+  (1) by striking sections 207 and 208; and
+  (2) by inserting after section 206 the following section:
+`SEC. 207. FEDERAL ENDOWMENT PROGRAMS FOR GALLAUDET UNIVERSITY AND THE
+NATIONAL TECHNICAL INSTITUTE FOR THE DEAF.
+  `(a) ESTABLISHMENT OF PROGRAMS-
+  `(1) The Secretary and the Board of Trustees of Gallaudet University are
+  authorized to establish the Gallaudet University Federal Endowment Fund as a
+  permanent endowment fund, in accordance with this section, for the purpose
+  of promoting the financial independence of the University. The Secretary
+  and the Board of Trustees may enter into such agreements as may be necessary
+  to carry out the purposes of this section with respect to the University.
+  `(2) The Secretary and the Board of Trustees or other governing body of the
+  institution of higher education with which the Secretary has an agreement
+  under section 112 are authorized to establish the National Technical
+  Institute for the Deaf Federal Endowment Fund as a permanent endowment fund,
+  in accordance with this section, for the purpose of promoting the financial
+  independence of NTID. The Secretary and the Board or other governing body
+  may enter into such agreements as may be necessary to carry out the purposes
+  of this section with respect to NTID.
+  `(b) FEDERAL PAYMENTS-
+  `(1) The Secretary shall, consistent with this section, make payments to
+  the Federal endowment funds established under subsection (a)  from amounts
+  appropriated under subsection (h) for the fund involved.
+  `(2) Subject to the availability of appropriations and the non-Federal
+  matching requirements of paragraph (3), the Secretary shall make payments
+  to each Federal endowment fund in amounts equal to sums contributed to the
+  fund from non-Federal sources (excluding transfers from other endowment
+  funds of the institution involved).
+  `(3) Effective for fiscal year 1993 and each succeeding fiscal year, for
+  any fiscal year in which the sums contributed to the Federal endowment fund
+  of the institution involved from non-Federal sources exceed $1,000,000,
+  the non-Federal contribution to the Federal endowment fund shall be $2 for
+  each Federal dollar provided in excess of $1,000,000 (excluding transfers
+  from other endowment funds of the institution involved).
+  `(c) INVESTMENTS-
+  `(1) Except as provided in subsection (e), the University and NTID,
+  respectively, shall invest its Federal endowment fund corpus and income in
+  instruments and securities offered through one or more cooperative service
+  organizations of operating educational organizations under section 501(f)
+  of the Internal Revenue Code of 1986, or in low-risk instruments and
+  securities in which a regulated insurance company may invest under the
+  laws of the State in which the institution involved is located.
+  `(2) In managing the investment of its Federal endowment fund, the University
+  or NTID shall exercise the judgment and care, under the prevailing
+  circumstances, that a person of prudence, discretion, and intelligence
+  would exercise in the management of that person's own business affairs.
+  `(3) Neither the University nor NTID may invest its Federal endowment fund
+  corpus or income in real estate, or in instruments or securities issued
+  by an organization in which an executive officer, a member of the Board
+  of Trustees of the University or of the host institution, or a member
+  of the Advisory Board of NTID is a controlling shareholder, director, or
+  owner within the meaning of Federal securities laws and other applicable
+  laws. Neither the University nor NTID may assign, hypothocate, encumber,
+  or create a lien on the Federal endowment fund corpus without specific
+  written authorization of the Secretary.
+  `(d) WITHDRAWALS AND EXPENDITURES-
+  `(1) Except as provided in paragraph (3)(B), neither the University nor
+  NTID may withdraw or expend any of the corpus of its Federal endowment fund.
+  `(2)(A) The University and NTID, respectively, may withdraw or expend
+  the income of its Federal endowment fund only for expenses necessary to
+  the operation of that institution, including expenses of operations and
+  maintenance, administration, academic and support personnel, construction and
+  renovation, community and student services programs, technical assistance,
+  and research.
+  `(B) Neither the University nor NTID may withdraw or expend the income of
+  its Federal endowment fund for any commercial purpose.
+  `(C) Beginning on October 1, 1992, the University and NTID shall maintain
+  records of the income generated from its respective Federal endowment fund
+  for the prior fiscal year.
+  `(3)(A) Except as provided in subparagraph (B), the University and NTID,
+  respectively, may, on an annual basis, withdraw or expend not more than
+  50 percent of the income generated from its Federal endowment fund from
+  the prior fiscal year.
+  `(B) The Secretary may permit the University or NTID to withdraw or expend
+  a portion of its Federal endowment fund corpus or more than 50 percent
+  of the income generated from its Federal endowment fund from the prior
+  fiscal year if the institution involved demonstrates, to the Secretary's
+  satisfaction, that such withdrawal or expenditure is necessary because of--
+  `(i) a financial emergency, such as a pending insolvency or temporary
+  liquidity problem;
+  `(ii) a life-threatening situation occasioned by natural disaster or
+  arson; or
+  `(iii) another unusual occurrence or exigent circumstance.
+  `(e) INVESTMENT AND EXPENDITURE FLEXIBILITY- The corpus associated with a
+  Federal payment (and its non-Federal match) made to the Federal endowment
+  fund of the University or NTID shall not be subject to the investment
+  limitations of subsection (c)(1) after 10 fiscal years following the fiscal
+  year in which the funds are matched, and the income generated from such
+  corpus after the tenth fiscal year described in this subsection shall
+  not be subject to such investment limitations and to the withdrawal and
+  expenditure limitations of subsection (d)(3).
+  `(f) RECOVERY OF PAYMENTS- After notice and an opportunity for a hearing,
+  the Secretary is authorized to recover any Federal payments under this
+  section if the University or NTID--
+  `(1) makes a withdrawal or expenditure of the corpus or income of its
+  Federal endowment fund that is not consistent with this section;
+  `(2) fails to comply with the investment standards and limitations under
+  this section; or
+  `(3) fails to account properly to the Secretary concerning the investment
+  of or expenditures from the Federal endowment fund corpus or income.
+  `(g) DEFINITIONS- As used in this section:
+  `(1) The term `corpus', with respect to a Federal endowment fund under
+  this section, means an amount equal to the Federal payments to such fund,
+  amounts contributed to the fund from non-Federal sources, and appreciation
+  from capital gains and reinvestment of income.
+  `(2) The term `Federal endowment fund' means a fund, or a tax-exempt
+  foundation, established and maintained pursuant to this section by the
+  University or NTID, as the case may be, for the purpose of generating
+  income for the support of the institution involved.
+  `(3) The term `income', with respect to a Federal endowment fund under this
+  section, means an amount equal to the dividends and interest accruing from
+  investments of the corpus of such fund.
+  `(4) The term `institution involved' means the University or NTID, as the
+  case may be.
+  `(h) AUTHORIZATION OF APPROPRIATIONS-
+  `(1) In the case of the University, there are authorized to be appropriated
+  for the purposes of this section such sums as may be necessary for each
+  of the fiscal years 1993 through 1997.
+  `(2) In the case of NTID, there are authorized to be appropriated for the
+  purposes of this section such sums as may be necessary for each of the
+  fiscal years 1993 through 1997.
+  `(3) Amounts appropriated under paragraph (1) or (2) shall remain available
+  until expended.
+  `(i) EFFECTIVE DATE- The provisions of this section shall take effect as
+  if included in the provisions of the Education of the Deaf Act of 1986.'.
+SEC. 138. SCHOLARSHIP PROGRAM.
+  The Education of the Deaf Act of 1986, as amended by section 137 of this
+  Act, is amended by inserting after section 207 the following section:
+`SEC. 208. SCHOLARSHIP PROGRAM.
+  `(a) IN GENERAL- The Secretary may make grants to institutions of higher
+  education that have teacher training programs in deaf education or special
+  education for the purpose of providing scholarships to individuals who are
+  deaf for careers in deaf education or special education. Such institutions
+  shall give priority consideration in the selection of qualified recipients
+  of the scholarships to individuals from underrepresented backgrounds,
+  particularly minority individuals who are deaf and who are underrepresented
+  in the teaching profession. Grants may be used by institutions to assist in
+  covering the cost of courses of training or study for such individuals and
+  for establishing and maintaining fellowships or traineeships with stipends
+  and allowances as may be determined by the Secretary.
+  `(b) AUTHORIZATION OF APPROPRIATIONS- For the purpose of making grants
+  under subsection (a), there are authorized to be appropriated $2,000,000
+  for fiscal year 1993, and such sums as may be necessary for each of the
+  fiscal years 1994 through 1997.'.
+SEC. 139. INTERNATIONAL STUDENTS.
+  The Education of the Deaf Act of 1986, as amended by section 101(b)(6) of
+  this Act, is amended by striking section 210 and inserting the following
+  section:
+`SEC. 210. INTERNATIONAL STUDENTS.
+  `(a) ENROLLMENT- Effective with new admissions for academic year 1993-1994
+  and each succeeding academic year, the University (including preparatory,
+  undergraduate, and graduate students) and NTID shall limit the enrollment of
+  international students to approximately 10 percent of the total postsecondary
+  student population enrolled respectively at the University or NTID.
+  `(b) TUITION SURCHARGE- Effective with new admissions, the tuition for
+  postsecondary international students enrolled in the University (including
+  preparatory, undergraduate, and graduate students) or NTID shall include
+  a surcharge of 75 percent beginning the  academic year 1993-1994, and  90
+  percent beginning the  academic year 1994-1995.
+  `(c) REDUCTION OF SURCHARGE- Beginning the academic year 1993-1994 and
+  thereafter, the University or NTID may reduce the surcharge under subsection
+  (b) to 50 percent if--
+  `(A) a student described under subsection (b) is from a developing country;
+  `(B) such student is unable to pay the tuition surcharge under subsection
+  (b); and
+  `(C) such student has made a good faith effort to secure aid through such
+  student's government or other sources.
+  `(d) DEFINITION- For purposes of subsection (c), the term `developing
+  country' means a country that has a 1990 per capita income not in excess
+  of $4,000 in 1990 United States dollars.'.
+SEC. 140. AUTHORIZATION OF APPROPRIATIONS.
+  Section 211 of the Education of the Deaf Act of 1986, as redesignated by
+  section 101(b)(6) of this Act, is amended--
+  (1) in subsection (a)--
+  (A) in the matter preceding subparagraph (A), by striking `fiscal years'
+  and all that follows through `1991' and inserting `fiscal years 1993
+  through 1997';
+  (B) in subparagraph (B), by striking `part B of title I, relating to'; and
+  (C) in subparagraph (C), by striking `part C of title I, relating to';
+  (2) in subsection (b), by striking `fiscal years' and all that follows
+  through `relating to' and inserting the following: `fiscal years 1993
+  through 1997 to carry out the provisions of this Act relating to'; and
+  (3) by striking subsection (c).
+Subtitle E--Technical Amendments
+SEC. 151. TECHNICAL AMENDMENTS.
+  (a) TERMINOLOGY- The Education of the Deaf Act of 1986 (20 U.S.C. 4301 et
+  seq.) is amended--
+  (1) by striking `deaf individuals' each place such term appears and inserting
+  `individuals who are deaf';
+  (2) by striking `deaf people' each place such term appears and inserting
+  `individuals who are deaf';
+  (3) by striking `deaf children' each place such term appears and inserting
+  `children who are deaf';
+  (4) by striking `the deaf' each place such term appears and inserting
+  `individuals who are deaf'; and
+  (5) in section 206 (as redesignated by section 101(b)(6) of this Act),
+  in the heading for the section, by striking `FOR THE DEAF'.
+  (b) OTHER AMENDMENTS- Section 201 of the Education of the Deaf Act of 1986,
+  as redesignated by section 101(b)(6) of this Act and amended by subsection
+  (a) of this section, is amended--
+  (1) in paragraph (2), by striking `thereof' and inserting `therein';
+  (2) in paragraph (3), by inserting `or hard-of-hearing' after `children
+  who are deaf'; and
+  (3) in paragraph (4) (as redesignated by section 131(2)(B) of this Act)--
+  (A) in the first sentence, in each of subparagraphs (A) through (E),
+  by striking the last comma and inserting a semicolon; and
+  (B) in the second sentence, by striking `clause' and inserting
+  `subparagraph'.
+Subtitle F--Effective Dates
+SEC. 161. EFFECTIVE DATES.
+  The amendments described in this title are made upon October 1, 1992,
+  and take effect upon such date.
+TITLE II--PROVISIONS REGARDING OTHER ACTS
+Subtitle A--Individuals with Disabilities Education Act
+SEC. 201. POSTSECONDARY EDUCATION.
+  (a) REGIONAL CENTERS- Section 625(a) of the Individuals with Disabilities
+  Education Act (20 U.S.C. 1424a(a)) is amended by inserting after the first
+  sentence in paragraph (6) the following new sentences: `The Secretary
+  shall continue to provide assistance through September 30, 1994, to the
+  current grantees operating the four regional centers for the deaf under
+  subsection (a) of this section. The Secretary shall continue to provide
+  such assistance through September 30, 1995, unless the authorization of
+  appropriations for parts C-G of the Act is extended by September 30, 1994.'.
+  (b) STUDY- There shall be conducted a General Accounting Office study of the
+  four regional centers for the deaf under section 625(a)(2) of the Individuals
+  with Disabilities Education Act (20 U.S.C. 1424(a)(2)). The scope of such
+  study shall be determined by the Chairpersons and Ranking Minority members
+  of the Subcommittee on Disability Policy of the Committee on Labor and
+  Human Resources in the Senate, and of the Subcommittee on Select Education
+  of the Committee on Education and Labor in the House of Representatives.
+SEC. 202. TRAINING PERSONNEL; EDUCATIONAL INTERPRETERS.
+  (a) TRAINING PERSONNEL- Section 631(a) of the Individuals with Disabilities
+  Education Act (20 U.S.C. 1431(a)) is amended by adding at the end the
+  following paragraph:
+  `(8)(A) In making grants under paragraph (1), the Secretary may make grants
+  through a separate competition to institutions of higher education, in
+  partnership with local educational agencies and center schools for students
+  who are deaf, to carry out not less than 4 regional model demonstration
+  training programs on deafness and secondary disabilities.
+  `(B) Such programs shall provide preservice and inservice training to
+  teachers and school administrators, and leadership personnel, in the
+  education of students who are deaf and to related services personnel.'.
+  (b) EDUCATIONAL INTERPRETERS- Section 631 of the Individuals with
+  Disabilities Education Act (20 U.S.C. 1431) is amended--
+  (1) by redesignating subsections (b) through (d) as subsections (c) through
+  (e), respectively; and
+  (2) by inserting after subsection (a) the following subsection:
+  `(b)(1) The Secretary may make grants to institutions of higher education,
+  and other appropriate nonprofit agencies or organizations for the
+  establishment or continuation of educational interpreter training programs
+  to train personnel to effectively meet the various communication needs
+  of elementary and secondary students who are deaf or deaf-blind. To the
+  extent feasible, grants shall be geographically dispersed throughout the
+  Nation in urban and rural areas.
+  `(2) The Secretary may make a grant under paragraph (1) only if the
+  applicant for the grant provides an assurance that all interpreters
+  receiving training under the grant will be provided training designed
+  to develop skills necessary for facilitating effective communication for
+  students who are deaf or deaf-blind.
+  `(3) In making grants under paragraph (1), the Secretary may provide for
+  the training or retraining (including short-term and in-service training)
+  of regular education teachers who are involved in providing instruction
+  to individuals who are deaf, but who are not certified as teachers of
+  such individuals, and other personnel who work with such individuals,
+  on the role of educational interpreters.'.
+SEC. 203. RESEARCH AND RELATED ACTIVITIES.
+  Section 641 of the Individuals with Disabilities Education Act (20
+  U.S.C. 1441) is amended by adding at the end the following subsection:
+  `(h)(1) The Secretary may make grants to institutions of higher education,
+  in partnership with other appropriate agencies and organizations such as
+  local educational agencies and center schools for students who are deaf, to--
+  `(A) conduct research in the unique needs of children and youth, including
+  minority children and youth, with disabilities;
+  `(B) develop and evaluate specialized instructional methods, materials,
+  curricula, and technologies for use with such children and youth; and
+  `(C) develop and evaluate assessment techniques, instruments, and strategies
+  used to identify, evaluate, and measure the progress of such children
+  and youth.
+  `(2) Each grantee under this subsection shall provide for the meaningful
+  involvement in its project of parents and family members and adult role
+  models.'.
+Subtitle B--Effective Dates
+SEC. 221. EFFECTIVE DATES.
+  The amendments described in this title shall take effect on October 1, 1992.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

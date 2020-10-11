@@ -1,0 +1,702 @@
+ 
+--S.605--
+S.605
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations for the Consumer Product Safety Commission, and for
+other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Consumer Product Safety Improvement Act
+ of 1990'.
+TITLE I--AMENDMENTS TO ACTS
+SEC. 101. REFERENCE.
+ Except as otherwise specifically provided, whenever in this title an
+ amendment or repeal is expressed in terms of an amendment to, or repeal of,
+ a section or other provision, the reference shall be considered to be made
+ to a section or other provision of the Consumer Product Safety Act.
+SEC. 102. QUALIFICATIONS OF MEMBERS OF THE COMMISSION.
+ Section 4(a) (15 U.S.C. 2053(a)) is amended by inserting immediately after
+ the first sentence the following: `In making such appointments, the President
+ shall consider individuals who, by reason of their background and expertise
+ in areas related to consumer products and protection of the public from
+ risks to safety, are qualified to serve as members of the Commission.'.
+SEC. 103. QUORUM ON COMMISSION.
+ The first sentence of section 4(d) (15 U.S.C. 2053(d)) is amended by inserting
+ before the period a comma and the following: `except that if there are
+ only three members serving on the Commission because of vacancies in the
+ Commission, two members of the Commission shall constitute a quorum for
+ the transaction of business, and if there are only two members serving on
+ the Commission because of vacancies in the Commission, two members shall
+ constitute a quorum for the six month period beginning on the date of the
+ vacancy which caused the number of Commission members to decline to two'.
+SEC. 104. APPOINTMENT OF CERTAIN PERSONNEL.
+ Section 4(g)(1) (15 U.S.C. 2053(g)(1)) is amended to read as follows:
+ `(g)(1)(A) The Chairman, subject to the approval of the Commission, shall
+ appoint as officers of the Commission an Executive Director, a General
+ Counsel, an Associate Executive Director for Engineering Sciences, an
+ Associate Executive Director for Epidemiology, an Associate Executive Director
+ for Compliance and Administrative Litigation, an Associate Executive Director
+ for Health Sciences, an Associate Executive Director for Economic Analysis,
+ an Associate Executive Director for Administration, an Associate Executive
+ Director for Field Operations, a Director for Office of Program, Management,
+ and Budget, and a Director for Office of Information and Public Affairs. Any
+ other individual appointed to a position designated as an Associate Executive
+ Director shall be appointed by the Chairman, subject to the approval of the
+ Commission. The Chairman may only appoint an attorney to the position of
+ Associate Executive Director of Compliance and Administrative Litigation
+ except the position of acting Associate Executive Director of Compliance
+ and Administrative Litigation.
+ `(B)(i) No individual may be appointed to such a position on an acting
+ basis for a period longer than 90 days unless such appointment is approved
+ by the Commission.
+ `(ii) The Chairman, with the approval of the Commission, may remove any
+ individual serving in a position appointed under subparagraph (A).
+ `(C) Subparagraph (A) shall not be construed to prohibit appropriate
+ reorganizations or changes in classification.'.
+SEC. 105. PRIORITIES.
+ (a) AMENDMENT- Section 4 (15 U.S.C. 2053) is amended by adding at the end
+ the following:
+ `(j) At least 30 days before the beginning of each fiscal year, the
+ Commission shall establish an agenda for Commission action under the
+ Acts under its jurisdiction and, to the extent feasible, shall establish
+ priorities for such actions. Before establishing such agenda and priorities,
+ the Commission shall conduct a public hearing on the agenda and priorities
+ and shall provide reasonable opportunity for the submission of comments.'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply with
+ respect to fiscal years which begin more than 180 days after the date of
+ the enactment of this Act.
+SEC. 106. DISCLOSURE TO CONTRACTORS.
+ Paragraph (8) of section 6(a) (15 U.S.C. 2055(a)) is amended to read
+ as follows:
+ `(8) The provisions of paragraphs (2) through (6) shall not prohibit the
+ disclosure of information to other officers, employees, or representatives
+ of the Commission (including contractors) concerned with carrying out this
+ Act or when relevant in any administrative proceeding under this Act or in
+ judicial proceedings to which the Commission is a party. Any disclosure of
+ relevant information--
+ `(A) in Commission administrative proceedings or in judicial proceedings
+ to which the Commission is a party, or
+ `(B) to representatives of the Commission (including contractors),
+shall be governed by the rules of the Commission (including in camera review
+rules for confidential material) for such proceedings or for disclosures
+to such representatives or by court rules or orders, except that the rules
+of the Commission shall not be amended in a manner inconsistent with the
+purposes of this section.'.
+SEC. 107. MONITORING COMPLIANCE.
+ (a) CONSUMER PRODUCT SAFETY ACT- Section 7(b) (15 U.S.C. 2056(b)) is amended--
+ (1) by inserting `(1)' after `(b)', and
+ (2) by adding at the end the following:
+ `(2) The Commission shall devise procedures to monitor compliance with any
+ voluntary standards--
+ `(A) upon which the Commission has relied under paragraph (1);
+ `(B) which were developed with the participation of the Commission; or
+ `(C) whose development the Commission has monitored.'.
+ (b) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 3(g) of the Federal Hazardous
+ Substances Act (15 U.S.C. 1262(g)) is amended by adding at the end the
+ following:
+ `(3) The Commission shall devise procedures to monitor compliance with any
+ voluntary standards--
+ `(A) upon which the Commission has relied under paragraph (2) of this
+ subsection;
+ `(B) which were developed with the participation of the Commission; or
+ `(C) whose development the Commission has monitored.'.
+ (c) FLAMMABLE FABRICS ACT- Section 4(h) of the Flammable Fabrics Act (15
+ U.S.C. 1193(h)) is amended by adding at the end the following:
+ `(3) The Commission shall devise procedures to monitor compliance with any
+ voluntary standards--
+ `(A) upon which the Commission has relied under paragraph (2) of this
+ subsection;
+ `(B) which were developed with the participation of the Commission; or
+ `(C) whose development the Commission has monitored.'.
+SEC. 108. VOLUNTARY STANDARDS.
+ (a) CONSUMER PRODUCT SAFETY ACT- Section 9(b)(2) (15 U.S.C. 2058(b)(2))
+ is amended by striking out the period and inserting the following: `,
+ except that the Commission shall terminate any such proceeding and rely on
+ a voluntary standard only if such voluntary standard is in existence. For
+ purposes of this section, a voluntary standard shall be considered to be in
+ existence when it is finally approved by the organization or other person
+ which developed such standard, irrespective of the effective date of the
+ standard. Before relying upon any voluntary consumer product safety standard,
+ the Commission shall afford interested persons (including manufacturers,
+ consumers, and consumer organizations) a reasonable opportunity to submit
+ written comments regarding such standard. The Commission shall consider
+ such comments in making any determination regarding reliance on the involved
+ voluntary standard under this subsection.'.
+ (b) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 3(g)(2) of the Federal
+ Hazardous Substances Act (15 U.S.C. 1262(g)(2)) is amended by striking
+ out the period and inserting the following: `, except that the Commission
+ shall terminate any such proceeding and rely on a voluntary standard only
+ if such voluntary standard is in existence. For purposes of this section,
+ a voluntary standard shall be considered to be in existence when it is
+ finally approved by the organization or other person which developed such
+ standard, irrespective of the effective date of the standard. Before relying
+ upon any voluntary standard, the Commission shall afford interested persons
+ (including manufacturers, consumers, and consumer organizations) a reasonable
+ opportunity to submit written comments regarding such standard. The Commission
+ shall consider such comments in making any determination regarding reliance
+ on the involved voluntary standard under this subsection.'.
+ (c) FLAMMABLE FABRICS ACT- Section 4(h)(2) of the Flammable Fabrics Act
+ (15 U.S.C. 1193(h)(2)) is amended by striking out the period and inserting
+ the following: `, except that the Commission shall terminate any such
+ proceeding and rely on a voluntary standard only if such voluntary standard
+ is in existence. For purposes of this section, a voluntary standard shall be
+ considered to be in existence when it is finally approved by the organization
+ or other person which developed such standard, irrespective of the
+ effective date of the standard. Before relying upon any voluntary standard,
+ the Commission shall afford interested persons (including manufacturers,
+ consumers, and consumer organizations) a reasonable opportunity to submit
+ written comments regarding such standard. The Commission shall consider
+ such comments in making any determination regarding reliance on the involved
+ voluntary standard under this subsection.'.
+SEC. 109. PROPOSED RULES.
+ Section 9(c) (15 U.S.C. 2058(c)) is amended by adding at the end the
+ following: `Any proposed consumer product safety rule shall be issued
+ within twelve months after the date of publication of an advance notice of
+ proposed rulemaking under subsection (a) relating to the product involved,
+ unless the Commission determines that such proposed rule is not reasonably
+ necessary to eliminate or reduce the risk of injury associated with the
+ product or is not in the public interest. The Commission may extend the
+ twelve-month period for good cause. If the Commission extends such period,
+ it shall immediately transmit notice of such extension to the Committee
+ on Commerce, Science, and Transportation of the Senate and the Committee
+ on Energy and Commerce of the House of Representatives. Such notice shall
+ include an explanation of the reasons for such extension, together with an
+ estimate of the date by which the Commission anticipates such rulemaking
+ will be completed. The Commission shall publish notice of such extension
+ and the information submitted to the Congress in the Federal Register.'.
+SEC. 110. PETITIONS AND VOLUNTARY STANDARDS.
+ (a) CONSUMER PRODUCT SAFETY ACT- Section 9 (15 U.S.C. 2058) is amended by
+ adding at the end the following:
+ `(i) The Commission shall grant, in whole or in part, or deny any petition
+ under section 553(e) of title 5, United States Code, requesting the Commission
+ to initiate a rulemaking, within a reasonable time after the date on which
+ such petition is filed. The Commission shall state the reasons for granting
+ or denying such petition. The Commission may not deny any such petition
+ on the basis of a voluntary standard unless the voluntary standard is in
+ existence at the time of the denial of the petition, the Commission has
+ determined that the voluntary standard is likely to result in the elimination
+ or adequate reduction of the risk of injury identified in the petition, and
+ it is likely that there will be substantial compliance with the standard.'.
+ (b) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 3 of the Federal Hazardous
+ Substances Act (15 U.S.C. 1262) is amended by adding at the end the following:
+ `(j) The Commission shall grant, in whole or in part, or deny any petition
+ under section 553(e) of title 5, United States Code, requesting the Commission
+ to initiate a rulemaking, within a reasonable time after the date on which
+ such petition is filed. The Commission shall state the reasons for granting
+ or denying such petition. The Commission may not deny any such petition
+ on the basis of a voluntary standard unless the voluntary standard is in
+ existence at the time of the denial of the petition, the Commission has
+ determined that the voluntary standard is likely to result in the elimination
+ or adequate reduction of the risk of injury identified in the petition, and
+ it is likely that there will be substantial compliance with the standard.'.
+ (c) FLAMMABLE FABRICS ACT- Section 4 of the Flammable Fabrics Act (15
+ U.S.C. 1193) is amended by adding at the end the following:
+ `(k) The Commission shall grant, in whole or in part, or deny any petition
+ under section 553(e) of title 5, United States Code, requesting the Commission
+ to initiate a rulemaking, within a reasonable time after the date on which
+ such petition is filed. The Commission shall state the reasons for granting
+ or denying such petition. The Commission may not deny any such petition
+ on the basis of a voluntary standard unless the voluntary standard is in
+ existence at the time of the denial of the petition, the Commission has
+ determined that the voluntary standard is likely to result in the elimination
+ or adequate reduction of the risk of injury identified in the petition, and
+ it is likely that there will be substantial compliance with the standard.'.
+SEC. 111. COST-BENEFIT ANALYSIS.
+ (a) CONSUMER PRODUCT SAFETY ACT-
+ (1) Section 12 (15 U.S.C. 2061) is amended by adding at the end the following:
+ `(g) Nothing in this section shall be construed to require the Commission,
+ in determining whether to bring an action against a consumer product or a
+ person under this section, to prepare a comparison of the costs that would
+ be incurred in complying with the relief that may be ordered in such action
+ with the benefits to the public from such relief.'.
+ (2) Section 15 (15 U.S.C. 2064) is amended by adding at the end the following:
+ `(h) Nothing in this section shall be construed to require the Commission,
+ in determining that a product distributed in commerce presents a substantial
+ product hazard and that notification or other action under this section
+ should be taken, to prepare a comparison of the costs that would be incurred
+ in providing notification or taking other action under this section with
+ the benefits from such notification or action.'.
+ (b) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 15 of the Federal Hazardous
+ Substances Act (15 U.S.C. 1274) is amended by adding at the end the following:
+ `(g) Nothing in this section shall be construed to require the Commission,
+ in determining that an article or substance distributed in commerce presents
+ a substantial product hazard and that notification or other action under
+ this section should be taken, to prepare a comparison of the costs that
+ would be incurred in providing notification or taking other action under
+ this section with the benefits from such notification or action.'.
+SEC. 112. INFORMATION REPORTING TO CONSUMER PRODUCT SAFETY COMMISSION.
+ (a) SECTION 15(b) REPORTING- Section 15(b) (15 U.S.C. 2064(b)) is amended--
+ (1) in paragraph (1), by striking `; or' and inserting in lieu thereof `or
+ with a voluntary consumer product safety standard upon which the Commission
+ has relied under section 9;';
+ (2) in paragraph (2), by striking the comma and inserting in lieu thereof
+ `; or';
+ (3) by inserting immediately after paragraph (2) the following:
+ `(3) creates an unreasonable risk of serious injury or death,';
+ (4) by striking `comply or of such defect,' and inserting in lieu thereof
+ `comply, of such defect, or of such risk,'; and
+ (5) by striking `defect or failure to comply.' and inserting in lieu thereof
+ `defect, failure to comply, or such risk.'.
+ (b) INFORMATION REPORTING- The Consumer Product Safety Act is amended by
+ adding at the end the following new section:
+`INFORMATION REPORTING
+ `SEC. 37. (a) If a particular model of a consumer product is the subject
+ of at least 3 civil actions that have been filed in Federal or State
+ court for death or grievous bodily injury which in each of the 24-month
+ periods defined in subsection (b) result in either a final settlement
+ involving the manufacturer or a court judgment in favor of the plaintiff,
+ the manufacturer of such product shall, in accordance with subsection (c),
+ report to the Commission each such civil action within 30 days after the
+ final settlement or court judgment in the third of such civil actions, and,
+ within 30 days after any subsequent settlement or judgment in that 24-month
+ period, any other such action.
+ `(b) The 24-month periods referred to in subsection (a) are the 24-month
+ period commencing on January 1, 1991, and subsequent 24-month periods
+ beginning on January 1 of the calendar year that is two years following
+ the beginning of the previous 24-month period.
+ `(c)(1) The information required by subsection (a) to be reported to the
+ Commission, with respect to each civil action described in subsection (a),
+ shall include and in addition to any voluntary information provided under
+ paragraph (2) shall be limited to the following:
+ `(A) The name and address of the manufacturer.
+ `(B) The model and model number or designation of the consumer product
+ subject to the civil action.
+ `(C) A statement as to whether the civil action alleged death or grievous
+ bodily injury, and in the case of an allegation of grievous bodily injury,
+ a statement of the category of such injury.
+ `(D) A statement as to whether the civil action resulted in a final settlement
+ or a judgment in favor of the plaintiff.
+ `(E) in the case of a judgment in favor of the plaintiff, the name of the
+ civil action, the number assigned the civil action, and the court in which
+ the civil action was filed.
+ `(2) A manufacturer furnishing the report required by paragraph (1) may
+ include (A) a statement as to whether any judgment in favor of the plaintiff
+ is under appeal or is expected to be appealed or (B) any other information
+ which the manufacturer chooses to provide. A manufacturer reporting to the
+ Commission under subsection (a) need not admit or may specifically deny
+ that the information it submits reasonably supports the conclusion that
+ its consumer product caused a death or grievous bodily injury.
+ `(3) No statement of the amount paid by the manufacturer in a final settlement
+ shall be required as part of the report furnished under subsection (a),
+ nor shall such a statement of settlement amount be required under any other
+ section of this Act.
+ `(d) The reporting of a civil action described in subsection (a) by a
+ manufacturer shall not constitute an admission of--
+ `(1) an unreasonable risk of injury,
+ `(2) a defect in the consumer product which was the subject of such action,
+ `(3) a substantial product hazard,
+ `(4) an imminent hazard, or
+ `(5) any other admission of liability under any statute or under any
+ common law.'.
+ `(e) For purposes of this section:
+ `(1) A grievous bodily injury includes any of the following categories
+ of injury: mutilation, amputation, dismemberment, disfigurement, loss
+ of important bodily functions, debilitating internal disorder, severe
+ burn, severe electric shock, and injuries likely to require extended
+ hospitalization.
+ `(2) For purposes of this section, a particular model of a consumer product
+ is one that is distinctive in functional design, construction, warnings
+ or instructions related to safety, function, user population, or other
+ characteristics which could affect the product's safety related performance.'.
+ (c) Section 6 (15 U.S.C. 2055) is amended by adding at the end the following:
+ `(e)(1) Notwithstanding the provisions of section 552 of title 5, United
+ States Code, subsection (a)(7) of this section, or of any other law, except
+ as provided in paragraphs (2), (3), and (4), no member of the Commission,
+ no officer or employee of the Commission, and no officer or employee of
+ the Department of Justice may--
+ `(A) publicly disclose information furnished under subsection (c)(1) or
+ (c)(2)(A) of section 37;
+ `(B) use such information for any purpose other than to carry out the
+ Commission's responsibilities; or
+ `(C) permit anyone (other than the members, officers, and employees of
+ the Commission or officers or employees of the Department of Justice who
+ require such information for an action filed on behalf of the Commission)
+ to examine such information.
+ `(2) Any report furnished under subsection (c)(1) or (c)(2)(A) of section 37
+ shall be immune from legal process and shall not be subject to subpoena or
+ other discovery in any civil action in a State or Federal court or in any
+ administrative proceeding, except in an action against such manufacturer
+ under section 20, 21, or 22 for failure to furnish information required by
+ section 37.
+ `(3) The Commission may, upon written request, furnish to any manufacturer
+ or to the authorized agent of such manufacturer authenticated copies of
+ reports furnished by or on behalf of such manufacturer in accordance with
+ section 37, upon payment of the actual or estimated cost of searching the
+ records and furnishing such copies.
+ `(4) Upon written request of the Chairman or Ranking Minority Member of
+ the Committee on Commerce, Science, and Transportation of the Senate or
+ the Committee on Energy and Commerce of the House of Representatives or any
+ subcommittee of such committee, the Commission shall provide to the Chairman
+ or Ranking Minority Member any information furnished to the Commission
+ under section 37 for purposes that are related to the jurisdiction of such
+ committee or subcommittee.
+ `(5) Any officer or employee of the Commission or other officer or employee
+ of the Federal Government who receives information provided under section 37,
+ who willfully violates the requirements of this subsection shall be subject to
+ dismissal or other appropriate disciplinary action consistent with procedures
+ and requirements established by the Office of Personnel Management.'.
+ (d) PROHIBITED ACT- Section 19(a) (15 U.S.C. 2068(a)) is amended by adding
+ at the end the following new paragraph:
+ `(11) fail to furnish information required by section 37.'.
+ (e) CIVIL PENALTIES- The second sentence of section 20(a)(1) (15
+ U.S.C. 2069(a)(1)) is amended by striking `or (10)' and inserting in lieu
+ thereof `(10), or (11)'.
+ (f) CONGRESSIONAL REPORTS-
+ (1) The Consumer Product Safety Commission shall report to the Congress on
+ the extent to which reports made to the Commission under section 37 of the
+ Consumer Product Safety Act have assisted the Commission in carrying out
+ its responsibilities under such Act. The report--
+ (A) shall provide aggregate data and not the details and contents of
+ individual reports filed with the Commission pursuant to such section 37,
+ (B) shall not disclose the brand names of products included in reports under
+ such section 15(b) or 37 or the number of reports under such sections for
+ particular models or classes of products, and
+ (C) shall include--
+ (i) a comparison of the number of reports received under such section 37
+ and the number of reports received under section 15(b) of such Act,
+ (ii) a comparison of the number of reports filed with the Commission before
+ the date of the enactment of this Act and after such date, and
+ (iii) the total number of settlements and court judgments reported under
+ such section 37 and the total number of rulemakings and enforcement actions
+ undertaken in response to such reports,
+ (iv) recommendations of the Commission for additional improvements in
+ reporting under the Consumer Product Safety Act.
+ (2) The first report under paragraph (1) shall be due February 1, 1992,
+ and the second such report shall be due April 1, 1993.
+SEC. 113. SETTLEMENT OFFERS.
+ Section 15(f) (15 U.S.C. 2064(f)) is amended by adding at the end the
+ following: `Any settlement offer which is submitted to the presiding officer
+ at a hearing under this subsection shall be transmitted by the officer to
+ the Commission for its consideration unless the settlement offer is clearly
+ frivolous or duplicative of offers previously made.'.
+SEC. 114. PRODUCT SURVEILLANCE PROGRAM.
+ Section 17 (15 U.S.C. 2066) is amended by adding at the end the following:
+ `(h)(1) The Commission shall establish and maintain a permanent product
+ surveillance program, in cooperation with other appropriate Federal agencies,
+ for the purpose of carrying out the Commission's responsibilities under
+ this Act and the other Acts administered by the Commission and preventing
+ the entry of unsafe consumer products into the commerce of the United States.
+ `(2) The Commission may provide to the agencies with which it is cooperating
+ under paragraph (1) such information, data, violator lists, test results,
+ and other support, guidance, and documents as may be necessary or helpful
+ for such agencies to cooperate with the Commission to carry out the product
+ surveillance program under paragraph (1).
+ `(3) The Commission shall periodically report to the Congress the results
+ of the surveillance program under paragraph (1).'.
+SEC. 115. CIVIL PENALTIES.
+ (a) CONSUMER PRODUCT SAFETY ACT- Section 20(a) (15 U.S.C. 2069(a))
+ is amended--
+ (1) by striking `$2,000' and inserting in lieu thereof `$5,000';
+ (2) by striking `$500,000' each place it appears and inserting in lieu
+ thereof `$1,250,000'; and
+ (3) by adding at the end thereof the following:
+ `(3)(A) The maximum penalty amounts authorized in paragraph (1) shall be
+ adjusted for inflation as provided in this paragraph.
+ `(B) Not later than December 1, 1994, and December 1 of each fifth calendar
+ year thereafter, the Commission shall prescribe and publish in the Federal
+ Register a schedule of maximum authorized penalties that shall apply for
+ violations that occur after January 1 of the year immediately following
+ such publication.
+ `(C) The schedule of maximum authorized penalties shall be prescribed
+ by increasing each of the amounts referred to in paragraph (1) by the
+ cost-of-living adjustment for the preceding five years. Any increase
+ determined under the preceding sentence shall be rounded to--
+ `(i) in the case of penalties greater than $1,000 but less than or equal
+ to $10,000, the nearest multiple of $1,000;
+ `(ii) in the case of penalties greater than $10,000 but less than or equal
+ to $100,000, the nearest multiple of $5,000;
+ `(iii) in the case of penalties greater than $100,000 but less than or
+ equal to $200,000, the nearest multiple of $10,000; and
+ `(iv) in the case of penalties greater than $200,000, the nearest multiple
+ of $25,000.
+ `(D) For purposes of this subsection:
+ `(i) The term `Consumer Price Index' means the Consumer Price Index for
+ all-urban consumers published by the Department of Labor.
+ `(ii) The term `cost-of-living adjustment for the preceding five years'
+ means the percentage by which--
+ `(I) the Consumer Price Index for the month of June of the calendar year
+ preceding the adjustment; exceeds
+ `(II) the Consumer Price Index for the month of June preceding the date on
+ which the maximum authorized penalty was last adjusted.'.
+ (b) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 5 of the Federal Hazardous
+ Substances Act (15 U.S.C. 1264) is amended by adding at the end the following:
+ `(c)(1) Any person who knowingly violates section 4 shall be subject to
+ a civil penalty not to exceed $5,000 for each such violation. Subject to
+ paragraph (2), a violation of subsections (a), (b), (c), (d), (f), (g), (i),
+ (j), and (k) of section 4 shall constitute a separate offense with respect
+ to each substance involved, except that the maximum civil penalty shall
+ not exceed $1,250,000 for any related series of violations. A violation of
+ section 4(e) shall constitute a separate violation with respect to each
+ failure or refusal to allow or perform an act required by section 4(e);
+ and, if such violation is a continuing one, each day of such violation shall
+ constitute a separate offense, except that the maximum civil penalty shall
+ not exceed $1,250,000 for any related series of violations.
+ `(2) The second sentence of paragraph (1) of this subsection shall not
+ apply to violations of subsection (a) or (c) of section 4--
+ `(A) if the person who violated such subsection is not the manufacturer,
+ importer, or private labeler or a distributor of the substances involved; and
+ `(B) if such person did not have either (i) actual knowledge that such
+ person's distribution or sale of the substance violated such subsection,
+ or (ii) notice from the Commission that such distribution or sale would be
+ a violation of such subsection.
+ `(3) In determining the amount of any penalty to be sought upon commencing
+ an action seeking to assess a penalty for a violation of section 4, the
+ Commission shall consider the nature of the substance, the severity of
+ the risk of injury, the occurrence or absence of injury, the amount of the
+ substance distributed, and the appropriateness of such penalty in relation
+ to the size of the business of the person charged.
+ `(4) Any civil penalty under this subsection may be compromised by the
+ Commission. In determining the amount of such penalty or whether it should
+ be remitted or mitigated, and in what amount, the Commission shall consider
+ the appropriateness of such penalty to the size of the business of the
+ persons charged, the nature of the substance involved, the severity of the
+ risk of injury, the occurrence or absence of injury, and the amount of the
+ substance distributed. The amount of such penalty when finally determined,
+ or the amount agreed on compromise, may be deducted from any sums owing by
+ the United States to the person charged.
+ `(5) As used in the first sentence of paragraph (1), the term `knowingly'
+ means (A) having actual knowledge, or (B) the presumed having of knowledge
+ deemed to be possessed by a reasonable person who acts in the circumstances,
+ including knowledge obtainable upon the exercise of due care to ascertain
+ the truth of representations.
+ `(6)(A) The maximum penalty amounts authorized in paragraph (1) shall be
+ adjusted for inflation as provided in this paragraph.
+ `(B) Not later than December 1, 1994, and December 1 of each fifth calendar
+ year thereafter, the Commission shall prescribe and publish in the Federal
+ Register a schedule of maximum authorized penalties that shall apply for
+ violations that occur after January 1 of the year immediately following
+ such publication.
+ `(C) The schedule of maximum authorized penalties shall be prescribed
+ by increasing each of the amounts referred to in paragraph (1) by the
+ cost-of-living adjustment for the preceding five years. Any increase
+ determined under the preceding sentence shall be rounded to--
+ `(i) in the case of penalties greater than $1,000 but less than or equal
+ to $10,000, the nearest multiple of $1,000;
+ `(ii) in the case of penalties greater than $10,000 but less than or equal
+ to $100,000, the nearest multiple of $5,000;
+ `(iii) in the case of penalties greater than $100,000 but less than or
+ equal to $200,000, the nearest multiple of $10,000; and
+ `(iv) in the case of penalties greater than $200,000, the nearest multiple
+ of $25,000.
+ `(D) For purposes of this subsection:
+ `(i) The term `Consumer Price Index' means the Consumer Price Index for
+ all-urban consumers published by the Department of Labor.
+ `(ii) The term `cost-of-living adjustment for the preceding five years'
+ means the percentage by which--
+ `(I) the Consumer Price Index for the month of June of the calendar year
+ preceding the adjustment; exceeds
+ `(II) the Consumer Price Index for the month of June preceding the date on
+ which the maximum authorized penalty was last adjusted.'.
+ (c) FLAMMABLE FABRICS ACT- Section 5 of the Flammable Fabrics Act (15
+ U.S.C. 1264) is amended by adding at the end the following:
+ `(e)(1) Any person who knowingly violates a regulation or standard under
+ section 4 shall be subject to a civil penalty not to exceed $5,000 for
+ each such violation, except that the maximum civil penalty shall not exceed
+ $1,250,000 for any related series of violations.
+ `(2) In determining the amount of any penalty to be sought upon commencing an
+ action seeking to assess a penalty for a violation of a regulation or standard
+ under section 4, the Commission shall consider the nature and number of the
+ violations, the severity of the risk of injury, the occurrence or absence
+ of injury, and the appropriateness of such penalty in relation to the size
+ of the business of the person charged.
+ `(3) Any civil penalty under this subsection may be compromised by the
+ Commission. In determining the amount of such penalty or whether it should be
+ remitted or mitigated, and in what amount, the Commission shall consider the
+ nature and number of the violations, the appropriateness of such penalty to
+ the size of the business of the persons charged, the severity of the risk
+ of injury, and the occurrence or absence of injury. The amount of such
+ penalty when finally determined, or the amount agreed on compromise, may
+ be deducted from any sums owing by the United States to the person charged.
+ `(4) As used in paragraph (1), the term `knowingly' means (A) having
+ actual knowledge, or (B) the presumed having of knowledge deemed to be
+ possessed by a reasonable person who acts in the circumstances, including
+ knowledge obtainable upon the exercise of due care to ascertain the truth
+ of representations.
+ `(5)(A) The maximum penalty amounts authorized in paragraph (1) shall be
+ adjusted for inflation as provided in this paragraph.
+ `(B) Not later than December 1, 1994, and December 1 of each fifth calendar
+ year thereafter, the Commission shall prescribe and publish in the Federal
+ Register a schedule of maximum authorized penalties that shall apply for
+ violations that occur after January 1 of the year immediately following
+ such publication.
+ `(C) The schedule of maximum authorized penalties shall be prescribed
+ by increasing each of the amounts referred to in paragraph (1) by the
+ cost-of-living adjustment for the preceding five years. Any increase
+ determined under the preceding sentence shall be rounded to--
+ `(i) in the case of penalties greater than $1,000 but less than or equal
+ to $10,000, the nearest multiple of $1,000;
+ `(ii) in the case of penalties greater than $10,000 but less than or equal
+ to $100,000, the nearest multiple of $5,000;
+ `(iii) in the case of penalties greater than $100,000 but less than or
+ equal to $200,000, the nearest multiple of $10,000; and
+ `(iv) in the case of penalties greater than $200,000, the nearest multiple
+ of $25,000.
+ `(D) For purposes of this subsection:
+ `(i) The term `Consumer Price Index' means the Consumer Price Index for
+ all-urban consumers published by the Department of Labor.
+ `(ii) The term `cost-of-living adjustment for the preceding five years'
+ means the percentage by which--
+ `(I) the Consumer Price Index for the month of June of the calendar year
+ preceding the adjustment; exceeds
+ `(II) the Consumer Price Index for the month of June preceding the date on
+ which the maximum authorized penalty was last adjusted.'.
+ (d) REPORT ON CIVIL PENALTIES-
+ (1) Beginning 1 year after the date of enactment of this Act, and every
+ year thereafter, the Consumer Product Safety Commission shall submit to
+ the Committee on Commerce, Science, and Transportation of the Senate and
+ the Committee on Energy and Commerce of the House of Representatives the
+ information specified in paragraph (2) of this subsection. Such information
+ may be included in the annual report to the Congress submitted by the
+ Commission.
+ (2) The Commission shall submit information with respect to the imposition
+ of civil penalties under the statutes which it administers. The information
+ shall include the number of civil penalties imposed, an identification of
+ the violations that led to the imposition of such penalties, and the amount
+ of revenue recovered from the imposition of such penalties.
+SEC. 116. CHRONIC HAZARD ADVISORY PANEL.
+ Section 28(b)(1) (15 U.S.C. 2077(b)(1)) is amended by inserting immediately
+ after `States' the following: `(other than employees of the National
+ Institutes of Health, the National Toxicology Program, or the National
+ Center for Toxicological Research)'.
+SEC. 117. AUTHORIZATION.
+ Section 32(a) (15 U.S.C. 2081(a)) is amended by striking out paragraphs
+ (1) through (9) and inserting in lieu thereof the following:
+ `(1) $42,000,000 for fiscal year 1991, and
+ `(2) $45,000,000 for fiscal year 1992.'.
+SEC. 118. ENFORCEMENT BY STATE ATTORNEYS GENERAL.
+ (a) FEDERAL HAZARDOUS SUBSTANCES ACT- Section 5 of the Federal Hazardous
+ Substances Act (15 U.S.C. 1264), as amended by section 115(b) of this Act,
+ is amended by adding at the end the following:
+ `(d) In the case of an attorney general of a State alleging a violation that
+ affects or may affect such State or its residents, such attorney general may
+ bring a civil action for an injunction to enforce any requirement of this
+ Act relating to misbranded or banned hazardous substances. The procedural
+ requirements of section 24 of the Consumer Product Safety Act shall apply
+ to any such action.'.
+ (b) FLAMMABLE FABRICS ACT- Section 5(a) of the Flammable Fabrics Act (15
+ U.S.C. 1194(a)) is amended by adding at the end the following: `In the
+ case of an attorney general of a State alleging a violation of a standard
+ or regulation under section 4 that affects or may affect such State or its
+ residents, such attorney general may bring a civil action for an injunction
+ to enforce the requirement of such standard or regulation. The procedural
+ requirements of section 24 of the Consumer Product Safety Act shall apply
+ to any such action.'.
+SEC. 119. USER FEE STUDY.
+ The Consumer Product Safety Commission shall conduct a study of the
+ feasibility of requiring entities subject to the Consumer Product Safety Act
+ to pay to the Commission amounts to defray the reasonable costs of particular
+ services provided by the Commission to such entities. The Commission shall
+ complete the study within one year of the date of the enactment of this
+ Act and shall report the results of the study to the Congress.
+TITLE II--RELATED PROVISIONS
+SEC. 201. LIGHTERS.
+ The Consumer Product Safety Commission shall pursue its pending proceedings
+ to establish a safety standard for cigarette lighters, taking into account
+ the need to protect children from harm from lighters.
+SEC. 202. INDOOR AIR POLLUTANTS.
+ Not later than 180 days after the date of the enactment of this Act,
+ the Consumer Product Safety Commission shall report to Congress on its
+ activities to reduce exposure of individuals to indoor air pollutants. Such
+ report shall--
+ (1) briefly describe the activities of the Commission before such date of
+ enactment in the area of indoor air quality,
+ (2) contain a detailed discussion of (A) the current activities of the
+ Commission in such area, and (B) the further activities which the Commission
+ plans to provide remedial measures to address the indoor air quality problems
+ identified by the Commission,
+ (3) discuss the nature of indoor air quality hazards, the association of
+ consumer products with such hazard, and, to the extent known, remedial
+ measures which may be taken with respect to such hazard, and
+ (4) discuss the Commission's overall strategies and plans for addressing
+ the identified indoor air quality hazards and for identifying and remedying
+ such hazards.
+SEC. 203. AUTOMATIC GARAGE DOOR OPENERS.
+ (a) CONSUMER PRODUCT SAFETY RULE- The provisions of subsection (b) shall
+ be considered to be a consumer product safety rule issued by the Consumer
+ Product Safety Commission under section 9 of the Consumer Product Safety Act.
+ (b) REQUIREMENTS-
+ (1) Effective on and after January 1, 1991, each automatic residential
+ garage door opener manufactured on or after that date for sale in the
+ United States shall conform to the entrapment protection requirements
+ of the American National Standards Institute Underwriters Laboratories,
+ Inc. Standards for Safety--UL 325, third edition, as revised May 4, 1988.
+ (2)(A) Effective on and after January 1, 1993, all residential automatic
+ garage door openers manufactured on and after such date for sale in the United
+ States shall conform to any additional entrapment protection requirements
+ of the American National Standards Institute Underwriters Laboratories,
+ Inc. Standards for Safety--UL 325, third edition, which were issued after
+ the date of the enactment of this Act to become effective on or before
+ January 1, 1993.
+ (B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not
+ issued a revision to the May 4, 1988, Standards for Safety--UL 325, third
+ edition, to require an entrapment protection feature or device in addition
+ to that required by the May 4, 1988, Standard, the Consumer Product Safety
+ Commission shall begin a rulemaking proceeding, to be completed no later
+ than October 31, 1992, to require an additional such feature or device
+ on all automatic residential garage door openers manufactured on or after
+ January 1, 1993, for sale in the United States. If such a revision is issued
+ by the Underwriters Laboratories, Inc. after the rulemaking has commenced,
+ the rulemaking shall be terminated and the revision shall be incorporated in
+ the consumer product safety rule under subsection (a) unless the Commission
+ has determined under subsection (c) that such revision does not carry out
+ the purposes of subsection (b).
+ (c) REVISION OF RULE- If, after June 1, 1992, or the date of a revision
+ described in subsection (b)(2)(B) if later, the Underwriters Laboratories,
+ Inc. proposes to further revise the entrapment protection requirements
+ of the American National Standards Institute Underwriters Laboratories,
+ Inc. Standards for Safety--UL 325, third edition, the Laboratories shall
+ notify the Consumer Product Safety Commission of the proposed revision
+ and the proposed revision shall be incorporated in the consumer product
+ safety rule under subsection (a) unless, within 30 days of such notice,
+ the Commission notifies the Laboratories that the Commission has determined
+ that such revision does not carry out the purposes of subsection (b).
+ (d) LABELING- On and after January 1, 1991, a manufacturer selling or
+ offering for sale in the United States an automatic residential garage door
+ opener manufactured on or after January 1, 1991, shall clearly identify on
+ any container of the system and on the system the month or week and year
+ the system was manufactured and its conformance with the requirements of
+ subsection (b). The display of the UL logo or listing mark, and compliance
+ with the date marking requirements of UL 325, on both the container and
+ the system, shall satisfy the requirements of this subsection.
+ (e) NOTIFICATION- Effective on and after July 1, 1991, all manufacturers
+ of automatic residential garage door openers shall, in consultation with
+ the Consumer Product Safety Commission, notify the public of the potential
+ for entrapment by garage doors equipped with automatic garage door openers
+ and advise the public to test their openers for the entrapment protection
+ feature or device required by subsection (b).
+ (f) PREEMPTION- In applying section 26(a) of the Consumer Product Safety
+ Act (15 U.S.C. 2075) with respect to the consumer product safety rule of
+ the Consumer Product Safety Commission under subsection (a), only those
+ provisions of laws of States or political subdivisions which relate to the
+ labeling of automatic residential garage door openers and those provisions
+ which do not provide at least the equivalent degree of protection from the
+ risk of injury associated with automatic residential garage door openers
+ as the consumer product safety rule provides shall be subject to such section.
+ (g) REGULATIONS- Section 553 of title 5, United States Code, shall apply with
+ respect to the issuance of any regulations by the Consumer Product Safety
+ Commission to implement the requirements of this section and sections 7 and
+ 9 of the Consumer Product Safety Act do not apply to such issuance. Any
+ additional or revised requirement issued by the Commission shall provide
+ an adequate degree of protection to the public.
+ (h) CONSTRUCTION- Nothing in this section shall affect or modify in any
+ way the obligations or liabilities of any person under the common law or
+ any Federal or State law.
+SEC. 204. STUDY OF AVERSIVE AGENTS.
+ The Consumer Product Safety Commission shall conduct a study of requiring
+ manufacturers of consumer products to include aversive agents, as appropriate,
+ in products which present a hazard if ingested to determine the potential
+ effectiveness of the aversive agents in deterring ingestion. In conducting the
+ study, the Commission shall consult with appropriate consumer, health, and
+ business organizations and appropriate government agencies. The Commission
+ shall report to Congress the status of the study within one year of the
+ date of the enactment of this Act and shall complete the study not later
+ than 2 years after such date of enactment.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

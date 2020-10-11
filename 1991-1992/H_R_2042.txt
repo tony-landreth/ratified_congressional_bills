@@ -1,0 +1,632 @@
+ 
+--H.R.2042--
+H.R.2042
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To authorize appropriations for activities under the Federal Fire Prevention
+and
+Control Act of 1974, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Fire Administration Authorization Act of 1992'.
+TITLE I--UNITED STATES FIRE ADMINISTRATION
+SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+  Section 17(g)(1) of the Federal Fire Prevention and Control Act of 1974
+  (15 U.S.C. 2216(g)(1)) is amended--
+  (1) by striking `and' at the end of subparagraph (B);
+  (2) by striking the period at the end of subparagraph (C) and inserting
+  in lieu thereof a semicolon; and
+  (3) by adding at the end the following new subparagraphs:
+  `(D) $25,550,000 for the fiscal year ending September 30, 1992;
+  `(E) $26,521,000 for the fiscal year ending September 30, 1993; and
+  `(F) $27,529,000 for the fiscal year ending September 30, 1994.'.
+SEC. 102. PRIORITY ACTIVITIES OF THE UNITED STATES FIRE ADMINISTRATION.
+  (a) PRIORITY ACTIVITIES- In expending funds appropriated pursuant to
+  the amendments made by section 101 of this Act, the United States Fire
+  Administration shall give priority to--
+  (1) reducing the incidence of residential fires, especially in residences
+  of the very old, the very young, or the disabled in urban and rural areas,
+  through the development and dissemination of public education and awareness
+  programs, through arson research and technical assistance programs, and
+  through research and development on new technologies;
+  (2) working with State Fire Marshals and other State level fire safety
+  offices to identify fire problems that are national in scope;
+  (3) disseminating information about the activities and programs of the
+  United States Fire Administration to State and local fire services;
+  (4) enhancing the residential sprinkler programs, including research,
+  demonstration activities, and technical assistance to the public and
+  private sectors;
+  (5) enhancing research into sprinkler programs in areas or structures with
+  limited or no domestic water supply;
+  (6) through the National Fire Academy, enhancing the residential and field
+  program in support of State level training programs, particularly those
+  that support the volunteer fire service; and
+  (7) strengthening programs that help protect the lives and safety of fire
+  and emergency medical services personnel, including research into causes
+  of death and injuries, research and development on new technologies to
+  mitigate and prevent injuries, dissemination of information, and technical
+  assistance to State and local fire departments.
+  (b) REPORT TO CONGRESS- The United States Fire Administration shall,
+  within 1 year after the date of enactment of this Act, submit a report to
+  the Congress on the activities undertaken pursuant to subsection (a)(1).
+SEC. 103. REPORT ON IMPLEMENTATION OF HOTEL AND MOTEL FIRE SAFETY ACT OF 1990.
+  The United States Fire Administration shall, within 6 months after the
+  date of enactment of this Act, report to the Committee on Commerce,
+  Science, and Transportation of the Senate and the Committee on Science,
+  Space, and Technology of the House of Representatives on its progress
+  in implementing the Hotel and Motel Fire Safety Act of 1990 (Public Law
+  101-391; 104 Stat. 747), including amendments made by that Act. The report
+  shall specify the nature of expenditures made as of the date of the report,
+  as well as including an estimate of the costs and a specific schedule
+  for implementation.
+SEC. 104. LISTING OF DESIGNATED PLACES OF PUBLIC ACCOMMODATION.
+  Section 28 of the Federal Fire Prevention and Control Act of 1974 (15
+  U.S.C. 2224) is amended--
+  (1) by striking `CERTIFIED' in the section heading; and
+  (2) in subsection (a)--
+  (A) by inserting `(acting through its Governor or the Governor's designee)'
+  immediately after `each State' wherever it appears; and
+  (B) by striking `the Governor of the State or his designee certifies'.
+SEC. 105. FIRE PREVENTION AND CONTROL GUIDELINES FOR PLACES OF PUBLIC
+ACCOMMODATION.
+  (a) EXCEPTIONS FOR CERTAIN AUTOMATIC SPRINKLER SYSTEMS- Section 29 of
+  the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225),
+  is amended by redesignating subsections (b) and (c) as subsections (c)
+  and (d), respectively, and by inserting immediately after subsection (a)
+  the following new subsection:
+  `(b) EXCEPTIONS- (1) The requirement described in subsection (a)(2) shall
+  not apply to a place of public accommodation affecting commerce with
+  an automatic sprinkler system installed before October 25, 1992, if the
+  automatic sprinkler system is installed in compliance with an applicable
+  standard (adopted by the governmental authority having jurisdiction, and
+  in effect, at the time of installation) that required the placement of a
+  sprinkler head in the sleeping area of each guest room.
+  `(2) The requirement described in subsection (a)(2) shall not apply to a
+  place of public accommodation affecting commerce to the extent that such
+  place of public accommodation affecting commerce is subject to a standard
+  that includes a requirement or prohibition that prevents compliance with a
+  provision of National Fire Protection Association Standard 13 or 13-R. In
+  such a case, the place of public accommodation affecting commerce is exempt
+  only from that specific provision.'.
+  (b) DEFINITIONS- Section 29 of the Federal Fire Prevention and Control Act
+  of 1974 (15 U.S.C. 2225), is amended by adding at the end of subsection
+  (d), as redesignated by this section, the following new paragraph:
+  `(3) The term `governmental authority having jurisdiction' means the
+  Federal, State, local, or other governmental entity with statutory or
+  regulatory authority for the approval of fire safety systems, equipment,
+  installations, or procedures within a specified locality.'.
+SEC. 106. FIRE SAFETY SYSTEMS IN FEDERALLY ASSISTED BUILDINGS.
+  (a) AMENDMENT- The Federal Fire Prevention and Control Act of 1974 (15
+  U.S.C. 2201 et seq.), is amended by adding at the end the following new
+  section:
+`SEC. 31. FIRE SAFETY SYSTEMS IN FEDERALLY ASSISTED BUILDINGS.
+  `(a) DEFINITIONS- For purposes of this section, the following definitions
+  apply:
+  `(1) The term `affordable cost' means the cost to a Federal agency of
+  leasing office space in a building that is protected by an automatic
+  sprinkler system or equivalent level of safety, which cost is no more than
+  10 percent greater than the cost of leasing available comparable office
+  space in a building that is not so protected.
+  `(2) The term `automatic sprinkler system' means an electronically
+  supervised, integrated system of piping to which sprinklers are attached
+  in a systematic pattern, and which, when activated by heat from a fire--
+  `(A) will protect human lives by discharging water over the fire area, in
+  accordance with the National Fire Protection Association Standard 13, 13D,
+  or 13R, whichever is appropriate for the type of building and occupancy
+  being protected, or any successor standard thereto; and
+  `(B) includes an alarm signaling system with appropriate warning signals
+  (to the extent such alarm systems and warning signals are required by
+  Federal, State, or local laws or regulations) installed in accordance with
+  the National Fire Protection Association Standard 72, or any successor
+  standard thereto.
+  `(3) The term `equivalent level of safety' means an alternative design or
+  system (which may include automatic sprinkler systems), based upon fire
+  protection engineering analysis, which achieves a level of safety equal
+  to or greater than that provided by automatic sprinkler systems.
+  `(4) The term `Federal employee office building' means any office building
+  in the United States, whether owned or leased by the Federal Government,
+  that is regularly occupied by more than 25 full-time Federal employees in
+  the course of their employment.
+  `(5) The term `housing assistance'--
+  `(A) means assistance provided by the Federal Government to be used in
+  connection with the provision of housing, that is provided in the form of
+  a grant, contract, loan, loan guarantee, cooperative agreement, interest
+  subsidy, insurance, or direct appropriation; and
+  `(B) does not include assistance provided by the Secretary of Veterans
+  Affairs; the Federal Emergency Management Agency; the Secretary of Housing
+  and Urban Development under the single family mortgage insurance programs
+  under the National Housing Act or the homeownership assistance program under
+  section 235 of such Act; the National Homeownership Trust; the Federal
+  Deposit Insurance Corporation under the affordable housing program under
+  section 40 of the Federal Deposit Insurance Act; or the Resolution Trust
+  Corporation under the affordable housing program under section 21A(c)
+  of the Federal Home Loan Bank Act.
+  `(6) The term `hazardous areas' means those areas in a building referred
+  to as hazardous areas in National Fire Protection Association Standard 101,
+  known as the Life Safety Code, or any successor standard thereto.
+  `(7) The term `multifamily property' means--
+  `(A) in the case of housing for Federal employees or their dependents,
+  a residential building consisting of more than 2 residential units that
+  are under one roof; and
+  `(B) in any other case, a residential building consisting of more than 4
+  residential units that are under one roof.
+  `(8) The term `prefire plan' means specific plans for fire fighting
+  activities at a property or location.
+  `(9) The term `rebuilding' means the repairing or reconstructing of portions
+  of a multifamily property where the cost of the alterations is 70 percent
+  or more of the replacement cost of the completed multifamily property, not
+  including the value of the land on which the multifamily property is located.
+  `(10) The term `renovated' means the repairing or reconstructing of 50
+  percent or more of the current value of a Federal employee office building,
+  not including the value of the land on which the Federal employee office
+  building is located.
+  `(11) The term `smoke detectors' means single or multiple station,
+  self-contained alarm devices designed to respond to the presence of
+  visible or invisible particles of combustion, installed in accordance
+  with the National Fire Protection Association Standard 74 or any successor
+  standard thereto.
+  `(12) The term `United States' means the States collectively.
+  `(b) FEDERAL EMPLOYEE OFFICE BUILDINGS- (1)(A) No Federal funds may be used
+  for the construction or purchase of a Federal employee office building of 6
+  or more stories unless during the period of occupancy by Federal employees
+  the building is protected by an automatic sprinkler system or equivalent
+  level of safety. No Federal funds may be used for the construction or
+  purchase of any other Federal employee office building unless during
+  the period of occupancy by Federal employees the hazardous areas of the
+  building are protected by automatic sprinkler systems or an equivalent
+  level of safety.
+  `(B)(i) Except as provided in clause (ii), no Federal funds may be used
+  for the lease of a Federal employee office building of 6 or more stories,
+  where at least some portion of the federally leased space is on the sixth
+  floor or above and at least 35,000 square feet of space is federally
+  occupied, unless during the period of occupancy by Federal employees
+  the entire Federal employee office building is protected by an automatic
+  sprinkler system or equivalent level of safety. No Federal funds may be
+  used for the lease of any other Federal employee office building unless
+  during the period of occupancy by Federal employees the hazardous areas
+  of the entire Federal employee office building are protected by automatic
+  sprinkler systems or an equivalent level of safety.
+  `(ii) The first sentence of clause (i) shall not apply to the lease
+  of a building the construction of which is completed before the date of
+  enactment of this section if the leasing agency certifies that no suitable
+  building with automatic sprinkler systems or an equivalent level of safety
+  is available at an affordable cost.
+  `(iii) Within 3 years after such date of enactment, and periodically
+  thereafter, the Comptroller General shall audit a selection of certifications
+  made under clause (ii) and report to Congress on the results of such audit.
+  `(2) Paragraph (1) shall not apply to--
+  `(A) a Federal employee office building that was owned by the Federal
+  Government before the date of enactment of this section;
+  `(B) space leased in a Federal employee office building if the space was
+  leased by the Federal Government before such date of enactment;
+  `(C) space leased on a temporary basis for not longer than 6 months;
+  `(D) a Federal employee office building that becomes a Federal employee
+  office building pursuant to a commitment to move Federal employees into
+  the building that is made prior to such date of enactment; or
+  `(E) a Federal employee office building that is owned or managed by the
+  Resolution Trust Corporation.
+Nothing in this subsection shall require the installation of an automatic
+sprinkler system or equivalent level of safety by reason of the leasing,
+after such date of enactment, of space below the sixth floor in a Federal
+employee office building.
+  `(3) No Federal funds may be used for the renovation of a Federal employee
+  office building of 6 or more stories that is owned by the Federal Government
+  unless after that renovation the Federal employee office building is
+  protected by an automatic sprinkler system or equivalent level of safety. No
+  Federal funds may be used for the renovation of any other Federal employee
+  office building that is owned by the Federal Government unless after that
+  renovation the hazardous areas of the Federal employee office building are
+  protected by automatic sprinkler systems or an equivalent level of safety.
+  `(4) No Federal funds may be used for entering into or renewing a lease of a
+  Federal employee office building of 6 or more stories that is renovated after
+  the date of enactment of this section, where at least some portion of the
+  federally leased space is on the sixth floor or above and at least 35,000
+  square feet of space is federally occupied, unless after that renovation
+  the Federal employee office building is protected by an automatic sprinkler
+  system or equivalent level of safety. No Federal funds may be used for
+  entering into or renewing a lease of any other Federal employee office
+  building that is renovated after such date of enactment of this section,
+  unless after that renovation the hazardous areas of the Federal employee
+  office building are protected by automatic sprinkler systems or an equivalent
+  level of safety.
+  `(c) HOUSING- (1)(A) No Federal funds may be used for the construction,
+  purchase, lease, or operation by the Federal Government of housing in the
+  United States for Federal employees or their dependents unless--
+  `(i) in the case of a multifamily property acquired or rebuilt by the
+  Federal Government after the date of enactment of this section, the housing
+  is protected, before occupancy by Federal employees or their dependents,
+  by an automatic sprinkler system (or equivalent level of safety) and
+  hard-wired smoke detectors; and
+  `(ii) in the case of any other housing, the housing, before--
+  `(I) occupancy by the first Federal employees (or their dependents) who
+  do not occupy such housing as of such date of enactment; or
+  `(II) the expiration of 3 years after such date of enactment,
+whichever occurs first, is protected by hard-wired smoke detectors.
+  `(B) Nothing in this paragraph shall be construed to supersede any guidelines
+  or requirements applicable to housing for Federal employees that call for a
+  higher level of fire safety protection than is required under this paragraph.
+  `(2)(A)(i) Housing assistance may not be used in connection with any newly
+  constructed multifamily property, unless  after the new construction the
+  multifamily property is protected by an automatic sprinkler system and
+  hard-wired smoke detectors.
+  `(ii) For purposes of clause (i), the term `newly constructed multifamily
+  property' means a multifamily property of 4 or more stories above ground
+  level--
+  `(I) that is newly constructed after the date of enactment of this
+  section; and
+  `(II) for which (a) housing assistance is used for such new construction, or
+  (b) a binding commitment is made, before commencement of such construction,
+  to provide housing assistance for the newly constructed property.
+  `(iii) Clause (i) shall not apply to any multifamily property for which,
+  before such date of enactment, a binding commitment is made to provide
+  housing assistance for the new construction of the property or for the
+  newly constructed property.
+  `(B)(i) Except as provided in clause (ii), housing assistance may not be
+  used in connection with any rebuilt multifamily property, unless after the
+  rebuilding the multifamily property complies with the chapter on existing
+  apartment buildings of National Fire Protection Association Standard 101
+  (known as the Life Safety Code), as in effect at the earlier of (I) the
+  time of any approval by the Department of Housing and Urban Development of
+  the specific plan or budget for rebuilding, or (II) the time that a binding
+  commitment is made to provide housing assistance for the rebuilt property.
+  `(ii) If any rebuilt multifamily property is subject to, and in compliance
+  with, any provision of a State or local fire safety standard or code that
+  prevents compliance with a specific provision of National Fire Protection
+  Association Standard 101, the requirement under clause (i) shall not apply
+  with respect to such specific provision.
+  `(iii) For purposes of this subparagraph, the term `rebuilt multifamily
+  property' means a multifamily property of 4 or more stories above ground
+  level--
+  `(I) that is rebuilt after the last day of the second fiscal year that
+  ends after the date of enactment of this section; and
+  `(II) for which (a) housing assistance is used for such rebuilding, or
+  (b) a binding commitment is made, before commencement of such rebuilding,
+  to provide housing assistance for the rebuilt property.
+  `(C) After the expiration of the 180-day period beginning on the date of
+  enactment of this section, housing assistance may not be used in connection
+  with any other dwelling unit, unless the unit is protected by a hard-wired
+  or battery-operated smoke detector. For purposes of this subparagraph,
+  housing assistance shall be considered to be used in connection with
+  a particular dwelling unit only if such assistance is provided (i) for
+  the particular unit, in the case of assistance provided on a unit-by-unit
+  basis, or (ii) for the multifamily property in which the unit is located,
+  in the case of assistance provided on a structure-by-structure basis.
+  `(d) REGULATIONS- The Administrator of General Services, in cooperation
+  with the United States Fire Administration, the National Institute of
+  Standards and Technology, and the Department of Defense, within 2 years
+  after the date of enactment of this section, shall promulgate regulations
+  to further define the term `equivalent level of safety', and shall, to the
+  extent practicable, base those regulations on nationally recognized codes.
+  `(e) STATE AND LOCAL AUTHORITY NOT LIMITED- Nothing in this section shall
+  be construed to limit the power of any State or political subdivision
+  thereof to implement or enforce any law, rule, regulation, or standard that
+  establishes requirements concerning fire prevention and control. Nothing
+  in this section shall be construed to reduce fire resistance requirements
+  which otherwise would have been required.
+  `(f) PREFIRE PLAN- The head of any Federal agency that owns, leases, or
+  operates a building or housing unit with Federal funds shall invite the local
+  agency or  voluntary organization having responsibility for fire protection
+  in the jurisdiction where the building or housing unit is located to prepare,
+  and biennially review, a prefire plan for the building or housing unit.
+  `(g) REPORTS TO CONGRESS- (1) Within 3 years after the date of enactment
+  of this section, and every 3 years thereafter, the Administrator of General
+  Services shall transmit to Congress a report on the level of fire safety in
+  Federal employee office buildings subject to fire safety requirements under
+  this section. Such report shall contain a description of such buildings
+  for each Federal agency.
+  `(2) Within 10 years after the date of enactment of this  section, each
+  Federal agency providing housing to Federal employees or housing assistance
+  shall submit a report to Congress on the progress of that agency in
+  implementing subsection (c) and on plans for continuing such implementation.
+  `(3)(A) The National Institute of Standards and Technology shall conduct a
+  study and submit a report to Congress on the use, in combination, of fire
+  detection systems, fire suppression systems, and compartmentation. Such
+  study shall--
+  `(i) quantify performance and reliability for fire detection systems, fire
+  suppression systems, and compartmentation, including a field assessment
+  of performance and determination of conditions under which a reduction or
+  elimination of 1 or more of those systems would result in an unacceptable
+  risk of fire loss; and
+  `(ii) include a comparative analysis and compartmentation using fire
+  resistive materials and compartmentation using noncombustible materials.
+  `(B) The National Institute of Standards and Technology shall obtain
+  funding from non-Federal sources in an amount equal to 25 percent of the
+  cost of the study required by subparagraph (A). Funding for the National
+  Institute of Standards and Technology for carrying out such study shall
+  be derived from amounts otherwise authorized to be appropriated, for the
+  Building and Fire Research Center at the National Institute of Standards and
+  Technology, not to exceed $750,000. The study shall commence until receipt
+  of all matching funds from non-Federal sources. The scope and extent of the
+  study shall be determined by the level of project funding. The Institute
+  shall submit a report to Congress on the study within 30 months after the
+  date of enactment of this section.
+  `(h) RELATION TO OTHER REQUIREMENTS- In the implementation of this section,
+  the process for meeting space needs in urban areas shall continue to give
+  first consideration to a centralized community business area and adjacent
+  areas of similar character to the extent of any Federal requirement
+  therefor.'.
+  (b) EFFECTIVE DATE- Subsection (b) of section 31 of the Federal Fire
+  Prevention and Control Act of 1974, as added by subsection (a) of this
+  section, shall take effect 2 years after the date of enactment of this Act.
+TITLE II--NATIONAL FALLEN FIREFIGHTERS FOUNDATION
+SEC. 201. SHORT TITLE.
+  This title may be cited as the `National Fallen Firefighters Foundation Act'.
+SEC. 202. ESTABLISHMENT AND PURPOSES OF FOUNDATION.
+  (a) ESTABLISHMENT- There is established the National Fallen Firefighters
+  Foundation (hereafter in this title referred to as the `Foundation'). The
+  Foundation is a charitable and nonprofit corporation to be organized under
+  the laws of the State of Maryland and is not an agency or establishment
+  of the United States.
+  (b) PURPOSES- The purposes of the Foundation are--
+  (1) primarily to encourage, accept, and administer private gifts of
+  property for the benefit of the National Fallen Firefighters' Memorial
+  and the annual memorial service associated with it;
+  (2) to provide financial assistance to families of fallen firefighters for
+  transportation to and lodging at non-Federal facilities during the annual
+  memorial service;
+  (3) to assist State and local efforts to recognize firefighters who die
+  in the line of duty; and
+  (4) to provide scholarships and other financial assistance for educational
+  purposes and job training for the spouses and children of fallen
+  firefighters.
+SEC 203. BOARD OF DIRECTORS OF THE FOUNDATION.
+  (a) Establishment and Membership-
+  (1) VOTING MEMBERS- The Foundation shall have a governing Board of Directors
+  (hereafter in this title referred to as the `Board'), which shall consist
+  of nine voting members, of whom--
+  (A) one member shall be an active volunteer firefighter;
+  (B) one member shall be an active career firefighter;
+  (C) one member shall be a Federal firefighter; and
+  (D) six members shall have a demonstrated interest in the fire service.
+  (2) NONVOTING MEMBER- The Administrator of the United States Fire
+  Administration of the Federal Emergency Management Agency (hereafter in
+  this title referred to as the `Administrator') shall be an ex officio
+  nonvoting member of the Board.
+  (3) STATUS OF BOARD MEMBERS- Appointment to the Board shall not constitute
+  employment by, or the holding of an office of, the United States for the
+  purposes of any Federal law.
+  (4) COMPENSATION--Members of the Board shall serve without compensation.
+  (b) APPOINTMENT AND TERMS- Within 3 months after the date of enactment
+  of this Act, the Administrator shall appoint the voting members of the
+  Board. The voting members shall be appointed for terms of 6 years, except
+  that the Administrator, in making the initial appointments to the Board,
+  shall appoint--
+  (1) three members to a term of 2 years;
+  (2) three members to a term of 4 years; and
+  (3) three members to a term of 6 years.
+  (c) VACANCY- A vacancy on the Board shall be filled within 60 days in the
+  manner in which the original appointment was made.
+  (d) CHAIRMAN- The Chairman shall be elected by the Board from its voting
+  members for a 2-year term.
+  (e) QUORUM- A majority of the current membership of the Board shall
+  constitute a quorum for the transaction of business.
+  (f) MEETINGS- The Board shall meet at the call of the Chairman at least
+  once a year. If a member of the Board misses three consecutive meetings,
+  that individual may be removed from the Board and that vacancy filled in
+  accordance with subsection (c).
+  (g) General Powers-
+  (1) ACTIONS BY THE BOARD- The Board may complete the organization of the
+  Foundation by--
+  (A) appointing no more than two officers or employees;
+  (B) adopting a constitution and bylaws consistent with this title; and
+  (C) undertaking other such acts as may be necessary to carry out this title.
+  (2) LIMITATION- Officers and employees may not be appointed until the
+  Foundation has sufficient funds to pay for their services.
+  (h) Officers and Employees-
+  (1) STATUS- Officers and employees of the Foundation shall not be considered
+  Federal employees, shall be appointed without regard to title 5, United
+  States Code, governing appointments in the competitive service, and may
+  be paid without regard to chapter 51 and subchapter III of chapter 53 of
+  such title relating to classification and General Schedule pay rates.
+  (2) MAXIMUM SALARY- No officer or employee may receive pay in excess of
+  the annual rate of basic pay prescribed for level GS-15 of the General
+  Schedule under section 5107 of title 5, United States Code.
+SEC. 204. RIGHTS AND OBLIGATIONS OF THE FOUNDATION.
+  (a) IN GENERAL- The Foundation--
+  (1) shall have perpetual succession;
+  (2) may conduct business throughout the several States, territories,
+  and possessions of the United States;
+  (3) shall have its principal offices in the State of Maryland; and
+  (4) shall at all times maintain a designated agent authorized to accept
+  service of process for the Foundation.
+  (b) SEAL- The Foundation shall have an official seal selected by the Board
+  which shall be judicially noticed.
+  (c) POWERS- To carry out its purposes under section 202, the Foundation
+  shall have, in addition to the powers otherwise given it under this title,
+  the usual powers of a corporation acting as a trustee in the State of
+  Maryland, including the power--
+  (1) to accept, receive, solicit, hold, administer, and use any gift,
+  devise, or bequest, either absolutely or in trust, of real or personal
+  property or any income therefrom or other interest therein;
+  (2) to sue and be sued, and complain and defend itself in any court of
+  competent jurisdiction, except that the members of the Board shall not be
+  personally liable, except for gross negligence;
+  (3) unless otherwise required by the instrument of transfer, to sell, donate,
+  lease, invest, or otherwise dispose of any property or income therefrom;
+  (4) to enter into contracts and other arrangements with public agencies
+  and private organizations and persons and to make such payments as may be
+  necessary to carry out its functions; and
+  (5) to do any and all acts necessary and proper to carry out the purposes
+  of the Foundation.
+SEC. 205. ADMINISTRATIVE SERVICES AND SUPPORT.
+  The Administrator may provide personnel, facilities, and other administrative
+  services to the Foundation and shall require and accept reimbursements
+  for such personnel, facilities, and services that shall be deposited
+  in the Treasury to the credit of the appropriations then current and
+  chargeable for the cost of providing such services. Notwithstanding any
+  other provision of law, Federal personnel and stationery shall not be used
+  to solicit funding for the Foundation.
+SEC. 206. VOLUNTEER STATUS.
+  The Administrator may accept, without regard to the Federal civil service
+  classification laws, rules, or regulations, the services of the Foundation,
+  the Board, and the officers and employees of the Board, without compensation
+  from the United States Fire Administration, as volunteers in the performance
+  of the functions authorized under this title.
+SEC. 207. AUDITS, REPORT REQUIREMENTS, AND PETITION OF ATTORNEY GENERAL FOR
+EQUITABLE RELIEF.
+  (a) AUDITS- For purposes of the Act entitled `An Act to provide for audit of
+  accounts of private corporations established under Federal law', approved
+  August 30, 1964 (36 U.S.C. 1101 et seq.), the Foundation shall be treated
+  as a private corporation established under Federal law.
+  (b) REPORT- The Foundation shall, within 4 months after the end of each
+  fiscal year, prepare and submit to the appropriate committees of the Congress
+  a report of the Foundation's proceedings and activities during such year,
+  including a full and complete statement of its receipts, expenditures,
+  and investments.
+  (c) RELIEF FOR CERTAIN FOUNDATION ACTS OR FAILURES TO ACT- If the
+  Foundation--
+  (1) engages in, or threatens to engage in, any act, practice, or policy
+  that is inconsistent with the purposes set forth in section 202(b); or
+  (2) refuses, fails, or neglects to discharge its obligations under this
+  title, or threatens to do so,
+the Attorney General may petition in the United States District Court for
+the District of Columbia for such equitable relief as may be necessary
+or appropriate.
+SEC. 208. IMMUNITY OF THE UNITED STATES.
+  The United States shall not be liable for any debts, defaults, acts, or
+  omissions of the Foundation nor shall the full faith and credit of the
+  United States extend to any obligation of the Foundation.
+SEC. 209. WORKERS' FAMILY PROTECTION.
+  (a) SHORT TITLE- This section may be cited as the `Workers' Family
+  Protection Act'.
+  (b) Findings and Purposes-
+  (1) FINDINGS- Congress finds that--
+  (A) hazardous chemicals and substances that can threaten the health and
+  safety of workers are being transported out of industries on workers'
+  clothing and persons;
+  (B) these chemicals and substances have the potential to pose an additional
+  threat to the health and welfare of workers and their families;
+  (C) additional information is needed concerning issues related to employee
+  transported contaminant releases; and
+  (D) additional regulations may be needed to prevent future releases of
+  this type.
+  (2) PURPOSE- It is the purpose of this section to--
+  (A) increase understanding and awareness concerning the extent and possible
+  health impacts of the problems and incidents described in paragraph (1);
+  (B) prevent or mitigate future incidents of home contamination that could
+  adversely affect the health and safety of workers and their families;
+  (C) clarify regulatory authority for preventing and responding to such
+  incidents; and
+  (D) assist workers in redressing and responding to such incidents when
+  they occur.
+  (c) Evaluation of Employee Transported Contaminant Releases-
+  (1) Study-
+  (A) IN GENERAL- Not later than 18 months after the date of enactment of
+  this Act, the Director of the National Institute for Occupational Safety
+  and Health (hereafter in this section referred to as the `Director'),
+  in cooperation with the Secretary of Labor, the Administrator of the
+  Environmental Protection Agency, the Administrator of the Agency for Toxic
+  Substances and Disease Registry, and the heads of other Federal Government
+  agencies as determined to be appropriate by the Director, shall conduct
+  a study to evaluate the potential for, the prevalence of, and the issues
+  related to the contamination of workers' homes with hazardous chemicals and
+  substances, including infectious agents, transported from the workplaces
+  of such workers.
+  (B) MATTERS TO BE EVALUATED- In conducting the study and evaluation under
+  subparagraph (A), the Director shall--
+  (i) conduct a review of past incidents of home contamination through the
+  utilization of literature and of records concerning past investigations
+  and enforcement actions undertaken by--
+  (I) the National Institute for Occupational Safety and Health;
+  (II) the Secretary of Labor to enforce the Occupational Safety and Health
+  Act of 1970 (29 U.S.C. 651 et seq.);
+  (III) States to enforce occupational safety and health standards in
+  accordance with section 18 of such Act (29 U.S.C. 667); and
+  (IV) other government agencies (including the Department of Energy and
+  the Environmental Protection Agency), as the Director may determine to
+  be appropriate;
+  (ii) evaluate current statutory, regulatory, and voluntary industrial
+  hygiene or other measures used by small, medium and large employers to
+  prevent or remediate home contamination;
+  (iii) compile a summary of the existing research and case histories conducted
+  on incidents of employee transported contaminant releases, including--
+  (I) the effectiveness of workplace housekeeping practices and personal
+  protective equipment in preventing such incidents;
+  (II) the health effects, if any, of the resulting exposure on workers and
+  their families;
+  (III) the effectiveness of normal house cleaning and laundry procedures for
+  removing hazardous materials and agents from workers' homes and personal
+  clothing;
+  (IV) indoor air quality, as the research concerning such pertains to the
+  fate of chemicals transported from a workplace into the home environment; and
+  (V) methods for differentiating exposure health effects and relative risks
+  associated with specific agents from other sources of exposure inside and
+  outside the home;
+  (iv) identify the role of Federal and State agencies in responding to
+  incidents of home contamination;
+  (v) prepare and submit to the Task Force established under paragraph (2) and
+  to the appropriate committees of Congress, a report concerning the results
+  of the matters studied or evaluated under clauses (i) through (iv); and
+  (vi) study home contamination incidents and issues and worker and family
+  protection policies and practices related to the special circumstances
+  of firefighters and prepare and submit to the appropriate committees of
+  Congress a report concerning the findings with respect to such study.
+  (2) Development of investigative strategy-
+  (A) TASK FORCE- Not later than 12 months after the date of enactment of
+  this Act, the Director shall establish a working group, to be known as the
+  `Workers' Family Protection Task Force'. The Task Force shall--
+  (i) be composed of not more than 15 individuals to be appointed by the
+  Director from among individuals who are representative of workers, industry,
+  scientists, industrial hygienists, the National Research Council, and
+  government agencies, except that not more than one such individual shall
+  be from each appropriate government agency and the number of individuals
+  appointed to represent industry and workers shall be equal in number;
+  (ii) review the report submitted under paragraph (1)(B)(v);
+  (iii) determine, with respect to such report, the additional data needs,
+  if any, and the need for additional evaluation of the scientific issues
+  related to and the feasibility of developing such additional data; and
+  (iv) if additional data are determined by the Task Force to be needed,
+  develop a recommended investigative strategy for use in obtaining such
+  information.
+  (B) Investigative Strategy-
+  (i) CONTENT- The investigative strategy developed under subparagraph
+  (A)(iv) shall identify data gaps that can and cannot be filled, assumptions
+  and uncertainties associated with various components of such strategy,
+  a timetable for the implementation of such strategy, and methodologies
+  used to gather any required data.
+  (ii) PEER REVIEW- The Director shall publish the proposed investigative
+  strategy under subparagraph (A)(iv) for public comment and utilize other
+  methods, including technical conferences or seminars, for the purpose of
+  obtaining comments concerning the proposed strategy.
+  (iii) FINAL STRATEGY- After the peer review and public comment is conducted
+  under clause (ii), the Director, in consultation with the heads of other
+  government agencies, shall propose a final strategy for investigating issues
+  related to home contamination that shall be implemented by the National
+  Institute for Occupational Safety and Health and other Federal agencies
+  for the period of time necessary to enable such agencies to obtain the
+  information identified under subparagraph (A)(iii).
+  (C) CONSTRUCTION- Nothing in this section shall be construed as precluding
+  any government agency from investigating issues related to home contamination
+  using existing procedures until such time as a final strategy is developed
+  or from taking actions in addition to those proposed in the strategy after
+  its completion.
+  (3) IMPLEMENTATION OF INVESTIGATIVE STRATEGY- Upon completion of the
+  investigative strategy under subparagraph (B)(iii), each Federal agency
+  or department shall fulfill the role assigned to it by the strategy.
+  (d) Regulations-
+  (1) IN GENERAL- Not later than 4 years after the date of enactment of
+  this Act, and periodically thereafter, the Secretary of Labor, based on
+  the information developed under subsection (c) and on other information
+  available to the Secretary, shall--
+  (A) determine if additional education about, emphasis on, or enforcement
+  of existing regulations or standards is needed and will be sufficient, or
+  if additional regulations or standards are needed with regard to employee
+  transported releases of hazardous materials; and
+  (B) prepare and submit to the appropriate committees of Congress a report
+  concerning the result of such determination.
+  (2) ADDITIONAL REGULATIONS OR STANDARDS- If the Secretary of Labor determines
+  that additional regulations or standards are needed under paragraph (1),
+  the Secretary shall promulgate, pursuant to the Secretary's authority under
+  the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.),
+  such regulations or standards as determined to be appropriate not later
+  than 3 years after such determination.
+  (e) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  from sums otherwise authorized to be appropriated, for each fiscal year
+  such sums as may be necessary to carry out this section.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

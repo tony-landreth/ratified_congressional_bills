@@ -1,0 +1,544 @@
+ 
+--S.2789--
+S.2789
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations for the Earthquake Hazards Reduction Act of
+1977, and
+for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SHORT TITLE
+ SECTION 1. This Act may be cited as the `National Earthquake Hazards
+ Reduction Program Reauthorization Act'.
+FINDINGS
+ SEC. 2. Section 2 of the Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7701) is amended--
+ (1) by striking paragraphs (5) and (6) and inserting in lieu thereof the
+ following new paragraphs:
+ `(5) The geological study of active faults and features can reveal how
+ recently and how frequently major earthquakes have occurred on those faults
+ and how much risk they pose. Such long-term seismic risk assessments are
+ needed in virtually every aspect of earthquake hazards management, whether
+ emergency planning, public regulation, detailed building design, insurance
+ rating, or investment decision.
+ `(6) The vulnerability of buildings, lifelines, public works, and industrial
+ and emergency facilities can be reduced through proper earthquake resistant
+ design and construction practices. The economy and efficacy of such procedures
+ can be substantially increased through research and development.';
+ (2) by redesignating paragraphs (7) through (10) as paragraphs (8) through
+ (11), respectively; and
+ (3) by inserting immediately after paragraph (6) the following new paragraph:
+ `(7) Programs and practices of departments and agencies of the United
+ States are important to the communities they serve; some functions, such
+ as emergency communications and national defense, and lifelines, such as
+ dams, bridges, and public works, must remain in service during and after
+ an earthquake. Federally owned, operated, and influenced structures and
+ lifelines should serve as models for how to reduce and minimize hazards to
+ the community.'.
+PURPOSE
+ SEC. 3. Section 3 of the Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7702) is amended by adding at the end the following: `The objectives
+ of such program shall include--
+ `(1) the education of the public, including State and local officials,
+ as to earthquake phenomena, the identification of locations and structures
+ which are especially susceptible to earthquake damage, ways to reduce the
+ adverse consequences of an earthquake, and related matters;
+ `(2) the development of technologically and economically feasible design and
+ construction methods and procedures to make new and existing structures,
+ in areas of seismic risk, earthquake resistant, giving priority to the
+ development of such methods and procedures for power generating plants,
+ dams, hospitals, schools, public utilities and other lifelines, public
+ safety structures, high occupancy buildings, and other structures which
+ are especially needed in time of disaster;
+ `(3) the implementation to the greatest extent practicable, in all areas of
+ high or moderate seismic risk, of a system (including personnel, technology,
+ and procedures) for predicting damaging earthquakes and for identifying,
+ evaluating, and accurately characterizing seismic hazards;
+ `(4) the development, publication, and promotion, in conjunction with State
+ and local officials and professional organizations, of model building codes
+ and other means to encourage consideration of information about seismic
+ risk in making decisions about land-use policy and construction activity;
+ `(5) the development, in areas of seismic risk, of improved understanding of,
+ and capability with respect to, earthquake-related issues, including methods
+ of mitigating the risks from earthquakes, planning to prevent such risks,
+ disseminating warnings of earthquakes, organization emergency services,
+ and planning for reconstruction and redevelopment after an earthquake;
+ `(6) the development of ways to increase the use of existing scientific
+ and engineering knowledge to mitigate earthquake hazards; and
+ `(7) the development of ways to assure the availability of affordable
+ earthquake insurance.'.
+DEFINITIONS
+ SEC. 4. Section 4 of the Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7703) is amended--
+ (1) by amending paragraph (2) to read as follows:
+ `(2) The term `Program' means the National Earthquake Hazards Reduction
+ Program established under section 5.';
+ (2) by adding at the end the following new paragraphs:
+ `(6) The term `lifelines' means public works and utilities, including
+ transportation facilities and infrastructure, oil and gas pipelines,
+ electrical power and communication facilities, and water supply and sewage
+ treatment facilities.
+ `(7) The term `Program agencies' means the Federal Emergency Management
+ Agency, the United States Geological Survey, the National Science Foundation,
+ and the National Institute of Standards and Technology.'.
+NATIONAL EARTHQUAKE HAZARDS REDUCTION PROGRAM
+ SEC. 5. Section 5 of the National Earthquake Hazards Reduction Act of 1977
+ (42 U.S.C. 7704) is amended to read as follows:
+`SEC. 5. NATIONAL EARTHQUAKE HAZARDS REDUCTION PROGRAM.
+ `(a) ESTABLISHMENT- There is established a National Earthquake Hazards
+ Reduction Program.
+ `(b) RESPONSIBILITIES OF PROGRAM AGENCIES-
+ `(1) LEAD AGENCY- The Federal Emergency Management Agency (hereafter in
+ this Act referred to as the `Agency') shall have the primary responsibility
+ for planning and coordinating the Program. In carrying out this paragraph,
+ the Director of the Agency shall--
+ `(A) prepare, in conjunction with the other Program agencies, an annual
+ budget for the Program to be submitted to the Office of Management and Budget;
+ `(B) ensure that the Program includes the necessary steps to promote
+ the implementation of earthquake hazard reduction measures by Federal,
+ State, and local governments, national standards and model building code
+ organizations, architects and engineers, and others with a role in planning
+ and constructing buildings and lifelines;
+ `(C) prepare, in conjunction with the other Program agencies, a written
+ plan for the Program, which shall include specific tasks and milestones
+ for each Program agency, and which shall be submitted to the Congress and
+ updated at such times as may be required by significant Program events,
+ but in no event less frequently than every 3 years;
+ `(D) prepare, in conjunction with the other Program agencies, a biennial
+ report, to be submitted to the Congress within 90 days after the end of
+ each even-numbered fiscal year, which shall describe the activities and
+ achievements of the Program during the preceding two fiscal years; and
+ `(E) request the assistance of Federal agencies other than the Program
+ agencies, as necessary to assist in carrying out this Act.
+The principal official carrying out the responsibilities described in this
+paragraph shall be at a level no lower than that of Associate Director.
+ `(2) FEDERAL EMERGENCY MANAGEMENT AGENCY-
+ `(A) PROGRAM RESPONSIBILITIES- In addition to the lead agency responsibilities
+ described in paragraph (1), the Director of the Agency shall--
+ `(i) operate a program of grants and technical assistance which would enable
+ States to develop preparedness and response plans, prepare inventories and
+ conduct seismic safety inspections of critical structures and lifelines,
+ update building and zoning codes and ordinances to enhance seismic safety,
+ increase earthquake awareness and education, and encourage the development
+ of multi-State groups for such purposes;
+ `(ii) prepare and execute, in conjunction with the Program agencies,
+ the Department of Education, other Federal agencies, and private sector
+ groups, a comprehensive earthquake education and public awareness program,
+ to include development of materials and their wide dissemination to schools
+ and the general public;
+ `(iii) prepare and disseminate widely, with the assistance of the National
+ Institute of Standards and Technology, other Federal agencies, and private
+ sector groups, information on building codes and practices for structures
+ and lifelines;
+ `(iv) develop, and coordinate the execution of, Federal interagency plans
+ to respond to an earthquake, with specific plans for each high-risk area
+ which ensure the availability of adequate emergency medical resources,
+ search and rescue personnel and equipment, and emergency broadcast capability;
+ `(v) develop approaches to combine measures for earthquake hazards reduction
+ with measures for reduction of other natural and technological hazards; and
+ `(vi) provide response recommendations to communities after an earthquake
+ prediction has been made under paragraph (3)(D).
+In addition, the Director of the Agency may enter into cooperative agreements
+or contracts with States and local jurisdictions to establish demonstration
+projects on earthquake hazard mitigation, to link earthquake research
+and mitigation efforts with emergency management programs, or to prepare
+educational materials for national distribution.
+ `(B) STATE ASSISTANCE PROGRAM CRITERIA- In order to qualify for assistance
+ under subparagraph (A)(i), a State must--
+ `(i) demonstrate that the assistance will result in enhanced seismic safety
+ in the State;
+ `(ii) provide a share of the costs of the activities for which assistance
+ is being given, in accordance with subparagraph (C); and
+ `(iii) meet such other requirements as the Director of the Agency shall
+ prescribe.
+ `(C) NON-FEDERAL COST SHARING-
+ `(i) In the case of any State which has received, before October 1, 1990,
+ a grant from the Agency for activities under this Act which included a
+ requirement for cost sharing by matching such grant, any grant obtained
+ from the Agency for activities under subparagraph (A)(i) after such date
+ shall not include a requirement for cost sharing in an amount greater than
+ 50 percent of the cost of the project for which the grant is made.
+ `(ii) In the case of any State which has not received, before October 1,
+ 1990, a grant from the Agency for activities under this Act which included
+ a requirement for cost sharing by matching such grant, any grant obtained
+ from the Agency for activities under subparagraph (A)(i) after such date--
+ `(I) shall not include a requirement for cost sharing for the first fiscal
+ year of such a grant;
+ `(II) shall not include a requirement for cost sharing in an amount greater
+ than 25 percent of the cost of the project for which the grant is made for
+ the second fiscal year of such grant, and any cost sharing requirement may
+ be satisfied through in-kind contributions;
+ `(III) shall not include a requirement for cost sharing in an amount greater
+ than 35 percent of the cost of the project for which the grant is made for
+ the third fiscal year of such grant, and any cost sharing requirement may
+ be satisfied through in-kind contributions; and
+ `(IV) shall not include a requirement for cost sharing in an amount greater
+ than 50 percent of the cost of the project for which the grant is made for
+ the fourth and subsequent fiscal years of such grant.
+ `(3) UNITED STATES GEOLOGICAL SURVEY- The United States Geological Survey
+ shall conduct research necessary to characterize and identify earthquake
+ hazards, assess earthquake risks, monitor seismic activity, and improve
+ earthquake predictions. In carrying out this paragraph, the Director of
+ the United States Geological Survey shall--
+ `(A) conduct a systematic assessment of the seismic risks in each region
+ of the Nation prone to earthquakes, including, where appropriate, the
+ establishment and operation of intensive monitoring projects on hazardous
+ faults, seismic microzonation studies in urban and other developed areas
+ where earthquake risk is determined to be significant, and engineering
+ seismology studies;
+ `(B) work with officials of State and local governments to ensure that they
+ are knowledgeable about the specific seismic risks in their areas;
+ `(C) develop standard procedures, in consultation with the Agency, for
+ issuing earthquake predictions, including aftershock advisories;
+ `(D) issue when necessary, and notify the Director of the Agency of, an
+ earthquake prediction or other earthquake advisory, which may be evaluated
+ by the National Earthquake Prediction Evaluation Council, which shall be
+ exempt from the requirements of section 10(a)(2) of the Federal Advisory
+ Committee Act when meeting for such purposes;
+ `(E) establish, using existing facilities, a Center for the International
+ Exchange of Earthquake Information which shall--
+ `(i) promote the exchange of information on earthquake research and earthquake
+ preparedness between the United States and other nations;
+ `(ii) maintain a library containing selected reports, research papers,
+ and data produced through the Program;
+ `(iii) answer requests from other nations for information on United States
+ earthquake research and earthquake preparedness programs; and
+ `(iv) direct foreign requests to the agency involved in the Program which
+ is best able to respond to the request; and
+ `(F) operate a National Seismic Network;
+ `(G) support regional seismic networks, which shall complement the National
+ Seismic Network.
+ `(4) NATIONAL SCIENCE FOUNDATION- The National Science Foundation shall
+ be responsible for funding research on earth sciences to improve the
+ understanding of the causes and behavior of earthquakes, on earthquake
+ engineering, and on human response to earthquakes. In carrying out this
+ paragraph, the Director of the National Science Foundation shall--
+ `(A) encourage prompt dissemination of significant findings, sharing of
+ data, samples, physical collections, and other supporting materials, and
+ development of intellectual property so research results can be used by
+ appropriate organizations to mitigate earthquake damage;
+ `(B) in addition to supporting individual investigators, support university
+ research consortia and centers for research in geosciences and in earthquake
+ engineering;
+ `(C) work closely with the  United States Geological Survey to identify
+ geographic regions of national concern that should be the focus of targeted
+ solicitations for earthquake-related research proposals;
+ `(D) emphasize, in earthquake engineering research, development of
+ economically feasible methods to retrofit existing buildings and to protect
+ lifelines to mitigate earthquake damage; and
+ `(E) support research that studies the political, economic, and social
+ factors that influence the implementation of hazard reduction measures.
+ `(5) NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY- The National Institute
+ of Standards and Technology shall be responsible for carrying out research
+ and development to improve building codes and standards and practices for
+ structures and lifelines. In carrying out this paragraph, the Director of
+ the National Institute of Standards and Technology shall--
+ `(A) work closely with national standards and model building code
+ organizations, in conjunction with the Agency, to promote the implementation
+ of research results;
+ `(B) promote better building practices among architects and engineers; and
+ `(C) work closely with national standards organizations to develop seismic
+ safety standards and practices for new and existing lifelines.'.
+OFFICE OF SCIENCE AND TECHNOLOGY POLICY REPORT
+ SEC. 6. Section 6 of the Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7705) is amended to read as follows:
+`SEC. 6. OFFICE OF SCIENCE AND TECHNOLOGY POLICY REPORT.
+ `The Director of the Office of Science and Technology Policy shall, within
+ 3 months after the date of the enactment of the National Earthquake Hazards
+ Reduction Program Reauthorization Act, report to the Committee on Commerce,
+ Science, and Transportation of the Senate and to the Committee on Science,
+ Space, and Technology and the Committee on Interior and Insular Affairs of
+ the House of Representatives with respect to how the Office of Science and
+ Technology Policy can play a role in interagency coordination, planning,
+ and operation of the Program.'.
+ADVISORY COMMITTEE
+ SEC. 7. The Earthquake Hazards Reduction Act of 1977 (42  U.S.C. 7701 et
+ seq.) is amended--
+ (1) by redesignating section 7 as section 12; and
+ (2) by inserting immediately after section 6 the following new section:
+`SEC. 7. ADVISORY COMMITTEE.
+ `There is established a National Earthquake Hazards Reduction Program Advisory
+ Committee (hereafter in this Act referred to as the `Advisory Committee'),
+ which shall advise the Program agencies on planning and implementing
+ the Program. The Director of the Agency shall, in consultation with the
+ directors of the Program agencies, determine the number of members on
+ the Advisory Committee and the duration of their terms, and appoint the
+ Chairman and Members of the Advisory Committee. The Advisory Committee
+ shall have balanced representation of State and local governments,
+ the design professions, the research community, business and industry,
+ and the general public. The Advisory Committee shall meet at the call
+ of the Chairman, but in no event less often than every 6 months. The
+ Advisory Committee shall submit a written report directly to the Congress,
+ without review by the Office of Management and Budget or any other agency,
+ by January 31 of each calendar year beginning after the date of enactment
+ of the National Earthquake Hazards Reduction Program Reauthorization Act,
+ which shall describe any recommendations the Advisory Committee has made
+ to the Program agencies during the preceding year. Members of the Advisory
+ Committee shall serve without compensation but may receive reimbursement
+ for expenses. All expenses of the Advisory Committee shall be borne by the
+ Agency. The Advisory Committee shall expire September 30, 1993.'.
+SEISMIC STANDARDS
+ SEC. 8. (a) AMENDMENT- The Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7701 et seq.), as amended by section 7 of this Act, is further
+ amended by inserting immediately after section 7 the following new section:
+`SEC. 8. SEISMIC STANDARDS.
+ `(a) BUILDINGS-
+ `(1) ADOPTION OF STANDARDS- The President shall adopt, not later than December
+ 1, 1994, standards for assessing and enhancing the seismic safety of existing
+ buildings constructed for or leased by the Federal Government which were
+ designed and constructed without adequate seismic design and construction
+ standards. Such standards shall be developed by the Interagency Committee
+ on Seismic Safety in Construction, whose chairman is the Director of the
+ National Institute of Standards and Technology or his designee, and which
+ shall work in consultation with appropriate private sector organizations.
+ `(2) REPORT TO CONGRESS- The President shall report to the Congress, not
+ later than December 1, 1994, on how the standards adopted under paragraph
+ (1) could be applied with respect to buildings--
+ `(A) for which Federal financial assistance has been obtained through grants,
+ loans, financing guarantees, or loan or mortgage insurance programs; or
+ `(B) the structural safety of which is regulated by a Federal agency.
+ `(3) REGULATIONS- The President shall ensure the issuance, before February 1,
+ 1993, by all Federal agencies of final regulations required by section 4(b)
+ of Executive Order numbered 12699, issued January 5, 1990.
+ `(b) LIFELINES- The Director of the Agency, in consultation with
+ the Director of the National Institute of Standards and Technology,
+ shall  submit to the Congress, not later than June 30, 1992, a plan,
+ including precise timetables and budget estimates, for developing and
+ adopting, in consultation with appropriate private sector organizations,
+ design and construction standards for lifelines. The plan shall include
+ recommendations of ways Federal regulatory authority could be used to
+ expedite the implementation of such standards.'.
+ (b) REPORT TO CONGRESS- The Comptroller General shall, not later than 18
+ months after the date of enactment of this Act, report to the Committee on
+ Commerce, Science, and Transportation of the Senate and to the Committee
+ on Interior and Insular Affairs and the Committee on Science, Space, and
+ Technology of the House of Representatives on the vulnerability of buildings
+ owned and leased by the Federal Government and on the efforts of Federal
+ agencies to improve the seismic resistance of the buildings they own or
+ lease. For each such agency, the Comptroller General shall enumerate the
+ number of buildings owned or leased by the agency, the seriousness of the
+ seismic risk to such buildings, and the value of the buildings at risk. The
+ Comptroller General shall tabulate the expenditures each such agency has
+ devoted to reducing earthquake damage and estimate the total expenditure
+ necessary to address the problem adequately.
+acceptance of gifts
+ SEC. 9. The Earthquake Hazards Reduction Act of 1977 (42  U.S.C. 7701 et
+ seq.), as amended by sections 7 and 8 of this Act, is further amended by
+ inserting immediately after section 8 the following new section:
+`SEC. 9. ACCEPTANCE OF GIFTS.
+ `(a) AUTHORITY- In furtherance of the purposes of this Act, the Director of
+ the Agency may accept and use bequests, gifts, or donations of services,
+ money, or property, notwithstanding section 3679 of the Revised Statutes
+ (31  U.S.C. 1342).
+ `(b) CRITERIA- The Director of the Agency shall establish by regulation
+ criteria for determining whether to accept bequests, gifts, or donations of
+ services, money, or property. Such criteria shall take into consideration
+ whether the acceptance of the bequest, gift, or donation would reflect
+ unfavorably on the Director's ability to carry out his responsibilities
+ in a fair and objective manner, or would compromise the integrity of, or
+ the appearance of the integrity of, the Program or any official involved
+ in administering the Program.'.
+NON-FEDERAL COST SHARING FOR SUPPLEMENTAL FUNDS
+ SEC. 10. The Earthquake Hazards Reduction Act of 1977 (42  U.S.C. 7701 et
+ seq.), as amended by sections 7, 8, and 9 of this Act, is further amended
+ by inserting immediately after section 9 the following new section:
+`SEC. 10. NON-FEDERAL COST SHARING FOR SUPPLEMENTAL FUNDS.
+ `A grant under this Act to a State from the Agency that is made with funds
+ appropriated under the Fiscal Year 1990 Dire Emergency Supplemental to
+ Meet the Needs of Natural Disasters of National Significance (Public Law
+ 101-130; 103 Stat. 775) shall not include a requirement for cost sharing in
+ an amount greater than 25 percent of the cost of the project for which the
+ grant is made, and any cost sharing requirement may be satisfied through
+ in-kind contributions.'.
+investigations
+ SEC. 11. (a) AMENDMENT- The Earthquake Hazards Reduction Act of 1977 (42
+ U.S.C. 7701 et seq.), as amended by sections 7 through 10 of this Act,
+ is further amended by inserting after section 10 the following new section:
+`SEC. 11. POST-EARTHQUAKE INVESTIGATIONS PROGRAM.
+ `There is established within the United States Geological Survey a
+ post-earthquake investigations program, the purpose of which is to investigate
+ major earthquakes, so as to learn lessons which can be applied to reduce
+ the loss of lives and property in future earthquakes. The United States
+ Geological Survey, in consultation with each Program agency, shall organize
+ investigations to study the implications of the earthquake in the areas of
+ responsibility of each Program agency. The investigations shall begin as
+ rapidly as possible and may be conducted by grantees and contractors. The
+ Program agencies shall ensure that the results of investigations are
+ disseminated widely. The Director of the Survey is authorized to utilize
+ earthquake expertise from the Agency, the National Science Foundation, the
+ National Institute of Standards and Technology, other Federal agencies,
+ and private contractors, on a reimbursable basis, in the conduct of such
+ earthquake investigations. At a minimum, investigations under this section
+ shall include--
+ `(1) analysis by the National Science Foundation and the United States
+ Geological Survey of the causes of the earthquake and the nature of the
+ resulting ground motion;
+ `(2) analysis by the National Science Foundation and the National Institute
+ of Standards and Technology of the behavior of structures and lifelines,
+ both those that were damaged and those that were undamaged; and
+ `(3) analysis by each of the Program agencies of the effectiveness of the
+ earthquake hazards mitigation programs and actions relating to its area of
+ responsibility under the Program, and how those programs and actions could
+ be strengthened.'.
+ (b) REPORT TO CONGRESS- The Director of the Federal Emergency Management
+ Agency in consultation with the other agencies of the National Earthquake
+ Hazards Reduction Program shall, not later than one year after the date
+ of enactment of this Act, report to the Committee on Commerce, Science,
+ and Transportation and the Committee on Appropriations of the Senate and
+ to the Committee on Interior and Insular Affairs, the Committee on Science,
+ Space, and Technology, and the Committee on Appropriations of the House of
+ Representatives on possible options for funding a program for post-earthquake
+ investigations. Such report, at a minimum, shall consider funding such a
+ program either by setting aside a percentage of disaster relief funds provided
+ by the Federal Emergency Management Agency after a major earthquake or by a
+ revolving fund. The report shall include a recommendation on how the funding
+ for such investigations should be allocated among the other Program agencies.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 12. Section 12 of the Earthquake Hazards Reduction Act of 1977, as so
+ redesignated by section 7(1) of this Act, is amended--
+ (1) in subsection (a)(7)--
+ (A) by striking `the provisions of sections 5 and 6 of';
+ (B) by striking `and $5,798,000' and inserting in lieu thereof `$8,798,000';
+ and
+ (C) by inserting `, $14,750,000 for the fiscal year ending September 30,
+ 1991, $19,000,000 for the fiscal year ending September 30, 1992, and
+ $22,000,000 for the fiscal year ending September 30, 1993' immediately
+ before the period at the end;
+ (2) in subsection (b)--
+ (A) by striking `and $43,283,000' and inserting in lieu thereof `$55,283,000';
+ and
+ (B) by inserting `, of which $8,000,000 shall be for earthquake investigations
+ under section 11; $50,000,000 for the fiscal year ending September 30, 1991;
+ $54,500,000 for the fiscal year ending September 30, 1992; and $62,500,000
+ for the fiscal year ending September 30, 1993' immediately before the period
+ at the end;
+ (3) in subsection (c)--
+ (A) by striking `and $35,454,000' and inserting in lieu thereof `$38,454,000';
+ and
+ (B) by adding at the end the following: `Of the amounts authorized for
+ Engineering under section 101(d)(1)(B) of the National Science Foundation
+ Authorization Act of 1988, $24,000,000 is authorized for carrying out this Act
+ for the fiscal year ending September 30, 1991, and of the amounts authorized
+ for Geosciences under section 101(d)(1)(D) of the National Science Foundation
+ Authorization Act of 1988, $13,000,000 is authorized for carrying out this
+ Act for the fiscal year ending September 30, 1991. Of the amounts authorized
+ for Research and Related Activities under section 101(e)(1) of the National
+ Science Foundation Authorization Act of 1988, $29,000,000 is authorized
+ for engineering research under this Act, and $14,750,000 is authorized for
+ geosciences research under this Act, for the fiscal year ending September 30,
+ 1992. Of the amounts authorized for Research and Related Activities under
+ section 101(f)(1) of the National Science Foundation Authorization Act of
+ 1988, $34,500,000 is authorized for engineering research under this Act,
+ and $17,500,000 is authorized for geosciences research under this Act,
+ for the fiscal year ending September 30, 1993.';
+ (4) in subsection (d)--
+ (A) by striking `NATIONAL BUREAU OF STANDARDS' and inserting in lieu thereof
+ `NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY';
+ (B) by striking `Bureau' and inserting in lieu thereof `National Institute
+ of Standards and Technology';
+ (C) by striking `and $525,000' and inserting in lieu thereof `$2,525,000'; and
+ (D) by inserting `; $1,000,000 for the fiscal year ending September 30, 1991;
+ $3,000,000 for the fiscal year ending September 30, 1992; and $4,750,000
+ for the fiscal year ending September 30, 1993' immediately before the period
+ at the end; and
+ (5) by adding at the end the following new subsection:
+ `(f) AVAILABILITY OF FUNDS- Funds appropriated for fiscal years 1991, 1992,
+ and 1993 pursuant to this section shall remain available until expended.'.
+buy american requirement
+ SEC. 13. (a) DETERMINATION BY DIRECTOR- If the Director of the Federal
+ Emergency Management Agency, with the concurrence of the Secretary of
+ Commerce and the United States Trade Representative, determines that the
+ public interest so requires, the Agency is authorized to award to a domestic
+ firm a contract made pursuant to the issuance of any grant made under this
+ Act that, under the use of competitive procedures, would be awarded to a
+ foreign firm, if--
+ (1) the final product of the domestic firm will be completely assembled in
+ the United States;
+ (2) when completely assembled, not less than 51 percent of the final product
+ of the domestic firm will be domestically produced; and
+ (3) the difference between the bids submitted by the foreign and domestic
+ firms is not more than 6 percent.
+In determining under this subsection whether the public interest so requires,
+the Agency shall take into account United States international obligations
+and trade relations.
+ (b) LIMITED APPLICATION- This section shall not apply to the extent to which--
+ (1) such applicability would not be in the public interest;
+ (2) compelling national security considerations require otherwise; or
+ (3) the United States Trade Representatives determines that such an award
+ would be in violation of the General Agreement on Tariffs and Trade or an
+ international agreement to which the United States is a party.
+ (c) LIMITATION- This section shall apply only to contracts made related to
+ the issuance of any grant made under this Act for which--
+ (1) amounts are authorized by this Act (including the amendments made by
+ this Act) to be made available; and
+ (2) solicitations for bids are issued after the date of the enactment of
+ this Act.
+ (d) REPORT TO CONGRESS- The Agency shall report to the Congress on contracts
+ covered under this section and entered into with foreign entities in
+ fiscal years 1990 and 1991 and shall report to the Congress on the number
+ of contracts that meet the requirements of subsection (a) but which are
+ determined by the United States Trade Representatives to be in violation of
+ the General Agreement on Tariffs and Trade or an international agreement
+ to which the United States is a party. The Agency shall also report to
+ the Congress on the number of contracts covered under this Act (including
+ the amendments made by this Act) and awarded based upon the parameters of
+ this section.
+ (e) DEFINITIONS- For purposes of this section--
+ (1) the term `domestic firm' means a business entity that is incorporated
+ in the United States and that conducts business operations in the United
+ States; and
+ (2) the term `foreign firm' means a business entity not described in paragraph
+ (2).
+CATASTROPHIC EARTHQUAKE IMPACT STUDIES
+ SEC. 14. (a) STUDY OF INDIRECT ECONOMIC LOSSES- Within 12 months after
+ the date of enactment of this Act, the Director of the Federal Emergency
+ Management Agency shall submit, to the Committee on Science, Space, and
+ Technology, the Committee on Interior and Insular Affairs, and the Committee
+ on Banking, Finance and Urban Affairs of the House of Representatives,
+ and to the Committee on Commerce, Science and Transportation and the
+ Committee on Banking, Housing, and Urban Affairs of the Senate, a report
+ on the results of a study on the impact and repercussions of a catastrophic
+ earthquake on local, regional, and national economies. The Director of the
+ Federal Emergency Management Agency shall appoint, in consultation with
+ the Department of the Treasury, a panel of experts in relevant fields and
+ activities to undertake such study. In particular, the study shall evaluate
+ the repercussions and indirect economic impact of such an earthquake on--
+ (1) financial markets;
+ (2) the national banking system;
+ (3) the insurance industry; and
+ (4) the national energy distribution network;
+and shall include an estimate of the ability of current disaster assistance
+efforts and insurance coverage to allow recovery from the economic losses
+caused by a catastrophic earthquake.
+ (b) STUDY ON IMPROVING EARTHQUAKE MITIGATION- Within 12 months after the date
+ of enactment of this Act, the Director of the Federal Emergency Management
+ Agency shall submit, to the Committee on Science, Space, and Technology, the
+ Committee on Interior and Insular Affairs, and the Committee on Banking,
+ Finance and Urban Affairs of the House of Representatives, and to the
+ Committee on Commerce, Science, and Transportation and the Committee on
+ Banking, Housing, and Urban Affairs of the Senate, a report on the results of
+ a study on the adequacy of preparation and response capabilities for reducing
+ and recovering from losses caused by a catastrophic earthquake. The Director
+ of the Federal Emergency Management Agency shall appoint, in consultation
+ with the United States Geological Survey, the National Institute of Standards
+ and Technology, and the National Science Foundation, a panel of experts in
+ relevant fields and activities to undertake such study. The study required
+ under subsection shall--
+ (1) identify impediments to the effective implementation of Federal, State,
+ and local programs of earthquake hazard mitigation, including an analysis
+ of the appropriate roles for Federal, State, and local governments and the
+ private sector in preparing for and responding to the economic and social
+ consequences of earthquakes; and
+ (2) consider the effectiveness, and efficiencies of alternative ways for
+ Federal, State, and local governments to reduce the economic impact of
+ earthquakes, including earthquake hazard mitigation, disaster assistance,
+ earthquake insurance for homeowners and small businesses, and earthquake
+ reinsurance for general commercial liabilities.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

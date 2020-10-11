@@ -1,0 +1,88 @@
+ 
+--S.758--
+S.758
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To clarify that States, instrumentalities of States, and officers and employees
+of States acting in their official capacity, are subject to suit in Federal
+court by any person for infringement of patents and plant variety protections,
+and that all the remedies can be obtained in such suit that can be obtained
+in a suit against a private entity.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Patent and Plant Variety Protection Remedy
+  Clarification Act'.
+SEC. 2. LIABILITY OF STATES, INSTRUMENTALITIES OF STATES, AND STATE OFFICIALS
+FOR INFRINGEMENT OF PATENTS.
+  (a) LIABILITY AND REMEDIES- (1) Section 271 of title 35, United States Code,
+  is amended by adding at the end the following:
+  `(h) As used in this section, the term `whoever' includes any State, any
+  instrumentality of a State, and any officer or employee of a State or
+  instrumentality of a State acting in his official capacity. Any State,
+  and any such instrumentality, officer, or employee, shall be subject to
+  the provisions of this title in the same manner and to the same extent as
+  any nongovernmental entity.'.
+  (2) Chapter 29 of title 35, United States Code, is amended by adding at
+  the end the following new section:
+`Sec. 296. Liability of States, instrumentalities of States, and State
+officials for infringement of patents
+  `(a) IN GENERAL- Any State, any instrumentality of a State, and any
+  officer or employee of a State or instrumentality of a State acting in
+  his official capacity, shall not be immune, under the eleventh amendment
+  of the Constitution of the United States or under any other doctrine of
+  sovereign immunity, from suit in Federal court by any person, including
+  any governmental or nongovernmental entity, for infringement of a patent
+  under section 271, or for any other violation under this title.
+  `(b) REMEDIES- In a suit described in subsection (a) for a violation
+  described in that subsection, remedies (including remedies both at law
+  and in equity) are available for the violation to the same extent as such
+  remedies are available for such a violation in a suit against any private
+  entity. Such remedies include damages, interest, costs, and treble damages
+  under section 284, attorney fees under section 285, and the additional
+  remedy for infringement of design patents under section 289.'.
+  (b) CONFORMING AMENDMENT- The table of sections at the beginning of chapter
+  29 of title 35, United States Code, is amended by adding at the end the
+  following new item:
+`Sec. 296. Liability of States, instrumentalities of States, and State
+officials for infringement of patents.'.
+SEC. 3. LIABILITY OF STATES, INSTRUMENTALITIES OF STATES, AND STATE OFFICIALS
+FOR INFRINGEMENT OF PLANT VARIETY PROTECTION.
+  (a) INFRINGEMENT OF PLANT VARIETY PROTECTION- Section 111 of the Plant
+  Variety Protection Act (7 U.S.C. 2541) is amended--
+  (1) by inserting `(a)' before `Except as otherwise provided'; and
+  (2) by adding at the end thereof the following new subsection:
+  `(b) As used in this section, the term `perform without authority' includes
+  performance without authority by any State, any instrumentality of a State,
+  and any officer or employee of a State or instrumentality of a State acting
+  in his official capacity. Any State, and any such instrumentality, officer,
+  or employee, shall be subject to the provisions of this Act in the same
+  manner and to the same extent as any nongovernmental entity.'.
+  (b) LIABILITY OF STATES, INSTRUMENTALITIES OF STATES, AND STATE OFFICIALS
+  FOR INFRINGEMENT OF PLANT VARIETY PROTECTION- Chapter 12 of the Plant
+  Variety Protection Act (7 U.S.C. 2561 et seq.) is amended by adding at
+  the end thereof the following new section:
+`SEC. 130. LIABILITY OF STATES, INSTRUMENTALITIES OF STATES, AND STATE
+OFFICIALS FOR INFRINGEMENT OF PLANT VARIETY PROTECTION.
+  `(a) Any State, any instrumentality of a State, and any officer or employee
+  of a State or instrumentality of a State acting in his official capacity,
+  shall not be immune, under the eleventh amendment of the Constitution
+  of the United States or under any other  doctrine of sovereign immunity,
+  from suit in Federal court by any person, including any governmental or
+  nongovernmental entity, for infringement of plant variety protection under
+  section 111, or  for any other violation under this title.
+  `(b) In a suit described in subsection (a) for a violation described in
+  that subsection, remedies (including remedies both at law and in equity)
+  are available for the violation to the same extent as such remedies are
+  available for such a violation in a suit against any private entity. Such
+  remedies include damages, interest, costs, and treble damages under section
+  124, and attorney fees under section 125.'.
+SEC. 4. EFFECTIVE DATE.
+  The amendments made by this Act shall take effect with respect to violations
+  that occur on or after the date of the enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

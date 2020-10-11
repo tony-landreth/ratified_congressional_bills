@@ -1,0 +1,405 @@
+ 
+--H.R.180--
+H.R.180
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To amend title 38, United States Code, with respect to veterans education
+and employment programs, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. EXTENSION.
+ Section 2011(2)(B) of title 38, United States Code, is amended by striking
+ out `1991' and inserting in lieu thereof `1994'.
+SEC. 2. EDUCATIONAL AND VOCATIONAL COUNSELING.
+ (a) IN GENERAL- Chapter 36 of title 38, United States Code, is amended by
+ adding at the end of subchapter II the following new section:
+`Sec. 1797A. Educational and vocational counseling
+ `(a) The Secretary shall make available to an individual described in
+ subsection (b) of this section, upon such individual's request, counseling
+ services, including such educational and vocational counseling and guidance,
+ testing, and other assistance as the Secretary determines necessary to aid
+ the individual in selecting--
+ `(1) an educational or training objective and an educational institution
+ or training establishment appropriate for the attainment of such objective; or
+ `(2) an employment objective that would be likely to provide such individual
+ with satisfactory employment opportunities in the light of the individual's
+ personal circumstances.
+ `(b) For the purposes of this section, the term `individual' means an
+ individual who--
+ `(1) is eligible for educational assistance under chapter 30, 31, or 32 of
+ this title or chapter 106 or 107 of title 10;
+ `(2) was discharged or released from active duty under conditions other
+ than dishonorable if not more than one year has elapsed since the date of
+ such last discharge or release from active duty; or
+ `(3) is serving on active duty in any State with the Armed Forces and
+ is within 180 days of the estimated date of such individual's discharge
+ or release from active duty under conditions other than dishonorable,
+ including those who are making a determination of whether to continue as
+ members of the Armed Forces.
+ `(c) In any case in which the Secretary has rated the individual as being
+ incompetent, the counseling services described in subsection (a) of this
+ section shall be required to be provided to the individual before the
+ selection of a program of education or training.
+ `(d) At such intervals as the Secretary determines necessary, the
+ Secretary shall make available information concerning the need for general
+ education and for trained personnel in the various crafts, trades, and
+ professions. Facilities of other Federal agencies collecting such information
+ shall be utilized to the extent the Secretary determines practicable.
+ `(e) The Secretary shall take appropriate steps (including individual
+ notification where feasible) to acquaint all individuals described in
+ subsection (b) of this section with the availability and advantages of
+ counseling services under this section.'.
+ (b) CONFORMING AMENDMENTS- (1) Chapter 34 of such title is amended--
+ (A) by striking out section 1663; and
+ (B) in the table of sections of such chapter, by striking out
+`1663. Educational and vocational counseling.'.
+ (2) Sections 1434(a)(1) and 1641(a)(1) of such title are amended by striking
+ out `1663,'.
+ (3) Section 1797(a) of such title is amended by inserting `under section
+ 1797A of this title or to an individual' after `individual'.
+ (4) The table of sections of chapter 36 of such title is amended by adding
+ the following new item at the end of the items for subchapter II:
+`1797A. Educational and vocational counseling.'.
+SEC. 3. VOCATIONAL REHABILITATION.
+ (a) REHABILITATION UNDER CHAPTER 31- Section 1502(1)(B) of title 38,
+ United States Code, is amended by striking out `for a service-connected
+ disability' and all that follows through `determines' and inserting in
+ lieu thereof `or receiving outpatient medical care, services, or treatment
+ for a service-connected disability pending discharge from the active
+ military, naval, or air service, and the Secretary determines that (i)
+ the hospital (or other medical facility) providing the hospitalization,
+ care, services, or treatment either is doing so under contract or agreement
+ with the Secretary concerned or is under the jurisdiction of the Secretary
+ of Veterans Affairs or the Secretary concerned, and (ii) the person is
+ suffering from a disability which'.
+ (b) HANDLING FEES- (1) Section 1504(a)(7) of such title is amended--
+ (A) by inserting `(A)' before `Vocational';
+ (B) by redesignating clauses (A) and (B) as clauses (i) and (ii);
+ (C) by striking out `and licensing' and inserting in lieu thereof `handling
+ charges, licensing'; and
+ (D) by adding at the end the following new subparagraph:
+ `(B) Payment for the services and assistance provided under subparagraph
+ (A) of this paragraph shall be made from funds available for the payment
+ of readjustment benefits.'.
+ (2) The amendments made by this subsection shall apply only to payments
+ made on or after the date of the enactment of this Act.
+ (c) AMOUNT OF ALLOWANCE- Section 1508(c)(2) of such title is amended by
+ inserting `, State, or local government' after `Federal'.
+SEC. 4. EXTENSION OF THE PERIOD PRECEDING AUTOMATIC DISENROLLMENT UNDER
+CHAPTER 32.
+ Section 1632(b)(1) of title 38, United States Code, is amended by inserting
+ before the comma `and at the end of one year thereafter has not filed a
+ claim for utilizing such entitlement'.
+SEC. 5. REPEAL OF CERTAIN REPORTING REQUIREMENTS.
+ (a) IN GENERAL- Section 1642 and paragraph (3) of section 1798(e) of title
+ 38, United States Code, are repealed.
+ (b) CLERICAL AMENDMENT- The table of sections for chapter 32 of such title
+ is amended by striking out the item for section 1642.
+SEC. 6. PROVISION FOR CERTAIN INDIVIDUALS TO ELIMINATE AN OVERPAYMENT BY
+PERFORMING WORK-STUDY SERVICES.
+ (a) IN GENERAL- Section 1685 of title 38, United States Code, is amended
+ by adding at the end the following new subsection:
+ `(e)(1) Subject to paragraph (2) of this subsection, the Secretary may,
+ notwithstanding any other provision of law, enter into an agreement with
+ an individual under this section, or a modification of such an agreement,
+ whereby the individual agrees to perform services of the kind described
+ in clauses (A) through (E) of subsection (a)(1) of this section and agrees
+ that the Secretary shall, in lieu of paying the work-study allowance payable
+ for such services, as provided in subsection (a) of this section, deduct
+ the amount of the allowance from the amount which the individual has been
+ determined to be indebted to the United States by virtue of such individual's
+ participation in a benefits program under this chapter, chapter 30, 31, 32,
+ 35, or 36 (other than an education loan under subchapter III) of this title,
+ or chapter 106 of title 10 (other than an indebtedness arising from a refund
+ penalty imposed under section 2135 of such title).
+ `(2)(A) Subject to subparagraph (B) of this paragraph, the provisions
+ of this section (other than those provisions which are determined by the
+ Secretary to be inapplicable to an agreement under this subsection) shall
+ apply to any agreement authorized under paragraph (1) of this subsection.
+ `(B) For the purposes of this subsection, the Secretary may--
+ `(i) waive, in whole or in part, the limitations in subsection (a) of this
+ section concerning the number of hours and periods during which services can
+ be performed by the individual and the provisions of subsection (b) of this
+ section requiring the individual's pursuit of a program of rehabilitation,
+ education, or training;
+ `(ii) in accordance with such terms and conditions as may be specified
+ in the agreement under this subsection, waive or defer charging interest
+ and administrative costs pursuant to section 3115 of this title on the
+ indebtedness to be satisfied by performance of the agreement; and
+ `(iii) notwithstanding the indebtedness offset provisions of section 3114 of
+ this title, waive or defer until the termination of an agreement under this
+ subsection the deduction of all or any portion of the amount of indebtedness
+ covered by the agreement from future payments to the individual as described
+ in section 3114 of this title.
+ `(3)(A) Subject to the provisions of subparagraphs (B) and (C) of this
+ paragraph, an agreement authorized under this subsection shall terminate in
+ accordance with the provisions of this section and the terms and conditions
+ of the agreement which are consistent with this subsection.
+ `(B) In no event shall an agreement under this subsection continue in force
+ after the total amount of the individual's indebtedness described in paragraph
+ (1) of this subsection has been recouped, waived, or otherwise liquidated.
+ `(C) Notwithstanding the provisions of subparagraphs (A) and (B) of this
+ paragraph, if the Secretary finds that an individual was without fault
+ and was allowed to perform services described in the agreement after its
+ termination, the Secretary shall, as reasonable compensation therefor,
+ pay the individual at the applicable hourly minimum wage rate for such
+ services as the Secretary determines were satisfactorily performed.
+ `(4) The Secretary shall promulgate regulations to carry out this
+ subsection.'.
+ (b) CONFORMING AND TECHNICAL AMENDMENTS- (1) Section 1685(a)(2) of such
+ title is amended by inserting `and subsection (e) of this section' after
+ `subsection'.
+ (2) Section 1685(b) of such title is amended by inserting before `utilize'
+ in the first sentence `, subject to the provisions of subsection (e) of
+ this section,'.
+ (3) Section 3114(a) of such title is amended by inserting before the comma
+ `and section 1685(e) of this title'.
+ (4) Section 3115(a) of such title is amended by striking out `section 3102'
+ and inserting in lieu thereof `sections 1685(e) and 3102'.
+SEC. 7. EDUCATIONAL ASSISTANCE FOR FLIGHT TRAINING.
+ (a) POST-VIETNAM ERA VETERANS' EDUCATIONAL ASSISTANCE- Section 1641 of
+ title 38, United States Code, is amended--
+ (1) by redesignating subsection (b) as subsection (c); and
+ (2) by inserting after subsection (a) the following new subsection:
+ `(b)(1) The Secretary may approve the pursuit of flight training (in addition
+ to a course of flight training that may be approved under section 1673(b)
+ of this title) by an individual entitled to basic educational assistance
+ under this chapter if--
+ `(A) such training is generally accepted as necessary for the attainment
+ of a recognized vocational objective in the field of aviation;
+ `(B) the individual possesses a valid pilot's license and meets the medical
+ requirements necessary for a commercial pilot's license; and
+ `(C) the flight school courses meet Federal Aviation Administration standards
+ for such courses and are approved by the Federal Aviation Administration
+ and the State approving agency.
+ `(2) This subsection shall not apply to a course of flight training that
+ commences on or after October 1, 1994.'.
+ (b) BENEFIT AMOUNT AND ENTITLEMENT CHARGE- Section 1631 of such title
+ is amended--
+ (1) in subsection (a)(2), by inserting `subsection (f) of this section and'
+ after `provided in'; and
+ (2) by adding at the end the following new subsection:
+ `(f)(1) Subject to subsection (a)(1) of this section, each individual who
+ is pursuing a program of education consisting exclusively of flight training
+ approved as meeting the requirements of section 1641(b) of this title shall
+ be paid educational assistance under this chapter in the amount equal to 60
+ percent of the established charges for tuition and fees (other than tuition
+ and fees charged for or attributable to solo flying hours) which similarly
+ circumstanced nonveterans enrolled in the same flight course are required
+ to pay.
+ `(2) No payment may be paid under this chapter to an individual for any month
+ during which such individual is pursuing a program of education consisting
+ exclusively of flight training until the Secretary has received from that
+ individual and the institution providing such training a certification of
+ the flight training received by the individual during that month and the
+ tuition and other fees charged for that training.
+ `(3) The entitlement of an eligible veteran pursuing a program of education
+ described in paragraph (1) of this subsection shall be charged at the rate
+ of one month for each amount of educational assistance paid which is equal
+ to the monthly benefit otherwise payable to such veteran (computed on the
+ basis of the formula provided in subsection (a)(2) of this section).'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on April 1, 1991.
+SEC. 8. COMMITTEE ON VETERANS' EMPLOYMENT.
+ (a) IN GENERAL- Section 2010 of title 38, United States Code, is amended
+ to read as follows:
+-`Sec. 2010. Advisory Committee on Veterans Employment and Training
+ `(a)(1) There is hereby established within the Department of Labor an
+ advisory committee to be known as the Advisory Committee on Veterans
+ Employment and Training.
+ `(2) The advisory committee shall--
+ `(A) assess the employment and training needs of veterans;
+ `(B) determine the extent to which the programs and activities of the
+ Department of Labor are meeting such needs; and
+ `(C) carry out such other activities that are necessary to make the reports
+ and recommendations referred to in subsection (f) of this section.
+ `(b) The Secretary of Labor shall, on a regular basis, consult with and seek
+ the advice of the advisory committee with respect to the matters referred
+ to in subsection (a)(2) of this section.
+ `(c)(1) The Secretary of Labor shall, within 90 days after the date of
+ the enactment of this section, appoint at least 12, but no more than 18,
+ individuals to serve as members of the advisory committee consisting of--
+ `(A) representatives nominated by veterans' organizations that are chartered
+ by Federal law and have a national employment program; and
+ `(B) not more than 6 individuals who are recognized authorities in the
+ fields of business, employment, training, rehabilitation, or labor and who
+ are not employees of the Department of Labor.
+ `(2) A vacancy in the advisory committee shall be filled in the manner in
+ which the original appointment was made.
+ `(d) The following, or their representatives, shall be ex officio, nonvoting
+ members of the advisory committee:
+ `(1) The Secretary of Veterans Affairs.
+ `(2) The Secretary of Defense.
+ `(3) The Secretary of Health and Human Services.
+ `(4) The Secretary of Education.
+ `(5) The Director of the Office of Personnel Management.
+ `(6) The Assistant Secretary of Labor for Veterans Employment and Training.
+ `(7) The Assistant Secretary of Labor for Employment and Training.
+ `(8) The Chairman of the Equal Employment Opportunity Commission.
+ `(9) The Administrator of the Small Business Administration.
+ `(10) The Postmaster General.
+ `(11) The Director of the United States Employment Service.
+ `(12) Representatives of--
+ `(A) other Federal departments and agencies requesting a representative on
+ the advisory committee; and
+ `(B) nationally based organizations with a significant involvement in
+ veterans employment and training programs, as determined necessary and
+ appropriate by the Secretary of Labor.
+ `(e)(1) The advisory committee shall meet at least quarterly.
+ `(2) The Secretary of Labor shall appoint the chairman of the advisory
+ committee who shall serve in that position for no more than 2 consecutive
+ years.
+ `(3)(A) Members of the advisory committee shall serve without compensation.
+ `(B) Members of the advisory committee shall be allowed reasonable and
+ necessary travel expenses, including per diem in lieu of subsistence,
+ at rates authorized for persons serving intermittently in the Government
+ service in accordance with the provisions of subchapter I of chapter 57 of
+ title 5, United States Code, while away from their homes or regular places
+ of business in the performance of the responsibilities of the Board.
+ `(4) The Secretary of Labor shall provide staff and administrative support to
+ the advisory committee through the Veterans Employment and Training Service.
+ `(f)(1) Not later than July 1 of each year, the advisory committee shall
+ submit to the Secretary of Labor a report on the employment and training
+ needs of veterans. Each such report shall contain--
+ `(A) an assessment of the employment and training needs of veterans;
+ `(B) an evaluation of the extent to which the programs and activities of
+ the Department of Labor are meeting such needs; and
+ `(C) any recommendations for legislation, administrative action, and other
+ action that the advisory committee considers appropriate.
+ `(2) In addition to the annual reports made under paragraph (1), the advisory
+ committee may make recommendations to the Secretary of Labor with respect
+ to the employment and training needs of veterans at such times and in such
+ manner as the advisory committee determines appropriate.
+ `(g) Within 60 days after receiving each annual report referred to in
+ subsection (f)(1), the Secretary of Labor shall transmit to Congress a
+ copy of the report together with any comments concerning the report that
+ the Secretary considers appropriate.
+ `(h) The advisory committee shall continue until terminated by law.'.
+ (b) CLERICAL AMENDMENT- The table of sections for chapter 41 of such title
+ is amended by striking out the item for section 2010 and inserting in lieu
+ thereof the following:
+`2010. Advisory Committee on Veterans Employment and Training.'.
+SEC. 9. VETERANS READJUSTMENT APPOINTMENTS.
+ (a) POLICY- Section 2014(a)(1) of title 38, United States Code, is amended--
+ (1) by striking out `It is the policy of the United States' and inserting
+ in lieu thereof the following: `The United States has an obligation to
+ assist veterans of the Armed Forces in readjusting to civilian life since
+ veterans, by virtue of their military service, have lost opportunities to
+ pursue education and training oriented toward civilian careers. The Federal
+ Government is also continuously concerned with building an effective work
+ force, and veterans constitute a major recruiting source. It is, therefore,
+ the policy of the United States'; and
+ (2) by striking out `certain veterans of the Vietnam era' and all that
+ follows through the period and inserting in lieu thereof `disabled veterans
+ and certain veterans of the Vietnam era and of the post-Vietnam era who
+ are qualified for such employment and advancement.'.
+ (b) IMPLEMENTATION- (1) Section 2014(b)(1) of such title is amended--
+ (A) in clause (A), by striking out `up to' and all that follows through
+ the semicolon and inserting in lieu thereof `up to and including the level
+ GS-11 or its equivalent;';
+ (B) by striking out clauses (B) and (C) and inserting in lieu thereof
+ the following:
+ `(B) a veteran shall be eligible for such an appointment without regard to
+ the number of years of education completed by such veteran;
+ `(C) a veteran who is entitled to disability compensation under the laws
+ administered by the Department of Veterans Affairs or whose discharge
+ or release from active duty was for a disability incurred or aggravated
+ in line of duty shall be given a preference for such an appointment over
+ other veterans;
+ `(D) a veteran receiving such an appointment shall--
+ `(i) in the case of a veteran with less than 15 years of education, receive
+ training or education; and
+ `(ii) upon successful completion of the prescribed probationary period,
+ acquire a competitive status; and';
+ (C) by striking out clauses (E) and (F); and
+ (D) by redesignating clause (D) as clause (E) and by striking out `; and'
+ at the end of such clause and inserting in lieu thereof a period.
+ (2) Section 2014(b) of such title is amended by striking out subparagraph
+ (B) of paragraph (2) and all that follows through paragraph (4) and inserting
+ in lieu thereof the following:
+ `(B) veterans who first became a member of the Armed Forces or first
+ entered on active duty as a member of the Armed Forces after May 7, 1975,
+ and were discharged or released from active duty under conditions other
+ than dishonorable.
+ `(3)(A) Except as provided in subparagraph (C) of this paragraph, a veteran
+ of the Vietnam era may receive an appointment under this section only during
+ the period ending--
+ `(i) 10 years after the date of the veteran's last discharge or release
+ from active duty; or
+ `(ii) December 31, 1993,
+whichever is later.
+ `(B) Except as provided in subparagraph (C) of this paragraph, a veteran
+ described in paragraph (2)(B) of this subsection may receive such an
+ appointment only within the 10-year period following the later of--
+ `(i) the date of the veteran's last discharge or release from active duty; or
+ `(ii) December 18, 1989.
+ `(C) The limitations of subparagraphs (A) and (B) of this paragraph shall
+ not apply to a veteran who has a service-connected disability rated at 30
+ percent or more.
+ `(D) For purposes of clause (i) of subparagraphs (A) and (B) of this
+ paragraph, the last discharge or release from active duty shall not
+ include any discharge or release from active duty of less than ninety
+ days of continuous service unless the individual involved is discharged or
+ released for a service-connected disability, for a medical condition which
+ preexisted such service and which the Secretary determines is not service
+ connected, for hardship, or as a result of a reduction in force described in
+ section 1411(a)(1)(A)(ii)(III) of this title or of an involuntary separation
+ described in section 1418A(a)(1).'.
+ (c) CLERICAL AMENDMENTS- (1) The title heading for chapter 42 of such title
+ is amended by striking out `DISABLED AND VIETNAM ERA'.
+ (2) The item for such chapter in the table of chapters is amended by striking
+ out `Disabled and Vietnam Era'.
+ (d) EFFECTIVE DATE- The amendments made by this Act shall apply only to
+ appointments made after the date of the enactment of this Act.
+SEC. 10. TECHNICAL AMENDMENTS.
+ (a) TITLE 38 TECHNICAL AMENDMENTS- Title 38, United States Code, is amended
+ as follows:
+ (1) Section 1411(a)(3) is amended--
+ (A) by redesignating clause (C) as clause (D); and
+ (B) by striking out clauses (A) and (B) and inserting in lieu thereof
+ the following:
+ `(A) continues on active duty;
+ `(B) is discharged from active duty with an honorable discharge;
+ `(C) is released after service on active duty characterized by the
+ Secretary concerned as honorable service and is placed on the retired list,
+ is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is
+ placed on the temporary disability retired list; or'.
+ (2) Section 1418(b)(4) is amended--
+ (A) by striking out the comma after `service' and inserting in lieu thereof
+ `(i)'; and
+ (B) by inserting `, or (ii) has successfully completed the equivalent of
+ 12 semester hours in a program of education leading to a standard college
+ degree' before the semicolon.
+ (3) Section 1432(f)(3) is amended by striking out `or (c)' and inserting
+ in lieu thereof `(c), or (d)(1)'.
+ (4) Section 1433(b) is amended by striking out `section 902 of the Department
+ of Defense Authorization Act, 1981 (10 U.S.C. 2141 note),' and inserting
+ in lieu thereof `chapter 109 of title 10'.
+ (5) Section 1685(a)(1) is amended--
+ (A) by redesignating clauses (1) through (5) as clauses (A) through (E),
+ respectively; and
+ (B) in clause (E), as so redesignated, by inserting `, Coast Guard, or
+ National Guard' after `Department of Defense'.
+ (6) Sections 1732(c)(3), 1732(e), and 1733(a)(1) are amended by striking out
+ `Secretary of Veterans Affairs' and inserting in lieu thereof `Secretary'.
+ (7) Section 1774(a)(1)(A) is amended by striking out `chapters 106 and 107'
+ and inserting in lieu thereof `chapter 106'.
+ (8) Section 2004 is amended--
+ (A) in subsection (a)(1), by striking out `assignment' each place it appears
+ in the material preceding subparagraph (A) and inserting in lieu thereof
+ `appointment';
+ (B) in subsection (a)(1)(C), by striking out `assignment' and inserting in
+ lieu thereof `appointment';
+ (C) in subsection (a)(4), by striking out `assigning' and inserting in lieu
+ thereof `appointment'; and
+ (D) by striking out subsection (d).
+ (9) Section 3013(a) is amended by inserting `or chapter 106 of title 10'
+ after `of this title'.
+ (b) TITLE 10 TECHNICAL AMENDMENT- Section 2136(b) of title 10, United States
+ Code, is amended by striking out `1434(b),', `1663,', and `1780(g),'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

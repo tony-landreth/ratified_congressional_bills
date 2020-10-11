@@ -1,0 +1,152 @@
+ 
+--H.R.4808--
+H.R.4808
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To encourage solar, wind, waste, and geothermal power production by
+removing the
+size limitations contained in the Public Utility Regulatory Policies Act
+of 1978.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Solar, Wind, Waste, and Geothermal Power
+ Production Incentives Act of 1990'.
+SEC. 2. PURPA AMENDMENT.
+ Section 210(e)(2) of the Public Utility Regulatory Policies Act of 1978
+ is amended by inserting `(other than a qualifying small power production
+ facility which is an eligible solar, wind, waste, or geothermal facility
+ as defined in section 3(17)(E) of the Federal Power Act)' after `facility'
+ where it first appears.
+SEC. 3. FEDERAL POWER ACT AMENDMENTS.
+ (a) Section 3(17)(A) of the Federal Power Act is amended by inserting `a
+ facility which is an eligible solar, wind, waste, or geothermal facility,
+ or' after `small power production facility' means'.
+ (b) Section 3(17) of such Act is further amended by inserting at the end
+ thereof the following new subparagraph:
+ `(E) `eligible solar, wind, waste or geothermal facility' means a facility
+ which produces electric energy solely by the use, as a primary energy source,
+ of solar energy, wind energy, waste resources or geothermal resources,
+ and which would otherwise not qualify as a small power production facility
+ because of the power production capacity limitation contained in subparagraph
+ (A)(ii); but only if--
+ `(i) either of the following is submitted to the Commission not later than
+ December 31, 1994:
+ `(I) an application for certification of the facility as a qualifying small
+ power production facility; or
+ `(II) notice that the facility meets the requirements for qualification; and
+ `(ii) construction of such facility commences not later than December 31,
+ 1999, or, if not, reasonable diligence is exercised toward the completion
+ of such facility taking into account all factors relevant to construction
+ of the facility.'.
+SEC. 4. FERC REGULATIONS.
+ Unless the Federal Energy Regulatory Commission otherwise specifies,
+ by rule after enactment of this Act, any eligible solar, wind, waste, or
+ geothermal facility (as defined in section 3(17)(E) of the Federal Power
+ Act as amended by this Act), which is a qualifying small power production
+ facility (as defined in subparagraph (C) of section 3(17) of the Federal
+ Power Act as amended by this Act)--
+ (1) shall be considered a qualifying small power production facility for
+ purposes of part 292 of title 18, Code of Federal Regulations, notwithstanding
+ any size limitations contained in such part, and
+ (2) shall not be subject to the size limitation contained in section
+ 292.601(b) of such part.
+SEC. 5. LICENSING OF URANIUM ENRICHMENT FACILITIES.
+ (a) DEFINITION OF PRODUCTION FACILITY- Section 11v. of the Atomic Energy Act
+ of 1954 (42 U.S.C. 2014(v)) is amended by adding at the end the following
+ new sentence: `Except with respect to the export of a uranium enrichment
+ production facility, such term as used in chapters 10 and 16 shall not
+ include any equipment or device (or important component part especially
+ designed for such equipment or device) capable of separating the isotopes
+ of uranium or enriching uranium in the isotope 235.'.
+ (b) REGULATION- Section 161b. of the Atomic Energy Act of 1954 (42
+ U.S.C. 2201(b)) is amended by striking the period at the end of the section
+ and adding the following: `; in addition, the Commission shall prescribe
+ such regulations or orders as may be necessary or desirable to promote the
+ Nation's common defense and security with regard to control, ownership,
+ or possession of any equipment or device, or important component part
+ especially designed for such equipment or device, capable of separating
+ the isotopes of uranium or enriching uranium in the isotope 235;'.
+ (c) OWNERSHIP OF PRODUCTION FACILITIES- Section 41a. (2) of the Atomic
+ Energy Act of 1954 (42 U.S.C. 2061(a)(2)) is amended by striking `section
+ 103 or 104' and inserting `under this Act'.
+ (d) SABOTAGE OF NUCLEAR FACILITIES OR FUEL- Section 236 of the Atomic Energy
+ Act of 1954 (42 U.S.C. 2284) is amended--
+ (1) by striking `or' at the end of paragraph (2);
+ (2) by inserting `or' after the semicolon at the end of paragraph (3); and
+ (3) by adding after paragraph (3) the following new paragraph:
+ `(4) any uranium enrichment facility licensed by the Nuclear Regulatory
+ Commission.'.
+ (e) URANIUM ENRICHMENT FACILITIES- Chapter 16 of the Atomic Energy Act of
+ 1954 (42 U.S.C. 2231 et seq.) is amended by adding at the end the following
+ new section:
+`SEC. 193. LICENSING OF URANIUM ENRICHMENT FACILITIES.
+ `(a) Environmental Impact Statement-
+ `(1) MAJOR FEDERAL ACTION- The issuance of a license under sections 53 and 63
+ for the construction and operation of any uranium enrichment facility shall
+ be considered a major Federal action significantly affecting the quality
+ of the human environment for purposes of the National Environmental Policy
+ Act of 1969 (42 U.S.C. 4321 et seq.).
+ `(2) TIMING- An environmental impact statement prepared under paragraph
+ (1) shall be prepared before the hearing on the issuance of a license for
+ the construction and operation of a uranium enrichment facility is completed.
+ `(b) Adjudicatory Hearing-
+ `(1) IN GENERAL- The Commission shall conduct a single adjudicatory hearing
+ on the record with regard to the licensing of the construction and operation
+ of a uranium enrichment facility under sections 53 and 63.
+ `(2) TIMING- Such hearing shall be completed and a decision issued before
+ the issuance of a license for such construction and operation.
+ `(3) SINGLE PROCEEDING- No further Commission licensing action shall be
+ required to authorize operation.
+ `(c) INSPECTION AND OPERATION- Prior to commencement of operation of a uranium
+ enrichment facility licensed hereunder, the Commission shall verify through
+ inspection that the facility has been constructed in accordance with the
+ requirements of the license for construction and operation. The Commission
+ shall publish notice of the inspection results in the Federal Register.
+ `(d) Insurance and Decommissioning-
+ `(1) The Commission shall require, as a condition of the issuance of a license
+ under sections 53 and 63 for a uranium enrichment facility, that the licensee
+ have and maintain liability insurance of such type and in such amounts as
+ the Commission judges appropriate to cover liability claims arising out of
+ any occurrence within the United States, causing, within or outside the
+ United States, bodily injury, sickness, disease, or death, or loss of or
+ damage to property, or loss of use of property, arising out of or resulting
+ from the radioactive, toxic, explosive, or other hazardous properties of
+ chemical compounds containing source or special nuclear material.
+ `(2) The Commission shall require, as a condition for the issuance of a
+ license under sections 53 and 63 for a uranium enrichment facility, that
+ the licensee provide adequate assurance of the availability of funds for
+ the decommissioning (including decontamination) of such facility using
+ funding mechanisms that may include, but are not necessarily limited to,
+ the following:
+ `(A) Prepayment (in the form of a trust, escrow account, government fund,
+ certificate of deposit, or deposit of government securities).
+ `(B) Surety (in the form of a surety or performance bond, letter of credit,
+ or line of credit), insurance, or other guarantee (including parent company
+ guarantee) method.
+ `(C) External sinking fund in which deposits are made at least annually.
+ `(e) NO PRICE-ANDERSON COVERAGE- Section 170 of this Act shall not apply
+ to any license under section 53 or 63 for a uranium enrichment facility
+ constructed after the date of enactment of this section.'.
+SEC. 6. RIGHT-OF-WAY USE.
+ (a) The proposed alignment of the Harold T. (Bizz) Johnson California-Pacific
+ Northwest Intertie line authorized by Public Laws 98-360 and 99-88 within
+ Contra Costa County, California, is hereby rejected.
+ (b) The Secretary of Energy, acting through the Western Area Power
+ Administration, in consultation with all Intertie project participants,
+ shall, prior to January 30, 1991, submit to the Committee on Interior and
+ Insular Affairs of the House of Representatives and the Committee on Energy
+ and Natural Resources of the Senate a proposed realignment of the Intertie
+ within Contra Costa County, California.
+ (c) To the maximum extent practicable, the proposed realignment shall be
+ consistent with the needs of affected landowners, East Bay Regional Park
+ District, the environment, and system security and reliability.
+ (d) No action shall be taken to implement the proposed realignment prior
+ to March 1, 1991.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

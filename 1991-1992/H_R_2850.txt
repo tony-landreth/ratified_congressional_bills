@@ -1,0 +1,699 @@
+ 
+--H.R.2850--
+H.R.2850
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To make technical and conforming changes in title 5, United States Code, and
+the Federal Employees Pay Comparability Act of 1990, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Technical and Miscellaneous
+  Civil Service Amendments Act of 1992'.
+  (b) TABLE OF CONTENTS- The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Amendments to title 5, United States Code.
+Sec. 3. Amendments to the Federal Employees Pay Comparability Act of 1990.
+Sec. 4. Amendments relating to the Ethics in Government Act of 1978.
+Sec. 5. Amendments to other provisions of law.
+Sec. 6. Restoration of coverage of certain Federal personnel provisions to
+certain Veterans Health Administration employees.
+Sec. 7. Retroactive performance awards.
+Sec. 8. Miscellaneous provisions.
+Sec. 9. Effective dates.
+SEC. 2. AMENDMENTS TO TITLE 5, UNITED STATES CODE.
+  Title 5, United States Code, is amended--
+  (1) in the analysis for part II by striking, in the item relating to chapter
+  12, `Individual Right of Action' and inserting `Employee Right of Action';
+  (2) by striking the heading for former section 1209 (the text of which
+  was redesignated as sections 1205 and 1206 by paragraphs (9) and (10),
+  respectively, of section 3(a) of the Whistleblower Protection Act of 1989
+  (Public Law 101-12; 103 Stat. 18));
+  (3) by striking the heading for former section 1204 (which was redesignated
+  as section 1211(b) by section 3(a)(6) of the Whistleblower Protection Act
+  of 1989 (Public Law 101-12; 103 Stat. 17));
+  (4) in section 1305 by striking `section 3105,' and inserting `sections
+  3105,';
+  (5) in section 2302(b)(8)(B) by striking `Special Counsel of the Merit
+  Systems Protection Board,' and inserting `Special Counsel,';
+  (6) in section 2304(b) by striking `(b) the' and inserting `(b) The';
+  (7) in section 3104(a)--
+  (A) by striking `(not to exceed 517)'; and
+  (B) by amending the second sentence to read as follows: `Any such position
+  may be established by action of the Director or, under such standards and
+  procedures as the Office prescribes (including procedures under which the
+  prior approval of the Director may be required), by agency action.';
+  (8) in section 3109 by adding at the end thereof the following new
+  subsections:
+  `(d) The Office of Personnel Management shall prescribe regulations necessary
+  for the administration of this section. Such regulations shall include--
+  `(1) criteria governing the circumstances in which it is appropriate to
+  employ an expert or consultant under the provisions of this section;
+  `(2) criteria for setting the pay of experts and consultants under this
+  section; and
+  `(3) provisions to ensure compliance with such regulations.
+  `(e) Each agency shall report to the Office of Personnel Management on an
+  annual basis with respect to--
+  `(1) the number of days each expert or consultant employed by the agency
+  during the period was so employed; and
+  `(2) the total amount paid by the agency to each expert and consultant
+  for such work during the period.';
+  (9) by amending section 3152 to read as follows:
+`Sec. 3152. Limitation on pay
+  `Members of the FBI-DEA Senior Executive Service shall be subject to the
+  limitation under section 5307.';
+  (10) in section 3323(b)(1) by striking `annuitant as defined by section
+  8331 of this title' and inserting `annuitant, as defined by section 8331
+  or 8401,';
+  (11) in section 3324--
+  (A) by amending the heading to read as follows:
+`Sec. 3324. Appointments to positions classified above GS-15';
+  and
+  (B) in subsection (a) by amending paragraph (1) to read as follows:
+  `(1) to which appointment is made by the Chief Judge of the United States
+  Tax Court;';
+  (12) in section 3325(b) by striking `section 3104(a)(7) of this title'
+  and inserting `section 3104(c)';
+  (13)(A) by striking section 3342; and
+  (B) in the table of sections for chapter 33 by striking the item relating
+  to section 3342;
+  (14) by amending the heading for section 3373 to read as follows:
+`Sec. 3373. Assignment of employees to State or local governments';
+  (15) in section 3401(1)(iv) by striking `Virgin Island' and inserting
+  `Virgin Islands';
+  (16) in section 3594(c)(1)(A) by striking `5108,,' and inserting `5108,';
+  (17) in section 4109 by striking subsection (d);
+  (18) in section 4302(a) by striking the semicolon at the end and inserting
+  a period;
+  (19) in section 4505a--
+  (A) in subsection (b)(2) by striking `chapter 12 or under' and inserting
+  `chapter 12, chapter 71, or';
+  (B) in subsection (c) by inserting `of Personnel Management' after
+  `Office'; and
+  (C) by striking subsection (d) and inserting the following:
+  `(d) The preceding provisions of this section shall be applicable with
+  respect to any employee to whom subchapter III of chapter 53 applies,
+  and to any category of employees provided for under subsection (e).
+  `(e) At the request of the head of an Executive agency, the President may
+  authorize the application of subsections (a) through (c) with respect to
+  any category of employees within such agency who would not otherwise be
+  covered by this section.';
+  (20) in the heading for subchapter III of chapter 45 by striking `OFFICER'
+  and inserting `OFFICERS';
+  (21) by amending section 4521 to read as follows:
+`Sec. 4521. Definition
+  `For the purpose of this subchapter, the term `law enforcement officer'
+  means--
+  `(1) a law enforcement officer within the meaning of section 5541(3)
+  and to whom the provisions of chapter 51 apply;
+  `(2) a member of the United States Secret Service Uniformed Division;
+  `(3) a member of the United States Park Police;
+  `(4) a special agent in the Diplomatic Security Service;
+  `(5) a probation officer (referred to in section 3672 of title 18); and
+  `(6) a pretrial services officer (referred to in section 3153 of title 18).';
+  (22) in the table of sections for chapter 51 by striking the item relating
+  to section 5108 and inserting the following:
+`5108. Classification of positions above GS-15.';
+  (23) in section 5108(a)(2) by striking the semicolon at the end and
+  inserting a period;
+  (24) in the table of sections for chapter 53--
+  (A) in the item relating to section 5379 by striking `repayment.' and
+  inserting `repayments.'; and
+  (B) by striking `Sec.' immediately before the item relating to section 5391;
+  (25) in section 5302--
+  (A) in paragraph (1) by amending subparagraph (C) to read as follows:
+  `(C) chapter 74 of title 38, relating to the Veterans Health Administration
+  (other than a position subject to section 7451 of title 38);'; and
+  (B) in paragraph (8)--
+  (i) in subparagraph (A) by striking `and' at the end; and
+  (ii) by adding after subparagraph (B) the following:
+  `(C) in the case of an employee receiving a retained rate of basic pay
+  under section 5363, the rate of basic pay payable under such section; and';
+  (26) in section 5304--
+  (A) in subsection (a)(3)--
+  (i) by striking `Subject to paragraphs (4) and (5),' and inserting `Subject
+  to paragraph (4),', and by striking `a comparative payment' and inserting
+  `a comparability payment';
+  (ii) in subparagraph (H) by inserting `and' after the semicolon; and
+  (iii) in subparagraph (I) by striking the semicolon and inserting a period;
+  (B) in subsection (d)(1)(A) by inserting `(disregarding any described in
+  section 5302(8)(C))' after `General Schedule', and by striking `annual';
+  (C) in subsection (e)--
+  (i) in paragraph (1) by inserting after the second sentence the following:
+  `However, members under subparagraph (A) may be paid expenses in accordance
+  with section 5703.'; and
+  (ii) in paragraph (2)(A)(ii) by striking `annual survey' and inserting
+  `surveys of pay localities', and by striking `industries,' and inserting
+  `industries';
+  (D) in subsection (g) by amending paragraph (2) to read as follows:
+  `(2) The applicable maximum under this subsection shall be level III of
+  the Executive Schedule for--
+  `(A) positions under subparagraphs (A)-(E) of subsection (h)(1); and
+  `(B) any positions under subsection (h)(1)(F) which the President may
+  determine.';
+  (E) in subsection (h)--
+  (i) in paragraph (1)--
+  (I) by amending subparagraph (F) to read as follows:
+  `(F) a position within an Executive agency not covered under the General
+  Schedule or any of the preceding subparagraphs, the rate of basic pay
+  for which is (or, but for this section, would be) no more than the rate
+  payable for level IV of the Executive Schedule;';
+  (II) in clause (i) by striking `or' at the end;
+  (III) in clause (ii) by striking the period at the end and inserting `;
+  or'; and
+  (IV) by adding at the end the following:
+  `(iii) a position to which subchapter II applies (relating to the Executive
+  Schedule).';
+  (ii) in paragraph (2) by adding at the end the following:
+  `(C) Notwithstanding subsection (c)(4) or any other provision of law, but
+  subject to paragraph (3), in the case of a category with positions that are
+  in more than 1 Executive agency, the President may, on his own initiative,
+  provide that each employee who holds a position within such category,
+  and in the locality involved, shall be entitled to receive comparability
+  payments. No later than 30 days before an employee receives comparability
+  payments under this subparagraph, the President or the President's designee
+  shall submit a detailed report to the Congress justifying the reasons for
+  the extension, including consideration of recruitment and retention rates
+  and the expense of extending locality pay.'; and
+  (iii) in paragraph (3) by amending subparagraph (B) to read as follows:
+  `(B) shall take effect, within the locality involved, on the first day of the
+  first applicable pay period commencing on or after such date as the President
+  designates (except that no date may be designated which would require any
+  retroactive payments), and shall remain in effect through the last day of
+  the last applicable pay period commencing during that calendar year;';
+  (27) in section 5306(a)(1)(B) by striking `166b-3' and inserting `166b-3a';
+  (28) in section 5314 by striking each of the following: `Under Secretary
+  of Education.', `Under Secretary of Health and Human Services.', `Under
+  Secretary of the Interior.', and `Under Secretary of Housing and Urban
+  Development.';
+  (29) in section 5332 by amending subsection (a) to read as follows:
+  `(a)(1) The General Schedule, the symbol for which is `GS', is the basic pay
+  schedule for positions to which this subchapter applies. Each employee to
+  whom this subchapter applies, except an employee covered by the performance
+  management and recognition system established under chapter 54, is entitled
+  to basic pay in accordance with the General Schedule.
+  `(2) The General Schedule is a schedule of annual rates of basic pay,
+  consisting of 15 grades, designated `GS-1' through `GS-15', consecutively,
+  with 10 rates of pay for each such grade. The rates of pay of the General
+  Schedule are adjusted in accordance with section 5303.';
+  (30) in section 5347(g)--
+  (A) by striking `(g) Members' and inserting `(g)(1) Except as provided in
+  paragraph (2), members';
+  (B) by striking the second sentence; and
+  (C) by adding at the end the following:
+  `(2) The position of Chairman shall be considered to be a Senior Executive
+  Service position within the meaning of section 3132(a), and shall be
+  subject to all provisions of this title relating to Senior Executive
+  Service positions, including section 5383.';
+  (31) in section 5371(b)--
+  (A) by striking `chapter 73' and inserting `chapter 74'; and
+  (B) by inserting `subchapter V of chapter 55,' after `61,' each place
+  it appears;
+  (32) in section 5372(c) by striking `shall,' and inserting `shall';
+  (33) in section 5375(2) by striking `GS-8,' and inserting `GS-8';
+  (34) in section 5377--
+  (A) in subsection (a)(2)--
+  (i) in subparagraph (C) by striking `and' at the end;
+  (ii) in subparagraph (D) by striking the period at the end and inserting
+  a semicolon; and
+  (iii) by adding after subparagraph (D) the following:
+  `(E) a position established under section 3104; and
+  `(F) a position in a category as to which a designation is in effect under
+  subsection (i).'; and
+  (B) by adding at the end the following:
+  `(i)(1) For the purpose of this subsection, the term `position' means
+  the work, consisting of the duties and responsibilities, assignable to
+  an employee, except that such term does not include any position under
+  subsection (a)(2)(A)-(E).
+  `(2) At the request of an agency head, the President may designate 1 or
+  more categories of positions within such agency to be treated, for purposes
+  of this section, as positions within the meaning of subsection (a)(2).';
+  (35) in section 5383 by amending subsection (b) to read as follows:
+  `(b) Members of the Senior Executive Service shall be subject to the
+  limitation under section 5307.';
+  (36) in subchapter IX of chapter 53 by striking the matter after the
+  subchapter heading and before the heading for section 5391;
+  (37) in section 5401(1) by striking `(a)' and inserting `(A)', and by
+  striking `(b)' and inserting `(B)';
+  (38) in section 5403(d) by striking `section 5305' and inserting `section
+  5303';
+  (39) in section 5519 by striking `section 6323(c) or (d) of this title'
+  and inserting `section 6323 (b) or (c)';
+  (40) in section 5541--
+  (A) in paragraph (1) by striking `and' at the end;
+  (B) in paragraph (2) by striking the period at the end and inserting `;
+  and'; and
+  (C) by adding at the end the following:
+  `(3) `law enforcement officer' means an employee who--
+  `(A) is a law enforcement officer within the meaning of section 8331(20)
+  or 8401(17);
+  `(B) in the case of an employee who holds a supervisory or administrative
+  position and is subject to subchapter III of chapter 83, but who does not
+  qualify to be considered a law enforcement officer within the meaning
+  of section 8331(20), would so qualify if such employee had transferred
+  directly to such position after serving as a law enforcement officer within
+  the meaning of such section;
+  `(C) in the case of an employee who holds a supervisory or administrative
+  position and is subject to chapter 84, but who does not qualify to
+  be considered a law enforcement officer within the meaning of section
+  8401(17), would so qualify if such employee had transferred directly to
+  such position after performing duties described in section 8401(17) (A)
+  and (B) for at least 3 years; and
+  `(D) in the case of an employee who is not subject to subchapter III of
+  chapter 83 or chapter 84--
+  `(i) holds a position that the Office of Personnel Management determines
+  would satisfy subparagraph (A), (B), or (C) if the employee were subject
+  to subchapter III of chapter 83 or chapter 84; or
+  `(ii) is a special agent in the Diplomatic Security Service.';
+  (D) SENSE OF THE CONGRESS RELATING TO LAW ENFORCEMENT OFFICER PROVISIONS-
+  It is the sense of the Congress that--
+  (i) the provisions of section 5541(3) of title 5, United States Code
+  (as added by section 2(40)(C) of this Act)--
+  (I) are enacted only for the purposes of pay and not for the purposes
+  of retirement;
+  (II) do not reflect any intent of the Congress to change retirement
+  eligibility standards for law enforcement officers; and
+  (ii) law enforcement officers in primary positions have different retirement
+  eligibility standards than employees in supervisory or administrative
+  positions because of the different requirements in their responsibilities.
+  (41) in section 5542--
+  (A) in subsection (a)(4)--
+  (i) by striking `officer (within the meaning of section 8331(20) or
+  8401(17)),' and inserting `officer,'; and
+  (ii) by moving the indentation for the matter following subparagraph (B)
+  2 ems to the right; and
+  (B) in subsection (c) by amending the second sentence to read as follows:
+  `In the case of an employee who would, were it not for the preceding
+  sentence, be subject to this section, the Office of Personnel Management
+  shall by regulation prescribe what hours shall be deemed to be hours of
+  work and what hours of work shall be deemed to be overtime hours for the
+  purpose of such section 7 so as to ensure that no employee receives less
+  pay by reason of the preceding sentence.';
+  (42) in section 5544--
+  (A) in paragraphs (2) and (3) of subsection (a) by striking `2,080' each
+  place it appears and inserting `2,087';
+  (B) by amending the last two sentences of subsection (a) to read as follows:
+  `The first and third sentences of this subsection shall not be applicable
+  to an employee who is subject to the overtime pay provisions of section 7 of
+  the Fair Labor Standards Act of 1938. In the case of an employee who would,
+  were it not for the preceding sentence, be subject to the first and third
+  sentences of this subsection, the Office of Personnel Management shall by
+  regulation prescribe what hours shall be deemed to be hours of work and
+  what hours of work shall be deemed to be overtime hours for the purpose
+  of such section 7 so as to ensure that no employee receives less pay by
+  reason of the preceding sentence.'; and
+  (C) by adding at the end the following:
+  `(c) The provisions of this section, including the last two sentences of
+  subsection (a), shall apply to a prevailing rate employee described in
+  section 5342(a)(2)(B).';
+  (43) in section 5547(c) by striking paragraph (3);
+  (44)(A) by striking section 5550;
+  (B) in the table of sections for chapter 55 by striking the item relating
+  to section 5550;
+  (C) in section 5548(b) by striking `sections 5545(d) and 5550 of this
+  title.' and inserting `section 5545(d).';
+  (D) in section 6123(a)(1) by striking `5543(a)(1), 5544(a), and 5550'
+  and inserting `5543(a)(1) and section 5544(a)'; and
+  (E) in section 6128--
+  (i) in subsection (a) by striking `5542(a), 5544(a), and 5550(2)' and
+  inserting `5542(a) and 5544(a)'; and
+  (ii) in subsection (c) by striking `5544(a), 5546(a), or 5550(1)' and
+  inserting `5544(a) or 5546(a)';
+  (45)(A) in subchapter VI of chapter 55 by adding at the end the following:
+`Sec. 5553. Regulations
+  `The Office of Personnel Management may prescribe regulations necessary
+  for the administration of this subchapter.'; and
+  (B) in the table of sections for chapter 55 by adding after the item
+  relating to section 5552 the following:
+`5553. Regulations.';
+  (46) in the table of sections for chapter 57--
+  (A) by striking the item relating to section 5723 and inserting the
+  following:
+`5723. Travel and transportation expenses of new appointees and student
+trainees.';
+and
+  (B) by adding after the item relating to section 5754 the following:
+`5755. Supervisory differentials.';
+  (47) in the heading for section 5702 by striking `employee' and inserting
+  `employees';
+  (48) in section 5723--
+  (A) by amending the heading to read as follows:
+`Sec. 5723. Travel and transportation expenses of new appointees and student
+trainees';
+and
+  (B) by striking subsection (d) and redesignating subsection (e) as subsection
+  (d);
+  (49) in section 5724(a)(3)(A) by striking `Service;' and inserting `Service
+  or as a director under section 4103(a)(8) of title 38 (as in effect on
+  November 27, 1988);';
+  (50) in section 5901(a) by striking `5902).' each place it appears and
+  inserting `5902)';
+  (51) in section 5948--
+  (A) in the first sentence of subsection (a) by striking `provisions of
+  this section' and inserting `provisions of this section, section 5307,';
+  (B) in subsection (g)(1)--
+  (i) by amending subparagraph (D) to read as follows:
+  `(D) section 5371, relating to certain health care positions;';
+  (ii) by striking `or' at the end of subparagraph (H);
+  (iii) by striking `and' at the end of subparagraph (I); and
+  (iv) by inserting after subparagraph (I) the following:
+  `(J) section 5376, relating to certain senior-level positions;
+  `(K) section 5377, relating to critical positions; or
+  `(L) subchapter IX of chapter 53, relating to special occupational pay
+  systems; and';
+  (52) in section 6303(a) by amending the second sentence to read as follows:
+  `In determining years of service, an employee is entitled to credit for all
+  service of a type that would be creditable under section 8332, regardless
+  of whether or not the employee is covered by subchapter III of chapter 83.';
+  (53) in the second sentence of section 6304(e) by striking `date of'
+  and inserting `date';
+  (54) in section 7112 by redesignating subsection (a)(1) as subsection (a);
+  (55) in section 7113 by redesignating subsection (a)(1) as subsection (a);
+  (56) in section 7701(c)(1) by amending subparagraph (A) to read as follows:
+  `(A) in the case of an action based on unacceptable performance described in
+  section 4303 or a removal from the Senior Executive Service for failure to be
+  recertified under section 3393a, is supported by substantial evidence; or';
+  (57) in section 8331--
+  (A) in paragraph (1)--
+  (i) in subparagraph (L) by striking `section 8347(p)(1)' and inserting
+  `section 8347(q)(1)'; and
+  (ii) in clause (ii) by striking `section 8347(p)(2)' and inserting `section
+  8347(q)(2)'; and
+  (B) in paragraph (7) by striking `Gallaudet College,' and inserting
+  `Gallaudet University,';
+  (58) in the last sentence of section 8332(b) by striking `paragrpah (16)'
+  and inserting `paragraph (16)';
+  (59) in section 8334(i) by redesignating the second paragraph (5) as
+  paragraph (6);
+  (60) in section 8335(b) by amending the first sentence to read as follows:
+  `A firefighter who is otherwise eligible for immediate retirement under
+  section 8336(c) shall be separated from the service on the last day of
+  the month in which such firefighter becomes 55 years of age or completes
+  20 years of service if then over that age.';
+  (61) in the second sentence of section 8337(a) by striking `if the employee
+  if' and inserting `if the employee is';
+  (62) in section 8339 by redesignating the second subsection (o) as subsection
+  (p);
+  (63) in section 8341 in subsections (b)(1) and (d) by striking `(o),'
+  and inserting `(p),';
+  (64) in section 8347--
+  (A) by redesignating the second subsection (p) as subsection (q); and
+  (B) in paragraphs (1) and (2) of subsection (q) (as so redesignated)
+  by amending subparagraph (A) of each to read as follows:
+  `(A) has not previously made an election under this subsection or had an
+  opportunity to make an election under this paragraph;';
+  (65) in section 8421(a)(2) by adding a period at the end;
+  (66) in section 8423(a)(1)(B)(i) by striking `multipled' and inserting
+  `multiplied';
+  (67) in section 8425(b)--
+  (A) by amending the first sentence to read as follows: `A member of the
+  Capitol Police or firefighter who is otherwise eligible for immediate
+  retirement under section 8412(d) shall be separated from the service on
+  the last day of the month in which such member or firefighter becomes 55
+  years of age or completes 20 years of service if then over that age.'; and
+  (B) in the second sentence by striking `become' and inserting `becomes';
+  (68) in section 8438(a)(7)(B) by striking `Federal Savings and Loan Insurance
+  Corporation,' and inserting `Federal Deposit Insurance Corporation,';
+  (69) in section 8440(a)(3) by inserting `section 401(k)(4)(B) of such Code
+  and' after `subject to';
+  (70) in section 8440a(b)(1) by striking `subchapters III and VII of chapter
+  84 of this title' and inserting `this subchapter and subchapter VII';
+  (71) in section 8461(n)--
+  (A) in paragraphs (1) and (2) by amending subparagraph (A) of each to read
+  as follows:
+  `(A) has not previously made an election under this subsection or had an
+  opportunity to make an election under this paragraph;'; and
+  (B) in paragraph (2)(D) by striking `section 8347(p)' and inserting
+  `section 8347(q)';
+  (72) in section 8478(a)(2)(B)(iii) by striking `Corporation or the Federal
+  Savings and Loan Insurance';
+  (73) in the analysis for chapter 85 by adding after the item relating to
+  section 8508 the following:
+`8509. Federal Employees Compensation Account.';
+  (74) in section 8706 by redesignating subsection (g) as subsection (f);
+  (75) in section 8901--
+  (A) in paragraph (3)(A)(iv) by striking `section 8347(p)(2)' and inserting
+  `section 8347(q)(2)'; and
+  (B) in paragraph (10)(C)(ii) by inserting a comma after `section 8341(h)';
+  (76) in section 8904(a) by striking `this section' each place it appears
+  and inserting `this subsection';
+  (77) in section 8905--
+  (A) in subsection (b) by striking `this subchapter.' and inserting `this
+  chapter'; and
+  (B) in subsection (c)(1) by inserting a comma after `8341(h)'; and
+  (78) in section 8906--
+  (A) in subsection (b)(3) by inserting a period after `Office)'; and
+  (B) in subsection (c) by striking `and except' and inserting `and (except'.
+SEC. 3. AMENDMENTS TO THE FEDERAL EMPLOYEES PAY COMPARABILITY ACT OF 1990.
+  The Federal Employees Pay Comparability Act of 1990, as contained in the
+  Treasury, Postal Service and General Government Appropriations Act, 1991
+  (Public Law 101-509; 104 Stat. 1427), is amended--
+  (1) in each of paragraphs (1) and (2) of section 109(b) (104 Stat. 1451)
+  by striking `section 5305' and inserting `section 5303';
+  (2) in section 203 (104 Stat. 1456) by striking `5545(D)' and inserting
+  `5545(d)';
+  (3) in section 209(a) (104 Stat. 1460)--
+  (A) by striking `or' at the end of paragraph (1);
+  (B) by striking the period at the end of paragraph (2) and inserting `;
+  or'; and
+  (C) by inserting at the end the following:
+  `(3) any combination of classes of positions described in paragraph (1)
+  or (2) for which the President determines a recruiting difficulty exists.';
+  (4) in section 302 (104 Stat. 1462)--
+  (A) by striking `(A) DEFINITIONS- ' and inserting `(a) DEFINITIONS- ';
+  (B) by redesignating subsection (c) as subsection (d);
+  (C) by redesignating subsections (d) and (e) as subsections (e) and (f),
+  respectively; and
+  (D) by amending subsection (e) (as so redesignated) by striking `Code,'
+  and all that follows through the period and inserting the following: `Code
+  (as in effect before the date of enactment of this Act), section 5305
+  of title 5, United States Code (as amended by section 101 of this Act),
+  or any similar provision of law.';
+  (5) in section 402 (104 Stat. 1465) by striking `section 8331(20) or
+  section 8401(17)' and inserting `section 5541(3)';
+  (6) in section 403(d) (104 Stat. 1465) by striking `section 303' and
+  inserting `section 209';
+  (7) in section 404(a) (104 Stat. 1466) by striking `and any applicable
+  special rate of pay under section 5305 of such title, as so amended, or
+  any similar provision of law.' and inserting `and, to the extent determined
+  appropriate by the Office of Personnel Management, any applicable special
+  rate of pay under section 5305 of such title, as so amended, or any similar
+  provision of law (other than section 403).';
+  (8) in section 404(b) (104 Stat. 1466)--
+  (A) by striking `(b) Except' and inserting `(b)(1) Except';
+  (B) by striking `Trention' and inserting `Trenton'; and
+  (C) by adding at the end the following:
+  `(2) In the case of any area specified in paragraph (1) that includes
+  a portion, but not all, of a county, the Office of Personnel Management
+  may, at the request of the head of 1 or more law enforcement agencies,
+  extend the area specified in paragraph (1) to include, for the purposes
+  of this section, the entire county, if the Office determines that such
+  extension would be in the interests of good personnel administration. Any
+  such extension shall be applicable to each law enforcement officer whose
+  post of duty is in the area of the extension.'; and
+  (9) in section 405(a) (104 Stat. 1466) by striking `403 and 404' and
+  inserting `403, 404, and 407'.
+SEC. 4. AMENDMENTS RELATING TO THE ETHICS IN GOVERNMENT ACT OF 1978.
+  (a) AMENDMENTS TO TITLE I OF THE ACT- Title I of the Ethics in Government
+  Act of 1978 (5 U.S.C. App.) is amended--
+  (1) in section 101(f)--
+  (A) in paragraph (3) by striking `whose position' and all that follows
+  through `for GS-16' and inserting `who occupies a position classified above
+  GS-15 of the General Schedule or, in the case of positions not under the
+  General Schedule, for which the rate of basic pay is equal to or greater
+  than 120 percent of the minimum rate of basic pay payable for GS-15 of
+  the General Schedule';
+  (B) in paragraph (6) by striking `whose basic rate of pay' and all that
+  follows through `GS-16' and inserting `who occupies a position for which
+  the rate of basic pay is equal to or greater than 120 percent of the
+  minimum rate of basic pay payable for GS-15 of the General Schedule';
+  (2) in section 109--
+  (A) in paragraph (8) by striking `who is paid' and all that follows through
+  `Schedule' and inserting `who occupies a position for which the rate of
+  basic pay is equal to or greater than 120 percent of the minimum rate of
+  basic pay payable for GS-15 of the General Schedule';
+  (B) in paragraph (13)(B)(i) by striking `who is compensated' and all
+  that follows through `Schedule' and inserting `who, for at least 60 days,
+  occupies a position for which the rate of basic pay is equal to or greater
+  than 120 percent of the minimum rate of basic pay payable for GS-15 of
+  the General Schedule'; and
+  (C) in paragraph (13)(B)(ii) by striking `compensated' and all that follows
+  through `Schedule' and inserting `who occupies a position for which the
+  rate of basic pay is equal to or greater than 120 percent of the minimum
+  rate of basic pay payable for GS-15 of the General Schedule'.
+  (b) AMENDMENTS TO TITLE V- Title V of the Ethics in Government Act of 1978
+  (5 U.S.C. App.) is amended--
+  (1) in section 501(a)(1) by striking `whose rate of basic pay is equal to or
+  greater than the annual rate of basic pay in effect for grade GS-16 of the
+  General Schedule under section 5332 of title 5, United States Code,' and
+  inserting `who occupies a position classified above GS-15 of the General
+  Schedule or, in the case of positions not under the General Schedule,
+  for which the rate of basic pay is equal to or greater than 120 percent
+  of the minimum rate of basic pay payable for GS-15 of the General Schedule,';
+  (2) in section 501(a)(2) by striking `who becomes a Member or an officer
+  or employee who is a noncareer officer or employee and whose rate of
+  basic pay is equal to or greater than the annual rate of basic pay in
+  effect for grade GS-16 of the General Schedule during a calendar year,'
+  and inserting `who during a calendar year becomes a Member or an officer
+  or employee who is a noncareer officer or employee and who occupies a
+  position classified above GS-15 of the General Schedule or, in the case
+  of positions not under the General Schedule, for which the rate of basic
+  pay is equal to or greater than 120 percent of the minimum rate of basic
+  pay payable for GS-15 of the General Schedule,'; and
+  (3) in section 502(a) by striking `whose rate of basic pay is equal to or
+  greater than the annual rate of basic pay in effect for grade GS-16 of the
+  General Schedule' and inserting `who occupies a position classified above
+  GS-15 of the General Schedule or, in the case of positions not under the
+  General Schedule, for which the rate of basic pay is equal to or greater
+  than 120 percent of the minimum rate of basic pay payable for GS-15 of
+  the General Schedule'.
+  (c) AMENDMENTS TO GIFT PROVISIONS- Section 314(g) of the Legislative Branch
+  Appropriations Act, 1992 (Public Law 102-90; 105 Stat. 470) is amended to
+  read as follows:
+  `(g)(1) The amendments made by subsections (b) through (f) shall take
+  effect on January 1, 1992.
+  `(2) The amendment made by subsection (a) shall take effect on January
+  1, 1993.'.
+SEC. 5. AMENDMENTS TO OTHER PROVISIONS OF LAW.
+  (a) OMNIBUS BUDGET RECONCILIATION ACT OF 1990- The Omnibus Budget
+  Reconciliation Act of 1990 (Public Law 101-508; 104 Stat. 1388) is amended--
+  (1) in section 7101(c)(2) (104 Stat. 1388-332) by striking `took effect,
+  subject to section 7104.' and inserting `took effect.'; and
+  (2) in section 7202(n) (104 Stat. 1388-340)--
+  (A) in paragraph (2) by striking `section 8347(p)(1)' each place it appears
+  and inserting `section 8347(q)(1)'; and
+  (B) in paragraph (4) by striking `section 8347(p)(2)' and inserting
+  `section 8347(q)(2)'.
+  (b) FEDERAL PAY COMPARABILITY ACT OF 1970- Section 5(a) of the Federal
+  Pay Comparability Act of 1970 (2 U.S.C. 60a-2(a)) is amended by inserting
+  `of title 5, United States Code,' after `Whenever an adjustment under
+  section 5303'.
+  (c) PUBLIC LAW 100-446- Section 8(c)(2) of Public Law 100-446 (2
+  U.S.C. 178g(c)(2); 102 Stat. 1786) is amended by striking the second
+  sentence.
+  (d) PUBLIC LAW 102-198- Section 7(c)(4) of Public Law 102-198 (105
+  Stat. 1625) is amended--
+  (1) in subparagraph (A) by striking `2440d' and inserting `8440d'; and
+  (2) in subparagraph (B) by striking `subchapter III of'.
+  (e) PUBLIC LAW 102-233- Section 21A(b)(9)(B)(i) of the Federal Home Loan
+  Bank Act (12 U.S.C. 1441a(b)(9)(B)(i)), as amended by section 201 of the
+  Resolution Trust Corporation Refinancing, Restructuring, and Improvement
+  Act of 1991 (Public Law 102-233; 105 Stat. 1765), is amended by striking
+  the last 3 sentences.
+SEC. 6. RESTORATION OF COVERAGE OF CERTAIN FEDERAL PERSONNEL PROVISIONS TO
+CERTAIN VETERANS HEALTH ADMINISTRATION EMPLOYEES.
+  (a) IN GENERAL- Section 7511(b) of title 5, United States Code, is amended--
+  (1) by amending paragraph (7) to read as follows:
+  `(7) whose position is within the Central Intelligence Agency or the
+  General Accounting Office;';
+  (2) in paragraph (8) by striking `or' after the semicolon;
+  (3) in paragraph (9) by striking `title.' and inserting `title; or'; and
+  (4) by adding at the end the following:
+  `(10) who holds a position within the Veterans Health Administration which
+  has been excluded from the competitive service by or under a provision
+  of title 38, unless such employee was appointed to such position under
+  section 7401(3) of such title.'.
+  (b) APPLICABILITY- (1) The amendments made by subsection (a) shall apply
+  with respect to any personnel action taking effect on or after the date
+  of enactment of this Act.
+  (2) In the case of an employee or former employee of the Veterans Health
+  Administration (or predecessor agency in name)--
+  (A) against whom an adverse personnel action was taken before the date of
+  enactment of this Act,
+  (B) who, as a result of the enactment of the Civil Service Due Process
+  Amendments (5 U.S.C. 7501 note), became ineligible to appeal such action
+  to the Merit Systems Protection Board,
+  (C) as to whom that appeal right is restored as a result of the enactment of
+  subsection (a), or would have been restored but for the passage of time, and
+  (D) who is not precluded, by section 7121(e)(1) of title 5, United States
+  Code, from appealing to the Merit Systems Protection Board,
+the deadline for bringing an appeal under section 7513(d) or section 4303(e)
+of such title with respect to such action shall be the latter of--
+  (i) the 60th day after the date of enactment of this Act; or
+  (ii) the deadline which would otherwise apply if this paragraph had not
+  been enacted.
+SEC. 7. RETROACTIVE PERFORMANCE AWARDS.
+  (a) IN GENERAL- Section 7(b) of the Thrift Savings Plan Technical Amendments
+  Act of 1990 (5 U.S.C. 3392 note; Public Law 101-335) is amended by adding
+  at the end thereof the following new paragraph:
+  `(3) RETROACTIVE PERFORMANCE AWARDS- If an individual elects under
+  paragraph (2) to continue to be subject to performance awards, the head
+  of the agency in which such individual is serving shall determine whether
+  to grant retroactive performance awards for any fiscal years prior to
+  fiscal year 1991 to such individual, and the amount of any such awards,
+  without regard to the provisions of subsection (b) of section 5383 of
+  title 5, United States Code, and subsections (b) and (c) of section 5384
+  of such title. Before granting an award, the head of the agency shall
+  make a written determination that the individual's performance during the
+  fiscal year for which the award is given was at least fully successful,
+  and shall consider the recommendation of the agency's performance review
+  board with respect to the award. No such award for performance during any
+  fiscal year may be less than 5 percent nor more than 15 percent of the
+  individual's rate of basic pay as of the end of such fiscal year.'.
+  (b) EFFECTIVE DATE- The amendment made by subsection (a) shall be effective
+  as if enacted as a part of section 7 of the Thrift Savings Plan Technical
+  Amendments Act of 1990.
+SEC. 8. MISCELLANEOUS PROVISIONS.
+  (a) ELIMINATION OF DUPLICATIVE AMENDMENTS MADE BY THE DEFENSE ACQUISITION
+  WORKFORCE IMPROVEMENT ACT- Subsections (i) and (j) of section 1206 of the
+  Defense Acquisition Workforce Improvement Act, as contained in the National
+  Defense Authorization Act for Fiscal Year 1991 (Public Law 101-510; 104
+  Stat. 1662, 1663), are repealed, and title 5, United States Code, shall
+  read as if such subsections had not been enacted.
+  (b) PROVISIONS RELATING TO COMPARABILITY PAYMENTS IN 1994 AND 1995-
+  Notwithstanding section 5304 of title 5, United States Code, for purposes
+  of any comparability payments scheduled to take effect under such section
+  during calendar years 1994 and 1995, respectively--
+  (1) the report required by subsection (d)(1) of such section may be
+  submitted not later than 1 month before the start of the calendar year
+  for purposes of which it is prepared; and
+  (2) the surveys conducted by the Bureau of Labor Statistics for use in
+  preparing any such report may be other than annual surveys, and shall,
+  to the greatest extent practicable, be completed not later than 4 months
+  before the start of the calendar year for purposes of which the surveys
+  are conducted.
+SEC. 9. EFFECTIVE DATES.
+  (a) IN GENERAL- Except as otherwise provided in this section, this Act
+  and the amendments made by this Act shall take effect as of the date of
+  enactment of this Act.
+  (b) EXCEPTIONS- (1) The amendment made by section 4(c) shall be effective
+  as of December 31, 1991.
+  (2) The amendments made by section 5(d) shall be effective as of December
+  9, 1991.
+  (3) The amendments made by sections 2(13) and 2(17) shall be effective as
+  of October 1, 1991.
+  (4) The amendments made by sections 2(11), 2(19), 2(29), and 2(38) shall
+  be effective as of May 4, 1991.
+  (5) The amendments made by section 2(25) shall be effective as of February
+  3, 1991.
+  (6) The provisions of section 8(a) and the amendments made by sections
+  2(57)(A), 2(60), 2(64), 2(67), 2(71), 2(75)(A), 3(1), 3(4), 3(6), and 5(a)
+  shall be effective as of November 5, 1990.
+  (7) The amendment made by section 2(52) shall be effective as of January
+  1, 1989, except that no amount shall become payable, as a result of the
+  enactment of such amendment, under--
+  (A) subchapter VI of chapter 55 of title 5, United States Code, based on
+  a separation that takes effect or an election that is made before the date
+  of enactment of this Act; or
+  (B) section 5551(b) of title 5, United States Code, which is attributable
+  to an individual's being excepted from subchapter I of chapter 63 of such
+  title before the date of enactment of this Act.
+  (8) The amendment made by section 2(69) shall be effective as of November
+  10, 1988.
+  (9) The amendments made by sections 2(40), 2(41), 2(42), 2(43), and 3(5)
+  shall be effective as of the first day of the first applicable pay period
+  beginning on or after the date of enactment of this Act.
+  (10) The amendments made by section 2(28) shall be effective as of the
+  first day of the first applicable pay period beginning on or after November
+  5, 1990.
+  (11) The amendment made by section 2(49) shall apply with respect to a
+  separation that takes effect on or after the date of enactment of this Act.
+  (12) The amendment made by section 5(e) shall apply with respect to any
+  action (described in subclause (I) or (II) of the provisions struck by
+  such amendment) occurring on or after the date of enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

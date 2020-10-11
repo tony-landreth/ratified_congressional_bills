@@ -1,0 +1,1099 @@
+ 
+--H.R.1989--
+H.R.1989
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To authorize appropriations for the National Institute of Standards and
+Technology and the Technology Administration of the Department of Commerce,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `American Technology Preeminence Act of 1991'.
+SEC. 2. DEFINITIONS.
+ As used in this Act--
+ (1) the term `high-resolution information systems' means equipment and
+ techniques required to create, store, recover, and play back high-resolution
+ images and accompanying sound;
+ (2) the term `advanced manufacturing technology' means numerically-controlled
+ machine tools, robots, automated process control equipment, computerized
+ flexible manufacturing systems, associated computer software, and other
+ technology for improving manufacturing and industrial processes;
+ (3) the term `advanced materials' means a field of research including the
+ study of composites, ceramics, metals, polymers, superconducting materials,
+ materials produced through biotechnology, and materials production
+ technologies, including coated systems, that provide the potential for
+ significant advantages over existing materials;
+ (4) the term `Institute' means the National Institute of Standards and
+ Technology;
+ (5) the term `Secretary' means the Secretary of Commerce; and
+ (6) the term `Under Secretary' means the Under Secretary of Commerce for
+ Technology.
+TITLE I--DEPARTMENT OF COMMERCE RESEARCH AND TECHNOLOGY
+SEC. 101. SHORT TITLE.
+ This title may be cited as the `Technology Administration Authorization
+ Act of 1991'.
+SEC. 102. STATEMENT OF POLICY.
+ Congress finds that in order to help United States industries to speed the
+ development of new products and processes so as to maintain the economic
+ competitiveness of the Nation, it is necessary to strengthen the programs
+ and activities of the Department of Commerce's Technology Administration
+ and National Institute of Standards and Technology.
+SEC. 103. TECHNOLOGY ADMINISTRATION.
+ (a) FISCAL YEAR 1992- (1) There are authorized to be appropriated to
+ the Secretary, to carry out the activities of the Under Secretary and the
+ Assistant Secretary for Technology Policy, $10,000,000 for fiscal year 1992,
+ which shall be available for the following line items:
+ (A) Office of the Under Secretary, $2,000,000.
+ (B) Technology Policy, $4,000,000.
+ (C) Japanese Technical Literature, $1,500,000.
+ (D) Clearinghouse on State and Local Initiatives on Productivity, Technology,
+ and Innovation, $1,000,000.
+ (E) National Technical Information Service, $1,500,000 to carry out the
+ modernization plan described in section 212(f)(3)(D) of the National
+ Technical Information Act of 1988 (15 U.S.C. 3704b(f)(3)(D)).
+ (2) Funds may be transferred among the line items listed in paragraph (1),
+ so long as the net funds transferred to or from any line item do not exceed
+ 10 percent of the amount authorized for that line item in such paragraph and
+ the Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ are notified in advance of any such transfer.
+ (b) FISCAL YEAR 1993- (1) There are authorized to be appropriated to
+ the Secretary, to carry out the activities of the Under Secretary and the
+ Assistant Secretary for Technology Policy, $10,000,000 for fiscal year 1993,
+ which shall be available for the following line items:
+ (A) Office of the Under Secretary, $2,000,000.
+ (B) Technology Policy, $4,000,000.
+ (C) Japanese Technical Literature, $1,500,000.
+ (D) Clearinghouse on State and Local Initiatives on Productivity, Technology,
+ and Innovation, $1,000,000.
+ (E) National Technical Information Service, $1,500,000 to carry out the
+ modernization plan described in section 212(f)(3)(D) of the National
+ Technical Information Act of 1988 (15 U.S.C. 3704b(f)(3)(D)).
+ (2) Funds may be transferred among the line items listed in paragraph (1),
+ so long as the net funds transferred to or from any line item do not exceed
+ 10 percent of the amount authorized for that line item in such paragraph and
+ the Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ are notified in advance of any such transfer.
+ (c) OPERATING COSTS- Operating costs for the National Technical Information
+ Service associated with the acquisition, processing, storage, bibliographic
+ control, and archiving of information and documents shall be recovered
+ primarily through the collection of fees.
+ (d) REPORT AND CERTIFICATION TO CONGRESS- Within 90 days after the date of
+ enactment of this Act, the Secretary shall submit to Congress a report which--
+ (1) describes the Department of Commerce's response to the Inspector
+ General's Report No. ATD-024-0-001;
+ (2) includes a revised detailed modernization plan for the National Technical
+ Information Service;
+ (3) contains a business plan for the National Technical Information Service
+ which includes detailed profit and loss analysis  for groups of products
+ and services and for major market segments; and
+ (4) certifies that the National Technical Information Service has--
+ (A) employed a chief financial officer who is a certified public accountant
+ or equivalently experienced accountant with experience in the dissemination
+ of scientific and technical information; and
+ (B) begun taking reasonable steps toward strengthening its accounting system
+ in response to the Inspector General's report described in paragraph (1).
+ (e) TECHNICAL AMENDMENT- Section 5422(a) of the Omnibus Trade and
+ Competitiveness Act of 1988 (15 U.S.C. 4603a(a)) and section 273(c)(4)
+ of the National Defense Authorization Act for Fiscal Years 1988 and 1989
+ (15 U.S.C. 4603(c)(4)) are each amended by striking `Economic Affairs'
+ and inserting  in lieu thereof `Technology'.
+SEC. 104. NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY.
+ (a) FISCAL YEAR 1992- (1) There are authorized to be appropriated to the
+ Secretary, to carry out the intramural scientific and technical research
+ and services activities of the Institute, $210,000,000 for fiscal year 1992,
+ which shall be available for the following line items:
+ (A)Electronics and Electrical Measurements, $33,700,000.
+ (B) Manufacturing Engineering, $13,500,000.
+ (C) Chemical Science and Technology, $22,000,000.
+ (D) Physics, $27,000,000.
+ (E) Materials  Science and Engineering, $30,000,000.
+ (F) Building and Fire Research, $12,300,000.
+ (G) Computer Systems, $16,000,000.
+ (H)Applied Mathematics and Scientific Computing, $6,500,000.
+ (I) Technology Assistance, $11,000,000.
+ (J) Research Support Activities, $38,000,000.
+ (2)(A) Of the total of the amounts authorized under paragraph (1), $2,000,000
+ are authorized only for steel technology.
+ (B) Of the amount authorized under paragraph (1)(I)--
+ (i) $500,000 are authorized only for the evaluation of nonenergy-related
+ inventions and related technology extension activities;
+ (ii) $250,000 are authorized only for Institute participation in the pilot
+ program established under subsection (e); and
+ (iii) $2,700,000 are authorized only for the Institute's management of the
+ extramural funding programs authorized under section 105.
+ (C) Of the total amount authorized  under paragraph (1)(J), $7,565,000 are
+ authorized  only for the technical competence fund.
+ (b) FISCAL YEAR 1993- (1) There are authorized to be appropriated  to the
+ Secretary, to carry out the intramural scientific  and technical research
+ and services activities of the Institute, $221,200,000 for fiscal year 1993,
+ which shall be available for the following line items:
+ (A)Electronics and Electrical Measurements, $36,000,000.
+ (B) Manufacturing Engineering, $16,000,000.
+ (C) Chemical Science and Technology, $22,500,000.
+ (D) Physics, $28,700,000.
+ (E) Materials Science and Engineering, $39,400,000.
+ (F) Building and Fire Research, $12,000,000.
+ (G) Computer Systems, $20,600,000.
+ (H)Applied Mathematics and Scientific Computing, $6,300,000.
+ (I) Technology Assistance, $10,800,000.
+ (J) Research Support Activities, $25,000,000.
+ (K) Pay Raise, $3,900,000.
+ (2)(A) Of the total of the amounts authorized under paragraph (1), $2,000,000
+ are authorized only for steel technology.
+ (B) Of the amount authorized under paragraph (1)(I)--
+ (i) $500,000 are authorized only for the evaluation of nonenergy-related
+ inventions and related technology extension activities;
+ (ii) $250,000 are authorized only for Institute participation in the pilot
+ program established under subsection (e); and
+ (iii) $5,000,000 are authorized only for the Institute's management of the
+ extramural funding programs authorized under section 105.
+ (C) Of the total amount authorized under paragraph (1)(J), $7,223,000 are
+ authorized only for the technical competence fund.
+ (3) In addition to the amounts authorized under paragraph (1), there
+ are authorized to be appropriated to the Secretary for fiscal year 1993
+ $34,800,000 for the renovation and upgrading of the Institute's facilities.
+ (c) TRANSFERS- (1) Funds may be transferred among the line items listed in
+ subsection (a)(1) and among the line items listed in subsection (b)(1), so
+ long as the net funds transferred to or from any line item do not exceed 10
+ percent of the amount authorized for that line item in such subsection and
+ the Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ are notified in advance of any such transfer.
+ (2) The Secretary may propose transfers to or from any line item listed in
+ subsection (a)(1) or subsection (b)(1) exceeding 10 percent of the amount
+ authorized for such line item, but such proposed transfer may not be made
+ unless--
+ (A) a full and complete explanation of any such proposed transfer and the
+ reason therefor are transmitted in writing to the Speaker of the House of
+ Representatives, the President of the Senate, and the appropriate authorizing
+ Committees of the House of Representatives and the Senate, and
+ (B) 30 calendar days have passed following the transmission of such written
+ explanation.
+ (d) RELATION TO OTHER AUTHORIZATIONS- Except for authorizations provided in
+ the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100-418; 102
+ Stat. 1448), the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701
+ et seq.), and the Steel and Aluminum Energy Conservation and Technology
+ Competitiveness Act of 1988 (15 U.S.C. 5101 et seq.), this Act contains
+ the complete authorizations of appropriations for the Institute for fiscal
+ years 1992 and 1993. This subsection shall not limit the authority of the
+ Institute to accept funds appropriated to any other Federal agency or to
+ perform work for others.
+ (e) PILOT PROGRAM- Pursuant to the authorizations contained in subsections
+ (a)(1)(I) and (b)(1)(I), the Secretary is authorized to pay the Federal
+ share of the cost of establishing and carrying out a standards assistance
+ pilot program under section 112 of the National Institute of Standards and
+ Technology Authorization Act for Fiscal Year 1989 (15 U.S.C. 272 note). The
+ purpose of the pilot program is to assist a country or countries that
+ have requested assistance from the United States in the development of
+ comprehensive industrial standards by providing the continuous presence of
+ United States personnel on-site for a period of 2 or more years to provide
+ such assistance and by providing, as necessary, additional technical support
+ from within the Institute. Such funds shall be made available for such purpose
+ only to the extent that matching funds are received by the National Institute
+ of Standards and Technology from sources outside the Federal Government.
+ (f) CONSTRUCTION OF FACILITIES- Section 14 of the National Institute
+ of Standards and Technology Act (15 U.S.C. 278d) is amended by striking
+ `herein:' and all that follows, and inserting in lieu thereof `herein.'.
+ (g) FIRE AND BUILDING PROGRAMS- The fire research and building technology
+ programs of the Institute may be combined for administrative purposes only,
+ and separate budget accounts for fire research and building technology shall
+ be maintained. No later than December 31, 1992, the Secretary, acting through
+ the Director of the Institute, shall report to Congress on the results of the
+ combination, on efforts to preserve the integrity of the  fire research and
+ building technology programs, on the long-range basic and applied research
+ plans of the two programs, on procedures for receiving advice on fire and
+ earthquake research priorities from constituencies concerned with public
+ safety, and on the relation between the combined program at the Institute
+ and the United States Fire Administration.
+ (h) EDUCATIONAL PROGRAMS- (1) Section 18 of the National Institute  of
+ Standards and Technology Act (15 U.S.C. 278g-1) is amended by striking the
+ period at the end of the first sentence and   inserting in lieu thereof
+ `, and to United States citizens for research and technical activities on
+ Institute  programs.'.
+ (2) Section 17 of the National Institute  of Standards and Technology Act
+ (15 U.S.C. 278g) is amended by adding at the end the following new subsection:
+ `(d) For any scientific and engineering disciplines for which there is a
+ shortage of suitably qualified and available  United States citizens and
+ nationals, the Secretary is authorized to recruit and employ in scientific
+ and engineering fields at the Institute  foreign nationals who have been
+ lawfully admitted to the United States for permanent residence under the
+ Immigration and Nationality Act and who intend to become United States
+ citizens. Employment of a person under this paragraph shall not be subject
+ to the provisions of title 5, United States Code, governing employment in
+ the competitive service, or to any prohibition in any other Act against
+ the employment of aliens, or against the payment of compensation to them.'.
+ (i) CORE PROGRAM FUNDING- It is the sense of the Congress that the intramural
+ scientific and technical research and services activities of the  National
+ Institute  of Standards and Technology should share fully in any funding
+ increases provided to the Institute.
+SEC. 105. EXTRAMURAL PROGRAMS OF THE INSTITUTE.
+ (a) FISCAL YEAR 1992- In addition to any sums otherwise authorized under
+ this Act, there are authorized to be appropriated to the Secretary, to
+ carry out the extramural industrial technology services programs of the
+ Institute  created under sections 25, 26, and 28 of the   National Institute
+ of Standards and Technology Act (15 U.S.C. 278k, 278l, and 278n), $127,500,000
+ for fiscal year 1992, which  shall be available for the following line items:
+ (1) Regional Centers for the Transfer of Manufacturing Technology,
+ $25,000,000.
+ (2) State Technology Extension Program, $2,500,000.
+ (3) Advanced Technology Program, $100,000,000.
+ (b) FISCAL YEAR 1993- In addition to any sums otherwise authorized under
+ this Act, there are authorized to be appropriated to the Secretary, to carry
+ out the extramural industrial technology services programs of the Institute
+ created under sections 25, 26, and 28 of the  National Institute  of Standards
+ and Technology Act (15 U.S.C. 278k, 278l, and 278n), $127,500,000 for fiscal
+ year 1993, which shall be available for the following line items:
+ (1) Regional Centers for the Transfer of Manufacturing Technology and
+ Satellite Manufacturing Centers, $25,000,000.
+ (2) State Technology Extension Program, $2,500,000.
+ (3) Advanced Technology Program, $100,000,000.
+ (c) LIMITATION- No funds are authorized under this section for any
+ project under the extramural programs of the Institute which have not been
+ competitively reviewed through the merit review processes required by the
+ National Institute  of Standards and Technology Act (15 U.S.C. 271 et seq.).
+ (d) AMENDMENTS TO EXTENSION PROGRAM- Section 5121(b) of the Omnibus Trade
+ and Competitiveness Act of 1988 (15 U.S.C. 278l note) is amended by striking
+ paragraph (5).
+ (e) AMENDMENTS TO EXTENSION ACTIVITIES- (1) Section 25(c)(6) of the
+ National Institute of Standards and Technology Act (15 U.S.C. 278k(c)(6))
+ is amended by inserting before the period at the end the following: `except
+ for contracts for such specific technology extension or transfer services
+ as may be specified by statute or by the Director'.
+ (2) Section 25(d) of the National Institute of Standards and Technology Act
+ (15 U.S.C. 278k(d)) is amended to read as follows:
+ `(d) In addition to such sums as may be authorized and appropriated to the
+ Secretary and Director to operate the Centers program, the Secretary and
+ Director also may accept funds from other Federal departments and agencies
+ for the purpose of providing Federal funds to support Centers. Any Center
+ which is supported with funds which originally came from other Federal
+ departments and agencies shall be selected and operated according to the
+ provisions of this section.'.
+ (f) ADVISORY COMMITTEE- Section 5142(f) of the Omnibus Trade and
+ Competitiveness Act of 1988 (15 U.S.C. 4632(f)) is amended by striking
+ `and 1990' and inserting in lieu thereof `1990, 1991, 1992, and 1993'.
+SEC. 106. SALARY ADJUSTMENTS.
+ In addition to any sums otherwise authorized by this Act, there are authorized
+ to be appropriated to the Secretary for fiscal years 1992 and 1993 such
+ additional sums as may be necessary to make any adjustments in salary, pay,
+ retirement and other employee benefits which may be provided for by law.
+SEC. 107. METRIC AMENDMENT.
+ (a) The Fair Packaging and Labeling Act (15 U.S.C. 1451 et seq.) is amended--
+ (1) in sections 4(a) (2), (4), and (5), 4(b), and 5(c)(1), by striking
+ `weight' and inserting in lieu thereof `weight or mass';
+ (2) in sections 4(a)(5) and 5(d), by striking `weights' and inserting in
+ lieu thereof `weights or masses';
+ (3) in section 4(a)(2), by inserting `, using the most appropriate units
+ of the SI metric system as the primary system for measuring quantity' after
+ `panel of that label'; and
+ (4) in section 4(a)(3)(A)--
+ (A) by striking `containing' and inserting in lieu thereof `that also
+ displays the avoirdupois system of measure, and that contains' in clause (i);
+ (B) by inserting `that also displays the avoirdupois system of measure'
+ after `random package' in clause (ii);
+ (C) by inserting `that also displays the avoirdupois system of measure'
+ after `linear measure' in clause (iii); and
+ (D) by inserting `that also displays the avoirdupois system of measure'
+ after `measure of area' in clause (iv).
+ (b) This section shall take effect 2 years after the date of enactment of
+ this Act.
+SEC. 108. TRANSFER OF FEDERAL SCIENTIFIC AND TECHNICAL INFORMATION.
+ (a) TRANSFER- The head of each Federal executive department or agency
+ shall transfer in a timely manner to the National Technical Information
+ Service unclassified scientific, technical, and engineering information
+ which results from federally funded research and development activities for
+ dissemination to the private sector, academia, State and local governments,
+ and Federal agencies. Only information which would otherwise be available
+ for public dissemination shall be transferred under this subsection. Such
+ information shall include technical reports and information, computer
+ software, application assessments generated pursuant to section 11(c) of
+ the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(c)),
+ and information regarding training technology and other federally owned or
+ originated technologies. The Secretary shall issue regulations within one year
+ after the date of enactment of this Act outlining procedures for the ongoing
+ transfer of such information to the National Technical Information Service.
+ (b) ANNUAL REPORT TO CONGRESS- As part of the annual report required under
+ section 212(f)(3) of the National Technical Information Act of 1988, the
+ Secretary shall report to Congress on the status of efforts under this
+ section to ensure access to Federal scientific and technical information
+ by the public. Such report shall include--
+ (1) an evaluation of the comprehensiveness of transfers of information by
+ each Federal executive department or agency under subsection (a);
+ (2) a description of the use of Federal scientific and technical information;
+ (3) plans for improving public access to Federal scientific and technical
+ information; and
+ (4) recommendations for legislation necessary to improve public access to
+ Federal scientific and technical information.
+SEC. 109. AVAILABILITY OF APPROPRIATIONS.
+ Appropriations made under the authority provided in this Act shall remain
+ available for obligation, for expenditure, or for obligation and expenditure
+ for periods specified in the Acts making such appropriations.
+SEC. 110. REPORT ON FACILITIES NEEDS.
+ By March 1, 1992, the Director of the Institute shall submit to the Committee
+ on Commerce, Science, and Transportation of the Senate and the Committee on
+ Science, Space, and Technology of the House of Representatives a report on
+ what renovations and upgrades of Institute facilities are necessary over
+ the next decade. The report shall include a ranking of facilities needs
+ in order of priority, an estimate of costs, and the Director's plan for
+ meeting these needs.
+SEC. 111. BUY-AMERICAN PROVISIONS.
+ (a) RESTRICTIONS ON CONTRACT AWARDS- No contract or subcontract made with
+ funds authorized under this title may be awarded for the procurement of an
+ article, material, or supply produced or manufactured in a foreign country
+ whose government unfairly maintains in government procurement a significant
+ and persistent pattern or practice of discrimination against United States
+ products or services which results in identifiable harms to United States
+ businesses, as identified by the President pursuant to subsection (g)(1)(A) of
+ section 305 of the Trade Agreements Act of 1979 (19 U.S.C. 2515(g)(1)(A)). Any
+ such determination shall be made in accordance with such section 305.
+ (b) PROHIBITION AGAINST FRAUDULENT USE OF `MADE IN AMERICA' LABELS- If it
+ has been finally determined by a court or a Federal agency that any person
+ intentionally affixed a label bearing a `Made in America' inscription, or
+ an inscription with the same meaning, to any product sold in or shipped to
+ the United States that is not made in the United States, that person shall
+ be ineligible to receive any contract or subcontract from the Department of
+ Commerce, pursuant to the debarment, suspension, and ineligibility procedures
+ in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
+ (c) BUY-AMERICAN REQUIREMENT- (1) The Secretary is authorized to award to
+ a domestic firm a contract for the purchase of goods that, under the use
+ of competitive procedures, would be awarded to a foreign firm, if--
+ (A) the final product of the domestic firm will be completely assembled in
+ the United States;
+ (B) when completely assembled, more than 50 percent of the final product
+ of the domestic firm will be domestically produced; and
+ (C) the difference between the bids submitted by the foreign and domestic
+ firms is not more than 6 percent.
+ (2) This subsection shall not apply to the extent to which--
+ (A) in the opinion of the Secretary, after taking into consideration
+ international obligations and trade relations, such applicability would
+ not be in the public interest;
+ (B) in the opinion of the Secretary, after consultation with the Secretary
+ of Defense, compelling national security considerations require otherwise; or
+ (C) the President determines that such an award would be in violation of
+ the General Agreement on Tariffs and Trade or an international agreement
+ to which the United States is a party.
+ (3) This subsection shall apply only to contracts made for which--
+ (A) amounts are authorized by this title to be made available; and
+ (B) solicitations for bids are issued after the date of enactment of this Act.
+ (4) The Secretary, before January 1, 1993, shall report to the Congress on
+ contracts covered under this subsection--
+ (A) entered into with foreign firms pursuant to a determination made under
+ paragraph (2) of this subsection; and
+ (B) awarded to domestic firms pursuant to paragraph (1) of this subsection,
+ in fiscal years 1991 and 1992.
+ (5) For purposes of this subsection--
+ (A) the term `domestic firm' means a business entity that is incorporated
+ in the United States and that conducts business operations in the United
+ States; and
+ (B) the term `foreign firm' means a business entity not described in
+ subparagraph (A).
+TITLE II--ADVANCED TECHNOLOGY PROGRAM AMENDMENTS
+SEC. 201. EMERGING TECHNOLOGIES RESEARCH AND DEVELOPMENT.
+ (a) SHORT TITLE- This title may be cited as the `Emerging Technologies and
+ Advanced Technology Program Amendments Act of 1991'.
+ (b) FINDINGS AND PURPOSES- (1) The Congress finds that--
+ (A) technological innovation and its profitable inclusion in commercial
+ products are critical components of the ability of the United States to
+ raise the living standards of Americans and to compete in world markets;
+ (B) maintaining viable United States-based high technology industries is
+ vital to both the national security and the economic well-being of the
+ United States;
+ (C) the Department of Commerce has reported that the United States is losing
+ or losing badly, relative to Japan and Europe, in many important emerging
+ technologies and risks losing much of the $350,000,000,000 United States
+ market and $1,000,000,000,000 world market expected to develop by the year
+ 2000 for products based on emerging technologies;
+ (D) it is in the national interest for the Federal Government to encourage
+ and, in selected cases, provide limited financial assistance to industry-led
+ private sector efforts to increase research and development in economically
+ critical areas of technology;
+ (E) joint ventures are a particularly effective and appropriate way to pool
+ resources to conduct research that no single company is likely to undertake
+ but which will create new generic technologies that will benefit an entire
+ industry and the welfare of the Nation;
+ (F) it is vital that industry within the United States attain a leadership
+ role and capability in development, design, and manufacturing in fields
+ such as high-resolution information systems, advanced manufacturing, and
+ advanced materials; and
+ (G) the Advanced Technology Program, established under section 28 of
+ the National Institute of Standards and Technology Act (15 U.S.C. 278n),
+ is the appropriate vehicle for the United States Government to provide
+ limited assistance to joint development within the United States of new
+ high technology capabilities in fields such as high-resolution information
+ systems, advanced manufacturing technology, and advanced materials, and
+ can help encourage United States industry to work together on problems of
+ mutual concern.
+ (2) The purposes of this section are--
+ (A) to strengthen the Advanced Technology Program created under section 28
+ of the National Institute of Standards and Technology Act (15 U.S.C. 278n),
+ and to provide improved guidelines for the allocation of Advanced Technology
+ Program funds appropriated under the authorizations contained in section
+ 105 of this Act;
+ (B) to promote and assist in the development of advanced technologies and
+ the generic application of such technologies to civilian products, processes,
+ and services;
+ (C) to improve the competitive position of United States industry by
+ supporting industry-led research and development projects in areas of
+ emerging technology which have substantial potential to advance the
+ economic well-being and national security of the United States, such as
+ high-resolution information systems, advanced manufacturing technology,
+ and advanced materials; and
+ (D) to support projects that range from idea exploration to prototype
+ development and address long-term, high-risk areas of technological research,
+ development, and application that are not otherwise being adequately
+ developed by the private sector, but are likely to yield important benefits
+ to the Nation.
+ (c) ADVANCED TECHNOLOGY PROGRAM- (1) Section 28(a) of the National Institute
+ of Standards and Technology Act (15 U.S.C. 278n(a)), is amended by adding
+ at the end the following new sentence: `In operating the Program, the
+ Secretary and Director shall, as appropriate, be guided by the findings
+ and recommendations of the Biennial National Critical Technology Reports
+ prepared pursuant to section 603 of the National Science and Technology
+ Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683).'.
+ (2) Section 28(b)(1) of the National Institute of Standards and Technology Act
+ (15 U.S.C. 278n(b)(1)), is amended by inserting `industry-led' immediately
+ after `aid'.
+ (3) Section 28(b)(1)(B) of the National Institute of Standards and Technology
+ Act (15 U.S.C. 278n(b)(1)(B)), is amended by inserting `by means of grants,
+ cooperative agreements, or contracts' immediately after `such joint ventures'.
+ (4) Section 28(b)(2) of the National Institute of Standards and Technology
+ Act (15 U.S.C. 278n(b)(2)), is amended to read as follows:
+ `(2) provide grants to and enter into contracts and cooperative agreements
+ with United States businesses (especially small businesses), provided that
+ emphasis is placed on applying the Institute's research, research techniques,
+ and expertise to those organizations' research programs;'.
+ (5) Section 28(d)(2) of the National Institute of Standards and Technology
+ Act (15 U.S.C. 278n(d)(2)) is amended to read as follows:
+ `(2) In the case of joint ventures, the Program shall not make an award unless
+ the award will facilitate the formation of a joint venture or the initiation
+ of a new research and development project by an existing joint venture.'.
+ (6) Section 28(d) of the National Institute of Standards and Technology Act
+ (15 U.S.C. 278n(d)(7)) is amended--
+ (A) by striking paragraph (7);
+ (B) by redesignating paragraphs (8) and (9) as paragraphs (7) and (8),
+ respectively; and
+ (C) by adding at the end the following new paragraphs:
+ `(9) A company shall be eligible to receive financial assistance under this
+ section only if--
+ `(A) the Secretary finds that the company's participation in the Program
+ would be in the economic interest of the United States, as evidenced by
+ investments in the United States in research, development, and manufacturing
+ (including, for example, the manufacture of major components or subassemblies
+ in the United States); significant contributions to employment in the United
+ States; and agreement with respect to any technology arising from assistance
+ provided under this section to promote the manufacture within the United
+ States of products resulting from that technology (taking into account the
+ goals of promoting the competitiveness of United States industry), and to
+ procure parts and materials from competitive suppliers; and
+ `(B) either--
+ `(i) the company is a United States-owned company; or
+ `(ii) the Secretary finds that the company is incorporated in the United
+ States and has a parent company which is incorporated in a country which
+ affords to United States-owned companies opportunities, comparable to
+ those afforded to any other company, to participate in any joint venture
+ similar to those authorized under this Act; affords to United States-owned
+ companies local investment opportunities comparable to those afforded to
+ any other company; and affords adequate and effective protection for the
+ intellectual property rights of United States-owned companies.
+ `(10) Grants, contracts, and cooperative assignments under this section
+ shall be designed to support projects which are high risk and which have the
+ potential for eventual substantial widespread commercial application. In order
+ to receive a grant, contract, or cooperative agreement under this section,
+ a research and development entity shall demonstrate to the Secretary the
+ requisite ability in research and technology development and management in
+ the project area in which the grant, contract, or cooperative agreement is
+ being sought.
+ `(11)(A) Title to any intellectual property arising from assistance provided
+ under this section shall vest in a company or companies incorporated in the
+ United States. The United States may reserve a nonexclusive, nontransferable,
+ irrevocable paid-up license, to have practiced for or on behalf of the United
+ States, in connection with any such intellectual property, but shall not,
+ in the exercise of such license, publicly disclose proprietary information
+ related to the license. Title to any such intellectual property shall not
+ be transferred or passed, except to a company incorporated in the United
+ States, until the expiration of the first patent obtained in connection
+ with such intellectual property.
+ `(B) For purposes of this paragraph, the term `intellectual property'
+ means an invention patentable under title 35, United States Code, or any
+ patent on such an invention.
+ `(C) Nothing in this paragraph shall be construed to prohibit the licensing
+ to any company of intellectual property rights arising from assistance
+ provided under this section.'.
+ (7) Section 28(e) of the National Institute of Standards and Technology Act
+ (15 U.S.C. 278n(e)) is amended to read as follows:
+ `(e) The Secretary may, within 30 days after notice to Congress, suspend
+ a company or joint venture from continued assistance under this section if
+ the Secretary determines that the company, the country of incorporation of
+ the company or a parent company, or the joint venture has failed to satisfy
+ any of the criteria set forth in subsection (d)(9), and that it is in the
+ national interest of the United States to do so.'.
+ (8) Section 28 of the National Institute of Standards and Technology Act (15
+ U.S.C. 278n) is amended by adding at the end the following new subsections:
+ `(f) When reviewing private sector requests for awards under the Program, and
+ when monitoring the progress of assisted research projects, the Secretary and
+ the Director shall, as appropriate, coordinate with the Secretary of Defense
+ and other senior Federal officials to ensure cooperation and coordination
+ in Federal technology programs and to avoid unnecessary duplication of
+ effort. The Secretary and the Director are authorized to work with the
+ Director of the Office of Science and Technology Policy, the Secretary of
+ Defense, and other appropriate Federal officials to form interagency working
+ groups or special project offices to coordinate Federal technology activities.
+ `(g) In order to analyze the need for the value of joint ventures and other
+ research projects in specific technical fields, to evaluate any proposal
+ made by a joint venture or company requesting the Secretary's assistance,
+ or to monitor the progress of any joint venture or any company research
+ project which receives Federal funds under the Program, the Secretary,
+ the Under Secretary of Commerce for Technology, and the Director may,
+ notwithstanding any other provision of law, meet with such industry sources
+ as they consider useful and appropriate.
+ `(h) Up to 10 percent of the funds appropriated for carrying out this
+ section may be used for standards development and technical activities by
+ the Institute in support of the purposes of this section.
+ `(i) In addition to such sums as may be authorized and appropriated to the
+ Secretary and Director to operate the Program, the Secretary and Director
+ also may accept funds from other Federal departments and agencies for the
+ purpose of providing Federal funds to support awards under the Program. Any
+ Program award which is supported with funds which originally came from
+ other Federal departments and agencies shall be selected and carried out
+ according to the provisions of this section.
+ `(j) As used in this section--
+ `(1) the term `joint venture' means any group of activities, including
+ attempting to make, making, or performing a contract, by two or more persons
+ for the purpose of--
+ `(A) theoretical analysis, experimentation, or systematic study of phenomena
+ or observable facts;
+ `(B) the development or testing of basic engineering techniques;
+ `(C) the extension of investigative finding or theory of a scientific or
+ technical nature into practical application for experimental and demonstration
+ purposes, including the experimental production and testing of models,
+ prototypes, equipment, materials, and processes;
+ `(D) the collection, exchange, and analysis of research information;
+ `(E) the production of any product, process, or service; or
+ `(F) any combination of the purposes specified in subparagraphs (A), (B),
+ (C), (D), and (E),
+and may include the establishment and operation of facilities for the
+conducting of research, the conducting of such venture on a protected and
+proprietary basis, and the prosecuting of applications for patents and the
+granting of licenses for the results of such venture; and
+ `(2) the term `United States-owned company' means a company that has majority
+ ownership or control by individuals who are citizens of the United States.'.
+ (d) EFFECTIVE DATE- The amendments in subsection (c) shall take effect
+ immediately upon enactment; however, the amendments shall not apply to
+ applications submitted before the date of enactment of this Act.
+ (e) MANAGEMENT COSTS- Section 2 of the National Institute of Standards and
+ Technology Act (15 U.S.C. 272) is amended by adding at the end thereof the
+ following new subsection:
+ `(d) In carrying out the extramural funding programs of the Institute,
+ including the programs established under sections 25, 26, and 28 of this
+ Act, the Secretary may retain reasonable amounts of any funds appropriated
+ pursuant to authorizations for these programs in order to pay for the
+ Institute's management of these programs.'.
+ (f) COMPREHENSIVE REPORT- The Secretary shall, not later than 4 years after
+ the date of enactment of this Act, submit to each House of the Congress
+ and the President a comprehensive report on the results of the Advanced
+ Technology Program established under section 28 of the National Institute
+ of Standards and Technology Act (15 U.S.C. 278n), including any activities
+ in the areas of high-resolution information systems, advanced manufacturing
+ technology, and advanced materials.
+TITLE III--AMENDMENTS TO THE STEVENSON-WYDLER TECHNOLOGY INNOVATION ACT OF 1980
+SEC. 301. FEDERAL LABORATORY CONSORTIUM.
+ (a) Section 11(e)(2) of the Stevenson-Wydler Technology Innovation Act
+ of 1980 (15 U.S.C. 3710(e)(2)) is amended by inserting `senior' after
+ `Consortium and a'.
+ (b) Section 11(e)(6) of the Stevenson-Wydler Technology Innovation Act of
+ 1980 (15 U.S.C. 3710(e)(6)) is amended by adding at the end the following:
+ `Such report shall include an annual independent audit of the financial
+ statements of the Consortium, conducted in accordance with generally accepted
+ accounting principles.'.
+ (c) Section 11(e)(7)(B)(ii) of the Stevenson-Wydler Technology Innovation
+ Act of 1980 (15 U.S.C. 3710(e)(7)(B)(ii)) is amended by striking `or 1991'
+ and inserting in lieu thereof `1991, 1992, 1993, 1994, 1995, or 1996'.
+ (d) Section 11(e)(8) of the Stevenson-Wydler Technology Innovation Act of
+ 1980 (15 U.S.C. 3710(e)(8)) is repealed.
+SEC. 302. COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENTS.
+ (a) Section 12(d)(1) of the Stevenson-Wydler Technology Innovation Act of
+ 1980 (15 U.S.C. 3710a(d)(1)) is amended by inserting `intellectual property,'
+ after `equipment,' both places it appears.
+ (b) Within 6 months after the date of enactment of this Act, the Secretary
+ shall report to the Congress on the advisability of authorizing a new form
+ of cooperative research and development agreement which would permit Federal
+ contributions of funds.
+SEC. 303. RESEARCH EQUIPMENT.
+ Section 11 of the Stevenson-Wydler Technology Innovation Act of 1980 (15
+ U.S.C. 3710) is amended by adding at the end the following new subsection:
+ `(i) RESEARCH EQUIPMENT- The Director of a laboratory, or the head of any
+ Federal agency or department, may give research equipment that is excess
+ to the needs of the laboratory, agency, or department to an educational
+ institution or nonprofit organization for the conduct of technical and
+ scientific education and research activities. Title of ownership shall
+ transfer with a gift under the section.'.
+SEC. 304. DEFINITION OF FEDERAL AGENCY.
+ Section 4(8) of the Stevenson-Wydler Technology Innovation Act of 1980
+ (15 U.S.C. 3703(8)) is amended by inserting `, as well as any agency of
+ the legislative branch of the Federal Government' after `of such title'.
+SEC. 305. QUALITY IMPROVEMENT.
+ Section 17(f) of the Stevenson-Wydler Technology Innovation Act of 1980 (15
+ U.S.C. 3711a(f)) is amended by adding at the end the following: `The Director
+ is authorized to use appropriated funds to carry out responsibilities under
+ this Act.'.
+SEC. 306. UNDER SECRETARY.
+ Section 5(c) of the Stevenson-Wydler Technology Innovation Act of 1980
+ (15 U.S.C. 3704(c)) is amended--
+ (1) by redesignating paragraphs (13) and (14) as paragraphs (14) and (15),
+ respectively; and
+ (2) by inserting after paragraph (12) the following new paragraph:
+ `(13) serve as a focal point for discussions among United States companies
+ on topics of interest to industry and labor, including discussions regarding
+ manufacturing and discussions regarding emerging technologies;'.
+TITLE IV--NATIONAL COMMISSION ON REDUCING CAPITAL COSTS FOR EMERGING TECHNOLOGY
+SEC. 401. NATIONAL COMMISSION ON REDUCING CAPITAL COSTS FOR EMERGING
+TECHNOLOGY.
+ (a) ESTABLISHMENT AND PURPOSE- There is established a National Commission
+ on Reducing Capital Costs for Emerging Technology (hereafter in this
+ section referred to as the `Commission'), for the purpose of developing
+ recommendations to increase the competitiveness of United States industry
+ by encouraging investments in research, the development of new process and
+ product technologies, and the production of those technologies.
+ (b) ISSUES- The function of the Commission shall be to address the following
+ issues:
+ (1) How has the overall cost of capital paid by United States companies
+ differed during the past decade from that paid by companies in other
+ industrial economies such as Germany, Japan, and the United Kingdom?
+ (2) To what extent has the cost of capital faced by technology companies
+ differed from the overall cost of capital in each of these nations during
+ the same period?
+ (3) To what extent do high capital costs in general inhibit investment in
+ projects with long-term payoffs, such as the development and commercialization
+ of new technology?
+ (4) To what extent does the structure of the financial services industry
+ in the United States affect the flow of capital to advanced technology
+ investment, and to what extent do current practices in the equity markets
+ raise the cost of capital and inhibit the availability of capital to fund
+ research and development, purchase advanced manufacturing equipment, and
+ fund other investments necessary to commercialize advanced technology?
+ (5) In what ways do Government regulations influence the cost of capital
+ in the United States?
+ (6) To what extent have national differences in capital costs facilitated
+ the foreign acquisition of technology-based United States companies?
+ (7) What macroeconomic and other policies would promote greater investment
+ in advanced manufacturing techniques, in research and development, and in
+ other activities necessary to commercialize and produce new technologies?
+ (8) What specific policies should the Federal Government follow in order
+ to reduce the cost of capital for United States companies to levels that
+ are near parity with those faced by the Nation's principal trading partners?
+ (c) MEMBERSHIP- (1) The Commission shall be composed of 9 members who are
+ eminent in such fields as advanced technology, manufacturing, finance,
+ and international economics and who are appointed as follows:
+ (A) 3 individuals appointed by the President, one of whom shall chair
+ the Commission.
+ (B) 3 individuals appointed by the Speaker of the House of Representatives,
+ 1 of whom shall be appointed upon the recommendation of the minority leader
+ of the House of Representatives.
+ (C) 3 individuals appointed by the President pro tempore of the Senate, 2
+ of whom shall be appointed upon the recommendation of the majority leader
+ of the Senate and 1 of whom shall be appointed upon the recommendation of
+ the minority leader of the Senate.
+ (2) Each member shall be appointed for the life of the Commission. A vacancy
+ in the Commission shall be filled in the manner in which the original
+ appointment was made.
+ (d) PROCEDURES- (1) The chairman shall call the first meeting of the
+ Commission within 90 days after the date of enactment of this Act.
+ (2) Recommendations of the Commission shall require the approval of
+ three-quarters of the members of the Commission.
+ (3) The Commission may use such personnel detailed from Federal agencies
+ as may be necessary to enable it to carry out its duties.
+ (4) Members of the Commission, other than full-time employees of the Federal
+ Government, while attending meetings of the Commission while away from their
+ homes or regular places of business, shall be allowed travel expenses in
+ accordance with subchapter I of chapter 57 of title 5, United States Code.
+ (e) REPORTS- The Commission shall, within 1 year after the date of enactment
+ of this Act, submit to the President and Congress a report containing
+ legislative and other recommendations with respect to the issues addressed
+ under subsection (b).
+ (f) CONSULTATION- The Commission shall consult, as appropriate, with the
+ Commission on Technology and Procurement established by section 505 of
+ this Act.
+ (g) TERMINATION- The Commission shall terminate 6 months after the submission
+ of its report under subsection (e).
+ (h) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section such sums as may be necessary for the fiscal
+ years 1992 and 1993.
+TITLE V--STUDIES AND REPORTS
+SEC. 501. HIGH-RESOLUTION INFORMATION SYSTEMS ADVISORY BOARD.
+ (a) ESTABLISHMENT AND PURPOSE- The Director of the Office of Science and
+ Technology Policy shall establish within that office a High-Resolution
+ Information Systems Advisory Board (hereafter in this section referred to
+ as the `Board') to monitor and, as appropriate, foster the development of
+ United States-based high-resolution information systems industries.
+ (b) DEFINITION- As used in this title, the term `high-resolution information
+ systems' means the equipment and techniques required to create, store,
+ recover, and play back high-resolution images and accompanying sound.
+ (c) FUNCTIONS- The Board shall--
+ (1) collect and analyze information on the range of factors which will
+ determine whether United States-based high-resolution information systems
+ industries will develop and become competitive, including such factors as
+ technology policies, specialized financial problems, international standards
+ and foreign trade practices, Federal  regulations and procurement policies,
+ and licensing practices;
+ (2) identify areas where appropriate cooperation between the Federal
+ Government and the private sector, including Government support for
+ industry-led joint research and development ventures, would enhance United
+ States industrial competitiveness in this area, and provide advice and
+ guidance for such cooperative efforts;
+ (3) provide guidance on what Federal policies and practices, particularly in
+ such areas as procurement and the transfer of federally-funded research, are
+ necessary to help establish United States-based high-resolution information
+ systems industries;
+ (4) provide advice on the coordination of Federal defense and civilian
+ activities to maximize and assist with the transfer of technologies in the
+ field of high-resolution information systems into commercial products; and
+ (5) generally develop recommendations for guiding Federal agency activities
+ related to the development of United States-based high-resolution information
+ systems industries.
+ (d) MEMBERSHIP AND PROCEDURES- (1)(A) The Board shall be composed of 13
+ members, 7 of whom shall constitute a quorum.
+ (B) The Director of the Office of Science and Technology Policy, the
+ Secretary, the Director of the Defense Advanced Research Projects Agency,
+ and the Administrator of the National Aeronautics and Space Administration,
+ or their designees, shall serve as members of the Board.
+ (C) The President, acting through the Director of the Office of Science and
+ Technology Policy, within 90 days after the date of enactment of this Act,
+ shall appoint as additional members of the Board--
+ (i) 5 members from the private electronics manufacturing sector, drawn
+ from such sectors as semiconductors, display equipment, computers, consumer
+ electronics, and telecommunications, with 1 member also representing labor;
+ (ii) 3 members from the private nonmanufacturing sector, including
+ 1 representative from the transmission delivery systems sector and 2
+ representatives drawn from such areas as the software industry, the
+ entertainment industry, and the investment community; and
+ (iii) 1 member from academia.
+At least 1 member appointed under this subparagraph shall be from small
+business.
+ (2) The  Director of the Office of Science and Technology Policy or the
+ Director's designee shall chair the Board.
+ (3) The chairman shall call the first meeting of the Board within 30 days
+ after the appointment of members is completed.
+ (4) The Board may use such personnel detailed from Federal agencies as may
+ be necessary to enable it to perform its functions.
+ (5) Members of the Board, other than full-time employees of the Federal
+ Government, while attending meetings of the Board or otherwise performing
+ duties of the Board while away from their homes or regular places of business,
+ shall be allowed travel expenses in accordance with subchapter I of chapter
+ 57 of title 5, United States Code.
+ (6) The Board shall submit a report of its activities once every year
+ after its establishment to the President, the Committees on Science, Space,
+ and Technology and on Energy and Commerce of the House of Representatives,
+ and the Committee on Commerce, Science, and Transportation of the Senate.
+ (e) LIMITATION ON FUNCTIONS- Nothing in this section or any other provision
+ of this Act shall be construed--
+ (1) to authorize the Board to investigate or provide advice or guidance
+ with respect to standards or other regulations or policies related to
+ the transmission, delivery, or receipt of broadcast television or cable
+ television signals subject to regulation by the Federal Communications
+ Commission under the Communications Act of 1934 (47 U.S.C. 151 et seq.); or
+ (2) to limit, modify, or affect in any manner the authorities, functions or
+ responsibilities of the Federal Communications Commission or the National
+ Telecommunications and Information Administration.
+ (f) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section such sums as may be necessary for the fiscal
+ years 1992 and 1993.
+SEC. 502. MAJOR SCIENCE AND TECHNOLOGY PROPOSALS.
+ The National Science and Technology Policy, Organization, and Priorities Act
+ of 1976 is amended by adding at the end of title II the following new section:
+`MAJOR SCIENCE AND TECHNOLOGY PROPOSALS
+ `SEC. 209. The Director shall identify and provide an annual report to
+ Congress on each major multinational science and technology project, in
+ which the United States is not a participant, which has a total estimated
+ cost greater than $1,000,000,000.'.
+SEC. 503. BIENNIAL NATIONAL CRITICAL TECHNOLOGIES REPORT AMENDMENTS.
+ Section 603 of the National Science and Technology Policy, Organization,
+ and Priorities Act of 1976 (42 U.S.C. 6683) is amended--
+ (1) in subsection (a), by inserting `, but shall include the most economically
+ important emerging civilian technologies during the 10-year period following
+ such report, together with the estimated current and future size of domestic
+ and international markets for products derived from these technologies'
+ after `may not exceed 30';
+ (2) in subsection (b), by striking `national security and' and inserting
+ in lieu thereof `national security or';
+ (3) by redesignating subsection (d) as subsection (e); and
+ (4) by inserting after subsection (c) the following new subsection:
+ `(d) Each such report shall include--
+ `(1) an identification of the types of research and development needed
+ to close any significant gaps or deficiencies in the technology base of
+ the United States, as compared with the technology bases of major trading
+ partners; and
+ `(2) a list of the technologies and markets targeted by major trading
+ partners for development or capture.'.
+SEC. 504. CRITICAL INDUSTRIES.
+ (a) IDENTIFICATION OF INDUSTRIES AND DEVELOPMENT OF PLAN- The Secretary
+ shall--
+ (1) identify those civilian industries in the United States that are necessary
+ to support a robust manufacturing infrastructure and critical to the economic
+ security of the United States; and
+ (2) list the major research and development initiatives being undertaken,
+ and the substantial investments being made, by the Federal Government,
+ including its research laboratories, in each of the critical industries
+ identified under paragraph (1).
+ (b) INITIAL REPORT- The Secretary shall submit a report to the Congress
+ within 1 year after the date of enactment of this Act on the actions taken
+ under subsection (a).
+ (c) ANNUAL UPDATES- The Secretary shall annually submit to the Congress an
+ update of the report submitted under subsection (b). Each such update shall--
+ (1) describe the status of each identified critical industry, including
+ the advances and declines occurring since the most recent report; and
+ (2) identify any industries that should be added to the list of critical
+ industries.
+SEC. 505. RESEARCH, DEVELOPMENT, TECHNOLOGY UTILIZATION, AND GOVERNMENT
+PROCUREMENT POLICY.
+ (a) ESTABLISHMENT OF COMMISSION- The Secretary, in consultation with the
+ Administrator of the Office of Federal Procurement Policy, shall establish a
+ Commission on Technology and Procurement (hereafter in this section referred
+ to as the `Commission'), for the purposes of analyzing the effect of Federal
+ Government procurement laws, procedures, and policies on the development of
+ advanced technologies within the United States and making recommendations
+ on how Federal policy could be changed to promote further the development
+ of advanced technologies.
+ (b) ISSUES- The Commission shall address the following issues:
+ (1) To what extent, if any, should Federal Government technology purchase
+ strategies be used to give domestic suppliers a competitive advantage in
+ new generations of existing technologies and in initial market penetration
+ for new technologies?
+ (2) Under what conditions can Federal Government purchases of advanced
+ technology-based products be based on performance specifications rather
+ than on product specifications? Should Federal Government procurement first
+ look to the commercial markets for products that will meet performance
+ specifications before purchasing a unique product that has to be developed?
+ (3) How can the Federal Government procurement laws, practices, and procedures
+ be used as a strategic tool to foster the use of emerging technologies?
+ (4) How can the Federal Government ensure that its suppliers adopt the
+ principles embodied in the Malcolm Baldrige National Quality Award?
+ (5) Should Federal Government procurement practices include cooperative
+ efforts between the supplier and the Federal entity to develop products
+ so as to be more easily marketed on a commercial basis? Should a program
+ for the exchange of technical personnel to foster innovation in product
+ development be part of such practices?
+ (6) To what extent, if any, should Federal Government documents specify
+ standards that are beneficial to domestic suppliers, aid the compatibility
+ of advanced technologies, and speed the commercial acceptance of those
+ technologies, and what would be the role of the Institute in such an effort?
+ (7) Should Federal Government procurement be linked to the Advanced
+ Technology Program and to technology transfer activities so that specification
+ development can incorporate the latest technical advances available?
+ (8) To what extent should worldwide, state of the art technology be required
+ in Federal Government procurement?
+ (c) MEMBERSHIP AND PROCEDURES- (1) The Commission shall be composed of 15
+ members, 8 of whom shall constitute a quorum.
+ (2) The Secretary, the Administrator of the Office of Federal Procurement
+ Policy, the Director of the Office of Science and Technology Policy, the
+ Secretary of Defense, and the Administrator of General Services, or their
+ designees who serve in executive level positions, shall serve as members
+ of the Commission.
+ (3) The Secretary shall appoint as members of the Commission, from among
+ individuals not employed by the Federal Government--
+ (A) 4 members who are eminent in advanced technology businesses representing
+ manufacturing and services industries, including at least 1 member
+ representing labor;
+ (B) 3 members who are eminent in the fields of technology and international
+ economic development; and
+ (C) with the concurrence of the Administrator of the Office of Federal
+ Procurement Policy, 3 members who are eminent in the field of Federal
+ Government procurement.
+ (4) The Secretary shall appoint a Commission chairman from among the
+ members of the Commission. The chairman shall call the first meeting of
+ the Commission within 90 days after the date of enactment of this Act.
+ (5) The Secretary and the Administrator of the Office of Federal Procurement
+ Policy shall provide such staff as may be required by the Commission to
+ carry out its responsibilities.
+ (6) Members of the Commission, other than full-time employees of the Federal
+ Government, while attending meetings of the Commission or otherwise performing
+ duties of the Commission while away from their homes or regular places of
+ business, shall be allowed travel expenses in accordance with subchapter
+ I of chapter 57 of title 5, United States Code.
+ (d) REPORTS- (1) The Commission shall, within 1 year after the date of
+ enactment of this Act, submit to the Secretary, the Administrator of the
+ Office of Federal Procurement Policy, the President, and Congress a report
+ containing preliminary recommendations with respect to the issues addressed
+ under subsection (b).
+ (2) The Commission shall, within 2 years after the date of enactment of this
+ Act, submit to the Secretary and Congress a final report containing final
+ recommendations with respect to the issues addressed under subsection (b).
+ (e) CONSULTATION- The Commission shall consult, as appropriate, with the
+ National Commission on Reducing Capital Costs for Emerging Technology.
+ (f) TERMINATION- The Commission shall terminate 6 months after the submission
+ of its final report under subsection (d)(2).
+ (g) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section such sums as may be necessary for the fiscal
+ years 1992, 1993, and 1994.
+SEC. 506. REPORT ON INFORMATION COLLECTION AND DISSEMINATION.
+ (a) REPORT- Within 270 days after the date of enactment of this Act, the
+ Secretary shall report to the Committee on Science, Space, and Technology
+ of the House of Representatives and the Committee on Commerce, Science,
+ and Transportation of the Senate on the feasibility of establishing and
+ operating a Federal Online Information Product Catalog (FEDLINE) at the
+ National Technical Information Service which would serve as a comprehensive
+ inventory and authorizative register of information products and services
+ disseminated by the Federal Government and assist agencies and the public
+ in locating Federal Government information. Information protected from
+ public disclosure shall not be included. In studying the concept, the
+ Secretary, acting through the Under Secretary and the Director of the
+ National Technical Information Service, shall consult with officials from
+ appropriate Government agencies, including the Office of Management and
+ Budget, the National Archives, the Government Printing Office, and the
+ Institute, and with representatives of the public, for their views on the
+ optimal composition and format of FEDLINE. Such report shall contain cost
+ estimates and possible funding sources for establishing and operating FEDLINE
+ and shall list any changes in law and regulation that would be required if
+ FEDLINE were to be implemented.
+ (b) FUNDING- The Director of the National Technical Information Service
+ may retain and use all monies received, including receipts, revenues, and
+ advanced payments and deposits, to fund obligations and expenses through
+ the end of fiscal year 1993.
+ (c) ELECTRONIC FORMAT- Section 212(e)(5) of the National Technical Information
+ Act of 1988 (15 U.S.C. 3704b(e)(5)) is amended by inserting `, including
+ producing and disseminating information products in electronic format'
+ after `engineering information'.
+SEC. 507. NATIONAL QUALITY COUNCIL.
+ (a) ESTABLISHMENT AND FUNCTIONS- There is established a National Quality
+ Council (hereafter in this section referred to as the `Council'). The
+ functions of the Council shall be--
+ (1) to establish national goals and priorities for Quality performance in
+ business, education, government, and all other sectors of the Nation;
+ (2) to encourage and support the voluntary adoption of these goals and
+ priorities by companies, unions, professional and business associations,
+ coalition groups, and units of government, as well as private and nonprofit
+ organizations;
+ (3) to arouse and maintain the interest of the people of the United States
+ in Quality performance, and to encourage the adoption and institution
+ of Quality performance methods by all corporations, government agencies,
+ and other organizations; and
+ (4) to conduct a White House Conference on Quality Performance in the American
+ Workplace that would bring together in a single forum national leaders in
+ business, labor, education, professional societies, the media, government,
+ and politics to address Quality performance as a means of improving United
+ States competitiveness.
+ (b) MEMBERSHIP- The Council shall consist of not less than 17 or more than
+ 20 members, appointed by the Secretary. Members shall include--
+ (1) at least 2 but not more than 3 representatives from manufacturing
+ industry;
+ (2) at least 2 but not more than 3 representatives from service industry;
+ (3) at least 2 but not more than 3 representatives from national Quality
+ not-for-profit organizations;
+ (4) two representatives from education, one with expertise in elementary
+ and secondary education, and one with expertise in post-secondary education;
+ (5) one representative from labor;
+ (6) one representative from professional societies;
+ (7) one representative each from local and State government;
+ (8) one representative from the Federal Quality Institute;
+ (9) one representative from the National Institute of Standards and
+ Technology;
+ (10) one representative from the Department of Defense;
+ (11) one representative from a civilian Federal agency not otherwise
+ represented on the Council, to be rotated among such agencies every 2
+ years; and
+ (12) one representative from the Foundation for the Malcolm Baldrige National
+ Quality Award.
+ (c) TERMS- The term of office of each member of the Council appointed under
+ paragraphs (1) through (7) of subsection (b) shall be 2 years, except that
+ when making the initial appointments under such paragraphs; the Secretary
+ shall appoint not more than 50 percent of the members to 1 year terms. No
+ member appointed under such paragraphs shall serve on the Council for more
+ than 2 consecutive terms.
+ (d) CHAIRMAN AND VICE CHAIRMAN- The Secretary shall designate one of
+ the members initially appointed to the Council as Chairman. Thereafter,
+ the members of the Council shall annually elect one of their number as
+ Chairman. The members of the Council shall also annually elect one of their
+ members as Vice Chairman. No individual shall serve as Chairman or Vice
+ Chairman for more than 2 consecutive years.
+ (e) EXECUTIVE DIRECTOR AND EMPLOYEES- The Council shall appoint and fix
+ the compensation of an Executive Director, who shall hire and fix the
+ compensation of such additional employees as may be necessary to assist the
+ Council in carrying out its functions. In hiring such additional employees,
+ the Executive Director shall ensure that no individual hired has a conflict
+ of interest with the responsibilities of the Council.
+ (f) FUNDING- There is established in the Treasury of the United States a
+ National Quality Performance Trust Fund, into which all funds received by the
+ Council, through private donations or otherwise, shall be deposited. Amounts
+ in such Trust Fund shall be available to the Council, to the extent provided
+ in advance in appropriations Acts, for the purpose of carrying out the
+ functions of the Council under this Act.
+ (g) CONTRIBUTIONS- The Council may not accept private donations from
+ a single source in excess of $25,000 per year. Private donations from a
+ single source in excess of $10,000 per year may be accepted by the Council
+ only on approval of two-thirds of the Council.
+ (h) ANNUAL REPORT- The Council shall annually submit to the President and
+ the Congress a comprehensive and detailed report on--
+ (1) the progress in meeting the goals and priorities established by the
+ Council;
+ (2) the Council's operations, activities, and financial condition;
+ (3) contributions to the Council from non-Federal sources;
+ (4) plans for the Council's operations and activities for the future; and
+ (5) any other information or recommendations the Council considers
+ appropriate.
+SEC. 508. STUDY OF TESTING AND CERTIFICATION.
+ (a) CONTRACT WITH NATIONAL RESEARCH COUNCIL- Within 90 days after the
+ date of enactment of this Act and within available appropriations, the
+ Secretary shall enter into a contract with the National Research Council
+ for a thorough review of international product testing and certification
+ issues. The National Research Council will be asked to address the following
+ issues and make recommendations as appropriate:
+ (1) The impact on United States manufacturers, testing and certification
+ laboratories, certification organizations, and other affected bodies of
+ the European Community's plans for testing and certification of regulated
+ and nonregulated products of non-European origin.
+ (2) Ways for United States manufacturers to gain acceptance of their products
+ in the European Community and in other foreign countries and regions.
+ (3) The feasibility and consequences of having mutual recognition agreements
+ between testing and certification organizations in the United States
+ and those of major trading partners on the accreditation of testing and
+ certification laboratories and on quality control requirements.
+ (4) Information coordination regarding product acceptance and conformity
+ assessment mechanisms between the United States and foreign governments.
+ (5) The appropriate Federal, State, and private roles in coordination and
+ oversight of testing, certification, accreditation, and quality control to
+ support national and international trade.
+ (b) MEMBERSHIP- In selecting the members of the review panel, the National
+ Research Council shall consult with and draw from, among others, laboratory
+ accreditation organizations, Federal and State government agencies involved
+ in testing and certification, professional societies, trade associations,
+ small business, and labor organizations.
+ (c) REPORT- A report based on the findings and recommendations of the review
+ panel shall be submitted to the Secretary, the President, and Congress
+ within 18 months after the Secretary signs the contract with the National
+ Research Council.
+SEC. 509. REPORT ON A STRATEGY TO STIMULATE COMPETITIVE RESEARCH.
+ (a) IN GENERAL- No later than 120 days after the date of enactment of this
+ Act, the Director of the Office of Science and Technology Policy shall
+ submit to Congress a report presenting a proposed strategy for improving the
+ university research capabilities of those States which historically have
+ received relatively little Federal research and development funding. The
+ report shall particularly--
+ (1) analyze recent steps to use the National Science Foundation's Experimental
+ Program to Stimulate Competitive Research as a model for similar programs
+ in several other Federal departments and agencies which fund research and
+ development; and
+ (2) examine the feasibility and advisability of using that Program as a
+ model for Federal research and development agencies which do not currently
+ have similar programs.
+ (b) ANALYSIS AND DISCUSSION- The report shall include an analysis and
+ discussion of--
+ (1) the geographic distribution of Federal research and development grants
+ and contracts;
+ (2) current Federal efforts to stimulate competitive research; and
+ (3) the feasibility and advisability of new Federal programs to stimulate
+ competitive research.
+SEC. 510. INTERAGENCY COORDINATION.
+ The Secretary shall, within 180 days after the date of enactment of this
+ Act, submit to the Committee on Science, Space, and Technology and the
+ Committee on Energy and Commerce of the House of Representatives and the
+ Committee on Commerce, Science, and Transportation of the Senate, a plan
+ for coordination of Commerce Department efforts with other Federal agencies
+ for activities related to high-resolution information systems, including
+ research and development activities.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

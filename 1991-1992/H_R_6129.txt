@@ -1,0 +1,940 @@
+ 
+--H.R.6129--
+H.R.6129
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Consolidated Farm and Rural Development Act to establish a
+program to aid beginning farmers and ranchers and to improve the operation
+of the Farmers Home Administration, and to amend the Farm Credit Act of 1971,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Agricultural Credit
+  Improvement Act of 1992'.
+  (b) TABLE OF CONTENTS- The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. References to the Consolidated Farm and Rural Development Act.
+Sec. 3. Limitation on aggregate indebtedness.
+Sec. 4. Interest rate for loans sold into secondary market; guaranteed
+loan fees.
+Sec. 5. Federal-State beginning farmer partnership.
+Sec. 6. Grants for private business enterprises.
+Sec. 7. Down payment loan program.
+Sec. 8. Special assistance to certain qualified beginning farmers and ranchers.
+Sec. 9. Graduation of borrowers with operating loans or guarantees to private
+commercial credit.
+Sec. 10. Consideration of borrowers for loan service programs.
+Sec. 11. Time period within which county committee is required to meet to
+consider applications for farm ownership and operating loans and guarantees
+and beginning farmer plans.
+Sec. 12. Increase in period during which county committee loan eligibility
+certification continues in effect.
+Sec. 13. Processing of applications for farm operating loans.
+Sec. 14. Graduation of seasoned direct loan borrowers to the loan guarantee
+program.
+Sec. 15. Simplified application for guaranteed loans of $50,000 or less.
+Sec. 16. Inventory lease or lease with option to purchase.
+Sec. 17. Transfer of Indian lands pledged as collateral for FmHA loans.
+Sec. 18. Debt service margin requirements; certified lenders program.
+Sec. 19. Definition of qualified beginning farmer or rancher.
+Sec. 20. Targeting of funds.
+Sec. 21. Equal access to FmHA assistance by gender.
+Sec. 22. State mediation programs.
+Sec. 23. Regulations.
+Sec. 24. Technical amendment.
+SEC. 2. REFERENCES TO THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT.
+  Wherever in this Act an amendment or repeal is expressed in terms of an
+  amendment to, or repeal of, a section or other provision, the reference
+  shall be considered to be made to a section or other provision of the
+  Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.),
+  except to the extent otherwise specifically provided.
+SEC. 3. LIMITATION ON AGGREGATE INDEBTEDNESS.
+  Section 305 (7 U.S.C. 1925) is amended by striking `and 310D of this title'
+  and inserting `310D, and 310E'.
+SEC. 4. INTEREST RATE FOR LOANS SOLD INTO SECONDARY MARKET; GUARANTEED
+LOAN FEES.
+  Section 309(h) (7 U.S.C. 1929(h)) is amended--
+  (1) by inserting `(1)' after `(h)'; and
+  (2) by adding at the end the following new paragraphs:
+  `(2) The interest rate payable by a borrower on the portion of a guaranteed
+  loan that is sold by a lender to the secondary market under this title
+  may be lower than the interest rate charged on the portion retained by
+  the lender, but shall not exceed the average interest rate charged by the
+  lender on loans made to farm and ranch borrowers.
+  `(3) With regard to any loan guarantee on a loan made by a commercial or
+  cooperative lender related to a loan made by the Secretary under section
+  310E--
+  `(A) the Secretary shall not charge a fee to any person (including a
+  lender); and
+  `(B) a lender may charge a loan origination and servicing fee in an amount
+  not to exceed 1 percent of the amount of the loan.'.
+SEC. 5. FEDERAL-STATE BEGINNING FARMER PARTNERSHIP.
+  (a) COORDINATION OF ASSISTANCE FOR QUALIFIED BEGINNING FARMERS AND RANCHERS-
+  Section 309 (7 U.S.C. 1929) is amended by adding at the end the following
+  new subsection:
+  `(i)(1) Not later than 60 days after any State expresses to the Secretary,
+  in writing, a desire to coordinate the provision of financial assistance to
+  qualified beginning farmers and ranchers in the State, the Secretary and
+  the State shall conclude a joint memorandum of understanding that shall
+  govern the coordination of the provision of the financial assistance by
+  the State and the Secretary.
+  `(2) The memorandum of understanding shall provide that if a State beginning
+  farmer program makes a commitment to provide a qualified beginning farmer
+  or rancher with financing to establish or maintain a viable farming or
+  ranching operation, the Secretary shall, subject to applicable law, normal
+  loan approval criteria, and the availability of funds provide the farmer
+  or rancher with a down payment loan under section 310E or a guarantee of
+  the financing provided by the State program, or both.
+  `(3) The Secretary shall not charge any person (including a lender) any
+  fee with respect to the provision of any guarantee under this subsection.
+  `(4) The Secretary shall notify each State of the provisions of this
+  subsection.
+  `(5) As used in paragraph (1), the term `State beginning farmer program'
+  means any program that is--
+  `(A) carried out by, or under contract with, a State; and
+  `(B) designed to assist persons in obtaining the financial assistance
+  necessary to enter agriculture and establish viable farming or ranching
+  operations.'.
+  (b) ADVISORY COMMITTEE-
+  (1) ESTABLISHMENT; PURPOSE- Not later than 18 months after the date of
+  enactment of this Act, the Secretary of Agriculture shall establish an
+  advisory committee, to be known as the `Advisory Committee on Beginning
+  Farmers and Ranchers', which shall provide advice to the Secretary on--
+  (A) the development of the program of coordinated assistance to qualified
+  beginning farmers and ranchers under section 309(i) of the Consolidated
+  Farm and Rural Development Act (as added by subsection (a) of this section);
+  (B) methods of maximizing the number of new farming and ranching
+  opportunities created through the program;
+  (C) methods of encouraging States to participate in the program;
+  (D) the administration of the program; and
+  (E) other methods of creating new farming or ranching opportunities.
+  (2) MEMBERSHIP- The Secretary shall appoint the members of the Advisory
+  Committee. The Advisory Committee shall include representatives from
+  the following:
+  (A) The Farmers Home Administration.
+  (B) State beginning farmer programs (as defined in section 309(i)(5) of
+  the Consolidated Farm and Rural Development Act (as added by subsection
+  (a) of this section)).
+  (C) Commercial lenders.
+  (D) Private nonprofit organizations with active beginning farmer or
+  rancher programs.
+  (E) The Cooperative Extension Service.
+  (F) Community colleges or other educational institutions with demonstrated
+  experience in training beginning farmers or ranchers.
+  (G) Other entities or persons providing lending or technical assistance
+  for qualified beginning farmers or ranchers.
+SEC. 6. GRANTS FOR PRIVATE BUSINESS ENTERPRISES.
+  Section 310B(c) (7 U.S.C. 1932(c)) is amended--
+  (1) by inserting `(1)' after `(c)'; and
+  (2) by adding at the end the following new paragraph:
+  `(2) The Secretary may make grants to qualified nonprofit organizations for
+  the provision of technical assistance and training to rural communities
+  for the purpose of improving passenger transportation services or
+  facilities. Assistance provided under this paragraph may include on-site
+  technical assistance to local and regional governments, public transit
+  agencies, and related nonprofit and for-profit organizations in rural areas,
+  the development of training materials, and the provision of necessary
+  training assistance to local officials and agencies in rural areas.'.
+SEC. 7. DOWN PAYMENT LOAN PROGRAM.
+  (a) IN GENERAL- Subtitle A (7 U.S.C. 1922 et seq.) is amended by adding
+  at the end the following new section:
+`SEC. 310E. DOWN PAYMENT LOAN PROGRAM.
+  `(a) IN GENERAL-
+  `(1) ESTABLISHMENT- Notwithstanding any other section of this subtitle,
+  the Secretary shall establish, within the farm ownership loan program
+  established under this subtitle, a program under which loans shall be made
+  under this section to qualified beginning farmers and ranchers for down
+  payments on farm ownership loans.
+  `(2) ADMINISTRATION- The Secretary shall be the primary coordinator of credit
+  supervision for the down payment loan program established under this section,
+  in consultation with the commercial or cooperative lender and, if applicable,
+  the contracting credit counseling service selected under section 360(c).
+  `(b) LOAN TERMS-
+  `(1) PRINCIPAL- Each loan made under this section shall be in an amount
+  equal to 30 percent of the purchase price or appraisal value, whichever is
+  lower, of the farm or ranch to be acquired, unless the borrower requests
+  a lesser amount.
+  `(2) INTEREST RATE- The interest rate on any loan made by the Secretary
+  under this section shall be 4 percent.
+  `(3) DURATION- Each loan under this section shall be made for a period of
+  10 years or less, at the option of the borrower.
+  `(4) REPAYMENT- Each borrower of a loan under this section shall repay
+  the loan to the Secretary in equal annual installments.
+  `(5) NATURE OF RETAINED SECURITY INTEREST- The Secretary shall retain
+  an interest in each farm or ranch acquired with a loan made under this
+  section that shall--
+  `(A) be secured by the farm or ranch;
+  `(B) be junior only to such interests in the farm or ranch as may be
+  conveyed at the time of acquisition to the person (including a lender)
+  from whom the borrower obtained a loan used to acquire the farm or ranch; and
+  `(C) require the borrower to obtain the permission of the Secretary before
+  the borrower may grant an additional security interest in the farm or ranch.
+  `(c) LIMITATIONS-
+  `(1) BORROWERS REQUIRED TO MAKE MINIMUM DOWN PAYMENT- The Secretary shall
+  not make a loan under this section to any borrower with respect to a farm
+  or ranch if the contribution of the borrower to the down payment on the
+  farm or ranch will be less than 10 percent of the purchase price of the
+  farm or ranch.
+  `(2) MAXIMUM PRICE OF PROPERTY TO BE ACQUIRED- The Secretary shall not
+  make a loan under this section with respect to a farm or ranch for which
+  the purchase price or appraisal value, whichever is lower, exceeds $250,000.
+  `(3) PROHIBITED TYPES OF FINANCING- The Secretary shall not make a loan under
+  this section with respect to a farm or ranch if the farm or ranch is to be
+  acquired with other financing that contains any of the following conditions:
+  `(A) The financing is to be amortized over a period of less than 30 years.
+  `(B) A balloon payment will be due on the financing during the 10-year
+  period beginning on the date the loan is to be made by the Secretary.
+  `(d) ADMINISTRATION- In carrying out this section, the Secretary shall,
+  to the maximum extent practicable--
+  `(1) facilitate the transfer of farms and ranches from retiring farmers
+  and ranchers to persons eligible for insured loans under this subtitle;
+  `(2) make efforts to widely publicize the availability of loans under this
+  section among--
+  `(A) potentially eligible recipients of the loans;
+  `(B) retiring farmers and ranchers; and
+  `(C) applicants for farm ownership loans under this subtitle;
+  `(3) encourage retiring farmers and ranchers to assist in the sale of
+  their farms and ranches to qualified beginning farmers and ranchers by
+  providing seller financing; and
+  `(4) coordinate the loan program established by this section with State
+  programs that provide farm ownership or operating loans for beginning
+  farmers and ranchers.'.
+  (b) AVAILABILITY OF FARM OWNERSHIP LOANS AND LOAN GUARANTEES FOR CERTAIN
+  BEGINNING FARMERS AND RANCHERS- Subtitle A (7 U.S.C. 1922 et seq.) (as
+  amended by subsection (a) of this section) is further amended by adding
+  at the end the following new section:
+`SEC. 310F. AVAILABILITY OF FARM OWNERSHIP LOANS AND LOAN GUARANTEES FOR
+CERTAIN QUALIFIED BEGINNING FARMERS AND RANCHERS.
+  `(a) ASSISTANCE PROHIBITED FOR A LIMITED PERIOD- Except as otherwise provided
+  in this section, if the Secretary approves the application of a qualified
+  beginning farmer or rancher (referred to in this section as the `applicant')
+  for assistance under section 318, the Secretary shall not make a loan under
+  this subtitle to the applicant or provide a guarantee under section 309(h)
+  with respect to any farm real estate loan made to the applicant.
+  `(b) AVAILABILITY OF DOWN PAYMENT LOANS- After the applicable period,
+  the Secretary may make an insured loan under this subtitle, or a down
+  payment loan under section 310E, to an applicant if--
+  `(1) throughout the applicable period, the applicant conducted an operation
+  for which assistance is provided under section 318 in accordance with the
+  plan for special assistance; and
+  `(2) the applicant is otherwise eligible for the loan.
+  `(c) AVAILABILITY OF LOAN GUARANTEES- After the applicable period, the
+  Secretary may guarantee under section 309(h) the repayment of a commercial
+  or cooperative loan made to an applicant referred to in subsection (a) if--
+  `(1) throughout the applicable period, the applicant conducted the operation
+  for which assistance is provided under section 318 in accordance with the
+  plan for special assistance; and
+  `(2) the applicant is otherwise eligible for the loan guarantee.
+  `(d) APPLICABLE PERIOD DEFINED- As used in this section, the term `applicable
+  period' means the first 5 years for which an applicant has operated a farm
+  or ranch, including the period of time the applicant is provided assistance
+  under section 318.'.
+SEC. 8. SPECIAL ASSISTANCE TO CERTAIN QUALIFIED BEGINNING FARMERS AND RANCHERS.
+  Subtitle B (7 U.S.C. 1941 et seq.) is amended by adding at the end the
+  following new section:
+`SEC. 318. SPECIAL ASSISTANCE TO CERTAIN QUALIFIED BEGINNING FARMERS AND
+RANCHERS.
+  `(a) IN GENERAL- The Secretary shall provide special assistance in accordance
+  with this section to enable a qualified beginning farmer or rancher who
+  has not operated a farm or ranch, or who has operated a farm or ranch for
+  not more than 5 years (referred to in this section as the `applicant'),
+  to conduct viable farming or ranching operations.
+  `(b) SUBMISSION OF PLAN OF FARM OPERATION- An applicant who desires to
+  apply for special assistance under this section shall submit a plan,
+  in coordination with activities conducted under sections 359, 360, 361,
+  and 362, that--
+  `(1) describes, for each of the first 5 years for which assistance under
+  this section is sought for the operation--
+  `(A) how the operation is to be conducted;
+  `(B) the types and quantities of commodities to be produced by the operation;
+  `(C) the production methods and practices to be employed by the operation;
+  `(D) the conservation measures to be taken in the operation;
+  `(E) the equipment needed to conduct the operation (including any expected
+  replacements for the equipment) and, with respect to each item of needed
+  equipment, whether the applicant owns, leases, or otherwise has access to the
+  item, or proposes to purchase, lease, or otherwise gain access to the item;
+  `(F) the expected income and expenses of the operation;
+  `(G) the expected credit needs of the operation, including the types and
+  amounts of assistance to be sought under this section; and
+  `(H) the site or sites at which the operation is (or is to be) located; and
+  `(2) projects the financial status of the operation after assistance
+  under this section has been provided for a period of not more than 10
+  years, consistent with section 319, as is necessary for the operation to
+  become financially viable without further assistance from the Secretary,
+  including specific goals that the applicant projects to meet in order to
+  progress toward graduation as expeditiously as possible.
+  `(c) DETERMINATIONS BY THE COUNTY COMMITTEE; APPROVAL OF PLAN- The county
+  committee shall approve a plan submitted by an applicant in accordance
+  with subsection (b) if the county committee determines that--
+  `(1) the applicant has not operated a farm or ranch, or has operated a
+  farm or ranch for not more than 5 years;
+  `(2) during the 5-year period ending with the submission of the plan, the
+  applicant has had sufficient education and experience to indicate that the
+  applicant is able to conduct a successful farming or ranching operation,
+  as the case may be;
+  `(3) the applicant owns, leases, or has a commitment to have leased to
+  the applicant the site or sites of the operation;
+  `(4) there is, or will be, available to the applicant equipment sufficient
+  to conduct the operation in accordance with the plan;
+  `(5) the applicant agrees to participate in such loan assessment, borrower
+  training, and financial management programs as the Secretary may require; and
+  `(6) the applicant is otherwise eligible for assistance under this title.
+  `(d) DETERMINATION BY THE SECRETARY; APPROVAL OF APPLICATION FOR ASSISTANCE-
+  The Secretary shall approve an application for assistance under this section
+  for an operation described in a plan approved by a county committee under
+  this section if the Secretary determines that--
+  `(1) the operation would generate income sufficient to cover the expenses of
+  the operation, debt service, and adequate living expenses of the applicant,
+  to the extent that other income would not cover the living expenses, if
+  the operation received assistance under this section as provided for in
+  the plan; and
+  `(2) during the commitment period established in accordance with subsection
+  (e)(1), the operation will be financially viable without further assistance
+  from the Secretary and the identified goals are reasonable and practicable.
+  `(e) PROVISION OF ASSISTANCE-
+  `(1) DETERMINATION OF COMMITMENT PERIOD-
+  `(A) INITIAL DETERMINATION- In approving an application under subsection
+  (d), the Secretary shall, subject to subparagraph (C), determine the
+  period during which assistance under this section is to be provided for
+  the operation described in the application (referred to in this subsection
+  as the `commitment period').
+  `(B) AUTHORITY TO EXTEND PERIOD; NO AUTHORITY TO REDUCE PERIOD- At any
+  time, the Secretary may, subject to subparagraph (C) and subsections (f)
+  and (g), extend the duration of the commitment period. The Secretary shall
+  not reduce the duration of the commitment period.
+  `(C) LIMITATIONS-
+  `(i) IN GENERAL- The duration of any commitment period (including any
+  extensions of the period) shall not exceed 10 years and shall be consistent
+  with section 319.
+  `(ii) ELIGIBILITY FOR INSURED OPERATING LOANS- During the commitment period,
+  an applicant shall not be eligible to receive an insured operating loan
+  under this section after the date that is 8 years after the date on which
+  the applicant first receives assistance under this section.
+  `(2) OPERATING LOANS; LOAN GUARANTEES-
+  `(A) IN GENERAL- To the extent that an applicant whose application is
+  approved under subsection (d) is unable to obtain sufficient credit from
+  commercial or cooperative lenders to finance the operation described in
+  the application at reasonable rates and terms (taking into consideration
+  prevailing private and cooperative rates, and terms in the community in which
+  the operation is (or is to be) located, for loans for similar purposes and
+  periods of time), the Secretary shall, subject to the availability of funds
+  and to subsections (f) and (g) and consistent with sections 360 and 362,
+  make a conditional commitment to the applicant for each of the years of
+  the commitment period--
+  `(i) to provide to any commercial or cooperative lender who makes a loan to
+  the applicant that is within the credit needs of the operation (as specified
+  in the plan contained in the application) a guarantee under section 309(h)
+  for the repayment of 90 percent of the loan principal and interest;
+  `(ii)(I) to provide to any commercial or cooperative lender who makes a
+  loan to the applicant that is within the credit needs of the operation
+  (as specified in the plan contained in the application) a guarantee under
+  section 309(h) for the repayment of 90 percent of the loan principal and
+  interest and an interest subsidy payment in the amount necessary to ensure
+  that the applicant qualifies for such a loan but not more than the amount
+  of interest assistance allowed by section 351; or
+  `(II) if during any of the first 4 years for which assistance is provided
+  under this section the Secretary determines that the applicant will not
+  qualify for a loan described in subclause (I), an interest subsidy payment
+  sufficient to ensure that the effective rate of interest payable by the
+  applicant on the loan equals the rate of interest charged to low income,
+  limited resource borrowers on insured operating loans made under this
+  subtitle that are of comparable size and maturity; or
+  `(iii) to make an insured loan under this subtitle to the applicant,
+  in the amount specified in the plan contained in the application, at an
+  interest rate that is no higher than the interest rate charged to regular
+  borrowers and no lower than the interest rate charged to low income,
+  limited resource borrowers under this subtitle.
+  `(3) LOANS OR GUARANTEES FOR NEW OR IMPROVED EQUIPMENT- The Secretary shall
+  make a commitment to any applicant whose application is approved under
+  subsection (d) to provide the applicant with loans under this subtitle or
+  loan guarantees under section 309(h) to finance the acquisition, improvement,
+  or repair of equipment needed in the operation described in the application
+  if the plan contained in the application provides for the commitment, to
+  the extent that the applicant is unable to obtain sufficient credit from
+  commercial or cooperative lenders for such purposes at reasonable rates
+  and terms (taking into consideration prevailing private and cooperative
+  rates and terms in the community in which the operation is, or is to be,
+  located, for loans for similar purposes and periods of time).
+  `(4) PRIORITY IN PURCHASE OF INVENTORY EQUIPMENT; LOANS OR GUARANTEES
+  FOR THE PURCHASES IN CERTAIN CASES- During the commitment period, the
+  Secretary shall--
+  `(A) accord the applicant whose application is approved under subsection
+  (d) priority for the purchase of equipment in the inventory of the Farmers
+  Home Administration necessary for the success of the operation described
+  in the application; and
+  `(B) provide the applicant with loans under this subtitle or loan
+  guarantees under section 309(h) to finance the purchases if the plan
+  contained in the application provides for the assistance, to the extent
+  that the applicant is unable to obtain sufficient credit from commercial
+  or cooperative lenders for such purpose at reasonable rates and terms
+  (taking into consideration prevailing private and cooperative rates, and
+  terms in the community in which the operation is, or is to be, located,
+  for loans for similar purposes and periods of time).
+  `(5) OTHER KINDS OF ASSISTANCE- During the commitment period, the Farmers
+  Home Administration, the Extension Service, the Soil Conservation Service,
+  and the other entities of the Department of Agriculture shall provide the
+  applicant with such other assistance and information as may be needed in
+  developing and implementing the operation described in the application.
+  `(6) FEES-
+  `(A) SECRETARY- The Secretary shall not charge a fee to any person
+  (including a lender) in connection with any loan guarantee provided in
+  accordance with this section.
+  `(B) LENDER- A lender may charge a loan origination and servicing fee in
+  connection with a loan or loan guarantee provided in accordance with this
+  section in an amount not to exceed 1 percent of the amount of the loan.
+  `(f) ANNUAL PLAN REVISIONS REQUIRED AS CONDITION OF CONTINUED ASSISTANCE-
+  The Secretary shall not provide assistance under this section for an
+  operation for any particular year after the first year for which the
+  assistance is provided, unless--
+  `(1) not later than 60 days before the assistance is to be first provided
+  for the particular year, the plan describing the operation has been revised,
+  pursuant to section 360, based on the experience of the year preceding
+  the particular year, to provide the information required by subsection (b)
+  for the 5-year period beginning with the particular year (or, if shorter,
+  the period beginning with the particular year and ending with the year in
+  which the plan projects the operation as becoming financially viable); and
+  `(2) the Secretary has approved the revised plan.
+  `(g) EFFECTS OF AVOIDABLE FAILURE TO ACHIEVE GOALS-
+  `(1) TERMINATION OF COMMITMENTS- The Secretary shall revoke commitment
+  for assistance made to an applicant under this section if the operation of
+  the applicant fails, for 2 consecutive years, to meet the goals specified
+  in the plan, unless the failure has not materially reduced the likelihood
+  of the operation becoming financially viable and is due to circumstances
+  beyond the control of the applicant.
+  `(2) SUSPENSION OF ELIGIBILITY FOR ASSISTANCE- During the 3-year period
+  that begins with the date a commitment made to an applicant is revoked
+  under paragraph (1), the applicant shall not be eligible for assistance
+  under this section.'.
+SEC. 9. GRADUATION OF BORROWERS WITH OPERATING LOANS OR GUARANTEES TO PRIVATE
+COMMERCIAL CREDIT.
+  Subtitle B (7 U.S.C. 1941 et seq.) (as amended by section 8 of this Act)
+  is further amended by adding at the end the following new section:
+`SEC. 319. GRADUATION OF BORROWERS WITH OPERATING LOANS OR GUARANTEES TO
+PRIVATE COMMERCIAL CREDIT.
+  `(a) GRADUATION PLAN- The Secretary shall establish a plan, in coordination
+  with activities under sections 359, 360, 361, and 362, to encourage each
+  borrower with an outstanding loan under this subtitle or with respect to
+  whom there is an outstanding guarantee under this subtitle to graduate to
+  private commercial or other sources of credit.
+  `(b) LIMITATION ON PERIOD FOR WHICH BORROWERS ARE ELIGIBLE FOR ASSISTANCE
+  UNDER THIS SUBTITLE- Notwithstanding any other provision of this subtitle:
+  `(1) GENERAL RULE- Except as provided in paragraph (2), the Secretary
+  shall not--
+  `(A) make a loan to a borrower under this subtitle for any year after the
+  10th year for which such a loan is made to the borrower; or
+  `(B) guarantee for any year a loan made to a borrower for a purpose specified
+  in this subtitle, after the 15th year for which loans under this subtitle
+  are made to, or such a guarantee is provided with respect to, the borrower.
+  `(2) TRANSITION RULE- If, as of the date of enactment of this section,
+  the Secretary has made a loan to a borrower under this subtitle for 5 or
+  more years, or has provided a guarantee for 10 or more years with respect
+  to one or more loans made to the borrower for a purpose specified in this
+  subtitle, the Secretary shall not make a loan to the borrower under this
+  subtitle, or provide such a guarantee with respect to a loan made to the
+  borrower for a purpose specified in this subtitle, after the 5th year
+  occurring after the date of enactment for which a loan is made under this
+  subtitle to, or such a guarantee is provided with respect to, the borrower.'.
+SEC. 10. CONSIDERATION OF BORROWERS FOR LOAN SERVICE PROGRAMS.
+  The first sentence of section 331D(e) (7 U.S.C. 1981d(e)) is amended by
+  inserting after `not later than 60 days after receipt of the notice required
+  in this section' the following: `or, in extraordinary circumstances as
+  determined by the applicable State director, after the 60-day period'.
+SEC. 11. TIME PERIOD WITHIN WHICH COUNTY COMMITTEE IS REQUIRED TO MEET TO
+CONSIDER APPLICATIONS FOR FARM OWNERSHIP AND OPERATING LOANS AND GUARANTEES
+AND BEGINNING FARMER PLANS.
+  Section 332 (7 U.S.C. 1982) is amended--
+  (1) in subsection (c), by striking `The committee' and inserting `Subject
+  to subsection (e), the committee'; and
+  (2) by adding at the end the following new subsection:
+  `(e) The county committee shall meet to consider approval of an application
+  received by the committee for a loan under this title, a guarantee under
+  section 309(h), or a plan of farm operation under section 318, not later
+  than--
+  `(1) 5 days after receipt of the application if at the time of the receipt
+  there is at least one other such application or plan pending; or
+  `(2) 15 days after receipt of the application if at the time of the receipt
+  there are no other such applications or plans pending.'.
+SEC. 12. INCREASE IN PERIOD DURING WHICH COUNTY COMMITTEE LOAN ELIGIBILITY
+CERTIFICATION CONTINUES IN EFFECT.
+  Section 333(2)(A)(iii) (7 U.S.C. 1983(2)(A)(iii)) is amended by striking
+  `2 years' and inserting `5 years'.
+SEC. 13. PROCESSING OF APPLICATIONS FOR FARM OPERATING LOANS.
+  Section 333A(a)(2) (7 U.S.C. 1983a(a)(2)) is amended--
+  (1) by inserting `(A)' after `(2)';
+  (2) by inserting `(other than under subtitle B)' after `under this title';
+  and
+  (3) by adding at the end the following new subparagraph:
+  `(B)(i) Not later than 10 calendar days after the Secretary receives an
+  application for an operating loan or loan guarantee under subtitle B, the
+  Secretary shall notify the applicant of any information required before
+  a decision may be made on the application. On receipt of an application,
+  the Secretary shall request from other parties such information as may be
+  needed in connection with the application.
+  `(ii) Not later than 15 calendar days after the date an agency of the
+  Department of Agriculture receives a request for information made pursuant
+  to clause (i), the agency shall provide the Secretary with the requested
+  information.
+  `(iii) If, not later than 20 calendar days after the date a request is
+  made pursuant to clause (i) with respect to an application, the Secretary
+  has not received the information requested, the Secretary shall notify
+  the applicant and the district office of the Farmers Home Administration,
+  in writing, of the outstanding information.
+  `(iv) A county office shall notify the district office of the Farmers Home
+  Administration of each application for an operating loan or loan guarantee
+  under subtitle B that is pending more than 45 days after receipt, and the
+  reasons the application is pending.
+  `(v) A district office that receives a notice provided under clause (iv)
+  with respect to an application shall immediately take steps to ensure that
+  final action is taken on the application not later than 15 days after the
+  date of the receipt of the notice.
+  `(vi) The district office shall report to the State office of the Farmers
+  Home Administration on each application for an operating loan or loan
+  guarantee under subtitle B that is pending more than 45 days after receipt
+  by the county committee, and the reasons the application is pending.
+  `(vii) Each month, the Secretary shall notify the Committee on Agriculture
+  of the House of Representatives and the Committee on Agriculture, Nutrition,
+  and Forestry of the Senate, on a State-by-State basis, as to each application
+  for an operating loan or loan guarantee under subtitle B on which final
+  action had not been taken within 60 calendar days after receipt by the
+  Secretary, and the reasons final action had not been taken.'.
+SEC. 14. GRADUATION OF SEASONED DIRECT LOAN BORROWERS TO THE LOAN GUARANTEE
+PROGRAM.
+  Section 333A (7 U.S.C. 1983a) is amended by adding at the end the following
+  new subsection:
+  `(f)(1) As used in this subsection:
+  `(A) The term `approved lender' means a lender approved prior to the date
+  of enactment of this subsection by the Secretary under the approved lender
+  program established by exhibit A to subpart B of part 1980 of title 7,
+  Code of Federal Regulations (as in effect on January 1, 1991), or a lender
+  certified under section 114.
+  `(B) The term `seasoned direct loan borrower' means a borrower receiving
+  a direct loan under this title who has been classified as `commercial' or
+  `standard' under subpart W of part 2006 of the Instruction Manual (as in
+  effect on January 1, 1991).
+  `(2) The Secretary, or a contracting third party, shall annually review
+  under section 360 the loans of each seasoned loan borrower. If, based
+  on the review, it is determined that a borrower would be able to obtain
+  a loan, guaranteed by the Secretary, from a commercial or cooperative
+  lender at reasonable rates and terms for loans for similar purposes and
+  periods of time, the Secretary shall assist the borrower in applying for
+  the commercial or cooperative loan.
+  `(3) In accordance with section 362, the Secretary shall prepare a
+  prospectus on each seasoned direct loan borrower determined eligible to
+  obtain a guaranteed loan. The prospectus shall contain a description of
+  the amounts of loan guarantee and interest assistance that the Secretary
+  will provide to the seasoned direct loan borrower to enable the seasoned
+  direct loan borrower to carry out a financially viable farming plan if a
+  guaranteed loan is made.
+  `(4) With the approval of the borrower, the Secretary shall provide the
+  prospectus of the seasoned direct loan borrower to each approved lender whose
+  lending area includes the location of the seasoned direct loan borrower. If
+  the Secretary receives an offer from an approved lender to extend credit
+  to the seasoned direct loan borrower under terms and conditions contained
+  in the prospectus, the seasoned direct loan borrower shall not be eligible
+  for an insured loan from the Secretary under subtitle A or B, except as
+  otherwise provided in this subsection.
+  `(5) If the Secretary is unable to provide loan guarantees and, if
+  necessary, interest assistance to the seasoned direct loan borrower under
+  this subsection in amounts sufficient to enable the seasoned direct loan
+  borrower to borrow from commercial sources the amount required to carry out
+  a financially viable farming plan, or if the Secretary does not receive an
+  offer from an approved lender to extend credit to a seasoned direct loan
+  borrower under the terms and conditions contained in the prospectus, the
+  Secretary shall make an insured loan to the seasoned direct loan borrower
+  under subtitle A or B, whichever is applicable.
+  `(6) To the extent necessary for the borrower to obtain a loan, guaranteed
+  by the Secretary, from a commercial or cooperative lender, the Secretary
+  shall provide interest rate reductions as provided for under section 351.'.
+SEC. 15. SIMPLIFIED APPLICATION FOR GUARANTEED LOANS OF $50,000 OR LESS.
+  Section 333A (7 U.S.C. 1983a) (as amended by section 14 of this Act)
+  is further amended by adding at the end the following new subsection:
+  `(g)(1) The Secretary shall provide to lenders a short, simplified
+  application form for guarantees under this title of loans the principal
+  amount of which is $50,000 or less.
+  `(2) In developing the application, the Secretary shall--
+  `(A) consult with commercial and cooperative lenders; and
+  `(B) ensure that--
+  `(i) the form can be completed manually or electronically, at the option
+  of the lender;
+  `(ii) the form minimizes the documentation required to accompany the form;
+  `(iii) the cost of completing and processing the form is minimal; and
+  `(iv) the form can be completed and processed in an expeditious manner.'.
+SEC. 16. INVENTORY LEASE OR LEASE WITH OPTION TO PURCHASE.
+  The fourth sentence of section 335(c)(1) (7 U.S.C. 1985(c)(1)) is amended--
+  (1) by inserting `(A)' after `shall be'; and
+  (2) by inserting before the period at the end the following: `or (B)
+  leased to persons eligible for assistance under the provisions of any law
+  administered by the Farmers Home Administration or the Rural Development
+  Administration under an annual lease or a lease with an option to purchase,
+  with a preference for sale'.
+SEC. 17. TRANSFER OF INDIAN LANDS PLEDGED AS COLLATERAL FOR FmHA LOANS.
+  Section 335(e)(1) (7 U.S.C. 1985(e)(1)) is amended--
+  (1) in subparagraph (D)(i), by striking `If' and inserting `Except as
+  provided in subparagraph (G), if'; and
+  (2) by adding at the end the following new subparagraph:
+  `(G)(i) If--
+  `(I) the real property described in subparagraph (A)(i) is located within
+  an Indian reservation;
+  `(II) the borrower-owner is an Indian tribe that has jurisdiction over the
+  reservation in which the real property is located or the borrower-owner
+  is a member of an Indian tribe;
+  `(III) the borrower-owner has obtained a loan made, insured, or guaranteed
+  under this title; and
+  `(IV) the borrower-owner and the Secretary have exhausted all of the
+  procedures provided for in this title to permit a borrower-owner to retain
+  title to the real property, such that it is necessary for the borrower-owner
+  to relinquish title,
+the Secretary shall dispose of or administer the property only as provided
+in subparagraph (D), as modified by this subparagraph.
+  `(ii) The Secretary shall provide the borrower-owner of real property that
+  is described in clause (i) with written notice of--
+  `(I) the right of the borrower-owner to voluntarily convey the real property
+  to the Secretary; and
+  `(II) the fact that real property so conveyed will be placed in the
+  inventory of the Secretary.
+  `(iii) The Secretary shall provide the borrower-owner of the real property
+  with written notice of the rights and protections provided under this title
+  to the borrower-owner, and the Indian tribe that has jurisdiction over
+  the reservation in which the real property is located, from foreclosure
+  or liquidation of the real property, including written notice of--
+  `(I) the provisions of subparagraphs (C)(i), (C)(ii), and (D), this
+  subparagraph, and subsection (g)(6);
+  `(II) if the borrower-owner does not voluntarily convey the real property
+  to the Secretary, that--
+  `(aa) the Secretary may foreclose on the property;
+  `(bb) in the event of foreclosure, the property will be offered for sale;
+  `(cc) the Secretary must offer a bid for the property that is equal to
+  the fair market value of the property or the outstanding principal and
+  interest of the loan, whichever is higher;
+  `(dd) the property may be purchased by another party; and
+  `(ee) if the property is purchased by another party, the property will
+  not be placed in the inventory of the Secretary and the borrower-owner
+  will forfeit the rights and protections provided under this title; and
+  `(III) the opportunity of the borrower-owner to consult with the Indian tribe
+  that has jurisdiction over the reservation in which the real property is
+  located or counsel to determine if State or tribal law provides rights and
+  protections that are more beneficial than those provided the borrower-owner
+  under this title.
+  `(iv)(I) Except as provided in subclause (II), the Secretary shall accept
+  the voluntary conveyance of real property described in clause (i).
+  `(II) If a hazardous substance (as defined in section 101(14) of the
+  Comprehensive Environmental Response, Compensation, and Liability Act of
+  1980 (42 U.S.C. 9601(14))) is located on the property and the Secretary
+  takes remedial action to protect human health or the environment if the
+  property is taken into inventory, the Secretary shall accept the voluntary
+  conveyance of the property only if the Secretary determines that it is in
+  the best interests of the Federal Government.
+  `(v) If a borrower-owner does not voluntarily convey to the Secretary real
+  property described in clause (i), at least 30 days before a foreclosure
+  sale of the property, the Secretary shall provide written notice to the
+  Indian tribe that has jurisdiction over the reservation in which the real
+  property is located of--
+  `(I) the sale;
+  `(II) the fair market value of the property; and
+  `(III) the requirements of this subparagraph.
+  `(vi)(I) Except as provided in subclause (II), at a foreclosure sale of
+  real property described in clause (i), the Secretary shall offer a bid
+  for the property that is equal to the higher of--
+  `(aa) the fair market value of the property; or
+  `(bb) the outstanding principal and interest of the loan.
+  `(II) If a hazardous substance (as defined in section 101(14) of the
+  Comprehensive Environmental Response, Compensation, and Liability Act of 1980
+  (42 U.S.C. 9601(14))) is located on the property and the Secretary takes
+  remedial action to protect human health or the environment if the property
+  is taken into inventory, subclause (I) shall apply only if the Secretary
+  determines that it is in the best interests of the Federal Government.'.
+SEC. 18. DEBT SERVICE MARGIN REQUIREMENTS; CERTIFIED LENDERS PROGRAM.
+  Section 339 (7 U.S.C. 1989) is amended--
+  (1) by striking `SEC. 339. The' and inserting the following:
+`SEC. 339. RULES AND REGULATIONS.
+  `(a) IN GENERAL- The'; and
+  (2) by adding at the end the following new subsections:
+  `(b) DEBT SERVICE MARGIN REQUIREMENTS- Notwithstanding subsection (a), in
+  providing farmer program loan guarantees under this title, the Secretary
+  shall consider the income of the borrower adequate if the income is equal
+  to or greater than the income necessary--
+  `(1) to make principal and interest payments on all debt obligations of
+  the borrower, in a timely manner;
+  `(2) to cover the necessary living expenses of the family of the borrower;
+  and
+  `(3) to pay all other obligations and expenses of the borrower not financed
+  through debt obligations referred to in paragraph (1), including expenses of
+  replacing capital items (determined after taking into account depreciation
+  of the items).
+  `(c) CERTIFIED LENDERS PROGRAM-
+  `(1) IN GENERAL- The Secretary shall establish a program under which the
+  Secretary shall guarantee loans for any purpose specified in subtitle B
+  that are made by lending institutions certified by the Secretary.
+  `(2) CERTIFICATION REQUIREMENTS- The Secretary shall certify a lending
+  institution that meets such criteria as the Secretary may prescribe in
+  regulations, including the ability of the institution to properly make,
+  service, and liquidate the loans of the institution.
+  `(3) CONDITION OF CERTIFICATION- As a condition of the certification, the
+  Secretary shall require the institution to undertake to service the loans
+  guaranteed by the Secretary under this subsection, using standards that
+  are not less stringent than generally accepted banking standards concerning
+  loan servicing employed by prudent commercial or cooperative lenders. The
+  Secretary shall, at least annually, monitor the performance of each certified
+  lender to ensure that the conditions of the certification are being met.
+  `(4) EFFECT OF CERTIFICATION- Notwithstanding any other provision of law:
+  `(A) The Secretary shall guarantee 80 percent of a loan made under this
+  subsection by a certified lending institution as described in paragraph (1),
+  subject to county committee certification that the borrower of the loan meets
+  the eligibility requirements and such other criteria as may be applicable
+  to loans guaranteed by the Secretary under other provisions of this title.
+  `(B) With respect to loans to be guaranteed by the Secretary under this
+  subsection, the Secretary shall permit certified lending institutions
+  to make appropriate certifications (as provided by regulations issued by
+  the Secretary)--
+  `(i) relating to issues such as creditworthiness, repayment ability,
+  adequacy of collateral, and feasibility of farm operation; and
+  `(ii) that the borrower is in compliance with all requirements of law,
+  including regulations issued by the Secretary.
+  `(C) The Secretary shall approve or disapprove a guarantee not later than
+  14 calendar days after the date that the lending institution applied to the
+  Secretary for the guarantee. If the Secretary rejects the loan application
+  within the 14-day period, the Secretary shall state, in writing, all of
+  the reasons the application was rejected.
+  `(5) RELATIONSHIP TO OTHER REQUIREMENTS- Neither this subsection nor
+  subsection (d) shall affect the responsibility of the Secretary to
+  certify eligibility, review financial information, and otherwise assess
+  an application.
+  `(d) Preferred Certified Lenders Program-
+  `(1) IN GENERAL- Commencing not later than two years after the date of
+  enactment of the Agricultural Credit Improvement Act of 1992, the Secretary
+  shall establish a Preferred Certified Lenders Program for lenders who
+  establish their--
+  `(A) knowledge of, and experience under, the program established under
+  subsection (c);
+  `(B) knowledge of the regulations concerning the guaranteed loan program; and
+  `(C) proficiency related to the certified lender program requirements.
+The Secretary shall certify any lending institution as a Preferred Certified
+Lender that meets such criteria as the Secretary may prescribe by regulation.
+  `(2) REVOCATION OF DESIGNATION- The designation of a lender as a Preferred
+  Certified Lender shall be revoked at any time that the Secretary determines
+  that such lender is not adhering to the rules and regulations applicable
+  to the program or if the loss experiences of a Preferred Certified Lender
+  are excessive as compared to other Preferred Certified Lenders, except that
+  such suspension or revocation shall not affect any outstanding guarantee.
+  `(3) CONDITION OF CERTIFICATION- As a condition of such preferred
+  certification, the Secretary shall require the institution to undertake to
+  service the loans guaranteed by the Secretary under this subsection using
+  generally accepted banking standards concerning loan servicing employed by
+  prudent commercial or cooperative lenders. The Secretary shall, at least
+  annually, monitor the performance of each preferred certified lender to
+  ensure that the conditions of such certification are being met.
+  `(4) EFFECT OF PREFERRED LENDER CERTIFICATION- Notwithstanding any other
+  provision of law, the Secretary shall--
+  `(A) guarantee 80 percent of an approved loan made by a certified lending
+  institution as described in this subsection, subject to county committee
+  certification that the borrower meets the eligibility requirements or such
+  other criteria as may be applicable to loans guaranteed by the Secretary
+  under other provisions of this title;
+  `(B) permit certified lending institutions to make all decisions, with
+  respect to loans to be guaranteed by the Secretary under this subsection
+  relating to credit worthiness, the closing, monitoring, collection and
+  liquidation of loans, and to accept appropriate certifications, as provided
+  by regulations issued by the Secretary, that the borrower is in compliance
+  with all requirements of law or regulations promulgated by the Secretary; and
+  `(C) be deemed to have guaranteed 80 percent of a loan made by a preferred
+  certified lending institution as described in paragraph (1), if the Secretary
+  fails to approve or reject the application of such institution within 14
+  calendar days after the date that the lending institution presented the
+  application to the Secretary. If the Secretary rejects the application
+  within the 14-day period, the Secretary shall state, in writing, the
+  reasons the application was rejected.'.
+SEC. 19. DEFINITION OF QUALIFIED BEGINNING FARMER OR RANCHER.
+  Section 343(a) (7 U.S.C. 1991(a)) is amended--
+  (1) by striking `this title (1) the term' and all that follows through
+  `fish farming,' at the end of paragraph (1) and inserting `this title:
+  `(1) The term `farmer' includes a person who is engaged in, or who, with
+  assistance afforded under this title, intends to engage in, fish farming.';
+  (2) by indenting, and aligning the margins of, paragraphs (2) through (10)
+  so as to align with paragraph (1) (as amended by paragraph (1));
+  (3) by striking `the' the first place it appears in each of such paragraphs
+  and inserting `The';
+  (4) by striking the comma at the end of each of paragraphs (2) through
+  (8) and inserting a period;
+  (5) by striking `, and' at the end of paragraph (9) and inserting a
+  period; and
+  (6) by adding at the end the following new paragraph:
+  `(11) The term `qualified beginning farmer or rancher' means an applicant--
+  `(A) who is eligible for assistance under this title;
+  `(B) who has not operated a farm or ranch, or who has operated a farm or
+  ranch for not more than 10 years;
+  `(C) in the case of a cooperative, corporation, partnership, or joint
+  operation, who has members, stockholders, partners, or joint operators
+  who are all related to one another by blood or marriage;
+  `(D)(i) in the case of an owner and operator of a farm or ranch, who--
+  `(I) in the case of a loan made to an individual, individually or with
+  the immediate family of the applicant--
+  `(aa) materially and substantially participates in the operation of the
+  farm or ranch; and
+  `(bb) provides substantial day-to-day labor and management of the farm or
+  ranch, consistent with the practices in the State or county in which the
+  farm or ranch is located; or
+  `(II)(aa) in the case of a loan made to a cooperative, corporation,
+  partnership, or joint operation, has members, stockholders, partners, or
+  joint operators, materially and substantially participate in the operation
+  of the farm or ranch; and
+  `(bb) in the case of a loan made to a corporation, has stockholders,
+  all of whom are qualified beginning farmers or ranchers; and
+  `(ii) in the case of an applicant seeking to own and operate a farm or
+  ranch, who--
+  `(I) in the case of a loan made to an individual, individually or with
+  the immediate family of the applicant, will--
+  `(aa) materially and substantially participate in the operation of the
+  farm or ranch; and
+  `(bb) provide substantial day-to-day labor and management of the farm or
+  ranch, consistent with the practices in the State or county in which the
+  farm or ranch is located; or
+  `(II)(aa) in the case of a loan made to a cooperative, corporation,
+  partnership, or joint operation, will have members, stockholders, partners,
+  or joint operators, materially and substantially participate in the
+  operation of the farm or ranch; and
+  `(bb) in the case of a loan made to a corporation, has stockholders,
+  all of whom are qualified beginning farmers or ranchers;
+  `(E) who agrees to participate in such loan assessment, borrower training,
+  and financial management programs as the Secretary may require;
+  `(F) who does not own land or who, directly or through interests in family
+  farm corporations, owns land, the aggregate acreage of which does not exceed
+  15 percent of the median acreage of the farms or ranches, as the case may
+  be, in the county in which the farm or ranch operations of the applicant
+  are located, as reported in the most recent census of agriculture taken
+  under section 142 of title 13, United States Code; and
+  `(G) who demonstrates that the available resources of the applicant and
+  spouse (if any) of the applicant are not sufficient to enable the applicant
+  to continue farming or ranching on a viable scale.'.
+SEC. 20. TARGETING OF FUNDS.
+  (a) FARM OPERATING LOANS FOR BEGINNING FARMERS AND RANCHERS- Section
+  346(b) (7 U.S.C. 1994(b)) is amended by adding at the end the following
+  new paragraph:
+  `(5)(A) In expending funds available for insured operating loans under
+  subtitle B, including loans made under section 318--
+  `(i) during the first 6 months of fiscal year 1994, the Secretary shall
+  reserve not less than 30 percent of the funds available for the fiscal year
+  to make insured operating loans to qualified beginning farmers or ranchers;
+  `(ii) during the first 6 months of each of fiscal years 1995 and 1996,
+  the Secretary shall reserve not less than 40 percent of the funds available
+  for the fiscal year to make insured operating loans to qualified beginning
+  farmers or ranchers; and
+  `(iii) during the first 6 months of each of fiscal years 1997 and thereafter,
+  the Secretary may reserve not more than 50 percent of the funds available
+  for the fiscal year to make insured operating loans to qualified beginning
+  farmers or ranchers.
+  `(B) In each fiscal year described in subparagraph (A), with regard to the
+  funds not reserved under subparagraph (A), a qualified beginning farmer
+  or rancher may apply for insured operating loans, but shall not receive
+  any preference as a result of status as a qualified beginning farmer
+  or rancher.'.
+  (b) PORTIONS OF FARM OWNERSHIP LOAN GUARANTEE FUNDS TARGETED TO BEGINNING
+  FARMERS OR RANCHERS- Section 346(b)(2) (7 U.S.C. 1994(b)(2)) is amended by
+  adding at the end the following new sentence: `Not less than 25 percent
+  of the amounts appropriated for guarantees of farm ownership loans for
+  each of the fiscal years 1994, 1995, 1996, and 1997 shall be reserved by
+  the Secretary during the first 6 months of the respective fiscal year for
+  guarantees of farm ownership loans to beginning farmers or ranchers.'.
+  (c) FARM OWNERSHIP LOANS-
+  (1) PERCENTAGE OF INSURED FARM OWNERSHIP LOAN FUNDS RESERVED FOR BEGINNING
+  FARMERS OR RANCHERS- Section 346(b)(3) is amended by adding at the end
+  the following new subparagraph:
+  `(D) To the extent that it is not inconsistent with an exercise of authority
+  under section 355, in expending funds available for insured farm ownership
+  loans--
+  `(i) during fiscal year 1994, the Secretary shall reserve not less than
+  55 percent of the funds available for the fiscal year to make insured farm
+  ownership loans to qualified beginning farmers or ranchers;
+  `(ii) during fiscal year 1995, the Secretary shall reserve not more than
+  65 percent of the funds available for the fiscal year to make insured farm
+  ownership loans to qualified beginning farmers or ranchers; and
+  `(iii) during each of fiscal years 1996 and thereafter, the Secretary
+  may reserve not less than 65 percent and not more than 70 percent of the
+  funds available for the fiscal year to make insured farm ownership loans
+  to qualified beginning farmers or ranchers.'.
+  (2) FUNDS RESERVED FOR DOWN PAYMENT LOAN PROGRAM- Section 346(b)(3)
+  (as amended by paragraph (1) of this subsection) is further amended by
+  adding at the end the following new subparagraph:
+  `(E) To the extent that it is not inconsistent with an exercise of authority
+  under section 355, the Secretary shall reserve not less than 60 percent
+  of the amounts reserved for qualified beginning farmers or ranchers under
+  subparagraph (D) for any fiscal year for down payment loans under section
+  310E.'.
+  (3) CERTAIN UNOBLIGATED DOWN PAYMENT LOAN PROGRAM FUNDS AVAILABLE FOR ANY
+  TYPE OF INSURED FARM OWNERSHIP LOANS FOR BEGINNING FARMERS AND RANCHERS-
+  Section 346(b)(3) (as amended by paragraph (2) of this subsection) is
+  further amended by adding at the end the following new subparagraph:
+  `(F) To the extent that it is not inconsistent with an exercise of authority
+  under section 355, to the maximum extent practicable, any funds reserved
+  for down payment loans under section 310E for a fiscal year by reason of
+  subparagraph (E) that are not obligated by the end of the second quarter of
+  the fiscal year shall be available during the third quarter of the fiscal
+  year for any type of insured farm ownership loans to beginning farmers
+  and ranchers.'.
+  (d) INTEREST RATE ASSISTANCE PROGRAM- Section 346(b)(3) (as amended by
+  subsection (c)(3) of this section) is further amended by adding at the
+  end the following new subparagraph:
+  `(G) Not less than 40 percent of the amounts available for the interest
+  rate reduction program under section 351 shall be reserved for the first 6
+  months of each fiscal year for assistance to beginning farmers or ranchers.'.
+  (e) DOWN PAYMENT LOAN PROGRAM- Section 346(b) (as amended by subsection
+  (a) of this section) is further amended by adding at the end the following
+  new paragraph:
+  `(6) Notwithstanding any other provision of this title, at the end of the
+  third quarter of each fiscal year, the Secretary shall transfer, and use
+  to carry out section 310E, 75 percent of the amount that would otherwise
+  be available for guaranteed operating loans.'.
+SEC. 21. EQUAL ACCESS TO FmHA ASSISTANCE BY GENDER.
+  (a) TARGET PARTICIPATION RATES- Section 355(a) (7 U.S.C. 2003(a))
+  is amended--
+  (1) in paragraph (2), by striking `In establishing' and inserting `Except
+  as provided in paragraph (3), in establishing'; and
+  (2) by adding at the end the following new paragraph:
+  `(3) GENDER- With respect to gender, target participation rates shall
+  take into consideration the number of current and potential socially
+  disadvantaged farmers and ranchers in a State in proportion to the total
+  number of farmers and ranchers in the State.'.
+  (b) TARGETING OF LOANS TO MEMBERS OF GROUPS WHOSE MEMBERS HAVE BEEN
+  SUBJECTED TO GENDER PREJUDICE- Section 355(e)(1) (7 U.S.C. 2003(e)(1))
+  is amended by striking `or ethnic' and inserting `, ethnic, or gender'.
+  (c) RECORDKEEPING OF LOANS BY BORROWER'S GENDER- Subtitle D (7 U.S.C. 1981
+  et seq.) is amended by adding at the end the following new section:
+`SEC. 369. RECORDKEEPING OF LOANS BY BORROWER'S GENDER.
+  `The Secretary shall classify, by gender, records of applicants for loans
+  and loan guarantees under this title.'.
+SEC. 22. STATE MEDIATION PROGRAMS.
+  Section 502 of the Agricultural Credit Act of 1987 (7 U.S.C. 5102)
+  is amended--
+  (1) in subsection (b)(1), by striking `50' and inserting `70'; and
+  (2) in subsection (c), by inserting `with respect to which the amount was
+  paid' before the period.
+SEC. 23. REGULATIONS.
+  (a) INTERIM REGULATIONS- Not later than 180 days after the date of
+  enactment of this Act, the Secretary of Agriculture shall issue such interim
+  regulations as are necessary to implement this Act and the amendments made
+  by this Act.
+  (b) FINAL REGULATIONS- Not later than October 1, 1993, the Secretary
+  of Agriculture shall issue such final regulations as are necessary to
+  implement this Act and the amendments made by this Act.
+SEC. 24. TECHNICAL AMENDMENT.
+  Section 306C(a)(2) is amended to read as follows:
+  `(2) Certain areas targeted-
+  `(A) IN GENERAL- Loans and grants under paragraph (1) shall be made only
+  if the loan or grant funds will be used primarily to provide water or
+  waste services, or both, to residents of a county--
+  `(i) the per capita income of the residents of which is not more than 70
+  percent of the national average per capita income, as determined by the
+  Department of Commerce; and
+  `(ii) the unemployment rate of the residents of which is not less than
+  125 percent of the national average unemployment rate, as determined by
+  the Bureau of Labor Statistics.
+  `(B) EXCEPTION- Notwithstanding subparagraph (A), loans and grants under
+  paragraph (1) may also be made if the loan or grant funds will be used
+  primarily to provide water or waste services, or both, to residents of a
+  rural area that was recognized as a colonia as of October 1, 1989.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

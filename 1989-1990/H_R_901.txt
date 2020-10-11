@@ -1,0 +1,1744 @@
+ 
+--H.R.901--
+H.R.901
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To amend title 38, United States Code, to provide a 4.7 percent
+cost-of-living adjustment in rates of disability compensation for veterans
+with service-connected disabilities and in rates of dependency and indemnity
+compensation for survivors of veterans dying from service-connected causes
+and to improve certain veterans health-care, education, housing, and memorial
+affairs programs; and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES CODE.
+ (a) SHORT TITLE- This Act may be cited as the `Veterans' Benefits Amendments
+ of 1989'.
+ (b) REFERENCES- Except as otherwise expressly provided, whenever in this
+ Act an amendment or repeal is expressed in terms of an amendment to, or
+ repeal of, a section or other provision, the reference shall be considered
+ to be made to a section or other provision of title 38, United States Code.
+SEC. 2. DEFINITIONS.
+ (a) TITLE 38, U.S.C- Section 101(1) is amended to read as follows:
+ `(1) The terms `Secretary' and `Administrator' mean the Secretary of
+ Veterans Affairs, and the terms `Department' and `Veterans' Administration'
+ mean the Department of Veterans Affairs.'.
+ (b) THIS ACT- For purposes of this Act, the term `Secretary' means the
+ Secretary of Veterans Affairs.
+TITLE I--COMPENSATION AND PENSION
+Part A--Compensation Rate Increases
+SEC. 101. DISABILITY COMPENSATION.
+ (a) 4.7 PERCENT INCREASE- Section 314 is amended--
+ (1) by striking out `$73' in subsection (a) and inserting in lieu thereof
+ `$76';
+ (2) by striking out `$138' in subsection (b) and inserting in lieu thereof
+ `$144';
+ (3) by striking out `$210' in subsection (c) and inserting in lieu thereof
+ `$220';
+ (4) by striking out `$300' in subsection (d) and inserting in lieu thereof
+ `$314';
+ (5) by striking out `$426' in subsection (e) and inserting in lieu thereof
+ `$446';
+ (6) by striking out `$537' in subsection (f) and inserting in lieu thereof
+ `$562';
+ (7) by striking out `$678' in subsection (g) and inserting in lieu thereof
+ `$710';
+ (8) by striking out `$784' in subsection (h) and inserting in lieu thereof
+ `$821';
+ (9) by striking out `$883' in subsection (i) and inserting in lieu thereof
+ `$925';
+ (10) by striking out `$1,468' in subsection (j) and inserting in lieu thereof
+ `$1,537';
+ (11) in subsection (k)--
+ (A) by striking out `$63' both places it appears and inserting in lieu
+ thereof `$66'; and
+ (B) by striking out `$1,825' and `$2,559' and inserting in lieu thereof
+ `$1,911', and `$2,679', respectively.
+ (12) by striking out `$1,825' in subsection (l) and inserting in lieu thereof
+ `$1,911';
+ (13) by striking out `$2,012' in subsection (m) and inserting in lieu thereof
+ `$2,107';
+ (14) by striking out `$2,289' in subsection (n) and inserting in lieu thereof
+ `$2,397';
+ (15) by striking out `$2,559' each place it appears in subsections (o) and
+ (p) and inserting in lieu thereof `$2,679';
+ (16) by striking out `$1,098' and `$1,636' in subsection (r) and inserting
+ in lieu thereof `$1,150' and `$1,713', respectively; and
+ (17) by striking out `$1,643' in subsection (s) and inserting in lieu thereof
+ `$1,720'; and
+ (b) SPECIAL RULE- The Secretary may adjust administratively, consistent
+ with the increases authorized by this section, the rates of disability
+ compensation payable to persons within the purview of section 10 of Public
+ Law 85-857 who are not in receipt of compensation payable pursuant to
+ chapter 11 of title 38, United States Code.
+SEC. 102. ADDITIONAL COMPENSATION FOR DEPENDENTS.
+ Section 315(1) is amended--
+ (1) by striking out `$88' in clause (A) and inserting in lieu thereof `$92';
+ (2) by striking out `$148' and `$46' in clause (B) and inserting in lieu
+ thereof `$155' and `$48', respectively;
+ (3) by striking out `$61' and `$46' in clause (C) and inserting in lieu
+ thereof `$64' and `$48', respectively;
+ (4) by striking out `$71' in clause (D) and inserting in lieu thereof `$74';
+ (5) by striking out `$161' in clause (E) and inserting in lieu thereof
+ `$169'; and
+ (6) by striking out `$136' in clause (F) and inserting in lieu thereof `$142';
+SEC. 103. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS.
+ Section 362 is amended by striking out `$395' and inserting in lieu thereof
+ `$414'.
+SEC. 104. DEPENDENCY AND INDEMNITY COMPENSATION FOR SURVIVING SPOUSES.
+ Section 411 is amended--
+ (1) by striking out the table in subsection (a) and inserting in lieu
+ thereof the following:
+---------------------------------------
+---------------------------------------
+            Monthly            Monthly
+ `Pay grade    rate Pay grade     rate
+ E-1           $564   W-4         $809
+ E-2            581   O-1          714
+ E-3            597   O-2          737
+ E-4            634   O-3          789
+ E-5            651   O-4          834
+ E-6            666   O-5          920
+ E-7            698   O-6        1,038
+ E-8            737   O-7        1,121
+ E-9          1 770   O-8        1,229
+ W-1            714   O-9        1,318
+ W-2            742   O-10     2 1,446
+ W-3            764
+---------------------------------------
+` 1 If the veteran served as sergeant major of the Army, senior enlisted
+advisor of the Navy, chief master sergeant of the Air Force, sergeant major
+of the Marine Corps, or master chief petty officer of the Coast Guard, at
+the applicable time designated by section 402 of this title, the surviving
+spouse's rate shall be $831.
+` 2 If the veteran served as Chairman or Vice-Chairman of the Joint Chiefs
+of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of
+Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the
+Coast Guard, at the applicable time designated by section 402 of this title,
+the surviving spouse's rate shall be $1,550.';
+ (2) by striking out `$62' in subsection (b) and inserting in lieu thereof
+ `$65';
+ (3) by striking out `$161' in subsection (c) and inserting in lieu thereof
+ `$169'; and
+ (4) by striking out `$79' in subsection (d) and inserting in lieu thereof
+ `$83'.
+SEC. 105. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHILDREN.
+ (a) DIC FOR ORPHAN CHILDREN- Section 413(a) is amended--
+ (1) by striking out `$271' in clause (1) and inserting in lieu thereof `$284';
+ (2) by striking out `$391' in clause (2) and inserting in lieu thereof `$409';
+ (3) by striking out `$505' in clause (3) and inserting in lieu thereof
+ `$529'; and
+ (4) by striking out `$505' and `$100' in clause (4) and inserting in lieu
+ thereof `$529' and `$105', respectively.
+ (b) SUPPLEMENTAL DIC FOR DISABLED ADULT CHILDREN- Section 414 is amended--
+ (1) by striking out `$161' in subsection (a) and inserting in lieu thereof
+ `$169';
+ (2) by striking out `$271' in subsection (b) and inserting in lieu thereof
+ `$284'; and
+ (3) by striking out `$138' in subsection (c) and inserting in lieu thereof
+ `$144'.
+SEC. 106. EFFECTIVE DATE FOR RATE INCREASES.
+ The amendments made by this part shall take effect on December 1, 1989.
+Part B--Compensation and Pension Program Changes
+SEC. 111. LIMITATIONS ON PENSIONS OF CERTAIN VETERANS RECEIVING INSTITUTIONAL
+CARE.
+ (a) PAYMENT OF PENSION- Section 3203(a)(1) is amended--
+ (1) by striking out `$60' in subparagraphs (A) and (B) and inserting in
+ lieu thereof `$90';
+ (2) by striking out `second' in subparagraph (A) and inserting in lieu
+ thereof `third';
+ (3) by striking out `hospital or' each place it appears in subparagraphs
+ (B) and (D).
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall take effect
+ on February 1, 1990.
+SEC. 112. EXPANSION OF CLOTHING ALLOWANCE.
+ Section 362 is amended--
+ (1) by striking out `Administrator' the first two places it appears and
+ inserting in lieu thereof `Secretary';
+ (2) by striking out all after `each veteran' and inserting in lieu thereof
+ `who--
+ `(1) because of a service-connected disability, wears or uses a prosthetic or
+ orthopedic appliance (including a wheelchair) which the Secretary determines
+ tends to wear out or tear the clothing of the veteran; or
+ `(2) uses medication which (A) a physician has prescribed for a skin condition
+ which is due to a service-connected disability, and (B) the Secretary
+ determines causes irreparable damage to the veteran's outergarments.'.
+SEC. 113. REDUCTION IN PERIOD OF MARRIAGE REQUIRED FOR ELIGIBILITY FOR
+CERTAIN SURVIVOR BENEFITS.
+ Section 418(c)(1) is amended by striking out `two years' and inserting in
+ lieu thereof `one year'.
+SEC. 114. TEMPORARY PROGRAM OF VOCATIONAL TRAINING.
+ (a) REDUCTION IN MAXIMUM AGE OF NEW PENSION RECIPIENTS FOR WHOM VOCATIONAL
+ EVALUATIONS ARE REQUIRED- Section 524(a) is amended by striking out `50'
+ in paragraphs (1) and (2) and inserting in lieu thereof `45'.
+ (b) PRESERVATION OF DISABILITY RATING- Section 524 is amended by redesignating
+ subsections (c) and (d) as subsections (d) and (e) and inserting after
+ subsection (b) the following:
+ `(c) In the case of a veteran who has been determined to have a permanent
+ and total non-service-connected disability and who, not later than one year
+ after the date the veteran's eligibility for counseling under subsection
+ (b)(3) of this section expires, secures employment within the scope of a
+ vocational goal identified in the veteran's individualized written plan of
+ vocational rehabilitation (or in a related field which requires reasonably
+ developed skills and the use of some or all of the training or services
+ furnished the veteran under such plan), the evaluation of the veteran as
+ having a permanent and total disability may not be terminated by reason
+ of the veteran's capacity to engage in such employment until the veteran
+ first maintains such employment for a period of not less than 12 consecutive
+ months.'.
+SEC. 115. DECISIONS AND NOTICES OF DECISIONS.
+ (a) IN GENERAL- (1) Chapter 51 is amended by inserting after section 3003
+ the following new section:
+`Sec. 3004. Decisions and notices of decisions
+ `(a)(1) In the case of a decision by the Secretary under section 211(a) of
+ this title affecting the provision of benefits to a claimant, the Secretary
+ shall, on a timely basis, provide to the claimant (and to the claimant's
+ representative) notice of such decision. The notice shall include an
+ explanation of the procedure for obtaining review of the decision.
+ `(2) In any case where the Secretary denies a benefit sought, the notice
+ required by paragraph (1) of this subsection shall also include (A)
+ a statement of the reasons for the decision, and (B) a summary of the
+ evidence considered by the Secretary.'.
+ (2) The table of sections at the beginning of such chapter is amended by
+ inserting after the item relating to section 3003 the following new item:
+`3004. Decisions and notices of decisions.'.
+ (b) EFFECTIVE DATE- Section 3004 of title 38, United States Code, as added
+ by subsection (a), shall apply with respect to decisions by the Secretary
+ of Veterans Affairs made after January 31, 1990.
+TITLE II--HEALTH-CARE PROVISIONS
+SEC. 201. EXTENSION OF CERTAIN EXPIRING PROGRAMS.
+ (a) RESPITE CARE- Section 620B(c) is amended by striking out `September 30,
+ 1989' and inserting in lieu thereof `September 30, 1992'.
+ (b) STATE HOME GRANT AUTHORITY- Section 5033(a) is amended by striking out
+ `September 30, 1990' and inserting in lieu thereof `September 30, 1992'.
+ (c) HOMELESS VETERANS- Section 115(d) of the Veterans' Benefits and Services
+ Act of 1988 (Public Law 100-322; 102 Stat. 501) is amended by striking out
+ `September 30, 1989' and inserting in lieu thereof `September 30, 1992'.
+ (d) ANNUAL REPORT ON MEANS TEST FOR FURNISHING NON-SERVICE-CONNECTED HEALTH
+ CARE- Section 19011(e)(1) of the Veterans' Health Care Amendments of 1986
+ (title XIX of Public Law 99-272; 100 Stat. 379) is amended by striking out
+ `and 1988' and inserting in lieu thereof `, 1988 and 1989'.
+ (e) UPDATES OF REPORTS UNDER SECTION 110(e) OF PUBLIC LAW 98-528- (1)
+ Not later than February 1, 1990, the Special Committee on Post-Traumatic
+ Stress Disorder (hereinafter in this subsection referred to as the `Special
+ Committee') established pursuant to section 110(b)(1) of the Veterans' Health
+ Care Act of 1984 (Public Law 98-528; 98 Stat. 2691) shall submit concurrently
+ to the Secretary of Veterans Affairs and the Committees on Veterans' Affairs
+ of the Senate and House of Representatives (hereinafter in this subsection
+ referred to as the `Committees') a report containing information updating
+ the reports submitted by the Secretary under section 110(e) of such Act,
+ together with any additional information the Special Committee considers
+ appropriate regarding the overall efforts of the Department of Veterans
+ Affairs to meet the needs of veterans with post-traumatic stress disorder
+ and other psychological problems in readjusting to civilian life.
+ (2) Not later than 60 days after receiving the report under paragraph (1),
+ the Secretary shall submit to the Committees any comments concerning the
+ report that the Secretary considers appropriate.
+SEC. 202. REIMBURSEMENT FOR EMERGENCY CARE OF VOCATIONAL REHABILITATION
+PARTICIPANTS.
+ (a) IN GENERAL- Section 628(a)(2)(D) is amended by striking out `found to be'
+ and all that follows through `rehabilitation training and' and inserting
+ in lieu thereof `(i) a participant in a vocational rehabilitation program
+ (as defined in section 1501(9) of this title), and (ii)'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply with
+ respect to hospital care and medical services received on or after the date
+ of the enactment of this Act.
+SEC. 203. APPOINTMENT OF CERTAIN INDIVIDUALS IN HEALTH-CARE POSITIONS.
+ Section 4106 is amended by adding at the end the following new subsection:
+ `(h)(1) The Secretary may appoint in the competitive civil service without
+ regard to the provisions of subchapter I of chapter 33 of title 5 (other
+ than sections 3303 and 3328 of such title) an individual who--
+ `(A) has a recognized degree or certificate from an accredited institution
+ in a health-care profession or occupation; and
+ `(B) has successfully completed a clinical education program affiliated
+ with the Department.
+ `(2) In using the authority provided by this subsection, the Secretary
+ shall apply the principles of preference for the hiring of veterans and
+ other persons established in subchapter I of chapter 33 of title 5.'.
+SEC. 204. APPROVAL OF SPECIAL RATES OF PAY.
+ Section 4107(g)(4) is amended--
+ (1) in the first sentence, by striking out `ninety days prior to' and
+ inserting in lieu thereof `45 days before'; and
+ (2) by adding at the end the following new sentence: `If, before such
+ effective date, the President approves such increase, the Secretary may
+ advance the effective date to any date not earlier than the date of the
+ President's approval.'.
+SEC. 205. REVISION IN LIMITATION ON COMPENSATION OF HEALTH-CARE PERSONNEL
+WHO ARE RETIRED MILITARY PERSONNEL.
+ (a) EXTENSION TO REGISTERED NURSES- Section 4107(i) is amended--
+ (1) by inserting `, and registered nurse positions,' after `physician
+ positions'; and
+ (2) by adding at the end the following new sentence: `The authority of the
+ Secretary under the preceding sentence with respect to registered-nurse
+ positions expires on September 30, 1992.'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a)(1) shall take
+ effect on the first day of the first pay period beginning on or after the
+ date of the enactment of this Act.
+SEC. 206. LEAVE SHARING AND LEAVE BANKS.
+ (a) IN GENERAL- Section 4108 is amended by adding at the end the following
+ new subsection:
+ `(e)(1) The Secretary shall establish a leave transfer program for the benefit
+ of health-care professionals referred to in the matter preceding clause
+ (1) of subsection (a) of this section. The Secretary may also establish a
+ leave bank program for the benefit of such health-care professionals.
+ `(2) To the maximum extent feasible--
+ `(A) the leave transfer program shall provide the same or similar requirements
+ and conditions as are provided for the program established by the Director
+ of the Office of Personnel Management under subchapter III of chapter 63
+ of title 5; and
+ `(B) any leave bank program established pursuant to paragraph (1) of this
+ subsection shall be consistent with the requirements and conditions provided
+ for agency leave bank programs in subchapter IV of such chapter.
+ `(3) Participation by a health-care professional in the leave transfer
+ program established pursuant to paragraph (1) of this subsection, and in
+ any leave bank program established pursuant to such paragraph, shall be
+ voluntary. The Secretary may not require any health-care professional to
+ participate in such a program.
+ `(4)(A) The Secretary and the Director of the Office of Personnel Management
+ may enter into an agreement that permits health-care professionals referred
+ to in paragraph (1) of this subsection to participate in the leave transfer
+ program established by the Director of the Office of Personnel Management
+ under subchapter III of chapter 63 of title 5 or in any leave bank program
+ established for other employees of the Department pursuant to subchapter
+ IV of chapter 63 of title 5, or both.
+ `(B) Participation of such health-care professionals in a leave transfer
+ program or a leave bank program pursuant to an agreement entered into under
+ subparagraph (A) of this paragraph shall be subject to such requirements
+ and conditions as may be prescribed in such agreement.
+ `(5) The Secretary is not required to establish a leave transfer program
+ for any personnel permitted to participate in a leave transfer program
+ pursuant to an agreement referred to in paragraph (4) of this subsection.'.
+ (b) IMPLEMENTATION- (1) The Secretary shall implement the programs provided
+ for in subsection (e) of section 4108 of title 38, United States Code
+ (as added by subsection (a) of this section), not later than October 1, 1990.
+ (2) The authority of the Department of Veterans Affairs under section 618 of
+ the Treasury, Postal Service and General Government Appropriations Act, 1989,
+ to operate a leave-transfer program for employees subject to section 4108
+ of title 38, United States Code, is extended until the programs provided
+ for in subsection (e) of such section 4108 (as added by subsection (a)
+ of this section) are implemented, but not later than October 1, 1990.
+SEC. 207. HEALTH PROFESSIONAL SCHOLARSHIPS.
+ (a) APPLICANT PRIORITY AND EQUITABLE ALLOCATION FOR NURSING DEGREE APPLICANTS-
+ Section 4312(b)(5) is amended to read as follows:
+ `(5) In selecting applicants for the Scholarship Program, the Secretary--
+ `(A) shall give priority to applicants who will be entering their final
+ year in a course of training; and
+ `(B) shall ensure an equitable allocation of scholarships to persons enrolled
+ in the second year of a program leading to an associate degree in nursing.'.
+ (b) IMPLEMENTATION REQUIREMENT- The Secretary of Veterans Affairs shall
+ provide for the implementation of the amendment made by subsection (a)
+ beginning with scholarships awarded under section 4312 of title 38, United
+ States Code, during 1990.
+TITLE III--HOUSING
+SEC. 301. SHORT TITLE.
+ This title may be cited as the `Veterans Home Loan Indemnity and Restructuring
+ Act of 1989'.
+SEC. 302. ESTABLISHMENT OF GUARANTY AND INDEMNITY FUND.
+ (a) NEW FUND- (1) Section 1825 is amended to read as follows:
+`Sec. 1825. Guaranty and Indemnity Fund
+ `(a) There is hereby established in the Treasury of the United States a
+ revolving fund known as the Guaranty and Indemnity Fund.
+ `(b) The Guaranty and Indemnity Fund shall be available to the Secretary
+ for all operations carried out with respect to housing loans guaranteed
+ or insured under this chapter that are closed after December 31, 1989,
+ except for operations with respect to loans for any purpose specified in
+ section 1812 of this title, for loans guaranteed under section 1811(g)
+ of this title, and for administrative expenses. For purposes of this
+ subsection, the term `administrative expenses' shall not include expenses
+ incurred by the Secretary for appraisals performed after December 31, 1989,
+ on a contractual basis in connection with the liquidation of housing loans
+ guaranteed, insured, or made under this chapter.
+ `(c)(1) All fees collected under section 1829 of this title for loans with
+ respect to which the Guaranty and Indemnity Fund is available shall be
+ credited to such Fund.
+ `(2) There shall also be credited to the Guaranty and Indemnity Fund--
+ `(A) for each loan closed during fiscal year 1990 with respect to which the
+ Guaranty and Indemnity Fund is available, an amount equal to 0.375 percent of
+ the original amount of such loan for each of the fiscal years 1991 and 1992;
+ `(B) for each loan closed after fiscal year 1990 with respect to which the
+ Guaranty and Indemnity Fund is available, an amount equal to 0.25 percent
+ of the original amount of such loan for each of the three fiscal years
+ beginning with the fiscal year in which such loan is closed;
+ `(C) all collections of principal and interest and the proceeds from the
+ use or sale of property which secured a loan with respect to which the
+ Guaranty and Indemnity Fund is available;
+ `(D) amounts required to be credited under subsections (a)(3) and (c)(2),
+ including amounts credited pursuant to subsections (a)(4) and (c)(3),
+ of section 1829 of this title;
+ `(E) fees collected under section 1829(b) of this title with respect to
+ guaranteed or insured loans that are closed after December 31, 1989, and
+ subsequently assumed; and
+ `(F) all income from the investments described in subsection (d) of this
+ section.
+ `(d)(1) The Secretary of the Treasury shall invest the portion of the
+ Guaranty and Indemnity Fund that is not required to meet current payments
+ made from such Fund, as determined by the Secretary of Veterans Affairs,
+ in obligations of the United States or in obligations guaranteed as to
+ principal and interest by the United States.
+ `(2) In making investments under paragraph (1) of this subsection,
+ the Secretary of the Treasury shall select obligations having maturities
+ suitable to the needs of the Guaranty and Indemnity Fund, as determined by
+ the Secretary of Veterans Affairs, and bearing interest at suitable rates,
+ as determined by the Secretary of the Treasury, taking into consideration
+ current market yields on outstanding marketable obligations of the United
+ States of comparable maturities.
+ `(e)(1) Notwithstanding subsection (b) of this section, the Guaranty and
+ Indemnity Fund shall be available to the Secretary, to such extent as is,
+ or in such amounts as are, provided for in appropriation Acts and subject
+ to paragraph (2) of this subsection, for--
+ `(A) contracts for the performance of supplementary services described in
+ paragraph (2) of section 1824(e) of this title for which the Secretary is
+ otherwise authorized to contract; and
+ `(B) the acquisition of supplementary equipment described in such paragraph,
+(not including services or equipment for which the Guaranty and Indemnity
+Fund is available under subsection (b) of this section), as the Secretary
+determines would assist in ensuring the long-term stability and solvency of
+the Guaranty and Indemnity Fund.
+ `(2) The Secretary may not in any fiscal year obligate more than a total
+ of $25,000,000 for services or equipment under this subsection and section
+ 1824(e) of this title.'.
+ (2) Section 1824(e)(3) is amended--
+ (A) by inserting `a total of' before `$25,000,000'; and
+ (B) by inserting `and section 1825(e) of this title' before the period.
+ (3)(A) The section heading of section 1824 is amended to read as follows:
+`Sec. 1824. Loan Guaranty Revolving Fund'.
+ (B) The table of sections at the beginning of chapter 37 is amended by
+ striking out the items relating to sections 1824 and 1825 and inserting in
+ lieu thereof the following:
+`1824. Loan Guaranty Revolving Fund.
+`1825. Guaranty and Indemnity Fund.'.
+ (b) ANNUAL SUBMISSION OF INFORMATION- (1) Subchapter III of chapter 37 is
+ amended by adding at the end the following new section:
+`Sec. 1834. Annual submission of information on the Loan Guaranty Revolving
+Fund and the Guaranty and Indemnity Fund
+ `(a) In the documents providing detailed information on the budget for the
+ Department of Veterans Affairs that the Secretary submits to the Congress
+ in conjunction with the President's budget submission for each fiscal year
+ pursuant to section 1105 of title 31, United States Code, the Secretary
+ shall include--
+ `(1) a description of the operations of the Loan Guaranty Revolving Fund
+ and the Guaranty and Indemnity Fund during the fiscal year preceding the
+ fiscal year in which such budget is submitted; and
+ `(2) the needs of such funds, if any, for appropriations in--
+ `(A) the fiscal year in which the budget is submitted; and
+ `(B) the fiscal year for which the budget is submitted.
+ `(b) The matters submitted under subsection (a) of this section shall include,
+ with respect to each fund referred to in subsection (a), the following:
+ `(1) Information and financial data on the operations of the fund during
+ the fiscal year before the fiscal year in which such matters are submitted
+ and estimated financial data and related information on the operation of
+ the fund for--
+ `(A) the fiscal year of the submission; and
+ `(B) the fiscal year following the fiscal year of the submission.
+ `(2) Estimates of the amount of revenues derived by the fund in the fiscal
+ year preceding the fiscal year of the submission, in the fiscal year of
+ the submission, and in the fiscal year following the fiscal year of the
+ submission from each of the following sources:
+ `(A) Fees collected under section 1829(a) of this title for each category
+ of loan guaranteed, insured, or made under this chapter or collected under
+ section 1829(b) of this title for assumed loans.
+ `(B) Federal Government contributions made under clauses (A) and (B) of
+ section 1825(c)(2) of this title.
+ `(C) Federal Government payments under subsections (a)(3) and (c)(2) of
+ section 1829 of this title.
+ `(D) Investment income.
+ `(E) Sales of foreclosed properties.
+ `(F) Loan asset sales.
+ `(G) Each additional source of revenue.
+ `(3) Information, for each fiscal year referred to in paragraph (2) of
+ this subsection, regarding the types of dispositions made and anticipated
+ to be made of defaults on loans guaranteed, insured, or made under this
+ chapter, including the cost to the fund, and the numbers, of such types
+ of dispositions.'.
+ (2) The table of sections at the beginning of chapter 37 is amended by
+ inserting after the item relating to section 1833 the following new item:
+`1834. Annual submission of information on the Loan Guaranty Revolving Fund
+and the Guaranty and Indemnity Fund.'.
+ (c) CONFORMING AMENDMENTS- Section 1824 is amended--
+ (1) in subsection (b), by inserting before the period at the end of the first
+ sentence the following: `and the operations carried out in connection with the
+ Guaranty and Indemnity Fund established by section 1825 of this title'; and
+ (2) in subsection (c)--
+ (A) by inserting after `title' in clause (2) the following: `for loans
+ closed before January 1, 1990, except that fees collected (A) for all loans
+ made for any purpose specified in section 1812 of this title, or (B) under
+ subsection (b) of such section 1829 for guaranteed or insured loans that
+ are closed before January 1, 1990, and subsequently assumed shall also be
+ deposited in the Fund'; and
+ (B) by inserting after `under this chapter' in clause (3) the following:
+ `(other than operations for which the Guaranty and Indemnity Fund established
+ under section 1825 of this title is available)'.
+SEC. 303. LOAN FEE.
+ (a) IN GENERAL- Section 1829 is amended to read as follows:
+`Sec. 1829. Loan fee
+ `(a)(1) Except as provided in subsection (c)(1) of this section, a fee
+ shall be collected from each veteran obtaining a housing loan guaranteed,
+ insured, or made under this chapter, and from each person obtaining a loan
+ under section 1833(a) of this title, and no such loan may be guaranteed,
+ insured, or made under this chapter until the fee payable under this section
+ has been remitted to the Secretary.
+ `(2) The amount of such fee shall be 1.25 percent of the total loan amount,
+ except that--
+ `(A) in the case of a loan made under section 1811 or 1833(a) of this title
+ or for any purpose specified in section 1812 of this title, the amount of
+ such fee shall be one percent of the total loan amount;
+ `(B) in the case of a guaranteed or insured loan for a purchase (except for a
+ purchase referred to in section 1812(a) of this title), or for construction,
+ with respect to which the veteran has made a downpayment of 5 percent or more,
+ but less than 10 percent, of the total purchase price or construction cost,
+ the amount of such fee shall be 0.75 percent of the total loan amount; and
+ `(C) in the case of a guaranteed or insured loan for a purchase (except for a
+ purchase referred to in section 1812(a) of this title), or for construction,
+ with respect to which the veteran has made a downpayment of 10 percent or
+ more of the total purchase price or construction cost, the amount of such
+ fee shall be 0.50 percent of the total loan amount.
+ `(3) Except as provided in paragraph (4) of this subsection, there shall
+ be credited to the Guaranty and Indemnity Fund (in addition to the amount
+ required to be credited to such Fund under section 1825(c)(2) (A) or (B)
+ of this title), on behalf of a veteran who has made a downpayment described
+ in paragraph (2)(C) of this subsection, an amount equal to 0.25 percent of
+ the total loan amount for the fiscal year in which the loan is closed and
+ for the following fiscal year.
+ `(4) Credits to the Guaranty and Indemnity Fund under paragraph (3) of this
+ subsection with respect to loans guaranteed or insured under this chapter
+ that are closed during fiscal year 1990 shall be made in October 1990 and
+ October 1991.
+ `(5) The amount of the fee to be collected under paragraph (1) of this
+ subsection may be included in the loan and paid from the proceeds thereof.
+ `(b) Except as provided in subsection (c) of this section, a fee shall
+ be collected from a person assuming a loan to which section 1814 of this
+ title applies. The amount of the fee shall be equal to 0.50 percent of the
+ balance of the loan on the date of the transfer of the property.
+ `(c)(1) A fee may not be collected under this section from a veteran who
+ is receiving compensation (or who but for the receipt of retirement pay
+ would be entitled to receive compensation) or from a surviving spouse of
+ any veteran (including a person who died in the active military, naval,
+ or air service) who died from a service-connected disability.
+ `(2) There shall be credited to the Guaranty and Indemnity Fund (in addition
+ to the amount required to be credited to such Fund under section 1825(c)(2)
+ (A) or (B) of this title and subsection (a)(3) of this section), on behalf of
+ a veteran or surviving spouse described in paragraph (1) of this subsection,
+ an amount equal to the fee that, except for paragraph (1) of this subsection,
+ would be collected from such veteran or surviving spouse.
+ `(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of
+ this subsection with respect to loans guaranteed, insured, or made under
+ this chapter that are closed during fiscal year 1990 shall be made in
+ October 1990.'.
+ (b) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on January 1, 1990.
+ (c) FEE COLLECTION THROUGH 1989- Notwithstanding any other provision of law,
+ the Secretary of Veterans Affairs shall collect fees under section 1829 of
+ title 38, United States Code, through December 31, 1989.
+SEC. 304. INDEMNIFICATION AFTER DEFAULT.
+ (a) IN GENERAL- Section 1803 is amended by adding at the end the following
+ new subsection:
+ `(e)(1) Except as provided in paragraph (2) of this subsection, an individual
+ who pays a fee under section 1829 of this title, or who is exempted under
+ section 1829(c)(1) of this title from paying such fee, with respect to a
+ housing loan guaranteed or insured under this chapter that is closed after
+ December 31, 1989, shall have no liability to the Secretary with respect to
+ the loan for any loss resulting from any default of such individual except
+ in the case of fraud, misrepresentation, or bad faith by such individual
+ in obtaining the loan or in connection with the loan default.
+ `(2) The exemption from liability provided by paragraph (1) of this subsection
+ shall not apply to--
+ `(A) an individual from whom a fee is collected (or who is exempted from
+ such fee) under section 1829(b) of this title; or
+ `(B) a loan made for any purpose specified in section 1812 of this title.'.
+ (b) CONFORMING AMENDMENT- The last sentence of section 1832(a)(1) is amended
+ by striking out `If' and inserting in lieu thereof `Except as provided in
+ section 1803(e) of this title, if'.
+SEC. 305. SALE OF VENDEE LOANS.
+ (a) IN GENERAL- Section 1833 is amended--
+ (1) in subsection (a)(3)--
+ (A) in subparagraph (A), by striking out `Before October 1, 1990,' and
+ inserting in lieu thereof `Subject to subparagraph (C) of this paragraph,';
+ (B) in subparagraph (B), by striking out `occurring before October 1,
+ 1990'; and
+ (C) in subparagraph (C), by striking out `October 1, 1990,' and inserting
+ in lieu thereof `October 1, 1989,';
+ (2) in subsection (a)(6), by striking out `October 1' and inserting in lieu
+ thereof `December 31'; and
+ (3) by adding at the end the following new subsection:
+ `(e) Notwithstanding any other provision of law, the amount received from
+ the sale of any note evidencing a loan secured by real property described in
+ subsection (a)(1) of this section shall be credited, without any reduction
+ and for the fiscal year in which the amount is received, as offsetting
+ collections of--
+ `(1) the revolving fund for which a fee under section 1829 of this title
+ was collected (or was exempted from being collected) at the time of the
+ original guaranty of the loan that was secured by the same property; or
+ `(2) in any case in which there was no requirement of (or exemption from)
+ a fee at the time of the original guaranty of the loan that was secured by
+ the same property, the Loan Guaranty Revolving Fund; and
+the total so credited to any revolving fund for a fiscal year shall offset
+outlays attributed to such revolving fund during such fiscal year.'.
+ (b) EFFECTIVE DATES- (1) If, before the date and time of the enactment of this
+ Act, no provision of law has been enacted amending section 1833 of title 38,
+ United States Code, by adding a new subsection (e) with a text substantively
+ identical to the text of the new subsection (e) added to such section 1833
+ by subsection (a)(3) of this section, the provisions of subsection (a)(1)
+ of this section amending subsection (a)(3) of such section 1833 shall not
+ take effect.
+ (2) Subsection (e) of section 1833 of such title 38, as added by subsection
+ (a)(3), shall apply with respect to amounts referred to in such subsection
+ (e) received after September 30, 1989.
+SEC. 306. INCREASE IN ENTITLEMENT AMOUNT.
+ (a) INCREASED ENTITLEMENT- Section 1803(a)(1) is amended--
+ (1) in subparagraph (A)(i)--
+ (A) by striking out `or' after the semicolon in subclause (I); and
+ (B) by striking out subclause (II) and inserting in lieu thereof the
+ following:
+ `(II) in the case of any loan of more than $45,000, but not more than
+ $56,250, $22,500;
+ `(III) in the case of any loan of more than $56,250, but not more than
+ $144,000, the lesser of $36,000 or 40 percent of the loan; or
+ `(IV) in the case of any loan of more than $144,000 for a purpose specified
+ in clause (1), (2), (3), or (6) of section 1810(a) of this title, the lesser
+ of $46,000 or 25 percent of the loan; or'; and
+ (2) in subparagraph (B), by striking out `$36,000' and inserting in lieu
+ thereof `$36,000, or in the case of a loan described in subparagraph
+ (A)(i)(IV) of this paragraph, $46,000,'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall take effect
+ on the date of the enactment of this Act and shall apply only with respect
+ to loans closed after such date.
+SEC. 307. NOTIFICATION REQUIREMENT.
+ Section 1832(a) is amended by adding at the end the following:
+ `(5) In the event of default in the payment of any loan guaranteed or insured
+ under this chapter in which a partial payment has been tendered by the veteran
+ concerned and refused by the holder, the holder of the obligation shall notify
+ the Secretary as soon as such payment has been refused. The Secretary may
+ require that any such notification include a statement of the circumstances
+ of the default, the amount tendered, the amount of the indebtedness on the
+ date of the tender, and the reasons for the holder's refusal.'.
+SEC. 308. NO-BID FORMULA.
+ (a) EXCLUSION OF INTEREST COSTS- Section 1832(c)(1)(C)(ii) is amended by
+ inserting before the period the following: `, excluding any amount attributed
+ to the cost to the Government of borrowing funds'.
+ (b) EXTENSION- (1) Section 1832(c)(11) of such title is amended by striking
+ out `October 1, 1989' and inserting in lieu thereof `October 1, 1991'.
+ (2) The amendment made by paragraph (1) shall take effect as of October
+ 1, 1989.
+SEC. 309. REFINANCING LOANS.
+ (a) REPEAL OF LIMITATION ON AMOUNT OF REFINANCING LOAN- Section 1810 is
+ amended by striking out subsection (h).
+ (b) CONDITIONS FOR GUARANTEEING OR MAKING A REFINANCING LOAN- Subsection
+ (b) of section 1810 is amended--
+ (1) in clause (5)--
+ (A) by inserting `except in the case of a loan described in clause (7) or
+ (8) of this subsection,' after `(5)'; and
+ (B) by striking out `and,' at the end;
+ (2) by striking out the period at the end of clause (6) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end the following new clauses:
+ `(7) in the case of a loan (other than a loan made for a purpose specified
+ in subsection (a)(8) of this section) that is made to refinance--
+ `(A) a construction loan,
+ `(B) an installment land sales contract, or
+ `(C) a loan assumed by the veteran that provides for a lower interest rate
+ than the loan being refinanced,
+the amount of the loan to be guaranteed or made does not exceed the lesser of--
+ `(i) the reasonable value of the dwelling or farm residence securing the
+ loan, as determined pursuant to section 1831 of this title; or
+ `(ii) the sum of the outstanding balance on the loan to be refinanced
+ and the closing costs (including discounts) actually paid by the veteran,
+ as specified by the Secretary in regulations; and
+ `(8) in the case of a loan to refinance a loan (other than a loan or
+ installment sales contract described in clause (7) of this subsection or
+ a loan made for a purpose specified in subsection (a)(8) of this section),
+ the amount of the loan to be guaranteed or made does not exceed 90 percent
+ of the reasonable value of the dwelling or farm residence securing the loan,
+ as determined pursuant to section 1831 of this title.'.
+SEC. 310. COMPUTATION OF ENTITLEMENT AMOUNT.
+ Section 1802(b) is amended--
+ (1) by striking out `or' at the end of clause (1)(B);
+ (2) by striking out the period at the end of clause (2) and inserting in
+ lieu thereof `; or'; and
+ (3) by inserting after clause (2) the following new clause:
+ `(3)(A) the loan has been repaid in full; and
+ `(B) the loan for which the veteran seeks to use entitlement under this
+ chapter is secured by the same property which secured the loan referred to
+ in subparagraph (A) of this paragraph.'.
+SEC. 311. WAIVER OF INDEBTEDNESS TO THE UNITED STATES.
+ Section 3102 is amended--
+ (1) in subsection (b), by striking out `may' and inserting in lieu thereof
+ `shall, except as provided in subsection (c) of this section,'; and
+ (2) in subsection (c)--
+ (A) by striking out `The' and all that follows through `thereon)' and
+ inserting in lieu thereof `The recovery of any payment or the collection
+ of any indebtedness (or any interest thereon) may not be waived under this
+ section'; and
+ (B) by striking out `, material fault, or lack of good faith' and inserting
+ in lieu thereof `or bad faith'.
+SEC. 312. STUDY OF HOME LOANS TO NATIVE-AMERICAN VETERANS.
+ (a) IN GENERAL- The Secretary of Veterans Affairs and the Secretary of the
+ Interior shall jointly conduct a study to determine the following:
+ (1) The extent to which veterans who are Native Americans living on
+ Native-American trust lands participate in the Department of Veterans Affairs
+ home loan guaranty program under chapter 37 of title 38, United States Code.
+ (2) The level of participation of such veterans in such program, whether
+ such participation is lower than the level of participation of all veterans
+ and, if so, the reasons for the lower level of participation, including
+ any reasons relating to the structure of the home loan guaranty program,
+ the secondary mortgage market, the willingness of lenders to make home
+ loans on trust land, cultural factors, and attitudinal factors.
+ (3) The legislative, regulatory, and administrative actions necessary,
+ if any, to improve the access of the veterans referred to in paragraph (1)
+ to benefits under chapter 37 of title 38, United States Code.
+ (4) Whether it would be desirable, feasible, and equitable to utilize the
+ direct home loan authority under section 1811 of title 38, United States
+ Code, to promote increased home ownership among such veterans.
+ (b) CONSIDERATIONS- In conducting the study, the Secretaries shall consider--
+ (1) the concerns and recommendations of the Advisory Committee on
+ Native-American Veterans contained in the reports submitted by that committee
+ pursuant to section 19032(f) of the Veterans' Health-Care Amendments of 1986
+ (title XIX of Public Law 99-272; 100 Stat. 388);
+ (2) the experience of the Bureau of Indian Affairs and the Department
+ of Housing and Urban Development in developing and carrying out programs
+ designed to meet the home financing needs of Native Americans; and
+ (3) any experience of private-sector lending institutions in making loans
+ on trust land.
+ (c) REPORT- Not later than June 1, 1990, the Secretaries shall transmit to
+ the Committees on Veterans' Affairs of the Senate and House of Representatives
+ a report on the results of the study conducted under subsection (a).
+ (d) DEFINITIONS- For the purposes of this section--
+ (1) the term `Native-American trust land' means any land that--
+ (A) is held in trust by the United States for Native Americans;
+ (B) is subject to restrictions on alienation imposed by the United States
+ on Indian lands;
+ (C) is owned by a Regional Corporation or a village corporation, as such
+ terms are defined in section 3(b) of the Alaska Native Claims Settlement Act
+ (43 U.S.C. 1602(b)); or
+ (D) is on any island in the Pacific Ocean if such land is, by cultural
+ tradition, communally-owned land, as determined by the Secretary of Veterans
+ Affairs; and
+ (2) the term `Native American' means--
+ (A) an Indian, as defined in section 4(d) of the Indian Self-Determination
+ and Education Assistance Act (25 U.S.C. 450b(d));
+ (B) a Native Hawaiian, as defined in section 8 of the Native Hawaiian Health
+ Care Act of 1988 (Public Law 100-579; 102 Stat. 2921);
+ (C) an Alaska Native, within the meaning provided for the term `Native' in
+ section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b));
+ and
+ (D) a Pacific Islander, within the meaning of the Native American Programs
+ Act of 1974 (42 U.S.C. 2991 et seq.).
+SEC. 313. CLARIFYING AND TECHNICAL AMENDMENTS.
+ (a) CLARIFYING AMENDMENT- Section 1801(b) is amended by adding at the end
+ the following new paragraph:
+ `(4) The term `veteran' also includes an individual serving on active duty.'.
+ (b) TECHNICAL AMENDMENTS- Title 38 is amended as follows:
+ (1) Chapters 23, 24, and 37 are amended by striking out `Administrator' and
+ `Administrator's' each place such terms appear (other than in sections
+ 906(e)(2) and 1812(h)(2)(B) and in section 1845(a) the third place
+ `Administrator' appears) and inserting in lieu thereof `Secretary' and
+ `Secretary's', respectively.
+ (2) Subchapter III of chapter 37 is amended by striking out `Veterans'
+ Administration' and `Veterans' Administration's' each place such terms
+ appear and inserting in lieu thereof `Department of Veterans Affairs' and
+ `Department of Veterans Affairs', respectively.
+ (3) Section 906(e)(2) is amended by striking out `Administrator or the
+ Secretary' and inserting in lieu thereof `Secretary of Veterans Affairs or
+ Secretary of the Army'.
+ (4) Section 1005(a) is amended by inserting `of the Interior' after
+ `Secretary' the second place it appears.
+ (5) Section 1009(b) is amended by inserting `of the Army' after `Secretary'.
+ (6) Section 1803(c)(1) is amended by inserting `of Housing and Urban
+ Development' after `Secretary' the second place it appears.
+ (7) Section 1812(h)(2)(B) is amended--
+ (A) by striking out `Secretary pursuant' and inserting in lieu thereof
+ `Secretary of Housing and Urban Development pursuant'; and
+ (B) by striking out `Administrator' each place it appears and inserting in
+ lieu thereof `Secretary of Veterans Affairs'.
+ (8) Section 1823(a) is amended by inserting `of the Treasury' after
+ `Secretary' the last place it appears.
+ (9) Section 1823(d)(2) is amended by inserting `of the Treasury' after
+ `Secretary'.
+TITLE IV--EDUCATION AND EMPLOYMENT
+SEC. 401. SHORT TITLE.
+ This title may be cited as the `Veterans Education and Employment Amendments
+ of 1989'.
+SEC. 402. RATES OF REHABILITATION SUBSISTENCE ALLOWANCES FOR VETERANS WITH
+SERVICE-CONNECTED DISABILITIES.
+ (a) IN GENERAL- The table contained in section 1508(b) is amended to read
+ as follows:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ `Column I                                                   Column
+ II    Column III      Column IV
+ Column V
+ Type of program                                         No
+ dependents One dependent Two dependents
+ More than two dependents
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                    The
+                                                                                                    amount
+                                                                                                    in
+                                                                                                    column
+                                                                                                    IV,
+                                                                                                    plus
+                                                                                                    the
+                                                                                                    following
+                                                                                                    for
+                                                                                                    each
+                                                                                                    dependent
+                                                                                                    in
+                                                                                                    excess
+                                                                                                    of
+                                                                                                    two:
+ Institutional training:
+ Full-time                                                        $333
+ $413           $486
+ $35
+ Three-quarter time                                               $250
+ $310           $364
+ $27
+ Half-time                                                        $167
+ $207           $244
+ $18
+ Farm cooperative, apprentice, or other on-job training:
+ Full-time                                                        $291
+ $352           $405
+ $26
+ Extended evaluation:
+ Full-time                                                        $333
+ $413           $486
+ $35
+ Independent living training:
+ Full-time                                                        $333
+ $413           $486
+ $35
+ Three-quarter time                                               $250
+ $310           $364
+ $27
+ Half-time                                                        $167
+ $207           $244
+ $18'.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ (b) EFFECTIVE DATE- The amendment made by this section shall take effect
+ on January 1, 1990.
+SEC. 403. RATES OF EDUCATIONAL ASSISTANCE FOR SURVIVORS AND DEPENDENTS.
+ (a) IN GENERAL- Chapter 35 is amended--
+ (1) in section 1732(a)(1), by striking out `computed' and all that follows
+ through the end of the paragraph and inserting in lieu thereof `paid at
+ the monthly rate of $404 for full-time, $304 for three-quarter-time, or
+ $202 for half-time pursuit.';
+ (2) in section 1732(a)(2), by striking out `computed' and all that follows
+ through the end of the paragraph and inserting in lieu thereof `paid at the
+ rate of (A) the established charges for tuition and fees that the educational
+ institution involved requires similarly circumstanced nonveterans enrolled
+ in the same program to pay, or (B) $404 per month for a full-time course,
+ whichever is the lesser.';
+ (3) in section 1732(b), by striking out `$304' and inserting in lieu thereof
+ `$327';
+ (4) in section 1732(c)(2), by striking out `computed' and all that follows
+ through the end of the paragraph and inserting in lieu thereof `$327 for
+ full-time, $245 for three-quarter-time, and $163 for half-time pursuit.';
+ (5) by amending section 1732(c)(3) to read as follows:
+ `(3) The monthly educational assistance allowance to be paid on behalf of
+ an eligible person pursuing an independent study program which leads to a
+ standard college degree shall be computed at the rate provided in subsection
+ (a)(2) of this section for less than half-time but more than quarter-time
+ pursuit. If the entire training is to be pursued by independent study,
+ the amount of the eligible person's entitlement to educational assistance
+ under this chapter shall be charged in accordance with the rate at which
+ such person is pursuing the independent study program but at not more than
+ the rate at which such entitlement is charged for pursuit of such program
+ on less than a half-time basis. In any case in which independent study is
+ combined with resident training, the educational assistance allowance shall
+ be paid at the applicable institutional rate based on the total training time
+ determined by adding the number of semester hours (or the equivalent thereof)
+ of resident training to the number of semester hours (or the equivalent
+ thereof) of independent study that do not exceed the number of semester
+ hours (or the equivalent thereof) required for the less than half-time
+ institutional rate, as determined by the Secretary of Veterans Affairs,
+ for resident training. An eligible person's entitlement shall be charged
+ for a combination of independent study and resident training on the basis
+ of the applicable monthly training time rate as determined under section
+ 1788 of this title.';
+ (6) in section 1732(c)(4), by striking out `section 1682(e) of this title'
+ and inserting in lieu thereof `paragraph (3) of this subsection';
+ (7) in section 1732(e), by inserting before the period the following: `,
+ except that the references therein to the monthly educational assistance
+ allowance prescribed for a veteran with no dependents shall be deemed to
+ refer to the applicable allowance payable to an eligible person under
+ corresponding provisions of this chapter or chapter 36 of this title,
+ as determined by the Secretary of Veterans Affairs';
+ (8) in section 1733(a)(1), by striking out `benefits' and all that follows
+ through the end of the paragraph and inserting in lieu thereof `assistance
+ provided an eligible veteran under section 1691(a) (if pursued in a State)
+ of this title and be paid an educational assistance allowance therefor in
+ the manner prescribed by section 1691(b) of this title, except that the
+ corresponding rate provisions of this chapter shall apply, as determined
+ by the Secretary of Veterans Affairs, to such pursuit by an eligible person.';
+ (9) in section 1734(b), by striking out `1786 of this title' and inserting
+ in lieu thereof `1786 (other than subsection (a)(2)) of this title and
+ the period of such spouse's entitlement shall be charged with one month
+ for each $404 which is paid to the spouse as an educational assistance
+ allowance for such course'; and
+ (10) in section 1742(a), by striking out `$376', `$119' (each place it
+ appears), and `$12.58' and inserting in lieu thereof `$404', `$127', and
+ `$13.46', respectively.
+ (b) APPRENTICESHIP- Section 1787(b)(2) is amended by striking out `computed'
+ and all that follows through the end of the paragraph and inserting in lieu
+ thereof `$294 for the first six months, $220 for the second six months,
+ $146 for the third six months, and $73 for the fourth and any succeeding
+ six-month periods of training.'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on January 1, 1990.
+SEC. 404. PROVISION FOR PERMANENT PROGRAM OF INDEPENDENT LIVING SERVICES
+AND ASSISTANCE.
+ Section 1520 is amended--
+ (1) by striking out subsection (b);
+ (2) by striking out paragraph (5) of subsection (a);
+ (3) by redesignating paragraphs (2), (3), (4), (6) and (7) of subsection
+ (a) as subsections (b), (c), (d), (e) and (f), respectively;
+ (4) in subsection (a)--
+ (A) by striking out `(1) During fiscal years 1982 through 1989, the' and
+ inserting in lieu thereof `The';
+ (B) by striking out `paragraph (7) of this subsection' and inserting in
+ lieu thereof `subsection (f) of this section'; and
+ (C) by striking out `paragraph (2) of this subsection' and inserting in
+ lieu thereof `subsection (b) of this section';
+ (5) in subsection (b), as redesignated by clause (3), by striking out
+ `and who is selected' and all that follows through `subsection';
+ (6) in subsection (c), as redesignated by clause (3), by striking out
+ `paragraph (2) of this subsection' and inserting in lieu thereof `subsection
+ (b) of this section';
+ (7) in subsection (e), as redesignated by clause (3), by striking out
+ `of the fiscal years 1982 through 1989' and inserting in lieu thereof
+ `fiscal year'; and
+ (8) in subsection (f), as redesignated by clause (3)--
+ (A) by striking out `paragraph' and inserting in lieu thereof `subsection';
+ and
+ (B) by striking out `(A)' and `(B)' and inserting in lieu thereof `(1)'
+ and `(2)', respectively.
+SEC. 405. VETERANS' AND RESERVISTS' WORK-STUDY PROGRAM.
+ (a) CRITERIA FOR DETERMINING WORK-STUDY ALLOWANCE- (1) Section 1685(a)
+ is amended--
+ (A) in the second sentence, by striking out `Such' and all that follows
+ through `other applicable enrollment period,' and inserting in lieu thereof
+ `Such work-study allowance shall be paid in an amount equal to the applicable
+ hourly minimum wage times the number of hours worked during the applicable
+ period, in return for such individual's agreement to perform services,
+ during or between periods of enrollment, aggregating not more than a number
+ of hours equal to 25 times the number of weeks in the semester or other
+ applicable enrollment period,';
+ (B) by striking out the third and fourth sentences;
+ (C) by inserting `(1)' after `(a)'; and
+ (D) by adding at the end the following new paragraph:
+ `(2) For the purposes of paragraph (1) of this subsection, the term
+ `applicable hourly minimum wage' means (A) the hourly minimum wage under
+ section 6(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)),
+ or (B) the hourly minimum wage under comparable law of the State in which
+ the services are to be performed, if such wage is higher than the wage
+ referred to in clause (A) and the Secretary has made a determination to
+ pay such higher wage.'.
+ (2) Section 1685(b) is amended by striking out `subsection (a)' and inserting
+ in lieu thereof `subsection (a)(1)'.
+ (b) SELECTED RESERVISTS' WORK-STUDY ASSIGNMENTS- The second sentence of
+ section 1685(a), as amended by subsection (a)(1)(A), is further amended--
+ (1) in clause (3), by striking out `or' at the end; and
+ (2) by striking out the period at the end and inserting in lieu thereof `,
+ or (5) in the case of an individual who is receiving educational assistance
+ under chapter 106 of title 10, activities relating to the administration
+ of such chapter at Department of Defense facilities.'.
+ (c) ELIGIBILITY- Section 1685(b) is amended--
+ (1) in the first sentence by striking out `veteran-students who are pursuing'
+ and all that follows through the period and inserting in lieu thereof
+ `individuals who are pursuing programs of rehabilitation, education, or
+ training under chapter 30, 31, 32, or 34 of this title or chapter 106 of
+ title 10, at a rate equal to at least three-quarters of that required of
+ a full-time student.'; and
+ (2) in the last sentence by striking out `the veteran ceases to be' through
+ `the veteran' and inserting in lieu thereof `an individual ceases to be
+ at least a three-quarter-time student before completing such agreement,
+ the individual'.
+ (d) TECHNICAL AMENDMENTS- (1) Section 1685(b) is amended by striking out
+ `per centum' and inserting in lieu thereof `percent'.
+ (2) Section 1685 is amended--
+ (A) by striking out `Veteran-students' in subsection (a) and inserting in
+ lieu thereof `Individuals';
+ (B) by striking out `veteran-students' each place it appears and inserting
+ in lieu thereof `individuals';
+ (C) by striking out `A veteran-student' in subsection (a) and inserting in
+ lieu thereof `An individual';
+ (D) by striking out `veteran-student's' in subsection (a) and inserting in
+ lieu thereof `individual's';
+ (E) by striking out `veterans' in subsection (c) and inserting in lieu
+ thereof `individuals';
+ (F) by striking out `veteran' each place it appears, other than in subsection
+ (c)(4), and inserting in lieu thereof `individual'; and
+ (G) by striking out `veteran's' in subsection (c)(2) and inserting in lieu
+ thereof `individual's'.
+ (3) Section 2136(b) of title 10, United States Code, is amended by striking
+ out `and 1683' and inserting in lieu thereof `1683, and 1685'.
+ (4)(A) The section heading of section 1685 is amended to read as follows:
+`Sec. 1685. Work-study allowance'.
+ (B) The table of sections at the beginning of chapter 34 is amended by
+ striking out the item for section 1685 and inserting in lieu thereof the
+ following:
+`1685. Work-study allowance.'.
+ (e) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on May 1, 1990, and shall apply to services performed on or after that date.
+SEC. 406. WORK-STUDY PROGRAM FOR SURVIVORS AND DEPENDENTS.
+ (a) IN GENERAL- (1) Subchapter IV of chapter 35 is amended by inserting
+ after section 1736 the following new section:
+`Sec. 1737. Work-study allowance
+ `(a) Subject to subsection (b) of this section, the Secretary shall utilize,
+ in connection with the activities described in section 1685(a) of this
+ title, the services of any eligible person who is pursuing, in a State,
+ at least a three-quarter-time program of education (other than a course of
+ special restorative training) and shall pay to such person an additional
+ educational assistance allowance (hereafter in this section referred to
+ as `work-study allowance') in return for such eligible person's agreement
+ to perform such services. The amount of the work-study allowance shall be
+ determined in accordance with section 1685(a) of this title.
+ `(b) The Secretary's utilization of, and payment of a work-study allowance
+ for, the services of an eligible person pursuant to subsection (a) of this
+ section shall be subject to the same requirements, terms, and conditions
+ as are set out in section 1685 of this title with regard to individuals
+ pursuing at least three-quarter-time programs of education referred to in
+ subsection (b) of such section.'.
+ (2) The table of sections at the beginning of chapter 35 is amended by
+ inserting after the item relating to section 1736 the following new item:
+`1737. Work-study allowance.'.
+ (b) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on May 1, 1990.
+SEC. 407. EXTENSION AND EXPANSION OF THE VETERANS' READJUSTMENT APPOINTMENT
+AUTHORITY.
+ (a) EXTENSION OF AUTHORITY- (1) Paragraph (2) of section 2014(b) is
+ redesignated as paragraph (4) and is amended by striking out `1989' and
+ inserting in lieu thereof `1993'.
+ (2) Section 2011(2)(B) is amended by inserting before the period the
+ following: `except for purposes of section 2014 of this title'.
+ (b) ELIGIBILITY- (1) Section 2014(a)(1) is amended by striking out `qualified
+ disabled veterans and veterans of the Vietnam era' and inserting in lieu
+ thereof `certain veterans of the Vietnam era and veterans of the post-Vietnam
+ era who are qualified for such employment and advancement'.
+ (2) Subsection (b) of section 2014 is amended--
+ (A) in paragraph (1)--
+ (i) by striking out `veterans of the Vietnam era' and inserting in lieu
+ thereof `veterans referred to in paragraph (2) of this subsection';
+ (ii) in clause (A), by inserting the following before the semicolon: `or in
+ the case of a veteran referred to in paragraph (2)(A) of this subsection,
+ the level of GS-11 or its equivalent';
+ (iii) by striking out clause (B) and inserting in lieu thereof the following:
+ `(B) a veteran referred to in paragraph (2) of this subsection shall be
+ eligible for such an appointment during (i) the four-year period beginning
+ on the date of the veteran's last discharge or release from active duty,
+ or (ii) the two-year period beginning on the date of the enactment of the
+ Veterans Education and Employment Amendments of 1989, whichever ends later;';
+ (iv) in clause (C), by inserting `referred to in paragraph (2) of this
+ subsection' after `a veteran of the Vietnam era';
+ (v) by striking out `and' at the end of clause (C);
+ (vi) by striking out the period at the end of clause (D) and inserting in
+ lieu thereof `; and'; and
+ (vii) by adding after clause (D) the following new clauses:
+ `(E) the requirement of an educational or training program for a veteran
+ receiving such an appointment shall not apply if the veteran has 15 years
+ or more of education; and
+ `(F) in the case of a veteran who is not a disabled veteran, the veteran
+ may not have completed more than 16 years of education at the time of the
+ veteran's appointment.'; and
+ (B) by inserting after paragraph (1) the following new paragraphs:
+ `(2) This subsection applies to--
+ `(A) a veteran of the Vietnam era who--
+ `(i) has a service-connected disability; or
+ `(ii) during such era, served on active duty in the Armed Forces in a
+ campaign or expedition for which a campaign badge has been authorized; and
+ `(B) a veteran who served on active duty after the Vietnam era.
+ `(3) For purposes of paragraph (1)(B)(i) of this subsection, the last
+ discharge or release from a period of active duty shall not include any
+ discharge or release from a period of active duty of less than 90 days of
+ continuous service unless the individual involved is discharged or released
+ for a service-connected disability, for a medical condition which preexisted
+ such service and which the Secretary determines is not service connected,
+ for hardship, or as a result of a reduction in force as described in section
+ 1411(a)(1)(A)(ii)(III) of this title.'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on January 1, 1990.
+SEC. 408. PILOT PROGRAM TO FURNISH EMPLOYMENT AND TRAINING INFORMATION AND
+SERVICES TO MEMBERS OF THE ARMED FORCES SEPARATING FROM THE ARMED FORCES.
+ (a) REQUIREMENT FOR PROGRAM- During the three-year period beginning on January
+ 1, 1990, the Secretary of Labor (hereafter in this section referred to as the
+ `Secretary'), in conjunction with the Secretary of Veterans Affairs and the
+ Secretary of Defense, shall conduct a pilot program to furnish employment
+ and training information and services to members of the Armed Forces within
+ 180 days before such members are separated from the Armed Forces.
+ (b) AREAS TO BE COVERED BY THE PROGRAM- The Secretary shall conduct the pilot
+ program in at least five, but not more than ten, geographically dispersed
+ States in which the Secretary determines that employment and training
+ services to eligible veterans will not be unduly limited by the provision
+ of such services to members of the Armed Forces under the pilot program.
+ (c) UTILIZATION OF SPECIFIC PERSONNEL- The Secretary shall utilize disabled
+ veterans' outreach program specialists or local veterans' employment
+ representatives to the maximum extent feasible to furnish employment and
+ training information and services under the pilot program.
+ (d) REPORT- Not later than May 1, 1992, the Secretary shall transmit to the
+ Committees on Veterans' Affairs of the Senate and House of Representatives
+ a report on the findings and conclusions reached as a result of such pilot
+ program.
+SEC. 409. SECONDARY SCHOOL REQUIREMENTS FOR MONTGOMERY GI BILL ELIGIBILITY.
+ Sections 1411(a)(2) and 1412(a)(2) are amended--
+ (1) by inserting `(i)' after `except that'; and
+ (2) by inserting before `; and' at the end the following: `, and (ii) an
+ individual described in clause (1)(A) of this subsection may meet such
+ requirement by having successfully completed the equivalent of such 12
+ semester hours before the end of the individual's initial obligated period
+ of active duty'.
+SEC. 410. PROHIBITION ON RECEIVING CREDIT UNDER TWO PROGRAMS.
+ Section 1621 is amended by adding at the end the following:
+ `(f) An individual who serves in the Selected Reserve may not receive
+ credit for such service under both the program established by this chapter
+ and the program established by chapter 106 of title 10 but shall elect (in
+ such form and manner as the Secretary of Veterans Affairs may prescribe)
+ the program to which such service is to be credited.'.
+SEC. 411. ACCEPTING SCHOOL CERTIFICATION FOR RENEWAL OF EDUCATIONAL BENEFITS
+AFTER UNSATISFACTORY PROGRESS.
+ (a) VETERANS' EDUCATIONAL ASSISTANCE- Section 1674 is amended by striking
+ out clauses (1) and (2) and inserting in lieu thereof the following:
+ `(1) the veteran will be resuming enrollment at the same educational
+ institution in the same program of education and the educational institution
+ has both approved such veteran's reenrollment and certified it to the
+ Department of Veterans Affairs; or
+ `(2) in the case of a proposed change of either educational institution or
+ program of education by the veteran--
+ `(A) the cause of the unsatisfactory attendance, conduct, or progress has
+ been removed;
+ `(B) the program proposed to be pursued is suitable to the veteran's
+ aptitudes, interests, and abilities; and
+ `(C) if a proposed change of program is involved, the change meets the
+ requirements for approval under section 1791 of this title.'.
+ (b) SURVIVORS' AND DEPENDENTS' EDUCATIONAL ASSISTANCE- Section 1724 is
+ amended by striking out clauses (1) and (2) and inserting in lieu thereof
+ the following:
+ `(1) the eligible person will be resuming enrollment at the same educational
+ institution in the same program of education and the educational institution
+ has both approved such eligible person's reenrollment and certified it to
+ the Department of Veterans Affairs; or
+ `(2) in the case of a proposed change of either educational institution or
+ program of education by the eligible person--
+ `(A) the cause of the unsatisfactory attendance, conduct, or progress has
+ been removed;
+ `(B) the program proposed to be pursued is suitable to the eligible person's
+ aptitudes, interests, and abilities; and
+ `(C) if a proposed change of program is involved, the change meets the
+ requirements for approval under section 1791 of this title.'.
+SEC. 412. UNIFORMITY OF ATTENDANCE REQUIREMENT.
+ (a) IN GENERAL- Section 1780(a) is amended--
+ (1) in clause (1) of the second sentence, by striking out `enrolled in a
+ course' through `1788(a)(7) of this title,';
+ (2) by striking out clause (2) of the second sentence;
+ (3) by redesignating clauses (3), (4), and (5) of the second sentence as
+ clauses (2), (3), and (4), respectively;
+ (4) in the third sentence, by striking out `set forth in clause (1) or (2)'
+ and inserting in lieu thereof `set forth in clause (1)';
+ (5) in subclause (A) of the third sentence, by striking out `, and such
+ periods' through `subsection'; and
+ (6) in subclauses (B) and (C) of the third sentence by striking out `,
+ but such periods' through `subsection'.
+ (b) CONFORMING AMENDMENTS- Section 1674 and section 1724 are each amended by
+ striking out `conduct' in the first sentence and inserting in lieu thereof
+ `attendance, conduct,'.
+SEC. 413. PROGRAM ADMINISTRATION.
+ (a) Section 1788 is amended--
+ (1) in subsection (a), by inserting after `three hours' in clause (C)
+ of the penultimate sentence the following: `(or three 50-minute periods)'; and
+ (2) in subsection (c), by inserting after `three hours' in the second
+ sentence the following: `(or three 50-minute periods)'.
+ (b) Through July 1, 1990, no provision of law shall preclude the Department
+ of Veterans Affairs, in making determinations of the active-duty or
+ Selected Reserve status, or the character of service, of individuals
+ receiving benefits under chapter 30 or 32 of title 38, United States Code,
+ or chapter 106 of title 10, United States Code, from continuing to use any
+ category of information provided by the Department of Defense or Department
+ of Transportation that the Department of Veterans Affairs was using prior to
+ the date of the enactment of this Act, if the Secretary of Veterans Affairs
+ determines that the information has proven to be sufficiently reliable in
+ making such determinations.
+SEC. 414. FUNDING FOR STATE APPROVING AGENCIES FOR TRAINING CURRICULUM
+DEVELOPMENT.
+ Section 1774(a) is amended--
+ (1) in paragraph (2)(A), by striking out `section and for' and inserting
+ in lieu thereof `section, for expenses approved by the Secretary that are
+ incurred in carrying out activities described in section 1774A(a)(4) of
+ this title (except for administrative overhead expenses allocated to such
+ activities), and for'; and
+ (2) in paragraph (2)(C), by inserting before the period the following:
+ `and the amount of expenses approved by the Secretary that are incurred
+ in carrying out activities described in section 1774A(a)(4) of this title
+ for such period (except for administrative overhead expenses allocated to
+ such activities)'.
+SEC. 415. PROOF OF SATISFACTORY PURSUIT OF A PROGRAM OF EDUCATION.
+ (a) WITHHOLDING OF BENEFITS; FORM OF PROOF- Section 1780(g) is amended by
+ striking out `the Administrator is authorized' in the second sentence and all
+ that follows through the period at the end of that sentence and inserting
+ in lieu thereof `the Secretary may withhold payment of benefits to such
+ eligible veteran or eligible person until the required proof is received
+ and the amount of the payment is appropriately adjusted. The Secretary may
+ accept such veteran's or person's monthly certification of enrollment in
+ and satisfactory pursuit of such veteran's or person's program as sufficient
+ proof of the certified matters.'.
+ (b) CONFORMING AMENDMENTS- Section 1434 is amended--
+ (1) in subsection (a)(1), by striking out `1780(g),';
+ (2) by striking out subsection (b); and
+ (3) by redesignating subsection (c) as subsection (b).
+SEC. 416. REPORTING FEES.
+ (a) IN GENERAL- Section 1784 is amended--
+ (1) in subsection (a)(1), by striking out `chapter 34' and inserting in
+ lieu thereof `chapter 31, 34,';
+ (2) in subsection (b), by striking out `chapters 34' and inserting in lieu
+ thereof `chapters 31, 34'; and
+ (3) in subsection (c), by striking out `chapter 34' each place it appears
+ and inserting in lieu thereof `chapter 31, 34,'.
+ (b) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on January 1, 1990.
+SEC. 417. CLOCK-HOUR MEASUREMENT OF CERTAIN UNIT COURSES OR SUBJECTS CREDITABLE
+TOWARD A STANDARD COLLEGE DEGREE.
+ Section 1788(e) is amended to read as follows:
+ `(e)(1) For the purpose of measuring clock hours of attendance or net of
+ instruction under clause (1) or (2), respectively, of subsection (a) of
+ this section for a course--
+ `(A) which is offered by an institution of higher learning, and
+ `(B) for which the institution requires one or more unit courses or subjects
+ for which credit is granted toward a standard college degree pursued in
+ residence on a standard quarter- or semester-hour basis,
+the number of credit hours (semester or quarter hours) represented by such unit
+courses or subjects shall, during the semester, quarter, or other applicable
+portion of the academic year when pursued, be converted to equivalent clock
+hours, determined as prescribed in paragraph (2) of this subsection. Such
+equivalent clock hours then shall be combined with actual weekly clock hours
+of training concurrently pursued, if any, to determine the total clock hours
+of enrollment.
+ `(2) For the purpose of determining the clock-hour equivalency described
+ in paragraph (1) of this subsection, the total number of credit hours being
+ pursued will be multiplied by the factor resulting from dividing the number of
+ clock hours which constitute full time under clause (1) or (2) of subsection
+ (a) of this section, as appropriate, by the number of semester hours (or the
+ equivalent thereof) which, under clause (4) of such subsection, constitutes
+ a full-time institutional undergraduate course at such institution.'.
+SEC. 418. DEPARTMENT OF VETERANS AFFAIRS APPROVAL OF CERTAIN COURSES.
+ Section 1789(b)(6)(B) is amended by inserting `and members of the Selected
+ Reserve of the Ready Reserve eligible for educational assistance under
+ chapter 106 of title 10;' after `dependents'.
+SEC. 419. EFFECTIVE DATE OF ADJUSTMENTS OF EDUCATIONAL BENEFITS.
+ Section 3013 is amended--
+ (1) by striking out `Effective' and inserting in lieu thereof `(a) Except
+ as provided in subsection (b) of this section, effective'; and
+ (2) by adding at the end the following new subsection:
+ `(b) The effective date of an adjustment of benefits under any chapter
+ referred to in subsection (a) of this section, if made on the basis of a
+ certification made by the veteran or person and accepted by the Secretary
+ under section 1780(g) of this title, shall be the date of the change.'.
+SEC. 420. DETERMINATION OF DELIMITING PERIOD.
+ (a) MINIMUM REQUIREMENT FOR ACTIVE DUTY SERVICE- (1) Section 1431 is amended--
+ (A) by adding at the end the following new subsection:
+ `(g) For purposes of subsection (a) of this section, an individual's last
+ discharge or release from active duty shall not include any discharge or
+ release from a period of active duty of less than 90 days of continuous
+ service unless the individual involved is discharged or released for
+ a service-connected disability, for a medical condition which preexisted
+ such service and which the Secretary determines is not service connected,
+ for hardship, or as a result of a reduction in force as described in section
+ 1411(a)(1)(A)(ii)(III) of this title.'; and
+ (B) in subsection (a), by inserting `, and subject to subsection (g),'
+ before `of this section,' in the material preceding clause (1).
+ (2) Section 1632(a) is amended--
+ (A) by adding at the end the following new paragraph:
+ `(4) For purposes of paragraph (1) of this subsection, a veteran's last
+ discharge or release from active duty shall not include any discharge or
+ release from a period of active duty of less than 90 days of continuous
+ service unless the individual involved is discharged or released for
+ a service-connected disability, for a medical condition which preexisted
+ such service and which the Secretary determines is not service connected,
+ for hardship, or as a result of a reduction in force as described in section
+ 1411(a)(1)(A)(ii)(III) of this title.'; and
+ (B) in paragraph (1), by inserting `, and subject to paragraph (4),' before
+ `of this subsection,'.
+ (3) Section 1662(a) is amended--
+ (A) by adding at the end the following new paragraph:
+ `(4) For purposes of paragraph (1) of this subsection, a veteran's last
+ discharge or release from active duty shall not include any discharge or
+ release from a period of active duty of less than 90 days of continuous
+ service unless the individual involved is discharged or released for
+ a service-connected disability, for a medical condition which preexisted
+ such service and which the Secretary determines is not service connected,
+ for hardship, or as a result of a reduction in force as described in section
+ 1411(a)(1)(A)(ii)(III) of this title.'; and
+ (B) in paragraph (1), by striking out `No' and inserting in lieu thereof
+ `Subject to paragraph (4) of this subsection, no'.
+ (b) SPECIAL RULE- Section 1431(e) is amended--
+ (1) by striking out `(e) In' and inserting in lieu thereof `(e)(1) Except
+ as provided in paragraph (2) of this subsection, in'; and
+ (2) by adding at the end the following:
+ `(2) In the case of an individual to which paragraph (1) of this subsection
+ is applicable and who is described in section 1652(a)(1)(B) of this title,
+ the 10-year period prescribed in subsection (a) of this section shall not
+ be reduced by any period in 1977 before the individual began serving on
+ active duty.'.
+SEC. 421. INFORMATION TO ASSIST VETERANS RECEIVING EDUCATION BENEFITS.
+ (a) IN GENERAL- For the purpose of assisting individuals receiving education
+ benefits from the Department of Veterans Affairs, the Secretary of Veterans
+ Affairs shall prepare, and update periodically, a document containing a
+ detailed description of the benefits, limitations, procedures, requirements,
+ and other important aspects of the education programs administered by
+ the Department.
+ (b) DISTRIBUTION- The Secretary shall, beginning in fiscal year 1990 but
+ not before July 1, 1990, distribute copies of such document--
+ (1) to each individual applying for benefits under an education program
+ administered by the Department of Veterans Affairs and to each such individual
+ at least annually in the years thereafter in which the individual receives
+ such benefits;
+ (2) to education and training institution officials on at least an annual
+ basis; and
+ (3) upon request, to other individuals significantly affected by education
+ programs administered by the Secretary, including military education
+ personnel.
+ (c) FUNDING- The Secretary shall use funds appropriated to the readjustment
+ benefits account of the Department to carry out this section.
+SEC. 422. EDUCATIONAL ASSISTANCE FOR FLIGHT TRAINING.
+ (a) THE MONTGOMERY GI BILL ACTIVE DUTY PROGRAM- (1) Section 1434 is amended
+ by inserting after subsection (c), as added by section 423(a)(6)(B), the
+ following new subsection:
+ `(d)(1) The Secretary may approve the pursuit of flight training (in addition
+ to a course of flight training that may be approved under section 1673(b)
+ of this title) by an individual entitled to basic educational assistance
+ under this chapter if--
+ `(A) such training is generally accepted as necessary for the attainment
+ of a recognized vocational objective in the field of aviation;
+ `(B) the individual possesses a valid private pilot's license and meets
+ the medical requirements necessary for a commercial pilot's license; and
+ `(C) the flight school courses meet Federal Aviation Administration standards
+ for such courses and are approved by the Federal Aviation Administration
+ and the State approving agency.
+ `(2) This subsection shall not apply to a course of flight training that
+ commences on or after October 1, 1994.'.
+ (2) Section 1432 is amended by inserting at the end the following new
+ subsection:
+ `(f)(1) Notwithstanding subsection (a) of this section, each individual
+ who is pursuing a program of education consisting exclusively of flight
+ training approved as meeting the requirements of section 1434(d) of this
+ title shall be paid an educational assistance allowance under this chapter
+ in the amount equal to 60 percent of the established charges for tuition
+ and fees (other than tuition and fees charged for or attributable to solo
+ flying hours) which similarly circumstanced nonveterans enrolled in the
+ same flight course are required to pay.
+ `(2) No educational assistance allowance may be paid under this chapter to an
+ individual for any month during which such individual is pursuing a program of
+ education consisting exclusively of flight training until the Secretary has
+ received from that individual and the institution providing such training
+ a certification of the flight training received by the individual during
+ that month and the tuition and other fees charged for that training.
+ `(3) The number of months of entitlement charged in the case of any individual
+ for a program of education described in paragraph (1) of this subsection shall
+ be equal to the number (including any fraction) determined by dividing the
+ total amount of educational assistance paid such individual for such program
+ by the monthly rate of educational assistance which, except for paragraph (1)
+ of this subsection, such individual would otherwise be paid under subsection
+ (a)(1), (b)(1), or (c) of section 1415 of this title, as the case may be.'.
+ (b) THE MONTGOMERY GI BILL SELECTED RESERVE PROGRAM- (1) Section 2136 of title
+ 10, United States Code, is amended by adding the following new subsection:
+ `(c)(1) The Secretary of Veterans Affairs may approve the pursuit of flight
+ training (in addition to a course of flight training that may be approved
+ under section 1673(b) of title 38) by an individual entitled to educational
+ assistance under this chapter if--
+ `(A) such training is generally accepted as necessary for the attainment
+ of a recognized vocational objective in the field of aviation;
+ `(B) the individual possesses a valid private pilot's license and meets
+ the medical requirements necessary for a commercial pilot's license; and
+ `(C) the flight school courses meet Federal Aviation Administration standards
+ for such courses and are approved by the Federal Aviation Administration
+ and the State approving agency.
+ `(2) This subsection shall not apply to a course of flight training that
+ commences on or after October 1, 1994.'.
+ (2) Section 2131 of such title is amended--
+ (A) in subsection (b), by striking out `(f)' and inserting in lieu thereof
+ `(g)'; and
+ (B) by adding at the end the following new subsection:
+ `(g)(1) Each individual who is pursuing a program of education consisting
+ exclusively of flight training approved as meeting the requirements of section
+ 2136(c) of this title shall be paid an educational assistance allowance
+ under this chapter in the amount equal to 60 percent of the established
+ charges for tuition and fees (other than tuition and fees charged for or
+ attributable to solo flying hours) which similarly circumstanced nonveterans
+ enrolled in the same flight course are required to pay.
+ `(2) No educational assistance allowance may be paid under this chapter to an
+ individual for any month during which such individual is pursuing a program of
+ education consisting exclusively of flight training until the Secretary has
+ received from that individual and the institution providing such training
+ a certification of the flight training received by the individual during
+ that month and the tuition and other fees charged for that training.
+ `(3) The period of entitlement of an individual pursuing a program of
+ education described in paragraph (1) shall be charged with one month for
+ each $140 which is paid to that individual as an educational assistance
+ allowance for such program.'.
+ (c) EVALUATION OF PROVIDING ASSISTANCE FOR FLIGHT TRAINING- (1)(A)
+ The Secretary of Veterans Affairs shall conduct an evaluation of paying
+ educational assistance for flight training under chapter 30 of title 38,
+ United States Code, and chapter 106 of title 10, United States Code.
+ (B) The evaluation required by subparagraph (A) shall be designed to determine
+ the effectiveness of the provision of educational assistance referred to
+ in such subparagraph in preparing the recipients of such assistance for
+ recognized vocational objectives in the field of aviation.
+ (2) Not later than January 31, 1994, the Secretary shall submit to the
+ Committees on Veterans' Affairs of the Senate and the House of Representatives
+ a report on the evaluation required by paragraph (1). Such report shall
+ include--
+ (A) information, separately as to payments made under chapter 30 of title
+ 38, United States Code, and payments made under chapter 106 of title 10,
+ United States Code, regarding--
+ (i) the number of recipients paid educational assistance allowances for
+ flight training;
+ (ii) the amount of such assistance;
+ (iii) the amount paid by the recipients for such training;
+ (iv) the vocational objectives of the recipients; and
+ (v) the extent to which the training (I) assists the recipients in achieving
+ employment in the field of aviation, or (II) was used only or primarily
+ for recreational or avocational purposes; and
+ (B) any recommendations for legislation that the Secretary considers
+ appropriate to include in the report.
+ (d) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on September 30, 1990.
+SEC. 423. TECHNICAL AND CLERICAL AMENDMENTS.
+ (a) IN GENERAL- Title 38 is amended as follows:
+ (1)(A) Section 1412(a)(1) is amended--
+ (i) in clause (A)(ii), by striking out `and after completion' and inserting
+ in lieu thereof `and beginning within one year after completion'; and
+ (ii) in clause (B)(ii), by striking out `and after completion' and inserting
+ in lieu thereof `and beginning within one year after completion'.
+ (B) Section 1412(b)(2) is amended by striking out `Continuity of service'
+ and all that follows through `such clauses' and inserting in lieu thereof
+ `After an individual begins service in the Selected Reserve within one
+ year after completion of the service described in clause (A)(i) or (B)(i)
+ of subsection (a)(1) of this section, the continuity of service of such
+ individual as a member of the Selected Reserve'.
+ (2) Section 1413 is amended--
+ (A) in subsections (a)(2) and (b), by striking out `subsection (c)' and
+ inserting in lieu thereof `subsection (d)';
+ (B) in subsection (a)(2), by striking out `1411(a)(1)(B)(ii)(I)' the second
+ place it occurs and inserting in lieu thereof `1411(a)(1)(A)(ii)(I)'; and
+ (C) in subsection (c)--
+ (i) by striking out `paragraph (2)' in paragraph (1) and inserting in lieu
+ thereof `paragraphs (2) and (3)'; and
+ (ii) by adding at the end of such subsection the following:
+ `(3) Subject to section 1795 of this title and subsection (d) of this
+ section, an individual described in clause (B) or (C)(ii) of section
+ 1418(b)(3) of this title (other than an individual described in paragraph
+ (2) of this subsection) is entitled to the number of months of educational
+ assistance under this chapter that is equal to the number of months the
+ individual has served on continuous active duty after June 30, 1985.'.
+ (3) Section 1417(a)(1)(A)(ii) is amended by striking out `but for' and
+ all that follows through `of this title' and inserting in lieu thereof
+ `but for clause (1)(A)(i) or clause (2)(A) of section 1411(a) or clause
+ (1)(A)(i) or (ii) or clause (2) of section 1412(a) of this title'.
+ (4) Section 1431(f) is amended by striking out `, under this section,' in
+ paragraphs (1) and (2) and inserting in lieu thereof `, under section 1413,'.
+ (5)(A) Section 1434(a)(3) is amended by striking out `employment)' and
+ inserting in lieu thereof `employment during and since the period of such
+ veteran's active military service)'.
+ (B) Section 1641(a)(2) is amended by striking out `employment)' and inserting
+ in lieu thereof `employment during and since the period of such veteran's
+ active military service)'.
+ (6) Section 1434 is amended--
+ (A) in subsection (a)(1), by inserting `1780(f),' after `1780(c),'; and
+ (B) by inserting after subsection (b), as redesignated by section 415(b)(3),
+ the following new subsection:
+ `(c) Payment of educational assistance allowance in the case of an eligible
+ individual pursuing a program of education under this chapter on less than a
+ half-time basis shall be made in a lump-sum amount for the entire quarter,
+ semester, or term not later than the last day of the month immediately
+ following the month in which certification is received from the educational
+ institution that such individual has enrolled in and is pursuing a program
+ at such institution. Such lump-sum payment shall be computed at the rate
+ determined under section 1432(b) of this title.'.
+ (7) Section 1633 is amended by adding at the end the following new subsection:
+ `(d) For any month in which an individual fails to complete 120 hours
+ of training, the entitlement otherwise chargeable under subsection (c)
+ of this section shall be reduced in the same proportion as the monthly
+ benefit payment payable is reduced under subsection (b) of this section.'.
+ (8)(A) Section 1781(b) is amended by adding at the end the following:
+ `(5) The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public
+ Law 99-399).'.
+ (B) Section 1795(a) is amended by adding at the end the following:
+ `(8) The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public
+ Law 99-399).'.
+ (9) Section 1790 is amended--
+ (A) in subsection (a)(2) by striking out `and prepayment';
+ (B) in subsection (b)(3)(A) by inserting `30,' before `32'; and
+ (C) in subsection (b)(3)(B)--
+ (i) by striking out `(B)(i)' and inserting in lieu thereof `(B)'; and
+ (ii) by redesignating subclauses (I), (II), and (III) as clauses (i),
+ (ii), and (iii), respectively.
+ (b) TECHNICAL AMENDMENTS TO CHAPTERS 30, 31, 32, 34, 35, 36, AND 41 CONCERNING
+ THE NEW DEPARTMENT OF VETERANS AFFAIRS- Title 38 is amended as follows:
+ (1) Chapters 30, 31, 32, 34, 35, and 36 are amended--
+ (A) by striking out `Administrator' each place it appears (other than in
+ section 1652(b)) and inserting in lieu thereof `Secretary'; and
+ (B) by striking out `Veterans' Administration' each place it appears and
+ inserting in lieu thereof `Department of Veterans Affairs'.
+ (2) Sections 1723(e), 1743(a), 1779(b), 1780(d)(3), 1790(b)(3)(B)(i)(III),
+ 1794, 1796(c), and 1799(d) are amended by striking out `Administrator's'
+ and inserting in lieu thereof `Secretary's'.
+ (3) Section 1402(5) is amended to read as follows:
+ `(5) The term `Secretary of Defense' means the Secretary of Defense, except
+ that it means the Secretary of Transportation with respect to the Coast
+ Guard when it is not operating as a service in the Navy.'.
+ (4) The following sections, as in effect on the day before the date of
+ the enactment of this Act, are amended by inserting `of Defense' after
+ `Secretary':
+ (A) Sections 1418(a)(3), 1621(c), 1621(e), 1622(a), 1622(d), 1623(b),
+ 1631(a)(2)(C), and 1642.
+ (B) Sections 1421(a), 1421(b), and 1622(e), the second place `Secretary'
+ appears.
+ (C) Section 1422(b), the third place `Secretary' appears.
+ (D) Sections 1436(b), 1622(c), and 1643, each place `Secretary' appears.
+ (5) Section 1415(c), as in effect on the day before the date of the enactment
+ of this Act, is amended--
+ (A) by striking out `prescribed by the Secretary,' and inserting in lieu
+ thereof `prescribed by the Secretary of Defense,'; and
+ (B) by inserting `of Defense' after `Secretary' the last place it appears.
+ (6) Section 1621(b)(1), as in effect on the day before the date of the
+ enactment of this Act, is amended by striking out `(hereinafter' and all
+ that follows through `Secretary')'.
+ (7) Section 1623(d), as in effect on the day before the date of the enactment
+ of this Act, is amended--
+ (A) by inserting `of Defense' after `Secretary' the first place it occurs; and
+ (B) by striking out `the Secretary' the second place it appears and inserting
+ in lieu thereof `such Secretary'.
+ (8) Chapter 41 is amended--
+ (A) by striking out `Administrator' each place it appears (other than in
+ paragraphs (1) and (2) of section 2002A(e) and in section 2010(b)(1)(G))
+ and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (B) by striking out `Veterans' Administration' each place it appears and
+ inserting in lieu thereof `Department of Veterans Affairs'.
+TITLE V--MEMORIAL AFFAIRS
+SEC. 501. REIMBURSEMENT FOR COST OF CEMETERY HEADSTONE OR MARKER.
+ Subsection (d) of section 906 is amended--
+ (1) by striking out `actual costs incurred by or on behalf of such person
+ in acquiring' in the first sentence and inserting in lieu thereof `cost
+ of acquiring';
+ (2) by inserting after the first sentence the following: `The cost referred
+ to in the preceding sentence is the cost actually incurred by or on behalf
+ of such person or the cost prepaid by the deceased individual, as the case
+ may be.'; and
+ (3) by striking out `the preceding sentence' and inserting in lieu thereof
+ `this subsection'.
+SEC. 502. BURIAL OF CREMATED REMAINS IN ARLINGTON NATIONAL CEMETERY.
+ (a) IN GENERAL- Chapter 24 is amended by adding at the end the following
+ new section:
+`Sec. 1010. Burial of cremated remains in Arlington National Cemetery
+ `(a) The Secretary of the Army shall designate an area of appropriate
+ size within Arlington National Cemetery for the unmarked interment, in
+ accordance with such regulations as the Secretary may prescribe, of the
+ ashes of persons eligible for interment in Arlington National Cemetery
+ whose remains were cremated. Such area shall be an area not suitable for
+ the burial of casketed remains.
+ `(b) The Secretary of the military departments shall make available
+ appropriate forms on which those members of the Armed Forces who so desire
+ may indicate their desire to be buried within the area to be designated
+ under subsection (a).'.
+ (b) CLERICAL AMENDMENT- The table of sections at the beginning of such
+ chapter is amended by adding at the end the following new item:
+`1010. Burial of cremated remains in Arlington National Cemetery.'.
+SEC. 503. MEMBERSHIP ON AMERICAN BATTLE MONUMENTS COMMISSION.
+ The first section of the Act entitled `An Act for the creation of the American
+ Battle Monuments Commission to erect suitable memorials commemorating the
+ services of the American soldier in Europe, and for other purposes' (36
+ U.S.C. 121), approved March 4, 1923, is amended by striking out `commissioned
+ officers' in the third sentence and inserting in lieu thereof `members'.
+SEC. 504. GRAVE LINERS.
+ (a) IN GENERAL- Subsection (e)(1) of section 906 is amended by striking
+ out the first sentence and inserting in lieu thereof the following: `The
+ Secretary of Veterans Affairs shall provide a grave liner for each new
+ grave in an open cemetery within the National Cemetery System in which
+ remains are interred in a casket.'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply to
+ interments that occur after January 1, 1990.
+SEC. 505. OPERATION OF CERTAIN CEMETERY.
+ The Secretary of Veterans Affairs shall enter into a contract with the
+ State of Michigan, or the appropriate State agency thereof, under which the
+ Secretary shall, beginning not later than July 1, 1990, operate and maintain
+ the cemetery located in Mackinac Island State Park, Michigan, in accordance
+ with standards applicable to cemeteries in the National Cemetery System.
+TITLE VI--MISCELLANEOUS
+SEC. 601. EXPANSION OF MULTIYEAR PROCUREMENT AUTHORITY TO INCLUDE NON-MEDICAL
+ITEMS.
+ (a) EXPANSION OF AUTHORITY- Section 114 is amended--
+ (1) in subsection (a), by striking out `for use in Veterans' Administration
+ health-care facilities';
+ (2) in subsection (b)(2)(A), by striking `health-care'; and
+ (3) in subsection (e)--
+ (A) by striking out paragraph (2); and
+ (B) by redesignating paragraphs (3) and (4) as paragraphs (2) and (3),
+ respectively.
+ (b) CLERICAL AMENDMENTS- (1) The heading of such section is amended to read
+ as follows:
+`Sec. 114. Multiyear procurement'.
+ (2) The item relating to such section in the table of sections at the
+ beginning of chapter 1 is amended to read as follows:
+`114. Multiyear procurement.'.
+SEC. 602. COURT OF VETERANS APPEALS.
+ (a) JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS- (1) Section 308
+ of the Ethics in Government Act of 1978 (28 U.S.C. App. 308) is amended--
+ (A) in clause (9), by inserting `United States Court of Veterans Appeals;'
+ after `Appeals;'; and
+ (B) in clause (10)--
+ (i) by striking out `or' the first place it appears; and
+ (ii) by inserting a comma and `or of the United States Court of Veterans
+ Appeals' after `Appeals'.
+ (2) Not later than 30 days after the date of the enactment of this Act, each
+ person who, on that date, is a judge of the United States Court of Veterans
+ Appeals or a judicial employee of such court and each person who, before
+ that date, has been nominated by the President to be a judge on such court
+ shall file a report containing the information described in section 302(b)
+ of the Ethics in Government Act of 1978 (28 U.S.C. App. 302(b)). Subsections
+ (e), (f), and (g) of section 302 of such Act shall apply to the requirement
+ in the preceding sentence.
+ (b) AUTHORITY TO ADMINISTER OATHS- Section 4054 is amended by adding at
+ the end the following new subsection:
+ `(d) Judges of the Court shall have the authority to administer oaths.'.
+ (c) AUTHORITY TO COMPEL ACTIONS UNREASONABLY DELAYED- Section 4061(a)(2)
+ is amended by inserting `or unreasonably delayed' after `withheld'.
+SEC. 603. COLLOCATION AND LEASE PURCHASE.
+ (a) REGIONAL OFFICES AND MEDICAL CENTERS- Section 230 is amended by adding
+ at the end the following new subsection:
+ `(c)(1) To provide for a more economical, efficient, and effective operation
+ of such regional offices, the Secretary shall provide for the collocation
+ of at least three regional offices with medical centers of the Department--
+ `(A) on real property under the jurisdiction of the Department of Veterans
+ Affairs at such medical centers; or
+ `(B) on real property that is adjacent to such a medical center and is
+ under the jurisdiction of the Department as a result of being conveyed to
+ the United States for the purpose of such collocation.
+ `(2)(A) In carrying out this subsection and notwithstanding any other
+ provision of law, the Secretary may lease, with or without compensation and
+ for a period of not to exceed 35 years, to another party at not more than
+ seven locations any of the real property described in paragraph (1)(A) or
+ (B) of this subsection.
+ `(B) Such real property shall be used as the site of a facility--
+ `(i) constructed and owned by the lessee of such real property; and
+ `(ii) leased under paragraph (3)(A) of this subsection to the Department
+ for such use and such other activities as the Secretary determines are
+ appropriate.
+ `(3)(A) The Secretary may enter into a lease for the use of any facility
+ described in paragraph (2)(B) of this subsection for not more than 35
+ years under such terms and conditions as may be in the best interests of
+ the Department.
+ `(B) Each agreement to lease a facility under subparagraph (A) of this
+ paragraph shall include a provision that--
+ `(i) the obligation of the United States to make payments under the agreement
+ is subject to the availability of appropriations for that purpose; and
+ `(ii) the ownership of such facility shall vest in the United States at
+ the end of such lease.
+ `(4)(A) The Secretary may sublease any space in such a facility to another
+ party at a rate not less than--
+ `(i) the rental rate paid by the Secretary for such space under paragraph
+ (3) of this subsection; plus
+ `(ii) the amount the Secretary pays for the costs of administering such
+ facility (including operation, maintenance, utility, and rehabilitation
+ costs) which are attributable to such space.
+ `(B) In any such sublease, the Secretary shall include such terms relating
+ to default and nonperformance as the Secretary considers appropriate to
+ protect the interests of the United States.
+ `(5) The Secretary shall use the receipts of any payment for the lease of
+ real property under paragraph (2) for the payment of the lease of a facility
+ under paragraph (3).
+ `(6)(A) Subject to subparagraph (C)(i) of this paragraph, the Secretary
+ shall, within 120 days of the date of the enactment of this subsection,
+ issue an invitation for offers with respect to three collocations to be
+ carried out under this subsection. Such invitation shall include, with
+ respect to each such collocation, at least--
+ `(i) identification of the site to be developed;
+ `(ii) minimum office space requirements for regional office activities;
+ `(iii) design criteria of the facility to be constructed;
+ `(iv) a plan for meeting the security and parking needs for the facility
+ and its occupants and visitors;
+ `(v) a statement of current and projected rents and other costs for regional
+ office activities;
+ `(vi) the estimated cost of construction of the facility concerned, the
+ estimated annual cost of leasing space for regional office activities in
+ the facility, and the estimated total annual cost of leasing all space in
+ such facility;
+ `(vii) a plan for securing appropriate licenses, easements, and rights-of-way;
+ and
+ `(viii) a list of terms and conditions the Secretary has approved for
+ inclusion in the lease agreement for the facility concerned.
+ `(B) Subject to subparagraph (C)(ii) of this paragraph, the Secretary shall--
+ `(i) within one year after the date on which the invitation is issued under
+ subparagraph (A) of this paragraph, enter into an agreement to carry out
+ one collocation under this subsection; and
+ `(ii) within 180 days after entering into the agreement referred to in
+ clause (i) of this subparagraph, enter into agreements to carry out two
+ additional collocations,
+unless the Secretary determines that it is not economically feasible for the
+Department of Veterans Affairs to undertake them, taking into consideration
+all of the tangible and intangible benefits associated with such collocations.
+ `(C) The Secretary shall--
+ `(i) at least 10 days before the issuance or other publication of the
+ invitation referred to in subparagraph (A) of this paragraph, transmit
+ a copy of such invitation to the Committees on Veterans' Affairs of the
+ Senate and House of Representatives; and
+ `(ii) at least 30 days before entering into an agreement under subparagraph
+ (B) of this paragraph, transmit a copy to the Committees on Veterans' Affairs
+ of the Senate and House of Representatives of the proposals selected by the
+ Secretary from those received in response to the invitation issued under
+ subparagraph (A) of this paragraph.
+ `(7) The authority to enter into an agreement under this subsection shall
+ expire on October 1, 1992.'.
+ (b) LEASE-PURCHASE OF CERTAIN MEDICAL CENTERS- Section 5003 is amended by
+ adding at the end the following new subsection:
+ `(d)(1) The Secretary may provide for the acquisition of not more than three
+ facilities for the provision of outpatient services or nursing home care
+ through lease-purchase arrangements on real property under the jurisdiction
+ of the Department of Veterans Affairs.
+ `(2)(A) In carrying out this subsection and notwithstanding any other
+ provision of law, the Secretary may lease, with or without compensation
+ and for a period of not to exceed 35 years, to another party any of the
+ real property described in paragraph (1) of this subsection.
+ `(B) Such real property shall be used as the site of a facility referred
+ to in paragraph (1) of this subsection--
+ `(i) constructed and owned by the lessee of such real property; and
+ `(ii) leased under paragraph (3)(A) of this subsection to the Department
+ for such use and for such other activities as the Secretary determines
+ are appropriate.
+ `(3)(A) The Secretary may enter into a lease for the use of any facility
+ described in paragraph (2)(B) of this subsection for not more than 35
+ years under such terms and conditions as may be in the best interests of
+ the Department.
+ `(B) Each agreement to lease a facility under subparagraph (A) of this
+ paragraph shall include a provision that--
+ `(i) the obligation of the United States to make payments under the agreement
+ is subject to the availability of appropriations for that purpose; and
+ `(ii) the ownership of such facility shall vest in the United States at
+ the end of such lease.
+ `(4)(A) The Secretary may sublease any space in such a facility to another
+ party at a rate not less than--
+ `(i) the rental rate paid by the Secretary for such space under paragraph
+ (3) of this subsection; plus
+ `(ii) the amount the Secretary pays for the costs of administering such
+ facility (including operation, maintenance, utility, and rehabilitation
+ costs) which are attributable to such space.
+ `(B) In any such sublease, the Secretary shall include such terms relating
+ to default and nonperformance as the Secretary considers appropriate to
+ protect the interests of the United States.
+ `(5) The Secretary shall use the receipts of any payment for the lease of
+ real property under paragraph (2) for the payment of the lease of a facility
+ under paragraph (3).
+ `(6) The authority to enter into an agreement under this subsection--
+ `(A) shall not take effect until the Secretary has entered into agreements
+ under section 230(c) of this title to carry out at least three collocations;
+ and
+ `(B) shall expire on October 1, 1993.'.
+SEC. 604. RATIFICATION.
+ Any actions of the Secretary of Veterans Affairs in carrying out the
+ provisions of section 620B of title 38, United States Code, section 115 of
+ the Veterans Benefits and Services Act of 1988, section 618 of the Treasury,
+ Postal Service and General Government Appropriations Act, 1989, or section
+ 1829 of such title, by contract or otherwise, during the period beginning
+ on December 1, 1989, and ending on the date of the enactment of this Act
+ are hereby ratified.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

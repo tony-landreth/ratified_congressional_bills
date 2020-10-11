@@ -1,0 +1,672 @@
+ 
+--H.R.1199--
+H.R.1199
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend title 38, United States Code, to establish a system of competitive
+pay for nurses employed by the Department of Veterans Affairs, to authorize
+the Secretary of Veterans Affairs to make such system applicable to certain
+other health-care personnel, to make certain improvements in veterans'
+health and education programs, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Department of Veterans Affairs Nurse Pay Act
+ of 1990'.
+TITLE I--PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL
+SEC. 101. RESTRUCTURING OF NURSE GRADE LEVELS AND PAY.
+ (a) NEW GRADES ESTABLISHED- The Secretary of Veterans Affairs shall provide
+ four grade levels for nurses employed by the Department of Veterans Affairs
+ under section 4104(1) of title 38, United States Code, with relation to
+ current nurse grades, as follows:
+-----------------------------------------------------------------
+  New grades            Current nurse grades                    
+-----------------------------------------------------------------
+  1. Entry grade        Junior and associate grades
+  2. Intermediate grade Full and intermediate grades
+  3. Senior grade       Senior and chief grades
+  4. Director grade     Assistant director and director grades
+-----------------------------------------------------------------
+ (b) CURRENT NURSE GRADES DEFINED- For purposes of subsection (a), the term
+ `current nurse grades' means the grades in effect on the day before the
+ effective date of this Act for nurses employed by the Department of Veterans
+ Affairs under section 4104(1) of title 38, United States Code.
+ (c) CONFORMING AMENDMENT- Section 4107(b) of title 38, United States Code,
+ is amended by striking out the items under the heading `NURSE SCHEDULE'
+ and inserting in lieu thereof the following:
+ `Entry grade.
+ `Intermediate grade.
+ `Senior grade.
+ `Director grade.'.
+SEC. 102. RATES OF PAY AND ADMINISTRATION OF PAY FOR NEW NURSE GRADES AND
+CERTAIN OTHER HEALTH-CARE PERSONNEL.
+ (a) CLARIFICATION- Section 4104(1) of title 38, United States Code, is
+ amended by inserting `registered' before `nurses'.
+ (b) PAY ADMINISTRATION- Chapter 73 of such title is amended by inserting
+ after subchapter III the following new subchapter:
+`SUBCHAPTER IV--PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL
+`Sec. 4141. Nurses and other health-care personnel: competitive pay
+ `(a)(1) It is the purpose of this section to ensure, by a means providing
+ increased responsibility and authority to directors of Department health-care
+ facilities, that the rates of basic pay for health-care personnel positions
+ described in paragraph (2) in each Department health-care facility (including
+ the rates of basic pay of personnel employed in such positions on a part-time
+ basis) are sufficient for that facility to be competitive, on the basis of
+ pay and other employee benefits, with non-Department health-care facilities
+ in the same labor-market area in the recruitment and retention of qualified
+ personnel for those positions.
+ `(2) The health-care personnel positions referred to in paragraph (1)
+ (hereinafter in this section referred to as `covered positions') are the
+ following:
+ `(A) Registered nurse.
+ `(B) Such positions referred to in clauses (1) and (3) of section 4104 of
+ this title (other than the positions of physician, dentist, and registered
+ nurse) as the Secretary may determine upon the recommendation of the Chief
+ Medical Director.
+ `(3) The rates of basic pay for covered positions in the Department shall
+ be established and adjusted in accordance with this section instead of
+ subsection (b)(1) of section 4107 of this title.
+ `(4) The Secretary, after receiving the recommendation of the Chief Medical
+ Director, shall prescribe regulations setting forth criteria and procedures
+ to carry out this section and section 4142 of this title. Requirements in
+ such regulations for directors to provide and maintain documentation of
+ actions taken under this section shall require no more documentation than
+ the minimum essential for responsible administration.
+ `(b) The Secretary shall maintain the four grade levels for nurses employed
+ by the Department under section 4104(1) of this title as specified in
+ the Nurse Schedule in section 4107(b) of this title. The Secretary shall,
+ pursuant to regulations prescribed to carry out this subchapter, establish
+ grades for other covered positions as the Secretary considers appropriate.
+ `(c)(1) For each grade in a covered position, there shall be a range of
+ basic pay. The maximum rate of basic pay for a grade shall be 133 percent of
+ the minimum rate of basic pay for the grade, except that, if the Secretary
+ determines that a higher maximum rate is necessary with respect to any such
+ grade in order to recruit and retain a sufficient number of high-quality
+ health-care personnel, the Secretary may raise the maximum rate of basic pay
+ for that grade to a rate not in excess of 175 percent of the minimum rate
+ of basic pay for the grade. Whenever the Secretary exercises the authority
+ under the preceding sentence to establish the maximum rate of basic pay
+ at a rate in excess of 133 percent of the minimum rate for that grade,
+ the Secretary shall, in the next annual report required by subsection (g),
+ provide justification for doing so to the Committees on Veterans' Affairs
+ of the Senate and House of Representatives.
+ `(2) The maximum rate of basic pay for any grade for a covered position
+ may not exceed the maximum rate of basic pay established for positions in
+ level V of the Executive Schedule under section 5316 of title 5.
+ `(3) The range of basic pay for each such grade shall be divided into equal
+ increments, known as `steps'. The Secretary shall prescribe the number
+ of steps. Each grade in a covered position shall have the same number of
+ steps. Rates of pay within a grade may not be established at rates other
+ than whole steps. Any increase (other than an adjustment under subsection
+ (d)) within a grade in the rate of basic pay payable to an employee in a
+ covered position shall be by one or more of such step increments.
+ `(d)(1) The rates of basic pay for each grade in a covered position shall
+ be adjusted periodically in accordance with this subsection in order to
+ achieve the purposes of this section. Such adjustments shall be made--
+ `(A) whenever there is an adjustment under section 5305 of title 5 in the
+ rates of pay under the General Schedule, with the adjustment under this
+ subsection to have the same effective date as the adjustment in the rates
+ of basic pay under the General Schedule; and
+ `(B) at such additional times as the director of a Department health-care
+ facility, with respect to employees in that grade at that facility,
+ determines.
+ `(2) An adjustment in rates of basic pay under this subsection for a grade
+ shall be carried out by adjusting the amount of the minimum rate of basic
+ pay for that grade in accordance with paragraph (3) and then adjusting the
+ other rates for that grade to conform to the requirements of subsection
+ (c). Such an adjustment in the minimum rate of basic pay for a grade
+ shall be made by the director of a Department health-care facility so
+ as to achieve consistency with the beginning rate of compensation for
+ corresponding health-care professionals in the Bureau of Labor Statistics
+ (BLS) labor-market area of that facility.
+ `(3)(A) In the case of a Department health-care facility located in an area
+ for which there is current information, based upon an industry-wage survey
+ by the Bureau of Labor Statistics for that labor market, on beginning
+ rates of compensation for corresponding health-care professionals for
+ the BLS labor-market area of that facility, the director of the facility
+ concerned shall use that information as the basis for making adjustments in
+ rates of pay under this subsection. Whenever the Bureau of Labor Statistics
+ releases the results of a new industry-wage survey for that labor market that
+ includes information on beginning rates of compensation for corresponding
+ health-care professionals, the director of that facility shall determine,
+ not later than 30 days after the results of the survey are released, whether
+ an adjustment in rates of pay for employees at that facility for any covered
+ position is necessary in order to meet the purposes of this section. If the
+ director determines that such an adjustment is necessary, the adjustment,
+ based upon the information determined in the survey, shall take effect on
+ the first day of the first pay period beginning after that determination.
+ `(B) In the case of a Department health-care facility located in an area for
+ which the Bureau of Labor Statistics does not have current information on
+ beginning rates of compensation for corresponding health-care professionals
+ for the labor-market area of that facility for any covered position, the
+ director of that facility shall conduct a survey in accordance with this
+ subparagraph and shall adjust the amount of the minimum rate of basic pay for
+ grades in that covered position at that facility based upon that survey. Any
+ such survey shall be conducted in accordance with regulations prescribed by
+ the Secretary. Those regulations shall be developed in consultation with
+ the Secretary of Labor in order to ensure that the director of a facility
+ collects information that is valid and reliable and is consistent with
+ standards of the Bureau. The survey should be conducted using methodology
+ comparable to that used by the Bureau in making industry-wage surveys except
+ to the extent determined infeasible by the Secretary. Upon conducting a
+ survey under this subparagraph, the director concerned shall determine,
+ not later than 30 days after the date on which the collection of information
+ through the survey is completed, whether an adjustment in rates of pay for
+ employees at that facility for any covered position is necessary in order
+ to meet the purposes of this section. If the director determines that such
+ an adjustment is necessary, the adjustment, based upon the information
+ determined in the survey, shall take effect on the first day of the first
+ pay period beginning after that determination.
+ `(C) The director of a facility may not adjust rates of basic pay under
+ this subsection for any pay grade so that the minimum rate of basic pay
+ for that grade is greater than the beginning rates of compensation for
+ corresponding positions at non-Department health-care facilities.
+ `(4) If the director of a Department health-care facility determines, after
+ any survey under paragraph (3)(B) or at any other time that an adjustment
+ in rates of pay is scheduled to take place under this subsection, that it
+ is not necessary to adjust the rates of basic pay for employees in a grade
+ of a covered position at that facility in order to carry out the purpose
+ of this section, such an adjustment for employees at that facility in that
+ grade shall not be made. Whenever a director makes such a determination,
+ the director shall within 10 days notify the Chief Medical Director of the
+ decision and the reasons for the decision.
+ `(5) Information collected by the Department in surveys conducted under
+ this subsection is not subject to disclosure under section 552 of title 5.
+ `(6) In this subsection--
+ `(A) The term `beginning rate of compensation', with respect to health-care
+ personnel positions in non-Department health-care facilities corresponding
+ to a grade of a covered position, means the sum of--
+ `(i) the minimum rate of pay established for personnel in such positions
+ who have education, training, and experience equivalent or similar to the
+ education, training, and experience required for health-care personnel
+ employed in the same category of Department covered positions; and
+ `(ii) other employee benefits for those positions to the extent that those
+ benefits are reasonably quantifiable.
+ `(B) The term `corresponding', with respect to health-care personnel positions
+ in non-Department health-care facilities, means those positions for which the
+ education, training, and experience requirements are equivalent or similar
+ to the education, training, and experience requirements for health-care
+ personnel positions in Department health-care facilities.
+ `(e) Adjustments in rates of basic pay under subsection (d) may increase
+ or reduce the rates of basic pay applicable to any grade of a covered
+ position. In the case of such an adjustment that reduces the rates of pay
+ for a grade, an employee serving at a Department health-care facility on the
+ day before the effective date of that adjustment in a position affected by
+ the adjustment may not (by reason of that adjustment) incur a reduction in
+ the rate of basic pay applicable to that employee so long as the employee
+ continues to serve in that covered position at that facility. If such
+ an employee is subsequently promoted to a higher grade, or advanced to a
+ higher step within the employee's grade, for which the rate of pay as so
+ adjusted is lower than the employee's rate of basic pay on the day before
+ the effective date of the promotion, the employee shall continue to be
+ paid at a rate of basic pay not less than the rate of basic pay applicable
+ to the employee before the promotion so long as the employee continues to
+ serve in that covered position at that facility.
+ `(f) Not later than February 1 of 1991, 1992, and 1993, the Secretary shall
+ submit to the Committees on Veterans' Affairs of the Senate and House of
+ Representatives a report regarding any pay adjustments under the authority of
+ subsection (d)(1)(A) effective during the 12 months preceding the submission
+ of the report. Each such report shall set forth, by health-care facility,
+ the percentage of such increases and, in any case in which no increase was
+ made, the basis for not providing an increase.
+ `(g) Not later than December 1 of 1991, 1992, and 1993, the Secretary
+ shall submit to the Committees on Veterans' Affairs of the Senate and
+ House of Representatives a report regarding the exercise of the authorities
+ provided in this section for the preceding fiscal year. Each such report
+ shall include the following:
+ `(1) A review of the use of the authorities provided in this section
+ (including the Secretary's and Chief Medical Director's actions, findings,
+ recommendations, and other activities under this section) during the preceding
+ fiscal year, including an assessment of the effects of the exercise of
+ such authorities on the ability of the Department to recruit and retain
+ qualified health-care professionals for covered positions.
+ `(2) The plans for the use of the authorities provided in this subchapter
+ for the next fiscal year.
+ `(3) A description of the rates of basic pay in effect during the preceding
+ fiscal year, with a comparison to the rates in effect during the previous
+ fiscal year, shown by facility and by covered position.
+ `(4) The numbers of employees in covered positions (shown separately for
+ registered nurses and for each other covered position) who during the
+ preceding fiscal year (A) left employment with the Department, (B) left
+ employment at one Department medical facility for employment at another
+ Department medical facility, or (C) changed from full-time status to
+ part-time status (and from part-time status to full-time status), and a
+ summary of the reasons therefor.
+ `(5) The number of vacancies in covered positions in the Administration
+ and a summary of the reasons that those positions are vacant.
+ `(6) The number of employees who during the preceding fiscal year left
+ employment at a health-care facility in one Bureau of Labor Statistics
+ labor-market area for employment at a health-care facility in another such
+ labor-market area, without changing residence.
+ `(7) Justification for setting the maximum rate of basic pay for any grade
+ at a rate in excess of 133 percent of the minimum rate of basic pay for
+ that grade.
+ `(8) The discussion required by section 4142(b)(2) of this title.
+ `(h) For the purposes of this section, the term `health-care facility'
+ means a medical center, an independent outpatient clinic, or an independent
+ domiciliary facility.
+`Sec. 4142. Nurses and other health-care personnel: administration of pay
+ `(a)(1) Regulations prescribed under section 4141(a) of this title shall
+ provide that whenever an employee in a covered position is given a new duty
+ assignment which is a promotion, the rate of basic pay of that employee
+ shall be increased at least one step increment in that employee's grade.
+ `(2) A nurse serving in a head nurse position shall while so serving
+ receive basic pay at a rate two step increments above the rate that would
+ otherwise be applicable to the nurse. If such a nurse is in the highest or
+ next-to-highest step for that nurse's grade, the preceding sentence shall
+ be applied by extrapolation to create additional steps only for the purposes
+ of this paragraph. The limitation in section 4141(c)(1) of this title shall
+ not apply with respect to increased basic pay under this paragraph.
+ `(3) An employee in a covered position who is promoted to the next higher
+ grade shall be appointed in that grade at a step having a rate of basic
+ pay that is greater than the rate of basic pay applicable to the employee
+ in a covered position on the day before the effective date of the promotion.
+ `(b)(1) Under regulations which the Secretary prescribes for the
+ administration of this section, the director of a Department health-care
+ facility (A) shall pay a cash bonus (in an amount to be determined by the
+ director not to exceed $2,000) to an employee in a covered position at that
+ facility who becomes certified in a specialty recognized by the Department,
+ and (B) may provide such a bonus to an employee in such a position who has
+ demonstrated both exemplary job performance and exemplary job achievement. The
+ authority of the Secretary under this subsection is in addition to any
+ other authority of the Secretary to provide job performance incentives.
+ `(2) The Secretary shall include in the annual report under section 4141(g)
+ of this title a discussion of the use during the period covered by the report
+ of the payment of bonuses under this subsection and other job performance
+ incentives available to the Secretary.
+ `(c)(1) The Secretary shall provide (in regulations prescribed for the
+ administration of this section) that the director of a Department health-care
+ facility, in making a new appointment of a person under section 4104(1)
+ of this title as an employee in a covered position for employment at that
+ facility, may make that appointment at a rate of pay described in paragraph
+ (3) without being subject to a requirement for prior approval at any higher
+ level of authority within the Department in any case in which the director
+ determines that it is necessary to do so in order to obtain the services
+ of employees in covered positions in cases in which vacancies exist at that
+ health-care facility.
+ `(2) Such a determination may be made by the director of a health-care
+ facility only in order to recruit employees in covered positions with
+ specialized skills, especially employees with skills which are especially
+ difficult or demanding.
+ `(3) A rate of pay referred to in paragraph (1) is a rate of basic pay in
+ excess of the minimum rate of basic pay applicable to the grade in which
+ the appointment is made (but not in excess of the maximum rate of basic
+ pay for that grade).
+ `(4) Whenever the director of a health-care facility makes an appointment
+ described in paragraph (1) without prior approval at a higher level of
+ authority within the Department, the director shall--
+ `(A) state in a document the reasons for employing the employee in a
+ covered position at a rate of pay in excess of the minimum rate of basic
+ pay applicable to the grade in which the employee is appointed (and retain
+ that document on file); and
+ `(B) in the first budget documents submitted to the Secretary by the director
+ after the employee is employed, include documentation for the need for such
+ increased rates of basic pay described in clause (A).
+ `(5) Whenever the director of a health-care facility makes an appointment
+ described in paragraph (1) on the basis of a determination described in
+ paragraph (2), the covered employee appointed may continue to receive pay at
+ a rate higher than that which would otherwise be applicable to that employee
+ only so long as the employee continues to serve in a position requiring
+ the specialized skills with respect to which the determination was made.
+ `(d) Whenever the director of a health-care facility makes an appointment
+ described in subsection (c)(1), the director may (without a regard to any
+ requirement for prior approval at any higher level of authority within the
+ Department) increase the rate of pay of other employees in the same covered
+ position at that facility who are in the grade in which the appointment
+ is made and are serving in a position requiring the specialized skills
+ with respect to which the determination under subsection (c)(2) concerning
+ the appointment was made. Any such increase shall continue in effect with
+ respect to any employee only so long as the employee continues to serve in
+ such a position.
+ `(e) An employee in a covered position employed under section 4104(1) of
+ this title who (without a break in employment) transfers from one Department
+ health-care facility to another may not be reduced in grade or step within
+ grade (except pursuant to a disciplinary action otherwise authorized by law)
+ if the duties of the position to which the employee transfers are similar
+ to the duties of the position from which the employee transferred. The rate
+ of basic pay of such employee shall be established at the new health-care
+ facility in a manner consistent with the practices at that facility for an
+ employee of that grade and step.
+ `(f) In this section, the term `covered position' has the meaning given
+ that term in section 4141 of this title.'.
+ (c) CONFORMING AMENDMENTS- Section 4107(e)(1) of such title is amended by
+ striking out `in subsection (b)(1) of this section'.
+ (d) CLERICAL AMENDMENT- The table of sections at the beginning of chapter
+ 73 of such title is amended by inserting after the item relating to section
+ 4134 the following:
+`SUBCHAPTER IV--PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL
+`4141. Nurses and other health-care personnel: competitive pay.
+`4142. Nurses and other health-care personnel: administration of pay.'.
+SEC. 103. REPEAL OF LIMITATION ON HOURLY RATE OF OVERTIME PAY.
+ Section 4107(e)(5) of title 38, United States Code, is amended by striking
+ out `, not to exceed' in the first sentence and all that follows through
+ `Nurse Schedule'.
+SEC. 104. EFFECTIVE DATE.
+ (a) IN GENERAL- (1) Except as provided in subsection (b), section 101 and
+ the amendments made by section 102 shall take effect on the date of enactment.
+ (2) The amendment made by section 103 shall take effect on April 1, 1991.
+ (b) NEW PAY RATES- The rates of basic pay established pursuant to section
+ 4141 of title 38, United States Code, as added by section 102, shall take
+ effect for covered positions (as defined in that section) with respect to
+ the first pay period beginning on or after April 1, 1991.
+TITLE II--MISCELLANEOUS
+SEC. 201. PILOT PROGRAM ON PROVISION OF NONINSTITUTIONAL ALTERNATIVES TO
+NURSING HOME CARE.
+ (a) AUTHORITY TO PROVIDE FOR NONINSTITUTIONAL CARE- (1) Subchapter II of
+ chapter 17 of title 38, United States Code, is amended by adding at the
+ end the following new section:
+` 620C. Noninstitutional alternatives to nursing home care: pilot program
+ `(a) During the four-year period beginning on October 1, 1990, the Secretary
+ may conduct a pilot program for the furnishing of medical, rehabilitative,
+ and health-related services in noninstitutional settings for veterans who
+ are eligible under this chapter for, and are in need of, nursing home care
+ and who--
+ `(1) are in receipt of, or are in need of, nursing home care primarily for
+ the treatment of a service-connected disability; or
+ `(2) have a service-connected disability rated at 50 percent or more.
+ `(b)(1) Under the pilot program conducted pursuant to subsection (a),
+ the Secretary shall (A) furnish appropriate health-related services solely
+ through contracts with appropriate public and private agencies that provide
+ such services, and (B) designate Department health-care employees to furnish
+ case management services to veteran furnished services under the program.
+ `(2) For the purposes of paragraph (1), the term `case management services'
+ includes the coordination and facilitation of all services furnished to a
+ veteran by the Department of Veterans Affairs, either directly or through
+ contract, including assessment of needs, planning, referral (including
+ referral for services to be furnished by the Department, either directly or
+ through a contract, or by an entity other than the Department), monitoring,
+ reassessment, and followup.
+ `(c) The Secretary may provide in-kind assistance (through the services
+ of Department of Veterans Affairs employees and the sharing of other
+ Department resources) to a facility furnishing services to veterans under
+ subsection (b)(1)(A). Any such in-kind assistance shall be provided under a
+ contract between the Department and the facility concerned. The Secretary
+ may provide such assistance only for use solely in the furnishing of
+ appropriate services under this section and only if, under such contract,
+ the Department receives reimbursement for the full cost of such assistance
+ (including the cost of services and supplies and normal depreciation and
+ amortization of equipment). Such reimbursement may be made by reduction in
+ the charges to the United States or by payment to the United States. Any
+ funds received through such reimbursement shall be credited to funds allotted
+ to the Department facility that provided the assistance.
+ `(d) The total cost of providing services or in-kind assistance in the case
+ of any veteran for any fiscal year under the pilot program may not exceed 65
+ percent of the cost that would have been incurred by the Department during
+ that fiscal year if the veteran had been furnished, instead, nursing home
+ care under section 610 of this title during that fiscal year.
+ `(e) The authority of the Secretary to enter into contracts under this
+ section shall be effective for any fiscal year only to the extent that
+ appropriations are available.'.
+ (2) The table of sections at the beginning of chapter 17 of such title is
+ amended by inserting after the item relating to section 620B the following
+ new item:
+`620C. Noninstitutional alternatives to nursing home care: pilot program.'.
+ (b) REPORT- Not later than February 1, 1994, the Secretary of Veterans
+ Affairs shall submit to the Committees on Veterans' Affairs of the Senate and
+ House of Representatives a report setting forth the Secretary's evaluation,
+ findings, and conclusions regarding the conduct, through September 30,
+ 1993, of the pilot program required by section 620C of title 38, United
+ States Code (as added by subsection (a)), and the results of the furnishing
+ of care under such pilot program for the participating veterans. The report
+ shall include a description of the conduct of the pilot program (including a
+ description of the veterans furnished services and of the services furnished
+ under the pilot program), and any plans for administrative action, and any
+ recommendations for legislation, that the Secretary considers appropriate
+ to include in the report.
+SEC. 202. SHARING OF SPECIALIZED MEDICAL RESOURCES.
+ (a) EXPANSION OF PURPOSE- Section 5051 of title 38, United States Code,
+ is amended by striking out `hospitals' both places it appears in the first
+ sentence and inserting in lieu thereof `health-care facilities'.
+ (b) EXPANSION OF AUTHORITY- Section 5053 of such title is amended--
+ (1) in subsection (a)--
+ (A) by striking out `hospitals' the first place it appears and all that
+ follows through `community' and inserting in lieu thereof `health-care
+ facilities and other health-care facilities (including organ banks, blood
+ banks, or similar institutions), research centers, or medical schools'; and
+ (B) by striking out the last sentence; and
+ (2) in subsection (b)--
+ (A) in the first sentence, by striking out `a charge' and all that follows
+ and inserting in lieu thereof `a methodology that provides appropriate
+ flexibility to the heads of the facilities concerned to establish an
+ appropriate reimbursement rate after taking into account local conditions
+ and needs and the actual costs to the providing facility of the resource
+ involved.'; and
+ (B) in the second sentence, by inserting before the period `and to funds
+ that have been allotted to the facility that furnished the resource involved'.
+SEC. 203. TEMPORARY APPOINTMENTS OF HEALTH-CARE PERSONNEL.
+ Section 4114(a)(3) of title 38, United States Code, is amended--
+ (1) in subparagraph (A), by striking out the penultimate sentence and
+ inserting in lieu thereof the following: `Temporary full-time appointments
+ of persons who have successfully completed a full course of nursing in
+ a recognized school of nursing approved by the Secretary, or who have
+ successfully completed a full course of training for any category of
+ personnel described in paragraph (3) of section 4104 of this title in a
+ recognized education or training institution approved by the Secretary, and
+ who are pending registration or licensure in a State, or certification by a
+ national board recognized by the Secretary, shall not exceed two years.'; and
+ (2) by striking out subparagraph (C) and inserting in lieu thereof the
+ following:
+ `(C) A student who has a temporary appointment under this paragraph and
+ who is pursuing a full course of nursing in a recognized school of nursing
+ approved by the Secretary, or who is pursuing a full course of training for
+ any category of personnel described in paragraph (3) of section 4104 of
+ this title in a recognized education or training institution approved by
+ the Secretary, may be reappointed for a period not to exceed the duration
+ of the student's academic program.'.
+SEC. 204. REPORT ON POST-TRAUMATIC STRESS DISORDER.
+ Section 201(e)(1) of the Veterans' Benefits Amendments of 1989 (Public
+ Law 101-237; 103 Stat. 2066) is amended by inserting `and not later than
+ February 1, 1991,' after `Not later than February 1, 1990,'.
+SEC. 205. HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAMS.
+ (a) COORDINATION WITH DEPARTMENT OF DEFENSE PROGRAMS- (1) Chapter 76 of
+ title 38, United States Code, is amended by adding at the end the following
+ new subchapter:
+`SUBCHAPTER V--STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE
+`Sec. 4351. Authority for program
+ `(a) As part of the Educational Assistance Program, the Secretary of
+ Veterans Affairs may select qualified individuals to receive assistance
+ under this subchapter.
+ `(b) To be eligible to receive assistance under this subchapter, an individual
+ must be accepted for enrollment or be enrolled as a full-time student at a
+ qualifying educational institution in a course of education or training that
+ is approved by the Secretary and that leads toward completion of a degree
+ in a health profession involving direct patient care or care incident to
+ direct patient care.
+`Sec. 4352. Eligibility: individuals entitled to benefits under the GI Bill
+program for members of the Selected Reserve
+ `The Secretary of Veterans Affairs may not approve an application under
+ section 4303 of this title of an individual applying to receive assistance
+ under this subchapter unless--
+ `(1) the individual is entitled to benefits under chapter 106 of title 10; and
+ `(2) the score of the individual on the Armed Forces Qualification Test
+ was above the 50th percentile.
+`Sec. 4353. Amount of assistance
+ `The Secretary may pay to a person selected to receive assistance under this
+ subchapter the amount of $400 (adjusted in accordance with section 4331
+ of this title) for each month of the person's enrollment in a program of
+ education or training covered by the agreement of the person entered into
+ under section 4303 of this title. Payment of such benefits for any period
+ shall be coordinated with any payment of benefits for the same period under
+ chapter 106 of title 10.
+`Sec. 4354. Obligated service
+ `A person receiving assistance under this subchapter shall provide service
+ in the full-time clinical practice of the person's profession as a full-time
+ employee of the Department for the period of obligated service provided in
+ the agreement of such person entered into under section 4303 of this title.
+`Sec. 4355. Breach of agreement; liability
+ `(a)(1) Subject to paragraph (2), an individual who is receiving or has
+ received a reserve member stipend under this subchapter and who fails to
+ perform the service for which the individual is obligated under section 4354
+ of this title shall be liable to the United States in an amount determined
+ in accordance with section 4317(c)(1) of this title.
+ `(2) An individual who, as a result of performing active duty (including
+ active duty for training), is unable to perform the service for which the
+ individual is obligated under section 4354 of this title shall be permitted
+ to perform that service upon completion of the active duty service (or
+ active duty for training). The Secretary may, by regulation, waive the
+ requirement for the performance of the service for which the individual
+ is obligated under section 4354 of this title in any case in which the
+ Secretary determines that the individual is unable to perform the service
+ for reasons beyond the control of the individual or in any case in which the
+ waiver would be in the best interest of the individual and the United States.
+ `(b) Any amount owed the United States under subsection (a) of this section
+ shall be paid to the United States during the one-year period beginning on
+ the date of the breach of the agreement.'.
+ (2) The table of sections at the beginning of such chapter is amended by
+ adding at the end the following new items:
+`SUBCHAPTER V--STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE
+`4351. Authority for program.
+`4352. Eligibility: individuals entitled to benefits under the GI Bill
+program for members of the Selected Reserve.
+`4353. Amount of assistance.
+`4354. Obligated service.
+`4355. Breach of agreement; liability.'.
+ (b) PERIODIC ADJUSTMENTS IN AMOUNT OF ASSISTANCE- Section 4331 of such
+ title is amended--
+ (1) in the first sentence of subsection (a)(1)--
+ (A) by striking out `amount and' and inserting in lieu thereof `amount,'; and
+ (B) by striking out `amount.' and inserting in lieu thereof `amount, and
+ the maximum Selected Reserve member stipend amount.';
+ (2) in subsection (b)--
+ (A) by redesignating paragraph (3) as paragraph (4); and
+ (B) by inserting after paragraph (2) the following new paragraph (3):
+ `(3) The term `maximum Selected Reserve member stipend amount' means the
+ maximum amount of assistance provided to a person receiving assistance under
+ subchapter V of this chapter, as specified in section 4353 of this title
+ and as previously adjusted (if at all) in accordance with this subsection.'.
+ (c) CONFORMING AMENDMENTS- (1) Section 4301(a) of such title is amended--
+ (A) by striking out `and' at the end of paragraph (1);
+ (B) by striking out the period at the end of paragraph (2) and inserting
+ in lieu thereof `; and'; and
+ (C) by adding at the end the following:
+ `(3) the Selected Reserve member stipend program provided for under subchapter
+ V of this chapter.'.
+ (2) Section 4302 of such title is amended by inserting `under subchapter
+ I or II of this chapter' in subsections (a) and (b) after `Educational
+ Assistance Program'.
+ (3) Section 4304 of such title is amended by striking out `subchapter II
+ or III' in paragraphs (1)(A), (2)(D), and (5) and inserting in lieu thereof
+ `subchapters II, III, or V'.
+SEC. 206. ADMINISTRATION.
+ (a) IN GENERAL- Chapter 36 of title 38, United States Code, is amended by
+ inserting after section 1784 the following new section:
+`Sec. 1784A. Procedures relating to computer matching program
+ `(a)(1) Notwithstanding section 552a(p) of title 5 and subject to paragraph
+ (2) of this subsection, the Secretary may suspend, terminate, reduce,
+ or make a final denial of any financial assistance or payment under an
+ educational assistance program provided for in chapter 30 or 32 of this
+ title or in chapter 106 of title 10 in the case of any individual, or take
+ other adverse action against such individual, based on information produced
+ by a matching program with the Department of Defense.
+ `(2) The Secretary may not take any action referred to in paragraph (1)
+ of this subsection until--
+ `(A) the individual concerned has been provided a written notice containing
+ a statement of the findings of the Secretary based on the matching program,
+ a description of the proposed action, and notice of the individual's right
+ to contest such findings within 10 days after the date of the notice; and
+ `(B) the 10-day period referred to in subparagraph (A) of this paragraph
+ has expired.
+ `(3) In computing the 10-day period referred to in paragraph (2) of this
+ subsection, Saturdays, Sundays, and Federal holidays shall be excluded.
+ `(b) For the purposes of subsection (q) of section 552a of title 5, compliance
+ with the provisions of subsection (a) of this section shall be considered
+ compliance with the provisions of subsection (p) of such section 552a.
+ `(c) For purposes of this section, the term `matching program' has the same
+ meaning provided in section 552a(a)(8) of title 5.'.
+ (b) RATIFICATION- Any use by the Department of Veterans Affairs, during the
+ period beginning on July 2, 1990, and ending on the date of the enactment
+ of this Act, of any category of information provided by the Department
+ of Defense or the Department of Transportation for making determinations
+ described in section 413(b) of the Veterans' Benefits Amendments of 1989
+ (Public Law 101-237) is hereby ratified.
+ (c) CLERICAL AMENDMENT- The table of sections at the beginning of such
+ chapter is amended by inserting after the item relating to section 1784
+ the following new item:
+`1784A. Procedures relating to computer matching programs.'.
+ (d) EFFECTIVE DATE DELAYED FOR CERTAIN EDUCATION BENEFITS COMPUTER MATCHING
+ PROGRAMS- (1) In the case of computer matching programs between the Department
+ of Veterans Affairs and the Department of Defense in the administration
+ of education benefits programs under chapters 30 and 32 of title 38 and
+ chapter 106 of title 10, United States Code, the amendments made to section
+ 552a of title 5, United States Code, by the Computer Matching and Privacy
+ Protection Act of 1988 (other than the amendments made by section 10(b)
+ of that Act) shall take effect on October 1, 1990.
+ (2) For purposes of this subsection, the term `matching program' has the
+ same meaning provided in section 552a(a)(8) of title 5, United States Code.
+SEC. 207. REFUNDS FOR CERTAIN SERVICE ACADEMY GRADUATES.
+ (a) IN GENERAL- Upon receipt before January 1, 1992, of an application from
+ an individual described in subsection (b)(3), the Secretary of Veterans
+ Affairs shall--
+ (1) not later than 60 days after receiving such application, refund to
+ the individual concerned the amount, if any, of the individual's unused
+ contributions to the VEAP Account;
+ (2)(A) if the individual has received educational assistance under chapter 32
+ of title 38, United States Code, for the pursuit of a program of education,
+ pay to the individual (out of funds appropriated to the readjustment benefits
+ account) a sum equal to the amount by which the amount of the educational
+ assistance that the individual would have received under chapter 34 of such
+ title for the pursuit of such program exceeds the amount of the educational
+ assistance that the individual did receive under such chapter 32 for the
+ pursuit of such program; or
+ (B) if the individual has not received educational assistance under such
+ chapter 32, pay to the individual (out of funds appropriated to the Department
+ of Veterans Affairs Readjustment Benefits account) a sum equal to the amount
+ of educational assistance that the individual would have received under
+ chapter 34 of such title for the pursuit of a program of education if the
+ individual had been entitled to assistance under such program during the
+ period ending on December 31, 1989; and
+ (3) refund to the Secretary of Defense the unused contributions by such
+ Secretary to the VEAP Account on behalf of such individual.
+ (b) DEFINITIONS- For purposes of this section--
+ (1) the term `VEAP Account' means the Post-Vietnam Era Veterans Education
+ Account established pursuant to section 1622(a) of title 38, United States
+ Code;
+ (2) the term `active duty' has the same meaning given such term by section
+ 101(21) of such title 38;
+ (3) the term `individual described in subsection (b)(3)' means an individual
+ who--
+ (A) before January 1, 1977, commenced the third academic year as a cadet
+ or midshipman at one of the service academies or the third academic year
+ as a member of the Senior Reserve Officers' Training Corps in a program
+ of educational assistance under section 2104 or 2107 of title 10, United
+ States Code;
+ (B) served on active duty for a period of more than 180 days pursuant to an
+ appointment as a commissioned officer received upon graduation from one of
+ the service academies or upon satisfactory completion of advanced training
+ (as defined in section 2101 of such title 10) as a member of the Senior
+ Reserve Officers' Training Corps;
+ (C) after such period of active duty, was discharged or released therefrom
+ under conditions other than dishonorable or continued to serve on active
+ duty without a break in service; and
+ (D) if enrolled under the program of educational assistance provided under
+ chapter 32 of title 38, United States Code, submits to the Secretary of
+ Veterans Affairs, as part of the application made by the individual under
+ subsection (a) in such form and manner as such Secretary shall prescribe
+ by January 1, 1991, an irrevocable election to be disenrolled from such
+ program at that time; and
+ (4) the term `service academies' means the United States Military Academy,
+ the United States Naval Academy, the United States Air Force Academy,
+ and the United States Coast Guard Academy.
+SEC. 208. LIMITATIONS ON CHANGES OF PROGRAMS OF EDUCATION.
+ (a) IN GENERAL- Section 1791(b) of title 38, United States Code, is amended
+ by striking out `The' through `additional change' and inserting in lieu
+ thereof `The Secretary, in accordance with procedures that the Secretary
+ may establish, may approve a change other than a change under subsection
+ (a) of this section'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall take effect
+ on June 1, 1991.
+SEC. 209. NAMING OF DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER IN SAGINAW,
+MICHIGAN.
+ The Department of Veterans Affairs medical center in Saginaw, Michigan, shall
+ after the date of the enactment of this Act be known and designated as the
+ `Aleda E. Lutz Department of Veterans Affairs Medical Center'. Any reference
+ to such medical center in any law, regulation, map, document, record, or
+ other paper of the United States shall after such date be deemed to be a
+ reference to the Aleda E. Lutz Department of Veterans Affairs Medical Center.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

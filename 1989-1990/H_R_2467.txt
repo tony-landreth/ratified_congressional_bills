@@ -1,0 +1,1123 @@
+ 
+--H.R.2467--
+H.R.2467
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To provide disaster assistance to agricultural producers, and for other
+purposes.
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `Disaster Assistance Act
+ of 1989'.
+ (b) TABLE OF CONTENTS- The table of contents is as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--EMERGENCY CROP LOSS ASSISTANCE
+Subtitle A--Annual Crops
+Sec. 101. Payments to program participants for target price commodities.
+Sec. 102. Payments to program nonparticipants for target price commodities.
+Sec. 103. Peanuts, sugar, and tobacco.
+Sec. 104. Soybeans and nonprogram crops.
+Sec. 105. Crop quality reduction disaster payments.
+Sec. 106. Effect of Federal crop insurance payments.
+Sec. 107. Crop insurance coverage for the 1990 crops.
+Sec. 108. Crops harvested for forage uses.
+Sec. 109. Payment limitations.
+Sec. 110. No double payments on replanted acreage.
+Sec. 111. Substitution of crop insurance program yields.
+Sec. 112. Definitions.
+Subtitle B--Orchards
+Sec. 121. Eligibility.
+Sec. 122. Assistance.
+Sec. 123. Limitation on assistance.
+Sec. 124. Definition.
+Sec. 125. Duplicative payments.
+Sec. 126. Sense of Congress on crop insurance for orchard crops.
+Subtitle C--Forest Crops
+Sec. 131. Eligibility.
+Sec. 132. Assistance.
+Sec. 133. Limitation on assistance.
+Sec. 134. Definition.
+Sec. 135. Duplicative payments.
+Subtitle D--Additional Assistance
+Sec. 141. New conservation measures.
+Sec. 142. Assistance for ponds.
+Subtitle E--Administrative Provisions
+Sec. 151. Ineligibility.
+Sec. 152. Timing and manner of assistance.
+Sec. 153. Commodity Credit Corporation.
+Sec. 154. Limitation on outlays.
+Sec. 155. Regulations.
+TITLE II--EMERGENCY LIVESTOCK ASSISTANCE
+Sec. 201. Use of stored grain for assistance.
+Sec. 202. Livestock transportation assistance.
+Sec. 203. Livestock water development projects.
+Sec. 204. Animal unit methodology study and report.
+TITLE III--DISASTER CREDIT AND FORBEARANCE
+Sec. 301. Emergency loans.
+Sec. 302. 1990 farm operating loans.
+Sec. 303. FmHA loans made to Indian tribes.
+TITLE IV--RURAL BUSINESSES
+Sec. 401. Disaster assistance for rural business enterprises.
+TITLE V--WATER-RELATED ASSISTANCE
+Sec. 501. Emergency community water assistance grant program.
+Sec. 502. Livestock water assistance.
+Sec. 503. Disaster assistance for watershed protection activities.
+TITLE VI--GENERAL PROVISIONS
+Sec. 601. Shrinkage allowance for peanuts.
+Sec. 602. Advanced deficiency repayment deadline for 1988 crops.
+Sec. 603. Planting of alternate crops on permitted acreage.
+Sec. 604. Crop insurance yield coverage.
+TITLE I--EMERGENCY CROP LOSS ASSISTANCE
+Subtitle A--Annual Crops
+SEC. 101. PAYMENTS TO PROGRAM PARTICIPANTS FOR TARGET PRICE COMMODITIES.
+ (a) DISASTER PAYMENTS-
+ (1) IN GENERAL- Effective only for producers on a farm who elected to
+ participate in the production adjustment program established under the
+ Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for the 1989 crop of wheat,
+ feed grains, upland cotton, extra long staple cotton, or rice, except
+ as otherwise provided in this subsection, if the Secretary of Agriculture
+ determines that, because of damaging weather or related condition in 1988 or
+ 1989, the total quantity of the 1989 crop of the commodity that such producers
+ are able to harvest on the farm is less than the result of multiplying 60
+ percent (or, in the case of producers who obtained crop insurance for the 1989
+ crop of the commodity under the Federal Crop Insurance Act (7 U.S.C. 1501
+ et seq.), 65 percent) of the farm program payment yield established by the
+ Secretary for such crop by the sum of the acreage planted for harvest and
+ the acreage prevented from being planted (because of a natural disaster,
+ as determined by the Secretary) for such crop, the Secretary shall make a
+ disaster payment available to such producers at a rate equal to 65 percent of
+ the established price for the crop for any deficiency in production greater
+ than 40 percent (or, in the case of producers who obtained crop insurance
+ for the 1989 crop of the commodity under the Federal Crop Insurance Act,
+ 35 percent) for the crop.
+ (2) Limitations-
+ (A) ACREAGE IN EXCESS OF PERMITTED ACREAGE- Payments provided under paragraph
+ (1) for a crop of a commodity may not be made available to producers on
+ a farm with respect to any acreage in excess of the permitted acreage for
+ the farm for the commodity.
+ (B) CROP INSURANCE- Payments provided under paragraph (1) for a crop of
+ a commodity may not be made available to producers on a farm unless such
+ producers enter into an agreement to obtain multiperil crop insurance,
+ to the extent required under section 107.
+ (3) REDUCTION IN DEFICIENCY PAYMENTS- The total quantity of a crop of a
+ commodity on which deficiency payments otherwise would be payable to producers
+ on a farm under the Agricultural Act of 1949 shall be reduced by the quantity
+ on which a payment is made to the producers for the crop under paragraph (1).
+ (4) Election of payments-
+ (A) APPLICATION OF PARAGRAPH- This paragraph shall apply, effective only for
+ the 1989 crops of wheat, feed grains, upland cotton, and rice, to producers
+ on a farm who--
+ (i)(I) had failed wheat, feed grain, upland cotton, or rice acreage; or
+ (II) were prevented from planting acreage to such commodity because of
+ damaging weather or related condition in 1988 or 1989; and
+ (ii) elected to devote all or a portion of such acreage to conservation
+ or other uses in accordance with section 107D(c)(1)(C), 105C(c)(1)(B),
+ 103A(c)(1)(B), or 101A(c)(1)(B) of the Agricultural Act of 1949 (7
+ U.S.C. 1445b-3(c)(1)(C), 1444e(c)(1)(B), 1444-1(c)(1)(B), or 1441-1(c)(1)(B)).
+ (B) ELECTION- The Secretary shall (within 30 days after the date of enactment
+ of this Act) permit producers referred to in subparagraph (A) to elect
+ whether to receive disaster payments in accordance with this section in
+ lieu of payments under the sections referred to in subparagraph (A)(ii).
+ (b) ADVANCE DEFICIENCY PAYMENTS-
+ (1) APPLICATION OF SUBSECTION- This subsection shall apply only to producers
+ on a farm who elected to participate in the production adjustment program
+ established under the Agricultural Act of 1949 for the 1989 crop of wheat,
+ feed grains, upland cotton, or rice.
+ (2) Forgiveness of refund requirement-
+ (A) IN GENERAL- Subject to subparagraph (B), if because of damaging weather
+ or related condition in 1988 or 1989 the total quantity of the 1989 crop of
+ the commodity that the producers are able to harvest on the farm is less
+ than the result of multiplying the farm program payment yield established
+ by the Secretary for such crop by the sum of the acreage planted for harvest
+ and the acreage prevented from being planted (because of a natural disaster,
+ as determined by the Secretary) for such crop (hereinafter in this section
+ referred to as the `qualifying amount'), the producers shall not be required
+ to refund any advance deficiency payment made to the producers for such crop
+ under section 107C of the Agricultural Act of 1949 (7 U.S.C. 1445b-2) with
+ respect to that portion of the deficiency in production that does not exceed--
+ (i) in the case of producers who obtained crop insurance for the 1989 crop
+ of the commodity under the Federal Crop Insurance Act, 35 percent of the
+ qualifying amount; and
+ (ii) in the case of other producers, 40 percent of the qualifying amount.
+ (B) CROP INSURANCE- Producers on a farm shall not be eligible for the
+ forgiveness provided for under subparagraph (A), unless such producers
+ enter into an agreement to obtain multiperil crop insurance, to the extent
+ required under section 107.
+ (3) ELECTION FOR NONRECIPIENTS- The Secretary shall allow producers on
+ a farm who elected, prior to the date of enactment of this Act, not to
+ receive advance deficiency payments made available for the 1989 crop
+ under section 107C of the Agricultural Act of 1949, to elect (within 30
+ days after the date of the enactment of this Act) whether to receive such
+ advance deficiency payments.
+ (4) DATE OF REFUND FOR PAYMENTS- Effective only for the 1989 crops of wheat,
+ feed grains, upland cotton, and rice, if the Secretary determines that
+ any portion of the advance deficiency payment made to producers for the
+ crop under section 107C of the Agricultural Act of 1949 must be refunded,
+ such refund shall not be required prior to July 31, 1990, for that portion
+ of the crop for which a disaster payment is made under subsection (a).
+SEC. 102. PAYMENTS TO PROGRAM NONPARTICIPANTS FOR TARGET PRICE COMMODITIES.
+ (a) DISASTER PAYMENTS-
+ (1) IN GENERAL- Effective only for producers on a farm who elected not
+ to participate in the production adjustment program established under
+ the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for the 1989 crop of
+ wheat, feed grains, upland cotton, extra long staple cotton, or rice, if
+ the Secretary of Agriculture determines that because of damaging weather
+ or related condition in 1988 or 1989, the total quantity of the 1989 crop
+ of the commodity that such producers are able to harvest on the farm is
+ less than the result of multiplying 50 percent of the county average yield
+ established by the Secretary for such crop by the sum of acreage planted
+ for harvest and the acreage for which prevented planted credit is approved
+ by the Secretary for such crop under subsection (b), the Secretary shall
+ make a disaster payment available to such producers.
+ (2) PAYMENT RATE- The payment shall be made to the producers at a rate
+ equal to 65 percent of the basic county loan rate (or a comparable price
+ if there is no current basic county loan rate) for the crop, as determined
+ by the Secretary, for any deficiency in production greater than 50 percent
+ for the crop.
+ (b) PREVENTED PLANTING CREDIT-
+ (1) IN GENERAL- The Secretary shall provide prevented planting credit
+ under subsection (a) with respect to acreage that producers on a farm were
+ prevented from planting to the 1989 crop of the commodity for harvest because
+ of damaging weather or related condition in 1988 or 1989, as determined by
+ the Secretary.
+ (2) MAXIMUM ACREAGE- Such acreage may not exceed the greater of--
+ (A) a quantity equal to the acreage on the farm planted (or prevented
+ from being planted due to a natural disaster or other condition beyond
+ the control of the producers) to the commodity for harvest in 1988 minus
+ acreage actually planted to the commodity for harvest in 1989; or
+ (B) a quantity equal to the average of the acreage on the farm planted (or
+ prevented from being planted due to a natural disaster or other condition
+ beyond the control of the producers) to the commodity for harvest in 1986,
+ 1987, and 1988 minus acreage actually planted to the commodity for harvest
+ in 1989.
+ (3) ADJUSTMENTS- The Secretary shall make appropriate adjustments in applying
+ the limitations contained in paragraph (2) to take into account crop rotation
+ practices of the producers.
+ (c) Limitations-
+ (1) ACREAGE LIMITATION PROGRAM- The amount of payments made available to
+ producers on a farm for a crop of a commodity under subsection (a) shall be
+ reduced by a factor equivalent to the acreage limitation program percentage
+ established for such crop under the Agricultural Act of 1949.
+ (2) CROP INSURANCE- Payments provided under subsection (a) for a crop of
+ a commodity may not be made available to the producers on a farm unless
+ such producers enter into an agreement to obtain multiperil crop insurance,
+ to the extent required under section 107.
+SEC. 103. PEANUTS, SUGAR, AND TOBACCO.
+ (a) DISASTER PAYMENTS-
+ (1) IN GENERAL- Effective only for the 1989 crops of peanuts, sugar beets,
+ sugarcane, and tobacco, if the Secretary of Agriculture determines that,
+ because of damaging weather or related condition in 1988 or 1989, the total
+ quantity of the 1989 crop of the commodity that the producers on a farm
+ are able to harvest is less than the result of multiplying 60 percent (or,
+ in the case of producers who obtained crop insurance for the 1989 crop of
+ the commodity under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.),
+ 65 percent) of the county average yield (or program yield, in the case
+ of peanuts) established by the Secretary for such crop by the sum of the
+ acreage planted for harvest and the acreage for which prevented planted
+ credit is approved by the Secretary for such crop under subsection (b),
+ the Secretary shall make a disaster payment available to such producers.
+ (2) PAYMENT RATE- The payment shall be made to the producers at a rate
+ equal to 65 percent of the applicable payment level under paragraph (3), as
+ determined by the Secretary, for any deficiency in production greater than--
+ (A) in the case of producers who obtained crop insurance for the 1989 crop
+ of the commodity under the Federal Crop Insurance Act--
+ (i) 35 percent for the crop; or
+ (ii) with respect to a crop of burley tobacco or flue-cured tobacco, 35
+ percent of the farm's effective marketing quota for 1989; and
+ (B) in the case of producers who did not obtain crop insurance for the 1989
+ crop of the commodity under the Federal Crop Insurance Act--
+ (i) 40 percent for the crop; or
+ (ii) with respect to a crop of burley tobacco or flue-cured tobacco, 40
+ percent of the farm's effective marketing quota for 1989.
+ (3) PAYMENT LEVEL- For purposes of paragraph (1), the payment level for a
+ commodity shall be equal to--
+ (A) for peanuts, the price support level for quota peanuts or the price
+ support level for additional peanuts, as applicable;
+ (B) for tobacco, the national average loan rate for the type of tobacco
+ involved, or (if there is none) the market price, as determined under
+ section 104(a)(2); and
+ (C) for sugar beets and sugarcane, a level determined by the Secretary to be
+ fair and reasonable in relation to the level of price support established
+ for the 1989 crops of sugar beets and sugarcane, and that, insofar as is
+ practicable, shall reflect no less return to the producer than under the
+ 1989 price support levels.
+ (b) PREVENTED PLANTING CREDIT-
+ (1) IN GENERAL- The Secretary shall provide prevented planting credit
+ under subsection (a) with respect to acreage that producers on a farm were
+ prevented from planting to the 1989 crop of the commodity for harvest because
+ of damaging weather or related condition in 1988 or 1989, as determined by
+ the Secretary.
+ (2) MAXIMUM ACREAGE- Such acreage may not exceed the greater of--
+ (A) a quantity equal to the acreage on the farm planted (or prevented
+ from being planted due to a natural disaster or other condition beyond
+ the control of the producers) to the commodity for harvest in 1988 minus
+ acreage actually planted to harvest in 1989; or
+ (B) a quantity equal to the average of the acreage on the farm planted (or
+ prevented from being planted due to a natural disaster or other condition
+ beyond the control of the producers) to the commodity for harvest in 1986,
+ 1987, and 1988 minus acreage actually planted to the commodity for harvest
+ in 1989.
+ (3) ADJUSTMENTS- The Secretary shall make appropriate adjustments in
+ applying the limitations contained in paragraph (2) to take into account
+ crop rotation practices of the producers and any change in quotas for the
+ 1989 crops of tobacco.
+ (c) LIMITATION- Payments provided under subsection (a) for a crop of a
+ commodity may not be made available to the producers on a farm unless such
+ producers enter into an agreement to obtain multiperil crop insurance,
+ to the extent required under section 107.
+ (d) SPECIAL RULES FOR PEANUTS- Notwithstanding any other provision of law--
+ (1) a deficiency in production of quota peanuts from a farm, as otherwise
+ determined under this section, shall be reduced by the quantity of peanut
+ poundage quota that was the basis of such anticipated production that has
+ been transferred from the farm;
+ (2) payments made under this section shall be made taking into account
+ whether the deficiency for which the deficiency in production is claimed was
+ a deficiency in production of quota or additional peanuts and the payment
+ rate shall be established accordingly; and
+ (3) the quantity of undermarketings of quota peanuts from a farm for the
+ 1989 crop that may otherwise be claimed under section 358 of the Agricultural
+ Adjustment Act of 1938 (7 U.S.C. 1358) for purposes of future quota increases
+ shall be reduced by the quantity of the deficiency of production of such
+ peanuts for which payment has been received under this section.
+ (e) SPECIAL RULES FOR TOBACCO- Notwithstanding any other provision of law--
+ (1) the quantity of undermarketings of quota tobacco from a farm for the
+ 1989 crop that may otherwise be claimed under section 317 or 319 of the
+ Agricultural Adjustment Act of 1938 (7 U.S.C. 1314c or 1314e) for purposes
+ of future quota increases shall be reduced by the quantity of the deficiency
+ of production of such tobacco for which payment has been received under
+ this section; and
+ (2) disaster payments made to producers under this section may not be
+ considered by the Secretary in determining the net losses of the Commodity
+ Credit Corporation under section 106A(d) of the Agricultural Act of 1949
+ (7 U.S.C. 1445-1(d)).
+SEC. 104. SOYBEANS AND NONPROGRAM CROPS.
+ (a) DISASTER PAYMENTS-
+ (1) In general-
+ (A) ELIGIBILITY- Effective only for the 1989 crops of soybeans and nonprogram
+ crops, if the Secretary of Agriculture determines that, because of damaging
+ weather or related condition in 1988 or 1989, the total quantity of the 1989
+ crop of the commodity that the producers on a farm are able to harvest is
+ less than--
+ (i) with respect to soybeans and sunflowers, the result of multiplying 55
+ percent of the State, area, or county yield, adjusted for adverse weather
+ conditions during the 1986, 1987, and 1988 crop years, as determined by the
+ Secretary, for such crop by the sum of the acreage planted for harvest and
+ the acreage for which prevented planting credit is approved by the Secretary
+ for such crop under subsection (b);
+ (ii) with respect to nonprogram crops (other than as provided in clauses (i)
+ and (iii)), the result of multiplying 50 percent of the yield established
+ by the Commodity Credit Corporation under subsection (d)(2) for such crop
+ by the sum of the acreage planted for harvest and the acreage for which
+ prevented planting credit is approved by the Secretary for such crop under
+ subsection (b); and
+ (iii) with respect to crops covered in section 201(b) of the Agricultural
+ Act of 1949 (7 U.S.C. 1446(b)), 50 percent of the historical annual yield
+ of the producers for such crops, as determined by the Secretary,
+the Secretary shall make a disaster payment available to such producers.
+ (B) PAYMENT RATE- The payment shall be made to such producers at a rate
+ equal to 65 percent of the applicable payment level under paragraph (2),
+ as determined by the Secretary, for any deficiency in production greater
+ than 45 percent for soybeans and sunflowers (50 percent for other nonprogram
+ crops) for the crop.
+ (2) PAYMENT LEVEL- For purposes of paragraph (1), the payment level for a
+ commodity shall equal the simple average price received by producers of the
+ commodity, as determined by the Secretary subject to paragraph (3), during
+ the marketing years for the immediately preceding 5 crops of the commodity,
+ excluding the year in which the average price was the highest and the year
+ in which the average price was the lowest in such period.
+ (3) Calculation of payments for different varieties-
+ (A) CROP-BY-CROP BASIS- The Secretary shall make disaster payments under
+ this subsection on a crop-by-crop basis, with consideration given to markets
+ and uses of the crops, under regulations issued by the Secretary.
+ (B) DIFFERENT VARIETIES- For purposes of determining the payment levels on
+ a crop-by-crop basis, the Secretary shall consider as separate crops, and
+ develop separate payment levels insofar as is practicable for, different
+ varieties of the same commodity, and commodities for which there is a
+ significant difference in the economic value in the market.
+ (4) EXCLUSIONS FROM HARVESTED QUANTITIES- For purposes of determining
+ the total quantity of the 1989 nonprogram crop of the commodity that the
+ producers on a farm are able to harvest under paragraph (1), the Secretary
+ shall exclude at least 70 percent of--
+ (A) commodities that cannot be sold in normal commercial channels of
+ trade; and
+ (B) dockage, including husks and shells, if such dockage is excluded in
+ determining yields under subsection (d)(2).
+ (b) PREVENTED PLANTING CREDIT-
+ (1) IN GENERAL- The Secretary shall provide prevented planting credit
+ under subsection (a) with respect to acreage that producers on a farm were
+ prevented from planting to the 1989 crop of the commodity for harvest because
+ of damaging weather or related condition in 1988 or 1989, as determined by
+ the Secretary.
+ (2) MAXIMUM ACREAGE- Such acreage may not exceed the greater of--
+ (A) a quantity equal to the acreage on the farm planted (or prevented
+ from being planted due to a natural disaster or other condition beyond
+ the control of the producers) to the commodity for harvest in 1988 minus
+ acreage actually planted for harvest in 1989; or
+ (B) a quantity equal to the average of the acreage on the farm planted (or
+ prevented from being planted due to a natural disaster or other condition
+ beyond the control of the producers) to the commodity for harvest in 1986,
+ 1987, and 1988 minus acreage actually planted to the commodity for harvest
+ in 1989.
+ (3) ADJUSTMENTS- The Secretary shall make appropriate adjustments in applying
+ the limitations contained in paragraph (2) to take into account crop rotation
+ practices of the producers.
+ (c) LIMITATION- Payments provided under subsection (a) for a crop of a
+ commodity may not be made available to the producers on a farm unless such
+ producers enter into an agreement to obtain multiperil crop insurance,
+ to the extent required under section 107.
+ (d) SPECIAL RULES FOR NONPROGRAM CROPS-
+ (1) DEFINITION OF NONPROGRAM CROP- As used in this section, the term
+ `nonprogram crop' means all crops for which crop insurance through the
+ Federal Crop Insurance Corporation was available for crop year 1989, and
+ other commercial crops (including sweet potatoes) for which such insurance
+ was not available for crop year 1989, except that such term shall not include
+ a crop covered under section 101, 102, or 103, soybeans, or sunflowers.
+ (2) FARM YIELDS-
+ (A) ESTABLISHMENT- The Commodity Credit Corporation shall establish disaster
+ program farm yields for nonprogram crops to carry out this section.
+ (B) PROVEN YIELDS AVAILABLE- If the producers on a farm can provide
+ satisfactory evidence to the Commodity Credit Corporation of actual crop
+ yields on the farm for at least 1 of the immediately preceding 3 crop years,
+ the yield for the farm shall be based on such proven yields.
+ (C) PROVEN YIELDS NOT AVAILABLE- If such data do not exist for any of the
+ 3 preceding crop years, the Commodity Credit Corporation shall establish
+ a yield for the farm by using a county average yield for the commodity,
+ or by using other data available to it.
+ (D) COUNTY AVERAGE YIELDS- In establishing county average yields for
+ nonprogram crops, the Commodity Credit Corporation shall use the best
+ available information concerning yields. Such information may include
+ extension service records, credible nongovernmental studies, and yields in
+ similar counties.
+ (3) RESPONSIBILITY OF PRODUCERS- It shall be the responsibility of the
+ producers of nonprogram crops to provide satisfactory evidence of 1989 crop
+ losses resulting from damaging weather or related condition in 1988 or 1989
+ in order for such producers to obtain disaster payments under this section.
+SEC. 105. CROP QUALITY REDUCTION DISASTER PAYMENTS.
+ (a) IN GENERAL- To ensure that all producers of 1989 crops covered under
+ sections 101 through 104 are treated equitably, the Secretary of Agriculture
+ may make additional disaster payments to producers of such crops who suffer
+ losses resulting from the reduced quality of such crops caused by damaging
+ weather or related condition in 1988 or 1989, as determined by the Secretary.
+ (b) ELIGIBLE PRODUCERS- If the Secretary determines to make crop quality
+ disaster payments available to producers under subsection (a), producers on
+ a farm of a crop described in subsection (a) shall be eligible to receive
+ reduced quality disaster payments only if such producers incur a deficiency
+ in production of not less than 45 percent and not more than 75 percent for
+ such crop (as determined under section 101, 102, 103, or 104, as appropriate).
+ (c) MAXIMUM PAYMENT RATE- The Secretary shall establish the reduced quality
+ disaster payment rate, except that such rate shall not exceed 10 percent,
+ as determined by the Secretary, of--
+ (1) the established price for the crop, for commodities covered under
+ section 101;
+ (2) the basic county loan rate for the crop (or a comparable price if there is
+ no current basic county loan rate), for commodities covered under section 102;
+ (3) the payment level under section 103(a)(3), for commodities covered by
+ section 103; and
+ (4) the payment level under section 104(a)(2), for commodities covered
+ under section 104.
+ (d) DETERMINATION OF PAYMENT- The amount of payment to a producer under this
+ section shall be determined by multiplying the payment rate established under
+ subsection (c) by the portion of the actual harvested crop on the producer's
+ farm that is reduced in quality by such natural disaster in 1988 or 1989,
+ as determined by the Secretary.
+SEC. 106. EFFECT OF FEDERAL CROP INSURANCE PAYMENTS.
+ In the case of producers on a farm who obtained crop insurance for the 1989
+ crop of a commodity under the Federal Crop Insurance Act (7 U.S.C. 1501 et
+ seq.), the Secretary of Agriculture shall reduce the amount of payments
+ made available under this subtitle for such crop to the extent that the
+ amount determined by adding the net amount of crop insurance indemnity
+ payment (gross indemnity less premium paid) received by such producers
+ for the deficiency in the production of the crop and the disaster payment
+ determined in accordance with this subtitle for such crop exceeds the amount
+ determined by multiplying--
+ (1) 100 percent of the yield used for the calculation of disaster payments
+ made under this subtitle for such crop; by
+ (2) the sum of the acreage of such crop planted to harvest and the acreage
+ for which prevented planting credit is approved by the Secretary (or,
+ in the case of disaster payments under section 101, the eligible acreage
+ established under sections 101(a)(1) and 101(a)(2)(A)); by
+ (3)(A) in the case of producers who participated in a production adjustment
+ program for the 1989 crop of wheat, feed grains, upland cotton, extra
+ long staple cotton, or rice, the established price for the 1989 crop of
+ the commodity;
+ (B) in the case of producers who did not participate in a production
+ adjustment program for the 1989 crop of wheat, feed grains, upland cotton,
+ extra long staple cotton, or rice, the basic county loan rate (or a comparable
+ price, as determined by the Secretary, if there is no current basic county
+ loan rate) for the 1989 crop of the commodity;
+ (C) in the case of producers of sugar beets, sugarcane, peanuts, or tobacco,
+ the payment level for the commodity established under section 103(a)(3); and
+ (D) in the case of producers of soybeans or a nonprogram crop (as defined in
+ section 104(d)(1)), the simple average price received by producers of the
+ commodity, as determined by the Secretary, during the marketing years for
+ the immediately preceding 5 crops of the commodity, excluding the year in
+ which the average price was the highest and the year in which the average
+ price was the lowest in such period.
+SEC. 107. CROP INSURANCE COVERAGE FOR THE 1990 CROPS.
+ (a) REQUIREMENT- Subject to the limitations under subsection (b),
+ producers on a farm, to be eligible to receive a disaster payment under
+ this subtitle, an emergency loan under subtitle C of the Consolidated Farm
+ and Rural Development Act (7 U.S.C. 1961 et seq.) for crop losses due to
+ damaging weather or related condition in 1988 or 1989, or forgiveness of the
+ repayment of advance deficiency payments under section 101(b), must agree
+ to obtain multiperil crop insurance under the Federal Crop Insurance Act
+ (7 U.S.C. 1501 et seq.) for the 1990 crop of the commodity for which such
+ payments, loans, or forgiveness are sought.
+ (b) LIMITATIONS- Producers on a farm shall not be required to agree to
+ obtain crop insurance under subsection (a) for a commodity--
+ (1) unless such producers' deficiency in production, with respect to the
+ crop for which a disaster payment under this subtitle otherwise may be made,
+ exceeds 65 percent;
+ (2) where, or if, crop insurance coverage is not available to the producers
+ for the commodity for which the payment, loan, or forgiveness is sought;
+ (3) if the producers' annual premium rate for such crop insurance is an amount
+ greater than 125 percent of the average premium rate for insurance on that
+ commodity for the 1989 crop in the county in which the producers are located;
+ (4) in any case in which the producers' annual premium for such crop insurance
+ is an amount greater than 25 percent of the amount of the payment, loan,
+ or forgiveness sought; or
+ (5) if the producers can establish by appeal to the county committee
+ established under section 8(b) of the Soil Conservation and Domestic Allotment
+ Act (16 U.S.C. 590(b)), or to the county committee established under section
+ 332 of the Consolidated Farm and Rural Development Act (17 U.S.C. 1982),
+ as appropriate, that the purchase of crop insurance would impose an undue
+ financial hardship on such producers and that a waiver of the requirement
+ to obtain crop insurance should, in the discretion of the county committee,
+ be granted.
+ (c) IMPLEMENTATION-
+ (1) COUNTY COMMITTEES- The Secretary of Agriculture shall ensure (acting
+ through the county committees established under section 8(b) of the Soil
+ Conservation and Domestic Allotment Act and located in the counties in which
+ the assistance programs provided for under sections 101 through 105 are
+ implemented and through the county committees established under section
+ 332 of the Consolidated Farm and Rural Development Act in counties in
+ which emergency loans, as described in subsection (a), are made available)
+ that producers who apply for assistance, as described in subsection (a),
+ obtain multiperil crop insurance as required under this section.
+ (2) OTHER SOURCES- Each producer who is subject to the requirements of
+ this section may comply with such requirements by providing evidence of
+ multiperil crop insurance coverage from sources other than through the
+ county committee office, as approved by the Secretary.
+ (3) COMMISSIONS- The Secretary shall provide by regulation for a reduction
+ in the commissions paid to private insurance agents, brokers, or companies
+ on crop insurance contracts entered into under this section sufficient to
+ reflect that such insurance contracts principally involve only a servicing
+ function to be performed by the agent, broker, or company.
+ (d) REPAYMENT OF BENEFITS- Notwithstanding any other provision of law,
+ if (prior to the end of the 1990 crop year for the commodity involved)
+ the crop insurance coverage required of the producer under this section is
+ canceled by the producer, the producer--
+ (1) shall make immediate repayment to the Secretary of any disaster payment or
+ forgiven advance deficiency payment that the producer otherwise is required
+ to repay; and
+ (2) shall become immediately liable for full repayment of all principal
+ and interest outstanding on any emergency loan described in subsection (a)
+ made subject to this section.
+SEC. 108. CROPS HARVESTED FOR FORAGE USES.
+ Not later than 15 days after the date of the enactment of this Act, the
+ Secretary of Agriculture shall announce the terms and conditions by which
+ producers on a farm may establish a 1989 yield with respect to crops that
+ will be harvested for silage and other forage uses.
+SEC. 109. PAYMENT LIMITATIONS.
+ (a) LIMITATION- Subject to subsections (b) and (c), the total amount of
+ payments that a person shall be entitled to receive under one or more of
+ the programs established under this subtitle may not exceed $100,000.
+ (b) NO DOUBLE BENEFITS- No person may receive disaster payments under this
+ subtitle to the extent that such person receives a livestock emergency benefit
+ for lost feed production in 1989 under section 606 of the Agricultural Act
+ of 1949 (7 U.S.C. 1471d).
+ (c) COMBINED LIMITATION-
+ (1) IN GENERAL- No person may receive any payment under this subtitle or
+ benefit under title VI of the Agricultural Act of 1949 (7 U.S.C. 1471 et
+ seq.) for livestock emergency losses suffered in 1989 if such payment or
+ benefit will cause the combined total amount of such payments and benefits
+ received by such person to exceed $100,000.
+ (2) ELECTION- If a producer is subject to paragraph (1), the person may elect
+ (subject to the benefits limitations under section 609 of the Agricultural
+ Act of 1949 (7 U.S.C. 1471g)) whether to receive the $100,000 in such
+ payments, or such livestock emergency benefits (not to exceed $50,000),
+ or a combination of payments and benefits specified by the person.
+ (d) REGULATIONS- The Secretary of Agriculture shall issue regulations--
+ (1) defining the term `person' for the purposes of this section and section
+ 151, which shall conform, to the extent practicable, to the regulations
+ defining the term `person' issued under section 1001 of the Food Security
+ Act of 1985 (7 U.S.C. 1308); and
+ (2) prescribing such rules as the Secretary determines necessary to ensure
+ a fair and reasonable application of the limitations established under
+ this section.
+SEC. 110. NO DOUBLE PAYMENTS ON REPLANTED ACREAGE.
+ (a) REDUCTION OF DISASTER PAYMENTS- Effective only for producers on a farm
+ who receive disaster payments under this subtitle for a crop of a commodity,
+ the Secretary of Agriculture shall reduce such payments by an amount that
+ reflects the value of any crop such producers plant for harvest in 1989 to
+ replace the crop for which disaster payments are received.
+ (b) REPLACEMENT CROPS- For purposes of subsection (a), a crop shall be
+ considered to be planted to replace the crop for which disaster payments are
+ received if (because of loss or damage to the first crop due to damaging
+ weather or related condition in 1988 or 1989) the second crop is planted
+ on acreage on which the producers planted, or were prevented from planting,
+ the first crop.
+ (c) ADMINISTRATION- In carrying out this section, the Secretary shall--
+ (1) determine the value of the second crop based on the actual yield
+ of the producers and average market prices for the second crop during a
+ representative period; and
+ (2) take into account the historical cropping patterns of producers.
+SEC. 111. SUBSTITUTION OF CROP INSURANCE PROGRAM YIELDS.
+ (a) IN GENERAL- Notwithstanding any other provision of this Act, the
+ Secretary of Agriculture may permit each eligible producer (as defined in
+ subsection (d)) of a 1989 crop of a commodity who has obtained multiperil
+ crop insurance for such crop (or, as provided in subsection (c), who obtained
+ multiperil crop insurance for the producer's 1988 crop of such commodity)
+ under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) to substitute,
+ at the discretion of the producer, the crop insurance yield for such crop,
+ as established under such Act, for the farm yield otherwise assigned to
+ the producer under this subtitle, for the purposes of determining such
+ producer's eligibility for a disaster payment on the 1989 crop under this
+ subtitle and the amount of such payment.
+ (b) Adjustment of Advanced Deficiency Payments-
+ (1) IN GENERAL- Notwithstanding any other provision of this Act, if an
+ eligible producer of wheat, feed grains, cotton, or rice elects to substitute
+ yields for such producer's 1989 crop under subsection (a), the producer's
+ eligibility for a waiver or repayment of an advance deficiency payment on
+ such crop under this subtitle shall be adjusted as provided in paragraph (2).
+ (2) AMOUNT- The amount of production of such crop on which the producer
+ otherwise would be eligible for waiver of repayment of advance deficiency
+ payments under this subtitle shall be reduced by an amount of production
+ equal to the difference between--
+ (A) the amount of production eligible for disaster payments under this
+ subtitle using a substituted yield under this section; and
+ (B) the amount of production that would have been eligible for disaster
+ payments using the farm program payment yield otherwise assigned to the
+ producer under this subtitle.
+ (c) MULTIPERIL CROP INSURANCE NOT AVAILABLE- A producer may use the crop
+ insurance yield for the producer's 1988 crop of a commodity for purposes
+ of substituting yields under subsection (a) if the producer demonstrates
+ to the Secretary that, through no fault of the producer, multiperil crop
+ insurance under the Federal Crop Insurance Act was not made available to
+ the producer for the producer's 1989 crop of the commodity.
+ (d) DEFINITION OF ELIGIBLE PRODUCER- For purposes of this section, the term
+ `eligible producer' means a producer of the 1989 crop of wheat, feed grains,
+ upland cotton, extra long staple cotton, rice, or soybeans.
+SEC. 112. DEFINITIONS.
+ As used in this subtitle:
+ (1) DAMAGING WEATHER- The term `damaging weather' includes but is not
+ limited to drought, hail, excessive moisture, freeze, tornado, hurricane,
+ or excessive wind, or any combination thereof.
+ (2) RELATED CONDITION- The term `related condition' includes but is not
+ limited to insect infestations, plant diseases, or other deterioration
+ of a crop of a commodity, including aflatoxin, that is accelerated or
+ exacerbated naturally as a result of damaging weather occurring prior to
+ or during harvest.
+Subtitle B--Orchards
+SEC. 121. ELIGIBILITY.
+ (a) DROUGHT LOSS- Subject to the limitation in subsection (b), the Secretary
+ of Agriculture shall provide assistance, as specified in section 122, to
+ eligible orchardists that planted trees for commercial purposes but lost
+ such trees as a result of freeze or related condition in 1989, as determined
+ by the Secretary.
+ (b) LIMITATION- An eligible orchardist shall qualify for assistance under
+ subsection (a) only if such orchardist's tree mortality, as a result of
+ the natural disaster, exceeds 45 percent (adjusted for normal mortality).
+SEC. 122. ASSISTANCE.
+ The assistance provided by the Secretary of Agriculture to eligible
+ orchardists for losses described in section 121 shall consist of either--
+ (1) reimbursement of 65 percent of the cost of replanting trees lost due
+ to freeze or related condition in 1989 in excess of 45 percent mortality
+ (adjusted for normal mortality); or
+ (2) at the discretion of the Secretary, sufficient seedlings to reestablish
+ the stand.
+SEC. 123. LIMITATION ON ASSISTANCE.
+ (a) LIMITATION- The total amount of payments that a person shall be entitled
+ to receive under this subtitle may not exceed $25,000, or an equivalent
+ value in tree seedlings.
+ (b) REGULATIONS- The Secretary of Agriculture shall issue regulations--
+ (1) defining the term `person' for the purposes of this subtitle, which
+ shall conform, to the extent practicable, to the regulations defining the
+ term `person' issued under section 1001 of the Food Security Act of 1985 (7
+ U.S.C. 1308) and the Disaster Assistance Act of 1988 (7 U.S.C. 1421 note); and
+ (2) prescribing such rules as the Secretary determines necessary to ensure
+ a fair and reasonable application of the limitation established under
+ this section.
+SEC. 124. DEFINITION.
+ As used in this subtitle, the term `eligible orchardist' means a person
+ who produces annual crops from trees for commercial purposes and owns 500
+ acres or less of such trees.
+SEC. 125. DUPLICATIVE PAYMENTS.
+ The Secretary of Agriculture shall establish guidelines to ensure that no
+ person receives duplicative payments under this subtitle and the forestry
+ incentives program, agricultural conservation program, or other Federal
+ program.
+SEC. 126. SENSE OF CONGRESS ON CROP INSURANCE FOR ORCHARD CROPS.
+ It is the sense of Congress that the Secretary of Agriculture should
+ expeditiously expand the availability of multiperil crop insurance under
+ the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) to all orchard crops.
+Subtitle C--Forest Crops
+SEC. 131. ELIGIBILITY.
+ (a) DROUGHT LOSS- Subject to the limitation in subsection (b), the Secretary
+ of Agriculture shall provide assistance, as specified in section 132,
+ to eligible tree farmers that planted tree seedlings in 1988 or 1989 for
+ commercial purposes but lost such seedlings as a result of drought or
+ related condition in 1989, as determined by the Secretary.
+ (b) LIMITATION- An eligible tree farmer shall qualify for assistance under
+ subsection (a) only if such tree farmer's tree seedling mortality, as a result
+ of the natural disaster, exceeds 45 percent (adjusted for normal mortality).
+SEC. 132. ASSISTANCE.
+ The assistance provided by the Secretary of Agriculture to eligible tree
+ farmers for losses described in section 131 shall consist of either--
+ (1) reimbursement of 65 percent of the cost of replanting seedlings lost due
+ to drought or related conditions in 1989 in excess of 45 percent mortality
+ (adjusted for normal mortality); or
+ (2) at the discretion of the Secretary, sufficient tree seedlings to
+ reestablish the stand.
+SEC. 133. LIMITATION ON ASSISTANCE.
+ (a) LIMITATION- The total amount of payments that a person shall be entitled
+ to receive under this subtitle may not exceed $25,000, or an equivalent
+ value in tree seedlings.
+ (b) REGULATIONS- The Secretary of Agriculture shall issue regulations--
+ (1) defining the term `person' for the purposes of this subtitle, which
+ shall conform, to the extent practicable, to the regulations defining the
+ term `person' issued under section 1001 of the Food Security Act of 1985
+ and the Disaster Assistance Act of 1988; and
+ (2) prescribing such rules as the Secretary determines necessary to ensure
+ a fair and reasonable application of the limitation established under
+ this section.
+SEC. 134. DEFINITION.
+ As used in this subtitle, the term `eligible tree farmer' means a person
+ who grows trees for harvest for commercial purposes and owns 1,000 acres
+ or less of such trees.
+SEC. 135. DUPLICATIVE PAYMENTS.
+ The Secretary of Agriculture shall establish guidelines to ensure that no
+ person receives duplicative payments under this subtitle and the forestry
+ incentives program, agricultural conservation program, or other Federal
+ program.
+Subtitle D--Additional Assistance
+SEC. 141. NEW CONSERVATION MEASURES.
+ (a) IN GENERAL-
+ (1) HAYING AND GRAZING ON CRP ACREAGE- In the case of an owner or operator
+ of land who has entered into a conservation reserve program contract under
+ subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831
+ et seq.) and hays or grazes livestock during the 1989 crop year on acreage
+ subject to such contract as authorized by the Secretary of Agriculture,
+ the Secretary may not reduce the amount of rental payments made to such
+ owner or operator as the result of such haying or grazing to the extent
+ that the owner or operator--
+ (A) carries out additional conservation practices, approved by the Soil
+ Conservation Service in consultation with appropriate Federal and State
+ agencies, to enhance soil, water, and wildlife conservation on or in the
+ vicinity of lands subject to such contract; and
+ (B) pays the costs of carrying out such practices.
+ (2) AMOUNT OF REDUCTION- The amount of the reduction prohibited under
+ paragraph (1) shall equal one-half of the amount paid by the owner or
+ operator to cover the costs of carrying out the conservation practices.
+ (b) CONSERVATION PRACTICES- For purposes of subsection (a), the term
+ `conservation practices' includes--
+ (1) establishment of permanent shelterbelts and windbreaks;
+ (2) restoration of wetlands;
+ (3) establishment of wildlife food plots; or
+ (4) planting of trees.
+SEC. 142. ASSISTANCE FOR PONDS.
+ Section 607(b)(2)(B) of the Agricultural Act of 1949 (7 U.S.C. 1471e(b)(2)(B))
+ is amended by inserting `or ponds' after `wells'.
+Subtitle E--Administrative Provisions
+SEC. 151. INELIGIBILITY.
+ (a) GENERAL RULE- A person who has qualifying gross revenues in excess of
+ $2,000,000 annually, as determined by the Secretary of Agriculture, shall
+ not be eligible to receive any disaster payment or other benefits under
+ this title.
+ (b) QUALIFYING GROSS REVENUES- For purposes of this section, the term
+ `qualifying gross revenues' means--
+ (1) if a majority of the person's annual income is received from farming,
+ ranching, and forestry operations, the gross revenue from the person's
+ farming, ranching, and forestry operations; and
+ (2) if less than a majority of the person's annual income is received from
+ farming, ranching, and forestry operations, the person's gross revenue from
+ all sources.
+SEC. 152. TIMING AND MANNER OF ASSISTANCE.
+ (a) TIMING OF ASSISTANCE-
+ (1) In general-
+ (A) ASSISTANCE MADE AVAILABLE AS SOON AS PRACTICABLE- Subject to subparagraph
+ (B), the Secretary of Agriculture shall make full disaster assistance
+ available under this title as soon as practicable after the date of enactment
+ of this Act.
+ (B) COMPLETED APPLICATION- Subject to subparagraph (C), no payment or
+ benefit provided under this title shall be payable or due until such time as
+ a completed application for a crop of a commodity therefor has been approved.
+ (C) APPLICATIONS PRIOR TO SEPTEMBER 30,  1989- If an application for a
+ disaster payment under this title is received by the Secretary prior to
+ September 30, 1989, by producers who have harvested their 1989 crop, the
+ Secretary shall make full or advance disaster payments to such producers
+ within 15 days after the application is received or by September 15, 1989,
+ whichever is later.
+ (D) ADVANCE PAYMENTS- If advance payments are made to producers under
+ subparagraph (C), such payments shall not be less than 80 percent of the
+ payments that will be made available to such producers under this title.
+ (2) DEADLINE FOR APPLICATION- To be eligible to receive payments under
+ subtitle A, a person shall make application for such payments not later
+ than March 31, 1990, or such later date that the Secretary, by regulation,
+ may prescribe.
+ (b) MANNER- The Secretary may make payments available under subtitle A in
+ the form of cash, commodities, or commodity certificates, as determined by
+ the Secretary.
+SEC. 153. COMMODITY CREDIT CORPORATION.
+ (a) USE- The Secretary of Agriculture shall use the funds, facilities, and
+ authorities of the Commodity Credit Corporation in carrying out this title.
+ (b) EXISTING AUTHORITY- The authority provided by this title shall be in
+ addition to, and not in place of, any authority granted to the Secretary
+ or the Commodity Credit Corporation under any other provision of law.
+SEC. 154. LIMITATION ON OUTLAYS.
+ (a) MAXIMUM AMOUNT- Notwithstanding any other provision of law, if the
+ acreage planted in the United States to the 1989 crop of corn is greater
+ than 73,250,000 acres, the total amount expended for deficiency payments
+ for the 1989 crops of wheat, feed grains, upland cotton, and rice under
+ the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) shall not exceed
+ $6,700,000,000.
+ (b) PRORATION- The Secretary shall make any reduction required under
+ subsection (a) on a pro rata basis.
+SEC. 155. REGULATIONS.
+ The Secretary of Agriculture or the Commodity Credit Corporation, as
+ appropriate, shall issue regulations to implement this title as soon as
+ practicable after the date of enactment of this Act, without regard to the
+ requirement for notice and public participation in rule making prescribed
+ in section 553 of title 5, United States Code, or in any directive of
+ the Secretary.
+TITLE II--EMERGENCY LIVESTOCK ASSISTANCE
+SEC. 201. USE OF STORED GRAIN FOR ASSISTANCE.
+ IN GENERAL- Subsection (b) of section 606 of the Agricultural Act of 1949
+ (7 U.S.C. 1471d(b)) is amended to read as follows:
+ `(b) If assistance is made available through the furnishing of feed grain
+ under paragraph (1) or (2) of subsection (a), the Secretary--
+ `(1) may provide for the furnishing of the feed grain through a dealer or
+ manufacturer and the replacing of the feed grain so furnished from feed
+ grain owned by the Commodity Credit Corporation; or
+ `(2) at the option of the livestock producer, shall provide for the furnishing
+ of the feed grain through the use of feed grain stored on the farm of the
+ producer that has been pledged as collateral for a price support loan made
+ under this Act.'.
+SEC. 202. LIVESTOCK TRANSPORTATION ASSISTANCE.
+ Section 606 of the Agricultural Act of 1949 (7 U.S.C. 1471d) is amended by
+ adding at the end the following new subsection:
+ `(f) The Secretary may make available at least $25,000,000 to provide
+ livestock transportation assistance under subsection (a)(6) for livestock
+ emergencies in 1989.'.
+SEC. 203. LIVESTOCK WATER DEVELOPMENT PROJECTS.
+ Section 607 of the Agricultural Act of 1949 (7 U.S.C. 1471e) is amended by
+ adding at the end the following new subsection:
+ `(c) The Secretary may make available at least $25,000,000 to provide
+ special assistance under subsection (b)(2) for livestock emergencies in
+ 1988 and 1989.'.
+SEC. 204. ANIMAL UNIT METHODOLOGY STUDY AND REPORT.
+ The Secretary of Agriculture shall conduct a study on the methodology
+ and justification of the calculations used to determine the animal unit
+ figure used for purposes of the emergency feed program and the emergency
+ feed assistance program under section 606 of the Agricultural Act of 1949
+ (7 U.S.C. 1471d), and report to Congress the results of such study within
+ 90 days of the date of enactment of this Act.
+TITLE III--DISASTER CREDIT AND FORBEARANCE
+SEC. 301. EMERGENCY LOANS.
+ Section 321(b) of the Consolidated Farm and Rural Development Act (7
+ U.S.C. 1961(b)) shall not apply to a person who otherwise would be eligible
+ for an emergency loan under subtitle C of such Act, if such eligibility is
+ the result of damage to an annual crop planted for harvest in 1989.
+SEC. 302. 1990 FARM OPERATING LOANS.
+ (a) DIRECT CREDIT- To the maximum extent practicable, the Secretary of
+ Agriculture shall ensure that direct operating loans made or insured under
+ subtitle B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941
+ et seq.) for 1990 crop production are made available to farmers and ranchers
+ suffering major losses due to excess moisture, freeze, storm, or related
+ condition occurring in 1989 or drought or related condition occurring in
+ 1988 or 1989, as authorized under existing law and under regulations of the
+ Secretary that implement the objective of enabling farmers and ranchers to
+ stay in business.
+ (b) Loan Guarantees-
+ (1) IN GENERAL- Notwithstanding any other provision of law, the Secretary
+ shall make available in fiscal year 1990 guarantees to commercial or
+ cooperative lenders for loans under subtitle B of the Consolidated Farm and
+ Rural Development Act, to refinance and reamortize 1989 operating loans,
+ or 1989 or 1990 installments due and payable on real estate debt, farm
+ equipment or building (including storage facilities) debt, livestock loans,
+ or other operating debt, of farmers and ranchers that otherwise cannot be
+ repaid due to major losses incurred by such farmers or ranchers as a result
+ of excess moisture, freeze, storm, or related condition occurring in 1989
+ or drought or related condition occurring in 1988 or 1989.
+ (2) REAMORTIZATION- Each fiscal year 1990 guaranteed loan for 1988 or 1989
+ natural disaster purposes, as described in paragraph (1), shall contain
+ terms and conditions governing the reamortization of the debt of the farmer
+ or rancher that will provide the farmer or rancher a reasonable opportunity
+ to continue to receive new operating credit while repaying the guaranteed
+ loan, as determined by the Secretary.
+ (3) ELIGIBILITY- Notwithstanding any other provision of law, any person
+ eligible to receive payments under subtitle A of title I shall be deemed
+ eligible to have guaranteed, in accordance with this subsection, loans
+ made to such person by a commercial or cooperative lender to refinance
+ installment payments that are or become due and payable during 1989 or 1990,
+ as described in paragraph (1), except that, to be deemed eligible to have
+ such loan guaranteed, the person must otherwise--
+ (A) be current in the person's obligation to the commercial or cooperative
+ lender that agrees to accept the guarantee in consideration of allowing
+ the person to make the 1989 or 1990 payment or installment over a period
+ of time not to exceed 6 years from the original due date of such payment
+ or installment; and
+ (B) meet the criteria for guaranteed loan borrowers under subtitle B of
+ the Consolidated Farm and Rural Development Act established by the Secretary.
+ (c) USE OF AGRICULTURAL CREDIT INSURANCE FUND- For purposes of providing
+ guaranteed loans in accordance with subsection (b), in addition to funds
+ otherwise available, the Secretary may use any funds available from the
+ Agricultural Credit Insurance Fund during fiscal years 1989 or 1990 for
+ emergency insured and guaranteed loans under subtitle C of the Consolidated
+ Farm and Rural Development Act (7 U.S.C. 1961 et seq.) to meet the needs
+ resulting from natural disasters, except that funds available from such
+ Fund first shall be used to satisfy the level of assistance estimated by the
+ Secretary to meet the needs of persons eligible for emergency disaster loans.
+SEC. 303. FmHA LOANS MADE TO INDIAN TRIBES.
+ The Act entitled `An Act to provide for loans to Indian tribes and tribal
+ corporations, and for other purposes' (25 U.S.C. 488 et seq.) is amended
+ by adding at the end thereof the following new section:
+`SEC. 6. REDUCTION OF UNPAID PRINCIPAL.
+ `(a) IN GENERAL- The Secretary of Agriculture may, on the application of
+ the borrower of a loan or loans made under this Act, reduce the unpaid
+ principal balance of such loan or loans to the current fair market value
+ of the land purchased with the proceeds of the loan or loans if--
+ `(1) the fair market value of the land has declined by at least 25 percent
+ since such land was purchased by the borrower;
+ `(2) the land has been held by the borrower for a period of at least 5
+ years; and
+ `(3) the Secretary of the Interior finds that the borrower has insufficient
+ income to both repay the loan or loans and provide normal tribal governmental
+ services.
+ `(b) FAIR MARKET VALUE-
+ `(1) APPRAISAL- Current fair market value under subsection (a) shall be
+ determined through an appraisal by an independent qualified fee appraiser,
+ selected by mutual agreement between the borrower and the Secretary of
+ Agriculture.
+ `(2) COSTS- The cost of appraisals undertaken under paragraph (1) shall be
+ paid by the borrower.
+ `(c) APPEALS- Decisions of the Secretary of Agriculture under this section
+ shall be appealable in accordance with the provisions of section 333B of
+ the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b).
+ `(d) FUTURE APPLICATIONS- A borrower that had a loan or loans reduced under
+ this section shall not submit an application for another reduction on such
+ loan or loans for a period of 5 years after the initial reduction.'.
+TITLE IV--RURAL BUSINESSES
+SEC. 401. DISASTER ASSISTANCE FOR RURAL BUSINESS ENTERPRISES.
+ (a) LOAN GUARANTEES- The Secretary of Agriculture shall guarantee loans
+ made in rural areas to--
+ (1) public, private, or cooperative organizations, to Indian tribes on
+ Federal and State reservations or other federally recognized Indian tribal
+ groups, or to any other business entities to assist such organizations,
+ tribes, or entities in alleviating the distress caused to such organizations,
+ tribes, or entities, directly or indirectly, by the drought, freeze, storm,
+ excessive moisture, or related condition in 1988 or 1989; and
+ (2) such organizations, tribes, or entities that refinance or restructure
+ debt as a result of losses incurred, directly or indirectly, because of
+ such natural disasters in 1988 or 1989.
+ (b) ELIGIBLE LOANS-
+ (1) IN GENERAL- Loans guaranteed under this section shall be loans made by
+ any Federal or State chartered bank, savings and loan association, cooperative
+ lending agency, insurance company, or other legally organized lending agency.
+ (2) PRODUCTION AGRICULTURE- No application for a loan guarantee under
+ this section shall be denied on the basis that such organization, tribe,
+ or entity engages in whole or in part in production agriculture.
+ (c) LOAN GUARANTEE LIMITS-
+ (1) PERCENTAGE OF PRINCIPAL AND INTEREST- No guarantee under this section
+ shall exceed 90 percent of the principal and interest amount of the loan
+ or $2,500,000, whichever is the lesser amount.
+ (2) TOTAL AMOUNT- The total amount of loan guarantee under this section
+ shall not exceed $200,000,000.
+ (d) USE OF THE RURAL DEVELOPMENT INSURANCE FUND- The Secretary shall use
+ the Rural Development Insurance Fund established under section 309A of
+ the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a) for the
+ purposes of discharging the obligations of the Secretary under this section.
+TITLE V--WATER-RELATED ASSISTANCE
+SEC. 501. EMERGENCY COMMUNITY WATER ASSISTANCE GRANT PROGRAM.
+ (a) ESTABLISHMENT OF PROGRAM- Subtitle A of the Consolidated Farm and Rural
+ Development Act is amended by inserting after section 306 (7 U.S.C. 1926)
+ the following new section:
+`SEC. 306A. EMERGENCY COMMUNITY WATER ASSISTANCE GRANT PROGRAM.
+ `(a) IN GENERAL- The Secretary shall provide grants in accordance with
+ this section to assist the residents of rural areas and small communities
+ to secure adequate quantities of safe water--
+ `(1) after a significant decline in the quantity or quality of water available
+ from the water supplies of such rural areas and small communities; or
+ `(2) when repairs, partial replacement, or significant maintenance efforts
+ on established water systems would remedy--
+ `(A) an acute shortage of quality water; or
+ `(B) a significant decline in the quantity or quality of water that is
+ available.
+ `(b) PRIORITY- In carrying out subsection (a), the Secretary shall--
+ `(1) give priority to projects described in subsection (a)(1); and
+ `(2) provide at least 70 percent of all such grants to such projects.
+ `(c) ELIGIBILITY- To be eligible to obtain a grant under this section,
+ an applicant shall--
+ `(1) be a public or private nonprofit entity; and
+ `(2) in the case of a grant made under subsection (a)(1), demonstrate to
+ the Secretary that the decline referred to in such subsection occurred
+ within 2 years of the date the application was filed for such grant.
+ `(d) USES-
+ `(1) IN GENERAL- Grants made under this section may be used for waterline
+ extensions from existing systems, laying of new waterlines, repairs,
+ significant maintenance, digging of new wells, equipment replacement, hook and
+ tap fees, and any other appropriate purpose associated with developing sources
+ of, or treating, storing, or distributing water, and to assist communities in
+ complying with the requirements of the Federal Water Pollution Control Act (33
+ U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
+ `(2) JOINT PROPOSALS- Nothing in this section shall preclude rural communities
+ from submitting joint proposals for emergency water assistance, subject to
+ the restrictions contained in subsection (e). Such restrictions should be
+ considered in the aggregate, depending on the number of communities involved.
+ `(e) RESTRICTIONS-
+ `(1) MAXIMUM POPULATION AND INCOME- No grant provided under this section
+ shall be used to assist any rural area or community that--
+ `(A) includes any area in any city or town with a population in excess of
+ 15,000 inhabitants according to the most recent decennial census of the
+ United States; or
+ `(B) has a median household income in excess of the State nonmetropolitan
+ median household income according to the most recent decennial census of
+ the United States.
+ `(2) SET-ASIDE FOR SMALLER COMMUNITIES- Not less than 50 percent of the
+ funds allocated under this section shall be allocated to rural communities
+ with populations that do not exceed 5,000 inhabitants.
+ `(f) MAXIMUM GRANTS- Grants made under this section may not exceed--
+ `(1) in the case of each grant made under subsection (a)(1), $500,000; and
+ `(2) in the case of each grant made under subsection (a)(2), $75,000.
+ `(g) FULL FUNDING- Subject to subsection (e), grants under this section
+ shall be made in an amount equal to 100 percent of the costs of the projects
+ conducted under this section.
+ `(h) APPLICATION-
+ `(1) NATIONALLY COMPETITIVE APPLICATION PROCESS- The Secretary shall develop
+ a nationally competitive application process to award grants under this
+ section. The process shall include criteria for evaluating applications,
+ including population, median household income, and the severity of the
+ decline in quantity or quality of water.
+ `(2) TIMING- The Secretary shall make every effort to review and act on
+ applications within 60 days of the date that such applications are submitted.
+ `(i) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, $35,000,000 for each of the fiscal years 1990
+ and 1991, such sums to remain authorized until fully appropriated.'.
+ (b) IMPLEMENTATION-
+ (1) REGULATIONS- The Secretary of Agriculture shall publish--
+ (A) interim final regulations to carry out section 306A of the Consolidated
+ Farm and Rural Development Act (as added by subsection (a) of this section)
+ not later than 45 days after the date of enactment of this Act; and
+ (B) final regulations to carry out section 306A of such Act not later than
+ 90 days after the date of enactment of this Act.
+ (2) FUNDS-
+ (A) OBLIGATION- The Secretary shall designate 70 percent of the funds
+ made available for the first fiscal year for which appropriations are made
+ under section 306A(i) of the Consolidated Farm and Rural Development Act
+ not later than 5 months after the date such funds are appropriated.
+ (B) RELEASE- The Secretary may release funds prior to the issuance of final
+ regulations under paragraph (1)(B) for grants under section 306A(a)(1)
+ of the Consolidated Farm and Rural Development Act.
+SEC. 502. LIVESTOCK WATER ASSISTANCE.
+ Section 402 of the Agricultural Credit Act of 1978 (16 U.S.C. 2202)
+ is amended--
+ (1) by inserting after `measures' the following: `(including measures
+ carried out to assist confined livestock)'; and
+ (2) effective only for fiscal year 1989, by striking `periods' and inserting
+ `any fiscal year in which there is a period'.
+SEC. 503. DISASTER ASSISTANCE FOR WATERSHED PROTECTION ACTIVITIES.
+ Subtitle A of title IV of the Disaster Assistance Act of 1988 is amended
+ by inserting after section 401 (7 U.S.C. 2204c) the following new section:
+`SEC. 402. DISASTER ASSISTANCE FOR WATERSHED PROTECTION ACTIVITIES.
+ `(a) IN GENERAL- The Secretary of Agriculture may provide disaster relief
+ assistance in accordance with this section to repair damage caused by storms
+ occurring in 1988 or 1989 to watersheds located in any county in any State,
+ to the extent that funds authorized by this section remain available.
+ `(b) FORM OF ASSISTANCE- The assistance authorized by this section--
+ `(1) includes both financial and technical assistance; and
+ `(2) shall be provided in a manner consistent with similar assistance
+ authorized under section 403 of the Agricultural Credit Act of 1978 (16
+ U.S.C. 2203).
+ `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section $25,000,000 for fiscal year 1990.'.
+TITLE VI--GENERAL PROVISIONS
+SEC. 601. SHRINKAGE ALLOWANCE FOR PEANUTS.
+ Effective only for the 1988 through 1990 crops of peanuts,
+ section 359(p)(2)(B) of the Agricultural Adjustment Act of 1938 (7
+ U.S.C. 1359(p)(2)(B)) is amended--
+ (1) in clause (i), by striking `(less such reasonable allowances for
+ shrinkage as the Secretary may prescribe)'; and
+ (2) by adding at the end the following new clause:
+ `(iv)(I) The obligation of a handler to export peanuts in quantities
+ described in this subparagraph shall be reduced by a shrinkage allowance,
+ to be determined by the Secretary, to reflect actual dollar value shrinkage
+ experienced by handlers in commercial operations, except that such allowance
+ shall not be less than 4 1/2  percent, except as provided in subclause (II).
+ `(II) The Secretary may provide a lower shrinkage allowance for a handler
+ who fails to comply with restrictions on the use of peanuts, as may be
+ specified by the Commodity Credit Corporation, to take into account common
+ industry practices.'.
+SEC. 602. ADVANCED DEFICIENCY REPAYMENT DEADLINE FOR 1988 CROPS.
+ Section 201(b)(4) of the Disaster Assistance Act of 1988 (7 U.S.C. 1421 note)
+ is amended by striking `July 31, 1989' and inserting `July 31, 1990'.
+SEC. 603. PLANTING OF ALTERNATE CROPS ON PERMITTED ACREAGE.
+ (a) IN GENERAL- Subparagraph (E)(i) of section 504(b)(2) of the Agricultural
+ Act of 1949 (7 U.S.C. 1464(b)(2)) (as amended by the Act entitled `An Act to
+ amend the Agricultural Act of 1949 for the 1990 crops to allow the planting of
+ alternative crops on permitted acreage and to amend the provisions regarding
+ the designation of farm acreage base as acreage base established for oats')
+ is amended by inserting `mung bean, mustard,' after `milkweed,'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall become
+ effective 1 day after the date of enactment of the Act so entitled.
+SEC. 604. CROP INSURANCE YIELD COVERAGE.
+ The Federal Crop Insurance Act is amended by inserting after section 508
+ (7 U.S.C. 1508) the following new section:
+`SEC. 508A. CROP INSURANCE YIELD COVERAGE.
+ `(a) In General-
+ `(1) YIELD COVERAGE- Effective beginning with crops harvested in 1990, the
+ Corporation may implement multiperil crop insurance underwriting rules that
+ ensure that yield coverage, as specified in subsection (b), is provided to
+ producers participating in the Federal crop insurance program.
+ `(2) APPLICATION- Such underwriting rules and yield coverage, as specified in
+ subsection (b), shall apply to wheat, feed grains, cotton, rice, and soybeans.
+ `(b) Yield Coverage-
+ `(1) General commodities-
+ `(A) PLANS- A crop insurance contract offered to a producer of a crop of
+ wheat, feed grains, cotton, or rice shall make available to such producer--
+ `(i) yield coverage based on the producer's farm program yield for the crop
+ established under the program for the commodity involved; or
+ `(ii) a plan that uses the producer's actual production history for the 5
+ previous crops, subject to paragraph (3), to determine the yield coverage.
+ `(B) COMMODITY-BY-COMMODITY BASIS- A producer may choose between the two
+ alternatives described in subparagraph (A) on a commodity-by-commodity basis.
+ `(2) SOYBEANS- A crop insurance contract offered to a producer of a crop of
+ soybeans shall be based on a yield coverage plan that uses the producer's
+ actual production history for the 5 previous crops, subject to paragraph
+ (3), to determine the yield coverage.
+ `(3) Actual production history-
+ `(A) INADEQUATE DOCUMENTATION- Under a plan that uses actual production
+ history, as provided for in paragraph (1) or (2), if the producer does not
+ submit adequate documentation of such history for a crop--
+ `(i) in the case of any commodity other than soybeans, the producer shall be
+ assigned the producer's farm program yield for that crop of the commodity; and
+ `(ii) in the case of soybeans, the producer shall be assigned a yield
+ equal to 100 percent of the area average yield for that crop of soybeans,
+ as established by the Corporation.
+ `(B) NOTICE OF AREA AVERAGE YIELDS- Area average yields applicable to any
+ county shall be posted and available for inspection at the county office
+ of the Agricultural Stabilization and Conservation Service.
+ `(C) MINIMUM COVERAGE- In no case may a producer's coverage under such plan
+ that uses actual production history be less than the coverage established
+ using farm program yields, or (for soybeans) 100 percent of the most recent
+ area average yield.
+ `(c) Use of Yield Coverage Provisions-
+ `(1) NOTICE- The Corporation shall ensure that, whenever the yield coverage
+ provisions of this section go into effect, producers are given adequate
+ notice of such provisions in advance of the crop insurance sign-up period
+ applicable to the crops to which such provisions first will apply.
+ `(2) SIGN-UP PERIOD- To the extent that the provisions of this section are
+ made applicable to the 1990 crops, the Corporation shall ensure that the
+ sign-up period for any 1990 crop does not end earlier than 60 days following
+ the publication of notice of such provisions in the Federal Register.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.shall be based on a yield coverage plan that uses
+the producer's actual production history for the 5 previous crops, subject
+to paragraph (3), to determine the yield coverage.
+ `(3) Actual production history-
+ `(A) INADEQUATE DOCUMENTATION- Under a plan that uses actual production
+ history, as provided for in paragraph (1) or (2), if the producer does not
+ submit adequate documentation of such history for a crop--
+ `(i) in the case of any c

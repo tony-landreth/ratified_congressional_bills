@@ -1,0 +1,505 @@
+ 
+--S.488--
+S.488
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To provide Federal assistance and leadership to a program of research,
+development, and demonstration of renewable energy and energy efficiency
+technologies, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled, That this Act may be referred to
+ as the `Renewable Energy and Energy Efficiency Technology Competitiveness
+ Act of 1989'.
+SEC. 2. FINDING, PURPOSE, AND GENERAL AUTHORITY.
+ (a) FINDING- The Congress finds that it is in the national security and
+ economic interest of the United States to foster greater efficiency in the use
+ of available energy supplies and greater use of renewable energy technologies.
+ (b) PURPOSE- It is the purpose of this Act to authorize the Secretary
+ of Energy, acting in accordance with authority contained in the Federal
+ Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901-5920)
+ and other law applicable to the Secretary, to pursue an aggressive national
+ program of research, development, and demonstration of renewable energy
+ and energy efficiency technologies in order to ensure a stable and secure
+ future energy supply by--
+ (1) achieving as soon as practicable cost competitive use of those
+ technologies without need of Federal financial incentives;
+ (2) establishing long-term Federal research goals and multiyear funding
+ levels;
+ (3) directing the Secretary to undertake initiatives to improve the ability
+ of the private sector to commercialize in the near term renewable energy
+ and energy efficiency technologies; and
+ (4) fostering collaborative research and development efforts involving the
+ private sector through government support of a program of joint ventures.
+ (c) GENERAL AUTHORITY- The Secretary, acting in accordance with the authority
+ contained in the Federal Nonnuclear Energy Research and Development Act of
+ 1974 (42 U.S.C. 5901-5920) and other law applicable to the Secretary--
+ (1) is authorized and directed to--
+ (A) pursue a program of research, development, and demonstration, including
+ the use of joint ventures with the private sector, to achieve the purpose
+ of this Act, including the goals established under section 4; and
+ (B) undertake joint ventures as provided in section 6; and
+ (2) is authorized to undertake, from time to time, joint ventures in
+ technology areas other than those set forth in section 6(c), subject to
+ the conditions set forth in section 6(b).
+SEC. 3. DEFINITIONS.
+ As used in this Act--
+ (1) the term `invention' means an invention or discovery that is patented
+ or for which a patent may be obtained under title 35, United States
+ Code, or any novel variety of plant that is protected or for which plant
+ variety protection may be obtained under the Plant Variety Protection Act
+ (7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a
+ result of work under an agreement entered into under this Act;
+ (2) `joint venture' means any agreement entered into under this Act by
+ the Secretary with more than one or a consortium of non-Federal persons
+ (including a joint venture under the National Cooperative Research Act of
+ 1984 (15 U.S.C. 4301 et seq.)) for cost-shared research, development, or
+ demonstration of technologies, but does not include procurement contracts,
+ grant agreements, or cooperative agreements as those terms are used in
+ sections 6303, 6304, and 6305 of title 31, United States Code;
+ (3) the term `non-Federal person' means an entity located in the United
+ States, the controlling interest (as defined by the Secretary) of which is
+ held by persons of the United States, including--
+ (A) a for-profit business;
+ (B) a private foundation;
+ (C) a nonprofit organization such as a university;
+ (D) a trade or professional society; and
+ (E) a unit of State or local government;
+ (4) the term `Secretary' means the Secretary of Energy;
+ (5) the term `small business', with respect to a participant in any joint
+ venture under this Act, means a private firm that does not exceed the
+ numerical size standard promulgated by the Small Business Administration
+ under section 3(a) of the Small Business Act (15 U.S.C. 632(a)) for the
+ Standard Industrial Classification (SIC) code designated by the Secretary of
+ Energy as the primary business activity to be undertaken in the venture; and
+ (6) the term `United States' means the several States, the District of
+ Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands,
+ Guam, American Samoa, the Commonwealth of the Northern Mariana Islands,
+ and any other Commonwealth, territory, or possession of the United States.
+SEC. 4. NATIONAL GOALS AND MULTI-YEAR FUNDING FOR FEDERAL WIND, PHOTOVOLTAICS,
+AND SOLAR THERMAL PROGRAMS.
+ (a) NATIONAL GOALS- The following are declared to be the national goals for
+ the wind, photovoltaics, and solar thermal energy programs being carried
+ out by the Secretary:
+ (1) WIND- (A) In general, the goals for the Wind Energy Research Program
+ include improving design methodologies and developing more reliable and
+ efficient wind turbines to increase the cost competitiveness of wind
+ energy. Research efforts shall emphasize--
+ (i) activities that address near-term technical problems and assist private
+ sector exploitation of market opportunities of the wind energy industry;
+ (ii) developing technologies such as advanced airfoils and variable speed
+ generators to increase wind turbine output and reduce maintenance costs by
+ decreasing structural stress and fatigue;
+ (iii) increasing the basic knowledge of aerodynamics, structural dynamics,
+ fatigue, and electrical systems interactions as applied to wind energy
+ technology; and
+ (iv) improving the compatibility of electricity produced from wind farms
+ with conventional utility needs.
+ (B) Specific goals for the Wind Energy Research Program shall be to--
+ (i) reduce average wind energy costs to 3 to 5 cents per kilowatt hour
+ by 1995;
+ (ii) reduce capital costs of new wind energy systems to $500 to $750 per
+ kilowatt of installed capacity by 1995;
+ (iii) reduce operation and maintenance costs for wind energy systems to
+ less than one cent per kilowatt hour by 1995; and
+ (iv) increase capacity factors for new wind energy systems to 25 to 35
+ percent by 1995.
+ (2) PHOTOVOLTAICS- (A) In general, the goals of the Photovoltaic Energy
+ Systems Program shall include improving the reliability and conversion
+ efficiencies of and lowering the costs of photovoltaic conversion. Research
+ efforts shall emphasize advancements in the performance, stability, and
+ durability of photovoltaic materials.
+ (B) Specific goals of the Photovoltaic Energy Systems Program shall be to--
+ (i) improve operational reliability of photovoltaic modules to 30 years
+ by 1995;
+ (ii) increase photovoltaic conversion efficiencies by 20 percent by 1995;
+ (iii) decrease new photovoltaic module direct manufacturing costs to $800
+ per kilowatt by 1995; and
+ (iv) increase cost efficiency of photovoltaic power production to 10 cents
+ per kilowatt hour by 1995.
+ (3) SOLAR THERMAL- (A) In general, the goal of the Solar Thermal Energy
+ Systems Program shall be to advance research and development to a point where
+ solar thermal technology is cost-competitive with conventional energy sources,
+ and to promote the integration of this technology into the production of
+ industrial process heat and the conventional utility network. Research and
+ development shall emphasize development of a thermal storage technology
+ to provide capacity for shifting power to periods of demand when full
+ insolation is not available; improvement in receivers, energy conversion
+ devices, and innovative concentrators using stretch membranes, lenses,
+ and other materials; and exploration of advanced manufacturing techniques.
+ (B) Specific goals of the Solar Thermal Energy Systems Program shall be to--
+ (i) reduce solar thermal costs for industrial process heat to $9.00 per
+ million Btu by 1995; and
+ (ii) reduce average solar thermal costs for electricity to 4 to 5 cents
+ per kilowatt hour by 1995.
+ (4) OTHER TECHNOLOGIES- The Secretary shall submit to the Congress, as part
+ of the first report submitted under section 9, recommendations for specific
+ cost goals and other pertinent goals for 1995 for Department of Energy
+ research, development, and demonstration programs in Biofuels Energy Systems,
+ Hydrogen Energy Systems, Solar Buildings Energy Systems, Ocean Energy Systems,
+ Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
+ (b) AMENDED GOALS- Whenever the Secretary determines that any of the goals
+ established under this section is no longer appropriate, the Secretary
+ shall notify Congress, as part of a report submitted under section 9,
+ of the reason for the determination and provide an amended goal that is
+ consistent with the purpose stated in section 2(b).
+ (c) AUTHORIZATIONS- There are authorized to be appropriated to the Secretary
+ for the following renewable energy research, development, and demonstration
+ programs: the Wind Energy Research Program, the Photovoltaic Energy Systems
+ Program, the Solar Thermal Energy Systems Program, the Biofuels Energy
+ Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings
+ Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal
+ Energy Systems Program--
+ (1) not to exceed $113,000,000 for fiscal year 1991, of which--
+ (A) not to exceed $39,000,000 shall be available for the Photovoltaic Energy
+ Systems Program;
+ (B) not to exceed $19,000,000 shall be available for the Geothermal Energy
+ Systems Program; and
+ (C) not to exceed $4,000,000 shall be available for the Hydrogen Energy
+ Systems Program;
+ (2) not to exceed $121,000,000 for fiscal year 1992, of which--
+ (A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy
+ Systems Program;
+ (B) not to exceed $20,500,000 shall be available for the Geothermal Energy
+ Systems Program; and
+ (C) not to exceed $5,000,000 shall be available for the Hydrogen Energy
+ Systems Program; and
+ (3) not to exceed $124,000,000 for fiscal year 1993, of which--
+ (A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy
+ Systems Program;
+ (B) not to exceed $23,000,000 shall be available for the Geothermal Energy
+ Systems Program; and
+ (C) not to exceed $6,000,000 shall be available for the Hydrogen Energy
+ Systems Program.
+Each of the President's annual budget requests submitted to Congress after
+the date of enactment of this Act shall include as separate line items each
+of the categories of renewable energy programs described in this subsection.
+SEC. 5. ENERGY EFFICIENCY AUTHORIZATIONS.
+ There are authorized to be appropriated to the Secretary for the following
+ energy efficiency research, development, and demonstration programs:
+ transportation, industrial, buildings and community systems, multi-sector,
+ and policy and management--
+ (1) not to exceed $201,100,000 for fiscal year 1991, of which--
+ (A) not to exceed $68,300,000 shall be available for the transportation
+ program; and
+ (B) not to exceed $53,500,000 shall be available for the industrial program;
+ (2) not to exceed $210,600,000 for fiscal year 1992, of which--
+ (A) not to exceed $71,000,000 shall be available for the transportation
+ program; and
+ (B) not to exceed $54,700,000 shall be available for the industrial
+ program; and
+ (3) not to exceed $225,000,000 for fiscal year 1993, of which--
+ (A) not to exceed $73,900,000 shall be available for the transportation
+ program; and
+ (B) not to exceed $56,900,000 shall be available for the industrial program.
+SEC. 6. JOINT VENTURES.
+ (a) FINDINGS AND PURPOSE-
+ (1) FINDINGS- For purposes of this section, Congress finds that joint
+ ventures can--
+ (A) improve coordination in technology development among firms in industries
+ attempting to commercialize renewable energy and energy efficiency
+ technologies;
+ (B) facilitate transfer of renewable energy and energy efficiency
+ technologies, including critical enabling technologies, to the private
+ sector; and
+ (C) enhance the ability of domestic firms to compete with foreign enterprises
+ in sales of renewable energy and energy efficiency technologies.
+ (2) PURPOSE- The purpose of this section is to direct the Secretary to make
+ use of joint ventures to further commercialization of renewable energy and
+ energy efficiency technologies.
+ (b) JOINT VENTURES-
+ (1) ESTABLISHMENT- The Secretary shall solicit proposals for joint ventures
+ in each of the technology areas under subsection (c). The Secretary shall
+ select at least one joint venture in each of those technology areas, unless
+ no qualified proposals in that area are received. Each joint venture selected
+ under this section shall include at least one for-profit business. Research
+ and development activities supported under this section shall be performed
+ in the United States. Each joint venture under this section shall require
+ the manufacture and reproduction, substantially within the United States,
+ for commercial sale of any invention that may result from the joint venture.
+ (2) Cost sharing-
+ (A) The Secretary shall require at least 50 percent of the costs directly
+ and specifically related to any joint venture under this section, including
+ cash, personnel, services, equipment, and other resources, to be provided
+ from non-Federal sources.
+ (B) The Secretary may reduce the amount of the costs required to be provided
+ by any joint venture under subparagraph (A) upon application if the Secretary
+ determines that--
+ (i) the joint venture is composed exclusively of small businesses or of
+ small businesses and nonprofit entities; and
+ (ii) the reduction is appropriate and necessary for the successful operation
+ of the proposed joint venture.
+ (C) The extent of cost sharing provided under proposals shall be a criterion
+ for selection of proposals under this section.
+ (3) ADVISORY COMMITTEE- (A) The Secretary shall establish an Advisory
+ Committee on Renewable Energy and Energy Efficiency Joint Ventures (hereafter
+ in this Act referred to as the `Advisory Committee') to advise the Secretary
+ on the development of the solicitation and evaluation criteria for joint
+ ventures, and on otherwise carrying out his responsibilities under this
+ section. The Secretary shall appoint members to the Advisory Committee,
+ including at least one member representing--
+ (i) the Secretary of Commerce;
+ (ii) the National Laboratories of the Department of Energy;
+ (iii) the Solar Energy Research Institute;
+ (iv) the Electric Power Research Institute;
+ (v) the Gas Research Institute;
+ (vi) the National Institute of Building Sciences;
+ (vii) the National Institute of Standards and Technology;
+ (viii) associations of firms in the major renewable energy manufacturing
+ industries; and
+ (ix) associations of firms in the major energy efficiency manufacturing
+ industries.
+The Advisory Committee may establish such subcommittees as it considers
+necessary to carry out this Act.
+ (B) The Advisory Committee, within 120 days after its establishment, shall
+ provide the Secretary with recommendations regarding the structure and
+ selection criteria for a solicitation of proposals for joint ventures. The
+ Advisory Committee shall also advise the Secretary from time to time on
+ the implementation of the joint venture program. Recommendations of the
+ Advisory Committee shall be available to the public.
+ (4) DRAFT SOLICITATION AND PUBLIC COMMENT- The Secretary shall issue a draft
+ solicitation for joint ventures by September 30, 1990. After such draft
+ solicitation has been issued, the Secretary shall provide for a period of
+ public comment before the issuance of a final solicitation.
+ (5) PROTECTION OF PROPRIETARY RIGHTS- Joint ventures, participants in joint
+ ventures, and inventions developed as a result of joint ventures under
+ this section shall be subject to section 5 of the Steel and Aluminum Energy
+ Conservation and Technology Competitiveness Act of 1988 (15 U.S.C. 5104).
+ (c) TECHNOLOGIES-
+ (1) PHOTOVOLTAICS TECHNOLOGY- (A) The Secretary shall solicit proposals
+ for and provide financial assistance to at least one joint venture for the
+ demonstration of photovoltaic conversion of solar energy in accordance with
+ the provisions of this paragraph.
+ (B) The purpose of joint ventures supported under this paragraph shall
+ be to design, test, and demonstrate critical enabling technologies for
+ photovoltaic conversion of solar energy so as to achieve, to the maximum
+ extent practicable, the goals of the Photovoltaic Energy Systems Program set
+ forth in section 4(a)(2), as those goals may be amended under section 4(b).
+ (C) There are authorized to be appropriated to the Secretary not to exceed
+ $2,700,000 for each of the fiscal years 1991, 1992, and 1993 to carry out
+ this paragraph.
+ (2) WIND ENERGY TECHNOLOGY- (A) The Secretary shall solicit proposals
+ for and provide financial assistance to at least one joint venture for
+ the demonstration of the conversion of wind energy in accordance with the
+ provisions of this paragraph.
+ (B) The purpose of joint ventures supported under this paragraph shall
+ be to design, test, and demonstrate critical enabling technologies for the
+ conversion of wind energy so as to achieve, to the maximum extent practicable,
+ the goals of the Wind Energy Research Program set forth in section 4(a)(1),
+ as those goals may be amended under section 4(b).
+ (C) There are authorized to be appropriated to the Secretary not to exceed
+ $2,700,000 for each of the fiscal years 1991, 1992, and 1993 to carry out
+ this paragraph.
+ (3) SOLAR THERMAL TECHNOLOGY- (A) The Secretary shall solicit proposals
+ for and provide financial assistance to at least one joint venture for the
+ demonstration of the use of solar thermal energy in accordance with the
+ provisions of this paragraph.
+ (B) The purpose of joint ventures supported under this paragraph shall be to
+ design, test, and demonstrate critical enabling technologies for the use of
+ solar thermal energy so as to achieve, to the maximum extent practicable,
+ the goals of the Solar Thermal Energy Systems Program set forth in section
+ 4(a)(3), as those goals may be amended under section 4(b).
+ (C) There are authorized to be appropriated to the Secretary not to exceed
+ $2,400,000 for each of the fiscal years 1991, 1992, and 1993 to carry out
+ this paragraph.
+ (4) FACTORY-MADE HOUSING- (A) The Secretary shall solicit proposals for
+ and provide financial assistance to at least one joint venture in order
+ to establish regional projects to develop or demonstrate techniques to
+ improve the energy performance of factory-made housing offered by United
+ States firms. In locating projects under this paragraph, the Secretary
+ shall consider regional differences in housing needs, housing design,
+ construction technique, marketing practices, and construction materials.
+ (B) Projects supported pursuant to this paragraph shall be designed to
+ demonstrate state-of-the-art product quality, energy efficiency, and
+ adaptability to renewable forms of energy of factory-made housing offered
+ for sale in the United States. Such projects shall--
+ (i) be structured to demonstrate improvements in housing design, fabrication,
+ delivery systems, construction processes, and marketing;
+ (ii) develop a detailed characterization of the needs of the home building
+ industry;
+ (iii) establish a close working relationship with all sectors of the home
+ building industry; and
+ (iv) be coordinated to pool and conserve resources.
+ (C) There are authorized to be appropriated to the Secretary not to exceed
+ $5,000,000 for each of the fiscal years 1991, 1992, and 1993 to carry out
+ this paragraph.
+ (5) ADVANCED DISTRICT COOLING TECHNOLOGY- (A) The Secretary shall solicit
+ proposals for and provide financial assistance to at least one joint
+ venture for the demonstration of advanced district cooling technologies
+ that are applicable in cities with high cooling loads, in accordance with
+ the provisions of this paragraph.
+ (B) The purpose of joint ventures supported under this paragraph shall be to
+ develop technical strategies for decreasing the capital cost and increasing
+ the energy efficiency of major district heating and cooling system components
+ and to assist in making district cooling available to local governments.
+ (C) The Secretary shall select a city or cities for application of advanced
+ district cooling technologies developed by joint ventures supported under this
+ paragraph. The activities to be carried out in such application shall include
+ district cooling assessment, feasibility, and engineering design studies.
+ (D) There are authorized to be appropriated to the Secretary not to exceed
+ $1,000,000 for each of the fiscal years 1991, 1992, and 1993 to carry out
+ this paragraph.
+ (d) SECRETARIAL DISCRETION- (1) If the Secretary, based on the recommendations
+ of the Advisory Committee under subsection (b)(3)(B), with respect to a
+ technology described in paragraph (1), (2), (3), (4), or (5) of subsection
+ (c), determines, that--
+ (A) there is insufficient private sector interest in joint ventures for the
+ demonstration of such technology to satisfy the requirement of subsection
+ (b)(2); or
+ (B) such joint ventures will substantially substitute for research,
+ development, and demonstration activities already financed by the private
+ sector,
+then the Secretary shall not be subject to the requirements of this section
+with respect to the technology described in such paragraph, and the Secretary
+shall notify Congress and provide a written explanation of the reasons for
+the determination.
+ (2) Promptly after notifying the Congress under paragraph (1), the Secretary
+ shall consult with the Advisory Committee, and, based on the recommendations
+ of such Committee, shall promptly transmit to Congress a plan for the
+ selection of a substitute field or technology in which to solicit joint
+ ventures that develop or demonstrate, consistent with this section, an
+ alternative renewable energy or energy efficiency technology so as to
+ accomplish the purpose of this Act. Any unexpended funds authorized to be
+ appropriated under subsection (c) for joint ventures with respect to which
+ a determination is made under paragraph (1) may be used for a substitute
+ joint venture selected under this paragraph.
+ (3) When 30 calendar days have elapsed after transmittal of a plan under
+ paragraph (2), the Secretary shall proceed with solicitations for joint
+ ventures appropriate to that plan as if such joint ventures were required
+ under subsection (c).
+ (e) ADDITIONAL JOINT VENTURES- (1) The Secretary shall recommend to the
+ Congress three additional joint ventures in the fields of renewable energy
+ or energy efficiency technologies for fiscal year 1993. Each proposed
+ project shall be described in sufficient detail to support congressional
+ authorization.
+ (2) In selecting proposed projects under this subsection, the Secretary
+ shall consider the recommendations of the Advisory Committee, and shall
+ take into account the extent to which such projects will contribute to
+ earlier commercialization of key technologies than might not occur without
+ Federal support under this subsection, and the extent to which such projects
+ will contribute to the competitiveness of United States firms engaged in
+ international trade in renewable energy or energy efficiency technologies.
+ (3) Joint ventures supported pursuant to a recommendation under this
+ subsection shall be carried out as if they were required under subsection (c).
+SEC. 7. RENEWABLE ENERGY EXPORTS.
+ (a) DISSEMINATION OF INFORMATION; ACCESS TO FOREIGN MARKETS-
+ Section 256(c)(2)(D) of the Energy Policy and Conservation Act (42
+ U.S.C. 6276(c)(2)(D)) is amended--
+ (1) in clause (i), by inserting after `commerce,' the following: `and to
+ potential end users, including other industry sectors in foreign countries
+ such as health care, rural development, communications, and refrigeration,
+ and others,'; and
+ (2) in clause (ii), by striking `export opportunities' and inserting in
+ lieu thereof `export and export financing opportunities'.
+ (b) AUTHORIZATION AND PROGRAM- Section 256(d) of the Energy Policy and
+ Conservation Act (42 U.S.C. 6276(d)) is amended--
+ (1) by inserting `(1)' after `(d)'; and
+ (2) by adding at the end the following new paragraph:
+ `(2) The interagency group shall establish a program to inform other
+ countries of the benefits of policies that would allow small facilities
+ which produce renewable energy to compete effectively with producers of
+ energy from nonrenewable sources.'.
+ (c) REPORT, FUNCTIONS, AND AUTHORIZATIONS- Section 256 of the Energy Policy
+ and Conservation Act (42 U.S.C. 6276) is amended by adding at the end the
+ following new subsections:
+ `(e) The interagency working group established under subsection (d) shall
+ annually report to Congress, describing the actions of each agency represented
+ by a member of the working group taken during the previous fiscal year to
+ achieve the purposes of such working group and of this section. Such report
+ shall describe the exports of renewable energy technology that have occurred
+ as a result of such agency actions.
+ `(f)(1) The interagency working group shall--
+ `(A) establish, in consultation with representatives of affected industries,
+ a plan to increase United States exports of renewable energy technologies,
+ and include in such plan recommended guidelines for agencies that are
+ represented on the working group with respect to the financing of, or other
+ actions they can take within their programs to promote, exports of such
+ renewable energy technologies;
+ `(B) develop, in consultation with representatives of affected industries,
+ recommended administrative guidelines for Federal export loan programs
+ to simplify application by firms seeking export assistance for renewable
+ energy technologies from agencies implementing such programs; and
+ `(C) recommend specific renewable energy technology markets for primary
+ emphasis by Federal export loan programs, development programs, and private
+ sector assistance programs.
+ `(2) The interagency working group shall include a description of the plan
+ established under paragraph (1)(A) in no later than the second report
+ submitted under subsection (e), and shall include in subsequent reports
+ a description of any modifications to such plan and of the progress in
+ implementing the plan.
+ `(g) For purposes of this section, the term `renewable energy' includes
+ energy efficiency to the extent it is a part of a renewable energy system
+ or technology.
+ `(h) There are authorized to be appropriated to the Secretary for activities
+ of the interagency working group established under subsection (d) not
+ to exceed--
+ `(1) $3,000,000 for fiscal year 1991;
+ `(2) $3,300,000 for fiscal year 1992; and
+ `(3) $3,600,000 for fiscal year 1993.'.
+SEC. 8. RENEWABLE ENERGY AND ENERGY EFFICIENCY.
+ (a) DISSEMINATION OF INFORMATION- Section 523 of the National Energy
+ Conservation Policy Act (42 U.S.C. 8243) is amended by adding a new subsection
+ (d) as follows:
+ `(d) In order to more widely disseminate information about the program
+ under this part and under part 3 and the benefits of renewable energy and
+ energy efficiency technology, the Secretary shall establish a program which
+ includes site visits and technical briefings, to disseminate such information
+ to Federal procurement officers and Federal loan officers. The Secretary
+ shall utilize available funds for the program under this subsection.'.
+ (b) DEPARTMENT OF DEFENSE HOUSING- Section 2857(b)(1) of title 10,
+ United States Code, is amended by striking `significant savings of
+ fossil-fuel-derived energy' and inserting in lieu thereof `reduced energy
+ costs'.
+ (c) OVERSEAS PRIVATE INVESTMENT CORPORATION LOANS- Section 234(e) of the
+ Foreign Assistance Act of 1961 is amended--
+ (1) in the first sentence, by inserting after `cooperatives' the following:
+ `and including the initiation of incentives, grants, and studies for
+ renewable energy and other small business activities'; and
+ (2) by adding at the end thereof the following new sentence: `Administrative
+ funds may not be made available for incentives, grants, and studies for
+ renewable energy and other small business activities.'.
+SEC. 9. REPORTS.
+ (a) REPORT BY THE SECRETARY- One year after the date of the enactment of
+ this Act and annually thereafter, the Secretary shall report to Congress on
+ the programs, projects, and joint ventures supported under this Act and the
+ progress being made toward accomplishing the goals and purposes set forth
+ in this Act.
+ (b) National Renewable Energy and Energy Efficiency Management Plan-
+ (1) The Secretary, in consultation with the Advisory Committee, shall prepare
+ a management plan to be administered and carried out by the Secretary in
+ the conduct of activities under this Act.
+ (2) After opportunity for public comment and consideration, as appropriate,
+ of such comment, the Secretary shall publish the plan.
+ (3) In addition to describing the Secretary's intentions for administering
+ this Act, the plan shall include a comprehensive strategy for assisting
+ the private sector--
+ (A) in commercializing the renewable energy and energy efficiency technologies
+ developed under this Act; and
+ (B) in meeting competition from foreign suppliers of products derived from
+ renewable energy and energy efficiency technologies.
+ (4) The plan shall address the role of federally-assisted research,
+ development, and demonstration in the achievement of applicable national
+ policy goals of the National Energy Policy Plan required under section 801
+ of the Department of Energy Organization Act (42 U.S.C. 7321).
+ (5) The plan shall accompany the President's annual budget submission to
+ the Congress.
+ (c) REPORT ON OPTIONS- As part of the first report submitted under subsection
+ (a), the Secretary shall submit to Congress a report analyzing options
+ available to the Secretary under existing law to assist the private sector
+ with the timely commercialization of wind, photovoltaic, solar thermal,
+ biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro,
+ and energy storage renewable energy technologies and energy efficiency
+ technologies through emphasis on development and demonstration assistance
+ to specific technologies in the research, development, and demonstration
+ programs of the Department of Energy that are near commercial application.
+SEC. 10. NO ANTITRUST IMMUNITY OR DEFENSES.
+ Nothing in this Act shall be deemed to convey to any person, partnership,
+ corporation, or other entity immunity from civil or criminal liability
+ under any antitrust law or to create defenses to actions under any antitrust
+ law. As used in this section, `antitrust laws' means those Acts set forth
+ in section 1 of the Clayton Act (15 U.S.C. 12), as amended.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

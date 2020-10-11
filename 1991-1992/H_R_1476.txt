@@ -1,0 +1,460 @@
+ 
+--H.R.1476--
+H.R.1476
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To provide for the divestiture of certain properties of the San Carlos Indian
+Irrigation Project in the State of Arizona, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `San Carlos Indian Irrigation Project Divestiture
+ Act of 1991'.
+SEC. 2. FINDINGS AND PURPOSE.
+ (a) FINDINGS- The Congress finds the following:
+ (1) To provide water for irrigating, first, land allotted to Pima Indians
+ on the Gila River Reservation and, second, other lands in public or private
+ ownership which, in the opinion of the Secretary of the Interior, could
+ be served without diminishing the supply necessary for the Indian lands,
+ Congress, by the Act of June 7, 1924, authorized construction of Coolidge
+ Dam and creation of San Carlos Reservoir on the Gila River in Arizona.
+ (2) The Secretary, through the San Carlos Irrigation Project administered
+ by the Bureau of Indian Affairs, operates Coolidge Dam and approximately
+ one hundred irrigation wells to provide water to SCIP lands on the Gila
+ River Reservation and to the SCIP lands outside the reservation which is
+ within the San Carlos Irrigation and Drainage District.
+ (3) A hydroelectric power system was developed at Coolidge Dam pursuant
+ to the Act of March 7, 1928, as amended, to generate power incidental to
+ the use of San Carlos Reservoir for storing irrigation water. The system's
+ primary purpose was to provide power for irrigation pumping on SCIP lands
+ and for BIA agency and school purposes and for irrigation pumping by Apache
+ Indians on the San Carlos Reservation.
+ (4) SCIP's transmission and distribution system, which has been extended to
+ domestic and commercial users on SCIP lands and to other homes and businesses
+ not on SCIP lands, currently provides service within portions of Pinal, Pima,
+ Maricopa, Graham, and Gila Counties covering approximately 3,000 square miles.
+ (5) Unexpectedly low and erratic Gila River flows into San Carlos Reservoir
+ since 1928 have limited power generation at Coolidge Dam, causing SCIP
+ to secure additional power through contracts with the Western Area Power
+ Administration, the Salt River Project, and Arizona Public Service Company
+ to meet its customers' needs. Since October 1983, when a flood damaged the
+ switchyard at Coolidge Dam, no power has been generated at the dam.
+ (6) Much of SCIP's power system needs modernization, with some facilities
+ over sixty years old, well past their design life. However, Federal budgetary
+ and administrative policies have impaired long-range, consistent planning
+ and construction necessary for efficient SCIP operation and maintenance
+ and for timely replacement of obsolete or worn out facilities.
+ (7) Under current repayment terms, the shared obligation of the San Carlos
+ Irrigation and Drainage District and the Gila River Indian Community to
+ repay the United States for construction of SCIP's hydroelectric power system
+ and certain improvements thereto will not be met until after the year 2010.
+ (8) The Gila River Indian Community, the San Carlos Apache Indian Tribe,
+ and the San Carlos Irrigation and Drainage District have petitioned
+ the Congress to authorize the Secretary to divest the United States of
+ ownership and responsibility for SCIP's electric power transmission and
+ distribution systems, to settle the outstanding debt owned by the United
+ States in connection with the construction of those systems, to apportion
+ equitably among them SCIP's allocation of Federal power resources, and to
+ take such other actions as necessary to carry out divestiture.
+ (9) On September 15, 1989, the Gila River Indian Community and the Arizona
+ Public Service Company, and the San Carlos Irrigation and Drainage District,
+ the Arizona Public Service Company, Trico Electric Cooperative, Inc., and
+ Electrical District No. 2 of Pinal County, Arizona, signed Statements of
+ Principles by which divestiture would be implemented between and among them
+ subsequent to enactment of Federal enabling authorities as provided in this
+ Act. The same entities subsequently signed extensions of the Statements of
+ Principles, as amended.
+ (b) PURPOSE- The purposes of this Act are--
+ (1) to authorize the Secretary to divest the United States of ownership
+ of the electric transmission and distribution system of the San Carlos
+ Irrigation Project;
+ (2) to provide for the settlement of the debt obligations owed to the United
+ States by the Gila River Indian Community and the San Carlos Irrigation
+ and Drainage District in connection with the construction of the electric
+ transmission and distribution system;
+ (3) to provide for the reallocation of power resources currently allocated
+ to SCIP from Federal hydroelectric power sources;
+ (4) to provide funds for the disposal of hazardous waste materials associated
+ with those areas and components of the SCIP electric system transferred to
+ the Gila River Indian Community and the San Carlos Apache Tribe and with
+ those areas and components retained by the Secretary;
+ (5) to facilitate the implementation of divestiture in an orderly and
+ economic manner, consistent with the desire and intent of the parties to the
+ Statements of Principles and with due regard for the rights and interests
+ of current SCIP employees; and
+ (6) to assist the Gila River Indian Community and the San Carlos Apache
+ Tribe in their efforts to achieve greater self-determination and economic
+ self-sufficiency.
+SEC. 3. DEFINITIONS.
+ For the purposes of this Act--
+ (1) the term `Arizona Public Service Company' means an electric utility
+ corporation organized and existing under the laws of the State of Arizona;
+ (2) the term `Arizona Corporation Commission' means the entity established
+ by Article 15 of the Arizona Constitution to regulate and supervise public
+ service corporations in the State of Arizona;
+ (3) the term `Arizona Power Authority' means the entity established under
+ Arizona law to receive and market Arizona's allotted share of power generated
+ at Hoover Dam;
+ (4) the terms `Electrical District No. 2' and `ED2' mean Electrical District
+ Number 2, an electrical district organized under the laws of the State
+ of Arizona;
+ (5) the terms `Gila River Indian Community' and `GRIC' mean the governing
+ body of that community of Pima and Maricopa Indians organized pursuant to
+ section 16 of the Act of June 18, 1934 (25 U.S.C. 476) and occupying the
+ Gila River Reservation in Arizona;
+ (6) the term `preference power' means electric power provided to
+ municipalities, other public corporations or agencies, cooperatives,
+ and nonprofit organizations pursuant to the Act of June 17, 1902 (32
+ Stat. 388), and amendments and supplements thereto, commonly referred to
+ as Reclamation Law;
+ (7) the term `present value' means the economic value of a present cash
+ payment utilizing the discount rates and methodology established by the
+ Secretary pursuant to section 5301 of the Omnibus Budget Reconciliation
+ Act of 1987 (Public Law 100-203; 101 Stat. 1330-268);
+ (8) the terms `San Carlos Apache Tribe' and `SCAT' mean the governing body
+ of that tribe of Indians organized pursuant to section 16 of the Act of June
+ 18, 1934 (25 U.S.C. 476) and occupying the San Carlos Reservation in Arizona;
+ (9) the terms `San Carlos Irrigation Project' and `SCIP' mean the project
+ authorized pursuant to the Act of June 7, 1924 (43 Stat. 475), expanded
+ pursuant to the Act of March 7, 1928 (45 Stat. 200, 210), and administered
+ by the Bureau of Indian Affairs;
+ (10) the terms `San Carlos Irrigation and Drainage District' and `SCIDD'
+ mean an irrigation and drainage district organized under the laws of Arizona;
+ (11) the term `SCIP electric system' means all electric transmission and
+ distribution facilities, including existing associated easements, owned
+ by the United States on behalf of SCIP and administered by SCIP's Power
+ Division, except Coolidge Dam, the electric generating facilities within the
+ dam's powerhouse, the lines connecting the powerhouse with the switchyard,
+ together with such switchyard located on land withdrawn for Coolidge Dam;
+ (12) the term `Secretary' means the Secretary of the Interior;
+ (13) the term `Statements of Principles' means the document entered into by
+ the Arizona Public Service Company, the San Carlos Irrigation and Drainage
+ District, Trico Electric Cooperative, Inc., and Electrical District No. 2
+ on September 15, 1989, as amended and extended on January 14, 1991, and the
+ document entered into by the Arizona Public Service Company and the Gila
+ River Indian Community Utility Authority on September 15, 1989, as amended
+ and extended on March 8, 1991, setting forth agreements among the respective
+ parties concerning divestiture of SCIP assets both on and off reservation; and
+ (14) the terms `Trico Electrical Cooperative' and `TRICO' mean the Trico
+ Electrical Cooperative, a corporation organized under the laws of the State
+ of Arizona.
+SEC. 4. DIVESTITURE.
+ (a) IN GENERAL- Notwithstanding the Act of September 22, 1961 (25 U.S.C. 15),
+ the Secretary is directed to transfer the SCIP electric system and associated
+ assets in accordance with the provisions of this Act no later than December
+ 31, 1992.
+ (b) TRANSFER TO GRIC- The Secretary shall transfer to the GRIC all right,
+ title, and interest of the United States in and to that portion of the
+ SCIP electric system located on the Gila River Reservation, including the
+ 5.6-mile section of 69-KV transmission line from Coolidge Substation to
+ the reservation.
+ (c) TRANSFER TO SCAT- The Secretary shall transfer to SCAT all right, title,
+ and interest of the United States in and to that portion of the SCIP electric
+ system located on the San Carlos Apache Reservation.
+ (d) TRANSFER TO SCIDD- Subject to the requirements of section 5(d), the
+ Secretary shall transfer, as is, to SCIDD all right, title, and interest of
+ the United States in and to those portions of the SCIP electric system not
+ transferred under subsection (b) or (c) or otherwise transferred or reserved
+ under subsection (a), (e) or (f), expressly disclaiming all warranties,
+ expressed or implied, including the implied warranties of merchantability
+ and fitness for a particular purpose.
+ (e) TRANSFER OF ASSOCIATED ASSETS- The Secretary shall negotiate an
+ agreement with GRIC, SCAT, and SCIDD providing for the transfer to GRIC,
+ SCAT, and SCIDD of all right, title, and interest of the United States in
+ and to all associated assets of the SCIP electric system not transferred
+ under subsections 4(b), 4(c), and 4(d) of this section, including but not
+ limited to vehicles, tools, hardware, spare parts, poles, transformers,
+ meters, conductors, and other electric system components. The Secretary
+ shall distribute these assets in a manner that reflects the proportionate
+ number of miles of distribution lines to be transferred to GRIC, SCAT, and
+ SCIDD (including lines provided to SCAT under sections 5(a)(2) and 5(a)(3)
+ of this Act) and retained in accordance with the implementation of the
+ Statements of Principles.
+ (f) RETENTION OF FACILITIES BY THE UNITED STATES- The Secretary shall retain
+ ownership of the electric generating facilities located in the powerhouse
+ and switchyard at Coolidge Dam, including lines from the powerhouse to
+ the switchyard.
+ (g) OPERATION AND MAINTENANCE- Upon completion of the transfer of the SCIP
+ electric system and associated assets as provided in this Act, the Secretary
+ shall have no responsibility for the operation, maintenance, and repair of
+ such system and associated assets, or for the electric generating facilities
+ within the Coolidge Dam powerhouse.
+SEC. 5. ALLOCATION OF FUNDS.
+ (a) IN GENERAL- The Secretary shall allocate all funds credited to the SCIP
+ Power Division as of September 30, 1991, as adjusted for activity between
+ September 30, 1991, and the effective date of this Act, including cash and
+ temporary investments managed by the Bureau of Indian Affairs, customer
+ deposits and customer advances held by the Treasury of the United States,
+ reservations for line extensions and installation services, reservations
+ for replacement, funds obligated for future power purchases, unreserved
+ and unrestricted funds, trade and other accounts receivable, and accrued
+ interest income, as follows:
+ (1) To GRIC, SCAT, and SCIDD, all customer deposits and all customer advances
+ held by the Treasury of the United States, in amounts corresponding to the
+ actual deposits and advances made by the customers who shall be located
+ within the respective areas to be served by GRIC, SCAT, and SCIDD as of
+ the effective date of this Act, together with such information necessary
+ to enable GRIC, SCAT, and SCIDD to credit such deposits and advances to
+ the appropriate customer accounts.
+ (2) To SCAT, such sums as may be necessary (not to exceed $1,200,000) to
+ be used for construction of a 21KV transmission line from Peridot, Arizona,
+ to the community of Bylas on the San Carlos Apache Reservation.
+ (3) To SCAT, such sums as may be necessary (not to exceed $160,000) to
+ be used to purchase all right, title, and interest in the electric system
+ presently owned by the Arizona Public Service Company within the exterior
+ boundaries of the San Carlos Apache Reservation and extending from the
+ western boundary of said reservation easterly to the town of Cutter, Arizona.
+ (4) To a SCIP employee severance fund, to be established by the Secretary,
+ not to exceed $750,000, solely for the purpose of providing severance pay to
+ SCIP Power Division employees eligible for such pay under applicable Federal
+ law and regulations, except that within 180 days after the effective date
+ of this Act, any funds remaining in the severance fund shall be transferred
+ to GRIC.
+ (5) To a SCIP reserve account, to be established and administered by the
+ Secretary, $4,000,000, to be retained by the Secretary until October 1, 1995,
+ at which time the Secretary shall, first, deposit into the Environmental
+ Protection Account established pursuant to section 6 an amount equal to
+ the present value of the SCIP electrical system debt obligation owed by
+ GRIC and its allotted landowners as of September 30, 1991, and second,
+ transfer the balance remaining in the account to GRIC. Prior to October 1,
+ 1995, the Secretary may, in his discretion and pursuant to his authorities
+ under Public Law 93-638 (25 U.S.C. 450 et seq.), make available to GRIC and
+ SCAT the funds not retained for deposit into the Environmental Protection
+ Account for use in electric system expansion and rehabilitation on their
+ respective reservations and for expenses associated with providing electric
+ service on such reservations.
+ (6) To GRIC, any funds remaining after the allocations set forth in the
+ preceding paragraphs (1), (2), (3), (4), and (5) to be used for electric
+ system expansion and rehabilitation on the Gila River Reservation and
+ for expenses associated with providing electric utility services on such
+ reservation.
+ (b) ACCOUNTING PENDING DIVESTITURE- From the date of enactment of this Act
+ through the date of allocation of funds as provided in this section and
+ section 10, the Secretary shall ensure that no cash, temporary investments,
+ or other funds are transferred from the SCIP Power Division to the SCIP
+ Irrigation Division or to other Bureau of Indian Affairs managed projects,
+ accounts, funds, or activities, and no Power Division funds shall be
+ reserved or obligated for other than routine repairs and maintenance of
+ the SCIP Power Division utility plant and for operation of the Power Division.
+ (c) GRIC DEBT RESOLUTION- Deposit into the Environmental Protection Account of
+ the amount specified in subsection (a)(5) shall constitute full satisfaction
+ of the SCIP electric system debt owed by GRIC or its allotted landowners
+ and shall be cause for the Secretary to cancel any liens against allotted
+ lands of any member of GRIC or against tribal lands within SCIP in connection
+ with such debt.
+ (d) SCIDD DEBT RESOLUTION; AGREEMENT- As a condition precedent to the
+ transfer of the SCIP system and other assets as provided in section 4(d),
+ the SCIDD shall enter into an agreement with the Secretary. Such agreement
+ shall provide that--
+ (1) SCIDD will pay the Secretary an amount equal to the present value of the
+ SCIP electric system debt obligation owed by SCIDD to the United States as
+ of September 1, 1991, such amount to be paid from the proceeds of SCIDD's
+ sale to the Arizona Public Service Company of various system assets as
+ prescribed by the Statement of Principles entered into by SCIDD;
+ (2) the total amount to be paid by SCIDD under the agreement shall be paid
+ to the Secretary in annual installments of not less than $479,000 for the
+ fiscal years beginning with the fiscal year in which this Act takes effect
+ (as provided in section 10) and ending with fiscal year 1995;
+ (3) SCIDD disclaims any right, title, or interest in SCIP Power Division
+ funds to be allocated pursuant to subsection (a), except for such funds as
+ may be credited to SCIDD pursuant to subsection (a)(1); and
+ (4) payment by SCIDD to the Secretary of the present value amount specified
+ in paragraph (1) shall constitute full satisfaction of the SCIP electric
+ system debt owed by SCIDD.
+ (e) DEPOSIT INTO ENVIRONMENTAL PROTECTION ACCOUNT- The Secretary shall
+ deposit the funds paid by SCIDD pursuant to subsection (d)(1) into the
+ Environmental Protection Account established under section 6.
+ (f) SCAT DEBT RESOLUTION- The Secretary shall waive any debt for electrical
+ service (not to exceed $165,000) which SCIP claims is owed by the San Carlos
+ Apache Tribal Utility Authority or SCAT as of September 1, 1991.
+SEC. 6. ENVIRONMENTAL PROTECTION ACCOUNT.
+ The Secretary shall establish an account, to be administered by the Bureau
+ of Indian Affairs, to fund such efforts as may be necessary and appropriate
+ to dispose of hazardous waste materials associated with those areas and
+ components of the SCIP electric system transferred to GRIC and SCAT and
+ with those areas and components retained by the Secretary. Beginning on
+ October 1, 1991, funds deposited into this account pursuant to sections
+ 5(a)(2) and 5(e) shall be used to carry out the purposes of this section
+ until exhausted. Any funds remaining in the account after October 1, 2005,
+ shall revert to the general fund of the United States Treasury. The Secretary
+ shall be responsible for any hazardous waste disposal required by this section
+ not covered by the funds deposited pursuant to sections 5(a)(5) and 5(e).
+SEC. 7. FEDERAL POWER REALLOCATION.
+ (a) REALLOCATION OF RESOURCES- Upon the request of the Secretary, the
+ Secretary of Energy shall enter into such agreements as are necessary
+ to reallocate SCIP's allocation of Federal power resources--capacity and
+ energy--as provided in this section.
+ (b) SUCCESSORS IN INTEREST- The Secretary of Energy shall treat GRIC,
+ SCIDD, and SCAT as successors in interest to SCIP in reallocating SCIP's
+ allocation of capacity and energy from the Parker-Davis Project (the two
+ projects consolidated by the Act of May 28, 1954 (Chapter 241; 68 Stat. 143))
+ and the Colorado River Storage Project (43 U.S.C. 620 et seq.), including
+ capacity and energy available pursuant to the Memorandum of Understanding
+ numbered 14-06-300-2632 and Memorandum of Understanding numbered DE-MS65-80WP
+ 39041 between the Western Area Power Administration, Department of Energy,
+ and the Bureau of Indian Affairs, Department of the Interior, and any other
+ agreement to provide preference power to SCIP prior to December 31, 1992.
+ (c) PROPORTIONS ASSIGNED- The SCIP allocations of winter and summer capacity
+ and energy shall be assigned to GRIC, SCIDD, and SCAT in accordance with
+ the proportions set forth in the table included in the report of the Senate
+ Select Committee on Indian Affairs on this Act.
+ (d) RATES- Preference power--capacity and energy--shall be delivered to GRIC,
+ SCAT, and SCIDD pursuant to the allocations provided for in this section
+ at the rate established for preference power as determined in accordance
+ with ratemaking procedures established by the Department of Energy.
+ (e) BOULDER CANYON PROJECT- The Bureau of Indian Affairs shall assign its
+ contract with the Arizona Power Authority for capacity and energy from the
+ Boulder Canyon Project (43 U.S.C. 617 et seq.; 45 Stat. 1057) in accordance
+ with the proportions referred to in subsection (c) and the Secretary shall
+ request the Arizona Power Authority to take all necessary actions required
+ to effectuate such assignment in accordance with the contract dated as of
+ September 15, 1986, between the Arizona Power Authority and the SCIP.
+ (f) LONG-TERM POWER SUPPLY; RATES- The Secretary shall enter into an
+ agreement with GRIC and SCIDD to provide a long-term power supply to the
+ irrigation wells and pumps installed by SCIP to provide water to SCIP lands
+ on and off the lands of GRIC. The rate for the electricity supplied by GRIC
+ and SCIDD shall be based on the average cost per kilowatt hour for power
+ purchased by GRIC and SCIDD from the Parker-Davis Project and marketed by
+ the Western Area Power Administration, plus an allowance for the cost of
+ operating and maintaining the transmission and distribution systems of
+ GRIC and SCIDD, including administrative costs and reserves, as long as
+ such power is made available to GRIC and SCIDD in quantities sufficient to
+ meet SCIP's pumping requirements. The rate shall be reviewed and adjusted
+ annually to reflect any changes in the average cost of power purchased by
+ the Parker-Davis Project and the actual costs incurred by GRIC and SCIDD
+ to operate and maintain the transmission and distribution systems.
+SEC. 8. FEDERAL EMPLOYEES.
+ (a) ELECTION TO CONTINUE CERTAIN BENEFITS- Any Federal employee at SCIP
+ whose position is terminated by reason of this Act who, within thirty days
+ of such termination, is employed by the San Carlos Apache Tribal Utility
+ Authority or the Gila River Indian Community Utility Authority is entitled,
+ if the employee and the respective authority so elect, to the following:
+ (1) To retain coverage, rights, and benefits under subchapter I of chapter
+ 81 (relating to compensation for work injuries) of title 5, United States
+ Code, and for this purpose employment with the tribal authority shall be
+ deemed employment by the United States. However, if an injured employee,
+ or his dependents in case of his death, receives from the tribal authority
+ any payment (including an allowance, gratuity, payment under an insurance
+ policy for which the premium is wholly paid by the tribal authority, or
+ other benefit of any kind) on account of the same injury or death, the
+ amount of that payment shall be credited against any benefit payable under
+ subchapter I of chapter 81 of title 5, United States Code, as follows:
+ (A) Payments on account of injury or disability shall be credited against
+ disability compensation payable to the injured employee.
+ (B) Payments on account of death shall be credited against death compensation
+ payable to dependents of the deceased employee.
+ (2) To retain coverage, rights, and benefits under chapter 83 (relating to
+ retirement) or chapter 84 (relating to Federal employees' retirement system)
+ of title 5, United States Code, if necessary employee deductions and agency
+ contributions in payment for coverage, rights, and benefits for the period
+ of employment with the tribal authority are currently deposited in the
+ Civil Service Retirement and Disability Fund (pursuant to chapter 83 or
+ chapter 84 of title 5, United States Code) and, if appropriate, the Thrift
+ Savings Fund (pursuant to section 8432 of title 5, United States Code), and
+ the period during which coverage, rights, and benefits are retained under
+ this paragraph is deemed creditable service under section 8332 or 8411 of
+ title 5, United States Code. Days of unused sick leave to the credit of an
+ employee under a formal leave system at the time the employee leaves Federal
+ employment to be employed by a tribal authority remain to his credit for
+ retirement purposes during covered service with the tribal authority.
+ (3) To retain coverage, rights, and benefits under chapter 89 (relating to
+ health insurance) of title 5, United States Code, if necessary employee
+ deductions and agency contributions in payment for the coverage, rights,
+ and benefits for the period of employment with the tribal authority are
+ currently deposited in the Employee's Health Benefit Fund (pursuant to
+ section 8909 of title 5, United States Code), and the period during which
+ coverage, rights, and benefits are retained under this paragraph is deemed
+ service as an employee under chapter 89 of title 5, United States Code.
+ (4) To retain coverage, rights, and benefits under chapter 87 (relating
+ to life insurance) of title 5, United States Code, if necessary employee
+ deductions and agency contributions in payment for the coverage, rights,
+ and benefits for the period of employment with the tribal authority are
+ currently deposited in the Employee's Life Insurance Fund (pursuant to
+ section 8714 of title 5, United States Code), and the period during which
+ coverage, rights, and benefits are retained under this paragraph is deemed
+ service as an employee under chapter 87 of title 5, United State Code.
+ (b) AGENCY CONTRIBUTIONS- During the period an employee is entitled to
+ the coverage, rights, and benefits pursuant to subsection (a), the tribal
+ authority employing such employee shall deposit currently in the appropriate
+ funds the employee deductions and agency contributions required by paragraphs
+ (2), (3), and (4) of subsection (a).
+ (c) PRIORITY PLACEMENT- The Secretary shall establish and maintain a
+ Departmental Priority Placement Program for SCIP employees serving in
+ competitive positions under career or career-conditional appointments
+ who have satisfactory levels of performance and who receive a notice of
+ involuntary separation as a result of divestiture of the SCIP electric
+ system pursuant to the provisions of this Act. Employees must apply in
+ writing for placement into the program not later than thirty calendar
+ days after receipt of notice of involuntary separation. Employees shall be
+ entitled to be placed on a priority basis into vacant positions outside the
+ competitive area from which they are separated, at the same grade or level
+ they last held in the agency and for which they are qualified, based upon
+ the availability of such positions.
+ (d) DEFINITIONS- For the purposes of this section--
+ (1) the term `employee' means an employee as defined in section 2106 of
+ title 5, United States Code;
+ (2) the term `agency' means the Bureau of Indian Affairs; and
+ (3) the term `involuntary separation' means any separation from agency
+ employment against the will and without the consent of the employee.
+ (e) REGULATIONS- The Secretary may prescribe regulations necessary to
+ carry out the provisions of this section and to protect and assure the
+ compensation, retirement, insurance, leave, reemployment rights, and such
+ other similar civil service employment rights as he finds appropriate.
+SEC. 9. MISCELLANEOUS.
+ (a) EFFECT ON EXISTING RIGHTS- Nothing in this Act shall--
+ (1) affect any right of the City of Mesa, Arizona, to deliver electric service
+ to lands currently owned by the City of Mesa in Pinal County, Arizona; or
+ (2) be construed as having any effect on the right of any Arizona incorporated
+ rural electric cooperative to seek to provide electric service pursuant to
+ existing Federal or State law.
+ (b) APPROVAL BY ARIZONA CORPORATION COMMISSION- Approval by the Arizona
+ Corporation Commission of the allocation of electric service areas and systems
+ as set forth in the Statements of Principles shall constitute recognition
+ and confirmation of the financial viability and territorial integrity of
+ the signatories to the Statements of Principles within the meaning of the
+ provisions of the Rural Electrification Act of May 20, 1936, as amended
+ (7 U.S.C. 901 et seq.; 49 Stat. 1363; 63 Stat. 948).
+ (c) EXISTING OBLIGATION OF THE UNITED STATES- Nothing in this Act shall
+ affect any obligation of the United States to SCAT to provide power at
+ the rate of 2 mils per kilowatt hour for irrigation pumping and agency and
+ school purposes pursuant to the Act of March 7, 1928 (45 Stat. 200, 210).
+ (d) SCIP IRRIGATION DIVISION- The Secretary is authorized to expend not
+ more than $1,200,000 from funds credited to the SCIP Irrigation Division
+ to acquire not more than ten acres of land and to acquire or construct such
+ facilities as may be necessary and appropriate to provide for the efficient
+ maintenance, operation, and administration of the SCIP Irrigation Division.
+SEC. 10. EFFECTIVE DATE.
+ (a) IN GENERAL- Transfer of SCIP facilities and assets to GRIC, SCAT, and
+ SCIDD under section 4 and allocation of funds under section 5 shall not take
+ effect until such time as the Secretary issues a statement of findings that--
+ (1) the Arizona Corporation Commission has approved, pursuant to Arizona
+ law, the allocation of electric service areas and systems as set forth in
+ the Statements of Principles;
+ (2) the Secretary has entered into an agreement with GRIC, SCAT, and SCIDD
+ providing for the division of assets as provided in section 4(e);
+ (3) the Secretary has entered into an agreement with GRIC and SCIDD providing
+ for a long-term power supply to SCIP pumps as provided in section 7(f);
+ (4) all agreements necessary for the reallocation of preference power as
+ required by section 7 have been executed and the Bureau of Indian Affairs
+ has assigned its contract with the Arizona Power Authority to GRIC, SCAT
+ and SCIDD in accordance with the terms of such contract and the proportions
+ prescribed in section 7;
+ (5) the Arizona Public Service Company has terminated its existing wholesale
+ power agreement with SCIP and released SCIP from paying any termination
+ charges under such agreement; and
+ (6) SCIDD has entered into the agreement with the Secretary as required in
+ section 5(d).
+ (b) REVERSION IF REQUIREMENTS NOT MET- Unless all of the conditions and
+ requirements set forth in subsection (a) have been met by December 31, 1992,
+ all contracts entered into pursuant to this Act shall be null and void,
+ the United States shall retain ownership and control of the SCIP electric
+ system and all associated funds and assets as it did before the date of the
+ enactment of this Act, and any preference power reallocation made pursuant
+ to section 7 of this Act shall revert back to the SCIP under the same terms
+ and conditions that existed prior to the date of the enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

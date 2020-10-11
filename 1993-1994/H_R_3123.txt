@@ -1,0 +1,659 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3123 Enrolled Bill (ENR)]
+
+        H.R.3123
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To improve the electric and telephone loan programs carried out under 
+the Rural
+
+          Electrification Act of 1936, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Rural Electrification Loan 
+Restructuring Act of 1993''.
+
+SEC. 2. ELECTRIC AND TELEPHONE LOAN PROGRAMS.
+
+    (a) Insured Electric and Telephone Loans.--
+        (1) In general.--Section 305 of the Rural Electrification Act of 
+    1936 (7 U.S.C. 935) is amended--
+            (A) by striking subsections (b) and (d);
+            (B) by redesignating subsection (c) as subsection (b); and
+            (C) by inserting after subsection (b) (as so redesignated) 
+        the following new subsections:
+    ``(c) Insured Electric Loans.--
+        ``(1) Hardship loans.--
+            ``(A) In general.--The Administrator shall make insured 
+        electric loans, to the extent of qualifying applications for the 
+        loans, at an interest rate of 5 percent per year to any 
+        applicant for a loan who meets each of the following 
+        requirements:
+                ``(i) The average revenue per kilowatt-hour sold by the 
+            applicant is not less than 120 percent of the average 
+            revenue per kilowatt-hour sold by all utilities in the State 
+            in which the applicant provides service.
+                ``(ii) The average residential revenue per kilowatt-hour 
+            sold by the applicant is not less than 120 percent of the 
+            average residential revenue per kilowatt-hour sold by all 
+            utilities in the State in which the applicant provides 
+            service.
+                ``(iii) The average per capita income of the residents 
+            receiving electric service from the applicant is less than 
+            the average per capita income of the residents of the State 
+            in which the applicant provides service, or the median 
+            household income of the households receiving electric 
+            service from the applicant is less than the median household 
+            income of the households in the State.
+            ``(B) Severe hardship loans.--In addition to hardship loans 
+        that are made under subparagraph (A), the Administrator may make 
+        an insured electric loan at an interest rate of 5 percent per 
+        year to an applicant for a loan if, in the sole discretion of 
+        the Administrator, the applicant has experienced a severe 
+        hardship.
+            ``(C) Limitation.--Except as provided in subparagraph (D), 
+        the Administrator may not make a loan under this paragraph to an 
+        applicant for the purpose of furnishing or improving electric 
+        service to a consumer located in an urban area (as defined by 
+        the Bureau of the Census) if the average number of consumers per 
+        mile of line of the total electric system of the applicant 
+        exceeds 17.
+            ``(D) Extremely high rates.--In addition to hardship loans 
+        that are made under subparagraphs (A) and (B), the Administrator 
+        shall make insured electric loans, to the extent of qualifying 
+        applications for the loans, at an interest rate of 5 percent per 
+        year to any applicant for a loan whose residential revenue 
+        exceeds 15.0 cents per kilowatt-hour sold. A qualifying 
+        application from such an applicant for the purpose of furnishing 
+        or improving electric service to a consumer located outside of 
+        an urbanized area shall not be subject to the conditions or 
+        limitation of subparagraph (A) or (C).
+        ``(2) Municipal rate loans.--
+            ``(A) In general.--The Administrator shall make insured 
+        electric loans, to the extent of qualifying applications for the 
+        loans, at the interest rate described in subparagraph (B) for 
+        the term or terms selected by the applicant pursuant to 
+        subparagraph (C).
+            ``(B) Interest rate.--
+                ``(i) In general.--Subject to clause (ii), the interest 
+            rate described in this subparagraph on a loan to a 
+            qualifying applicant shall be--
+
+                    ``(I) the interest rate determined by the 
+                Administrator to be equal to the current market yield on 
+                outstanding municipal obligations with remaining periods 
+                to maturity similar to the term selected by the 
+                applicant pursuant to subparagraph (C), but not greater 
+                than the rate determined under section 307(a)(3)(A) of 
+                the Consolidated Farm and Rural Development Act (7 
+                U.S.C. 1927(a)(3)(A)) that is based on the current 
+                market yield on outstanding municipal obligations; plus
+                    ``(II) if the applicant for the loan makes an 
+                election pursuant to subparagraph (D) to include in the 
+                loan agreement the right of the applicant to prepay the 
+                loan, a rate equal to the amount by which--
+
+                        ``(aa) the interest rate on commercial loans for 
+                    a similar period that afford the borrower such a 
+                    right; exceeds
+                        ``(bb) the interest rate on commercial loans for 
+                    the period that do not afford the borrower such a 
+                    right.
+                ``(ii) Maximum rate.--The interest rate described in 
+            this subparagraph on a loan to an applicant for the loan 
+            shall not exceed 7 percent if--
+
+                    ``(I) the average number of consumers per mile of 
+                line of the total electric system of the applicant is 
+                less than 5.50; or
+                    ``(II)(aa) the average revenue per kilowatt-hour 
+                sold by the applicant is more than the average revenue 
+                per kilowatt-hour sold by all utilities in the State in 
+                which the applicant provides service; and
+                    ``(bb) the average per capita income of the 
+                residents receiving electric service from the applicant 
+                is less than the average per capita income of the 
+                residents of the State in which the applicant provides 
+                service, or the median household income of the 
+                households receiving electric service from the applicant 
+                is less than the median household income of the 
+                households in the State.
+
+                ``(iii) Exception.--Clause (ii) shall not apply to a 
+            loan to be made to an applicant for the purpose of 
+            furnishing or improving electric service to consumers 
+            located in an urban area (as defined by the Bureau of the 
+            Census) if the average number of consumers per mile of line 
+            of the total electric system of the applicant exceeds 17.
+            ``(C) Loan term.--
+                ``(i) In general.--Subject to clause (ii), the applicant 
+            for a loan under this paragraph may select the term for 
+            which an interest rate shall be determined pursuant to 
+            subparagraph (B), and, at the end of the term (and any 
+            succeeding term selected by the applicant under this 
+            subparagraph), may renew the loan for another term selected 
+            by the applicant.
+                ``(ii) Maximum term.--
+
+                    ``(I) Applicant.--The applicant may not select a 
+                term that ends more than 35 years after the beginning of 
+                the first term the applicant selects under clause (i).
+                    ``(II) Administrator.--The Administrator may 
+                prohibit an applicant from selecting a term that would 
+                result in the total term of the loan being greater than 
+                the expected useful life of the assets being financed.
+
+            ``(D) Call provision.--The Administrator shall offer any 
+        applicant for a loan under this paragraph the option to include 
+        in the loan agreement the right of the applicant to prepay the 
+        loan on terms consistent with similar provisions of commercial 
+        loans.
+        ``(3) Other source of credit not required in certain cases.--The 
+    Administrator may not require any applicant for a loan made under 
+    this subsection who is eligible for a loan under paragraph (1) to 
+    obtain a loan from another source as a condition of approving the 
+    application for the loan or advancing any amount under the loan.
+    ``(d) Insured Telephone Loans.--
+        ``(1) Hardship loans.--
+            ``(A) In general.--The Administrator shall make insured 
+        telephone loans, to the extent of qualifying applications for 
+        the loans, at an interest rate of 5 percent per year, to any 
+        applicant who meets each of the following requirements:
+                ``(i) The average number of subscribers per mile of line 
+            in the service area of the applicant is not more than 4.
+                ``(ii) The applicant is capable of producing net income 
+            or margins before interest of not less than 100 percent (but 
+            not more than 300 percent) of the interest requirements on 
+            all of the outstanding and proposed loans of the applicant.
+                ``(iii) The Administrator has approved a 
+            telecommunications modernization plan for the State under 
+            paragraph (3) and, if the plan was developed by telephone 
+            borrowers under this title, the applicant is a participant 
+            in the plan.
+                ``(iv) The average number of subscribers per mile of 
+            line in the area included in the proposed loan is not more 
+            than 17.
+            ``(B) Authority to waive tier requirement.--The 
+        Administrator may waive the requirement of subparagraph (A)(ii) 
+        in any case in which the Administrator determines (and sets 
+        forth the reasons for the waiver in writing) that the 
+        requirement would prevent emergency restoration of the telephone 
+        system of the applicant or result in severe hardship to the 
+        applicant.
+            ``(C) Effect of lack of funds.--On request of any applicant 
+        who is eligible for a loan under this paragraph for which funds 
+        are not available, the applicant shall be considered to have 
+        applied for a loan under title IV.
+        ``(2) Cost-of-money loans.--
+            ``(A) In general.--The Administrator may make insured 
+        telephone loans for the acquisition, purchase, and installation 
+        of telephone lines, systems, and facilities (other than 
+        buildings used primarily for administrative purposes, vehicles 
+        not used primarily in construction, and customer premise 
+        equipment) related to the furnishing, improvement, or extension 
+        of rural telecommunications service, at an interest rate equal 
+        to the then current cost of money to the Government of the 
+        United States for loans of similar maturity, but not more than 7 
+        percent per year, to any applicant for a loan who meets the 
+        following requirements:
+                ``(i) The average number of subscribers per mile of line 
+            in the service area of the applicant is not more than 15, or 
+            the applicant is capable of producing net income or margins 
+            before interest of not less than 100 percent (but not more 
+            than 500 percent) of the interest requirements on all of the 
+            outstanding and proposed loans of the applicant.
+                ``(ii) The Administrator has approved a 
+            telecommunications modernization plan for the State under 
+            paragraph (3) and, if the plan was developed by telephone 
+            borrowers under this title, the applicant is a participant 
+            in the plan.
+            ``(B) Concurrent loan authority.--On request of any 
+        applicant for a loan under this paragraph during any fiscal 
+        year, the Administrator shall--
+                ``(i) consider the application to be for a loan under 
+            this paragraph and a loan under section 408; and
+                ``(ii) if the applicant is eligible for a loan, make a 
+            loan to the applicant under this paragraph in an amount 
+            equal to the amount that bears the same ratio to the total 
+            amount of loans for which the applicant is eligible under 
+            this paragraph and under section 408, as the amount made 
+            available for loans under this paragraph for the fiscal year 
+            bears to the total amount made available for loans under 
+            this paragraph and under section 408 for the fiscal year.
+            ``(C) Effect of lack of funds.--On request of any applicant 
+        who is eligible for a loan under this paragraph for which funds 
+        are not available, the applicant shall be considered to have 
+        applied for a loan guarantee under section 306.
+        ``(3) State telecommunications modernization plans.--
+            ``(A) Approval.--If, not later than 1 year after final 
+        regulations are promulgated to carry out this paragraph, any 
+        State, either by statute or through the public utility 
+        commission of the State, develops a telecommunications 
+        modernization plan that meets the requirements of subparagraph 
+        (B), the Administrator shall approve the plan for the State. If 
+        a State does not develop a plan in accordance with the 
+        requirements of the preceding sentence, the Administrator shall 
+        approve any telecommunications modernization plan for the State 
+        that meets the requirements that is developed by a majority of 
+        the borrowers of telephone loans made under this title who are 
+        located in the State.
+            ``(B) Requirements.--For purposes of subparagraph (A), a 
+        telecommunications modernization plan must, at a minimum, meet 
+        the following objectives:
+                ``(i) The plan must provide for the elimination of party 
+            line service.
+                ``(ii) The plan must provide for the availability of 
+            telecommunications services for improved business, 
+            educational, and medical services.
+                ``(iii) The plan must encourage and improve computer 
+            networks and information highways for subscribers in rural 
+            areas.
+                ``(iv) The plan must provide for--
+
+                    ``(I) subscribers in rural areas to be able to 
+                receive through telephone lines--
+
+                        ``(aa) conference calling;
+                        ``(bb) video images; and
+                        ``(cc) data at a rate of at least 1,000,000 bits 
+                    of information per second; and
+
+                    ``(II) the proper routing of information to 
+                subscribers.
+
+                ``(v) The plan must provide for uniform deployment 
+            schedules to ensure that advanced services are deployed at 
+            the same time in rural and nonrural areas.
+                ``(vi) The plan must provide for such additional 
+            requirements for service standards as may be required by the 
+            Administrator.
+            ``(C) Finality of approval.--A telecommunications 
+        modernization plan approved under subparagraph (A) may not 
+        subsequently be disapproved. Notwithstanding paragraphs 
+        (1)(A)(iii) and (2)(A)(iii), and section 408(b)(4)(C), the 
+        Administrator and the Governor of the telephone bank may make a 
+        loan to a borrower serving a State that does not have a 
+        telecommunication modernization plan approved by the 
+        Administrator if the loan is made less than 1 year after the 
+        Administrator has adopted final regulations implementing this 
+        paragraph.''.
+        (2) Rural telephone bank loan program.--Section 408 of such Act 
+    (7 U.S.C. 948) is amended--
+            (A) in subsection (a), by striking ``, (2)'' and all that 
+        follows through ``408 of this Act,'' and inserting ``, (2) for 
+        the acquisition, purchase, and installation of telephone lines, 
+        systems, and facilities (other than buildings used primarily for 
+        administrative purposes, vehicles not used primarily in 
+        construction, and customer premise equipment) related to the 
+        furnishing, improvement, or extension of rural 
+        telecommunications service,'';
+            (B) in subsection (b)--
+                (i) by striking paragraph (4) and inserting the 
+            following new paragraph:
+        ``(4) The Governor of the telephone bank may make a loan under 
+    this section only to an applicant for the loan who meets the 
+    following requirements:
+            ``(A) The average number of subscribers per mile of line in 
+        the service area of the applicant is not more than 15, or the 
+        applicant is capable of producing net income or margins before 
+        interest of not less than 100 percent (but not more than 500 
+        percent) of the interest requirements on all of the outstanding 
+        and proposed loans of the applicant.
+            ``(B) The Administrator has approved, under section 
+        305(d)(3), a telecommunications modernization plan for the State 
+        in which the applicant is located and, if the plan was developed 
+        by telephone borrowers under title III, the applicant is a 
+        participant in the plan.'';
+                (ii) in paragraph (8)--
+
+                    (I) by inserting ``(A)'' after ``(8)'';
+                    (II) by striking ``if such prepayment is not made 
+                later than September 30, 1988'' and inserting ``except 
+                for any prepayment penalty provided for in a loan 
+                agreement entered into before the date of enactment of 
+                the Rural Electrification Loan Restructuring Act of 
+                1993''; and
+                    (III) by adding at the end the following new 
+                subparagraph:
+
+        ``(B) If a borrower prepays part or all of a loan made under 
+    this section, then, notwithstanding section 407(b), the Governor of 
+    the telephone bank shall--
+            ``(i) use the full amount of the prepayment to repay 
+        obligations of the telephone bank issued pursuant to section 
+        407(b) before October 1, 1991, to the extent any such 
+        obligations are outstanding; and
+            ``(ii) in repaying the obligations, first repay the advances 
+        bearing the greatest rate of interest.''; and
+                (iii) by adding at the end the following new paragraphs:
+        ``(9) On request of any applicant for a loan under this section 
+    during any fiscal year, the Governor of the telephone bank shall--
+            ``(A) consider the application to be for a loan under this 
+        section and a loan under section 305(d)(2); and
+            ``(B) if the applicant is eligible for a loan, make a loan 
+        to the applicant under this section in an amount equal to the 
+        amount that bears the same ratio to the total amount of loans 
+        for which the applicant is eligible under this section and under 
+        section 305(d)(2), as the amount made available for loans under 
+        this section for the fiscal year bears to the total amount made 
+        available for loans under this section and under section 
+        305(d)(2) for the fiscal year.
+        ``(10) On request of any applicant who is eligible for a loan 
+    under this section for which funds are not available, the applicant 
+    shall be considered to have applied for a loan under section 
+    305(d)(2).''; and
+            (C) by adding at the end the following new subsection:
+    ``(e) Loans and advances made under this section on or after 
+November 5, 1990, shall bear interest at a rate determined under this 
+section, taking into account all assets and liabilities of the telephone 
+bank. This subsection shall not apply to loans obligated before the date 
+of enactment of this subsection. Funds are not authorized to be 
+appropriated to carry out this subsection until the funds are 
+appropriated in advance to carry out this subsection.''.
+    (b) Funding.--
+        (1) Limitations on authorization of appropriations.--Section 314 
+    of such Act (7 U.S.C. 940d) is amended to read as follows:
+
+``SEC. 314. LIMITATIONS ON AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) Definition of Adjustment Percentage.--As used in this section, 
+the term `adjustment percentage' means, with respect to a fiscal year, 
+the percentage (if any) by which--
+        ``(1) the average of the Consumer Price Index (as defined in 
+    section 1(f)(5) of the Internal Revenue Code of 1986) for the 1-year 
+    period ending on July 31 of the immediately preceding fiscal year; 
+    exceeds
+        ``(2) the average of the Consumer Price Index (as so defined) 
+    for the 1-year period ending on July 31, 1993.
+    ``(b) Fiscal Years 1994 Through 1998.--In the case of each of fiscal 
+years 1994 through 1998, there are authorized to be appropriated to the 
+Administrator such sums as may be necessary for the cost of loans in the 
+following amounts, for the following purposes:
+        ``(1) Electric hardship loans.--For loans under section 
+    305(c)(1)--
+            ``(A) for fiscal year 1994, $125,000,000; and
+            ``(B) for each of fiscal years 1995 through 1998, 
+        $125,000,000, increased by the adjustment percentage for the 
+        fiscal year.
+        ``(2) Electric municipal rate loans.--For loans under section 
+    305(c)(2)--
+            ``(A) for fiscal year 1994, $600,000,000; and
+            ``(B) for each of fiscal years 1995 through 1998, 
+        $600,000,000, increased by the adjustment percentage for the 
+        fiscal year.
+        ``(3) Telephone hardship loans.--For loans under section 
+    305(d)(1)--
+            ``(A) for fiscal year 1994, $125,000,000; and
+            ``(B) for each of fiscal years 1995 through 1998, 
+        $125,000,000, increased by the adjustment percentage for the 
+        fiscal year.
+        ``(4) Telephone cost-of-money loans.--For loans under section 
+    305(d)(2)--
+            ``(A) for fiscal year 1994, $198,000,000; and
+            ``(B) for each of fiscal years 1995 through 1998, 
+        $198,000,000, increased by the adjustment percentage for the 
+        fiscal year.
+    ``(c) Funding Levels.--The Administrator shall make insured loans 
+under this title for the purposes, in the amounts, and for the periods 
+of time specified in subsection (b), as provided in advance in 
+appropriations Acts.
+    ``(d) Availability of Funds for Insured Loans.--Amounts made 
+available for loans under section 305 are authorized to remain available 
+until expended.''.
+        (2) Rule of interpretation.--Section 309(a) of such Act (7 
+    U.S.C. 939(a)) is amended by adding at the end the following new 
+    sentence: ``The preceding sentence shall not be construed to make 
+    section 408(b)(2) or 412 applicable to this title.''.
+    (c) Miscellaneous Amendments.--
+        (1) Loans for rural electrification.--Section 2 of such Act (7 
+    U.S.C. 902) is amended--
+            (A) by inserting ``(a)'' before ``The Administrator'';
+            (B) by striking ``telephone service in rural areas, as 
+        hereinafter provided;'' and inserting ``electric and telephone 
+        service in rural areas, as provided in this Act, and for the 
+        purpose of assisting electric borrowers to implement demand side 
+        management, energy conservation programs, and on-grid and off-
+        grid renewable energy systems;''; and
+            (C) by adding at the end the following new subsection:
+    ``(b) By January 1, 1994, the Administrator shall issue interim 
+regulations to implement the authority contained in subsection (a) to 
+make loans for the purpose of assisting electric borrowers to implement 
+demand side management, energy conservation programs, and on-grid and 
+off-grid renewable energy systems. If the regulations are not issued by 
+January 1, 1994, the Administrator shall consider any demand side 
+management, energy conservation, or renewable energy program, system, or 
+activity that is approved by a State agency to be eligible for the 
+loans.''.
+        (2) Loans for electrical plants and transmission lines.--Section 
+    4 of such Act (7 U.S.C. 904) is amended by inserting after ``central 
+    station service'' the following: ``and for the furnishing and 
+    improving of electric service to persons in rural areas, including 
+    by assisting electric borrowers to implement demand side management, 
+    energy conservation programs, and on-grid and off-grid renewable 
+    energy systems''.
+        (3) Definitions.--Section 13 of such Act (7 U.S.C. 913) is 
+    amended--
+            (A) by inserting ``, except as provided in section 203(b),'' 
+        before ``shall be deemed to mean any area''; and
+            (B) by striking ``city, village, or borough having a 
+        population in excess of fifteen hundred inhabitants'' and 
+        inserting ``urban area, as defined by the Bureau of the 
+        Census''.
+        (4) General prohibitions.--Section 18 of such Act (7 U.S.C. 918) 
+    is amended--
+            (A) by inserting ``(a) No Consideration of Borrower's Level 
+        of General Funds.--'' before ``The Administrator''; and
+            (B) by adding at the end the following new subsections:
+    ``(b) Loan Origination Fees.--The Administrator and the Governor of 
+the telephone bank may not charge any fee or charge not expressly 
+provided in this Act in connection with any loan made or guaranteed 
+under this Act.
+    ``(c) Consultants.--
+        ``(1) In general.--To facilitate timely action on applications 
+    by borrowers for financial assistance under this Act and for 
+    approvals required of the Rural Electrification Administration 
+    pursuant to the terms of outstanding loan or security instruments or 
+    otherwise, the Administrator may use consultants funded by the 
+    borrower, paid for out of the general funds of the borrower, for 
+    financial, legal, engineering, and other technical advice and 
+    services in connection with the review of the application by the 
+    Rural Electrification Administration.
+        ``(2) Conflicts of interest.--The Administrator shall establish 
+    procedures for the selection and the provision of technical services 
+    by consultants to ensure that the consultants have no financial or 
+    other conflicts of interest in the outcome of the application of the 
+    borrower.
+        ``(3) Payment of costs.--The Administrator may not, without the 
+    consent of the borrower, require, as a condition of processing an 
+    application for approval, that the borrower agree to pay the costs, 
+    fees, and expenses of consultants hired to provide technical or 
+    advisory services to the Administrator.
+        ``(4) Contracts, grants, and agreements.--The Administrator may 
+    enter into such contracts, grants, or cooperative agreements as are 
+    necessary to carry out this section.
+        ``(5) Use of consultants.--Nothing in this subsection shall 
+    limit the authority of the Administrator to retain the services of 
+    consultants from funds made available to the Administrator or 
+    otherwise.''.
+        (5) Definition of rural area.--Section 203(b) of such Act (7 
+    U.S.C. 924(b)) is amended by striking ``one thousand five hundred'' 
+    and inserting ``5,000''.
+        (6) Insured loans.--Section 305 of such Act (7 U.S.C. 935) (as 
+    amended by subsection (a)(1)) is further amended--
+            (A) by striking ``Sec. 305. Insured Loans; Interest Rates 
+        and Lending Levels.--(a) The'' and inserting the following:
+
+``SEC. 305. INSURED LOANS; INTEREST RATES AND LENDING LEVELS.
+
+    ``(a) In General.--The''; and
+            (B) in subsection (b), by striking ``(b) Loans'' and 
+        inserting ``(b) Insured Loans.--Loans''.
+        (7) Eligibility of distribution borrowers; administrative 
+    prohibitions.--Title III of such Act is amended by inserting after 
+    section 306B (7 U.S.C. 936b) the following new sections:
+``SEC. 306D. ELIGIBILITY OF DISTRIBUTION BORROWERS FOR LOANS, LOAN 
+GUARANTEES, AND LIEN ACCOMMODATIONS.
+    ``For the purpose of determining the eligibility of a distribution 
+borrower not in default on the repayment of a loan made or guaranteed 
+under this Act for a loan, loan guarantee, or lien accommodation under 
+this title, a default by a borrower from which the distribution borrower 
+purchases wholesale power shall not--
+        ``(1) be considered a default by the distribution borrower;
+        ``(2) reduce the eligibility of the distribution borrower for 
+    assistance under this Act; or
+        ``(3) be the cause, directly or indirectly, of imposing any 
+    requirement or restriction on the borrower as a condition of the 
+    assistance, except such requirements or restrictions as are 
+    necessary to implement a debt restructuring agreed on by the power 
+    supply borrower and the Government.
+``SEC. 306E. ADMINISTRATIVE PROHIBITIONS APPLICABLE TO ELECTRIC 
+BORROWERS.
+    ``The Administrator may not require prior approval of, impose any 
+requirement, restriction, or prohibition with respect to the operations 
+of, or deny or delay the granting of a lien accommodation to, any 
+electric borrower under this Act whose net worth exceeds 110 percent of 
+the outstanding principal balance on all loans made or guaranteed to the 
+borrower by the Administrator.''.
+        (8) Loans from other credit sources.--Section 307 of such Act (7 
+    U.S.C. 937) is amended by adding at the end the following new 
+    sentence: ``The Administrator may not request any applicant for an 
+    electric loan under this Act to apply for and accept a loan in an 
+    amount exceeding 30 percent of the credit needs of the applicant.''.
+        (9) Capitalization.--Section 406 of such Act (7 U.S.C. 946) is 
+    amended by adding at the end the following new subsection:
+    ``(i) The Governor of the telephone bank may invest in obligations 
+of the United States the amounts in the account in the Treasury of the 
+United States numbered 12X8139 (known as the `RTB Equity Fund').''.
+        (10) Refinancing of ffb loans.--Section 306C of such Act is 
+    amended by--
+            (A) inserting before the period at the end of subsection 
+        (c)(2) the following: ``, except that such rate shall not be 
+        greater than 7 percent per year, subject to subsection (d)''; 
+        and
+            (B) adding at the end the following new subsection:
+    ``(d) Maximum Rate Option.--
+        ``(1) In general.--Except as provided in paragraphs (2), (3), 
+    and (4), a borrower of a loan or loan advance, or any portion of the 
+    loan or advance, that is refinanced under this section shall have 
+    the option of ensuring that the interest rate on such loan, loan 
+    advance, or portion thereof does not exceed 7 percent per year.
+        ``(2) Limitation.--A borrower may not exercise the option under 
+    paragraph (1) in the case of a loan or loan advance, or portion 
+    thereof, if the total amount of such loans for which such option 
+    would be exercised exceeds 50 percent of the outstanding principal 
+    balance of the loans made to such borrower and guaranteed under 
+    section 306.
+        ``(3) Fee.--A borrower that exercises the maximum rate option 
+    under paragraph (1) shall, at the time of exercising such option, 
+    pay a fee equal to 1 percent of the outstanding principal balance of 
+    such loan or loan advance, or portion thereof, for which such option 
+    is exercised. Such fee shall be in addition to the penalties and 
+    other payments required under subsection (b).
+        ``(4) Sunset.--The option provided under paragraph (1) shall not 
+    be available in the case of any loan or loan advance, or portion 
+    thereof, unless a written request to exercise such option is sent to 
+    the Administrator not later than 1 year after the effective date of 
+    regulations issued to carry out the Rural Electrification Loan 
+    Restructuring Act of 1993.''.
+SEC. 3. EXPANDED ELIGIBILITY FOR LOANS FOR WATER AND WASTE DISPOSAL 
+FACILITIES.
+    Section 306(a)(1) of the Consolidated Farm and Rural Development Act 
+(7 U.S.C. 1926(a)(1)) is amended by inserting after the first sentence 
+the following new sentence: ``The Secretary may also make loans to any 
+borrower to whom a loan has been made under the Rural Electrification 
+Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, 
+use, and control of water, and the installation of drainage or waste 
+disposal facilities, primarily serving farmers, ranchers, farm tenants, 
+farm laborers, rural businesses, and other rural residents.''.
+
+SEC. 4. RURAL ECONOMIC DEVELOPMENT.
+
+    Section 364 of the Consolidated Farm and Rural Development Act (7 
+U.S.C. 2006f) is amended by adding at the end the following new 
+subsection:
+    ``(g) Rural Economic Development.--
+        ``(1) In general.--A borrower of a loan or loan guarantee under 
+    the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) shall 
+    be eligible for assistance under all programs administered by the 
+    Rural Development Administration.
+        ``(2) Participation.--The Administrator of the Rural Development 
+    Administration shall encourage and facilitate the full and equal 
+    participation of all entities to participate in programs 
+    administered by the Rural Development Administration.''.
+
+SEC. 5. PROHIBITION UNDER RURAL DEVELOPMENT PROGRAMS.
+
+    The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et 
+seq.) is amended by adding at the end thereof the following new section:
+
+``SEC. 370. PROHIBITION UNDER RURAL DEVELOPMENT PROGRAMS.
+
+    ``(a) Prohibition.--Assistance under any rural development program 
+administered by the Rural Development Administration, the Farmers Home 
+Administration, the Rural Electrification Administration, or any other 
+agency of the Department of Agriculture shall not be conditioned on any 
+requirement that the recipient of such assistance accept or receive 
+electric service from any particular utility, supplier, or cooperative.
+    ``(b) Ensuring Compliance.--The Secretary shall establish, by 
+regulation, adequate safeguards to ensure that assistance under such 
+rural development programs is not subject to such a condition. Such 
+safeguards shall include periodic certifications and audits, and 
+appropriate measures and sanctions against any person violating, or 
+attempting to violate, the prohibition in subsection (a).
+    ``(c) Regulations.--Not later than 6 months after the enactment of 
+this section, the Secretary shall issue interim final regulations to 
+ensure compliance with subsection (a).''.
+
+SEC. 6. REGULATIONS.
+
+    Except as provided in section 2(b) of the Rural Electrification Act 
+of 1936 and section 370 of the Consolidated Farm and Rural Development 
+Act, as added by sections 2(c)(1)(C) and 5 of this Act, not later than 
+45 days after the date of enactment of this Act, interim final 
+regulations shall be issued by--
+        (1) the Administrator of the Rural Electrification 
+    Administration to carry out the amendments made by this Act to 
+    programs administered by the Administrator;
+        (2) the Administrator of the Rural Development Administration to 
+    carry out the amendments made by this Act to programs administered 
+    by the Administrator; and
+        (3) the Secretary of Agriculture to carry out the amendments 
+    made by this Act to programs administered by the Farmers Home 
+    Administration.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

@@ -1,0 +1,402 @@
+ 
+--S.756--
+S.756
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend title 17, United States Code, the copyright renewal provisions, and
+for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Copyright Amendments Act of 1992'.
+TITLE I--RENEWAL OF COPYRIGHT
+SEC. 101. SHORT TITLE.
+ This title may be referred to as the `Copyright Renewal Act of 1992'.
+SEC. 102. COPYRIGHT RENEWAL PROVISIONS.
+ (a) DURATION OF COPYRIGHT: SUBSISTING COPYRIGHTS- Section 304(a) of title
+ 17, United States Code, is amended to read as follows:
+ `(a) COPYRIGHTS IN THEIR FIRST TERM ON JANUARY 1, 1978- (1)(A) Any copyright,
+ the first term of which is subsisting on January 1, 1978, shall endure for
+ 28 years from the date it was originally secured.
+ `(B) In the case of--
+ `(i) any posthumous work or of any periodical, cyclopedic, or other composite
+ work upon which the copyright was originally secured by the proprietor
+ thereof, or
+ `(ii) any work copyrighted by a corporate body (otherwise than as assignee
+ or licensee of the individual author) or by an employer for whom such work
+ is made for hire,
+the proprietor of such copyright shall be entitled to a renewal and extension
+of the copyright in such work for the further term of 47 years.
+ `(C) In the case of any other copyrighted work, including a contribution by an
+ individual author to a periodical or to a cyclopedic or other composite work--
+ `(i) the author of such work, if the author is still living,
+ `(ii) the widow, widower, or children of the author, if the author is
+ not living,
+ `(iii) the author's executors, if such author, widow, widower, or children
+ are not living, or
+ `(iv) the author's next of kin, in the absence of a will of the author,
+shall be entitled to a renewal and extension of the copyright in such work
+for a further term of 47 years.
+ `(2)(A) At the expiration of the original term of copyright in a work
+ specified in paragraph (1)(B) of this subsection, the copyright shall endure
+ for a renewed and extended further term of 47 years, which--
+ `(i) if an application to register a claim to such further term has been
+ made to the Copyright Office within 1 year before the expiration of the
+ original term of copyright, and the claim is registered, shall vest, upon
+ the beginning of such further term, in the proprietor of the copyright who
+ is entitled to claim the renewal of copyright at the time the application
+ is made; or
+ `(ii) if no such application is made or the claim pursuant to such application
+ is not registered, shall vest, upon the beginning of such further term,
+ in the person or entity that was the proprietor of the copyright as of the
+ last day of the original term of copyright.
+ `(B) At the expiration of the original term of copyright in a work specified
+ in paragraph (1)(C) of this subsection, the copyright shall endure for a
+ renewed and extended further term of 47 years, which--
+ `(i) if an application to register a claim to such further term has been
+ made to the Copyright Office within 1 year before the expiration of the
+ original term of copyright, and the claim is registered, shall vest, upon
+ the beginning of such further term, in any person who is entitled under
+ paragraph (1)(C) to the renewal and extension of the copyright at the time
+ the application is made; or
+ `(ii) if no such application is made or the claim pursuant to such application
+ is not registered, shall vest, upon the beginning of such further term,
+ in any person entitled under paragraph (1)(C), as of the last day of the
+ original term of copyright, to the renewal and extension of the copyright.
+ `(3)(A) An application to register a claim to the renewed and extended term
+ of copyright in a work may be made to the Copyright Office--
+ `(i) within 1 year before the expiration of the original term of copyright
+ by any person entitled under paragraph (1) (B) or (C) to such further term
+ of 47 years; and
+ `(ii) at any time during the renewed and extended term by any person in
+ whom such further term vested, under paragraph (2) (A) or (B), or by any
+ successor or assign of such person, if the application is made in the name
+ of such person.
+ `(B) Such an application is not a condition of the renewal and extension
+ of the copyright in a work for a further term of 47 years.
+ `(4)(A) If an application to register a claim to the renewed and extended
+ term of copyright in a work is not made within 1 year before the expiration
+ of the original term of copyright in a work, or if the claim pursuant to
+ such application is not registered, then a derivative work prepared under
+ authority of a grant of a transfer or license of the copyright that is made
+ before the expiration of the original term of copyright may continue to be
+ used under the terms of the grant during the renewed and extended term of
+ copyright without infringing the copyright, except that such use does not
+ extend to the preparation during such renewed and extended term of other
+ derivative works based upon the copyrighted work covered by such grant.
+ `(B) If an application to register a claim to the renewed and extended
+ term of copyright in a work is made within 1 year before its expiration,
+ and the claim is registered, the certificate of such registration shall
+ constitute prima facie evidence as to the validity of the copyright during
+ its renewed and extended term and of the facts stated in the certificate. The
+ evidentiary weight to be accorded the certificates of a registration of a
+ renewed and extended term of copyright made after the end of that 1-year
+ period shall be within the discretion of the court.'.
+ (b) REGISTRATION- (1) Section 409 of title 17, United States Code, is
+ amended by adding at the end the following:
+`If an application is submitted for the renewed and extended term provided
+for in section 304(a)(3)(A) and an original term registration has not been
+made, the Register may request information with respect to the existence,
+ownership, or duration of the copyright for the original term.'.
+ (2) Section  101 of title 17, United States Code, is amended by inserting
+ after the definition of `publication' the following:
+ `Registration', for purposes of sections 205(c)(2), 405, 406, 410(d), 411,
+ 412, and 506(e), means a registration of a claim in the original or the
+ renewed and extended term of copyright.'.
+ (c) LEGAL EFFECT OF RENEWAL OF COPYRIGHT UNCHANGED- The renewal and extension
+ of a copyright for a further term of 47 years provided for under paragraphs
+ (1) and (2) of section 304(a) of title 17, United States Code (as amended by
+ subsection (a) of this section) shall have the same effect with respect to any
+ grant, before the effective date of this section, of a transfer or license
+ of the further term as did the renewal of a copyright before the effective
+ date of this section under the law in effect at the time of such grant.
+ (d) CONFORMING AMENDMENT- Section 304(c) of title 17, United States Code,
+ is amended in the matter preceding paragraph (1) by striking `second proviso
+ of subsection (a)' and inserting `subsection (a)(1)(C)'.
+ (e) REGISTRATION PERMISSIVE- Section 408(a) of title 17, United States Code,
+ is amended by striking `At' and all that follows through `unpublished work,'
+ and inserting `At any time during the subsistence of the first term of
+ copyright in any published or unpublished work in which the copyright was
+ secured before January 1, 1978, and during the subsistence of any copyright
+ secured on or after that date,'.
+ (f) COPYRIGHT OFFICE FEES- Section 708(a)(2) of title 17, United States Code,
+ is amended--
+ (1) by striking `in its first term'; and
+ (2) by striking `$12' and inserting `$20'.
+ (g) EFFECTIVE DATE; COPYRIGHTS AFFECTED BY AMENDMENT- (1) Subject to
+ paragraphs (2) and (3), this section and the amendments made by this section
+ shall take effect on the date of the enactment of this Act.
+ (2) The amendments made by this section shall apply only to those copyrights
+ secured between January 1, 1964, and December 31, 1977. Copyrights secured
+ before January 1, 1964, shall be governed by the provisions of section 304(a)
+ of title 17, United States Code, as in effect on the day before the effective
+ date of this section.
+ (3) This section and the amendments made by this section shall not affect
+ any court proceedings pending on the effective date of this section.
+TITLE II--NATIONAL FILM PRESERVATION
+SEC. 201. SHORT TITLE.
+ This title may be cited as the `National Film Preservation Act of 1992'.
+SEC. 202. NATIONAL FILM REGISTRY OF THE LIBRARY OF CONGRESS.
+ The Librarian of Congress (hereinafter in this title referred to as the
+ `Librarian') shall establish a National Film Registry pursuant to the
+ provisions of this title, for the purpose of maintaining and preserving
+ films that are culturally, historically, or aesthetically significant.
+SEC. 203. DUTIES OF THE LIBRARIAN OF CONGRESS.
+ (a) STUDY OF FILM PRESERVATION- (1) The Librarian shall, after consultation
+ with the Board established pursuant to section 204, conduct a study on the
+ current state of film preservation and restoration activities, including
+ the activities of the Library of Congress and the other major film archives
+ in the United States. The Librarian shall, in conducting the study--
+ (A) take into account the objectives of the national film preservation
+ program set forth in clauses (i) through (iii) of subsection (b)(1)(A); and
+ (B) consult with film archivists, educators and historians, copyright owners,
+ film industry representatives, including those involved in the preservation
+ of film, and others involved in activities related to film preservation.
+The study shall include an examination of the concerns of private organizations
+and individuals involved in the collection and use of abandoned films such
+as training, educational, and other historically important films.
+ (2) Not later than 1 year after the date of the enactment of this Act, the
+ Librarian shall submit to the Congress a report containing the results of
+ the study conducted under paragraph (1).
+ (b) POWERS- (1) The Librarian shall, after consultation with the Board,
+ do the following:
+ (A) After completion of the study required by subsection (a), the Librarian
+ shall, taking into account the results of the study, establish a comprehensive
+ national film preservation program for motion pictures, in conjunction
+ with other film archivists and copyright owners. The objectives of such a
+ program shall include--
+ (i) coordinating activities to assure that efforts of archivists and
+ copyright owners, and others in the public and private sector, are effective
+ and complementary;
+ (ii) generating public awareness of and support for those activities; and
+ (iii) increasing accessibility of films for educational purposes, and
+ improving nationwide activities in the preservation of works in other media
+ such as videotape.
+ (B) The Librarian shall establish guidelines and procedures under which
+ films may be included in the National Film Registry, except that no film
+ shall be eligible for inclusion in the National Film Registry until 10
+ years after such film's first publication.
+ (C) The Librarian shall establish procedures under which the general public
+ may make recommendations to the Board regarding the inclusion of films in
+ the National Film Registry.
+ (D) The Librarian shall establish procedures for the examination by the
+ Librarian of prints of films named for inclusion in the National Film
+ Registry to determine their eligibility for the use of the seal of the
+ National Film Registry under paragraph (3).
+ (E) The Librarian shall determine which films satisfy the criteria established
+ under subparagraph (B) and qualify for inclusion in the National Film
+ Registry, except that the Librarian shall not select more than 25 films
+ each year for inclusion in the Registry.
+ (2) The Librarian shall publish in the Federal Register the name of each
+ film that is selected for inclusion in the National Film Registry.
+ (3) The Librarian shall provide a seal to indicate that a film has been
+ included in the National Film Registry and is the Registry version of
+ that film.
+ (4) The Librarian shall publish in the Federal Register the criteria used
+ to determine the Registry version of a film.
+ (5) The Librarian shall submit to the Congress a report, not less than once
+ every two years, listing films included in the National Film Registry and
+ describing the activities of the Board.
+ (c) SEAL- The seal provided under subsection (b)(3) may be used on any
+ copy of the Registry version of a film. Such seal may be used only after
+ the Librarian has examined and approved the print from which the copy was
+ made. In the case of copyrighted works, only the copyright owner or an
+ authorized licensee of the copyright may place or authorize the placement
+ of the seal on a copy of a film selected for inclusion in the National
+ Film Registry, and the Librarian may place the seal on any print or copy
+ of the film that is maintained in the National Film Registry Collection
+ of the Library of Congress. The person authorized to place the seal on a
+ copy of a film selected for inclusion in the National Film Registry may
+ accompany such seal with the following language: `This film is included in
+ the National Film Registry, which is maintained by the Library of Congress,
+ and was preserved under the National Film Preservation Act of 1992.'.
+ (d) DEVELOPMENT OF STANDARDS- The Librarian shall develop standards or
+ guidelines by which to assess the preservation or restoration of films that
+ will qualify films for use of the seal under this section.
+SEC. 204. NATIONAL FILM PRESERVATION BOARD.
+ (a) NUMBER AND APPOINTMENT- (1) The Librarian shall establish in the
+ Library of Congress a National Film Preservation Board to be comprised
+ of up to 18 members, who shall be selected by the Librarian in accordance
+ with the provisions of this section. Subject to subparagraphs (C) and (O),
+ the Librarian shall request each organization listed in subparagraphs (A)
+ through (P) to submit to the Librarian a list of not less than 3 candidates
+ qualified to serve as a member of the Board. Except for the members-at-large
+ appointed under paragraph (2), the Librarian shall appoint 1 member from
+ each such list submitted by such organizations, and shall designate from
+ that list an alternate who may attend those meetings to which the individual
+ appointed to the Board cannot attend. The organizations are the following:
+ (A) The Academy of Motion Pictures Arts and Sciences.
+ (B) The Directors Guild of America.
+ (C) The Writers Guild of America. The Writers Guild of America East and the
+ Writers Guild of America West shall each nominate not less than 3 candidates,
+ and a representative from 1 such organization shall be selected as the
+ member and a representative from the other such organization as the alternate.
+ (D) The National Society of Film Critics.
+ (E) The Society for Cinema Studies.
+ (F) The American Film Institute.
+ (G) The Department of Theatre, Film and Television of the College of Fine
+ Arts at the University of California, Los Angeles.
+ (H) The Department of Film and Television of the Tisch School of the Arts
+ at New York University.
+ (I) The University Film and Video Association.
+ (J) The Motion Picture Association of America.
+ (K) The National Association of Broadcasters.
+ (L) The Alliance of Motion Picture and Television Producers.
+ (M) The Screen Actors Guild of America.
+ (N) The National Association of Theater Owners.
+ (O) The American Society of Cinematographers and the International
+ Photographers Guild, which shall jointly submit 1 list of candidates from
+ which a member and alternate will be selected.
+ (P) The United States members of the International Federation of Film
+ Archives.
+ (2) In addition to the Members appointed under paragraph (1), the Librarian
+ shall appoint up to 2 members-at-large. The Librarian shall select the
+ at-large members from names submitted by organizations in the film industry,
+ creative artists, producers, film critics, film preservation organizations,
+ academic institutions with film study programs, and others with knowledge of
+ copyright law and of the importance, use, and dissemination of films. The
+ Librarian shall, in selecting 1 such member-at-large, give preference
+ to individuals who are responsible for commercial film libraries. The
+ Librarian shall also select from the names submitted under this paragraph
+ an alternate for each member-at-large, who may attend those meetings to
+ which the member-at-large cannot attend.
+ (b) CHAIRPERSON- The Librarian shall appoint 1 member of the Board to serve
+ as Chairperson.
+ (c) TERM OF OFFICE- (1) The term of each member of the Board shall be 3
+ years, except that there shall be no limit to the number of terms that any
+ individual member may serve.
+ (2) A vacancy in the Board shall be filled in the manner in which the original
+ appointment was made under subsection (a), except that the Librarian may
+ fill the vacancy from a list of candidates previously submitted by the
+ organization or organizations involved. Any member appointed to fill a
+ vacancy before the expiration of the term for which his or her predecessor
+ was appointed shall be appointed only for the remainder of such term.
+ (d) QUORUM- 9 members of the Board shall constitute a quorum but a lesser
+ number may hold hearings.
+ (e) BASIC PAY- Members of the Board shall serve without pay. While away from
+ their home or regular places of business in the performance of functions of
+ the Board, members of the Board shall be allowed travel expenses, including
+ per diem in lieu of subsistence, in the same manner as persons employed
+ intermittently in Government service are allowed expenses under section
+ 5701 of title 5, United States Code.
+ (f) MEETINGS- The Board shall meet at least once each calendar year. Meetings
+ shall be at the call of the Librarian.
+ (g) CONFLICT OF INTEREST- The Librarian shall establish rules and procedures
+ to address any potential conflict of interest between a member of the Board
+ and the responsibilities of the Board.
+SEC. 205. RESPONSIBILITIES AND POWERS OF BOARD.
+ (a) IN GENERAL- The Board shall review nominations of films submitted to
+ it for inclusion in the National Film Registry and shall consult with the
+ Librarian, as provided in section 203, with respect to the inclusion of
+ such films in the Registry and the preservation of these and other films
+ that are culturally, historically, or aesthetically significant.
+ (b) NOMINATION OF FILMS- The Board shall consider, for inclusion in the
+ National Film Registry, nominations submitted by the general public as well
+ as representatives of the film industry, such as the guilds and societies
+ representing actors, directors, screenwriters, cinematographers and other
+ creative artists, producers, film critics, film preservation organizations,
+ and representatives of academic institutions with film study programs. The
+ Board shall nominate not more than 25 films each year for inclusion in
+ the Registry.
+ (c) GENERAL POWERS- The Board may, for the purpose of carrying out its
+ duties, hold such hearings, sit and act at such times and places, take
+ such testimony, and receive such evidence, as the Librarian and the Board
+ considers appropriate.
+SEC. 206. NATIONAL FILM REGISTRY COLLECTION OF THE LIBRARY OF CONGRESS.
+ (a) ACQUISITION OF ARCHIVAL QUALITY COPIES- The Librarian shall endeavor to
+ obtain, by gift from the owner, an archival quality copy of the Registry
+ version of each film included in the National Film Registry. Whenever
+ possible, the Librarian shall endeavor to obtain the best surviving materials,
+ including preprint materials.
+ (b) ADDITIONAL MATERIALS- The Librarian shall endeavor to obtain, for
+ educational and research purposes, additional materials related to each
+ film included in the National Film Registry, such as background materials,
+ production reports, shooting scripts (including continuity scripts) and
+ other similar materials.
+ (c) PROPERTY OF UNITED STATES- All copies of films on the National Film
+ Registry that are received by the Librarian and other materials received by
+ the Librarian under subsection (b) shall become the property of the United
+ States Government, subject to the provisions of title 17, United States Code.
+ (d) NATIONAL FILM REGISTRY COLLECTION- All copies of films on the National
+ Film Registry that are received by the Librarian and other materials
+ received by the Librarian under subsection (b) shall be maintained in a
+ special collection in the Library of Congress to be known as the `National
+ Film Registry Collection of the Library of Congress'. The Librarian shall,
+ by regulation, and in accordance with title 17, United States Code,
+ provide for reasonable access to films in such collection for scholarly
+ and research purposes.
+SEC. 207. SEAL OF THE NATIONAL FILM REGISTRY.
+ (a) USE OF THE SEAL- (1) No person shall knowingly distribute or exhibit
+ to the public a version of a film which bears the seal described in section
+ 203(b)(3) if such film--
+ (A) is not included in the National Film Registry; or
+ (B) is included in the National Film Registry, but such copy was not made
+ from a print that was examined and approved for the use of the seal by the
+ Librarian under section 203(c).
+ (2) No person shall knowingly use the seal described in section 203(b)(3)
+ to promote any version of a film other than a Registry version.
+ (b) EFFECTIVE DATE OF THE SEAL- The use of the seal described in section
+ 203(b)(3) shall be effective for each film after the Librarian publishes
+ in the Federal Register the name of that film as selected for inclusion in
+ the National Film Registry.
+SEC. 208. REMEDIES.
+ (a) JURISDICTION- The several district courts of the United States shall
+ have jurisdiction, for cause shown, to prevent and restrain violations of
+ section 207(a).
+ (b) RELIEF- (1) Except as provided in paragraph (2), relief for a violation
+ of section 207(a) shall be limited to the removal of the seal of the National
+ Film Registry from the film involved in the violation.
+ (2) In the case of a pattern or practice of the willful violation of section
+ 207(a), the United States district courts may order a civil fine of not
+ more than $10,000 and appropriate injunctive relief.
+SEC. 209. LIMITATIONS OF REMEDIES.
+ The remedies provided in section 208 shall be the exclusive remedies under
+ this title, or any other Federal or State law, regarding the use of the
+ seal described in section 203(b)(3).
+SEC. 210. STAFF OF BOARD; EXPERTS AND CONSULTANTS.
+ (a) STAFF- The Librarian may appoint and fix the pay of such personnel as
+ the Librarian considers appropriate to carry out this title.
+ (b) EXPERTS AND CONSULTANTS- The Librarian may, in carrying out this
+ title, procure temporary and intermittent services under section 3109(b)
+ of title 5, United States Code, but at rates for individuals not to exceed
+ the daily equivalent of the maximum rate of basic pay payable for GS-15 of
+ the General Schedule. In no case may a member of the Board be paid as an
+ expert or consultant under such section.
+SEC. 211. DEFINITIONS.
+ As used in this title--
+ (1) the term `Librarian' means the Librarian of Congress;
+ (2) the term `Board' means the National Film Preservation Board;
+ (3) the term `film' means a `motion picture' as defined in section 101 of
+ title 17, United States Code, except that such term does not include any
+ work not originally fixed on film stock, such as a work fixed on videotape
+ or laser disks;
+ (4) the term `publication' means `publication' as defined in section 101
+ of title 17, United States Code; and
+ (5) the term `Registry version' means, with respect to a film, the version
+ of the film first published, or as complete a version as the bona fide
+ preservation and restoration activities by the Librarian, an archivist other
+ than the Librarian, or the copyright owner can compile in those cases where
+ the original material has been irretrievably lost.
+SEC. 212. AUTHORIZATION OF APPROPRIATIONS.
+ There are authorized to be appropriated to the Librarian such sums as are
+ necessary to carry out the provisions of this title, but in no fiscal year
+ shall such sum exceed $250,000.
+SEC. 213. EFFECTIVE DATE.
+ The provisions of this title shall be effective for four years beginning on
+ the date of the enactment of this Act. The provisions of this title shall
+ apply to any copy of any film, including those copies of films selected for
+ inclusion in the National Film Registry under the National Film Preservation
+ Act of 1988, except that any film so selected under such Act shall be deemed
+ to have been selected for the  National Film Registry under this title.
+SEC. 214. REPEAL.
+ The National Film Preservation Act of 1988 (2 U.S.C. 178 and following)
+ is repealed.
+TITLE III--OTHER COPYRIGHT PROVISIONS
+SEC. 301. REPEAL OF COPYRIGHT REPORT TO CONGRESS.
+ Section 108(i) of title 17, United States Code, is repealed.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

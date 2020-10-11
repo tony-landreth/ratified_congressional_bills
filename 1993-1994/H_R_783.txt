@@ -1,0 +1,1100 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 783 Enrolled Bill (ENR)]
+
+        H.R.783
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend title III of the Immigration and Nationality Act to make 
+changes in the laws relating to nationality and naturalization.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Immigration and Nationality 
+Technical Corrections Act of 1994''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents of this Act is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+
+                 TITLE I--NATIONALITY AND NATURALIZATION
+
+Sec. 101. Equal treatment of women in conferring citizenship to children 
+          born abroad.
+Sec. 102. Naturalization of children on application of citizen parent.
+Sec. 103. Former citizens of United States regaining United States 
+          citizenship.
+Sec. 104. Intent to reside permanently in the United States after 
+          naturalization.
+Sec. 105. Terminology relating to expatriation.
+Sec. 106. Administrative and judicial determinations relating to loss of 
+          citizenship.
+Sec. 107. Cancellation of United States passports and consular reports 
+          of birth.
+Sec. 108. Expanding waiver of the Government knowledge, United States 
+          history, and English language requirements for naturalization.
+Sec. 109. Report on citizenship of certain legalized aliens.
+
+           TITLE II--TECHNICAL CORRECTIONS OF IMMIGRATION LAWS
+
+Sec. 201. American Institute in Taiwan.
+Sec. 202. G-4 special immigrants.
+Sec. 203. Clarification of certain grounds for exclusion and 
+          deportation.
+Sec. 204. United States citizens entering and departing on United States 
+          passports.
+Sec. 205. Applications for visas.
+Sec. 206. Family unity.
+Sec. 207. Technical amendment regarding one-house veto.
+Sec. 208. Authorization of appropriations for refugee assistance for 
+          fiscal years 1995, 1996, and 1997.
+Sec. 209. Fines for unlawful bringing of aliens into the United States.
+Sec. 210. Extension of visa waiver pilot program.
+Sec. 211. Creation of probationary status for participant countries in 
+          the visa waiver pilot program.
+Sec. 212. Technical changes to numerical limitations concerning certain 
+          special immigrants.
+Sec. 213. Extension of telephone employment verification system.
+Sec. 214. Extension of expanded definition of special immigrant for 
+          religious workers.
+Sec. 215. Extension of off-campus work authorization for students.
+Sec. 216. Eliminating obligation of carriers to detain stowaways.
+Sec. 217. Completing use of visas provided under diversity transition 
+          program.
+Sec. 218. Effect on preference date of application for labor 
+          certification.
+Sec. 219. Other miscellaneous and technical corrections to immigration-
+          related provisions.
+Sec. 220. Waiver of foreign country residence requirement with respect 
+          to international medical graduates.
+Sec. 221. Visas for officials of Taiwan.
+Sec. 222. Expansion of definition of aggravated felony.
+Sec. 223. Summary deportation.
+Sec. 224. Judicial deportation.
+Sec. 225. Construction of expedited deportation requirements.
+
+                TITLE I--NATIONALITY AND NATURALIZATION
+
+    SEC. 101. EQUAL TREATMENT OF WOMEN IN CONFERRING CITIZENSHIP TO 
+      CHILDREN BORN ABROAD.
+    (a) In General.--Section 301 of the Immigration and Nationality Act 
+(8 U.S.C. 1401) is amended--
+        (1) by striking the period at the end of paragraph (g) and 
+    inserting ``; and'', and
+        (2) by adding at the end the following new paragraph:
+        ``(h) a person born before noon (Eastern Standard Time) May 24, 
+    1934, outside the limits and jurisdiction of the United States of 
+    an alien father and a mother who is a citizen of the United States 
+    who, prior to the birth of such person, had resided in the United 
+    States.''.
+    (b) Waiver of Retention Requirements.--Any provision of law 
+(including section 301(b) of the Immigration and Nationality Act (as in 
+effect before October 10, 1978), and the provisos of section 201(g) of 
+the Nationality Act of 1940) that provided for a person's loss of 
+citizenship or nationality if the person failed to come to, or reside 
+or be physically present in, the United States shall not apply in the 
+case of a person claiming United States citizenship based on such 
+person's descent from an individual described in section 301(h) of the 
+Immigration and Nationality Act (as added by subsection (a)).
+    (c) Retroactive Application.--(1) Except as provided in paragraph 
+(2), the immigration and nationality laws of the United States shall be 
+applied (to persons born before, on, or after the date of the enactment 
+of this Act) as though the amendment made by subsection (a), and 
+subsection (b), had been in effect as of the date of their birth, 
+except that the retroactive application of the amendment and that 
+subsection shall not affect the validity of citizenship of anyone who 
+has obtained citizenship under section 1993 of the Revised Statutes (as 
+in effect before the enactment of the Act of May 24, 1934 (48 Stat. 
+797)).
+    (2) The retroactive application of the amendment made by subsection 
+(a), and subsection (b), shall not confer citizenship on, or affect the 
+validity of any denaturalization, deportation, or exclusion action 
+against, any person who is or was excludable from the United States 
+under section 212(a)(3)(E) of the Immigration and Nationality Act (8 
+U.S.C. 1182(a)(3)(E)) (or predecessor provision) or who was excluded 
+from, or who would not have been eligible for admission to, the United 
+States under the Displaced Persons Act of 1948 or under section 14 of 
+the Refugee Relief Act of 1953.
+    (d) Application to Transmission of Citizenship.--This section, the 
+amendments made by this section, and any retroactive application of 
+such amendments shall not effect any residency or other retention 
+requirements for citizenship as in effect before October 10, 1978, with 
+respect to the transmission of citizenship.
+    SEC. 102. NATURALIZATION OF CHILDREN ON APPLICATION OF CITIZEN 
+      PARENT.
+    (a) In General.--Section 322 of the Immigration and Nationality Act 
+(8 U.S.C. 1433) is amended to read as follows:
+
+
+   ``child born outside the united states; application for certificate 
+                      of citizenship requirements
+
+    ``Sec. 322. (a) A parent who is a citizen of the United States may 
+apply to the Attorney General for a certificate of citizenship on 
+behalf of a child born outside the United States. The Attorney General 
+shall issue such a certificate of citizenship upon proof to the 
+satisfaction of the Attorney General that the following conditions have 
+been fulfilled:
+        ``(1) At least one parent is a citizen of the United States, 
+    whether by birth or naturalization.
+        ``(2) The child is physically present in the United States 
+    pursuant to a lawful admission.
+        ``(3) The child is under the age of 18 years and in the legal 
+    custody of the citizen parent.
+        ``(4) If the citizen parent is an adoptive parent of the child, 
+    the child was adopted by the citizen parent before the child 
+    reached the age of 16 years and the child meets the requirements 
+    for being a child under subparagraph (E) or (F) of section 
+    101(b)(1).
+        ``(5) If the citizen parent has not been physically present in 
+    the United States or its outlying possessions for a period or 
+    periods totaling not less than five years, at least two of which 
+    were after attaining the age of fourteen years--
+            ``(A) the child is residing permanently in the United 
+        States with the citizen parent, pursuant to a lawful admission 
+        for permanent residence, or
+            ``(B) a citizen parent of the citizen parent has been 
+        physically present in the United States or its outlying 
+        possessions for a period or periods totaling not less than five 
+        years, at least two of which were after attaining the age of 
+        fourteen years.
+    ``(b) Upon approval of the application (which may be filed abroad) 
+and, except as provided in the last sentence of section 337(a), upon 
+taking and subscribing before an officer of the Service within the 
+United States to the oath of allegiance required by this Act of an 
+applicant for naturalization, the child shall become a citizen of the 
+United States and shall be furnished by the Attorney General with a 
+certificate of citizenship.
+    ``(c) Subsection (a) of this section shall apply to the adopted 
+child of a United States citizen adoptive parent if the conditions 
+specified in such subsection have been fulfilled.''.
+    (b) Conforming Amendment.--Subsection (c) of section 341 of such 
+Act (8 U.S.C. 1452) is repealed.
+    (c) Clerical Amendment.--The item in the table of contents of such 
+Act relating to section 322 is amended to read as follows:
+``Sec. 322. Child born outside the United States; application for 
+          certificate of citizenship requirements.''.
+
+    (d) Effective Date.--The amendments made by this section shall take 
+effect on the first day of the first month beginning more than 120 days 
+after the date of the enactment of this Act.
+    SEC. 103. FORMER CITIZENS OF UNITED STATES REGAINING UNITED STATES 
+      CITIZENSHIP.
+    (a) In General.--Section 324 of the Immigration and Nationality Act 
+(8 U.S.C. 1435) is amended by adding at the end the following new 
+subsection:
+    ``(d)(1) A person who was a citizen of the United States at birth 
+and lost such citizenship for failure to meet the physical presence 
+retention requirements under section 301(b) (as in effect before 
+October 10, 1978), shall, from and after taking the oath of allegiance 
+required by section 337 be a citizen of the United States and have the 
+status of a citizen of the United States by birth, without filing an 
+application for naturalization, and notwithstanding any of the other 
+provisions of this title except the provisions of section 313. Nothing 
+in this subsection or any other provision of law shall be construed as 
+conferring United States citizenship retroactively upon such person 
+during any period in which such person was not a citizen.
+    ``(2) The provisions of paragraphs (2) and (3) of subsection (c) 
+shall apply to a person regaining citizenship under paragraph (1) in 
+the same manner as they apply under subsection (c)(1).''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the first day of the first month beginning more than 120 
+days after the date of the enactment of this Act.
+    SEC. 104. INTENT TO RESIDE PERMANENTLY IN THE UNITED STATES AFTER 
+      NATURALIZATION.
+    (a) In General.--Section 338 of the Immigration and Nationality Act 
+(8 U.S.C. 1449) is amended by striking ``intends to reside permanently 
+in the United States, except in cases falling within the provisions of 
+section 324(a) of this title,''.
+    (b) Conforming Repeal.--Section 340(d) of such Act (8 U.S.C. 
+1451(d)) is repealed.
+    (c) Conforming Redesignation.--Section 340 of such Act (8 U.S.C. 
+1451) is amended--
+        (1) by redesignating subsections (e), (f), (g), (h), and (i) as 
+    subsections (d), (e), (f), (g), and (h), respectively; and
+        (2) in subsection (d) (as redesignated), by striking 
+    ``subsections (c) or (d)'' and inserting ``subsection (c)''.
+    (d) Conforming Amendment.--Section 405 of the Immigration Act of 
+1990 is amended by striking subsection (b).
+    (e) Effective Date.--The amendment made by subsection (a) shall 
+apply to persons admitted to citizenship on or after the date of 
+enactment of this Act.
+
+SEC. 105. TERMINOLOGY RELATING TO EXPATRIATION.
+
+    (a) In General.--Section 351 of the Immigration and Nationality Act 
+(8 U.S.C. 1483) is amended--
+        (1) in the heading, by striking ``expatriation'' and inserting 
+    ``loss of nationality'';
+        (2) in subsection (a)--
+            (A) by striking ``expatriate himself, or be expatriated'' 
+        and inserting ``lose United States nationality'', and
+            (B) by striking ``expatriation'' and inserting ``loss of 
+        nationality''; and
+        (3) in subsection (b), by striking ``expatriated himself'' and 
+    inserting ``lost United States nationality''.
+    (b) Clerical Amendment.--The item in the table of contents of such 
+Act relating to section 351 is amended to read as follows:
+``Sec. 351. Restrictions on loss of nationality.''.
+    SEC. 106. ADMINISTRATIVE AND JUDICIAL DETERMINATIONS RELATING TO 
+      LOSS OF CITIZENSHIP.
+    Section 358 of the Immigration and Nationality Act (8 U.S.C. 1501) 
+is amended by adding at the end the following new sentence: ``Approval 
+by the Secretary of State of a certificate under this section shall 
+constitute a final administrative determination of loss of United 
+States nationality under this Act, subject to such procedures for 
+administrative appeal as the Secretary may prescribe by regulation, and 
+also shall constitute a denial of a right or privilege of United States 
+nationality for purposes of section 360.''.
+    SEC. 107. CANCELLATION OF UNITED STATES PASSPORTS AND CONSULAR 
+      REPORTS OF BIRTH.
+    (a) In General.--Title III of the Immigration and Nationality Act 
+is amended by adding at the end the following new section:
+
+
+    ``CANCELLATION OF UNITED STATES PASSPORTS AND CONSULAR REPORTS OF 
+                                 BIRTH
+
+    ``Sec. 361. (a) The Secretary of State is authorized to cancel any 
+United States passport or Consular Report of Birth, or certified copy 
+thereof, if it appears that such document was illegally, fraudulently, 
+or erroneously obtained from, or was created through illegality or 
+fraud practiced upon, the Secretary. The person for or to whom such 
+document has been issued or made shall be given, at such person's last 
+known address, written notice of the cancellation of such document, 
+together with the procedures for seeking a prompt post-cancellation 
+hearing. The cancellation under this section of any document purporting 
+to show the citizenship status of the person to whom it was issued 
+shall affect only the document and not the citizenship status of the 
+person in whose name the document was issued.
+    ``(b) For purposes of this section, the term `Consular Report of 
+Birth' refers to the report, designated as a `Report of Birth Abroad of 
+a Citizen of the United States', issued by a consular officer to 
+document a citizen born abroad.''.
+    (b) Clerical Amendment.--The table of contents is amended by 
+inserting after the item relating to section 360 the following new 
+item:
+``Sec. 361. Cancellation of United States passports and Consular Reports 
+          of Birth.''.
+    SEC. 108. EXPANDING WAIVER OF THE GOVERNMENT KNOWLEDGE, UNITED 
+      STATES HISTORY, AND ENGLISH LANGUAGE REQUIREMENTS FOR 
+      NATURALIZATION.
+    (a) In General.--Section 312 of the Immigration and Nationality Act 
+(8 U.S.C. 1423) is amended--
+        (1) by inserting ``(a)'' after ``312.'',
+        (2) by striking ``this requirement'' and all that follows 
+    through ``That'',
+        (3) by striking ``this section'' and inserting ``this 
+    paragraph'', and
+        (4) by adding at the end the following new subsection:
+    ``(b)(1) The requirements of subsection (a) shall not apply to any 
+person who is unable because of physical or developmental disability or 
+mental impairment to comply therewith.
+    ``(2) The requirement of subsection (a)(1) shall not apply to any 
+person who, on the date of the filing of the person's application for 
+naturalization as provided in section 334, either--
+        ``(A) is over fifty years of age and has been living in the 
+    United States for periods totaling at least twenty years subsequent 
+    to a lawful admission for permanent residence, or
+        ``(B) is over fifty-five years of age and has been living in 
+    the United States for periods totaling at least fifteen years 
+    subsequent to a lawful admission for permanent residence.
+    ``(3) The Attorney General, pursuant to regulations, shall provide 
+for special consideration, as determined by the Attorney General, 
+concerning the requirement of subsection (a)(2) with respect to any 
+person who, on the date of the filing of the person's application for 
+naturalization as provided in section 334, is over sixty-five years of 
+age and has been living in the United States for periods totaling at 
+least twenty years subsequent to a lawful admission for permanent 
+residence.''.
+    (b) Conforming Amendments.--Section 245A(b)(1)(D) of such Act (8 
+U.S.C. 1254a(b)(1)(D)) is amended by striking ``312'' each place it 
+appears and inserting ``312(a)''.
+    (c) Effective Date.--The amendments made by subsection (a) shall 
+take effect on the date of the enactment of this Act and shall apply to 
+applications for naturalization filed on or after such date and to such 
+applications pending on such date.
+    (d) Regulations.--Not later than 120 days after the date of 
+enactment of this Act, the Attorney General shall promulgate 
+regulations to carry out section 312(b)(3) of the Immigration and 
+Nationality Act (as amended by subsection (a)).
+
+SEC. 109. REPORT ON CITIZENSHIP OF CERTAIN LEGALIZED ALIENS.
+
+    Not later than June 30, 1996, the Commissioner of the Immigration 
+and Naturalization Service shall prepare and submit to the Congress a 
+report concerning the citizenship status of aliens legalized under 
+section 245A and section 210 of the Immigration and Nationality Act. 
+Such report shall include the following information by district office 
+for each national origin group:
+        (1) The number of applications for citizenship filed.
+        (2) The number of applications approved.
+        (3) The number of applications denied.
+        (4) The number of applications pending.
+
+          TITLE II--TECHNICAL CORRECTIONS OF IMMIGRATION LAWS
+
+SEC. 201. AMERICAN INSTITUTE IN TAIWAN.
+
+    Section 101(a)(27)(D) of the Immigration and Nationality Act (8 
+U.S.C. 1101(a)(27)(D)) is amended--
+        (1) by inserting ``or of the American Institute in Taiwan,'' 
+    after ``of the United States Government abroad,''; and
+        (2) by inserting ``(or, in the case of the American Institute 
+    in Taiwan, the Director thereof)'' after ``Foreign Service 
+    establishment''.
+
+SEC. 202. G-4 SPECIAL IMMIGRANTS.
+
+    Section 101(a)(27)(I)(iii) of the Immigration and Nationality Act 
+(8 U.S.C. 1101(a)(27)(I)(iii)) is amended by striking ``(II)'' and all 
+that follows through ``; or'' and inserting the following: ``(II) files 
+a petition for status under this subparagraph no later than six months 
+after the date of such retirement or six months after the date of 
+enactment of the Immigration and Nationality Technical Corrections Act 
+of 1994, whichever is later; or''.
+    SEC. 203. CLARIFICATION OF CERTAIN GROUNDS FOR EXCLUSION AND 
+      DEPORTATION.
+    (a) Exclusion Grounds.--Section 212 of the Immigration and 
+Nationality Act (8 U.S.C. 1182) is amended--
+        (1) in subsection (a)(2)(A)(i)(I), by inserting ``or an attempt 
+    or conspiracy to commit such a crime'' after ``offense)'',
+        (2) in subsection (a)(2)(A)(i)(II), by inserting ``or attempt'' 
+    after ``conspiracy'', and
+        (3) in the last sentence of subsection (h), by inserting ``, or 
+    an attempt or conspiracy to commit murder or a criminal act 
+    involving torture'' after ``torture''.
+    (b) Deportation Grounds.--Section 241(a) of such Act (8 U.S.C. 
+1251(a)) is amended--
+        (1) in paragraph (2)(C)--
+            (A) by striking ``in violation of any law,'' and inserting 
+        ``, or of attempting or conspiring to purchase, sell, offer for 
+        sale, exchange, use, own, possess, or carry,'', and
+            (B) by inserting ``in violation of any law'' after 
+        ``Code)''; and
+        (2) in paragraph (3)(B), by inserting ``an attempt or'' before 
+    ``a conspiracy'' each place it appears in clauses (ii) and (iii).
+    (c) Effective Date.--The amendments made by this section shall 
+apply to convictions occurring before, on, or after the date of the 
+enactment of this Act.
+    SEC. 204. UNITED STATES CITIZENS ENTERING AND DEPARTING ON UNITED 
+      STATES PASSPORTS.
+    (a) In General.--Section 215(b) of the Immigration and Nationality 
+Act (8 U.S.C. 1185(b)) is amended by inserting ``United States'' after 
+``valid''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to departures and entries (and attempts thereof) occurring on or 
+after the date of enactment of this Act.
+
+SEC. 205. APPLICATIONS FOR VISAS.
+
+    (a) In General.--The second sentence of section 222(a) of the 
+Immigration and Nationality Act (8 U.S.C. 1202(a)) is amended--
+        (1) by striking ``the immigrant'' and inserting ``the alien'', 
+    and
+        (2) by striking ``present address'' and all that follows 
+    through ``exempt from exclusion under the immigration laws;''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to applications made on or after the date of the enactment of 
+this Act.
+
+SEC. 206. FAMILY UNITY.
+
+    (a) In General.--Section 301(a) of the Immigration Act of 1990 is 
+amended by inserting after ``May 5, 1988'' the following: ``(in the 
+case of a relationship to a legalized alien described in subsection 
+(b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a 
+relationship to a legalized alien described in subsection (b)(2)(A))''.
+    (b) Effective Date.--The amendment made by subsection (a) shall be 
+deemed to have become effective as of October 1, 1991.
+    SEC. 207. TECHNICAL AMENDMENT REGARDING ONE-HOUSE VETO.
+    Section 13(c) of the Act of September 11, 1957 (8 U.S.C. 1255b(c)) 
+is amended--
+        (1) by striking the third sentence; and
+        (2) in the fourth sentence, by striking ``If neither the Senate 
+    nor the House of Representatives passes such a resolution within 
+    the time above specified the'' and inserting ``The''.
+    SEC. 208. AUTHORIZATION OF APPROPRIATIONS FOR REFUGEE ASSISTANCE 
+      FOR FISCAL YEARS 1995, 1996, AND 1997.
+    Section 414(a) of the Immigration and Nationality Act (8 U.S.C. 
+1524(a)) is amended by striking ``fiscal year 1993 and fiscal year 
+1994'' and inserting ``fiscal year 1995, fiscal year 1996, and fiscal 
+year 1997''.
+    SEC. 209. FINES FOR UNLAWFUL BRINGING OF ALIENS INTO THE UNITED 
+      STATES.
+    (a) In General.--Section 273 of the Immigration and Nationality Act 
+(8 U.S.C. 1323) is amended--
+        (1) in subsections (b) and (d) by striking ``the sum of $3000'' 
+    and inserting ``a fine of $3,000'' each place it appears;
+        (2) in the first sentence of subsection (b) by striking ``a sum 
+    equal'' and inserting ``an amount equal'';
+        (3) in the second sentence of subsection (d) by striking ``a 
+    sum sufficient to cover such fine'' and inserting ``an amount 
+    sufficient to cover such fine'';
+        (4) by striking ``sum'' and ``sums'' each place either appears 
+    and inserting ``fine'';
+        (5) in subsection (c) by striking ``Such'' and inserting 
+    ``Except as provided in subsection (e), such''; and
+        (6) by adding at the end the following new subsection:
+    ``(e) A fine under this section may be reduced, refunded, or waived 
+under such regulations as the Attorney General shall prescribe in cases 
+in which--
+        ``(1) the carrier demonstrates that it had screened all 
+    passengers on the vessel or aircraft in accordance with procedures 
+    prescribed by the Attorney General, or
+        ``(2) circumstances exist that the Attorney General determines 
+    would justify such reduction, refund, or waiver.''.
+    (b) Effective Date.--The amendments made by this subsection shall 
+apply with respect to aliens brought to the United States more than 60 
+days after the date of enactment of this Act.
+
+SEC. 210. EXTENSION OF VISA WAIVER PILOT PROGRAM.
+
+    Section 217(f) of the Immigration and Nationality Act (8 U.S.C. 
+1187(f)) is amended by striking ``ending'' and all that follows through 
+the period and inserting ``ending on September 30, 1996''.
+    SEC. 211. CREATION OF PROBATIONARY STATUS FOR PARTICIPANT COUNTRIES 
+      IN THE VISA WAIVER PROGRAM.
+    Section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) 
+is amended--
+        (1) in subsection (a)(2)(B) by inserting before the period ``or 
+    is designated as a pilot program country with probationary status 
+    under subsection (g)'';
+        (2) by adding at the end the following new subsection:
+    ``(g) Pilot Program Country With Probationary Status.--
+        ``(1) In general.--The Attorney General and the Secretary of 
+    State acting jointly may designate any country as a pilot program 
+    country with probationary status if it meets the requirements of 
+    paragraph (2).
+        ``(2) Qualifications.--A country may not be designated as a 
+    pilot program country with probationary status unless the following 
+    requirements are met:
+            ``(A) Nonimmigrant visa refusal rate for previous 2-year 
+        period.--The average number of refusals of nonimmigrant visitor 
+        visas for nationals of the country during the two previous full 
+        fiscal years was less than 3.5 percent of the total number of 
+        nonimmigrant visitor visas for nationals of that country which 
+        were granted or refused during those years.
+            ``(B) Nonimmigrant visa refusal rate for previous year.--
+        The number of refusals of nonimmigrant visitor visas for 
+        nationals of the country during the previous full fiscal year 
+        was less than 3 percent of the total number of nonimmigrant 
+        visitor visas for nationals of that country which were granted 
+        or refused during that year.
+            ``(C) Low exclusions and violations rate for previous 
+        year.--The sum of--
+                ``(i) the total number of nationals of that country who 
+            were excluded from admission or withdrew their application 
+            for admission during the preceding fiscal year as a 
+            nonimmigrant visitor, and
+                ``(ii) the total number of nationals of that country 
+            who were admitted as nonimmigrant visitors during the 
+            preceding fiscal year and who violated the terms of such 
+            admission,
+        was less than 1.5 percent of the total number of nationals of 
+        that country who applied for admission as nonimmigrant visitors 
+        during the preceding fiscal year.
+            ``(D) Machine readable passport program.--The government of 
+        the country certifies that it has or is in the process of 
+        developing a program to issue machine-readable passports to its 
+        citizens.
+        ``(3) Continuing and subsequent qualifications for pilot 
+    program countries with probationary status.--The designation of a 
+    country as a pilot program country with probationary status shall 
+    terminate if either of the following occurs:
+            ``(A) The sum of--
+                ``(i) the total number of nationals of that country who 
+            were excluded from admission or withdrew their application 
+            for admission during the preceding fiscal year as a 
+            nonimmigrant visitor, and
+                ``(ii) the total number of nationals of that country 
+            who were admitted as visitors during the preceding fiscal 
+            year and who violated the terms of such admission,
+        is more than 2.0 percent of the total number of nationals of 
+        that country who applied for admission as nonimmigrant visitors 
+        during the preceding fiscal year.
+            ``(B) The country is not designated as a pilot program 
+        country under subsection (c) within 3 fiscal years of its 
+        designation as a pilot program country with probationary status 
+        under this subsection.''.
+        ``(4) Designation of pilot program countries with probationary 
+    status as pilot program countries.--In the case of a country which 
+    was a pilot program country with probationary status in the 
+    preceding fiscal year, a country may be designated by the Attorney 
+    General and the Secretary of State, acting jointly, as a pilot 
+    program country under subsection (c) if--
+            ``(A) the total of the number of nationals of that country 
+        who were excluded from admission or withdrew their application 
+        for admission during the preceding fiscal year as a 
+        nonimmigrant visitor, and
+            ``(B) the total number of nationals of that country who 
+        were admitted as nonimmigrant visitors during the pre-P ceding 
+        fiscal year and who violated the terms of such admission,
+    was less than 2 percent of the total number of nationals of that 
+    country who applied for admission as nonimmigrant visitors during 
+    such preceding fiscal year.''; and
+        (3) in subsection (c)(2) by striking ``A country'' and 
+    inserting ``Except as provided in subsection (g)(4), a country''.
+    SEC. 212. TECHNICAL CHANGES TO NUMERICAL LIMITATIONS CON-P CERNING 
+      CERTAIN SPECIAL IMMIGRANTS.
+    (a) Panama Canal Special Immigrants.--Section 3201 of the Panama 
+Canal Act of 1979 (Public Law 96-70) is amended by striking subsection 
+(c).
+    (b) Armed Forces Special Immigrants.--Section 203(b)(6) of the 
+Immigration and Nationality Act (8 U.S.C. 1153(b)(6)) is amended by 
+striking subparagraph (C).
+    SEC. 213. EXTENSION OF TELEPHONE EMPLOYMENT VERIFICATION SYSTEM.
+    Section 274A(d)(4)(A) of the Immigration and Nationality Act (8 
+U.S.C. 1324a(d)(4)(A)) is amended in the second sentence by striking 
+``three'' and inserting ``five''.
+    SEC. 214. EXTENSION OF EXPANDED DEFINITION OF SPECIAL IMMIGRANT FOR 
+      RELIGIOUS WORKERS.
+    Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 
+U.S.C. 1101(a)(27)(C)(ii)) is amended--
+        (1) in subclause (II) by striking ``1994,'' and inserting 
+    ``1997,''; and
+        (2) in subclause (III) by striking ``1994,'' and inserting 
+    ``1997,''.
+    SEC. 215. EXTENSION OF OFF-CAMPUS WORK AUTHORIZATION FOR STUDENTS.
+    (a) In General.--Section 221 of the Immigration Act of 1990 (Public 
+Law 101-649; 104 Stat. 4978) as amended by section 303(b)(1) of the 
+Miscellaneous and Technical Immigration and Naturalization Amendments 
+of 1991 (Public Law 102-232; 105 Stat. 1747) is amended--
+        (1) in the heading for subsection (a) by striking ``3-Year'' 
+    and inserting ``5-Year'';
+        (2) in subsection (a) by striking ``3-year'' and inserting ``5-
+    year''; and
+        (3) in subsection (b) by striking ``1994,'' and inserting 
+    ``1996,''.
+    SEC. 216. ELIMINATING OBLIGATION OF CARRIERS TO DETAIN STOWAWAYS.
+    The first sentence of section 273(d) of the Immigration and 
+Nationality Act (8 U.S.C. 1323(d)) is amended to read as follows: ``The 
+owner, charterer, agent, consignee, commanding officer, or master of 
+any vessel or aircraft arriving at the United States from any place 
+outside the United States who fails to deport any alien stowaway on the 
+vessel or aircraft on which such stowaway arrived or on another vessel 
+or aircraft at the expense of the vessel or aircraft on which such 
+stowaway arrived when required to do so by an immigration officer, 
+shall pay to the Commissioner the sum of $3,000 for each alien 
+stowaway, in respect of whom any such failure occurs.''.
+    SEC. 217. COMPLETING USE OF VISAS PROVIDED UNDER DIVERSITY 
+      TRANSITION PROGRAM.
+    (a) Extension of Diversity Transition Program.--Section 132 of the 
+Immigration Act of 1990 (Public Law 101-649) is amended--
+        (1) in subsection (a), by inserting before the period at the 
+    end of the first sentence the following: ``and in fiscal year 1995 
+    a number of immigrant visas equal to the number of such visas 
+    provided (but not made available) under this section in previous 
+    fiscal years''; and
+        (2) in the next to last sentence of subsection (c), by striking 
+    ``or 1993'' and inserting ``, 1993, or 1994''.
+    (b) Administration of 1995 Diversity Transition Program.--
+        (1) Eligibility.--For the purpose of carrying out the extension 
+    of the diversity transition program under the amendments made by 
+    subsection (a), applications for natives of diversity transition 
+    countries submitted for fiscal year 1995 for diversity immigrants 
+    under section 203(c) of the Immigration and Nationality Act shall 
+    be considered applications for visas made available for fiscal year 
+    1995 for the diversity transition program under section 132 of the 
+    Immigration Act of 1990. No application period for the fiscal year 
+    1995 diversity transition program shall be established and no new 
+    applications may be accepted for visas made available under such 
+    program for fiscal year 1995. Applications for visas in excess of 
+    the minimum available to natives of the country specified in 
+    section 132(c) of the Immigration Act of 1990 shall be selected for 
+    qualified applicants within the several regions defined in section 
+    203(c)(1)(F) of the Immigration and Nationality Act in proportion 
+    to the region's share of visas issued in the diversity transition 
+    program during fiscal years 1992 and 1993.
+        (2) Notification.--Not later than 180 days after the date of 
+    enactment of this Act, notification of the extension of the 
+    diversity transition program for fiscal year 1995 and the provision 
+    of visa numbers shall be made to each eligible applicant under 
+    paragraph (1).
+        (3) Requirements.--Notwithstanding any other provision of law, 
+    for the purpose of carrying out the extension of the diversity 
+    transition program under the amendments made by subsection (a), the 
+    requirement of section 132(b)(2) of the Immigration Act of 1990 
+    shall not apply to applicants under such extension and the 
+    requirement of section 203(c)(2) of the Immigration and Nationality 
+    Act shall apply to such applicants.
+    SEC. 218. EFFECT ON PREFERENCE DATE OF APPLICATION FOR LABOR 
+      CERTIFICATION.
+    Section 161(c)(1) of the Immigration Act of 1990 (Public Law 101-
+649) is amended--
+        (1) by striking ``or an application for labor certification 
+    before such date under section 212(a)(14)''; and
+        (2) in subparagraph (A)--
+            (A) by striking ``or application''; and
+            (B) by striking ``, or 60 days after the date of 
+        certification in the case of labor certifications filed in 
+        support of the petition under section 212(a)(14) of such Act 
+        before October 1, 1991, but not certified until after October 
+        1, 1993''.
+    SEC. 219. OTHER MISCELLANEOUS AND TECHNICAL CORRECTIONS TO 
+      IMMIGRATION-RELATED PROVISIONS.
+    (a) Section 101(a)(27)(J)(i) of the Immigration and Nationality Act 
+(8 U.S.C. 1101(a)(27)(J)(i)) is amended by striking ``and has'' and 
+inserting ``or whom such a court has legally committed to, or placed 
+under the custody of, an agency or department of a State and who has''.
+    (b)(1) The second sentence of section 201(b)(2)(A)(i) of the 
+Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) is amended 
+by inserting ``(and each child of the alien)'' after ``the alien''.
+    (2) The second sentence of section 204(a)(1)(A) of such Act (8 
+U.S.C. 1154(a)(1)(A)) is amended--
+        (A) by inserting ``spouse'' after ``alien'', and
+        (B) by inserting ``of the alien (and the alien's children)'' 
+    after ``for classification''.
+    (c) Section 203(b)(5) of the Immigration and Nationality Act (8 
+U.S.C. 1153(b)(5)) is amended by striking ``Targetted'', ``targetted'', 
+and ``targetted'' each place each appears and inserting ``Targeted'', 
+``targeted'', and ``targeted'', respectively.
+    (d) Section 210(d)(3) of the Immigration and Nationality Act (8 
+U.S.C. 1160(d)(3)) is amended by inserting ``the'' before ``Service'' 
+the first place it appears.
+    (e) Section 212(d)(11) of the Immigration and Nationality Act (8 
+U.S.C. 1182(d)(11)) is amended by striking ``voluntary'' and inserting 
+``voluntarily''.
+    (f) Section 258 of the Immigration and Nationality Act (8 U.S.C. 
+1288) is amended in subsection (d)(3)(B) by striking ``subparagraph 
+(A)'' and inserting ``subparagraph (A)(iii)''.
+    (g) Section 241(c) of the Immigration and Nationality Act (8 U.S.C. 
+1251(c)) is amended by striking ``or (3)(A) of subsection 241(a)'' and 
+inserting ``and (3)(A) of subsection (a)''.
+    (h) Section 242(h) of the Immigration and Nationality Act (8 U.S.C. 
+1252(h)) is amended by striking ``Parole,,'' and inserting ``Parole,''.
+    (i) Section 242B(c)(1) of the Immigration and Nationality Act (8 
+U.S.C. 1252b(c)(1)) is amended by striking the comma after ``that''.
+    (j) Section 244A(c)(2)(A)(iii)(III) of the Immigration and 
+Nationality Act (8 U.S.C. 1254a(c)(2)(A)(iii)(III)) is amended--
+        (1) by striking ``Paragraphs'' and inserting ``paragraphs'', 
+    and
+        (2) by striking ``or (3)(E)'' and inserting ``and (3)(E)''.
+    (k) Section 245(h)(2)(B) of the Immigration and Nationality Act (8 
+U.S.C. 1255(h)(2)(B)) is amended by striking ``or (3)(E)'' and 
+inserting ``and (3)(E)''.
+    (l)(1) Subparagraph (C) of section 245A(c)(7) of the Immigration 
+and Nationality Act (8 U.S.C. 1255a(c)(7)), as added by Public Law 102-
+140, is amended--
+        (A) by indenting it 2 additional ems to the right; and
+        (B) by striking ``subsection (B)'' and inserting ``subparagraph 
+    (B)''.
+    (2) Section 610(b) of Public Law 102-140 is amended by striking 
+``404(b)(2)(ii)'' and ``404(b)(2)(iii)'' and inserting 
+``404(b)(2)(A)(ii)'' and ``404(b)(2)(A)(iii)'', respectively.
+    (m) Effective as of the date of the enactment of this Act, section 
+246(a) of the Immigration and Nationality Act (8 U.S.C. 1256(a)) is 
+amended by striking the first 3 sentences.
+    (n) Section 262(c) of the Immigration and Nationality Act (8 U.S.C. 
+1302(c)) is amended by striking ``subsection (a) and (b)'' and 
+inserting ``subsections (a) and (b)''.
+    (o) Section 272(a) of the Immigration and Nationality Act (8 U.S.C. 
+1322(a)) is amended by striking the comma after ``so afflicted''.
+    (p) The first sentence of section 273(b) of the Immigration and 
+Nationality Act (8 U.S.C. 1323(b)) is amended by striking ``collector 
+of customs'' and inserting ``Commissioner''.
+    (q) Section 274B(g)(2)(C) of the Immigration and Nationality Act (8 
+U.S.C. 1324b(g)(2)(C)) is amended by striking ``an administrative law 
+judge'' and inserting ``the Special Counsel''.
+    (r) Section 274C(b) of the Immigration and Nationality Act (8 
+U.S.C. 1324c(b)) is amended by striking ``title V'' and all that 
+follows through ``3481)'' and inserting ``chapter 224 of title 18, 
+United States Code''.
+    (s) Section 280(b)(1)(C) of the Immigration and Nationality Act (8 
+U.S.C. 1330(b)(1)(C)) is amended by striking ``maintainance'' and 
+inserting ``maintenance''.
+    (t) Effective as if included in the enactment of Public Law 102-
+395, subsection (r) of section 286 of the Immigration and Nationality 
+Act (8 U.S.C. 1356), as added by section 112 of such Public Law, is 
+amended--
+        (1) in the subsection heading, by striking ``Breached Bond/
+    Detention Account'' and inserting ``Breached Bond/Detention Fund'';
+        (2) in paragraph (1), by striking ``(hereafter referred to as 
+    the Fund)'' and inserting ``(in this subsection referred to as the 
+    `Fund')'';
+        (3) in paragraph (2), by striking ``the Immigration and 
+    Nationality Act of 1952, as amended,'' and inserting ``this Act'';
+        (4) in paragraphs (4) and (6), by striking ``the Breached Bond/
+    Detention'' each place it appears;
+        (5) in paragraph (4), by striking ``of this Act'' and inserting 
+    ``of Public Law 102-395''; and
+        (6) in paragraph (5), by striking ``account'' and inserting 
+    ``Fund''.
+    (u) Section 310(b)(5)(A) of the Immigration and Nationality Act (8 
+U.S.C. 1421(b)(5)(A)) is amended by striking ``District Court'' and 
+inserting ``district court''.
+    (v) Effective December 12, 1991, section 313(a)(2) of the 
+Immigration and Nationality Act (8 U.S.C. 1424(a)(2)) is amended by 
+striking ``and'' before ``(F)'' and inserting ``or''.
+    (w) Section 333(b)(1) of the Immigration and Nationality Act (8 
+U.S.C. 1444(b)(1)) is amended by striking ``249(a)'' and inserting 
+``249''.
+    (x) Section 412(e)(7)(D) of the Immigration and Nationality Act (8 
+U.S.C. 1522(e)(7)(D)) is amended by striking ``paragraph (1) or (2) 
+of''.
+    (y) Section 302(c) of the Immigration Act of 1990 is amended by 
+striking ``effect'' and inserting ``affect''.
+    (z) Effective as if included in the Miscellaneous and Technical 
+Immigration and Naturalization Amendments of 1991--
+        (1) section 303(a)(7)(B)(i) of such Act is amended by striking 
+    ``paragraph (1)(A)'' and inserting ``paragraph (1)(A)(i)'';
+        (2) section 304(b)(2) of such Act is amended by striking 
+    ``paragraph (1)(B)'' and inserting ``subsection (c)(1)(B)'';
+        (3) paragraph (1) of section 305(j) of such Act is repealed 
+    (and section 407(d)(16)(C) of the Immigration Act of 1990 shall 
+    read as if such paragraph had not been enacted);
+        (4) paragraph (2) of section 306(b) of such Act is amended to 
+    read as follows:
+    ``(2) Section 538(a) of the Immigration Act of 1990 is amended by 
+striking the comma after `Service'.'';
+        (5) section 307(a)(6) of such Act is amended by striking 
+    ``immigrants'' the first place it appears and inserting ``immigrant 
+    aliens'';
+        (6) section 309(a)(3) of such Act is amended by striking 
+    ``paragraph (1) and (2)'' and inserting ``paragraphs (1)(A) and 
+    (1)(B)'';
+        (7) section 309(b)(6)(F) of such Act is amended by striking 
+    ``210(a)(1)(B)(1)(B)'' and inserting ``210(a)(B)(1)(B)'';
+        (8) section 309(b)(8) of such Act is amended by striking 
+    ``274A(g)'' and inserting ``274A(h)''; and
+        (9) section 310 of such Act is amended--
+            (A) by adding ``and'' at the end of paragraph (1);
+            (B) by striking paragraph (2); and
+            (C) by redesignating paragraph (3) as paragraph (2) and by 
+        striking ``309(c)'' and inserting ``309(b)''.
+    (aa) Effective as if included in section 4 of Public Law 102-110, 
+section 161(c)(3) of the Immigration Act of 1990 is amended--
+        (1) by striking ``alien described in section 203(a)(3) or 
+    203(a)(6) of such Act'' and inserting ``alien admitted for 
+    permanent residence as a preference immigrant under section 
+    203(a)(3) or 203(a)(6) of such Act (as in effect before such 
+    date)''; and
+        (2) by striking ``this section'' and inserting ``this title''.
+    (bb) Section 599E(c) of the Foreign Operations, Export Financing, 
+and Related Programs Appropriations Act, 1990 (Public Law 101-167) is 
+amended by striking ``and subparagraphs'' and inserting ``or 
+subparagraph''.
+    (cc) Section 204(a)(1)(C) of the Immigration Reform and Control Act 
+of 1986 is amended by striking ``year 1993 the first place it appears'' 
+and inserting ``years 1993''.
+    (dd) Except as otherwise specifically provided in this section, the 
+amendments made by this section shall be effective as if included in 
+the enactment of the Immigration Act of 1990.
+    (ee)(1) Section 210A of the Immigration and Nationality Act (8 
+U.S.C. 1161) is repealed.
+    (2) The table of contents of the Immigration and Nationality Act is 
+amended by striking the item relating to section 210A.
+    (ff) Section 122 of the Immigration Act of 1990 is amended by 
+striking subsection (a).
+    (gg) The Copyright Royalty Tribunal Reform Act of 1993 (Public Law 
+103-198; 107 Stat. 2304) is amended by striking section 8.
+    SEC. 220. WAIVER OF FOREIGN COUNTRY RESIDENCE REQUIREMENT WITH 
+      RESPECT TO INTERNATIONAL MEDICAL GRADUATES.
+    (a) Waiver.--Section 212(e) of the Immigration and Nationality Act 
+(8 U.S.C. 1182(e)) is amended--
+        (1) in the first proviso by inserting ``(or, in the case of an 
+    alien described in clause (iii), pursuant to the request of a State 
+    Department of Public Health, or its equivalent)'' after 
+    ``interested United States Government agency''; and
+        (2) by inserting after ``public interest'' the following: 
+    ``except that in the case of a waiver requested by a State 
+    Department of Public Health, or its equivalent the waiver shall be 
+    subject to the requirements of section 214(k)''.
+    (b) Restrictions on Waiver.--Section 214 of such Act (8 U.S.C. 
+1184) is amended by adding at the end the following:
+    ``(k)(1) In the case of a request by an interested State agency for 
+a waiver of the two-year foreign residence requirement under section 
+212(e) with respect to an alien described in clause (iii) of that 
+section, the Attorney General shall not grant such waiver unless--
+        ``(A) in the case of an alien who is otherwise contractually 
+    obligated to return to a foreign country, the government of such 
+    country furnishes the Director of the United States Information 
+    Agency with a statement in writing that it has no objection to such 
+    waiver;
+        ``(B) the alien demonstrates a bona fide offer of full-time 
+    employment at a health facility and agrees to begin employment at 
+    such facility within 90 days of receiving such waiver and agrees to 
+    continue to work in accordance with paragraph (2) at the health 
+    care facility in which the alien is employed for a total of not 
+    less than 3 years (unless the Attorney General determines that 
+    extenuating circumstances such as the closure of the facility or 
+    hardship to the alien would justify a lesser period of time);
+        ``(C) the alien agrees to practice medicine in accordance with 
+    paragraph (2) for a total of not less than 3 years only in the 
+    geographic area or areas which are designated by the Secretary of 
+    Health and Human Services as having a shortage of health care 
+    professionals; and
+        ``(D) the grant of such waiver would not cause the number of 
+    waivers allotted for that State for that fiscal year to exceed 
+    twenty.
+    ``(2)(A) Notwithstanding section 248(2), the Attorney General may 
+change the status of an alien that qualifies under this subsection and 
+section 212(e) to that of an alien described in section 
+101(a)(15)(H)(i)(b).
+    ``(B) No person who has obtained a change of status under 
+subparagraph (A) and who has failed to fulfill the terms of a contract 
+with a health facility shall be eligible to apply for an immigrant 
+visa, for permanent residence, or for any other change of nonimmigrant 
+status until it is established that such person has resided and been 
+physically present in the country of his nationality or his last 
+residence for an aggregate of at least two years following departure 
+from the United States.
+    ``(3) Notwithstanding any other provision of this subsection, the 
+two-year foreign residence requirement under section 212(e) shall apply 
+with respect to an alien described in clause (iii) of that section, who 
+has not otherwise been accorded status under section 101(a)(27)(H), if 
+at any time the alien practices medicine in an area other than an area 
+described in paragraph (1)(C).''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to aliens admitted to the United States under section 
+101(a)(15)(J) of the Immigration and Nationality Act, or acquiring such 
+status after admission to the United States, before, on, or after the 
+date of enactment of this Act and before June 1, 1996.
+
+SEC. 221. VISAS FOR OFFICIALS OF TAIWAN.
+
+    Whenever the President of Taiwan or any other high-level official 
+of Taiwan shall apply to visit the United States for the purposes of 
+discussions with United States Federal or State government officials 
+concerning--
+        (1) trade or business with Taiwan that will reduce the United 
+    States-Taiwan trade deficit;
+        (2) prevention of nuclear proliferation;
+        (3) threats to the national security of the United States;
+        (4) the protection of the global environment;
+        (5) the protection of endangered species; or
+        (6) regional humanitarian disasters.
+The official shall be admitted to the United States, unless the 
+official is otherwise excludable under the immigration laws of the 
+United States.
+
+SEC. 222. EXPANSION OF DEFINITION OF AGGRAVATED FELONY.
+
+    (a) Expansion of Definition.--Section 101(a)(43) of the Immigration 
+and Nationality Act (8 U.S.C. 1101(a)(43)) is amended to read as 
+follows:
+        ``(43) The term `aggravated felony' means--
+            ``(A) murder;
+            ``(B) illicit trafficking in a controlled substance (as 
+        defined in section 102 of the Controlled Substances Act), 
+        including a drug trafficking crime (as defined in section 
+        924(c) of title 18, United States Code);
+            ``(C) illicit trafficking in firearms or destructive 
+        devices (as defined in section 921 of title 18, United States 
+        Code) or in explosive materials (as defined in section 841(c) 
+        of that title);
+            ``(D) an offense described in section 1956 of title 18, 
+        United States Code (relating to laundering of monetary 
+        instruments) or section 1957 of that title (relating to 
+        engaging in monetary transactions in property derived from 
+        specific unlawful activity) if the amount of the funds exceeded 
+        $100,000;
+            ``(E) an offense described in--
+                ``(i) section 842 (h) or (i) of title 18, United States 
+            Code, or section 844 (d), (e), (f), (g), (h), or (i) of 
+            that title (relating to explosive materials offenses);
+                ``(ii) section 922(g) (1), (2), (3), (4), or (5), (j), 
+            (n), (o), (p), or (r) or 924 (b) or (h) of title 18, United 
+            States Code (relating to firearms offenses); or
+                ``(iii) section 5861 of the Internal Revenue Code of 
+            1986 (relating to firearms offenses);
+            ``(F) a crime of violence (as defined in section 16 of 
+        title 18, United States Code, but not including a purely 
+        political offense) for which the term of imprisonment imposed 
+        (regardless of any suspension of imprisonment) is at least 5 
+        years;
+            ``(G) a theft offense (including receipt of stolen 
+        property) or burglary offense for which the term of 
+        imprisonment imposed (regardless of any suspension of such 
+        imprisonment) is at least 5 years;
+            ``(H) an offense described in section 875, 876, 877, or 
+        1202 of title 18, United States Code (relating to the demand 
+        for or receipt of ransom);
+            ``(I) an offense described in section 2251, 2251A, or 2252 
+        of title 18, United States Code (relating to child 
+        pornography);
+            ``(J) an offense described in section 1962 of title 18, 
+        United States Code (relating to racketeer influenced corrupt 
+        organizations) for which a sentence of 5 years' imprisonment or 
+        more may be imposed;
+            ``(K) an offense that--
+                ``(i) relates to the owning, controlling, managing, or 
+            supervising of a prostitution business; or
+                ``(ii) is described in section 1581, 1582, 1583, 1584, 
+            1585, or 1588, of title 18, United States Code (relating to 
+            peonage, slavery, and involuntary servitude);
+            ``(L) an offense described in--
+                ``(i) section 793 (relating to gathering or 
+            transmitting national defense information), 798 (relating 
+            to disclosure of classified information), 2153 (relating to 
+            sabotage) or 2381 or 2382 (relating to treason) of title 
+            18, United States Code; or
+                ``(ii) section 601 of the National Security Act of 1947 
+            (50 U.S.C. 421) (relating to protecting the identity of 
+            undercover intelligence agents);
+            ``(M) an offense that--
+                ``(i) involves fraud or deceit in which the loss to the 
+            victim or victims exceeds $200,000; or
+                ``(ii) is described in section 7201 of the Internal 
+            Revenue Code of 1986 (relating to tax evasion) in which the 
+            revenue loss to the Government exceeds $200,000;
+            ``(N) an offense described in section 274(a)(1) of title 
+        18, United States Code (relating to alien smuggling) for the 
+        purpose of commercial advantage;
+            ``(O) an offense described in section 1546(a) of title 18, 
+        United States Code (relating to document fraud) which 
+        constitutes trafficking in the documents described in such 
+        section for which the term of imprisonment imposed (regardless 
+        of any suspicion of such imprisonment) is at least 5 years;
+            ``(P) an offense relating to a failure to appear by a 
+        defendant for service of sentence if the underlying offense is 
+        punishable by imprisonment for a term of 15 years or more; and
+            ``(Q) an attempt or conspiracy to commit an offense 
+        described in this paragraph.
+    The term applies to an offense described in this paragraph whether 
+    in violation of Federal or State law and applies to such an offense 
+    in violation of the law of a foreign country for which the term of 
+    imprisonment was completed within the previous 15 years.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to convictions entered on or after the date of enactment of this 
+Act.
+
+SEC. 223. SUMMARY DEPORTATION.
+
+    (a) Expedited Procedures.--Section 242A of the Immigration and 
+Nationality Act (8 U.S.C. 1252a) is amended--
+        (1) in subsection (b)(4)(D), by striking ``the determination of 
+    deportability is supported by clear, convincing, and unequivocal 
+    evidence and''; and
+        (2) in subsection (b)(4)(E), by striking ``entered'' and 
+    inserting ``adjudicated''.
+    (b) Technical Correction.--Section 106(d)(1)(D) of the Immigration 
+and Nationality Act (8 U.S.C. 1105a) is amended by striking 
+``242A(b)(5)'' and inserting ``242A(b)(4)''.
+
+SEC. 224. JUDICIAL DEPORTATION.
+
+    (a) Judicial Deportation.--Section 242A of the Immigration and 
+Nationality Act (8 U.S.C. 1252a) is amended by adding at the end the 
+following new subsection:
+    ``(d) Judicial Deportation.--
+        ``(1) Authority.--Notwithstanding any other provision of this 
+    Act, a United States district court shall have jurisdiction to 
+    enter a judicial order of deportation at the time of sentencing 
+    against an alien whose criminal conviction causes such alien to be 
+    deportable under section 241(a)(2)(A), if such an order has been 
+    requested by the United States Attorney with the concurrence of the 
+    Commissioner and if the court chooses to exercise such 
+    jurisdiction.
+        ``(2) Procedure.--
+            ``(A) The United States Attorney shall file with the United 
+        States district court, and serve upon the defendant and the 
+        Service, prior to commencement of the trial or entry of a 
+        guilty plea a notice of intent to request judicial deportation.
+            ``(B) Notwithstanding section 242B, the United States 
+        Attorney, with the concurrence of the Commissioner, shall file 
+        at least 30 days prior to the date set for sentencing a charge 
+        containing factual allegations regarding the alienage of the 
+        defendant and identifying the crime or crimes which make the 
+        defendant deportable under section 241(a)(2)(A).
+            ``(C) If the court determines that the defendant has 
+        presented substantial evidence to establish prima facie 
+        eligibility for relief from deportation under this Act, the 
+        Commissioner shall provide the court with a recommendation and 
+        report regarding the alien's eligibility for relief. The court 
+        shall either grant or deny the relief sought.
+            ``(D)(i) The alien shall have a reasonable opportunity to 
+        examine the evidence against him or her, to present evidence on 
+        his or her own behalf, and to cross-examine witnesses presented 
+        by the Government.
+            ``(ii) The court, for the purposes of determining whether 
+        to enter an order described in paragraph (1), shall only 
+        consider evidence that would be admissible in proceedings 
+        conducted pursuant to section 242(b).
+            ``(iii) Nothing in this subsection shall limit the 
+        information a court of the United States may receive or 
+        consider for the purposes of imposing an appropriate sentence.
+            ``(iv) The court may order the alien deported if the 
+        Attorney General demonstrates that the alien is deportable 
+        under this Act.
+        ``(3) Notice, appeal, and execution of judicial order of 
+    deportation.--
+            ``(A)(i) A judicial order of deportation or denial of such 
+        order may be appealed by either party to the court of appeals 
+        for the circuit in which the district court is located.
+            ``(ii) Except as provided in clause (iii), such appeal 
+        shall be considered consistent with the requirements described 
+        in section 106.
+            ``(iii) Upon execution by the defendant of a valid waiver 
+        of the right to appeal the conviction on which the order of 
+        deportation is based, the expiration of the period described in 
+        section 106(a)(1), or the final dismissal of an appeal from 
+        such conviction, the order of deportation shall become final 
+        and shall be executed at the end of the prison term in 
+        accordance with the terms of the order. If the conviction is 
+        reversed on direct appeal, the order entered pursuant to this 
+        section shall be void.
+            ``(B) As soon as is practicable after entry of a judicial 
+        order of deportation, the Commissioner shall provide the 
+        defendant with written notice of the order of deportation, 
+        which shall designate the defendant's country of choice for 
+        deportation and any alternate country pursuant to section 
+        243(a).
+        ``(4) Denial of judicial order.--Denial without a decision on 
+    the merits of a request for a judicial order of deportation shall 
+    not preclude the Attorney General from initiating deportation 
+    proceedings pursuant to section 242 upon the same ground of 
+    deportability or upon any other ground of deportability provided 
+    under section 241(a).''.
+    (b) Technical Amendment.--The ninth sentence of section 242(b) of 
+the Immigration and Nationality Act (8 U.S.C. 1252(b)) is amended by 
+striking ``The'' and inserting ``Except as provided in section 242A(d), 
+the''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to all aliens whose adjudication of guilt or guilty plea is 
+entered in the record after the date of enactment of this Act.
+    SEC. 225. CONSTRUCTION OF EXPEDITED DEPORTATION REQUIREMENTS.
+    No amendment made by this Act and nothing in section 242(i) of the 
+Immigration and Nationality Act (8 U.S.C. 1252(i)) shall be construed 
+to create any substantive or procedural right or benefit that is 
+legally enforceable by any party against the United States or its 
+agencies or officers or any other person.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

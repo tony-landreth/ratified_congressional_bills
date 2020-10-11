@@ -1,0 +1,1503 @@
+ 
+--H.R.2494--
+H.R.2494
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To reauthorize the Export-Import Bank tied aid credit fund and pilot
+interest subsidy program, to provide for the participation of the United
+States in a replenishment of the Inter-American Development Bank and in the
+Enhanced Structural Adjustment Facility of the International Monetary Fund,
+to improve the safety and soundness of the United States banking system and
+encourage the reduction of the debt burdens of the highly indebted countries,
+to encourage the multilateral development banks to engage in environmentally
+sustainable lending practices and give greater priority to poverty alleviation,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `International Development
+ and Finance Act of 1989'.
+ (b) TABLE OF CONTENTS-
+Sec. 1. Short title; table of contents.
+TITLE I--EXPORT-IMPORT BANK ACT AMENDMENTS
+Sec. 101. Export-Import Bank Act amendments.
+Sec. 102. Extension of credit by Export-Import Bank with respect to Angola
+prohibited unless certain conditions are met.
+Sec. 103. Export-import programs to the People's Republic of China prohibited
+unless certain conditions are met.
+TITLE II--INTER-AMERICAN DEVELOPMENT BANK
+Sec. 201. Participation by the United States in a capital increase of the
+InterAmerican Development Bank; increase in resources of fund for special
+operations.
+Sec. 202. Investment in human capital.
+Sec. 203. Limitations on Inter-American Development Bank policy based lending.
+Sec. 204. Increase in Inter-American Development Bank lending to the Caribbean.
+Sec. 205. Sense of the Congress that Inter-American Development Bank loans
+should reduce dependence on illicit narcotics.
+Sec. 206. Directives regarding government-owned enterprises in countries
+receiving IADB loans.
+TITLE III--INTERNATIONAL MONETARY FUND ENHANCED STRUCTURAL ADJUSTMENT FACILITY
+Sec. 301. Contribution to the interest subsidy account of the Enhanced
+Structural Adjustment Facility of the International Monetary Fund.
+Sec. 302. Discussions to enhance the capacity of the International Monetary
+Fund to alleviate the potentially adverse impacts of Fund programs on the
+poor and the environment.
+TITLE IV--INTERNATIONAL DEBT PROVISIONS
+Sec. 401. Short title.
+Sec. 402. Additional reserve requirements.
+Sec. 403. Report on mark to market accounting.
+Sec. 404. Study on elimination of capital flight.
+Sec. 405. Factors to be taken into account in developing United States
+policy toward debt reduction for certain highly indebted countries; report
+to the Congress.
+Sec. 406. Sense of the Congress that agreements to reduce debt burden should
+be accompanied by trade liberalization.
+Sec. 407. Linkage of debt reduction loans to reduction in drug trafficking;
+report to Congress.
+TITLE V--ALLEVIATION OF POVERTY; ENVIRONMENTAL PROVISIONS; DEBT-FOR-DEVELOPMENT
+SWAPS; CONSOLIDATION OF REPORTING REQUIREMENTS
+Subtitle A--Alleviation of Poverty
+Sec. 501. Increasing the productive economic participation of the poor.
+Subtitle B--International Debt Exchanges and the Environment
+Sec. 511. Sense of the Congress resolution regarding environmental policy
+and international debt exchanges.
+Sec. 512. Multilateral development banks and debt-for-nature exchanges.
+Subtitle C--Environmental Impact Assessments
+Sec. 521. Assessment of environmental impact of proposed multilateral
+development bank actions.
+Subtitle D--Debt-for-Development Swaps
+Sec. 531. Encouragement of debt-for-development swaps through local currency
+repayment.
+Subtitle E--Consolidation of Certain Reporting Requirements
+Sec. 541. Consolidation of certain reporting requirements.
+TITLE VI--MISCELLANEOUS PROVISIONS
+Sec. 601. Sense of the Congress that the International Bank for Reconstruction
+and Development and the International Monetary Fund should expeditiously
+act upon loan requests from Poland.
+Sec. 602. Sense of the Congress supporting assistance by multilateral lending
+institutions to establish financial institutions in Poland.
+Sec. 603. Sense of the Congress relating to conditional financial assistance
+by multilateral lending institutions to Poland.
+Sec. 604. Sense of the Congress opposing the making of certain loans or
+the extension of certain financial and technical assistance to the People's
+Republic of China.
+TITLE VII--MISCELLANEOUS
+Sec. 701. Short title.
+Part A--Commercial Debt-for Nature Exchanges
+Sec. 711. Amendment to the Foreign Assistance Act.
+Part B--Multilateral Foreign Assistance Corporation
+Sec. 721. General policy.
+Sec. 722. Policy on negotiations.
+TITLE VIII--EFFECTIVE DATE
+Sec. 801. Effective date.
+TITLE I--EXPORT-IMPORT BANK ACT AMENDMENTS
+SEC. 101. EXPORT-IMPORT BANK ACT AMENDMENTS.
+ (a) INTEREST SUBSIDY PAYMENTS- Section 2(f) of the Export-Import Bank Act
+ of 1945 (12 U.S.C. 635(f)) is amended--
+ (1) by striking paragraph (2) and redesignating paragraphs (3), (4), and
+ (5) as paragraphs (2), (3), and (4), respectively;
+ (2) by amending paragraph (3) (as so redesignated by paragraph (1) of this
+ subsection) to read as follows:
+ `(3) LIMITATION ON AUTHORIZATION OF APPROPRIATIONS- To carry out this
+ subsection, there are authorized to be appropriated to the Bank not to
+ exceed--
+ `(A) $20,000,000, for fiscal year 1990; and
+ `(B) $35,000,000, for fiscal year 1991.'; and
+ (3) in paragraph (4) (as so redesignated by paragraph (1) of this subsection),
+ by striking `1988' and inserting `1991'.
+ (b) TIED AID CREDIT PROGRAM AND FUND-
+ (1) PURPOSE- Section 15(a)(5) of such Act (12 U.S.C. 635i-3(a)(5)) is
+ amended by striking all that follows `commercial advantage' and inserting
+ `for the purposes of--
+ `(A) enforcing compliance with the existing arrangement restricting the
+ use of tied aid and partially untied aid credits for commercial purposes; and
+ `(B) facilitating efforts to negotiate, establish, and enforce new or
+ revised comprehensive international arrangements effectively restricting
+ the use of tied aid and partially untied aid credits for commercial purposes;
+and such program should be used aggressively for such purposes.'.
+ (2) ESTABLISHMENT OF PROGRAM- The first sentence of section 15(b)(1) of such
+ Act (12 U.S.C. 635i-3(b)(1)) is amended by striking the matter preceding
+ subparagraph (A) and inserting `To carry out the purposes of subsection
+ (a)(5), the Bank shall establish a tied aid credit program under which grants
+ shall be made from funds available in the Tied Aid Credit Fund established
+ under subsection (c)--'.
+ (3) ADMINISTRATION OF PROGRAM- Section 15(b)(2)(A) of such Act (12
+ U.S.C. 635i-3(b)(2)(A)) is amended by striking all that follows `to' and
+ inserting `carry out the purposes described in subsection (a)(5);'.
+ (4) AVAILABILITY OF FUNDS- Section 15(c)(2) of such Act (12
+ U.S.C. 635i-3(c)(2)) is amended--
+ (A) by striking `cost' and inserting `amount equal to the concessionality
+ level'; and
+ (B) by striking all that follows `authorized by the Bank' and inserting
+ `through fiscal year 1991.'.
+ (5) LIMITATION ON AUTHORIZATION OF APPROPRIATIONS FOR FISCAL YEARS 1990
+ AND 1991- Section 15(e)(1) of such Act (12 U.S.C. 635i-3(e)(1)) is amended
+ by inserting `, and for fiscal years 1990 and 1991, $300,000,000' after
+ `$300,000,000'.
+ (6) REPORTS- Section 15(g)(2)(E) of such Act (12 U.S.C. 635i-3(g)(2)(E))
+ is amended to read as follows:
+ `(E) the progress achieved by negotiations conducted to carry out the
+ purposes described in subsection (a)(5).'.
+ (7) LIMITATION ON AUTHORIZATION OF APPROPRIATIONS FOR FISCAL YEARS 1990,
+ 1991, AND 1992- Section 15(e)(1) of such Act (12 U.S.C. 635i-3(e)(1))
+ is amended by inserting `, and for fiscal years 1990, 1991, and 1992,
+ $200,000,000' after `$300,000,000'.
+ (c) AUTHORITY TO ACCEPT REIMBURSEMENT FOR CERTAIN EXPENSES- Section 2(a)(1)
+ of such Act (12 U.S.C. 635(a)(1)) is amended--
+ (1) in the 6th sentence--
+ (A) by striking `The Bank may' and inserting `Subject to regulations which
+ the Bank shall issue pursuant to section 553 of title 5, United States Code,
+ the Bank may'; and
+ (B) by inserting `, and may accept reimbursement for travel and subsistence
+ expenses incurred by a director, officer, or employee of the Bank, in
+ accordance with subchapter I of chapter 57 of title 5, United States Code'
+ before the period; and
+ (2) in the 7th sentence, by inserting `and shall be offset against the
+ expenses of the Bank for such activities' before the period.
+ (d) CLARIFYING AMENDMENT- Section 2(b)(6)(G) of such Act (12
+ U.S.C. 635(b)(6)(G)) is amended by striking `this paragraph' and inserting
+ `subparagraphs (B), (C), (D), and (F)'.
+ (e) REPORT WITH RESPECT TO LOAN LOSS RESERVES- Before the end of the
+ 6-month period beginning on the date of the enactment of this section,
+ the Export-Import Bank of the United States shall submit a report to the
+ Congress explaining why the Bank has not established a loan loss reserve. In
+ preparing such report, the Bank shall--
+ (1) determine if the establishment of a loan loss reserve would result in
+ the unproductive characterization of the creditworthiness of certain types
+ of borrowers;
+ (2) consult with the appropriate Executive branch entities to determine
+ the budgeting and financial management implications of establishing a loan
+ loss reserve;
+ (3) review whether, and the extent to which similar bilateral and multilateral
+ lending institutions make provision against loan losses; and
+ (4) report on the steps needed to return the Bank to profitability.
+SEC. 102. EXTENSION OF CREDIT BY EXPORT-IMPORT BANK WITH RESPECT TO ANGOLA
+PROHIBITED UNLESS CERTAIN CONDITIONS ARE MET.
+ Section 2(b) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b))
+ is amended by adding at the end the following:
+ `(12) PROHIBITION RELATING TO ANGOLA- Notwithstanding any determination
+ by the President under paragraph (2) or (11), the Bank may not guarantee,
+ insure, or extend (or participate in the extension of) credit in connection
+ with any export of any good (other than food or an agricultural commodity)
+ or service to the People's Republic of Angola until the President certifies
+ to the Congress that free and fair elections have been held in Angola in
+ which all participants were afforded free and fair access, and that the
+ government of Angola--
+ `(A) is willing, and is actively seeking, to achieve an equitable political
+ settlement of the conflict in Angola, including free and fair elections,
+ through a mutual cease-fire and a dialogue with the opposition armed forces;
+ `(B) has demonstrated progress in protecting internationally recognized
+ human rights, and particularly in--
+ `(i) ending, through prosecution or other means, involvement of members
+ of the military and security forces in political violence and abuses of
+ internationally recognized human rights;
+ `(ii) vigorously prosecuting persons engaged in political violence who are
+ connected with the government; and
+ `(iii) bringing to justice those responsible for the abduction, torture,
+ and murder of citizens of Angola and citizens of the United States; and
+ `(C) has demonstrated progress in its respect for, and protection of--
+ `(i) the freedom of the press;
+ `(ii) the freedom of speech;
+ `(iii) the freedom of assembly;
+ `(iv) the freedom of association (including the right to organize for
+ political purposes);
+ `(v) internationally recognized worker rights; and
+ `(vi) other attributes of political pluralism and democracy.
+The President shall include in each report made pursuant to this paragraph a
+detailed statement with respect to each of the conditions set forth in this
+paragraph. This paragraph shall not be construed to impose any requirement
+with respect to Angola that is more restrictive than any requirement imposed
+by this section generally on all other countries.'.
+SEC. 103. EXPORT-IMPORT PROGRAMS TO THE PEOPLE'S REPUBLIC OF CHINA PROHIBITED
+UNLESS CERTAIN CONDITIONS ARE MET.
+ (a) Notwithstanding any other provision of law and subject to the provisions
+ of subsections (b) and (c), the Export-Import Bank of the United States shall
+ not finance any trade with, nor extend any loan, credit, credit guarantee,
+ insurance or reinsurance to the People's Republic of China.
+ (b) The prohibitions described in subsection (a) of this section shall not
+ apply to food or agricultural commodities.
+ (c) The President may waive the prohibitions in subsection (a) if he makes
+ a report to Congress either--
+ (1) that the Government of the People's Republic of China has made progress
+ on a program of political reform throughout the country, as well as in Tibet,
+ which includes--
+ (A) lifting of martial law;
+ (B) halting of executions and other reprisals against individuals for the
+ nonviolent expression of their political beliefs;
+ (C) release of political prisoners;
+ (D) increased respect for internationally recognized human rights, including
+ freedom of expression, the press, assembly, and association; and
+ (E) permitting a freer flow of information, including an end to the jamming
+ of Voice of America and greater access for foreign journalists; or
+ (2) it is in the national interest of the United States to terminate a
+ suspension under subsection (a).
+TITLE II--INTER-AMERICAN DEVELOPMENT BANK
+SEC. 201. PARTICIPATION BY THE UNITED STATES IN A CAPITAL INCREASE OF THE
+INTER-AMERICAN DEVELOPMENT BANK; INCREASE IN RESOURCES OF FUND FOR SPECIAL
+OPERATIONS.
+ The Inter-American Development Bank Act (22 U.S.C. 283 et seq.) is amended
+ by adding at the end the following:
+`SEC. 33. CAPITAL INCREASE; INCREASE IN RESOURCES OF FUND FOR SPECIAL
+OPERATIONS.
+ `(a) AUTHORITY TO VOTE FOR, AND TO SUBSCRIBE AND CONTRIBUTE TO, INCREASE
+ IN AUTHORIZED CAPITAL STOCK OF BANK AND INCREASE IN RESOURCES OF FUND FOR
+ SPECIAL OPERATIONS-
+ `(1) VOTE AUTHORIZED- The United States Governor of the Bank is authorized
+ to vote for resolutions which--
+ `(A) were transmitted by the Board of Executive Directors to the Governors
+ of the Bank by resolution of April 19, 1989;
+ `(B) are pending before the Board of Governors of the Bank; and
+ `(C) provide for--
+ `(i) an increase in the authorized capital stock of the Bank and subscriptions
+ to the Bank; and
+ `(ii) an increase in the resources of the Fund for Special Operations and
+ contributions to the Fund.
+ `(2) SUBSCRIPTION AND CONTRIBUTION AUTHORITY- To the extent and in the
+ amounts provided in advance in appropriations Acts, on adoption of the
+ resolutions described in paragraph (1), the United States Governor of the
+ Bank may, on behalf of the United States--
+ `(A) subscribe to 760,112 shares of the increase in the authorized capital
+ stock of the Bank; and
+ `(B) contribute $82,304,000 to the Fund for Special Operations.
+ `(b) LIMITATION ON AUTHORIZATION OF APPROPRIATIONS- To pay for the
+ subscription and contribution authorized under subsection (a), there are
+ authorized to be appropriated, without fiscal year limitation, for payment
+ by the Secretary of the Treasury--
+ `(1) $9,169,559,712, for the United States subscription to the capital
+ stock of the Bank; and
+ `(2) $82,304,000, for the United States contribution to the Fund for
+ Special Operations.
+ `(c) ORGANIZATIONAL CHANGES REQUIRED TO BE MADE BEFORE PAYMENT FOR
+ SUBSCRIPTION TO CAPITAL STOCK AND CONTRIBUTION TO THE FUND FOR SPECIAL
+ OPERATIONS- The Secretary of the Treasury may not make any payment for
+ the subscription and contribution authorized under subsection (a) unless
+ the Bank--
+ `(1) has established an environmental unit with responsibility for the
+ development, evaluation, and integration of Bank policies, projects, and
+ programs designed to promote environmentally sustainable development in
+ borrower countries;
+ `(2) has increased the number of the staff of the Bank with environmentally
+ oriented responsibilities and training;
+ `(3) provides for an increase in the number of environmentally beneficial
+ projects and programs financed by the Bank; and
+ `(4) has designed a process for ensuring the access of indigenous
+ non-governmental organizations to the process for designing projects and
+ programs.
+ `(d) CERTIFICATION OF ACCESS TO BANK RECORDS REQUIRED BEFORE PAYMENT
+ FOR SUBSCRIPTION TO CAPITAL STOCK AND CONTRIBUTION TO FUND FOR SPECIAL
+ OPERATIONS- The Secretary of the Treasury shall not make any payment for
+ the subscription and contribution authorized under subsection (a) until the
+ Secretary, after consultation with the United States Executive Director of
+ the Bank, certifies to the Congress that--
+ `(1) the Bank has given the Comptroller General of the United States access
+ to the audit memorandum issued by the Auditor General of the Bank with respect
+ to the November 1987 disbursement of funds to the Government of Nicaragua;
+ `(2) the Bank has implemented and is continuing to implement revised
+ procedures issued in 1988 for collecting loan services payments in arrears;
+ `(3) the revised procedures referred to in paragraph (2) satisfy the
+ recommendations of the Auditor General of the Bank; and
+ `(4) the Comptroller General of the United States has access to all documents
+ of the Bank on the same terms and under the same conditions as such documents
+ are made available to the United States Executive Director of the Bank.'.
+SEC. 202. INVESTMENT IN HUMAN CAPITAL.
+ (a) PROMOTION OF LENDING IN SUPPORT OF HUMAN CAPITAL- The Inter-American
+ Development Bank Act (22 U.S.C. 283 et seq.) is amended by adding after
+ the section added by section 201 of this Act the following:
+`SEC. 34. INVESTMENT IN HUMAN CAPITAL.
+ `(a) IN GENERAL- The Secretary of the Treasury shall instruct the United
+ States Executive Director of the Inter-American Development Bank to
+ propose and use the voice and vote of such director, during the 4-year
+ period beginning on January 1, 1990, to vigorously promote an increase in
+ the proportion of Bank lending in support of projects and programs which
+ support investments in human capital and to seek the rapid implementation
+ by the Bank of systematic mechanisms of consultation with locally affected
+ populations in borrower countries either directly or through appropriate
+ representative non-governmental organizations.
+ `(b) INVESTMENTS IN HUMAN CAPITAL DEFINED- As used in subsection (a), the
+ term `investments in human capital' means investments in projects, policies,
+ and programs designed to improve urban and rural health care and sanitation,
+ basic nutrition, education, the small-producer private sector, the economic
+ activities of women, and the development of indigenous non-governmental
+ organizations.'.
+ (b) REPORT TO THE CONGRESS- The Chairman of the National Advisory Council on
+ International Monetary and Financial Policies shall include in the report
+ required by section 1701 of the International Financial Institutions Act
+ for fiscal year 1991 a report on the efforts undertaken by the United States
+ Executive Director of the Inter-American Development Bank, and the progress
+ to date, in achieving the objectives of section 34 of the Inter-American
+ Development Bank Act.
+SEC. 203. LIMITATIONS ON INTER-AMERICAN DEVELOPMENT BANK POLICY BASED LENDING.
+ The Inter-American Development Bank Act (22 U.S.C. 283 et seq.) is amended
+ by adding after the section added by section 202 of this Act the following:
+`SEC. 35. LIMITATIONS ON POLICY BASED LENDING.
+ `The Secretary of the Treasury shall--
+ `(1) take all necessary steps to encourage the Bank to limit the aggregate
+ value of the policy based loans made by the Bank (other than policy based
+ loans made to any country which the Bank has determined is economically
+ less developed or has a limited market economy, which are used to purchase
+ sovereign debt of such country or to reduce the debt or debt service burden
+ of such country) during the 4-year period beginning on January 1, 1990,
+ to 25 percent of the aggregate value of all loans made by the Bank during
+ such 4-year period;
+ `(2) take all necessary steps to encourage the Bank to limit the aggregate
+ value of the policy based loans made by the Bank to the government of
+ a particular country during such 4-year period, to 50 percent of the
+ aggregate value of all loans made by the Bank to such government during
+ such 4-year period;
+ `(3) instruct the United States Executive Director of the Bank to explore
+ with the other Executive Directors of the Bank ways to use a portion of
+ the resources made available to the Bank by reason of the subscription
+ and contribution described in section 33(a)(2) for debt reduction and debt
+ service reduction for countries described in paragraph (1); and
+ `(4) before the end of the 12-month period beginning on the date of the
+ enactment of this section, report to the Congress on the matters described
+ in paragraph (3).'.
+SEC. 204. INCREASE IN INTER-AMERICAN DEVELOPMENT BANK LENDING TO THE CARIBBEAN.
+ The Inter-American Development Bank Act (22 U.S.C. 283 et seq.) is amended
+ by adding after the section added by section 203 of this Act the following:
+`SEC. 36. INCREASE IN LENDING TO THE CARIBBEAN.
+ `The Secretary of the Treasury shall instruct the United States Executive
+ Director of the Bank to enter into discussions with the management of the
+ Bank and with other member country governments to seek to increase Bank
+ lending to the Caribbean region, directly or through appropriate financial
+ intermediaries, for viable projects which will--
+ `(1) result in expanded regional economic integration, diversification,
+ and industrial and agricultural production, and improved infrastructure; and
+ `(2) seek to ensure equitable and environmentally sustainable economic
+ growth.'.
+SEC. 205. SENSE OF THE CONGRESS THAT INTER-AMERICAN DEVELOPMENT BANK LOANS
+SHOULD REDUCE DEPENDENCE ON ILLICIT NARCOTICS.
+ It is the sense of the Congress that, whenever possible and appropriate,
+ loans made by the Inter-American Development Bank during the 4-year period
+ beginning on January 1, 1990, should promote economic development which
+ will reduce the growing economic dependence on the production and transit
+ of illicit narcotics in certain borrower countries.
+SEC. 206. DIRECTIVES REGARDING GOVERNMENT-OWNED ENTERPRISES IN COUNTRIES
+RECEIVING IADB LOANS.
+ The International Financial Institutions Act (22 U.S.C. 262c et seq.) is
+ amended by redesignating section 1612 as section 1613 and by inserting
+ after section 1611 the following:
+`SEC. 1612. DIRECTIVES REGARDING GOVERNMENT-OWNED ENTERPRISES IN COUNTRIES
+RECEIVING IADB LOANS.
+ `(a) FINDING- The Congress finds that a principal focus of United States
+ Government policy in the multilateral development banks has been and should
+ be to foster greater development of the private sector in member borrowing
+ countries of such banks.
+ `(b) TECHNICAL ASSISTANCE TO TRANSFORM GOVERNMENT-OWNED ENTERPRISES INTO
+ PRIVATELY OWNED ENTERPRISES- In order to assist and strengthen the advancement
+ of ongoing efforts to have the Inter-American Development Bank play a key
+ role in building a viable private sector in member borrowing countries of
+ such bank, and to further assist such bank in its determination to facilitate
+ the transfer of government-owned enterprises in such countries to private
+ ownership, the Secretary of the Treasury shall instruct the United States
+ Executive Director of such bank to vigorously encourage the provision of
+ technical assistance to such countries to transform enterprises owned,
+ in whole or in part, by the governments of such countries into privately
+ owned, self-sufficient enterprises. Such technical assistance may involve the
+ valuation of the assets of such government-owned enterprises, the assessment
+ of tender offers, and the creation or strengthening of market-based mechanisms
+ to facilitate such a transfer of ownership.'.
+TITLE III--INTERNATIONAL MONETARY FUND ENHANCED STRUCTURAL ADJUSTMENT FACILITY
+SEC. 301. CONTRIBUTION TO THE INTEREST SUBSIDY ACCOUNT OF THE ENHANCED
+STRUCTURAL ADJUSTMENT FACILITY OF THE INTERNATIONAL MONETARY FUND.
+ The Bretton Woods Agreements Act (22 U.S.C. 286 et seq.) is amended by
+ adding at the end the following:
+`SEC. 54. CONTRIBUTION TO THE INTEREST SUBSIDY ACCOUNT OF THE ENHANCED
+STRUCTURAL ADJUSTMENT FACILITY OF THE INTERNATIONAL MONETARY FUND.
+ `(a) CONTRIBUTION AUTHORIZED-
+ `(1) IN GENERAL- Subject to paragraph (2), the United States Governor of
+ the Fund may contribute $150,000,000 to the Interest Subsidy Account of
+ the Enhanced Structural Adjustment Facility of the Fund on behalf of the
+ United States.
+ `(2) CONDITION- The United States Governor of the Fund may not make a
+ commitment to contribute any amount authorized to be contributed under
+ paragraph (1) before an amount equal to such amount has been appropriated
+ for such purpose.
+ `(b) LIMITATION ON AUTHORIZATION OF APPROPRIATIONS- To pay for the
+ contribution authorized by subsection (a), there are authorized to be
+ appropriated not to exceed $150,000,000, without fiscal year limitation,
+ for payment by the Secretary of the Treasury.'.
+SEC. 302. DISCUSSIONS TO ENHANCE THE CAPACITY OF THE INTERNATIONAL MONETARY
+FUND TO ALLEVIATE THE POTENTIALLY ADVERSE IMPACTS OF FUND PROGRAMS ON THE
+POOR AND THE ENVIRONMENT.
+ The Bretton Woods Agreements Act (22 U.S.C. 286 et seq.) is amended by
+ adding after the section added by section 301 of this Act the following:
+`SEC. 55. DISCUSSIONS TO ENHANCE THE CAPACITY OF THE FUND TO ALLEVIATE THE
+POTENTIALLY ADVERSE IMPACTS OF FUND PROGRAMS ON THE POOR AND THE ENVIRONMENT.
+ `The Secretary of the Treasury shall instruct the United States Executive
+ Director of the Fund to seek policy changes by the Fund, through formal
+ initiatives and through bilateral discussions, which will result in--
+ `(1) the initiation of a systematic review of policy prescriptions implemented
+ by the Fund, for the purpose of determining whether the Fund's objectives were
+ met and the social and environmental impacts of such policy prescriptions; and
+ `(2) the establishment of procedures which ensure the inclusion, in future
+ economic reform programs approved by the Fund, of policy options which
+ eliminate or reduce the potential adverse impact on the well-being of the
+ poor or the environment resulting from such programs.'.
+TITLE IV--INTERNATIONAL DEBT PROVISIONS
+SEC. 401. SHORT TITLE.
+ This title may be cited as the `Foreign Debt Reserving Act of 1989'.
+SEC. 402. ADDITIONAL RESERVE REQUIREMENTS.
+ (a) FINDINGS- The Congress finds that--
+ (1) since the adoption of the International Lending Supervision Act of 1983,
+ the credit quality of loans by United States banking institutions to highly
+ indebted countries has deteriorated and the prospects for full repayment
+ of such loans have diminished;
+ (2) in general during this period, the level of country exposure and transfer
+ risk associated with loans by United States banking institutions to highly
+ indebted countries has not been adequately reflected in the reserve levels
+ established by many individual United States banking institutions or the
+ reserve requirements imposed by Federal banking agencies pursuant to such Act;
+ (3) during the last 3 years and particularly in recent months, United States
+ banking institutions have increased their reserves for possible losses from
+ loans to highly indebted countries but such reserves remain, in some cases,
+ significantly lower than reserves established by banking institutions in a
+ number of foreign countries and may not be adequate to deal with potential
+ risks; and
+ (4) in order to fulfill the purposes of such Act, the Federal banking agencies
+ should take a more active role in reviewing reserve levels established by
+ United States banking institutions for potential losses from loans to highly
+ indebted countries and in requiring appropriate levels of both special and
+ general reserves to reflect the increased risk of such loans.
+ (b) IN GENERAL- The International Lending Supervision Act of 1983 (12
+ U.S.C. 3901 et seq.) is amended by inserting after section 905 the following
+ new section:
+`SEC. 905A. ADDITIONAL RESERVE REQUIREMENTS.
+ `(a) IN GENERAL- Each appropriate Federal banking agency shall review the
+ exposure to risk of United States banking institutions arising from the
+ medium- and long-term loans made by such institutions that are outstanding
+ to any highly indebted country. Each agency shall provide direction to
+ such institutions regarding additions to general reserves maintained by
+ each banking institution for potential loan losses and special reserves
+ required by such agency arising from such review.
+ `(b) DETERMINATION OF INSTITUTIONAL EXPOSURE TO RISK- In determining the
+ exposure of an institution to risk for purposes of subsection (a), the
+ appropriate Federal banking agency--
+ `(1) shall determine whether any country exposure that is, and has been
+ for at least 2 years, rated in the category `Other Transfer Risk Problems'
+ or the category `Substandard' by the Interagency Country Exposure Review
+ Committee should be reevaluated;
+ `(2) may exempt, in full or in part, from reserve requirements established
+ pursuant to subsection (a), any loan--
+ `(A) to a country that enters into a debt reduction, debt service reduction,
+ or financing program with its bank creditors that is supported by the
+ International Bank for Reconstruction and Development or the International
+ Monetary Fund; or
+ `(B) secured, in whole or in part, by appropriate collateral for payment
+ of interest or principal;
+ `(3) take into account any other factors which bear on such exposure and
+ the particular circumstances of the institution; and
+ `(4) shall consider as indicators of risk, where appropriate, the average
+ reserve levels maintained by or required of banking institutions in foreign
+ countries and secondary market prices for such loans.
+ `(c) TIMING AND REPORT-
+ `(1) DETERMINED BY AGENCY- Except as provided in paragraph (3), each
+ appropriate Federal banking agency shall determine the timing of any addition
+ to reserves required by subsection (a).
+ `(2) REPORT- Each appropriate Federal banking agency shall include in each
+ report required to be made under section 913(d) after 1989 a report on the
+ actions taken pursuant to this section.
+ `(3) DEADLINE- Each Federal agency required to undertake a review described
+ in subsection (a) shall complete the review not later than December 31, 1990.
+ `(d) HIGHLY INDEBTED COUNTRY DEFINED- As used in this section, the term
+ `highly indebted country' means any country designated as a `Highly Indebted
+ Country' in the annual World Debt Tables most recently published by the
+ International Bank for Reconstruction and Development before the date of
+ the enactment of this section.'.
+SEC. 403. REPORT ON MARK TO MARKET ACCOUNTING.
+ (a) REPORT REQUIRED- Before the end of the 90-day period beginning on
+ the date of the enactment of this section, the Board of Governors of the
+ Federal Reserve System, the Federal Deposit Insurance Corporation, and the
+ Comptroller of the Currency shall jointly report to the Committee on Banking,
+ Finance and Urban Affairs of the House of Representatives and the Committee
+ on Banking, Housing, and Urban Affairs of the Senate on the merits of mark
+ to market accounting treatment as an appropriate accounting treatment for
+ the sovereign debt of highly indebted countries which is held by United
+ States commercial banks.
+ (b) CONTENTS OF REPORT- The report required under subsection (a) shall
+ include--
+ (1) a discussion of the merits of mark to market accounting treatment as the
+ appropriate accounting treatment for the sovereign debt of highly indebted
+ countries which is held by United States commercial banks; and
+ (2) a description of the factors which the Board of Governors of the
+ Federal Reserve System, the Federal Deposit Insurance Corporation, and
+ the Comptroller of the Currency will consider in future assessments of the
+ applicability of mark to market accounting to such debt.
+SEC. 404. STUDY ON ELIMINATION OF CAPITAL FLIGHT.
+ (a) IN GENERAL- The Secretary of the Treasury shall instruct the United
+ States Executive Director of the International Monetary Fund to propose
+ that the Fund conduct a study on multilateral means by which the banking
+ industry might help reverse capital flight from countries which are engaged
+ in debt restructuring, including--
+ (1) the feasibility of disclosing the names of account holders whose accounts
+ may consist of flight capital, and the balances of such accounts;
+ (2) the usefulness of such disclosures in deterring the creation and
+ maintenance of such accounts, and how such deterrence would operate or
+ be defeated;
+ (3) the extent to which any such information is gathered and to whom such
+ information is made available;
+ (4) the receptiveness of such countries to the disclosure of such information;
+ (5) the difficulties in, and the cost of, collecting such information and
+ overcoming legal obstacles used to disguise the true ownership of such
+ deposits, including the feasibility of using the threat of confiscatory
+ penalties to prevent the disguising of the ownership of deposits;
+ (6) the usefulness of using taxes as a means to encourage the repatriation
+ of flight capital; and
+ (7) the applicability (if any) of efforts to facilitate the identification,
+ tracing, seizure, and forfeiture of drug crime proceeds, and to prevent the
+ use of the banking system and of financial institutions for the purpose of
+ money laundering.
+ (b) FLIGHT CAPITAL DEFINED- As used in subsection (a), the term `flight
+ capital' means any asset--
+ (1)(A) which is deposited in a banking institution for safekeeping or
+ investment purposes; or
+ (B) for which a financial institution serves as a conduit, an agent, or a
+ fiduciary in a transaction; and
+ (2) the owner of which may be a legal resident of a country other than the
+ country in which the institution is located.
+ (c) REPORT TO THE CONGRESS- Not later than the end of the 180-day period
+ beginning on the date of the enactment of this Act, the Secretary of the
+ Treasury shall submit to the Chairman of the Committee on Banking, Finance
+ and Urban Affairs of the House of Representatives, and the Committee on
+ Banking, Housing, and Urban Affairs of the Senate a report on the actions
+ taken and studies completed as required by subsection (a).
+SEC. 405. FACTORS TO BE TAKEN INTO ACCOUNT IN DEVELOPING UNITED STATES
+POLICY TOWARD DEBT REDUCTION FOR CERTAIN HIGHLY INDEBTED COUNTRIES; REPORT
+TO THE CONGRESS.
+ (a) FACTORS TO BE TAKEN INTO ACCOUNT- In developing the policy of the United
+ States Government with respect to debt reduction for each highly indebted
+ country which has a substantial share of the export market for 1 or more
+ agricultural commodities the export market for which the United States also
+ has a substantial share, the Secretary of the Treasury shall consider among
+ other factors the effects of such policy on:
+ (1) United States exports of such commodities.
+ (2) The world price of such commodities.
+ (3) Domestic agricultural production and land distribution patterns in
+ such country.
+ (4) The volume of exports from such country of agricultural commodities
+ the export market for which such country has a substantial share of.
+ (5) Basic nutrition levels in such country.
+ (b) REPORT TO THE CONGRESS- Before the end of the 12-month period beginning
+ on the date of the enactment of this section, the Secretary of the Treasury
+ shall submit a report to the Congress on the potential impact of such policy
+ on such factors in the highly indebted countries.
+ (c) HIGHLY INDEBTED COUNTRY DEFINED- As used in this section, the term
+ `highly indebted country' means any country designated as a `Highly Indebted
+ Country' in the annual World Debt Tables most recently published by the
+ International Bank for Reconstruction and Development before the date of
+ the enactment of this section.
+SEC. 406. SENSE OF THE CONGRESS THAT AGREEMENTS TO REDUCE DEBT BURDEN SHOULD
+BE ACCOMPANIED BY TRADE LIBERALIZATION.
+ (a) FINDINGS- The Congress finds that--
+ (1) Third World debtor nations have often been forced to raise trade barriers
+ in order to accumulate foreign exchange surpluses to repay debt obligations;
+ (2) trade flows between such nations and the United States have lessened
+ due to the debt crisis;
+ (3) the reduction of trade barriers would benefit the world economy and
+ promote economic growth; and
+ (4) the Brady plan encourages debt reduction agreements on behalf of domestic
+ financial institutions.
+ (b) SENSE OF THE CONGRESS- It is the sense of Congress that the Secretary
+ of the Treasury should continue to encourage trade liberalization as an
+ element of economic reform programs.
+SEC. 407. LINKAGE OF DEBT REDUCTION LOANS TO REDUCTION IN DRUG TRAFFICKING;
+REPORT TO CONGRESS.
+ (a) FINDINGS- The Congress finds that--
+ (1) the Brady Initiative is a positive step, recognizing as it does the need
+ for reducing the debt and debt service burdens of the indebted developing
+ countries;
+ (2) the multilateral development banks should, as part of this debt
+ reduction process, encourage such countries to further reform their
+ economies by reducing their dependence on production and trafficking of
+ illicit narcotics; and
+ (3) reduction of debt should relieve some of the financial burden on these
+ countries, and thereby enable them to rely on legal income-generating
+ activities.
+ (b) INSTRUCTION OF UNITED STATES EXECUTIVE DIRECTORS- The Secretary of
+ the Treasury shall instruct the United States Executive Director of each
+ multilateral development bank that, in voting with respect to loans from
+ the multilateral development bank to reduce the debt and debt burden of
+ borrowing countries which are major producers, processors, traffickers,
+ or exporters of illegal drugs to the United States, the Executive Director
+ shall give preference to those countries which show marked improvement in
+ reducing the volume of cultivation, processing, trafficking, and export
+ to the United States of illegal drugs. In making a determination under the
+ preceding sentence with respect to a country's improvement, the Secretary
+ of the Treasury shall consult with the heads of the relevant agencies.
+ (c) REPORT TO CONGRESS- The Secretary of the Treasury shall include, in
+ the detailed accounting required by section 2018(c) of the International
+ Narcotics Control Act of 1986 (22 U.S.C. 2191 note), relating to multilateral
+ development bank assistance for drug eradication and crop substitution
+ programs, an additional discussion of the steps taken and the progress
+ made in implementing the goals set forth in subsection (b) of this section,
+ and further steps needed to secure the achievement of these goals.
+ (d) DEFINITIONS- As used in this section--
+ (1) the term `multilateral development bank' includes the International Bank
+ for Reconstruction and Development, the International Development Association,
+ the International Finance Corporation, the Inter-American Development Bank,
+ the Inter-American Investment Corporation, the Asian Development Bank,
+ the African Development Bank, and the African Development Fund; and
+ (2) the term `illegal drugs' means `narcotic and psychotropic drugs and
+ other controlled substances', as defined in section 481(i)(3) of the Foreign
+ Assistance Act of 1961 (22 U.S.C. 2291(i)(3)).
+TITLE V--ALLEVIATION OF POVERTY; ENVIRONMENTAL PROVISIONS; DEBT-FOR-DEVELOPMENT
+SWAPS; CONSOLIDATION OF REPORTING REQUIREMENTS
+Subtitle A--Alleviation of Poverty
+SEC. 501. INCREASING THE PRODUCTIVE ECONOMIC PARTICIPATION OF THE POOR.
+ The International Financial Institutions Act (22 U.S.C. 262c et seq.) is
+ amended by redesignating section 1613 (as so redesignated by section 206
+ of this Act) as section 1614 and by inserting after section 1612 (as added
+ by such section 206) the following:
+`SEC. 1613. DISCUSSIONS TO INCREASE THE PRODUCTIVE ECONOMIC PARTICIPATION
+OF THE POOR; REPORTS.
+ `(a) IN GENERAL- The Secretary of the Treasury shall instruct the United
+ States Executive Director for each multilateral development bank to vigorously
+ and continually advocate, in all replenishment negotiations and in discussion
+ with other directors of such bank and with such bank, the following:
+ `(1) A major objective of such bank's operations and financing in each
+ borrowing country, as a long term priority, should be to increase the
+ productive role of the poor in the economy of such country.
+ `(2) Such bank should encourage and assist each borrowing country to
+ develop sustainable national plans and strategies to eliminate the causes
+ and alleviate the manifestations of poverty which keep the poor from leading
+ economically and socially productive lives. Such plans and strategies should
+ give attention to--
+ `(A) the enhancement of human resources, including programs for basic
+ nutrition, primary health services, basic education, and safe water and
+ basic sanitation;
+ `(B) access to income-generating activities, employment, and productive
+ assets such as land and credit; and
+ `(C) consultation with public sector social agencies and local
+ non-governmental organizations.
+ `(3) As an integral element of ongoing policy dialogue with each borrowing
+ country to design structural adjustment plans and project lending programs,
+ such bank should provide assistance consistent with achieving the objectives
+ of the country's national plan for increasing the productive economic
+ participation of the poor. Such dialogue should be conducted with government
+ agencies working in social and economic sectors and with non-governmental
+ groups in the borrowing country, especially those that have grassroots
+ involvement with poor people.
+ `(4) In an annual review document, such bank should describe the extent to
+ which the goal of increasing the productive economic participation of the poor
+ is being advanced or retarded and the steps that are being taken to overcome
+ obstacles to its fulfillment. Such review should be based on information
+ contained in the bank's country implementation review documents and in the
+ country strategy documents for each borrowing country. Such country strategy
+ documents should describe the national strategy for productive economic
+ participation of the poor and the steps the bank plans to take to assist the
+ borrowing country during the period covered by the country strategy document.
+ `(5) Such bank should assist countries in assessing and monitoring progress
+ in achieving poverty alleviation goals and targets through measurement by
+ appropriate social indicators.
+ `(6) Such bank should adopt procedures and budgetary allocations for
+ administrative purposes, and establish appropriate staffing levels,
+ to ensure that adequate resources are available to implement the bank's
+ program for enhancing the productive economic participation of the poor,
+ in consultation with non-governmental groups.
+ `(7) Such bank should adopt, as a separate and major criterion in the
+ allocation of concessional financing resources, a preferential allocation to
+ each country which undertakes significant efforts to enhance the productive
+ economic participation of the poor.
+ `(8) Such bank should require each country which receives structural
+ adjustment assistance to have in place, after a reasonable phase-in period,
+ a strategy to enhance the productive economic participation of the poor.
+ `(b) PROGRESS REPORT- Before the end of the 1-year period beginning on
+ the date of the enactment of this section, the Secretary of the Treasury
+ shall submit to the Committee on Banking, Finance and Urban Affairs and
+ the Committee on Appropriations of the House of Representatives, and the
+ Committee on Foreign Relations and the Committee on Appropriations of the
+ Senate, a report on the following:
+ `(1) The status of advocacy and progress being made to implement the
+ objectives of subsection (a), describing the success to date, the obstacles
+ encountered, and future expectations of progress.
+ `(2) A description of the progress to date in achieving the purposes of
+ section 1611, including the institutional capacity and effort devoted to
+ assisting in the development of statistical measures to assess the well-being
+ of the poor.
+ `(3) A description and evaluation of the progress to date in developing
+ effective mechanisms for involving non-governmental organizations, directly
+ or indirectly, in the design, implementation, and monitoring of development
+ projects, programs, and policies of the multilateral development banks.'.
+Subtitle B--International Debt Exchanges and the Environment
+SEC. 511. SENSE OF THE CONGRESS RESOLUTION REGARDING ENVIRONMENTAL POLICY
+AND INTERNATIONAL DEBT EXCHANGES.
+ It is the sense of the Congress that--
+ (1) the Secretary of the Treasury should include support for sustainable
+ development and conservation projects when providing a framework for
+ negotiating or facilitating exchanges or reductions of commercial debt of
+ foreign countries; and
+ (2) that in assisting or facilitating the reduction of debt of heavily
+ indebted foreign countries, through multilateral institutions such as the
+ International Monetary Fund or the International Bank for Reconstruction and
+ Development, the Secretary of State and the Secretary of the Treasury should--
+ (A) support efforts to provide adequate resources for sustainable development
+ and conservation projects as a component of the restructured commercial
+ bank debt of that country; and
+ (B) in providing such support, seek to assure that--
+ (i) the host government, or a local nongovernmental organization acting
+ with the support of the host government, has identified conservation or
+ sustainable development projects it will target for assistance;
+ (ii) there will be in place an organization, either governmental or
+ nongovernmental, that will have the commitment to assure the long-term
+ viability of the project; and
+ (iii) the allocation of the resources provided for conservation and
+ sustainable development projects through the debt restructuring agreement
+ is done in a manner that will not overwhelm or distort economic conditions
+ in the host country.
+SEC. 512. MULTILATERAL DEVELOPMENT BANKS AND DEBT-FOR-NATURE EXCHANGES.
+ The International Financial Institutions Act (22 U.S.C. 262c et seq.) is
+ amended by redesignating section 1614 (as so redesignated by section 501
+ of this Act) as section 1617, and by inserting after section 1613 (as added
+ by such section 501) the following:
+`SEC. 1614. MULTILATERAL DEVELOPMENT BANKS AND DEBT-FOR-NATURE EXCHANGES.
+ `(a) DIRECTIONS TO THE UNITED STATES EXECUTIVE DIRECTORS- The Secretary
+ of the Treasury shall direct the United States Executive Directors of the
+ multilateral development banks to--
+ `(1) negotiate for the creation in each respective multilateral development
+ bank, except where the Secretary of the Treasury determines that the
+ provisions of this subsection have previously been met, of a department
+ that will--
+ `(A) be responsible for environmental protection and resource conservation,
+ including support for restoration, protection, and sustainable use policies;
+ `(B) develop and monitor strict environmental guidelines and policies to
+ govern lending activities; and
+ `(C) actively promote, coordinate and facilitate debt-for-nature exchanges
+ and the restoration, protection, and sustainable use of tropical forests,
+ renewable natural resources, endangered ecosystems and species in debtor
+ countries;
+ `(2) support and encourage the approval of multilateral development bank
+ loans which include provisions that foster and facilitate the implementation
+ of a sound and effective environmental policy in the borrowing country;
+ `(3) encourage the banks to assist such countries in reducing and
+ restructuring private debt through the use of a portion of a project or
+ policy based environmental loan in ways which will enable such countries
+ to buy back private debt at a rate of discount available for such debt,
+ at auction in the secondary market or through negotiations with creditors
+ holding such debt;
+ `(4) seek to ensure that staff of each bank facilitate debtor countries'
+ collaboration with local and international non-governmental or private
+ organizations in implementing debt-for-nature exchanges; and
+ `(5) seek to ensure that each bank adopts policy guidelines which to the
+ maximum extent possible provide for--
+ `(A) the inclusion of sustainable use policies in loan agreements negotiated
+ with borrower members;
+ `(B) the adoption of economic programs to foster sound environmental
+ policies; and
+ `(C) the provision of debtor countries' policy changes or significant
+ increases in financial resources for use in at least 1 of the following--
+ `(i) restoration, protection, or sustainable use of the world's oceans
+ and atmosphere;
+ `(ii) restoration, protection, or sustainable use of diverse animal and
+ plant species;
+ `(iii) establishment, restoration, protection, and maintenance of parks
+ and reserves;
+ `(iv) development and implementation of sound systems of natural resource
+ management;
+ `(v) development and support of local conservation programs;
+ `(vi) training programs to strengthen conservation institutions and increase
+ scientific, technical, and managerial capabilities of individuals and
+ organizations involved in conservation efforts;
+ `(vii) efforts to generate knowledge, increase understanding, and enhance
+ public commitment to conservation;
+ `(viii) design and implementation of sound programs of land and ecosystem
+ management; and
+ `(ix) promotion of regenerative approaches in farming, forestry, and
+ watershed management.
+ `(b) NEGOTIATION OF GUIDELINES FOR RESTORATION, PROTECTION, OR SUSTAINABLE
+ USE POLICIES- The United States Executive Directors of the multilateral
+ development banks shall seek to negotiate with the other executive directors
+ to provide guidelines for restoration, protection, or sustainable use
+ policies. Pending the outcome of such negotiations, the United States
+ Executive Directors shall consider restoration, protection, or sustainable
+ use policies to be those which--
+ `(1) support development that maintains and restores the renewable natural
+ resource base so that present and future needs of debtor countries'
+ populations can be met, while not impairing critical ecosystems and not
+ exacerbating global environmental problems;
+ `(2) are environmentally sustainable in that resources are conserved and
+ managed in an effort to remove pressure on the natural resource base and to
+ make judicious use of the land so as to sustain growth and the availability
+ of all natural resources;
+ `(3) support development that does not exceed the limits imposed by local
+ hydrological cycles, soil, climate, vegetation, and human cultural practices;
+ `(4) promote the maintenance and restoration of soils, vegetation,
+ hydrological cycles, wildlife, critical ecosystems (tropical forests,
+ wetlands, and coastal marine resources), biological diversity and other
+ natural resources essential to economic growth and human well-being and shall,
+ when using natural resources, be implemented to minimize the depletion of
+ such natural resources; and
+ `(5) take steps, wherever feasible, to prevent pollution that threatens
+ human health and important biotic systems and to achieve patterns of energy
+ consumption that meet human needs and relys on renewable resources.
+ `(c) INCLUSION OF CERTAIN ITEMS IN GUIDELINES- The United States Executive
+ Directors shall endeavor to include the provisions of paragraphs (1) through
+ (5) of subsection (b) in the guidelines developed through the negotiations
+ specified in this section.
+`SEC. 1615. PROMOTION OF LENDING FOR THE ENVIRONMENT.
+ `The Secretary of the Treasury shall instruct the United States Executive
+ Director of the International Bank for Reconstruction and Development to
+ initiate discussions with the other executive directors of such bank and
+ the management of such bank and propose that, in order to reduce the future
+ need for bank lending for reforestation and restoration of environmentally
+ degraded areas, the bank establish a project and policy based environmental
+ lending program (including a loan a portion of which could be used to
+ reduce and restructure private debt), to be made available to interested
+ countries with a demonstrated commitment to natural resource conservation,
+ which would be based on--
+ `(1) the estimated long-term economic return which could be expected from
+ the sustainable use and protection of tropical forests, including the value
+ of tropical forests for indigenous people and for science;
+ `(2) the value derived from such services as--
+ `(A) watershed management;
+ `(B) soil erosion control;
+ `(C) the maintenance and improvement of--
+ `(i) fisheries;
+ `(ii) water supply regulation for industrial development;
+ `(iii) food;
+ `(iv) fuel;
+ `(v) fodder; and
+ `(vi) building materials for local communities;
+ `(D) the extraction of naturally occurring products from locally controlled
+ protected areas; and
+ `(E) indigenous knowledge of the management and use of natural resources; and
+ `(3) the long-term benefits expected to be derived from maintaining biological
+ diversity and climate stabilization.
+`SEC. 1616. PROMOTION OF INSTITUTION-BUILDING FOR NONGOVERNMENTAL ORGANIZATIONS
+CONCERNED WITH THE ENVIRONMENT.
+ `The Secretary of the Treasury shall instruct the United States Executive
+ Directors of the multilateral development banks to vigorously promote the
+ adoption of policies and procedures which seek to--
+ `(1) increase collaboration with, and, where necessary, strengthen,
+ nongovernmental organizations in such countries which are concerned with
+ environmental protection by providing appropriate assistance and support
+ for programs and activities on environmental protection; and
+ `(2) encourage international collaboration for information exchange
+ and project enhancement with nongovernmental organizations in developing
+ countries which are concerned with environmental protection and government
+ agencies and private voluntary organizations in developed countries which
+ are concerned with environmental protection.'.
+Subtitle C--Environmental Impact Assessments
+SEC. 521. ASSESSMENT OF ENVIRONMENTAL IMPACT OF PROPOSED MULTILATERAL
+DEVELOPMENT BANK ACTIONS.
+ Title XIII of the International Financial Institutions Act (22 U.S.C. 262m
+ et seq.) is amended by adding at the end the following:
+`SEC. 1308. ASSESSMENT OF ENVIRONMENTAL IMPACT OF PROPOSED MULTILATERAL
+DEVELOPMENT BANK ACTIONS.
+ `(a) ASSESSMENT REQUIRED BEFORE FAVORABLE VOTE ON ACTION-
+ `(1) IN GENERAL- Beginning 2 years after the date of the enactment of this
+ section, the Secretary of the Treasury shall instruct the United States
+ Executive Director of each multilateral development bank not to vote in favor
+ of any action proposed to be taken by the respective bank which would have
+ a significant effect on the human environment, unless for at least 120 days
+ before the date of the vote--
+ `(A) an assessment analyzing the environmental impacts of the proposed
+ action and of alternatives to the proposed action has been completed by
+ the borrowing country or the institution, and been made available to the
+ board  of directors of the institution; and
+ `(B) except as provided in paragraph (2), such assessment or a comprehensive
+ summary of such assessment has been made available to the multilateral
+ development bank, affected groups, and local nongovernmental organizations.
+ `(2) EXCEPTIONS AND REPORTS-
+ `(A) EXCEPTIONS- The requirement of paragraph (1)(B) shall not apply where
+ the Secretary finds compelling reasons to believe that disclosure in any case
+ described in paragraph (1) would jeopardize the confidential relationship
+ between the borrower country and the respective bank.
+ `(B) REPORTS BY SECRETARY- The Secretary shall submit a quarterly report
+ in writing to the Committees specified in subsection (f)(1) of the findings
+ described in subparagraph (A).
+ `(b) ACCESS TO ASSESSMENTS IN ALL MEMBER COUNTRIES- The Secretary of the
+ Treasury shall seek the adoption of policies and procedures, through
+ discussions and negotiations with the other member countries of the
+ multilateral development banks and with the management of such banks,
+ which result in access by governmental agencies and interested members
+ of the public of such member countries, to environmental assessments or
+ documentary information containing comprehensive summaries of such assessments
+ which discuss the environmental impact of prospective projects and programs
+ being considered by such banks. Such assessments or summaries should be made
+ available to such governmental agencies and interested members of the public
+ at least 120 days before scheduled board action, and public participation
+ in review of the relevant environmental information should be encouraged.
+ `(c) CONSIDERATION OF ASSESSMENT- The Secretary of the Treasury shall--
+ `(1) ensure that an environmental impact assessment or comprehensive summary
+ of such assessment described in subsection (a) accompanies loan proposals
+ through the agency review process; and
+ `(2) take into consideration recommendations from all other interested
+ Federal agencies and interested members of the public.
+ `(d) DEVELOPMENT OF PROCEDURES FOR SYSTEMATIC ENVIRONMENTAL ASSESSMENT-
+ The Secretary of the Treasury, in consultation with other Federal agencies,
+ including the Environmental Protection Agency, the Department of State,
+ and the Council on Environmental Quality, shall--
+ `(1) instruct the United States Executive Director of each multilateral
+ development bank to initiate discussions with the other executive directors
+ of the respective bank and to propose that the respective bank develop and
+ make available to member governments of, and borrowers from, the respective
+ bank, within 18 months after the date of the enactment of this section,
+ a procedure for the systematic environmental assessment of development
+ projects for which the respective bank provides financial assistance,
+ taking into consideration the Guidelines and Principles for Environmental
+ Impact Assessment promulgated by the United Nations Environmental Programme
+ and other bilateral or multilateral assessment procedures; and
+ `(2) in determining the position of the United States on any action proposed
+ to be taken by a multilateral development bank, develop and prescribe
+ procedures for the consideration of, among other things--
+ `(A) the environmental impact assessment of the action described in subsection
+ (a);
+ `(B) interagency and public review of such assessment; and
+ `(C) other environmental review and consultation of such action that is
+ required by other law.
+ `(e) USE OF UNITED STATES PERSONNEL- The Secretary of the Treasury, in
+ consultation with the Secretary of State, the Secretary of the Interior,
+ the Administrator of the Environmental Protection Agency, the Chairman of
+ the Council on Environmental Quality, the Administrator of the Agency for
+ International Development, and the Administrator of the National Oceanic
+ and Atmospheric Administration, shall--
+ `(1) make available to the multilateral development banks, without charge,
+ appropriate United States Government personnel to assist in--
+ `(A) training bank staff in environmental impact assessment procedures;
+ `(B) providing advice on environmental issues;
+ `(C) preparing environmental studies for projects with potentially significant
+ environmental impacts; and
+ `(D) preparing documents for public release, and developing procedures to
+ provide for the inclusion of interested nongovernmental organizations in
+ the environmental review process; and
+ `(2) encourage other member countries of such banks to provide similar
+ assistance.
+ `(f) REPORTS-
+ `(1) IN GENERAL- The Secretary of the Treasury shall submit to the
+ Committees on Foreign Relations and Environment and Public Works of the
+ Senate and the Committee on Banking, Finance and Urban Affairs of the House
+ of Representatives--
+ `(A) not later than the end of the 1-year period beginning on the date of
+ the enactment of this section, a progress report on the efficacy of efforts
+ by the United States to encourage consistent and timely environmental
+ impact assessment of actions proposed to be taken by the multilateral
+ development banks and on the progress made by the multilateral development
+ banks in developing and instituting environmental assessment policies and
+ procedures; and
+ `(B) not later than January 1, 1993, a detailed report on the matters
+ described in subparagraph (A).
+ `(2) AVAILABILITY OF REPORTS- The reports required by paragraph (1) shall
+ be made available to the member governments of, and the borrowers from,
+ the multilateral development banks, and to the public.'.
+Subtitle D--Debt-for-Development Swaps
+SEC. 531. ENCOURAGEMENT OF DEBT-FOR-DEVELOPMENT SWAPS THROUGH LOCAL CURRENCY
+REPAYMENT.
+ (a) STATEMENT OF POLICY- It is the sense of the Congress that--
+ (1) debt-for-development swaps, where payment is made in local currency at the
+ free market rate, serve a useful purpose by providing banking institutions
+ with constructive opportunities for the reduction of the external debt
+ of highly indebted developing countries in a process that involves the
+ participation of private, nonprofit groups in providing a stimulus to the
+ economic and social development of such developing countries;
+ (2) debt-for-development swaps provide highly indebted developing countries
+ with a creative method of reducing external debt burdens, while promoting
+ their economic growth and restructuring objectives;
+ (3) banking institutions should give careful consideration to engaging in
+ such swaps as one means of strengthening overall loan portfolios through
+ the reduction of high external debt burdens while expanding economic
+ opportunities through private sector initiatives; and
+ (4) in order to avoid any bias against such swaps in the regulatory framework
+ applicable to the financial reporting of banking institutions,  where payment
+ is made in local currency at the free market rate, appropriate recognition
+ of the fair market exchange value of the currency so received should be made.
+ (b) NOTIFICATION RELATING TO LOCAL CURRENCY REPAYMENT THROUGH
+ DEBT-FOR-DEVELOPMENT SWAPS- Before the end of the 6-month period beginning
+ on the date of the enactment of this section, each appropriate Federal
+ banking agency shall adopt uniform guidelines that will effectuate the
+ policy set forth in subsection (a) concerning the regulatory framework and
+ accounting treatment of debt-for-development swaps involving repayment in
+ local currency at the free market rate. For the purpose of such guidelines,
+ the impact of such swaps on reported loan loss reserves shall be determined
+ by valuing currency received in such swaps at fair market exchange value.
+ (c) DEFINITIONS- As used in this section:
+ (1) APPROPRIATE FEDERAL BANKING AGENCY- The term `appropriate Federal
+ banking agency' has the meaning given such term in section 903(1) of the
+ International Lending Supervision Act of 1983.
+ (2) BANKING INSTITUTION- The term `banking institution' has the meaning
+ given such term in section 903(2) of the International Lending Supervision
+ Act of 1983.
+ (3) DEBT-FOR-DEVELOPMENT SWAP- The term `debt-for-development swap' has
+ the meaning given such term in section 1608(b)(2) of the International
+ Financial Institutions Act.
+ (4) HIGHLY INDEBTED COUNTRY- The term `highly indebted country' means any
+ country designated as a `Highly Indebted Country' in the annual World Debt
+ Tables most recently published by the International Bank for Reconstruction
+ and Development before the date of the enactment of this section.
+Subtitle E--Consolidation of Certain Reporting Requirements
+SEC. 541. CONSOLIDATION OF CERTAIN REPORTING REQUIREMENTS.
+ (a) IN GENERAL- The International Financial Institutions Act (22 U.S.C. 262c
+ et seq.) is amended by adding at the end the following:
+`TITLE XVII--CONSOLIDATED REPORTING REQUIREMENTS
+`SEC. 1701. ANNUAL REPORT BY CHAIRMAN OF THE NATIONAL ADVISORY COUNCIL ON
+INTERNATIONAL MONETARY AND FINANCIAL POLICIES.
+ `(a) IN GENERAL- The Chairman shall report annually to the Speaker of
+ the House of Representatives, the President of the Senate, and to the
+ President of the United States on the participation of the United States in
+ the international financial institutions. The Chairman shall present such
+ report to the Speaker of the House of Representatives and the President of
+ the Senate not later than April 1 of each year following the close of the
+ fiscal year covered by such report, except that the report for fiscal year
+ 1989 shall be submitted not later than June 1, 1990.
+ `(b) CONTENTS OF REPORTS- Each annual report required by subsection (a)
+ shall contain--
+ `(1) such data and explanations concerning the effectiveness, operations, and
+ policies of the international financial institutions, such recommendations
+ concerning the international financial institutions, and such other data
+ and material as the Chairman may deem appropriate;
+ `(2) the reports on each specific issue and topic which is required by any
+ other provision of law to be included in the report of the National Advisory
+ Council on International Monetary and Financial Policies required by section
+ 4(b)(5) of the Bretton Woods Agreements Act, as in effect immediately before
+ the date of the enactment of this section;
+ `(3) a description of each loan or other form of financial assistance approved
+ by any international financial institution during the fiscal year covered by
+ such report, and a discussion of how such loan or financial assistance will
+ benefit the people, particularly the poor people, of the recipient country;
+ `(4) a review of the success achieved through the multilateral development
+ banks in reducing or eliminating import restrictions and unfair export
+ subsidies which--
+ `(A) have been determined to be consistent with international agreements; and
+ `(B) have a serious adverse impact on the United States;
+ `(5) a description of the actions taken and the progress made in carrying
+ out subsections (a) and (b) of section 45 of the Bretton Woods Agreements Act;
+ `(6) the report required by section 2018(c) of the International Narcotics
+ Act of 1986 (title II of Public Law 99-570), discussing the actions taken
+ and progress made in encouraging the multilateral development banks to
+ finance drug eradication and crop substitution programs;
+ `(7) a description of the progress made by the United States Executive
+ Director of the International Monetary Fund with respect to the goals of
+ section 55 of the Bretton Woods Agreements Act;
+ `(8) a description of the status of procedures in the multilateral development
+ banks specifically designed to increase the productive role of the poor in
+ the economies of the nations which are borrowers from such banks;
+ `(9) in consultation with the Secretary of State, a report on the progress
+ toward achieving the goals of title VII (other than section 704), including
+ the information required to be reported pursuant to section 701(c), and,
+ for the fiscal year 1990, the report described in section 1613;
+ `(10) in consultation with the Secretary of State and the Administrator
+ of the Agency for International Development, an assessment of the progress
+ being made to implement the objectives of title XIII; and
+ `(11) a report on--
+ `(A) the progress made in transforming government-owned enterprises into
+ privately owned enterprises as described in section 1612(b);
+ `(B) the performance of the privately owned enterprises resulting from such
+ transformation; and
+ `(C) the contributions of development finance companies toward strengthening
+ the private sector in member borrowing countries.
+ `(c) DEFINITIONS- As used in this title, title XVIII, and title XIX:
+ `(1) CHAIRMAN- The term `Chairman' means the Chairman of the National
+ Advisory Council on International Monetary and Financial Policies.
+ `(2) INTERNATIONAL FINANCIAL INSTITUTIONS- The term `international financial
+ institutions' means the International Monetary Fund, International Bank
+ for Reconstruction and Development, International Development Association,
+ International Finance Corporation, Multilateral Investment Guarantee Agency,
+ African Development Bank, African Development Fund, Asian Development Bank,
+ Inter-American Development Bank, and Inter-American Investment Corporation.
+ `(3) MULTILATERAL DEVELOPMENT INSTITUTIONS- The term `multilateral development
+ institutions' means the international financial institutions other than
+ the International Monetary Fund.
+ `(4) MULTILATERAL DEVELOPMENT BANKS- The term `multilateral development banks'
+ means the multilateral development institutions other than the Multilateral
+ Investment Guarantee Agency.
+ `(d) TESTIMONY REQUIRED- Upon request of the Committee on Banking, Finance
+ and Urban Affairs of the House of Representatives, the Chairman shall
+ testify before the Committee to support and explain each annual report
+ required by subsection (a). If the President has delegated to a person
+ or persons other than the Chairman the authority to manage United States
+ participation in the international financial institutions which was vested
+ in the President by section 1(b) of the Reorganization Plan No. 4 of 1965,
+ such person or persons shall, upon request of the Committee, accompany the
+ Chairman and testify before the Committee with regard to such report. The
+ Chairman and such other person or persons shall assess, in their testimony,
+ the effectiveness of the international financial institutions, the major
+ issues affecting United States participation, the major developments in the
+ past year, the prospects for the coming year, United States policy goals
+ with respect to the international financial institutions, and any specific
+ issues addressed to them by any member of the Committee.
+`SEC. 1702. TRANSMISSION TO THE CONGRESS OF OPERATING SUMMARIES OF THE
+MULTILATERAL DEVELOPMENT BANKS.
+ `The Secretary of the Treasury shall transmit to the Congress, on a
+ monthly basis, current copies of the Monthly Operating Summary of the
+ International Bank for Reconstruction and Development, showing the loan
+ proposals or appraisal reports under consideration and the status of
+ those loan proposals or appraisal reports within the Bank. The Secretary
+ of the Treasury shall also transmit to the Congress, at such times as may
+ be appropriate, comparable documents prepared by the other multilateral
+ development banks which show the loans or credits under consideration in
+ the other multilateral development banks.
+`SEC. 1703. COMBINED REPORT ON EFFECT OF PENDING MULTILATERAL DEVELOPMENT BANK
+LOANS ON ENVIRONMENT, NATURAL RESOURCES, PUBLIC HEALTH, AND INDIGENOUS PEOPLES.
+ `Not later than April 1 and October 1 of each year, the Administrator of the
+ Agency for International Development, in consultation with the Secretary
+ of the Treasury and the Secretary of State, shall submit to the Committee
+ on Appropriations and the Committee on Banking, Finance and Urban Affairs
+ of the House of Representatives, and the Committee on Appropriations and
+ the Committee on Foreign Relations of the Senate, as a combined report, the
+ reports required by section 1303(c) of this Act and by section 537(h)(2) of
+ the Foreign Operations, Export Financing, and Related Programs Appropriations
+ Act, 1988 (sec. 1(e) of Public Law 100-202).
+`TITLE XVIII--EXPORT ENHANCEMENT
+`SEC. 1802. PROCUREMENT OPPORTUNITIES FOR UNITED STATES FIRMS.
+ `The Secretary of the Treasury shall instruct the United States Executive
+ Directors of the multilateral development institutions to take all possible
+ steps to ensure that information relating to potential procurement
+ opportunities for United States firms is expeditiously communicated to
+ the Secretary of the Treasury, the Secretary of State, and the Secretary
+ of Commerce, and is disseminated as widely as possible to large and small
+ businesses.
+`TITLE XIX--PERSONNEL PRACTICES
+`SEC. 1901. PERSONNEL PRACTICES.
+ `(a) STATEMENT OF POLICY- It shall be the policy of the United States that
+ no initiatives, discussions, or recommendations concerning the placement or
+ removal of any personnel employed by the international financial institutions
+ shall be based on the political philosophy or activity of the individual
+ under consideration.
+ `(b) CONSULTATION- The Secretary of the Treasury shall consult with the
+ Chairman and the ranking minority member of the Committee on Banking, Finance
+ and Urban Affairs of the House of Representatives and the Committee on Foreign
+ Relations of the Senate before any discussion or recommendations by any
+ official of the United States Government concerning the placement or removal
+ of any principal officer of any international financial institutions.'.
+ (b) TRANSFER OF PROVISIONS RELATING TO MULTILATERAL DEVELOPMENT BANK
+ PROCUREMENT- (1) Section 3202 of the Omnibus Trade and Competitiveness
+ Act of 1988 (22 U.S.C. 262a) is hereby transferred to the International
+ Financial Institutions Act, inserted after the heading of title XVIII
+ (as added by the amendment made by subsection (a) of this section), and
+ redesignated as section 1801.
+ (2) Section 2302 of the Omnibus Trade and Competitiveness Act of 1988
+ (15 U.S.C. 4722) is hereby transferred to the International Financial
+ Institutions Act, inserted after section 1802 (as added by the amendment
+ made by subsection (a) of this section), redesignated as section 1803,
+ and amended by striking subsection (c).
+ (c) CONFORMING AMENDMENT- Section 701(c) of the International Financial
+ Institutions Act (22 U.S.C. 262d(c)) is amended to read as follows:
+ `(c)(1) Not later than 30 days after the end of each calendar quarter, the
+ Secretary of the Treasury shall report quarterly on all loans considered by
+ the Boards of Executive Directors of the institutions listed in subsection
+ (a) to the Chairman and ranking minority member of the Committee on Banking,
+ Finance and Urban Affairs of the House of Representatives, or the designees
+ of such Chairman and ranking minority member, and the Chairman and ranking
+ minority member of the Committee on Foreign Relations of the Senate.
+ `(2) Each report required by paragraph (1) shall--
+ `(A) include a list of all loans considered by the Board of Executive
+ Directors of the institutions listed in subsection (a) and shall specify
+ with respect to each such loan--
+ `(i) the institution involved;
+ `(ii) the date of final action;
+ `(iii) the borrower;
+ `(iv) the amount;
+ `(v) the project or program;
+ `(vi) the vote of the United States Government;
+ `(vii) the reason for United States Government opposition, if any;
+ `(viii) the final disposition of the loan; and
+ `(ix) if the United States Government opposed the loan, whether the loan
+ meets basic human needs;
+ `(B) indicate whether the United States has opposed any loan, financial
+ assistance, or technical assistance to a country on human rights grounds;
+ `(C) indicate whether the United States has voted in favor of a loan,
+ financial assistance, or technical assistance to a country with respect
+ to which the United States had, in the preceding 2 years, opposed a loan,
+ financial assistance, or technical assistance on human rights grounds; and
+ `(D) in cases where the United States changed its voting position from
+ opposition to support or from support to opposition, on human rights grounds--
+ `(i) indicate the policy considerations that were taken into account in
+ the development of the United States voting position;
+ `(ii) describe human rights conditions in the country involved;
+ `(iii) indicate how the United States voted on all other loans, financial
+ assistance, and technical assistance to such country during the preceding
+ 2 years; and
+ `(iv) contain information as to how the United States voting position
+ relates to the overall United States Government policy on human rights in
+ such country.'.
+ (d) REPEALS- The following provisions of law are hereby repealed:
+ (1) Paragraphs (5) and (6) of section 4(b), and sections 15(b), 30(b),
+ 33(c), and 50, of the Bretton Woods Agreements Act (22 U.S.C. 286b(b)
+ (5) and (6), 286e-9(b), 286s(c), and 286b-2).
+ (2) Section 4(b) of the Asian Development Bank Act (22 U.S.C. 285b(b)).
+ (3) Section 12 of the Inter-American Development Bank Act (22 U.S.C. 283i).
+ (4) Sections 701(g)(1), 1103, 1307, and 1602(d) of the International Financial
+ Institutions Act (22 U.S.C. 262d(g)(1), 262g-2 note, 262m-6, and 262p-1(d)).
+ (5) Chapter 3 of Public Law 91-599 (84 Stat. 1658).
+ (6) Sections 102 and 401 of Public Law 96-259 (22 U.S.C. 283 note and 262i).
+ (7) Sections 1005 and 1006 of the Supplemental Appropriations Act, 1984
+ (Public Law 98-181; 22 U.S.C. 276c-3).
+ (8) Section 537(c) of the Foreign Operations, Export Financing, and Related
+ Programs Appropriations Act, 1988 (sec. 101(e) of Public Law 100-202;
+ 22 U.S.C. 262l(c)).
+ (e) OTHER CONFORMING AMENDMENTS- The following provisions of law are each
+ amended by striking the last sentence:
+ (1) Section 4 of the International Finance Corporation Act (22 U.S.C. 282b).
+ (2) Section 4 of the Inter-American Development Bank Act (22 U.S.C. 283b).
+ (3) Section 204 of the Inter-American Investment Corporation Act (22
+ U.S.C. 283cc).
+ (4) Section 4 of the International Development Association Act (22
+ U.S.C. 284b).
+ (5) Section 408 of the Multilateral Investment Guarantee Agency Act (22
+ U.S.C. 290k-5).
+ (6) Section 204 of the African Development Fund Act (22 U.S.C. 290g-2).
+ (7) Section 1335 of the African Development Bank Act (22 U.S.C. 290i-3).
+ (8) Section 701(d) of the International Financial Institutions Act (22
+ U.S.C. 262d(d)).
+ (f) CLERICAL AMENDMENTS-
+ (1) Section 4(b) of the Bretton Woods Agreements Act (22 U.S.C. 286b(b))
+ is amended by redesignating paragraphs (7) and (8) as paragraphs (5) and
+ (6), respectively.
+ (2) Section 30 of the Bretton Woods Agreements Act (22 U.S.C. 286e-9)
+ is amended by striking `(a)'.
+ (3) Section 4 of the Asian Development Bank Act (22 U.S.C. 285b-9) is
+ amended by striking `(a)'.
+ (4) Title XIII of the International Financial Institutions Act (22 U.S.C. 262m
+ et seq.) is amended by redesignating section 1308 (as added by section 521
+ of this Act) as section 1307.
+TITLE VI--MISCELLANEOUS PROVISIONS
+SEC. 601. SENSE OF THE CONGRESS THAT THE INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT AND THE INTERNATIONAL MONETARY FUND SHOULD EXPEDITIOUSLY
+ACT UPON LOAN REQUESTS FROM POLAND.
+ It is the sense of the Congress that, based on the liberalization of Poland's
+ economic system and the opening of its economic system to market forces,
+ the Secretary of the Treasury should instruct the United States Executive
+ Directors of the International Bank for Reconstruction and Development and
+ of the International Monetary Fund to urge upon their colleagues that their
+ respective institutions move as expeditiously as possible in considering and
+ acting upon loan requests from, and in disbursing approved loans to, Poland.
+SEC. 602. SENSE OF THE CONGRESS SUPPORTING ASSISTANCE BY MULTILATERAL LENDING
+INSTITUTIONS TO ESTABLISH FINANCIAL INSTITUTIONS IN POLAND.
+ It is the sense of the Congress that the Secretary of the Treasury should
+ instruct the United States Executive Directors of the multilateral development
+ banks (as defined in section 1617 of the International Financial Institutions
+ Act), of the International Finance Corporation, and of the Multilateral
+ Investment Guarantee Agency to enter into discussions with the other
+ executive directors of such institutions and, in such discussions, urge
+ such institutions to consider and act promptly upon (and, in the case of
+ the Multilateral Investment Guarantee Agency, after Poland becomes a member
+ country of such institution) requests by individuals and private businesses
+ in, and the Government of, Poland for financial and technical assistance
+ in the establishment of financial institutions (including institutions such
+ as credit unions, thrift institutions, and commercial banks) and businesses
+ involved in the provision of credit and financial services.
+SEC. 603. SENSE OF THE CONGRESS RELATING TO CONDITIONAL FINANCIAL ASSISTANCE
+BY MULTILATERAL LENDING INSTITUTIONS TO POLAND.
+ It is the sense of the Congress that the Secretary of the Treasury should
+ instruct the United States Executive Directors of the multilateral development
+ banks (as defined in section 1617 of the International Financial Institutions
+ Act), of the International Monetary Fund, of the International Finance
+ Corporation, and of the Multilateral Investment Guarantee Agency to enter
+ into discussions with the other executive directors of such institutions
+ and propose that such institutions not provide financial assistance or debt
+ forgiveness to Poland until the government of Poland allows and facilitates
+ privately owned entities established in foreign countries to invest in
+ private commercial ventures in Poland.
+SEC. 604. SENSE OF THE CONGRESS OPPOSING THE MAKING OF CERTAIN LOANS OR
+THE EXTENSION OF CERTAIN FINANCIAL AND TECHNICAL ASSISTANCE TO THE PEOPLE'S
+REPUBLIC OF CHINA.
+ (a) FINDINGS- The Congress finds that--
+ (1) the Government of the People's Republic of China ordered the People's
+ Liberation Army to brutally attack peaceful demonstrators who had assembled
+ in Tiananmen Square;
+ (2) this attack violated the human rights of the demonstrators;
+ (3) several thousand innocent and defenseless protesters were killed in
+ the initial assault;
+ (4) these violations of human rights have evolved into a pattern of
+ continuing repression and reprisals against citizens throughout China as
+ evidenced by the beating of alleged dissidents, the order to the army to shoot
+ `rioters'--the Chinese Government's term for the peaceful demonstrators--on
+ sight, the mass arrest of students and workers, the public declarations by
+ government-controlled media that physicists Fang Lizhi and Li Shuxian (who
+ are being given refuge in the United States Embassy in Beijing) are `guilty'
+ before being afforded due process, and the banning of all independent,
+ unofficial prodemocracy organizations;
+ (5) the Government of the People's Republic of China is trying to suppress
+ truthful accounts of the actions taken in Beijing and throughout the country,
+ by, among other things, expelling foreign journalists, including the local
+ bureau chief of the Voice of America, from the country;
+ (6) the People's Republic of China has received almost $8,000,000,000
+ in development loans from the International Bank for Reconstruction and
+ Development, and increasing amounts of assistance from the Asian Development
+ Bank;
+ (7) it is morally repugnant that, through such multilateral development banks,
+ United States taxpayer dollars are used to support the present policies of
+ the People's Republic of China;
+ (8) such development loans cannot be justified on economic grounds because
+ economic development and market reforms cannot be achieved in the environment
+ of repression that now clearly exists there; and
+ (9) the People's Republic of China is engaging in `a pattern of gross
+ violations of internationally recognized human rights . . . such as flagrant
+ denial to life, liberty, and the security of person'.
+ (b) STATEMENT OF POLICY- It is the sense of the Congress that the President
+ should--
+ (1) instruct the United States Executive Directors of the International
+ Bank for Reconstruction and Development and the Asian Development Bank to
+ use their voices and votes to oppose the making of any loan or the extension
+ of any financial or technical assistance to the People's Republic of China,
+ in accordance with section 701(f) of the International Financial Institutions
+ Act; and
+ (2) consider the People's Republic of China to be a country described
+ in section 701(a)(1) of such Act until the President determines that the
+ repression and reprisals against persons in connection with the prodemocracy
+ demonstrations have ended.
+TITLE VII--MISCELLANEOUS
+SEC. 701. SHORT TITLE.
+ This title may be cited as the `Global Environmental Protection Assistance
+ Act of 1989'.
+PART A--COMMERCIAL DEBT-FOR-NATURE EXCHANGES
+SEC. 711. AMENDMENT TO THE FOREIGN ASSISTANCE ACT.
+ The Foreign Assistance Act of 1961 is amended by inserting after chapter
+ 6 of part I the following new chapter:
+`CHAPTER 7--DEBT-FOR-NATURE EXCHANGES
+ `SEC. 461. DEFINITION- For purpose of this chapter, the term `debt-for-nature
+ exchange' means the cancellation or redemption of the foreign debt of the
+ government of a country in exchange for--
+ `(1) that government's making available local currencies (including through
+ the issuance of bonds) which are used only for eligible projects involving
+ the conservation or protection of the environment in that country (as
+ described in section 463); or
+ `(2) that government's financial resource or policy commitment to take
+ certain specified actions to ensure the restoration, protection, or
+ sustainable use of natural resources within that country; or
+ `(3) a combination of assets and actions under both paragraphs (1) and (2).
+ `SEC. 462. ASSISTANCE FOR COMMERCIAL DEBT EXCHANGES- (a) The Administrator of
+ the Agency for International Development is authorized to furnish assistance,
+ in the form of grants on such terms and conditions as may be necessary,
+ to nongovernmental organizations for the purchase on the open market of
+ discounted commercial debt of a foreign government of an eligible country
+ which will be canceled or redeemed under the terms of an agreement with
+ that government as part of a debt-for-nature exchange.
+ `(b) Notwithstanding any other provision of law, a grantee (or any subgrantee)
+ of the grants referred to in subsection (a) may retain, without deposit in the
+ Treasury of the United States and without further appropriation by Congress,
+ interest earned on the proceeds of any resulting debt-for-nature exchange
+ pending the disbursements of such proceeds and interest for approved program
+ purposes, which may include the establishment of an endowment, the income
+ of which is used for such purposes.
+ `SEC. 463. ELIGIBLE PROJECTS- (a) The Administrator of the Agency for
+ International Development shall seek to ensure that debt-for-nature exchanges
+ under this chapter support one or more of the following activities by either
+ the host government, a local private conservation group, or a combination
+ thereof:
+ `(1) restoration, protection, or sustainable use of the world's oceans
+ and atmosphere;
+ `(2) restoration, protection, or sustainable use of diverse animal and
+ plant species;
+ `(3) establishment, restoration, protection, and maintenance of parks
+ and reserves;
+ `(4) development and implementation of sound systems of natural resource
+ management;
+ `(5) development and support of local conservation programs;
+ `(6) training programs to strengthen conservation institutions and increase
+ scientific, technical, and managerial capabilities of individuals and
+ organizations involved in conservation efforts;
+ `(7) efforts to generate knowledge, increase understanding, and enhance
+ public commitment to conservation;
+ `(8) design and implementation of sound programs of land and ecosystem
+ management; and
+ `(9) promotion of regenerative approaches in farming, forestry, fishing,
+ and watershed management.
+ `(b)(1) In cooperation with nongovernmental organizations, the Administrator
+ of the Agency for International Development shall seek to identify those
+ areas, which because of an imminent threat, are in particular need of
+ immediate attention to prevent the loss of unique biological life or
+ valuable ecosystem.
+ `(2) The Administrator of the Agency for International Development shall
+ encourage as many eligible countries as possible to propose such exchanges
+ with the purpose of demonstrating to a large number of governments the
+ feasibility and benefits of sustainable development.
+ `SEC. 464. ELIGIBLE COUNTRIES- In order for a foreign country to be
+ eligible to participate in a debt-for-nature exchange under this chapter,
+ the Administrator of the Agency for International Development shall
+ determine that--
+ `(1) the host country is fully committed to the long-term viability of the
+ program or project that is to be undertaken through the debt-for-nature
+ exchange;
+ `(2) a long-term plan has been prepared by the host country, or private
+ conservation group, which adequately provides for the long-term viability of
+ the program or project that is to be undertaken through the debt-for-nature
+ exchange or that such a plan will be prepared in a timely manner; and
+ `(3) there is a government agency or a local nongovernmental organization,
+ or combination thereof, in the host country with the capability, commitment,
+ and record of environmental concern to oversee the long-term viability of
+ the program or project that is to be undertaken through the debt-for-nature
+ exchange.
+ `SEC. 465. TERMS AND CONDITIONS- (a) The terms and conditions for making
+ grants under this chapter shall be deemed to be fulfilled upon final
+ approval by the Administrator of the Agency for International Development
+ of the debt-for-nature exchange, a certification by the nongovernmental
+ organization that the host government has accepted the terms of the exchange,
+ and that an agreement has been reached to cancel the commercial debt in an
+ agreed upon fashion.
+ `(b) Grants made under this section are intended to complement, and not
+ substitute for, assistance otherwise available to a foreign country under
+ this Act or any other provision of law.
+ `(c) The United States Government is prohibited from accepting title or
+ interest in any land in a foreign country as a condition on the debt exchange.
+ `SEC. 466. PILOT PROGRAM FOR SUB-SAHARAN AFRICA- (a) The Administrator of the
+ Agency for International Development, in cooperation with nongovernmental
+ conservation organizations, shall invite the government of each country in
+ sub-Saharan Africa to submit a list of those areas of severely degraded
+ national resources which threaten human survival and well-being and the
+ opportunity for future economic growth or those areas of biological or
+ ecological importance within the territory of that country.
+ `(b) The Administrator of the Agency for International Development shall
+ assess the list submitted by each country under subsection (a) and shall
+ seek to reach agreement with the host country for the restoration and future
+ sustainable use of those areas.
+ `(c)(1) The Administrator of the Agency for International Development
+ is authorized to make grants, on such terms and conditions as may be
+ necessary, to nongovernmental organizations for the purchase on the open
+ market of discounted commercial debt of a foreign government of an eligible
+ sub-Saharan country in exchange for commitments by that government to
+ restore natural resources identified by the host country under subsection
+ (a) or for commitments to develop plans for sustainable use of such resources.
+ `(2) Notwithstanding any other provision of law, a grantee (or any subgrantee)
+ of the grants referred to in section (a) may retain, without deposit in the
+ Treasury of the United States and without further appropriation by Congress,
+ interest earned on the proceeds of any resulting debt-for-nature exchange
+ pending the disbursements of such proceeds and interest for approved program
+ purposes, which may include the establishment of an endowment, the income
+ of which is used for such purposes.'.
+PART B--MULTILATERAL FOREIGN ASSISTANCE COORDINATION
+SEC. 721. GENERAL POLICY.
+ It is the sense of the Congress that the Secretary of State should seek to
+ develop an increased consideration of global warming, tropical deforestation,
+ sustainable development, and biological diversity among the highest goals
+ of bilateral foreign assistance programs of all countries.
+SEC. 722. POLICY ON NEGOTIATIONS.
+ (a) IN GENERAL- The Secretary of State, acting through the United States
+ representative to the Development Assistance Committee of the Organization
+ for Economic Coordination and Development (OECD), should initiate, at
+ the earliest practicable date, negotiations among member countries on a
+ coordinated approach to global warming, tropical deforestation, sustainable
+ development, and biological diversity through bilateral assistance programs
+ that would include--
+ (1) increased consideration of the impact of developmental projects on
+ global warming, tropical deforestation, and biological diversity;
+ (2) reduction or elimination of funding for those projects that exacerbate
+ those problems;
+ (3) coordinated research and development of projects that emphasize
+ sustainable use or protection of tropical forests and support for local
+ conservation efforts;
+ (4) expanded use of forgiveness of foreign assistance debt in exchange for
+ policy changes or programs that address problems associated with global
+ warming, tropical deforestation, sustainable development, and biological
+ diversity;
+ (5) increased use of foreign assistance funds and technical assistance
+ in support of local conservation, restoration, or sustainable development
+ efforts and debt-for-nature exchanges;
+ (6) improved exchange of information on energy efficiency and solar and
+ renewable energy sources, and a greater emphasis on the use of those sources
+ of energy in developmental projects; and
+ (7) increased use of environmental experts in the field to assess development
+ projects for their impact on global warming, tropical deforestation, and
+ biological diversity.
+ (b) IMPLEMENTATION OF AGREEMENT- Negotiations described in subsection (a)
+ shall seek to ensure that the recommended changes are implemented as quickly
+ as possible by member countries of the Development Assistance Committee.
+TITLE VIII--EFFECTIVE DATE
+SEC. 801. EFFECTIVE DATE.
+ Except as otherwise provided in this Act, this Act and the amendments made
+ by this Act shall take effect on the date of the enactment of this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

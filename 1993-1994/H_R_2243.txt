@@ -1,0 +1,434 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2243 Enrolled Bill (ENR)]
+
+        H.R.2243
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend the Federal Trade Commission Act to extend the authorization 
+of appro- priations in such Act, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; REFERENCE.
+
+    (a) Short Title.--This Act may be cited as the ``Federal Trade 
+Commission Act Amendments of 1994''.
+    (b) Reference.--Whenever in this Act an amendment or repeal is 
+expressed in terms of an amendment to, or repeal of, a section or other 
+provision, the reference shall be considered to be made to a section or 
+other provision of the Federal Trade Commission Act.
+
+SEC. 2. AGRICULTURAL COOPERATIVES.
+
+    The Federal Trade Commission Act (15 U.S.C. 41 et seq.) is amended 
+by redesignating sections 24 and 25 as sections 25 and 26, 
+respectively, and by inserting immediately after section 23 the 
+following new section:
+    ``Sec. 24. (a) The Commission shall not have any authority to 
+conduct any study, investigation, or prosecution of any agricultural 
+cooperative for any conduct which, because of the provisions of the Act 
+entitled `An Act to authorize association of producers of agricultural 
+products', approved February 18, 1922 (7 U.S.C. 291 et seq., commonly 
+known as the Capper-Volstead Act), is not a violation of any of the 
+antitrust Acts or this Act.
+    ``(b) The Commission shall not have any authority to conduct any 
+study or investigation of any agricultural marketing orders.''.
+
+SEC. 3. COMPENSATION IN PROCEEDINGS.
+
+    (a) Repeal.--Subsection (h) of section 18 (15 U.S.C. 57a) is 
+repealed and subsections (i), (j), and (k) of section 18 are 
+redesignated as subsections (h), (i), and (j), respectively.
+    (b) Conforming Amendment.--Section 18(a)(1) (15 U.S.C. 57a(a)(1)) 
+is amended by striking ``subsection (i)'' and inserting ``subsection 
+(h)''.
+
+SEC. 4. PROCEEDINGS SUBSEQUENT TO VIOLATIONS OF ORDERS.
+
+    (a) Consent Orders.--Section 5(m)(1)(B) (15 U.S.C. 45(m)(1)(B)) is 
+amended by inserting ``, other than a consent order,'' immediately 
+after ``order'' the first time it appears.
+    (b) Determinations of Law.--Section 5(m)(2) (15 U.S.C. 45(m)(2)) is 
+amended by adding at the end the following: ``Upon request of any party 
+to such an action against such defendant, the court shall also review 
+the determination of law made by the Commission in the proceeding under 
+subsection (b) that the act or practice which was the subject of such 
+proceeding constituted an unfair or deceptive act or practice in 
+violation of subsection (a).''.
+
+SEC. 5. PREVALENCE OF UNLAWFUL ACTS OR PRACTICES.
+
+    Section 18(b) (15 U.S.C. 57a(b)) is amended by adding at the end 
+the following new paragraph:
+    ``(3) The Commission shall issue a notice of proposed rulemaking 
+pursuant to paragraph (1)(A) only where it has reason to believe that 
+the unfair or deceptive acts or practices which are the subject of the 
+proposed rulemaking are prevalent. The Commission shall make a 
+determination that unfair or deceptive acts or practices are prevalent 
+under this paragraph only if--
+        ``(A) it has issued cease and desist orders regarding such acts 
+    or practices, or
+        ``(B) any other information available to the Commission 
+    indicates a widespread pattern of unfair or deceptive acts or 
+    practices.''.
+
+SEC. 6. EFFECTIVE DATE OF ORDERS.
+
+    (a) Orders Subject to Petition for Review.--Section 5(g)(2) (15 
+U.S.C. 45(g)(2)) is amended to read as follows:
+        ``(2) Except as to any order provision subject to paragraph 
+    (4), upon the sixtieth day after such order is served, if a 
+    petition for review has been duly filed; except that any such order 
+    may be stayed, in whole or in part and subject to such conditions 
+    as may be appropriate, by--
+            ``(A) the Commission;
+            ``(B) an appropriate court of appeals of the United States, 
+        if (i) a petition for review of such order is pending in such 
+        court, and (ii) an application for such a stay was previously 
+        submitted to the Commission and the Commission, within the 30-
+        day period beginning on the date the application was received 
+        by the Commission, either denied the application or did not 
+        grant or deny the application; or
+            ``(C) the Supreme Court, if an applicable petition for 
+        certiorari is pending.''.
+    (b) Orders Subject to Sections 5(m)(1)(B) and 19(a)(2).--Section 
+5(g)(3) (15 U.S.C. 45(g)(3)) is amended to read as follows:
+        ``(3) For purposes of subsection (m)(1)(B) and of section 
+    19(a)(2), if a petition for review of the order of the Commission 
+    has been filed--
+            ``(A) upon the expiration of the time allowed for filing a 
+        petition for certiorari, if the order of the Commission has 
+        been affirmed or the petition for review has been dismissed by 
+        the court of appeals and no petition for certiorari has been 
+        duly filed;
+            ``(B) upon the denial of a petition for certiorari, if the 
+        order of the Commission has been affirmed or the petition for 
+        review has been dismissed by the court of appeals; or
+            ``(C) upon the expiration of 30 days from the date of 
+        issuance of a mandate of the Supreme Court directing that the 
+        order of the Commission be affirmed or the petition for review 
+        be dismissed.''.
+    (c) Divestiture Orders.--Section 5(g)(4) (15 U.S.C. 45(g)(4)) is 
+amended to read as follows:
+        ``(4) In the case of an order provision requiring a person, 
+    partnership, or corporation to divest itself of stock, other share 
+    capital, or assets, if a petition for review of such order of the 
+    Commission has been filed--
+            ``(A) upon the expiration of the time allowed for filing a 
+        petition for certiorari, if the order of the Commission has 
+        been affirmed or the petition for review has been dismissed by 
+        the court of appeals and no petition for certiorari has been 
+        duly filed;
+            ``(B) upon the denial of a petition for certiorari, if the 
+        order of the Commission has been affirmed or the petition for 
+        review has been dismissed by the court of appeals; or
+            ``(C) upon the expiration of 30 days from the date of 
+        issuance of a mandate of the Supreme Court directing that the 
+        order of the Commission be affirmed or the petition for review 
+        be dismissed.''.
+    (d) Technical.--Paragraph (1) of section 5(g) (15 U.S.C. 45(g)(1)) 
+is amended by striking ``; or'' and inserting a period.
+
+SEC. 7. CIVIL INVESTIGATIVE DEMANDS.
+
+    (a) Definitions.--Section 20(a) (15 U.S.C. 57b-1(a)) is amended--
+        (1) in paragraph (2), by inserting ``or in any antitrust 
+    violations'' immediately after ``section 5(a)(1))'';
+        (2) in paragraph (3), by inserting ``or any provisions relating 
+    to antitrust violations'' immediately after ``section 5(a)(1))'';
+        (3) in paragraph (7), by inserting ``or any antitrust 
+    violation'' immediately after ``section 5(a)(1))''; and
+        (4) by adding at the end the following new paragraph:
+        ``(8) The term `antitrust violation' means any unfair method of 
+    competition (within the meaning of section 5(a)(1)), any violation 
+    of the Clayton Act, any violation of any other Federal statute that 
+    prohibits, or makes available to the Commission a civil remedy with 
+    respect to, any restraint upon or monopolization of interstate or 
+    foreign trade or commerce, or any activity in preparation for a 
+    merger, acquisition, joint venture, or similar transaction, which 
+    if consummated, may result in such an unfair method of competition 
+    or violation.''.
+    (b) Issuance of Demand.--(1) Section 20(c)(1) (15 U.S.C. 57b-
+1(c)(1)) is amended--
+        (A) by inserting ``or tangible things'' immediately after 
+    ``documentary material'' the first place it appears;
+        (B) by inserting ``or to antitrust violations,'' immediately 
+    after ``section 5(a)(1)) ,''; and
+        (C) by inserting ``to submit such tangible things,'' 
+    immediately after ``copying or reproduction,''.
+    (2) Section 20(c) (15 U.S.C. 57b-1(c)) is amended--
+        (A) by redesignating paragraphs (4), (5), (6), (7), (8), (9), 
+    (10), (11), and (12) as paragraphs (5), (6), (7), (8), (9), (10), 
+    (11), (13), and (14), respectively;
+        (B) by inserting immediately after paragraph (3) the following 
+    new paragraph:
+    ``(4) Each civil investigative demand for the submission of 
+tangible things shall--
+        ``(A) describe each class of tangible things to be submitted 
+    under the demand with such definiteness and certainty as to permit 
+    such things to be fairly identified;
+        ``(B) prescribe a return date or dates which will provide a 
+    reasonable period of time within which the things so demanded may 
+    be assembled and submitted; and
+        ``(C) identify the custodian to whom such things shall be 
+    submitted.''; and
+        (C) by inserting immediately after paragraph (11), as so 
+    redesignated, the following new paragraph:
+    ``(12) The submission of tangible things in response to a civil 
+investigative demand shall be made under a sworn certificate, in such 
+form as the demand designates, by the person to whom the demand is 
+directed or, if not a natural person, by any person having knowledge of 
+the facts and circumstances relating to such production, to the effect 
+that all of the tangible things required by the demand and in the 
+possession, custody, or control of the person to whom the demand is 
+directed have been submitted to the custodian.''.
+    (c) Section 20(g).--Section 20(g) (15 U.S.C. 57b-1(g)) is amended 
+by inserting ``, tangible things'' immediately after ``documentary 
+material''.
+    (d) Applicability of Section 20.--Section 20(j)(1) (15 U.S.C. 57b-
+1(j)(1)) is amended by inserting immediately before the semicolon the 
+following: ``, any proceeding under section 11(b) of the Clayton Act 
+(15 U.S.C. 21(b)), or any adjudicative proceeding under any other 
+provision of law''.
+
+SEC. 8. COMMISSION CUSTODY OF TANGIBLE THINGS.
+
+    Section 21 (15 U.S.C. 57b-2) is amended--
+        (1) in subsection (a)(1), by inserting ``tangible things,'' 
+    immediately after ``documentary material,'';
+        (2) in subsection (b)(1), by inserting ``, tangible thing,'' 
+    immediately after ``document'';
+        (3) in subsection (b)(2)(A), by inserting ``tangible things,'' 
+    immediately after ``documentary material,'';
+        (4) in subsection (b)(3)--
+            (A) in subparagraph (A), by inserting ``tangible things,'' 
+        immediately after ``documentary material,'';
+            (B) in subparagraph (B), by inserting ``, and may make 
+        tangible things available,'' immediately after ``oral 
+        testimony''; and by inserting ``, things,'' immediately after 
+        ``such material'';
+            (C) in subparagraph (C), by inserting ``tangible things,'' 
+        immediately after ``documentary material,'' and by inserting 
+        ``, things,'' immediately after ``material''; and
+            (D) in subparagraph (D), by inserting ``, tangible 
+        things,'' immediately after ``documentary material'';
+        (5) in subsection (b)(4), by inserting ``tangible things,'' 
+    immediately after ``documentary material,'';
+        (6) in subsection (b)(5), by inserting ``tangible things,'' 
+    immediately after ``documentary material,'';
+        (7) in subsection (b)(6)--
+            (A) by inserting immediately after the first sentence the 
+        following new sentence: ``The custodian of any tangible things 
+        may make such things available for inspection to such persons 
+        on the same basis.''; and
+            (B) by inserting ``results of inspections of tangible 
+        things,'' immediately after ``Such documentary material,''; and
+        (8) in subsection (b)(7), by inserting ``tangible things,'' 
+    immediately after ``documentary material,''.
+
+SEC. 9. DEFINITION OF UNFAIR ACTS OR PRACTICES.
+
+    Section 5 (15 U.S.C. 45) is amended by adding at the end the 
+following:
+    ``(n) The Commission shall have no authority under this section or 
+section 18 to declare unlawful an act or practice on the grounds that 
+such act or practice is unfair unless the act or practice causes or is 
+likely to cause substantial injury to consumers which is not reasonably 
+avoidable by consumers themselves and not outweighed by countervailing 
+benefits to consumers or to competition. In determining whether an act 
+or practice is unfair, the Commission may consider established public 
+policies as evidence to be considered with all other evidence. Such 
+public policy considerations may not serve as a primary basis for such 
+determination.''.
+
+SEC. 10. PROCESS.
+
+    (a) Authority.--
+        (1) Advertisements in violation of section 12.--Section 13(a) 
+    (15 U.S.C. 53(a)) is amended by striking the last sentence and 
+    inserting the following: ``Any suit may be brought where such 
+    person, partnership, or corporation resides or transacts business, 
+    or wherever venue is proper under section 1391 of title 28, United 
+    States Code. In addition, the court may, if the court determines 
+    that the interests of justice require that any other person, 
+    partnership, or corporation should be a party in such suit, cause 
+    such other person, partnership, or corporation to be added as a 
+    party without regard to whether venue is otherwise proper in the 
+    district in which the suit is brought. In any suit under this 
+    section, process may be served on any person, partnership, or 
+    corporation wherever it may be found.''.
+        (2) Provisions enforced by commission.--Section 13(b) (15 
+    U.S.C. 53(b)) is amended by striking the last sentence and 
+    inserting the following: ``Any suit may be brought where such 
+    person, partnership, or corporation resides or transacts business, 
+    or wherever venue is proper under section 1391 of title 28, United 
+    States Code. In addition, the court may, if the court determines 
+    that the interests of justice require that any other person, 
+    partnership, or corporation should be a party in such suit, cause 
+    such other person, partnership, or corporation to be added as a 
+    party without regard to whether venue is otherwise proper in the 
+    district in which the suit is brought. In any suit under this 
+    section, process may be served on any person, partnership, or 
+    corporation wherever it may be found.''.
+    (b) Procedures.--Section 13 (15 U.S.C. 53) is amended--
+        (1) by redesignating subsection (c) as subsection (d); and
+        (2) by inserting immediately after subsection (b) the following 
+    new subsection:
+    ``(c) Any process of the Commission under this section may be 
+served by any person duly authorized by the Commission--
+        ``(1) by delivering a copy of such process to the person to be 
+    served, to a member of the partnership to be served, or to the 
+    president, secretary, or other executive officer or a director of 
+    the corporation to be served;
+        ``(2) by leaving a copy of such process at the residence or the 
+    principal office or place of business of such person, partnership, 
+    or corporation; or
+        ``(3) by mailing a copy of such process by registered mail or 
+    certified mail addressed to such person, partnership, or 
+    corporation at his, or her, or its residence, principal office, or 
+    principal place or business.
+The verified return by the person serving such process setting forth 
+the manner of such service shall be proof of the same.''.
+
+SEC. 11. INTERVENTION BY COMMISSION IN CERTAIN PROCEEDINGS.
+
+    (a) Limitation on Use of Authorized Funds.--The Federal Trade 
+Commission shall not have any authority to use any funds which are 
+authorized to be appropriated to carry out the Federal Trade Commission 
+Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for 
+the purpose of submitting statements to, appearing before, or 
+intervening in the proceedings of, any Federal or State agency or State 
+legislative body concerning proposed rules or legislation that the 
+agency or legislative body is considering unless the Commission advises 
+the Committee on Commerce, Science, and Transportation of the Senate 
+and the Committee on Energy and Commerce of the House of 
+Representatives regarding such action as soon as possible.
+    (b) Contents of Notice to Congress.--The notice required in 
+subsection (a) shall include the name of the agency or legislator 
+involved, the date of such action, and a concise statement regarding 
+the nature and purpose of such action.
+
+SEC. 12. RESOURCE ALLOCATION STUDY.
+
+    The Federal Trade Commission shall conduct an evaluation of the 
+level of its personnel resources and the manner in which such resources 
+are allocated. The Commission shall study--
+        (1) whether overall resources at the Commission are adequate to 
+    fulfill the Commission's responsibilities in the areas of 
+    competition and consumer protection;
+        (2) the distribution of personnel to individual offices of 
+    commissioners, departments, bureaus, and other units within the 
+    Commission, and whether the current allocation of personnel most 
+    efficiently enables the Commission to fulfill its statutory 
+    mandate;
+        (3) the number of personnel in supervisory positions, 
+    contrasted with those personnel in nonsupervisory positions; and
+        (4) whether the amount of workyears devoted to research 
+    activities should be increased and what results (if any) such an 
+    increase would produce.
+The Commission shall transmit the results of such study, together with 
+any recommendations that the Commission determines appropriate, to the 
+Committee on Commerce, Science, and Transportation of the Senate and 
+the Committee on Energy and Commerce of the House of Representatives 
+not later than 6 months after the date of enactment of this Act.
+
+SEC. 13. FEDERAL-STATE COOPERATION.
+
+    The Federal Trade Commission shall review its statutory 
+responsibilities to identify those matters within its jurisdiction 
+where Federal enforcement is particularly necessary or desirable and 
+those areas that might more effectively be enforced at the State or 
+local level. In identifying such areas, the Commission shall--
+        (1) consider the resources available to the Commission and the 
+    States, as well as particular rules that have been promulgated by 
+    the Commission;
+        (2) consult with the attorneys general of the States, 
+    representatives of consumers and industry, and other interested 
+    parties; and
+        (3) consider such other issues as will result in more efficient 
+    implementation of the statutory responsibilities of the Commission.
+Not later than 6 months after the date of enactment of this Act, the 
+Commission shall transmit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Energy and Commerce 
+of the House of Representatives the information identified in 
+paragraphs (1) through (3), together with specific recommendations for 
+methods of achieving greater cooperation between the Commission and the 
+States.
+
+SEC. 14. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 25 (15 U.S.C. 57c), as so redesignated by section 2 of this 
+Act, is amended to read as follows:
+    ``Sec. 25. There are authorized to be appropriated to carry out the 
+functions, powers, and duties of the Commission not to exceed 
+$92,700,000 for fiscal year 1994; not to exceed $99,000,000 for fiscal 
+year 1995; and not to exceed $102,000,000 for fiscal year 1996.''.
+
+SEC. 15. EFFECTIVE DATE; APPLICABILITY.
+
+    (a) In General.--Except as provided in subsections (b), (c), (d), 
+and (e), the provisions of this Act shall take effect on the date of 
+enactment of this Act.
+    (b) Applicability of Section 5.--The amendment made by section 5 of 
+this Act shall apply only to rulemaking proceedings initiated after the 
+date of enactment of this Act. Such amendment shall not be construed to 
+affect in any manner a rulemaking proceeding which was initiated before 
+the date of enactment of this Act.
+    (c) Applicability of Section 6.--The amendments made by section 6 
+of this Act shall apply only with respect to cease and desist orders 
+issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 
+45) after the date of enactment of this Act. These amendments shall not 
+be construed to affect in any manner a cease and desist order which was 
+issued before the date of enactment of this Act.
+    (d) Applicability of Sections 7 and 8.--The amendments made by 
+sections 7 and 8 of this Act shall apply only with respect to 
+compulsory process issued after the date of enactment of this Act.
+    (e) Applicability of Section 9.--The amendments made by section 9 
+of this Act shall apply only with respect to cease and desist orders 
+issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 
+45), or to rules promulgated under section 18 of the Federal Trade 
+Commission Act (15 U.S.C. 57a) after the date of enactment of this Act. 
+These amendments shall not be construed to affect in any manner a cease 
+and desist order which was issued, or a rule which was promulgated, 
+before the date of enactment of this Act. These amendments shall not be 
+construed to affect in any manner a cease and desist order issued after 
+the date of enactment of this Act, if such order was issued pursuant to 
+remand from a court of appeals or the Supreme Court of an order issued 
+by the Federal Trade Commission before the date of enactment of this 
+Act.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

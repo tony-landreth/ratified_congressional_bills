@@ -1,0 +1,1058 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1295 Enrolled Bill (ENR)]
+
+        S.1295
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To amend the Rehabilitation Act of 1973 and the Education of the Deaf 
+Act of 1986 to make technical and conforming amendments to the Act, and 
+for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Rehabilitation Act Amendments of 
+1993''.
+                   TITLE I--REHABILITATION ACT OF 1973
+
+SEC. 101. REFERENCES.
+
+    Except as otherwise specifically provided, whenever in this title an 
+amendment or repeal is expressed in terms of an amendment to, or a 
+repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the 
+Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.).
+
+SEC. 102. REHABILITATION ACT AMENDMENTS OF 1992.
+
+    The Rehabilitation Act Amendments of 1992 (Public Law 102-569; 106 
+Stat. 4344 et seq.) is amended--
+        (1) in section 102(a)(2) (relating to a section 7(3)), by adding 
+    closing quotations after ``101(a)(1)(A).'';
+        (2) in section 102(p)(7)(E) (relating to a section 
+    101(a)(13)(B)), by striking ``conditions'' and inserting 
+    ``condition'';
+        (3) in section 138(b) (29 U.S.C. 701 note), to read as follows:
+    ``(b) Compliance.--Each State agency subject to the provisions of 
+title I of the Rehabilitation Act of 1973 shall comply with the 
+amendments made by this subtitle, as soon as is practicable after the 
+date of enactment of this Act, consistent with the effective and 
+efficient administration of the Rehabilitation Act of 1973, but not 
+later than October 1, 1993.''; and
+        (4) in section 203(g)(5) (relating to a section 202(g)), by 
+    striking ``adding at the end'' and inserting ``inserting after 
+    paragraph (3)''.
+
+SEC. 103. DEFINITIONS.
+
+    Section 7 (29 U.S.C. 706) is amended--
+        (1) in paragraph (3)--
+            (A) by striking ``The term `designated State unit' means'' 
+        and inserting the following:
+    ``(B) The term `designated State unit' means''; and
+            (B) in subparagraph (B) (as designated by subparagraph (A) 
+        of this paragraph), in clause (ii), by striking ``101(a)(B)(i)'' 
+        and inserting ``101(a)(1)(B)(i)'';
+        (2) in paragraph (8)--
+            (A) in subparagraph (A), by striking ``titles I, II, III, 
+        VI, and VIII'' and inserting ``title I, III, VI, or VIII''; and
+            (B) in subparagraph (B), by striking ``IV and V'' and 
+        inserting ``II, IV, V, and VII'';
+        (3) in paragraph (15)(A), in the matter preceding clause (i), by 
+    inserting a comma after ``subparagraph (C)'';
+        (4) in paragraph (18)(A)(ii)--
+            (A) by inserting ``for the period, and any extension, 
+        described in paragraph (34)(C)'' after ``employment services'';
+            (B) by striking ``or'' and inserting ``and''; and
+            (C) by inserting ``after the transition described in 
+        paragraph (27)(C)'' after ``extended services''; and
+        (5) in paragraph (26)(B), by striking ``III, IV, V, and VIII'' 
+    and inserting ``IV, V, and VII''.
+
+SEC. 104. CARRYOVER.
+
+    Section 19(a) (29 U.S.C. 718(a)) is amended to read as follows:
+    ``(a) In General.--Except as provided in subsection (b), and 
+notwithstanding any other provision of law--
+        ``(1) any funds appropriated for a fiscal year to carry out any 
+    grant program under part B or C of title I, section 509 (except as 
+    provided in section 509(b)), part C of title VI, part B or C of 
+    chapter 1 of title VII, or chapter 2 of title VII (except as 
+    provided in section 752(b)), including any funds reallotted under 
+    any such grant program, that are not obligated and expended by 
+    recipients prior to the beginning of the succeeding fiscal year; or
+        ``(2) any amounts of program income, including reimbursement 
+    payments under the Social Security Act (42 U.S.C. 301 et seq.), 
+    received by recipients under any grant program specified in 
+    paragraph (1) that are not obligated and expended by recipients 
+    prior to the beginning of the fiscal year succeeding the fiscal year 
+    in which such amounts were received,
+shall remain available for obligation and expenditure by such recipients 
+during such succeeding fiscal year.''.
+
+SEC. 105. CLIENT ASSISTANCE INFORMATION.
+
+    Section 20 (29 U.S.C. 718a) is amended by striking ``such 
+individuals, or the parents,'' and inserting ``such individuals who are 
+applicants for or recipients of the services, or the parents,''.
+
+SEC. 106. TRADITIONALLY UNDERSERVED POPULATIONS.
+
+    Section 21(b) (29 U.S.C. 719b(b)) is amended--
+        (1) by redesignating paragraphs (4) and (5) as paragraphs (5) 
+    and (6), respectively; and
+        (2) by redesignating the second paragraph (3) as paragraph (4).
+
+SEC. 107. VOCATIONAL REHABILITATION SERVICES.
+
+    (a) State Plans.--Section 101(a) (29 U.S.C. 721(a)) is amended--
+        (1) in paragraph (10)(A), by striking ``described in 
+    subparagraph (C)'' and inserting ``described in subparagraph (D)'';
+        (2) in paragraph (32), by inserting ``or independent commission 
+    described in paragraph (36)'' after ``Council'';
+        (3) in paragraph (34)(B) by striking ``part B'' and inserting 
+    ``section 110''; and
+        (4) in paragraph (36)--
+            (A) by amending subparagraph (B)(i) to read as follows:
+                ``(i) is responsible under State law for operating, or 
+            overseeing the operation of, the vocational rehabilitation 
+            program in the State;''; and
+            (B) in subparagraph (C)--
+                (i) by amending clause (i) to read as follows:
+                ``(i) an independent commission is responsible under 
+            State law for operating, or overseeing the operation of, the 
+            vocational rehabilitation programs of both such agencies and 
+            meets the requirements of clauses (ii) and (iv) of 
+            subparagraph (B);''; and
+                (ii) by striking clause (ii) and inserting the 
+            following:
+                ``(ii)(I) an independent commission is responsible under 
+            State law for operating, or overseeing the operation of, the 
+            vocational rehabilitation program in the State for 
+            individuals who are blind, is consumer-controlled by and 
+            represents individuals who are blind, and undertakes the 
+            function set forth in section 105(c)(3); and
+                ``(II) an independent commission is responsible under 
+            State law for operating, or overseeing the operation of, the 
+            vocational rehabilitation program in the State for all 
+            individuals with disabilities except for individuals who are 
+            blind and meets the requirements of clauses (ii) and (iv) of 
+            subparagraph (B); or
+                ``(iii)(I) an independent commission is responsible 
+            under State law for operating, or overseeing the operation 
+            of, the vocational rehabilitation program in the State for 
+            individuals who are blind, is consumer-controlled by and 
+            represents individuals who are blind, and undertakes the 
+            function set forth in section 105(c)(3); and
+                ``(II) the State has established a State Rehabilitation 
+            Advisory Council that meets the criteria set forth in 
+            section 105 and carries out the duties of such a Council 
+            with respect to functions for, and services provided to, 
+            individuals with disabilities except for individuals who are 
+            blind.''.
+    (b) Individualized Written Rehabilitation Program.--Section 102 (29 
+U.S.C. 722) is amended--
+        (1) in subsection (a)(5)(B), by striking ``section 
+    7(22)(A)(iii)'' and inserting ``section 7(22)(A)(ii)''; and
+        (2) in subsection (d)--
+            (A) in paragraph (2)(C)(ii)(I), by striking ``who were 
+        appointed under one of subparagraphs (E) through (H) of section 
+        105(b)(1);'' and inserting ``who were appointed under one of 
+        clauses (v) through (viii) of section 105(b)(1)(A), or under one 
+        of clauses (v) through (ix) of section 105(b)(1)(B), as 
+        appropriate;''; and
+            (B) in paragraph (6)(B), by redesignating paragraphs (1) 
+        through (4) as clauses (i) through (iv), respectively.
+    (c) Vocational Rehabilitation Services.--Section 103(a) (29 U.S.C. 
+723(a)) is amended--
+        (1) in paragraph (4)--
+            (A) in subparagraph (D), by striking ``a physician skilled 
+        in the diseases of the eye or by an optometrist, whichever the 
+        individual may select,'' and inserting ``qualified personnel, 
+        under State licensure laws, that are selected by the 
+        individual,''; and
+            (B) in subparagraph (F), by striking ``a physician or 
+        licensed psychologist'' and all that follows and inserting 
+        ``qualified personnel under State licensure laws;''; and
+        (2) in paragraph (6), by striking ``those individuals'' and all 
+    that follows and inserting ``those individuals determined to be 
+    blind after an examination by qualified personnel under State 
+    licensure laws;''.
+    (d) State Rehabilitation Advisory Council.--
+        (1) Amendments.--Section 105 (29 U.S.C. 725) is amended--
+            (A) in subsection (b)--
+                (i) by striking paragraph (1) and inserting the 
+            following:
+        ``(1) Composition.--
+            ``(A) In general.--Except in the case of a separate Council 
+        established under subsection (a)(2), the Council shall be 
+        composed of--
+                ``(i) at least one representative of the Statewide 
+            Independent Living Council established under section 705, 
+            which representative may be the chairperson or other 
+            designee of the Council;
+                ``(ii) at least one representative of a parent training 
+            and information center established pursuant to section 
+            631(e)(1) of the Individuals with Disabilities Education Act 
+            (20 U.S.C. 1431(e)(1));
+                ``(iii) at least one representative of the client 
+            assistance program established under section 112;
+                ``(iv) at least one vocational rehabilitation counselor, 
+            with knowledge of and experience with vocational 
+            rehabilitation programs, who shall serve as an ex officio, 
+            nonvoting member of the Council if the counselor is an 
+            employee of the designated State agency;
+                ``(v) at least one representative of community 
+            rehabilitation program service providers;
+                ``(vi) four representatives of business, industry, and 
+            labor;
+                ``(vii) representatives of disability advocacy groups 
+            representing a cross section of--
+
+                    ``(I) individuals with physical, cognitive, sensory, 
+                and mental disabilities; and
+                    ``(II) parents, family members, guardians, 
+                advocates, or authorized representatives, of individuals 
+                with disabilities who have difficulty in representing 
+                themselves or are unable due to their disabilities to 
+                represent themselves; and
+
+                ``(viii) current or former applicants for, or recipients 
+            of, vocational rehabilitation services.
+            ``(B) Separate council.--In the case of a separate Council 
+        established under subsection (a)(2), the Council shall be 
+        composed of--
+                ``(i) at least one representative described in 
+            subparagraph (A)(i);
+                ``(ii) at least one representative described in 
+            subparagraph (A)(ii);
+                ``(iii) at least one representative described in 
+            subparagraph (A)(iii);
+                ``(iv) at least one vocational rehabilitation counselor 
+            described in subparagraph (A)(iv), who shall serve as 
+            described in such subparagraph;
+                ``(v) at least one representative described in 
+            subparagraph (A)(v);
+                ``(vi) four representatives described in subparagraph 
+            (A)(vi);
+                ``(vii) at least one representative of a disability 
+            advocacy group representing individuals who are blind;
+                ``(viii) at least one parent, family member, guardian, 
+            advocate, or authorized representative, of an individual 
+            who--
+
+                    ``(I) is an individual who is blind and has multiple 
+                disabilities; and
+                    ``(II) has difficulty in representing himself or 
+                herself or is unable due to disabilities to represent 
+                himself or herself; and
+
+                ``(ix) applicants or recipients described in 
+            subparagraph (A)(viii).
+            ``(C) Exception.--In the case of a separate Council 
+        established under subsection (a)(2), any Council that is 
+        required by State law, as in effect on the date of enactment of 
+        the Rehabilitation Act Amendments of 1992, to have fewer than 13 
+        members shall be deemed to be in compliance with subparagraph 
+        (B) if the Council--
+                ``(i) meets the requirements of subparagraph (B), other 
+            than the requirements of clauses (vi) and (ix) of such 
+            subparagraph; and
+                ``(ii) includes at least--
+
+                    ``(I) one representative described in subparagraph 
+                (B)(vi); and
+                    ``(II) one applicant or recipient described in 
+                subparagraph (B)(ix).''; and
+
+                (ii) in paragraph (3)--
+
+                    (I) in the first sentence, by striking ``or the 
+                appropriate entity within the State responsible for 
+                making appointments''; and
+                    (II) by inserting after the first sentence the 
+                following: ``In the case of a State that, under State 
+                law, vests appointment authority in an entity in lieu 
+                of, or in conjunction with, the Governor, such as one or 
+                more houses of the State legislature, or an independent 
+                board that has general appointment authority, that 
+                entity shall make the appointments.''; and
+
+            (B) in subsection (g), by inserting ``(except for funds 
+        appropriated to carry out the client assistance program under 
+        section 112 and funds reserved pursuant to section 110(d) to 
+        carry out part D of this title)'' before ``to reimburse 
+        members''.
+        (2) Effective date.--In the case of a State that demonstrates to 
+    the satisfaction of the Secretary of Education that the State has 
+    designated a State agency to administer the part of the State plan 
+    under which vocational rehabilitation services are provided for 
+    individuals who are blind under section 101(a)(1)(A)(i) of the 
+    Rehabilitation Act of 1973, and has established by State law a 
+    separate Council to perform the duties of a State Rehabilitation 
+    Advisory Council with respect to such State agency, the Secretary 
+    may delay the effective date of all or part of section 105(b)(1)(B), 
+    as amended by paragraph (1), until October 1, 1994.
+    (e) State Allotments.--Section 110(c) (29 U.S.C. 730(c)) is 
+amended--
+        (1) in paragraph (2)--
+            (A) by striking ``to pay for initial expenditures during''; 
+        and
+            (B) by inserting at the end the following: ``The 
+        Commissioner shall make such amount available only if such other 
+        State will be able to make sufficient payments from non-Federal 
+        sources to pay for the non-Federal share of the cost of 
+        vocational rehabilitation services under the State plan for the 
+        fiscal year for which the amount was appropriated.''; and
+        (2) by striking paragraph (4).
+    (f) Payments to States.--Section 111(b) (29 U.S.C. 731(b)) is 
+amended by moving paragraphs (1) and (2) 2 ems to the right.
+    (g) Client Assistance Program.--Section 112 (29 U.S.C. 732) is 
+amended--
+        (1) in the first sentence of subsection (a), by striking 
+    ``facilities'' and inserting ``community rehabilitation programs''; 
+    and
+        (2) in subsection (e)(1)(D), by striking clause (ii) and 
+    inserting the following:
+    ``(ii) For any fiscal year in which the total amount appropriated 
+under subsection (h) exceeds the total amount appropriated under such 
+subsection for the preceding fiscal year by a percentage greater than 
+the most recent percentage change in the Consumer Price Index For All 
+Urban Consumers published by the Secretary of Labor under section 
+100(c)(1), the Secretary shall increase each of the minimum allotments 
+under clause (i) by such percentage change in the Consumer Price Index 
+For All Urban Consumers.''.
+    (h) Innovation and Expansion Grants.--Section 124 (29 U.S.C. 744) is 
+amended--
+        (1) in subsection (a)--
+            (A) in paragraph (2)--
+                (i) in subparagraph (A), by striking ``this subsection'' 
+            and inserting ``paragraph (1)(B)''; and
+                (ii) in subparagraph (B), by striking ``allotted'' and 
+            inserting ``allotted under paragraph (1)(A)''; and
+            (B) by striking paragraph (3) and inserting the following:
+        ``(3) Adjustment for inflation.--For any fiscal year, beginning 
+    in fiscal year 1994, in which the total amount appropriated to carry 
+    out this part exceeds the total amount appropriated to carry out 
+    this part for the preceding fiscal year by a percentage greater than 
+    the most recent percentage change in the Consumer Price Index For 
+    All Urban Consumers published by the Secretary of Labor under 
+    section 100(c)(1), the Commissioner shall increase the minimum 
+    allotment under paragraph (1)(B) by such percentage change in the 
+    Consumer Price Index For All Urban Consumers.''; and
+        (2) by striking subsection (b) and inserting the following:
+    ``(b) Proportional Reduction.--To provide minimum allotments to 
+States (as increased under subsection (a)(3)) under subsection 
+(a)(1)(B), or to provide minimum allotments to States under subsection 
+(a)(2)(B), the Commissioner shall proportionately reduce the allotments 
+of the remaining States under subsection (a)(1)(A), with such 
+adjustments as may be necessary to prevent the allotment of any such 
+remaining State from being reduced to less than the minimum allotment 
+for a State (as increased under subsection (a)(3)) under subsection 
+(a)(1)(B), or the minimum allotment for a State under subsection 
+(a)(2)(B), as appropriate.''.
+
+SEC. 108. CLIENT INFORMATION.
+
+    Title I (29 U.S.C. 721 et seq.) is amended by adding at the end the 
+following:
+
+     ``Part E--Vocational Rehabilitation Services Client Information
+
+``SEC. 140. REVIEW OF DATA COLLECTION AND REPORTING SYSTEM.
+
+    ``(a) Review.--The Commissioner shall conduct a comprehensive review 
+of the current system for collecting and reporting data on clients of 
+programs carried out under this Act, particularly data on clients of the 
+programs carried out under this title.
+    ``(b) Considerations.--
+        ``(1) Current data.--In conducting the review, the Commissioner 
+    shall examine the kind, quantity, and quality of the data that are 
+    currently collected and reported, taking into consideration the 
+    range of purposes that the data serve at the Federal, State, and 
+    local levels.
+        ``(2) Additional information.--In conducting the review, the 
+    Commissioner shall examine the feasibility of collecting and 
+    reporting under the system information, if such information can be 
+    determined, with respect to each client participating in a program 
+    under this Act, regarding--
+            ``(A) other programs in which the client participated during 
+        the 3 years before the date on which the client applied to 
+        participate in a program under this Act;
+            ``(B) the number of jobs held, hours worked, and earnings 
+        received by the client during such 3 years;
+            ``(C) the types of major and secondary disabilities of the 
+        client;
+            ``(D) the dates of the onset of the disabilities;
+            ``(E) the severity of the disabilities;
+            ``(F) the source from which the client was referred to a 
+        program under this Act;
+            ``(G) the hours worked by the client;
+            ``(H) the size and industry code of the place of employment 
+        of the client at the time of entry into such a program and at 
+        the termination of services under the program;
+            ``(I) the number of services provided to the client under 
+        the programs and the cost of each service;
+            ``(J) the types of public support received by the client;
+            ``(K) the primary sources of economic support and amounts of 
+        public assistance received by the client before and after 
+        receiving the services;
+            ``(L) whether the client is covered by health insurance from 
+        any source and whether health insurance is available through the 
+        employer of the client;
+            ``(M) the supported employment status of the client; and
+            ``(N) the reasons for terminating the services received by 
+        the client.
+    ``(c) Recommendations.--Based on the review, the Commissioner shall 
+recommend improvements in the data collection and reporting system.
+    ``(d) Views.--In developing the recommendations, the Commissioner 
+shall seek views of persons and entities providing or using such data, 
+including State agencies, State Rehabilitation Advisory Councils, 
+providers of vocational rehabilitation services, professionals in the 
+field of vocational rehabilitation, clients and organizations 
+representing clients, the National Council on Disability, other Federal 
+agencies, non-Federal researchers, other analysts using the data, and 
+other members of the public.
+    ``(e) Publication and Submission of Report.--Not later than 18 
+months after the date of the enactment of the Rehabilitation Act 
+Amendments of 1992 (Public Law 102-569), the Commissioner shall publish 
+the recommendations in the Federal Register and shall prepare and submit 
+a report containing the recommendations to the appropriate committees of 
+Congress. The Commissioner shall not implement the recommendations 
+earlier than 90 days after the date on which the Commissioner submits 
+the report.
+
+``SEC. 141. EXCHANGE OF DATA.
+
+    ``(a) Exchange.--The Secretary of Education and the Secretary of 
+Health and Human Services shall enter into a memorandum of understanding 
+for the purposes of exchanging data of mutual importance--
+        ``(1) that concern clients of State vocational rehabilitation 
+    agencies; and
+        ``(2) that are data maintained either by--
+            ``(A) the Rehabilitation Services Administration, as 
+        required by section 13; or
+            ``(B) the Social Security Administration, from its Summary 
+        Earnings and Records and Master Beneficiary Records.
+    ``(b) Treatment of Information.--For purposes of the exchange, the 
+data described in subsection (a)(2)(B) shall not be considered return 
+information (as defined in section 6103(b)(2) of the Internal Revenue 
+Code of 1986) and, as appropriate, the confidentiality of all client 
+information shall be maintained by both agencies.''.
+
+SEC. 109. RESEARCH AND TRAINING.
+
+    (a) National Institute on Disability and Rehabilitation.--Section 
+202 (29 U.S.C. 761a) is amended--
+        (1) in subsection (b)--
+            (A) in paragraph (2)(D), by striking ``the individuals'' and 
+        inserting ``such individuals''; and
+            (B) in paragraph (4)(D), by striking ``individuals'' and 
+        inserting ``individuals described in subparagraph (C)'';
+        (2) in the fourth sentence of subsection (c)(2), by striking 
+    ``In case of any vacancy in the office of the Director, the'' and 
+    inserting ``The''; and
+        (3) in subsection (g) in paragraph (3), by striking ``and'' at 
+    the end.
+    (b) Research.--Section 204 (29 U.S.C. 762) is amended--
+        (1) in subsection (a)--
+            (A) in the second sentence, by inserting ``, including 
+        projects addressing the needs described in the State plans 
+        submitted under section 101 or 704 by State agencies'' before 
+        the period at the end; and
+            (B) in the third sentence, by striking ``, as described in 
+        the State plans submitted by the State agencies,''; and
+        (2) in subsection (b)--
+            (A) in paragraph (2)(G)(i), by striking ``rehabilitation 
+        related'' and inserting ``rehabilitation-related'';
+            (B) in paragraph (3)--
+                (i) in subparagraph (B)(iii)(I), by striking ``family 
+            centered'' and inserting ``family-centered''; and
+                (ii) in subparagraph (C)(i)--
+
+                    (I) by striking ``Assistance to Individuals'' and 
+                inserting ``Assistance for Individuals''; and
+                    (II) by striking the comma after ``representatives 
+                of the individuals''; and
+
+            (C) in paragraph (4)(A), by moving clause (iii) 2 ems to the 
+        right.
+
+SEC. 110. TRAINING AND DEMONSTRATION PROJECTS.
+
+    (a) Training.--Section 302 (29 U.S.C. 771a) is amended--
+        (1) in subsection (d)--
+            (A) in the second sentence, by striking ``local employees, 
+        who are recruited from or reside in'' and inserting ``local 
+        residents, who are recruited from''; and
+            (B) by inserting after the second sentence a new sentence to 
+        read as follows: ``Entities receiving grants to carry out 
+        projects under this subsection shall coordinate the activities 
+        carried out through the projects with the activities of State 
+        vocational rehabilitation agencies to promote the employment of 
+        the individuals trained to be rehabilitation technicians.''; and
+        (2) in subsection (h), to read as follows:
+    ``(h) There are authorized to be appropriated to carry out this 
+section such sums as may be necessary for each of the fiscal years 1993 
+through 1997.''.
+    (b) Authorization of Appropriations.--Section 310 (29 U.S.C. 777) is 
+amended by striking ``sections 311(d), 311(e),'' and inserting 
+``sections 311(c), 311(d),''.
+    (c) Special Demonstration Programs.--Section 311 (29 U.S.C. 777a) is 
+amended--
+        (1) in subsection (a)(1), by striking the comma at the end and 
+    inserting a semicolon; and
+        (2) in subsection (c)(1)(B) by inserting ``and'' before 
+    ``(iii)''.
+    (d) Special Recreational Programs.--Section 316(a)(1) (29 U.S.C. 
+777f(a)(1)) is amended in the first sentence, by striking ``handicapped 
+individuals'' and inserting ``individuals with disabilities''.
+
+SEC. 111. NATIONAL COUNCIL ON DISABILITY.
+
+    Section 403(a)(2) (29 U.S.C. 783(a)(2)) is amended by striking 
+``seven'' and inserting ``eight''.
+
+SEC. 112. RIGHTS AND ADVOCACY.
+
+    (a) Employment of Individuals With Disabilities.--Section 501(a) (29 
+U.S.C. 791(a)) is amended in the first sentence, by inserting a comma 
+after ``Veterans Affairs''.
+    (b) Architectural and Transportation Barriers Compliance Board.--
+Section 502(a)(5)(A) (29 U.S.C. 792(a)(5)(A)) is amended by striking 
+``the daily equivalent of the rate of pay for level 4 of the Senior 
+Executive Service Schedule under section 5382'' and inserting ``the 
+daily equivalent of the rate of pay for level IV of the Executive 
+Schedule under section 5315''.
+    (c) Rights and Advocacy.--Section 509 (29 U.S.C. 794e) is amended--
+        (1) in subsection (a), by striking paragraph (1) and inserting 
+    the following:
+        ``(1) need services that are beyond the scope of services 
+    authorized to be provided by the client assistance program under 
+    section 112; and'';
+        (2) by striking subsection (b) and inserting the following:
+    ``(b) Appropriations Less Than $5,500,000.--For any fiscal year in 
+which the amount appropriated to carry out this section is less than 
+$5,500,000, the Commissioner may make grants from such amount to 
+eligible systems within States to plan for, develop outreach strategies 
+for, and carry out protection and advocacy programs authorized under 
+this section for individuals with disabilities who meet the requirements 
+of paragraphs (1) and (2) of subsection (a).'';
+        (3) in subsection (c)--
+            (A) in paragraph (4)--
+                (i) in subparagraph (A), by striking ``this subsection'' 
+            and inserting ``paragraph (3)(B)''; and
+                (ii) in subparagraph (B), by striking ``allotted'' and 
+            inserting ``allotted under paragraph (3)(A)''; and
+            (B) by striking paragraph (5) and inserting the following:
+        ``(5) Adjustment for inflation.--For any fiscal year, beginning 
+    in fiscal year 1994, in which the total amount appropriated to carry 
+    out this section exceeds the total amount appropriated to carry out 
+    this section for the preceding fiscal year by a percentage greater 
+    than the most recent percentage change in the Consumer Price Index 
+    For All Urban Consumers published by the Secretary of Labor under 
+    section 100(c)(1), the Commissioner shall increase the minimum 
+    allotment under paragraphs (3)(B) and (4)(B) by such percentage 
+    change in the Consumer Price Index For All Urban Consumers.'';
+        (4) by striking subsection (d) and inserting the following:
+    ``(d) Proportional Reduction.--To provide minimum allotments to 
+systems within States (as increased under subsection (c)(5)) under 
+subsection (c)(3)(B), or to provide minimum allotments to systems within 
+States (as increased under subsection (c)(5)) under subsection 
+(c)(4)(B), the Commissioner shall proportionately reduce the allotments 
+of the remaining systems within States under subsection (c)(3), with 
+such adjustments as may be necessary to prevent the allotment of any 
+such remaining system within a State from being reduced to less than the 
+minimum allotment for a system within a State (as increased under 
+subsection (c)(5)) under subsection (c)(3)(B), or the minimum allotment 
+for a State (as increased under subsection (c)(5)) under subsection 
+(c)(4)(B), as appropriate.'';
+        (5) by redesignating subsection (i) as subsection (n);
+        (6) in subsection (i), to read as follows:
+    ``(i) Notwithstanding subsection (n), a protection and advocacy 
+system that--
+        ``(1) received funds for fiscal year 1992, under section 731 of 
+    this Act, as in effect on the day before the date of enactment of 
+    the Rehabilitation Act Amendments of 1992, to carry out a project; 
+    and
+        ``(2) receives a continuation award for such project for fiscal 
+    year 1993,
+shall not be eligible to receive additional funds under this section for 
+fiscal year 1993.''; and
+        (7) by striking subsection (j) and inserting the following:
+    ``(j) Administrative Cost.--In any State in which an eligible system 
+is located within a State agency, a State may use a portion of any 
+allotment under subsection (c) for the cost of the administration of the 
+system required by this section. Such portion may not exceed 5 percent 
+of the allotment.''.
+
+SEC. 113. AVAILABILITY OF SERVICES.
+
+    Section 633 (29 U.S.C. 795l) is amended by striking ``subsection (c) 
+or (f)'' and inserting ``subsection (b) or (c)''.
+    SEC. 114. INDEPENDENT LIVING SERVICES AND CENTERS FOR INDEPENDENT 
+      LIVING.
+    (a) Purpose.--Section 701(3) (29 U.S.C. 796(3)) is amended by 
+striking ``other Federal programs'' and inserting ``other Federal law''.
+    (b) State Plan.--Section 704(c)(2) (29 U.S.C. 796c(c)(2)) is amended 
+by striking ``programs under parts B and C'' and inserting ``a program 
+under part B, and a program under part C in a case in which the program 
+is administered by the State under section 723''.
+    (c) Statewide Independent Living Council.--Section 705 (29 U.S.C. 
+795d) is amended--
+        (1) in the second sentence of subsection (a), by striking 
+    ``another'' and inserting ``a'';
+        (2) in subsection (b)--
+            (A) by striking paragraph (4) and inserting the following:
+        ``(4) Qualifications.--
+            ``(A) In general.--The Council shall be composed of 
+        members--
+                ``(i) who provide statewide representation;
+                ``(ii) who represent a broad range of individuals with 
+            disabilities;
+                ``(iii) who are knowledgeable about centers for 
+            independent living and independent living services; and
+                ``(iv) a majority of whom are persons who are--
+
+                    ``(I) individuals with disabilities described in 
+                section 7(8)(B); and
+                    ``(II) not employed by any State agency or center 
+                for independent living.
+
+            ``(B) Voting members.--A majority of the voting members of 
+        the Council shall be--
+                ``(i) individuals with disabilities described in section 
+            7(8)(B); and
+                ``(ii) not employed by any State agency or center for 
+            independent living.''; and
+            (B) in paragraph (5)--
+                (i) in subparagraph (A), by inserting ``voting'' before 
+            ``membership''; and
+                (ii) in subparagraph (B), by inserting ``voting'' before 
+            ``member'' each place the term appears; and
+        (3) in subsection (c)(1)--
+            (A) by striking ``submit'' and inserting ``sign''; and
+            (B) by striking ``designated State agency'' and inserting 
+        ``designated State unit''.
+    (d) Responsibilities of the Commissioner.--Section 706(c)(1) (29 
+U.S.C. 796d-1(c)(1)) is amended--
+        (1) in the first sentence, by striking ``part C'' and inserting 
+    ``section 722'';
+        (2) by inserting after the second sentence the following: ``The 
+    Commissioner shall annually conduct onsite compliance reviews of at 
+    least one-third of the designated State units that receive funding 
+    under section 723, and, to the extent necessary to determine the 
+    compliance of such a State unit with subsections (f) and (g) of 
+    section 723, centers that receive funding under section 723 in such 
+    State.''; and
+        (3) in the last sentence, by inserting ``and such State units'' 
+    after ``select such centers''.
+    (e) Independent Living Services Allotments.--Section 711 (29 U.S.C. 
+796e) is amended--
+        (1) in subsection (a)--
+            (A) in paragraph (2)--
+                (i) in subparagraph (A), by striking ``this subsection'' 
+            and inserting ``paragraph (1)(C)''; and
+                (ii) in subparagraph (B), by striking ``allotted'' and 
+            inserting ``allotted under paragraph (1)(A)''; and
+            (B) by striking paragraph (3) and inserting the following:
+        ``(3) Adjustment for inflation.--For any fiscal year, beginning 
+    in fiscal year 1994, in which the total amount appropriated to carry 
+    out this part exceeds the total amount appropriated to carry out 
+    this part for the preceding fiscal year by a percentage greater than 
+    the most recent percentage change in the Consumer Price Index For 
+    All Urban Consumers published by the Secretary of Labor under 
+    section 100(c)(1), the Commissioner shall increase the minimum 
+    allotment under paragraph (1)(C) by such percentage change in the 
+    Consumer Price Index For All Urban Consumers.''; and
+        (2) by striking subsection (b) and inserting a new subsection 
+    (b) to read as follows:
+    ``(b) Proportional Reduction.--To provide allotments to States in 
+accordance with subsection (a)(1)(B), to provide minimum allotments to 
+States (as increased under subsection (a)(3)) under subsection 
+(a)(1)(C), or to provide minimum allotments to States under subsection 
+(a)(2)(B), the Commissioner shall proportionately reduce the allotments 
+of the remaining States under subsection (a)(1)(A), with such 
+adjustments as may be necessary to prevent the allotment of any such 
+remaining State from being reduced to less than the amount required by 
+subsection (a)(1)(B).''.
+    (f) Payments to States From Allotments.--Section 712(b) (29 U.S.C. 
+796e-1(b)) is amended by striking paragraph (3).
+    (g) Authorized Uses of Funds.--Section 713(3) (29 U.S.C. 796e-2(3)) 
+is amended by inserting ``that are in compliance with the standards and 
+assurances set forth in subsections (b) and (c) of section 725'' after 
+``living''.
+    (h) Centers for Independent Living.--Section 721 (29 U.S.C. 796f) is 
+amended--
+        (1) in subsection (b)(1)--
+            (A) by inserting ``to eligible agencies, centers for 
+        independent living, and Statewide Independent Living Councils'' 
+        after ``assistance''; and
+            (B) by striking ``of such funds'' and inserting ``of the 
+        funds appropriated to carry out this part for the fiscal year 
+        involved'';
+        (2) in subsection (c)--
+            (A) in paragraph (1)--
+                (i) by striking ``Except as provided in subparagraphs 
+            (B) and (C) and after'' and inserting ``After''; and
+                (ii) by inserting ``, and except as provided in 
+            subparagraphs (B) and (C),'' after ``made'';
+            (B) in paragraph (2)--
+                (i) in subparagraph (A), by striking ``this subsection'' 
+            and inserting ``paragraph (1)(C)''; and
+                (ii) in subparagraph (B), by striking ``allotted'' and 
+            inserting ``allotted under paragraph (1)(A)''; and
+            (C) by adding a new paragraph (4) to read as follows:
+        ``(4) Proportional reduction.--To provide allotments to States 
+    in accordance with paragraph (1)(B), to provide minimum allotments 
+    to States (as increased under paragraph (3)) under paragraph (1)(C), 
+    or to provide minimum allotments to States under paragraph (2)(B), 
+    the Commissioner shall proportionately reduce the allotments of the 
+    remaining States under paragraph (1)(A), with such adjustments as 
+    may be necessary to prevent the allotment of any such remaining 
+    State from being reduced to less than the amount required by 
+    paragraph (1)(B).''; and
+        (3) in subsection (e)--
+            (A) in paragraph (1)(A), by striking ``, whichever is 
+        greater,''; and
+            (B) in paragraph (2)(B)--
+                (i) in the first sentence of clause (i)--
+
+                    (I) by striking ``Private nonprofit agencies'' and 
+                inserting ``Entities'';
+                    (II) by striking ``if the agencies submit'' and 
+                inserting ``if the entities submit''; and
+                    (III) by striking ``agencies will meet the standards 
+                described in section 725(b) and'' and inserting 
+                ``entities will be private nonprofit agencies that meet 
+                the standards described in section 725(b), and''; and
+
+                (ii) by adding a new clause (iii) to read as follows:
+                ``(iii) Funding method.--In making awards under this 
+            subsection, the Secretary shall distribute funds in 
+            accordance with paragraphs (1), (2), and (4) of subsection 
+            (c), and subsection (d).''.
+    (i) Grants by Commissioner.--Section 722 (29 U.S.C. 796f-1) is 
+amended--
+        (1) in subsection (c), by striking ``is receiving funds under 
+    this part on'' and inserting ``has been awarded a grant under this 
+    part by'';
+        (2) in subsection (d)(1), by inserting ``proposing to serve such 
+    region'' after ``qualified applicant'';
+        (3) by redesignating subsection (f) as subsection (g); and
+        (4) by inserting after subsection (e) the following:
+    ``(f) Nonresidential Agencies.--A center that provides or manages 
+residential housing after October 1, 1994, shall not be considered to be 
+an eligible agency under this section.''.
+    (j) Grants by Designated State Unit.--Section 723 (29 U.S.C. 796f-2) 
+is amended--
+        (1) in subsection (a)--
+            (A) in paragraph (1)(A)(iii), by inserting before the period 
+        at the end the following: ``, making such adjustments as may be 
+        necessary to accommodate State funding cycles such as 2-year 
+        funding cycles or State fiscal years that do not coincide with 
+        the Federal fiscal year''; and
+            (B) in paragraph (3), by inserting ``eligible agencies in'' 
+        before ``the State in accordance'';
+        (2) in subsection (c), by striking ``is receiving funds under 
+    this part on'' and inserting ``has been awarded a grant under this 
+    part by'';
+        (3) by redesignating subsections (f), (g), and (h) as 
+    subsections (g), (h), and (i), respectively;
+        (4) by inserting after subsection (e) the following:
+    ``(f) Nonresidential Agencies.--A center that provides or manages 
+residential housing after October 1, 1994, shall not be considered to be 
+an eligible agency under this section.'';
+        (5) in subsection (g) (as redesignated by paragraph (3) of this 
+    subsection), in paragraph (2)(B), by striking ``(h)'' each place the 
+    term appears and inserting ``(i)''; and
+        (6) in subsection (h) (as redesignated by paragraph (3) of this 
+    subsection), by striking the first sentence and inserting the 
+    following: ``The director of the designated State unit shall 
+    annually conduct onsite compliance reviews of at least 15 percent of 
+    the centers for independent living that receive funding under this 
+    section in the State.''.
+    (k) Centers Operated by State Agencies.--Section 724(b)(1)(A) (29 
+U.S.C. 796f-3(b)(1)(A)) is amended by striking ``fiscal year 1993'' and 
+inserting ``the fiscal year''.
+    (l) Standards and Assurances.--Section 725(b)(2) (29 U.S.C. 796f-
+4(b)(2)) is amended--
+        (1) in the second sentence--
+            (A) by inserting ``severe'' before ``disabilities who are 
+        members of''; and
+            (B) by striking ``Act'' and inserting ``title''; and
+        (2) in the third sentence, by inserting ``shall be determined by 
+    the center, and'' before ``shall not be based''.
+    (m) Programs of Grants.--Section 752 (29 U.S.C. 796k) is amended--
+        (1) in subsection (a)(2), by striking ``unit'' and inserting 
+    ``agency'';
+        (2) in subsection (b), to read as follows:
+    ``(b) Contingent Competitive Grants.--Beginning with fiscal year 
+1993, in the case of any fiscal year for which the amount appropriated 
+under section 753 is less than $13,000,000, grants made under subsection 
+(a) shall be--
+        ``(1) discretionary grants made on a competitive basis to 
+    States; or
+        ``(2) grants made on a noncompetitive basis to pay for the 
+    continuation costs of activities for which a grant was awarded--
+            ``(A) under this chapter; or
+            ``(B) under part C, as in effect on the day before the date 
+        of enactment of the Rehabilitation Act Amendments of 1992.''; 
+        and
+        (3) in subsection (j)--
+            (A) by striking ``and'' at the end of paragraph (1)(A) and 
+        inserting ``or''; and
+            (B) by striking ``and'' at the end of paragraph (2)(A)(i) 
+        and inserting ``or''.
+
+SEC. 115. TABLE OF CONTENTS.
+
+    The table of contents (Public Law 93-112; 87 Stat. 356) is amended--
+        (1) by adding after the items relating to title I the following:
+
+     ``Part E--Vocational Rehabilitation Services Client Information
+
+``Sec. 140. Review of data collection and reporting system.
+
+``Sec. 141. Exchange of data.'';
+
+    and
+        (2) by striking the item relating to part B of title III and 
+    inserting the following:
+
+        ``Part B--Special Projects and Supplementary Services''.
+
+               TITLE II--EDUCATION OF THE DEAF ACT OF 1986
+
+SEC. 201. SHORT TITLE; REFERENCES.
+
+    (a) Short Title.--This title may be cited as the ``Education of the 
+Deaf Act Amendments of 1993''.
+    (b) References.--Except as otherwise expressly provided, whenever in 
+this title an amendment or repeal is expressed in terms of an amendment 
+to, or repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the Education 
+of the Deaf Act of 1986 (20 U.S.C. 4301 et seq.).
+
+SEC. 202. GENERAL AMENDMENT.
+
+    The Act (20 U.S.C. 4301 et seq.) is amended by striking ``the 
+Institute'' each place that such appears and inserting ``NTID''.
+
+SEC. 203. AMENDMENTS TO TITLE I.
+
+    (a) Section 101.--Section 101(a) (20 U.S.C. 4301(a)) is amended by 
+inserting a comma after ``Hereafter''.
+    (b) Section 102.--Section 102(b) (20 U.S.C. 4302(b)) is amended--
+        (1) in paragraph (1), by striking ``of Education''; and
+        (2) in paragraph (2), by striking ``but if invested'' and 
+    inserting ``but, if invested,''.
+    (c) Section 103.--Section 103 (20 U.S.C. 4303) is amended--
+        (1) in subsection (a)--
+            (A) by striking ``members selected as follows:'' in 
+        paragraph (1) and inserting ``members who shall include--'';
+            (B) by inserting a comma after ``Association'' in paragraph 
+        (1)(B);
+            (C) by redesignating paragraph (2) as paragraph (3); and
+            (D) by redesignating the second sentence of paragraph (1) as 
+        paragraph (2); and
+        (2) in subsection (b)--
+            (A) by inserting a comma after ``facilities)'' in paragraph 
+        (1);
+            (B) in paragraph (4)--
+                (i) by striking ``or individuals who are'' and inserting 
+            ``or''; and
+                (ii) by striking the period at the end thereof and 
+            inserting in lieu thereof a semicolon; and
+            (C) by striking out ``the provisions of'' in paragraph (8).
+    (d) Section 104.--Section 104 (20 U.S.C. 4304) is amended--
+        (1) in the section heading, by striking ``EDUCATIONAL'' and 
+    inserting ``EDUCATION'';
+        (2) in subsection (a)(1)--
+            (A) by striking ``elementary and secondary programs'' each 
+        place that such appears and inserting ``elementary and secondary 
+        education programs'';
+            (B) by striking ``and individuals who are'' in subparagraph 
+        (A) and inserting ``or'';
+            (C) by striking ``non-English speaking'' in subparagraph (B) 
+        and inserting ``non-English-speaking''; and
+            (D) in subparagraph (C)--
+                (i) by striking ``individuals'' each place that such 
+            appears and inserting ``students'';
+                (ii) in clause (i), by striking ``deaf,'' and inserting 
+            ``deaf from the age of onset of deafness to age fifteen, 
+            inclusive, but not beyond the eighth grade or its 
+            equivalent,''; and
+                (iii) in clause (ii), by striking ``deaf,'' and 
+            inserting ``deaf from grades nine through twelve, 
+            inclusive,'';
+        (3) in subsection (b)(1)--
+            (A) by striking ``infants and children'' in subparagraph (A) 
+        and inserting ``infants, children, and youth''; and
+            (B) by striking the semicolon at the end of subparagraph (C) 
+        and inserting a period; and
+        (4) in subsection (b)(4)--
+            (A) by striking ``programs'' in subparagraph (A) and 
+        inserting ``program'';
+            (B) by striking ``students to and from those programs'' in 
+        subparagraph (B) and inserting ``the child to and from that 
+        program''; and
+            (C) by striking ``decisions'' in subparagraph (C)(iii) and 
+        inserting ``a decision''.
+    (e) Section 105.--Section 105(b) (20 U.S.C. 4305(b)) is amended--
+        (1) in paragraph (2), by striking ``shall'' and inserting 
+    ``will''; and
+        (2) in paragraph (4)--
+            (A) by striking ``Elementary School and the Model'' and 
+        inserting ``Elementary School or the Model''; and
+            (B) by striking ``and the Secretary'' and inserting ``except 
+        that the Secretary''.
+    (f) Section 111.--Section 111 (20 U.S.C. 4311) is amended by 
+striking ``title'' and inserting ``part''.
+    (g) Section 112.--Section 112 (20 U.S.C. 4312) is amended--
+        (1) in the section heading by striking ``INSTITUTE'' and 
+    inserting in lieu thereof ``NATIONAL TECHNICAL INSTITUTE FOR THE 
+    DEAF'';
+        (2) in subsection (a)--
+            (A) by striking ``Act'' in paragraph (1) and inserting 
+        ``part''; and
+            (B) by striking the first two commas in paragraph (2);
+        (3) in subsection (b)--
+            (A) in paragraph (3)--
+                (i) by striking ``Secretary an annual report, 
+            including'' and inserting ``Secretary, not later than June 1 
+            following the fiscal year for which the report is submitted, 
+            an annual report containing'';
+                (ii) by striking ``which report'' and inserting ``which 
+            accounting''; and
+                (iii) by striking the comma after ``Representatives'';
+            (B) by striking ``and'' at the end of paragraph (4);
+            (C) in paragraph (5)--
+                (i) by striking ``and the Secretary'' and inserting 
+            ``except that the Secretary''; and
+                (ii) by striking the period at the end thereof and 
+            inserting a semicolon and ``and''; and
+            (D) by striking ``or individuals who are'' in paragraph (6) 
+        and inserting ``or''; and
+        (4) in subsection (c), by inserting a comma after ``If''.
+
+SEC. 204. AMENDMENTS TO TITLE II.
+
+    (a) Section 201.--Section 201 (20 U.S.C. 4351) is amended--
+        (1) in paragraph (1)(B), by striking ``United States; or'' and 
+    inserting ``United States; and''; and
+        (2) by striking paragraphs (3) and (5); and
+        (3) by redesignating paragraphs (4), (6), (7), (8), and (9) as 
+    paragraphs (3), (4), (5), (6), and (7), respectively.
+    (b) Section 203.--Subsection (b) of section 203 (20 U.S.C. 4353(b)) 
+is amended to read as follows:
+    ``(b) Independent Audit.--Gallaudet University shall have an annual 
+independent financial audit made of the programs and activities of the 
+University. The institution of higher education with which the Secretary 
+has an agreement under section 112 shall have an annual independent 
+financial audit made of the programs and activities of such institution 
+of higher education, including NTID, and containing specific schedules 
+and analyses for all NTID funds, as determined by the Secretary.
+    (c) Section 204.--Section 204 (20 U.S.C. 4354) is amended--
+        (1) in paragraph (1), by striking ``first time'' and inserting 
+    ``first-time'';
+        (2) in paragraph (2)(G)--
+            (A) by striking ``Individualized Education Programs'' and 
+        inserting ``individualized education programs''; and
+            (B) by inserting ``or hard of hearing'' after ``children who 
+        are deaf'';
+        (3) in paragraph (3), to read as follows:
+        ``(3)(A) The annual audited financial statements and auditor's 
+    report of the University, as required under section 203, and (B) the 
+    annual audited financial statements and auditor's report of the 
+    institution of higher education with which the Secretary has an 
+    agreement under section 112, including specific schedules and 
+    analyses for all NTID funds, as required under section 203, and such 
+    supplementary schedules presenting financial information for NTID 
+    for the end of the Federal fiscal year as determined by the 
+    Secretary.''; and
+        (4) in paragraph (6), by striking ``Program is'' and inserting 
+    ``Program funds are''.
+    (d) Section 205.--Section 205(a) (20 U.S.C. 4355(a)) is amended--
+        (1) by inserting ``or hard of hearing'' after ``individuals who 
+    are deaf''; and
+        (2) by striking ``the provisions of''.
+    (e) Section 206.--Section 206(b) (20 U.S.C. 4356(b)) is amended by 
+inserting ``or hard of hearing'' after ``individuals who are deaf''.
+    (f) Section 207.--Section 207 (20 U.S.C. 4357) is amended--
+        (1) in subsection (c)(3), by striking ``Advisory Board of NTID'' 
+    and inserting ``advisory group established under section 112'';
+        (2) in subsection (e), by striking ``investment limitations 
+    and'' and inserting ``investment limitations or''; and
+        (3) in subsection (i), by striking ``the provisions of the 
+    Education of the Deaf Act of 1986'' and inserting ``this Act as 
+    enacted on August 4, 1986''.
+    (g) Section 209.--Section 209 (20 U.S.C. 4359) is amended--
+        (1) in subsection (a), by striking ``title II'' and inserting 
+    ``part B of title I''; and
+        (2) in subsection (b), by striking ``the provisions of''.
+    (h) Section 210.--Section 210 (20 U.S.C. 4360) is amended--
+        (1) in subsection (b), by striking ``75 percent beginning the 
+    academic year 1993-1994, and 90 percent beginning the academic year 
+    1994-1995'' and inserting ``75 percent for the academic year 1993-
+    1994 and 90 percent beginning with the academic year 1994-1995''; 
+    and
+        (2) in subsection (c)--
+            (A) by striking ``Beginning the academic year 1993-1994 and 
+        thereafter'' and inserting ``Beginning with the academic year 
+        1993-1994''; and
+            (B) by redesignating subparagraphs (A), (B), and (C) as 
+        paragraphs (1), (2), and (3), respectively.
+    (i) Section 211.--Section 211(a) (20 U.S.C. 4361(a)) is amended by 
+redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), 
+and (3), respectively.
+                          TITLE III--OTHER ACTS
+    SEC. 301. COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR 
+      SEVERELY DISABLED.
+    Section 1 of the Act entitled ``An Act to Create a Committee on 
+Purchases of Blind-made Products, and for other purposes'', approved 
+June 25, 1938 (commonly known as the Wagner-O'Day Act; 41 U.S.C. 46) is 
+amended by striking ``From People Who Are Blind and Severely Disabled'' 
+and inserting ``From People Who Are Blind or Severely Disabled''.
+
+SEC. 302. INDIVIDUALS WITH DISABILITIES EDUCATION ACT.
+
+    Section 631(a) of the Individuals with Disabilities Education Act 
+(20 U.S.C. 1431(a)) is amended by redesignating the second paragraph 
+(8), as added by section 912(a) of the Rehabilitation Act Amendments of 
+1992 (Public Law 102-569), as paragraph (9).
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

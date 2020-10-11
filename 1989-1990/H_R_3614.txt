@@ -1,0 +1,649 @@
+ 
+--H.R.3614--
+H.R.3614
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To amend the Drug-Free Schools and Communities Act of 1986 to revise certain
+requirements relating to the provision of drug abuse education and prevention
+program in elementary and secondary schools, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Drug-Free Schools and Communities Act Amendments
+ of 1989'.
+SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+ Section 5111(a) of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3181(a)) is amended--
+ (1) in paragraph (1)--
+ (A) in subparagraph (A)--
+ (i) by inserting after `part C' the following: `and section 5136'; and
+ (ii) by striking `and $20,000,000' and all that follows and inserting the
+ following: `$20,000,000 for the fiscal year 1990, and $35,000,000 for each
+ of the fiscal years 1991, 1992, and 1993.'; and
+ (B) in subparagraph (B), by striking `$230,000,000' and inserting
+ `$215,000,000'; and
+ (2) by adding at the end the following new paragraph:
+ `(3) There are authorized to be appropriated for purposes of carrying out
+ section 5136 $25,000,000 for each of the fiscal years 1991, 1992, and 1993.'.
+SEC. 3. RESERVATIONS AND STATE ALLOTMENTS.
+ Section 5112 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3182) is amended--
+ (1) in subsection (a), by striking `From' and inserting `Except as provided
+ in subsection (c)';
+ (2) in subsection (b), by striking paragraph (3) and redesignating paragraph
+ (4) as paragraph (3); and
+ (3) by adding at the end the following new subsections:
+ `(c) DISTRIBUTION OF APPROPRIATIONS- Except for funds provided for any
+ fiscal year for part C of this title and sections 5136 and 5137, and for
+ fiscal year 1991 for section 5146, the Secretary shall distribute any
+ amounts appropriated or otherwise made available to carry out this title
+ for any fiscal year in the following manner:
+ `(1) In any year in which the total of such amounts is not more than the
+ total amount appropriated or otherwise made available to carry out this
+ title for the fiscal year 1989, the Secretary shall distribute such total
+ amount as provided in subsections (a) and (b).
+ `(2) In any year in which the total of such amounts is greater than the
+ total amount appropriated or otherwise made available to carry out this
+ title for the fiscal year 1989, the amount in excess of the total amount
+ appropriated or otherwise made available to carry out this title for the
+ fiscal year 1989 shall be distributed as follows:
+ `(A) Such amount as is necessary to carry out the reservations under
+ paragraphs (1), (2), and (3) of subsection (a);
+ `(B)(i) Except as provided in clause (ii), not more than $14,700,000 to
+ be allocated to the chief executive officer of each State, in an amount
+ which bears the same ratio to such amount as the school-age population of
+ the State bears to the school-age population of all States.
+ `(ii) For fiscal year 1990, in addition to amounts made available under
+ clause (i), $25,000,000 shall be available for distribution to the chief
+ executive officer of each State in an amount which bears the same ratio to
+ such additional amount as the school-age population of the State bears to
+ the school-age population of all States. Funds available under this clause
+ shall be used to carry out section 5136.
+ `(C) Subject to subparagraph (D), of the remainder--
+ `(i) 50 percent of such remainder shall be distributed to the States under
+ subsection (b); and
+ `(ii) 50 percent of such remainder shall be distributed to the States on
+ the basis of the amounts received by each State under part A of title I of
+ chapter 1 for the preceding fiscal year.
+ `(D) Under subparagraph (C), no State shall be allotted less than an amount
+ equal to 0.5 percent of such remainder.
+ `(d) DEFINITION- For the purposes of this section, the term `State' means
+ any of the 50 States, the District of Columbia, and the Commonwealth of
+ Puerto Rico.'.
+SEC. 4. USE OF ALLOTMENTS BY STATES.
+ Section 5121 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3191) is amended by adding at the end the following new subsection:
+ `(c) USE OF ADDITIONAL AMOUNTS- Any amounts received by a State under section
+ 5112(c)(2)(C) shall be used by the State educational agency to make grants
+ to local educational agencies for purposes of carrying out programs in
+ accordance with section 5125. The State educational agency shall distribute
+ any such amounts among the local educational agencies within the State on
+ the basis of the amounts received by each such local educational agency
+ under part A of title I of chapter 1 for the preceding fiscal year.'.
+SEC. 5. STATE PROGRAMS.
+ Section 5122 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3192) is amended--
+ (1) in subsection (a) by striking `local governments' and all that follows
+ through `organizations' and inserting `parent groups, community action
+ agencies, community-based organizations, and other public entities and
+ private nonprofit entities';
+ (2) in subsection (a)--
+ (A) in paragraph (6) by striking `and' at the end thereof;
+ (B) in paragraph (7) by striking the period at the end thereof and inserting
+ `; and'; and
+ (C) by adding at the end of such subsection the following new paragraph:
+ `(8) to promote, establish, and maintain drug-free school zones for schools
+ within the State.'.
+ (3) in subsection (b) by striking the second sentence of paragraph (1) and
+ inserting the following: `The chief executive officer shall make grants to or
+ enter into contracts with public entities or private nonprofit entities for
+ purposes of providing community-based programs of coordinated services that
+ are designed for high-risk youths, including programs that use strategies to
+ improve skills of such youths such as vocational and educational counseling
+ and job skills training, giving priority to assisting community action
+ agencies, community-based organizations, parent groups, and other entities
+ which are representative of communities or significant segments of communities
+ and which have the capability to provide such services. The chief executive
+ officer shall also make grants to private nonprofit organizations to develop
+ new strategies to communicate anti-drug abuse messages to youths.';
+ (4) in subsection (b)(2)--
+ (A) in subparagraph (I) by striking `or';
+ (B) in subparagraph (J) by striking the period and inserting `; and'; and
+ (C) by adding after subparagraph (J) the following new subparagraph:
+ `(K) is a juvenile in a detention facility within the State.'.
+ (5) by adding at the end thereof the following new subsection:
+ `(d) DRUG TESTING PROGRAMS- For each fiscal year, amounts made available to
+ the chief executive officer of a State by section 5121(a) may be used for
+ nondiscriminatory random drug testing programs for students voluntarily
+ participating in athletic activities only in schools which voluntarily
+ choose to participate in such a program. Nothing in this subsection shall
+ prescribe or prohibit the use of drug testing programs.'.
+SEC. 6. STATE APPLICATIONS.
+ Subsection (b) of section 5123 of the Drug-Free Schools and Communities
+ Act of 1986 (20 U.S.C. 3193) is amended--
+ (1) in paragraph (7), by inserting before the semicolon the following:
+ `, and judicial officials';
+ (2) by striking `and' at the end of paragraph (10);
+ (3) by striking the period at the end of paragraph (11) and inserting `;
+ and'; and
+ (4) by adding at the end the following new paragraph:
+ `(12) include a plan for providing innovative programs of drug abuse
+ education for juveniles in detention facilities within the State as required
+ by section 5122(b)(1)(A).'.
+SEC. 7. RESPONSIBILITIES OF STATE EDUCATIONAL AGENCIES.
+ Section 5124 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3194) is amended--
+ (1) by amending subsection (a) to read as follows:
+ `(a) GRANTS TO LOCAL AND INTERMEDIATE EDUCATIONAL AGENCIES- (1) Each State
+ educational agency shall use a sum which shall not be less than 90 percent
+ of the amounts available under section 5121(b) for each fiscal year for
+ grants to local educational agencies, intermediate educational agencies,
+ and consortia in the State, in accordance with applications approved under
+ section 5126.
+ `(2) From the sum described in paragraph (1), the State educational
+ agency shall distribute funds for use among local educational agencies,
+ intermediate educational agencies, and consortia in the State on the basis
+ of the relative enrollments in public schools and private nonprofit schools
+ served by such agencies and consortia.
+ `(3)(A) Not later than July 1 of each year, the State educational agency shall
+ inform each local educational agency, intermediate educational agency, and
+ consortium in the State of the amount allocated to such agency or consortium
+ from amounts available under subsections (b) and (c) of section 5121. If
+ a local educational agency or a consortium of local educational agencies
+ chooses not to apply to receive the amount allocated to such agency under
+ this subsection, the State educational agency--
+ `(i) shall distribute such amount to the intermediate educational agency
+ serving such local educational agency or consortium; or
+ `(ii) may, if it is able to facilitate the arrangement of a consortium
+ among local educational agencies in the State that choose not to apply
+ to receive the amounts allocated to such agencies under this subsection,
+ distribute such amount to such consortium.
+ `(B) The State educational agency shall distribute to a local educational
+ agency, intermediate educational agency, or consortium the amount allocated
+ to such agency or consortium from amounts available under subsections (b)
+ and (c) of section 5121 upon the approval of an application for such agency
+ under section 5126.
+ `(4)(A) Except as provided in subparagraph (B), upon the expiration of
+ the 1-year period beginning on the date that a local educational agency,
+ intermediate educational agency, or consortium under this subsection receives
+ its allocation under this subsection--
+ `(i) such agency or consortium shall return to the State educational agency
+ any funds from such allocation that remain unobligated; and
+ `(ii) the State educational agency shall reallocate any such amount to local
+ educational agencies, intermediate educational agencies, or consortia that
+ have plans for using such amount for programs or activities on a timely basis.
+ `(B) In any fiscal year, a local educational agency, intermediate educational
+ agency, or consortium may retain for obligation in the succeeding fiscal
+ year--
+ `(i) an amount equal to not more than 25 percent of the allocation it
+ receives under this subsection for such fiscal year; or
+ `(ii) upon a demonstration of good cause by such agency or consortium,
+ a greater amount approved by the State educational agency,'; and
+ (2) in subsection (b)--
+ (A) in paragraph (2), by inserting after `materials' the following: `that
+ clearly and consistently teach that illicit drug use is harmful'; and
+ (B) in paragraph (5), by striking `2.5 percent' and all that follows and
+ inserting `5 percent of the amounts available under subsections (b) and
+ (c) of section 5121.'.
+SEC. 8. LOCAL DRUG ABUSE EDUCATION AND PREVENTION PROGRAMS.
+ Section 5125 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3195) is amended in subsection (a)--
+ (1) in paragraph (2), by inserting before the semicolon the following:
+ `, which--
+ `(A) should, to the extent practicable, employ counselors whose sole duty
+ is to provide drug abuse prevention counseling to students;
+ `(B) may include the use of drug-free older students as positive role models
+ and instruction relating to--
+ `(i) self-esteem;
+ `(ii) drugs and drug addiction;
+ `(iii) decisionmaking and risk-taking;
+ `(iv) stress management techniques; and
+ `(v) assertiveness;
+ `(C) may bring law enforcement officers into the classroom to provide
+ antidrug information and positive alternatives to drug use, including
+ decisionmaking and assertiveness skills; and
+ `(D) in the case of a local educational agency that determines it has
+ served all students in all grades, such local educational agency may target
+ additional funds to particularly vulnerable age groups, especially those
+ in grades 4 through 9';
+ (2) in paragraph (4)--
+ (A) by inserting `and intervention' after `drug abuse prevention'; and
+ (B) by striking the semicolon at the end and inserting the following:
+`, which may include--
+ `(A) the employment of counselors, social workers, psychologists, or
+ nurses who are trained to provide drug abuse prevention and intervention
+ counseling; or
+ `(B) the provision of services through a contract with a private nonprofit
+ organization that employs individuals who are trained to provide such
+ counseling;';
+ (3) in paragraph (8), by striking `educational personnel' and inserting
+ `school personnel'; and
+ (4) in paragraph (11) by striking `and' at the end thereof;
+ (5) by redesignating paragraph (12) as paragraph (13); and
+ (6) by adding after paragraph (11) the following new paragraph:
+ `(12) model alternative schools for youth with drug problems that address
+ the special needs of such students through education and counseling; and'.
+SEC. 9. LOCAL APPLICATIONS.
+ Section 5126 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3196) is amended--
+ (1) in subsection (a)--
+ (A) in paragraph (1), by inserting before the period the following: `before
+ the expiration of the 120-day period beginning on the date that the State
+ educational agency notifies the local educational agency, intermediate
+ educational agency, or consortium of the amount allocated to such agency
+ or consortium under section 5124(a).'; and
+ (B) in paragraph (2)--
+ (i) in subparagraph (H), by inserting before the semicolon the following:
+ `and with appropriate community-based organizations';
+ (ii) by striking `and' at the end of subparagraph (L);
+ (iii) by redesignating subparagraph (M) as subparagraph (R); and
+ (iv) by inserting after subparagraph (L) the following new subparagraphs:
+ `(M) describe how the applicant will ensure that the schools will be an
+ important part of a community-wide effort to achieve a drug-free population;
+ `(N) describe how, to the extent practicable, assistance provided under
+ this title will be used to provide trained counselors, social workers,
+ psychologists, and nurses to carry out drug abuse prevention and intervention
+ activities in addition to any individuals so employed by the applicant
+ on the date of the enactment of the Drug-Free Schools and Communities Act
+ Amendments of 1989;
+ `(O) provide assurances that the applicant will maintain and make available
+ for distribution a list of local resources for substance abuse counseling
+ and treatment;
+ `(P) provide assurances that the applicant has reviewed curricula that it
+ intends to use and that such curricula will meet the needs of the schools
+ served by the applicant;
+ `(Q) describe the training that will be provided for teachers and other
+ personnel who are involved in the implementation of programs to be carried
+ out by the applicant under this part; and'; and
+ (2) by amending paragraph (1) of subsection (b) to read as follows:
+ `(1) Each applicant shall annually submit to the State educational agency
+ a progress report on the implementation of its plan. The progress report
+ shall include--
+ `(A) the applicant's significant accomplishments under the plan during the
+ preceding year;
+ `(B) the extent to which the original objectives of the plan are being
+ achieved;
+ `(C) a discussion of the method used by the applicant to evaluate the
+ effectiveness of its drug education program carried out under its plan; and
+ `(D) the results of the evaluation described in subparagraph (C).'.
+SEC. 10. REPORTS.
+ Subsection (a) of section 5127 of the Drug-Free Schools and Communities
+ Act of 1986 (20 U.S.C. 3197) is amended in paragraph (3)--
+ (1) by striking `and' at the end of subparagraph (F);
+ (2) by striking the period at the end of subparagraph (G) and inserting `;
+ and'; and
+ (3) by adding at the end the following new subparagraph:
+ `(H) an evaluation of the effectiveness of State and local drug and alcohol
+ abuse education and prevention programs.'.
+SEC. 11. TRAINING OF TEACHERS, COUNSELORS, AND SCHOOL PERSONNEL.
+ (a) AMENDMENT TO PART HEADING- The heading for part C of the Drug-Free
+ Schools and Communities Act of 1986 (20 U.S.C. 3198 et seq.) is amended to
+ read as follows:
+`PART C--TRAINING OF TEACHERS, COUNSELORS, AND SCHOOL PERSONNEL'.
+ (b) PROGRAM AND ALLOCATIONS- Subsection (b) of section 5128 of the
+ Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3198) is amended
+ by striking `educational personnel' in the first sentence and inserting
+ `school personnel'.
+SEC. 12. GRANTS TO INSTITUTIONS OF HIGHER EDUCATION.
+ (a) IN GENERAL- Section 5131 of the Drug-Free Schools and Communities Act
+ of 1986 (20 U.S.C. 3211) is amended--
+ (1) in paragraph (4) of subsection (a), by striking `subsection (d)' and
+ inserting `subsection (c)';
+ (2) by striking subsection (b) and redesignating subsections (c) and (d)
+ as subsections (b) and (c), respectively; and
+ (3) by striking subsection (e).
+ (b) TRANSITION PROVISION- Any amounts appropriated for the fiscal year 1990
+ and for any subsequent fiscal year for the purpose of making training grants
+ under section 5131(b) of the Drug-Free Schools and Communities Act of 1986
+ (20 U.S.C. 3211) as such section existed on the day before the date of the
+ enactment of this Act shall be used by the Secretary of Education for the
+ purpose of making grants under section 5128 of the Drug-Free Schools and
+ Communities Act of 1986 (20 U.S.C. 3198).
+SEC. 13. FEDERAL ACTIVITIES.
+ Subsection (b) of section 5132 of the Drug-Free Schools and Communities
+ Act of 1986 (20 U.S.C. 3212) is amended--
+ (1) by striking `and' at the end of paragraph (4);
+ (2) by striking the period at the end of paragraph (5) and inserting `;
+ and'; and
+ (3) by adding at the end the following new paragraphs:
+ `(6) use private nonprofit organizations to develop innovative strategies
+ to communicate antidrug abuse messages to youths and to eliminate drug
+ abuse from the communities of the Nation; and
+ `(7) as necessary, evaluate programs assisted under this title.'.
+SEC. 14. EMERGENCY GRANTS.
+ Part D of the Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3211
+ et seq.) is amended by adding at the end the following new section:
+`SEC. 5136 EMERGENCY GRANTS.
+ `(a) PROGRAM AUTHORIZED- Except as provided under subsection (d), the
+ Secretary, in consultation with the Attorney General and the Secretary of
+ Health and Human Services, shall make grants to eligible local educational
+ agencies that demonstrate significant need for additional assistance for
+ purposes of combating drug and alcohol abuse by students served by such
+ agencies.
+ `(b) ELIGIBLE AGENCIES- A local educational agency shall be eligible to
+ receive a grant under this section if such agency--
+ `(1) receives assistance under section 1006 or meets the criteria of clauses
+ (i) and (ii) of section 1006(a)(1)(A); and
+ `(2) serves an area--
+ `(A) in which there is a large number or a high percentage of--
+ `(i) arrests for, or while under the influence of, drugs or alcohol; or
+ `(ii) convictions of youths for drug or alcohol-related crimes;
+ `(B) in which there is a large number or high percentage of referrals of
+ youths to drug and alcohol abuse treatment and rehabilitation programs; and
+ `(C) that has a significant drug and alcohol abuse problem, as indicated
+ by other appropriate data.
+ `(c) AMOUNT OF GRANTS- Each grant awarded under this section shall be in
+ an amount that is not less than $100,000 and not more than $1,000,000.
+ `(d) FISCAL YEAR 1990- For fiscal year 1990, funds available for the
+ purposes of this section shall be allocated to the chief executive officer
+ of each State for distribution through State educational agencies to local
+ educational agencies.'.
+SEC. 15. DRUG-FREE SCHOOL ZONES DEMONSTRATION PROGRAM.
+ Part D of the Drug-Free Schools and Communities Act (20 U.S.C. 3211 et
+ seq.) is amended by adding after section 5136 (as added by section 14)
+ the following new section:
+`SEC. 5137. DRUG-FREE SCHOOL ZONES DEMONSTRATION PROGRAM.
+ `(a) ESTABLISHMENT OF DEMONSTRATION PROGRAM FOR DRUG-FREE SCHOOL ZONES-
+ The Secretary of Education is authorized to establish a demonstration
+ program to establish and maintain drug-free school zones. In carrying out the
+ demonstration program under this section, the Secretary shall make grants to
+ local educational agencies, intermediate educational agencies, and consortia.
+ `(b) EVALUATIONS- The Secretary shall evaluate programs under this section.
+ `(c) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ $2,000,000 to carry out the purposes of this section. Funds appropriated
+ under this section are authorized to remain available until expended.'.
+SEC. 16. DEFINITIONS.
+ Section 5141 of the Drug-Free Schools and Communities Act of 1986 (20
+ U.S.C. 3221) is amended--
+ (1) in paragraph (1), by inserting before the period the following: `,
+ including anabolic steroids';
+ (2) in paragraph (2), by inserting before the period the following: `,
+ including anabolic steroids'; and
+ (3) by adding at the end the following new paragraph:
+ `(10) The term `school personnel' includes teachers, administrators,
+ guidance counselors, social workers, psychologists, nurses, librarians,
+ and other support staff who are employed by a school or who perform services
+ for the school on a contractual basis.'.
+SEC. 17. PARTICIPATION OF CHILDREN AND TEACHERS FROM PRIVATE NONPROFIT
+ELEMENTARY AND SECONDARY SCHOOLS.
+ Subsection (c) of section 5143 of the Drug-Free Schools and Communities
+ Act of 1986 (20 U.S.C. 3233) is amended--
+ (1) by striking `WAIVER;';
+ (2) by inserting after `SECRETARY' the following: `AND STATE EDUCATIONAL
+ AGENCIES';
+ (3) by inserting `(1)' before `If by reason'; and
+ (4) by adding at the end the following new paragraph:
+ `(2) If a State educational agency determines that a local educational agency,
+ intermediate educational agency, or consortium, as appropriate, is failing to
+ provide for the equitable participation of children or teachers from private
+ nonprofit elementary or secondary schools in accordance with subsection (a)
+ or (b), the State educational agency shall waive the requirements of such
+ subsection with respect to such local educational agency, intermediate
+ educational agency, or consortium and make appropriate arrangements for
+ the equitable participation of such children or teachers.'.
+SEC. 18. NATIONAL DIFFUSION NETWORK.
+ Part D of the Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3221
+ et seq.) is amended by adding at the end the following new section:
+`SEC. 5146. DISSEMINATION OF INFORMATION AND TECHNICAL ASSISTANCE.
+ `(a) DISSEMINATION OF INFORMATION AND TECHNICAL ASSISTANCE- The Secretary,
+ through the National Diffusion Network established under section 1562,
+ shall disseminate information and technical assistance with respect to drug
+ abuse education and prevention programs of demonstrated effectiveness.
+ `(b) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, $500,000 for fiscal year 1991.'.
+SEC. 19. DEVELOPMENT OF EARLY CHILDHOOD EDUCATION DRUG ABUSE PREVENTION
+MATERIALS.
+ (a) AMENDMENT TO PART HEADING- The heading for part F of the Drug-Free Schools
+ and Communities Act of 1986 (20 U.S.C. 3227) is amended to read as follows:
+`PART F--DEVELOPMENT OF EARLY CHILDHOOD EDUCATION DRUG ABUSE PREVENTION
+MATERIALS'.
+ (b) PROGRAM AUTHORIZED- Subsection (a) of section 5151 of the Drug-Free
+ Schools and Communities Act of 1986 (20 U.S.C. 3227) is amended--
+ (1) by striking `and such other' and inserting `such other'; and
+ (2) by inserting before the period the following: `, and to parents of
+ children participating in such programs'.
+SEC. 20. LEADERSHIP IN EDUCATIONAL ADMINISTRATION DEVELOPMENT.
+ Section 541(b) of the Higher Education Act of 1965 (20 U.S.C. 1109(b))
+ is amended--
+ (1) by striking `and' at the end of paragraph (4);
+ (2) by striking the period at the end of paragraph (5) and inserting `;
+ and'; and
+ (3) by adding at the end the following new paragraph:
+ `(6) developing skills and techniques for administering drug prevention
+ and education programs.'.
+SEC. 21. EMERGENCY GRANTS FOR CHILD ABUSE PREVENTION SERVICES FOR CHILDREN
+WHOSE PARENTS ARE SUBSTANCE ABUSERS.
+ The Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.),
+ as amended by the Child Abuse Prevention Challenge Grants Reauthorization
+ Act of 1989 (Public Law 101-126), is amended by adding after section 107
+ the following new section:
+`SEC. 107A. EMERGENCY CHILD ABUSE PREVENTION SERVICES GRANT.
+ `(a) ESTABLISHMENT- The Secretary shall establish a program to make grants
+ to eligible entities to enable such entities to provide services to children
+ whose parents are substance abusers.
+ `(b) ELIGIBLE ENTITIES- Entities eligible to receive a grant under this
+ section shall be--
+ `(1) State and local agencies that are responsible for administering child
+ abuse or related child abuse intervention services; and
+ `(2) community and mental health agencies and nonprofit youth-serving
+ organizations with experience in providing child abuse prevention services.
+ `(c) APPLICATION-
+ `(1) IN GENERAL- To be eligible to receive a grant under this section,
+ an entity shall submit an application to the Secretary at such time,
+ in such manner, and containing such information as the Secretary may by
+ regulation require.
+ `(2) ASSURANCE OF USE- An application submitted under paragraph (1) shall--
+ `(A) contain an assurance that the applicant operates in a geographic area
+ where child abuse has placed substantial strains on State and local agencies
+ and has resulted in substantial increases in the need for services that
+ cannot be met without funds available under this section;
+ `(B) identify the responsible agency or agencies that will be involved in
+ the use of funds provided under this section;
+ `(C) contain a description of emergency situations with regard to children
+ of substance abusers who need services of the type described in this section;
+ `(D) contain a plan for improving the delivery of such services to such
+ children;
+ `(E) contain assurances that such services will be provided in a comprehensive
+ multi-disciplinary and coordinated manner; and
+ `(F) contain any additional information as the Secretary may reasonably
+ require.
+ `(d) USE OF FUNDS- Funds received by an entity under this section shall
+ be used to improve the delivery of services to children whose parents are
+ substance abusers. Such services may include--
+ `(1) the hiring of additional personnel by the entity to reduce caseloads;
+ `(2) the provision of additional training for personnel to improve their
+ ability to provide emergency child abuse prevention services related to
+ substance abuse by the parents of such children;
+ `(3) the provision of expanded services to deal with family crises created
+ by substance abuse; and
+ `(4) the establishment or improvement of coordination between the agency
+ administering the grant, and--
+ `(A) child advocates;
+ `(B) public educational institutions;
+ `(C) community-based organizations that serve substance abusing parents,
+ including pregnant and post-partum females and their infants; and
+ `(D) parents and representatives of parent groups and related agencies.
+ `(e) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out this section, $40,000,000 for fiscal year 1990, and such sums
+ as may be necessary for each of the subsequent fiscal years 1991, 1992,
+ and 1993.'.
+SEC. 22. DRUG-FREE SCHOOLS AND CAMPUSES.
+ (a) IN GENERAL-
+ (1) CERTIFICATION OF DRUG AND ALCOHOL ABUSE PREVENTION PROGRAM- Title XII
+ of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by
+ adding at the end a new section 1213 to read as follows:
+`DRUG AND ALCOHOL ABUSE PREVENTION
+ `SEC. 1213. (a) Notwithstanding any other provision of law, no institution
+ of higher education shall be eligible to receive funds or any other form of
+ financial assistance under any Federal program, including participation in
+ any federally funded or guaranteed student loan program, unless it certifies
+ to the Secretary that it has adopted and has implemented a program to prevent
+ the use of illicit drugs and the abuse of alcohol by students and employees
+ that, at a minimum, includes--
+ `(1) the annual distribution to each student and employee of--
+ `(A) standards of conduct that clearly prohibit, at a minimum, the unlawful
+ possession, use, or distribution of illicit drugs and alcohol by students
+ and employees on its property or as part of any of its activities;
+ `(B) a description of the applicable legal sanctions under local, State,
+ or Federal law for the unlawful possession or distribution of illicit drugs
+ and alcohol;
+ `(C) a description of the health risks associated with the use of illicit
+ drugs and the abuse of alcohol;
+ `(D) a description of any drug or alcohol counseling, treatment, or
+ rehabilitation or re-entry programs that are available to employees or
+ students; and
+ `(E) a clear statement that the institution will impose sanctions on
+ students and employees (consistent with local, State, and Federal law),
+ and a description of those sanctions, up to and including expulsion or
+ termination of employment and referral for prosecution, for violations of
+ the standards of conduct required by paragraph (1)(A); and
+ `(2) a biennial review by the institution of its program to--
+ `(A) determine its effectiveness and implement changes to the program if
+ they are needed; and
+ `(B) ensure that the sanctions required by paragraph (1)(E) are consistently
+ enforced.
+ `(b) Each institution of higher education that provides the certification
+ required by subsection (a) shall, upon request, make available to the
+ Secretary and to the public a copy of each item required by subsection (a)(1)
+ as well as the results of the biennial review required by subsection (a)(2).
+ `(c)(1) The Secretary shall publish regulations to implement and enforce
+ the provisions of this section, including regulations that provide for--
+ `(A) the periodic review of a representative sample of programs required
+ by subsection (a); and
+ `(B) a range of responses and sanctions for institutions of higher education
+ that fail to implement their programs or to consistently enforce their
+ sanctions, including information and technical assistance, the development
+ of a compliance agreement, and the termination of any form of Federal
+ financial assistance.
+ `(2) The sanctions required by subsection (a)(1)(E) may include the completion
+ of an appropriate rehabilitation program.
+ `(d) Upon determination by the Secretary to terminate financial assistance
+ to any institution of higher education under this section, the institution
+ may file an appeal with an administrative law judge before the expiration
+ of the 30-day period beginning on the date such institution is notified
+ of the decision to terminate financial assistance under this section. Such
+ judge shall hold a hearing with respect to such termination of assistance
+ before the expiration of the 45-day period beginning on the date that such
+ appeal is filed. Such judge may extend such 45-day period upon a motion by
+ the institution concerned. The decision of the judge with respect to such
+ termination shall be considered to be a final agency action.'.
+ (2) EFFECTIVE DATE- (A) Except as provided in subparagraph (B), the amendment
+ made by paragraph (1) shall take effect on October 1, 1990.
+ (B) The Secretary of Education may allow any institution of higher education
+ until not later than April 1, 1991, to comply with section 1213 of the
+ Higher Education Act of 1965 (as added by paragraph (1)) if such institution
+ demonstrates--
+ (i) that it is in the process of developing and implementing its plan under
+ such section; and
+ (ii) it has a legitimate need for more time to develop and implement
+ such plan.
+ (b) AMENDMENTS TO DRUG-FREE SCHOOLS AND COMMUNITIES ACT OF 1986-
+ (1) IN GENERAL- Part D of the Drug-Free Schools and Communities Act of
+ 1986 (20 U.S.C. 3171 et seq.) is amended by adding after section 5144 the
+ following new section:
+`SEC. 5145. CERTIFICATION OF DRUG AND ALCOHOL ABUSE PREVENTION PROGRAMS.
+ `(a) IN GENERAL- Notwithstanding any other provision of law other than
+ section 432 of the General Education Provisions Act and section 103(b) of the
+ Department of Education Organization Act, no local educational agency shall
+ be eligible to receive funds or any other form of financial assistance under
+ any Federal program unless it certifies to the State educational agency that
+ it has adopted and has implemented a program to prevent the use of illicit
+ drugs and alcohol by students or employees that, at a minimum, includes--
+ `(1) age-appropriate, developmentally based drug and alcohol education
+ and prevention programs (which address the legal, social, and health
+ consequences of drug and alcohol use and which provide information about
+ effective techniques for resisting peer pressure to use illicit drugs or
+ alcohol) for students in all grades of the schools operated or served by
+ the applicant, from early childhood level through grade 12;
+ `(2) conveying to students that the use of illicit drugs and the unlawful
+ possession and use of alcohol is wrong and harmful;
+ `(3) standards of conduct that are applicable to students and employees in
+ all the applicant's schools and that clearly prohibit, at a minimum, the
+ unlawful possession, use, or distribution of illicit drugs and alcohol by
+ students and employees on school premises or as part of any of its activities;
+ `(4) a clear statement that sanctions (consistent with local, State, and
+ Federal law), up to and including expulsion or termination of employment
+ and referral for prosecution, will be imposed on students and employees who
+ violate the standards of conduct required by paragraph (3) and a description
+ of those sanctions;
+ `(5) information about any available drug and alcohol counseling and
+ rehabilitation and re-entry programs that are available to students and
+ employees;
+ `(6) a requirement that parents, students, and employees be given a copy
+ of the standards of conduct required by paragraph (3) and the statement of
+ sanctions required by paragraph (4);
+ `(7) notifying parents, students, and employees that compliance with the
+ standards of conduct required by paragraph (3) is mandatory; and
+ `(8) a biennial review by the applicant of its program to--
+ `(A) determine its effectiveness and implement changes to the program if
+ they are needed; and
+ `(B) ensure that the sanctions required by paragraph (4) are consistently
+ enforced.
+ `(b) DISSEMINATION OF INFORMATION- Each local educational agency that
+ provides the certification required by subsection (a) shall, upon request,
+ make available to the Secretary, the State educational agency, and to
+ the public full information about the elements of its program required by
+ subsection (a), including the results of its biennial review.
+ `(c) CERTIFICATION TO SECRETARY- Each State educational agency shall certify
+ to the Secretary that it has adopted and has implemented a program to
+ prevent the use of illicit drugs and the abuse of alcohol by its students
+ and employees that is consistent with the program required by subsection
+ (a) of this section. The State educational agency shall, upon request,
+ make available to the Secretary and to the public full information about
+ the elements of its program.
+ `(d) REGULATIONS- (1) The Secretary shall publish regulations to implement
+ and enforce the provisions of this section, including regulations that
+ provide for--
+ `(A) the periodic review by State educational agencies of a representative
+ sample of programs required by subsection (a); and
+ `(B) a range of responses and sanctions for local educational agencies
+ that fail to implement their programs or to consistently enforce their
+ sanctions, including information and technical assistance, the development
+ of a compliance agreement, and the termination of any form of Federal
+ financial assistance.
+ `(2) The sanctions required by subsection (a)(1)(4) may include the completion
+ of an appropriate rehabilitation program.
+ `(e) Upon a determination by the Secretary to terminate financial assistance
+ to any local educational agency under this section, the agency may file
+ an appeal with an administrative law judge before the expiration of the
+ 30-day period beginning on the date such agency is notified of the decision
+ to terminate financial assistance under this section. Such judge shall
+ hold a hearing with respect to such termination of assistance before the
+ expiration of the 45-day period beginning on the date that such appeal is
+ filed. Such judge may extend such 45-day period upon a motion by the agency
+ concerned. The decision of the judge with respect to such termination shall
+ be considered to be a final agency action.'.
+ (2) CONFORMING AMENDMENTS- Paragraph (2) of section 5126(e) of the Drug-Free
+ Schools and Communities Act of 1986 (20 U.S.C. 3196(c)) (as amended by
+ section 9 of this Act) is amended--
+ (A) by striking subparagraphs (E), (F), and (G); and
+ (B) by redesignating subparagraphs (H) through (R) as subparagraphs (E)
+ through (O), respectively.
+ (3) EFFECTIVE DATE- (A) Except as provided in subparagraph (B), the amendments
+ made by paragraphs (1) and (2) shall take effect on October 1, 1990.
+ (B) The Secretary of Education may allow any local educational agency
+ until not later than April 1, 1991, to comply with section 5145 of the
+ Drug-Free Schools and Communities Act of 1986 (as added by paragraph (1))
+ if such agency demonstrates--
+ (i) that it is in the process of developing and implementing its plan under
+ such section; and
+ (ii) it has a legitimate need for more time to develop and implement
+ such plan.
+SEC. 23. BEFORE AND AFTER SCHOOL PROGRAMS FOR UNSUPERVISED CHILDREN.
+ Section 3521(d) of the National Narcotics Leadership Act of 1988 is
+ amended by--
+ (1) redesignating paragraph (8) as paragraph (9);
+ (2) striking `and' at the end of paragraph (7); and
+ (3) inserting after paragraph (7) the following new paragraph:
+ `(8) programs for unsupervised children before and after school, including--
+ `(A) education and instruction consistent with the Drug-Free Schools and
+ Communities Act of 1986;
+ `(B) athletic activities;
+ `(C) creative activities; and
+ `(D) other programs designed to reduce the risk of drug abuse; and'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

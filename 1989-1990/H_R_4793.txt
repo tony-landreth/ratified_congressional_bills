@@ -1,0 +1,858 @@
+ 
+--H.R.4793--
+H.R.4793
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Small Business Act and the Small Business Investment Act of 1958,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Small Business Administration Reauthorization
+ and Amendments Act of 1990'.
+SEC. 2. TABLE OF CONTENTS.
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+TITLE I--AUTHORIZATION OF SMALL BUSINESS ADMINISTRATION PROGRAMS
+Sec. 101. Authorizations.
+Sec. 102. Disaster salaries and expenses.
+TITLE II--AMENDMENTS TO THE SMALL BUSINESS ACT AND RELATED ACTS
+Part A--Small Business Act
+Sec. 201. Small business development centers.
+Sec. 202. Export revolving line of credit.
+Sec. 203. Two-year rule for eligibility in the minority small business and
+capital ownership development program.
+Sec. 204. Size determinations relating to tribally owned business concerns.
+Sec. 205. Joint ventures with tribally owned participants in the 8(a) program.
+Sec. 206. Surety bond waiver authority.
+Sec. 207. Establishing award eligibility for contract opportunities competed
+under section 8(a).
+Sec. 208. Bundling of contracts.
+Sec. 209. Designated procurement center representatives.
+Sec. 210. Nonmanufacturer rule.
+Sec. 211. Commission on Minority Business Development.
+Sec. 212. Sunset on authority to provide technical and managerial assistance
+through private sector sources.
+Part B--Small Business Investment Act
+Sec. 214. Development company financings.
+Sec. 215. Small business investment companies.
+Sec. 216. Pilot Preferred Surety Bond Guarantee Program.
+Part C--Small Business Administration Management
+Sec. 221. Regulations.
+Sec. 222. Small Business Administration Deputy Administrator.
+Part D--Demonstration Programs and Studies
+Sec. 231. Small Business Technology Transfer Demonstration Program.
+Sec. 232. Pilot Technology Access Program.
+Sec. 233. Feasibility study of business cooperation network.
+Sec. 234. Study on impact of electronic data interchange technology.
+Part E--Repealers and Technical Amendments
+Sec. 241. Department of Defense procurement reporting.
+Sec. 242. Expired provision.
+Sec. 243. Reporting of subcontracting activity.
+Sec. 244. Notices of proposed procurement opportunities.
+Sec. 245. Time limit on secondary market sales.
+TITLE III--ASSISTANCE FOR RURAL SMALL BUSINESS CONCERNS
+Sec. 301. Short title.
+Sec. 302. Establishment of Office of Rural Affairs.
+Sec. 303. SBDC rural activities.
+Sec. 304. Catalog of programs to assist rural small business concerns.
+Sec. 305. Area statistics in Presidential report.
+Sec. 306. Rural small business conferences.
+Sec. 307. Pilot rural development loan program.
+Sec. 308. Rural small business incubators.
+Sec. 309. Effects of deregulation on rural America.
+Sec. 310. Tourism demonstration program.
+Sec. 311. Rural tourism training program.
+TITLE IV--MISCELLANEOUS AMENDMENTS
+Sec. 401. Contract goals for minorities in printing related services.
+Sec. 402. Suspension of liquidated damages under comprehensive small business
+subcontracting plans.
+Sec. 403. Definition of architectural and engineering services.
+TITLE I--AUTHORIZATION OF SMALL BUSINESS ADMINISTRATION PROGRAMS
+SEC. 101. AUTHORIZATIONS.
+ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended--
+ (1) by striking subsections (b) through (g),
+ (2) by redesignating subsection (h) as subsection (b), and
+ (3) by adding after subsection (b), as redesignated, the following new
+ subsections:
+ `(c) The following program levels are authorized for fiscal year 1991:
+ `(1) For the programs authorized by this Act, the Administration is authorized
+ to make $72,000,000 in direct and immediate participation loans; and of such
+ sum the Administration is authorized to make $19,000,000 in loans as provided
+ in section 7(a)(10), $24,000,000 in loans as provided in section 7(a)(11),
+ $10,000,000 in loans as provided in section 7(a)(20), and $19,000,000 in
+ loans to disabled veterans and Vietnam era veterans (as defined in section
+ 1841, title 38, United States Code) under the general terms and conditions
+ of section 7(a) of this Act.
+ `(2) For the programs authorized by this Act, the Administration is authorized
+ to make $4,070,000,000 in deferred participation loans and other financings;
+ and of such sum, the Administration is authorized to make $3,500,000,000 in
+ general business loans as provided in section 7(a), $50,000,000 in loans as
+ provided in section 7(a)(12)(B), and $520,000,000 in financings as provided in
+ section 7(a)(13) and section 504 of the Small Business Investment Act of 1958.
+ `(3) For the programs authorized by title III of the Small Business
+ Investment Act of 1958, the Administration is authorized to make $19,000,000
+ in purchases of preferred stock and $200,000,000 in guarantees of debentures.
+ `(4) For the programs authorized by part B of title IV of the Small Business
+ Investment Act of 1958, the Administration is authorized to enter into
+ guarantees not to exceed $1,800,000,000.
+ `(d) There are authorized to be appropriated to the Administration for
+ fiscal year 1991 such sums as may be necessary to carry out the provisions of
+ this Act, including administrative expenses and necessary loan capital for
+ disaster loans pursuant to section 7(b), and to carry out the provisions of
+ the Small Business Investment Act of 1958, including salaries and expenses
+ of the Administration.
+ `(e) The following program levels are authorized for fiscal year 1992:
+ `(1) For the programs authorized by this Act, the Administration is authorized
+ to make $75,000,000 in direct and immediate participation loans; and of such
+ sum the Administration is authorized to make $20,000,000 in loans as provided
+ in section 7(a)(10), $25,000,000 in loans as provided in section 7(a)(11),
+ $10,000,000 in loans as provided in section 7(a)(20), and $20,000,000 in
+ loans to disabled veterans and Vietnam era veterans (as defined in section
+ 1841, title 38, United States Code) under the general terms and conditions
+ of section 7(a) of this Act.
+ `(2) For the programs authorized by this Act, the Administration is authorized
+ to make $4,449,000,000 in deferred participation loans and other financings;
+ and of such sum, the Administration is authorized to make $3,850,000,000 in
+ general business loans as provided in section 7(a), $53,000,000 in loans as
+ provided in section 7(a)(12)(B), and $546,000,000 in financings as provided in
+ section 7(a)(13) and section 504 of the Small Business Investment Act of 1958.
+ `(3) For the programs authorized by title III of the Small Business
+ Investment Act of 1958, the Administration is authorized to make $20,000,000
+ in purchases of preferred stock and $210,000,000 in guarantees of debentures.
+ `(4) For the programs authorized by part B of title IV of the Small Business
+ Investment Act of 1958, the Administration is authorized to enter into
+ guarantees not to exceed $1,890,000,000.
+ `(f) There are authorized to be appropriated to the Administration for
+ fiscal year 1992 such sums as may be necessary to carry out the provisions of
+ this Act, including administrative expenses and necessary loan capital for
+ disaster loans pursuant to section 7(b), and to carry out the provisions of
+ the Small Business Investment Act of 1958, including salaries and expenses
+ of the Administration.
+ `(g) The following program levels are authorized for fiscal year 1993:
+ `(1) For the programs authorized by this Act, the Administration is authorized
+ to make $79,000,000 in direct and immediate participation loans; and of such
+ sum the Administration is authorized to make $21,000,000 in loans as provided
+ in section 7(a)(10), $26,000,000 in loans as provided in section 7(a)(11),
+ $11,000,000 in loans as provided in section 7(a)(20), and $21,000,000 in
+ loans to disabled veterans and Vietnam era veterans (as defined in section
+ 1841, title 38, United States Code) under the general terms and conditions
+ of section 7(a) of this Act.
+ `(2) For the programs authorized by this Act, the Administration is authorized
+ to make $4,671,000,000 in deferred participation loans and other financings;
+ and of such sum, the Administration is authorized to make $4,043,000,000 in
+ general business loans as provided in section 7(a), $55,000,000 in loans as
+ provided in section 7(a)(12)(B), and $573,000,000 in financings as provided in
+ section 7(a)(13) and section 504 of the Small Business Investment Act of 1958.
+ `(3) For the programs authorized by title III of the Small Business
+ Investment Act of 1958, the Administration is authorized to make $21,000,000
+ in purchases of preferred stock and $221,000,000 in guarantees of debentures.
+ `(4) For the programs authorized by part B of title IV of the Small Business
+ Investment Act of 1958, the Administration is authorized to enter into
+ guarantees not to exceed $1,985,000,000.
+ `(h) There are authorized to be appropriated to the Administration for
+ fiscal year 1993 such sums as may be necessary to carry out the provisions of
+ this Act, including administrative expenses and necessary loan capital for
+ disaster loans pursuant to section 7(b), and to carry out the provisions of
+ the Small Business Investment Act of 1958, including salaries and expenses
+ of the Administration.
+ `(i) The following program levels are authorized for fiscal year 1994:
+ `(1) For the programs authorized by this Act, the Administration is authorized
+ to make $83,000,000 in direct and immediate participation loans; and of such
+ sum the Administration is authorized to make $22,000,000 in loans as provided
+ in section 7(a)(10), $27,000,000 in loans as provided in section 7(a)(11),
+ $12,000,000 in loans as provided in section 7(a)(20), and $22,000,000 in
+ loans to disabled veterans and Vietnam era veterans (as defined in section
+ 1841, title 38, United States Code) under the general terms and conditions
+ of section 7(a) of this Act.
+ `(2) For the programs authorized by this Act, the Administration is authorized
+ to make $4,905,000,000 in deferred participation loans and other financings;
+ and of such sum, the Administration is authorized to make $4,245,000,000 in
+ general business loans as provided in section 7(a), $58,000,000 in loans as
+ provided in section 7(a)(12)(B), and $602,000,000 in financings as provided in
+ section 7(a)(13) and section 504 of the Small Business Investment Act of 1958.
+ `(3) For the programs authorized by title III of the Small Business
+ Investment Act of 1958, the Administration is authorized to make $22,000,000
+ in purchases of preferred stock and $232,000,000 in guarantees of debentures.
+ `(4) For the programs authorized by part B of title IV of the Small Business
+ Investment Act of 1958, the Administration is authorized to enter into
+ guarantees not to exceed $2,084,000,000.
+ `(j) There are authorized to be appropriated to the Administration for
+ fiscal year 1994 such sums as may be necessary to carry out the provisions of
+ this Act, including administrative expenses and necessary loan capital for
+ disaster loans pursuant to section 7(b), and to carry out the provisions of
+ the Small Business Investment Act of 1958, including salaries and expenses
+ of the Administration.'.
+SEC. 102. DISASTER SALARIES AND EXPENSES.
+ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by
+ adding at the end of subsection (a) the following new paragraph:
+ `(3) There are authorized to be transferred from the disaster loan revolving
+ fund such sums as may be necessary and appropriate for administrative
+ expenses of the Administration.'.
+TITLE II--AMENDMENTS TO THE SMALL BUSINESS ACT AND RELATED ACTS
+PART A--SMALL BUSINESS ACT
+SEC. 201. SMALL BUSINESS DEVELOPMENT CENTERS.
+ (a) FUNDING FORMULAS-
+ (1) IN GENERAL- Section 21 of the Small Business Act (15 U.S.C. 648) is
+ amended by striking the second proviso in subsection (a)(4) and inserting
+ the following: `Provided further, That no recipient of funds under this
+ section shall receive a grant which would exceed its pro rata share of a
+ $70,000,000 program based upon the population to be served by the Small
+ Business Development Center as compared to the total population of the
+ United States, plus $100,000 for each State, but no State shall receive
+ less than $200,000.';
+ (2) EFFECTIVE DATE- The amendment made by paragraph (1) shall apply to
+ contracts, grants, or cooperative agreements for performance commencing on
+ or after October 1, 1991. Contracts, grants, or cooperative agreements the
+ performance of which commences before October 1, 1991, shall receive funding
+ for the entire term of performance without regard to the amendment made by
+ paragraph (1) and according to the State's pro rata share of a $65,000,000
+ program as computed on the effective date of this section under population
+ estimates used for calendar year 1990 agreements, plus $50,000 for each
+ State, but no State shall receive less than $200,000.
+ (b) SMALL BUSINESS DEVELOPMENT CENTER ACT- Section 204 of the Small Business
+ Development Center Act of 1980 (Public Law 96-302) is hereby repealed.
+SEC. 202. EXPORT REVOLVING LINE OF CREDIT.
+ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended--
+ (1) by striking `for pre-export' in paragraph (14)(A), and
+ (2) by striking `18 months' and inserting `3 years' in paragraph (14)(A).
+SEC. 203. TWO-YEAR RULE FOR ELIGIBILITY IN THE MINORITY SMALL BUSINESS AND
+CAPITAL OWNERSHIP DEVELOPMENT PROGRAM.
+ (a) IN GENERAL- The Small Business Administration may prescribe a minimum
+ period of time during which a prospective Program Participant must be in
+ operation in order to meet the eligibility requirements of section 8(a)(7)(A)
+ of the Small Business Act (15 U.S.C. 637(a)(7)(A)), only if the Administration
+ provides a waiver of such minimum period as set forth in subsection (b).
+ (b) WAIVER OF MINIMUM PERIOD OF OPERATION- (1) The Administration shall
+ provide that any requirement it establishes regarding the period of time
+ a prospective Program Participant must be in operation may be waived and,
+ a prospective Program Participant, who otherwise meets the requirements of
+ section 8(a)(7)(A) of the Small Business Act, shall be considered to have
+ demonstrated reasonable prospects for success, if--
+ (A) the individual or individuals upon whom eligibility is to be based have
+ substantial and demonstrated business management experience;
+ (B) the prospective Program Participant has demonstrated technical expertise
+ to carry out its business plan with a substantial likelihood for success;
+ (C) the prospective Program Participant has adequate capital to carry out
+ its business plan;
+ (D) the prospective Program Participant has a record of successful performance
+ on contracts from governmental and nongovernmental sources in the primary
+ industry category in which the prospective Program Participant is seeking
+ Program certification; and
+ (E) the prospective Program Participant has, or can demonstrate its ability
+ to timely obtain, the personnel, facilities, equipment, and any other
+ requirements needed to perform such contracts.
+ (2) The authority to make the determination that a prospective Program
+ Participant has demonstrated its potential for success by meeting the
+ criteria specified in paragraph (1) of this subsection shall be made by
+ the Administrator of the Small Business Administration, or a designee of
+ such officer.
+SEC. 204. SIZE DETERMINATIONS RELATING TO TRIBALLY OWNED BUSINESS CONCERNS.
+ (a) AFFILIATION RULES- Section 7(j)(10)(J)(ii) of the Small Business Act
+ (15 U.S.C. 636(j)(10)(J)(ii)) is amended to read as follows:
+ `(ii)(I) Except as authorized by subclauses (II) or (III), no award shall
+ be made pursuant to section 8(a) to a concern other than a small business
+ concern.
+ `(II) In determining the size of a small business concern owned by a
+ socially and economically disadvantaged Indian tribe (or a wholly owned
+ business entity of such tribe), each firm's size shall be independently
+ determined without regard to its affiliation with the tribe, any entity of
+ the tribal government, or any other business enterprise owned by the tribe,
+ unless the Administrator determines that one or more such tribally owned
+ business concerns have obtained, or are likely to obtain, a substantial
+ unfair competitive advantage within an industry category.
+ `(III) Any joint venture established under the authority of section 602(b)
+ of Public Law 100-656, the `Business Opportunity Development Reform Act of
+ 1988', shall be eligible for award of a contract pursuant to section 8(a).'.
+ (b) TRIBAL HOLDING COMPANIES- Section 8(a)(4) of the Small Business Act
+ (15 U.S.C. 637(a)(4)) is amended by inserting--
+ (1) in clause (A)(i)(II), after the word `tribe' the parenthetical phrase
+ `(or a wholly owned business entity of such tribe)'; and
+ (2) in clause (A)(ii)(II), after the word `tribe' the parenthetical phrase
+ `(or a wholly owned business entity of such tribe)'.
+SEC. 205. JOINT VENTURES WITH TRIBALLY OWNED PARTICIPANTS IN THE 8(a) PROGRAM.
+ Section 602 of the Business Opportunity Development Reform Act of 1988
+ (15 U.S.C. 637 note) is amended--
+ (1) in subsection (c), by striking `two' and inserting `5', and
+ (2) in subsection (e), by striking `September 30, 1991' and inserting
+ `September 30, 1994'.
+SEC. 206. SURETY BOND WAIVER AUTHORITY.
+ Section 7(j)(13)(D)(iii) of the Small Business Act (15
+ U.S.C. 636(j)(13)(D)(iii)) is amended by striking `October 1, 1992' and
+ inserting `October 1, 1994'.
+SEC. 207. ESTABLISHING AWARD ELIGIBILITY FOR CONTRACT OPPORTUNITIES COMPETED
+UNDER SECTION 8(a).
+ Section 8(a)(1) of the Small Business Act (15 U.S.C. 637(a)(1)) is amended--
+ (1) by striking subparagraph (B);
+ (2) by striking the flush left sentence following subparagraph (C);
+ (3) by redesignating subparagraph (C) as subparagraph (B); and
+ (4) by adding a new subparagraph (C) as follows:
+ `(C) to make an award to a small business concern owned and controlled by
+ socially and economically disadvantaged individuals which has completed
+ its period of Program Participation as prescribed by section 7(j)(15), if--
+ `(i) the contract will be awarded as a result of an offer (including price)
+ submitted in response to a published solicitation relating to a competition
+ conducted pursuant to subparagraph (D); and
+ `(ii) the prospective contract awardee was a Program Participant eligible for
+ award of the contract on the date specified for receipt of offers contained
+ in the contract solicitation.'.
+SEC. 208. BUNDLING OF CONTRACTS.
+ Section 15(a) of the Small Business Act (15 U.S.C. 644(a)) is amended
+ by adding before `Whenever' the following new sentences: `If a proposed
+ procurement includes in its statement of work goods or services currently
+ being performed by a small business, and if the proposed procurement is
+ in a quantity or estimated dollar value the magnitude of which renders
+ small business prime contract participation unlikely, or if a proposed
+ procurement for construction seeks to package or consolidate discrete
+ construction projects, the Procurement Activity shall provide a copy of the
+ proposed procurement to the Procurement Activity's Small Business Procurement
+ Center Representative at least 30 days prior to the solicitation's issuance
+ along with a statement explaining (1) why the proposed acquisition cannot
+ be divided into reasonably small lots (not less than economic production
+ runs) to permit offers on quantities less than the total requirement,
+ (2) why delivery schedules cannot be established on a realistic basis that
+ will encourage small business participation to the extent consistent with
+ the actual requirements of the Government, (3) why the proposed acquisition
+ cannot be offered so as to make small business participation likely, or (4)
+ why construction cannot be procured as separate discrete projects. The
+ thirty-day notification process shall occur concurrently with other
+ processing steps required prior to issuance of the solicitation. Within 15
+ days after receipt of the proposed procurement and accompanying statement,
+ if the Procurement Center Representative believes that the procurement as
+ proposed will render small business prime contract participation unlikely,
+ the Representative shall recommend to the Procurement Activity alternative
+ procurement methods which would increase small business prime contracting
+ opportunities.'.
+SEC. 209. DESIGNATED PROCUREMENT CENTER REPRESENTATIVES.
+ Not later than 180 days after the date of the enactment of this Act, the
+ Administrator of the Small Business Administration shall station a traditional
+ procurement center representative at the Department of Agriculture, the
+ Navy Sea Systems Command, and the Environmental Protection Agency. Such
+ representatives shall be in addition to the representatives stationed or
+ designated to be stationed on the date of enactment of this Act.
+SEC. 210. NONMANUFACTURER RULE.
+ Section 8(a)(17)(B)(iv) of the Small Business Act (15
+ U.S.C. 637(a)(17)(B)(iv)) is amended to read as follows:
+ `(iv) represent that it will supply the product of a domestic small business
+ manufacturer or processor, unless a waiver of such requirement is granted--
+ `(I) by the Administrator, after reviewing a determination by the contracting
+ officer that no small business manufacturer or processor can reasonably be
+ expected to offer a product meeting the specifications (including period
+ for performance) required of an offeror by the solicitation; or
+ `(II) by the Administrator for a product (or class of products), after
+ determining that no small business manufacturer or processor is available
+ to participate in the Federal procurement market.'.
+SEC. 211. COMMISSION ON MINORITY BUSINESS DEVELOPMENT.
+ Section 505(c)(1)(A)(ii) of the Business Opportunity Development Reform
+ Act of 1988 (15 U.S.C. 636 note) is amended to read as follows:
+ `(ii) The Under Secretary of Defense for Acquisition, or a designee of such
+ Under Secretary.'.
+SEC. 212. SUNSET ON AUTHORITY TO PROVIDE TECHNICAL AND MANAGERIAL ASSISTANCE
+THROUGH PRIVATE SECTOR SOURCES.
+ Section 7(b) of the Small Business Computer Security and Education Act of 1984
+ (15 U.S.C. 633 note) is amended by striking `October 1, 1990' and inserting
+ `March 31, 1991'.
+PART B--SMALL BUSINESS INVESTMENT ACT
+SEC. 214. DEVELOPMENT COMPANY FINANCINGS.
+ (a) CONGRESSIONAL FINDINGS- Section 501(a) of the Small Business Investment
+ Act of 1958 (15 U.S.C. 695(a)) is amended to read as follows:
+ `(a) The Congress hereby finds and declares that the purpose of this title is
+ to foster economic development and to create or preserve job opportunities in
+ both urban and rural areas by providing long-term financing for small business
+ concerns through the development company program authorized by this title.'.
+ (b) POLICY CONSIDERATIONS- Section 501 of the Small Business Investment
+ Act of 1958 (15 U.S.C. 695) is amended by adding at the end thereof the
+ following new subsection:
+ `(d) In order to qualify for assistance under this title, the development
+ company must demonstrate that the project to be funded is directed toward
+ at least one of the following economic development objectives--
+ `(1) the creation of job opportunities within two years of the completion
+ of the project or the preservation or retention of jobs attributable to
+ the project;
+ `(2) improving the economy of the locality, such as stimulating other
+ business development in the community, bringing new income into the area,
+ or assisting the community in diversifying and stabilizing its economy; or
+ `(3) the achievement of one or more of the following public policy goals:
+ `(A) business district revitalization,
+ `(B) expansion of exports,
+ `(C) expansion of minority business development,
+ `(D) rural development,
+ `(E) enhanced economic competition, including the advancement of technology,
+ plan retooling, conversion to robotics, or competition with imports,
+ `(F) changes necessitated by Federal budget cutbacks, including defense
+ related industries, or
+ `(G) business restructuring arising from Federally  mandated  standards
+ or  policies  affecting the environment or the safety and health of employees.
+If eligibility is based upon the criteria set forth in paragraph (2) or
+(3), the project need not meet the job creation or job preservation criteria
+developed by the Administration if the overall portfolio of the development
+company meets or exceeds such job creation or retention criteria.'.
+ (c) SPECIAL LOAN LIMITATIONS- Section 502 of the Small Business Investment
+ Act of 1958 is amended by striking the period at the end of paragraph
+ (2) and by inserting the following: `, except loans meeting the criteria
+ specified in section 501(d)(3) shall be limited to $1,000,000 for each such
+ identifiable small business concern.'.
+SEC. 215. SMALL BUSINESS INVESTMENT COMPANIES.
+ (a) LIMITS IN CASES OF COMMON CONTROL-
+ (1) IN GENERAL- The last sentence of section 303(b)(1) of the Small Business
+ Investment Act of 1958 is amended to read as follows: `In no event shall
+ the debentures guaranteed and outstanding under this title of any such
+ company or companies which are commonly controlled as determined by the
+ Administration exceed $35,000,000.'.
+ (2) EFFECTIVE DATE- The amendments made by paragraph (1) shall become
+ effective on July 1, 1991.
+ (b) AMOUNT OF ASSISTANCE- Section 303 of the Small Business Investment Act
+ of 1958 (15 U.S.C. 683) is amended--
+ (1) by inserting `under the provisions of this title,' in paragraph (6)
+ of subsection (c) after `debentures or securities'; and
+ (2) by striking the third sentence in subsection (d).
+SEC. 216. PILOT PREFERRED SURETY BOND GUARANTEE PROGRAM.
+ (a) SUNSET- Section 207 of the Small Business Administration Reauthorization
+ and Amendment Act of 1988, Public Law 100-590, is amended to read as follows:
+ `The provisions contained in section 411(a)(3) of the Small Business
+ Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective
+ after September 30, 1994.'.
+ (b) EVALUATION AND REPORT- Section 206 of the Small Business Administration
+ Reauthorization and Amendment Act of 1988 is amended--
+ (1) in the first sentence, by striking `Not later than' and inserting `(a)
+ not later than'; and
+ (2) by striking the last sentence and inserting:
+ `(b) The report required by subsection (a) shall be transmitted not later
+ than March 1, 1994 and cover the period October 1, 1990 through September
+ 30, 1993.'.
+PART C--SMALL BUSINESS ADMINISTRATION MANAGEMENT
+SEC. 221. SMALL BUSINESS ADMINISTRATION DEPUTY ADMINISTRATOR.
+ (a) IN GENERAL- Section 4 of the Small Business Act (15 U.S.C. 633) is amended
+ by striking `The Administrator is authorized to appoint a Deputy Administrator
+ and' in the fourth sentence of subsection (b)(1) and inserting the following:
+ `The President also may appoint a Deputy Administrator, by and with the
+ advice and consent of the Senate. The Administrator is authorized to appoint'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply to
+ any vacancy in the position of Deputy Administrator of the Small Business
+ Administration after the date of the enactment of this Act.
+PART D--DEMONSTRATION PROGRAMS AND STUDIES
+SEC. 231. SMALL BUSINESS TECHNOLOGY TRANSFER DEMONSTRATION PROGRAM.
+ (a) ESTABLISHMENT- There is established within the Small Business
+ Administration a Small Business Technology Transfer Demonstration Program
+ (hereafter referred to as the `Program').
+ (b) PURPOSE OF PROGRAM- The purpose of the Program is to demonstrate the
+ feasibility of providing small businesses with education, training, and
+ technical assistance with respect to technology transfer and application
+ through an eligible entity.
+ (c) PROGRAM ACTIVITIES- The eligible entity shall undertake, through
+ a regional network of participating community and technical colleges,
+ a program of activities to provide small business concerns training and
+ assistance with respect to--
+ (1) technological innovations,
+ (2) statistical process control,
+ (3) computer-assisted design,
+ (4) computer-assisted manufacturing and computer-integrated manufacturing,
+ (5) implementation and deployment of telecommunications and other interactive
+ systems, and
+ (6) other new equipment and advanced manufacturing processes.
+ (d) COOPERATIVE AGREEMENT- The Administration is authorized to award a
+ cooperative agreement to an eligible entity to undertake a demonstration
+ program pursuant to this subsection.
+ (e) REGULATIONS-
+ (1) IN GENERAL- The Administrator shall issue regulations for the
+ implementation of the Program within 180 days of the date of the enactment
+ of this Act.
+ (2) ALLOCATION OF FUNDING- In addition to any other matters which the
+ Administration deems appropriate, such Program regulations shall provide for
+ the allocation of funds among the educational institutions that comprise
+ the eligible entity on the basis of scope of the assistance and training
+ activities to be offered small business concerns under the Program and the
+ capability of the educational institution to provide such Program activities.
+ (f) USE OF SMALL BUSINESS DEVELOPMENT CENTERS AND OTHER RESOURCES- In
+ implementing the Program, the Administrator shall assure that the eligible
+ entity uses to the maximum extent feasible Small Business Development
+ Centers, receiving support pursuant to section 21 of the Small Business Act
+ (15 U.S.C. 648), and other available sources in conducting the Program.
+ (g) DURATION OF THE PROGRAM- The Program shall terminate on September
+ 30, 1993.
+ (h) REPORT- The Administrator shall monitor the implementation of the
+ Program established by this section and submit a report evaluating such
+ implementation to the Committees on Small Business of the Senate and
+ the House of Representatives by not later than June 30, 1993, including
+ appropriate recommendations regarding continuation of the Program and its
+ extension to other regions in the country.
+ (i) AUTHORIZATION- There is authorized to be appropriated to the Small
+ Business Administration $5,000,000 for each of the fiscal years 1991, 1992,
+ and 1993 to carry out the Program established by this section.
+ (j) DEFINITIONS- For purposes of this section:
+ (1) The term `eligible entity' means the Community College Association
+ for Technology Transfer or, if such organization is not available, another
+ not-for-profit association of community and technical colleges determined to
+ be eligible for an award of a cooperative agreement, under the regulations
+ issued pursuant to subsection (e).
+ (2) The term `Community College Association for Technology Transfer' (`CCATT')
+ means a coalition currently composed of 16 community and technical colleges
+ located in the Midwest which has proposed a cooperative regional program
+ for technology transfer and application for the benefit of small businesses
+ to revitalize the regional economy.
+SEC. 232. PILOT TECHNOLOGY ACCESS PROGRAM.
+ (a) ESTABLISHMENT- The Small Business Administration, in consultation
+ with the National Institute of Standards and Technology and the National
+ Technical Information Service, shall establish a Pilot Technology Access
+ Program (hereafter in this section referred to as the `Program'), for making
+ grants under this section to a maximum of 5 States.
+ (b) CRITERIA FOR SELECTION OF STATES- The Administrator of the Small Business
+ Administration shall establish competitive, merit-based criteria for the
+ selection of States to receive grants on the basis of--
+ (1) the ability of the State to carry out the purposes described in subsection
+ (d) in a manner relevant to the needs of industries in that State;
+ (2) the ability of the State to integrate the implementation of the Program
+ with existing Federal and State technical and business assistance resources,
+ including Small Business Development Centers; and
+ (3) the ability of the State to continue the program established pursuant
+ to this section after the termination of the Program.
+ (c) MATCHING REQUIREMENT- To be eligible to receive a grant under this
+ section, a State shall be required to provide at least an equal amount of
+ funds as that received under such grant.
+ (d) PURPOSE OF GRANTS- Grants made to States under this section shall
+ be for the purpose of increasing access by small businesses to on-line
+ data base services that provide technical and business information, and
+ access to technical experts, in a wide range of technologies, through such
+ activities as--
+ (1) defraying the cost of access by small businesses to the data base
+ services;
+ (2) training small businesses in the use of the data base services; and
+ (3) establishing a public point of access to the data base services.
+Activities described in paragraphs (1) through (3) may be carried out through
+contract with a private entity.
+ (e) EVALUATION- After the completion of 3 years after the date on which the
+ first grant is issued under this section, and within 6 months after the
+ termination of the Program, the General Accounting Office shall evaluate
+ the effectiveness of the Program in stimulating technological progress,
+ and shall report the findings to the Committee on Small Business and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ and to the Committee on Small Business and the Committee on Commerce,
+ Science, and Transportation of the Senate.
+ (f) TERMINATION- The Program shall terminate on September 30, 1995.
+ (g) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to the Small Business Administration for carrying out this section--
+ (1) $2,000,000 for fiscal year 1991; and
+ (2) $5,000,000 for each of the fiscal years 1992, 1993, 1994, and 1995.
+SEC. 233. FEASIBILITY STUDY OF BUSINESS COOPERATION NETWORK.
+ (a) IN GENERAL- The Administrator of the Small Business Administration shall
+ conduct a study of the feasibility of establishing a business cooperation
+ system similar to the Business Cooperation Network developed by the European
+ Economic Community.
+ (b) PURPOSE- The purpose of the study shall be to identify--
+ (1) the total cost to implement such a system in this country;
+ (2) all existing business data systems at the Federal, state local government
+ levels which would be of assistance in developing a program similar to
+ either the Euro-Info-Centre and/or the European Business Cooperation Network;
+ (3) all existing business data systems in the private sector which would be
+ of assistance in developing a program similar to either the Euro-Info-Centre
+ and/or the European Business Cooperation Network;
+ (4) the amount of time it would take to fully implement this program in
+ all fifty States; and
+ (5) the benefits to the international competitiveness of the United States.
+ (c) PARTICIPATION- In conducting the study, the Administrator shall encourage
+ participation of all appropriate Federal departments and agencies, appropriate
+ State departments and agencies, appropriate small business representative
+ groups, and any other public and/or private entities which would play a
+ role in the development of such a system.
+ (d) REPORT- Not later than one year after the date of the enactment of this
+ Act, the Administrator shall transmit to Congress a report containing the
+ results of the study together with recommendations for such legislative
+ and administrative actions as the Administrator considers appropriate.
+SEC. 234. STUDY ON IMPACT OF ELECTRONIC DATA INTERCHANGE TECHNOLOGY.
+ (a) IN GENERAL- The Administrator of the Small Business Administration shall
+ conduct a study of the impact of electronic data interchange technology on
+ small business concerns.
+ (b) PURPOSE- The purpose of the study shall be to identify--
+ (1) the benefits of electronic data interchange technology with respect to
+ small business concerns;
+ (2) the adverse effects of electronic data interchange technology with
+ respect to small business concerns;
+ (3) technical and financial assistance which the Small Business Administration
+ can offer to small business concerns which seek to use electronic data
+ interchange technology;
+ (4) measures which may be taken to implement a uniform technical standard
+ for electronic data interchange technology;
+ (5) measures which may be taken to prevent electronic data interchange
+ technology in the Federal procurement process from having an adverse effect
+ on small business concerns; and
+ (6) other measures which may be taken to prevent electronic data interchange
+ technology from becoming a competitive barrier to small business concerns.
+ (c) PARTICIPATION- In conducting the study, the Administrator shall encourage
+ participation by Federal departments and agencies, small business concerns,
+ and other private and public entities.
+ (d) REPORT- Not later than one hundred and eighty days after the date of
+ the enactment of this Act, the Administrator shall transmit to Congress a
+ report containing the results of the study together with recommendations for
+ such legislative and administrative actions as the Administrator considers
+ appropriate.
+PART E--REPEALERS AND TECHNICAL AMENDMENTS
+SEC. 241. DEPARTMENT OF DEFENSE PROCUREMENT REPORTING.
+ Section 10(d) of the Small Business Act (15 U.S.C. 639(d)) is amended--
+ (1) by striking `the Department of Defense shall make a monthly report to
+ the President, the President of the Senate, the Senate Select Committee on
+ Small Business, and the Speaker of the House of Representatives not less
+ than 45 days after the close of the month' and inserting `the Department
+ of Defense shall make an annual report to the Committees on Small Business
+ of the Senate and the House of Representatives';
+ (2) by striking `small-business concerns' and inserting `small business
+ concerns'; and
+ (3) by striking `such monthly reports' and inserting `such reports'.
+SEC. 242. EXPIRED PROVISION.
+ Section 7(j) of the Small Business Act (15 U.S.C. 636(j)) is amended--
+ (1) by striking subparagraphs (A) and (B) of paragraph (3); and
+ (2) by striking paragraph (8).
+SEC. 243. REPORTING OF SUBCONTRACTING ACTIVITY.
+ Section 714 of the Small Business Competitiveness Demonstration Program
+ Act of 1988 (15 U.S.C. 644 note) is amended by striking subsection (b)
+ and by redesignating subsection (c) as subsection (b).
+SEC. 244. NOTICES OF PROPOSED PROCUREMENT OPPORTUNITIES.
+ Section 8(g)(1) of the Small Business Act (15 U.S.C. 637(g)(1)) is amended
+ by striking `(a)(1)' and inserting `(e)(1)'.
+SEC. 245. TIME LIMIT ON SECONDARY MARKET SALES.
+ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by
+ striking the last sentence of subparagraph (A) of paragraph (16).
+TITLE III--ASSISTANCE FOR RURAL SMALL BUSINESS CONCERNS
+SEC. 301. SHORT TITLE.
+ This title may be cited as the `Rural Small Business Enhancement Act of 1990'.
+SEC. 302. ESTABLISHMENT OF OFFICE OF RURAL AFFAIRS.
+ The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting
+ after section 25 the following new section:
+`SEC. 26. OFFICE OF RURAL AFFAIRS.
+ `(a) There is hereby established in the Small Business Administration
+ an Office of Rural Affairs (hereafter in this section referred to as the
+ `Office').
+ `(b) The Office shall be headed by a director who shall be appointed by
+ the Administrator not later than 90 days after the date of the enactment
+ of this section.
+ `(c) The Office shall--
+ `(1) strive to achieve an equitable distribution of the financial assistance
+ available from the Administration for small business concerns located in
+ rural areas;
+ `(2) to the extent practicable, compile annual statistics on rural areas,
+ including statistics concerning the population, poverty, job creation and
+ retention, unemployment, business failures, and business startups;
+ `(3) provide information to industries, organizations, and State and local
+ governments concerning the assistance available to rural small business
+ concerns through the Administration and through other Federal departments
+ and agencies;
+ `(4) provide information to industries, organizations, educational
+ institutions, and State and local governments concerning programs administered
+ by private organizations, educational institutions, and Federal, State,
+ and local governments which improve the economic opportunities of rural
+ citizens; and
+ `(5) work with the United States Tourism and Travel Administration to assist
+ small businesses in rural areas with tourism promotion and development.'.
+SEC. 303. SBDC RURAL ACTIVITIES.
+ Section 21 of the Small Business Act is further amended--
+ (1) by striking `and' at the end of subparagraph (L) of subsection (c)(3)
+ (2) by redesignating subparagraph (M) of subsection (c)(3) as subparagraph
+ (P); and
+ (3) by inserting after subparagraph (L) the following new subparagraphs:
+ `(M) in cooperation with the Department of Commerce, the Administration and
+ other relevant Federal agencies, actively assisting rural small businesses
+ in exporting by identifying and developing potential export markets for rural
+ small businesses, facilitating export transactions for rural small businesses,
+ developing linkages between United States' rural small businesses and
+ prescreened foreign buyers, assisting rural small businesses to participate
+ in international trade shows, assisting rural small businesses in obtaining
+ export financing and developing marketing and production strategies;
+ `(N) assisting rural small businesses--
+ `(i) in developing marketing and production strategies that will enable
+ them to better compete in the domestic market--
+ `(ii) by providing technical assistance needed by rural small businesses;
+ `(iii) by making available managerial assistance to rural small business
+ concerns; and
+ `(iv) by providing information and assistance in obtaining financing for
+ business startups and expansion;
+ `(O) in conjunction with the United States Travel and Tourism Administration,
+ assist rural small business in developing the tourism potential of rural
+ communities by--
+ `(i) identifying the cultural, historic, recreational, and scenic resources
+ of such communities;
+ `(ii) providing assistance to small businesses in developing tourism
+ marketing and promotion plans relating to tourism in rural areas; and
+ `(iii) assisting small business concerns to obtain capital for starting or
+ expanding businesses primarily serving tourists; and'.
+SEC. 304. CATALOG OF PROGRAMS TO ASSIST RURAL SMALL BUSINESS CONCERNS.
+ (a) COMPILATION- Not later than 180 days after the date of the enactment of
+ this title, the Small Business Administration shall compile a catalog of
+ programs administered by Federal and State departments and agencies which
+ offer assistance to small business concerns in rural areas. Such catalog
+ shall include a description of each such program and the name, address, and
+ telephone number of the respective Federal and State officials responsible
+ for administering the program.
+ (b) DISTRIBUTION- Copies of the catalog compiled pursuant to subsection
+ (a) shall be transmitted to the Congress and copies shall be made available
+ to small business concerns in rural areas, appropriate trade associations,
+ Federal and State agencies for the assistance of small business concerns,
+ State and local chambers of commerce, other appropriate nonprofit
+ organizations, and the general public.
+ (c) BIANNUAL UPDATE- The Small Business Administration shall issue updates
+ of the catalog compiled pursuant to subsection (a) by February 1, 1993,
+ and February 1, 1995.
+SEC. 305. AREA STATISTICS IN PRESIDENTIAL REPORT.
+ Section 303 of the Small Business Economic Policy Act of 1980 (Public Law
+ 96-302) is amended by striking paragraph (2) of subsection (a) and inserting
+ the following:
+ `(2) present current and historical data on production, employment,
+ investment, population, job creation and retention, annual business failures,
+ annual business startups, and other economic variables for small business in
+ the economy as a whole and for small business in each sector of the economy,
+ with, to the extent practicable, specific statistics divided as to urban,
+ suburban, and rural areas;'.
+SEC. 306. RURAL SMALL BUSINESS CONFERENCES.
+ (a) IN GENERAL- The Chief Counsel for Advocacy of the Small Business
+ Administration shall, as soon as practicable after the catalog (described
+ in section 305 and hereinafter referred to as the `catalog') is issued,
+ but not later than 90 days after the date such catalog is issued, convene
+ regional rural conferences in 5 cities or towns in the United States.
+ (b) PREPARATIONS- Prior to the conferences, the Office of Advocacy shall--
+ (1) select the sites for the conferences in order to encourage the
+ maximum participation of all interested parties including private citizens
+ and representatives of business, government, educational and nonprofit
+ institutions; and
+ (2) distribute the catalog of programs and such other background materials
+ prepared by the Office of Advocacy as the Chief Counsel deems appropriate.
+ (c) PURPOSES OF THE CONFERENCES- The conference shall--
+ (1) review the effectiveness of current Federal programs to promote rural
+ small business and its needs, with particular reference to the catalog of
+ such programs;
+ (2) review how current Federal programs could be made more accessible to
+ small businesses located in rural areas;
+ (3) make recommendations on how current programs can be approved to better
+ address small business needs in rural areas;
+ (4) review the availability and cost of capital, transportation, and
+ telecommunications in rural areas;
+ (5) review the availability of technical assistance and training programs for
+ small business needs in rural areas, including marketing, computer training,
+ accounting, financing, and international trade; and
+ (6) determine any additional needs of small businesses in rural areas.
+ (d) REPORT- The Chief Counsel for Advocacy shall prepare a summary of the
+ findings and recommendations of each regional conference. Not later than
+ 60 days after the last of the 5 regional conferences have been held, the
+ Chief Counsel for Advocacy shall transmit such summaries to the Congress
+ and the President, along with conclusions and recommendations, including
+ specific legislative proposals and recommendations for administrative or
+ other actions. The transmittal of the required information shall be deemed
+ a report of the Chief Counsel for Advocacy under the terms and conditions
+ of section 206 of Public Law 94-305. To the extent practicable, the report
+ shall estimate the cost of implementing each recommendation of a regional
+ conference as well as those of the Chief Counsel.
+SEC. 307. PILOT RURAL DEVELOPMENT LOAN PROGRAM.
+ Section 7(a)(19) of the Small Business Act (15 U.S.C. 636(a)(19)) is amended
+ by adding the following new paragraph:
+ `(C) In order to encourage lending institutions and other entities making
+ loans authorized under this subsection to provide loans to small business
+ loan applicants located in rural areas, such lenders shall be permitted to
+ retain one-half of the fee collected pursuant to paragraph (18) on loans of
+ less than $75,000. A participating lender may not retain any fee pursuant to
+ this subparagraph if the amount committed and outstanding to the applicant
+ would exceed $75,000 unless the amount in excess of $75,000 is an amount
+ not approved under the provisions of this subparagraph. This subparagraph
+ shall cease to be effective on October 1, 1995.'.
+SEC. 308. RURAL SMALL BUSINESS INCUBATORS.
+ It is the sense of the Congress that small business incubators can play a
+ constructive role in rural development. Accordingly, the National Association
+ of Development Companies, and any interested, certified development companies
+ licensed by the Small Business Administration under title V of the Small
+ Business Investment Act of 1958, and other interested parties are requested
+ and encouraged to develop proposals under which Development Companies located
+ in rural areas could establish, operate or otherwise cooperate with small
+ business incubators for startup small business. Such proposals, including
+ recommendations regarding needed Federal assistance, both monetary and
+ legislative, should be submitted to the Small Business Administration and to
+ the Committees on Small Business of the Senate and House of Representatives
+ not later than 6 months after the date of enactment of this section.
+SEC. 309. EFFECTS OF DEREGULATION ON RURAL AMERICA.
+ (a) STUDY- The Office of Technology Assessment shall conduct a study of the
+ effects of deregulation on the economic vitality of rural areas. Such study
+ shall include, but not be limited to, a thorough analysis of the impact of
+ deregulation on--
+ (1) the number of loans made by financial institutions to small businesses
+ located in rural areas, a change in the level of security interests required
+ for such loans, and the cost of such loans to rural small businesses for
+ creation and expansion;
+ (2) airline service in cities and towns with populations of 100,000 or less,
+ including airline fare, the number of flights available, number of seats
+ available, scheduling of flights, continuity of service, number of markets
+ being served by large and small airlines, availability of nonstop service,
+ availability of direct service, number of economic cancellations, number
+ of flight delays, the types of airplanes used, and time delays;
+ (3) the availability and costs of bus, rail and trucking transportation
+ for businesses located in rural areas;
+ (4) the availability and costs of state-of-the-art telecommunications services
+ to small businesses located in rural areas, including voice telephone
+ service, private (not multiparty) telephone service, reliable facsimile
+ document and data transmission, competitive long distance carriers, cellular
+ (mobile) telephone service, multifrequency tone signaling services such as
+ touchtone services, custom-calling services (including three-way calling,
+ call forwarding, and call waiting), voicemail services, and 911 emergency
+ services with automatic number identification;
+ (5) the availability and costs to rural schools, hospitals, and other
+ public facilities, of sending and receiving audio and visual signals in
+ cases where such ability will enhance the quality of services provided to
+ rural residents and businesses; and
+ (6) the availability and costs of services enumerated in paragraphs (1)
+ through (5) in urban areas compared to rural areas.
+ (b) REPORT- Not later than 12 months after the date of enactment of this
+ title, the Office of Technology Assessment shall transmit to Congress a report
+ on the results of the study conducted under subsection (a) together with
+ its recommendations on how to address the problems facing small businesses
+ in rural areas.
+SEC. 310. TOURISM DEMONSTRATION PROGRAM.
+ The Small Business Act is amended by inserting after section 26 the following
+ new section:
+`SEC. 27. TOURISM DEMONSTRATION PROGRAM.
+ `(a) IN GENERAL- The Administration is authorized to make grants to conduct
+ demonstration programs in 5 States in order to promote tourism activities
+ delivered by small businesses. The purpose of the program shall be to
+ demonstrate ways in which the economy in rural areas may be improved by
+ encouraging tourism and its resulting increase in income and employment in
+ rural areas. The Administration shall require as a condition of any grant
+ under this section that the applicant also contribute to the demonstration
+ program a sum equal to at least 25 percent of the amount of the funding
+ requested from the Federal Government.
+ `(b) AUTHORIZATION- There are authorized to be appropriated to carry out
+ the provision of this section, $1,000,000 for fiscal year 1992 and such
+ sums may remain available until expended.
+ `(c) REPORT- Not later than February 1, 1993, the Administration shall
+ submit to the President and the Congress a report on activities undertaken
+ pursuant to this section.'.
+SEC. 311. RURAL TOURISM TRAINING PROGRAM.
+ The Chief Counsel for Advocacy of the Small Business Administration shall
+ conduct training sessions on the types of Federal assistance available for the
+ development of rural small businesses engaged in tourism and tourism-related
+ activities. Such training sessions shall be conducted in conjunction with
+ the Office of Rural Affairs (established pursuant to section 26 of the Small
+ Business Act) and appropriate personnel designated by each district office
+ of the Administration.
+TITLE IV--MISCELLANEOUS AMENDMENTS
+SEC. 401. CONTRACT GOALS FOR MINORITIES IN PRINTING RELATED SERVICES.
+ Section 843 of the National Defense Authorization Act, Fiscal Year 1989
+ (Public Law 100-456; 44 U.S.C. 502 note) is amended--
+ (1) in subsection (a), by striking `and, during fiscal years 1989 and 1990,'
+ and inserting `and'; and
+ (2) by adding at the end thereof the following new subsection:
+ `(e) DURATION OF TEST- The test program established by subsection (a)
+ shall not apply to solicitations issued on or after October 1, 1993.'.
+SEC. 402. SUSPENSION OF LIQUIDATED DAMAGES UNDER COMPREHENSIVE SMALL BUSINESS
+SUBCONTRACTING PLANS.
+ To facilitate participation in the test program for the negotiation of
+ comprehensive small business subcontracting plans pursuant to section 834
+ of the National Defense Authorization Act for Fiscal Years 1990 and 1991
+ (Public Law 101-189; 103 Stat. 1510), subsection (d) of such section
+ is hereby suspended for the period of the test program as specified in
+ subsection (e) of such section.
+SEC. 403. DEFINITION OF ARCHITECTURAL AND ENGINEERING SERVICES.
+ Pursuant to section 742 of Public Law 100-656, modifications to Part 36 of
+ the Federal Acquisition Regulation (48 C.F.R. Part 36) shall specify that
+ the definition of architectural and engineering services includes surveying
+ and mapping services to which the selection procedures of Subpart 36.6 of
+ the Federal Acquisition Regulation apply.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

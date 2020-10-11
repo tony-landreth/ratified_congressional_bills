@@ -1,0 +1,172 @@
+ 
+--H.R.3909--
+H.R.3909
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To amend the Internal Revenue Code of 1986 to extend certain expiring
+provisions,
+and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; AMENDMENT OF 1986 CODE.
+ (a) SHORT TITLE- This Act may be cited as the `Tax Extension Act of 1991'.
+ (b) AMENDMENT OF 1986 CODE- Except as otherwise expressly provided, whenever
+ in this Act an amendment or repeal is expressed in terms of an amendment
+ to, or repeal of, a section or other provision, the reference shall be
+ considered to be made to a section or other provision of the Internal
+ Revenue Code of 1986.
+TITLE I--6-MONTH EXTENSION OF CERTAIN EXPIRING TAX PROVISIONS
+SEC. 101. ALLOCATION OF RESEARCH AND EXPERIMENTAL EXPENDITURES.
+ (a) EXTENSION- Paragraph (5) of section 864(f) (relating to allocation of
+ research and experimental expenditures) is amended to read as follows:
+ `(5) YEARS TO WHICH RULE APPLIES-
+ `(A) IN GENERAL- This subsection shall apply to the taxpayer's first 3
+ taxable years beginning after August 1, 1989, and on or before August 1, 1992.
+ `(B) REDUCTION- Notwithstanding subparagraph (A), in the case of the
+ taxpayer's first taxable year beginning after August 1, 1991, this subsection
+ shall only apply to qualified research and experimental expenditures incurred
+ during the first 6 months of such taxable year.'
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply to
+ taxable years beginning after August 1, 1989.
+SEC. 102. RESEARCH CREDIT.
+ (a) EXTENSION- Subsection (h) of section 41 (relating to credit for increasing
+ research activities) is amended--
+ (1) by striking `December 31, 1991' each place it appears and inserting
+ `June 30, 1992', and
+ (2) by striking `January 1, 1992' each place it appears and inserting
+ `July 1, 1992'.
+ (b) CONFORMING AMENDMENT- Subparagraph (D) of section 28(b)(1) is amended
+ by striking `December 31, 1991' and inserting `June 30, 1992'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall apply to
+ taxable years ending after December 31, 1991.
+SEC. 103. EMPLOYER-PROVIDED EDUCATIONAL ASSISTANCE.
+ (a) EXTENSION-
+ (1) IN GENERAL- Subsection (d) of section 127 (relating to educational
+ assistance programs) is amended by striking `December 31, 1991' and inserting
+ `June 30, 1992'.
+ (2) SPECIAL RULE- In the case of any taxable year beginning in 1992,
+ only amounts paid before July 1, 1992, by the employer for educational
+ assistance for the employee shall be taken into account in determining the
+ amount excluded under section 127 of the Internal Revenue Code of 1986 with
+ respect to such employee for such taxable year.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to
+ taxable years beginning after December 31, 1991.
+SEC. 104. EMPLOYER-PROVIDED GROUP LEGAL SERVICES PLANS.
+ (a) EXTENSION-
+ (1) IN GENERAL- Subsection (e) of section 120 (relating to amounts received
+ under qualified group legal services plans) is amended by striking `December
+ 31, 1991' and inserting `June 30, 1992'.
+ (2) SPECIAL RULE- In the case of any taxable year beginning in 1992,
+ only amounts paid before July 1, 1992, by the employer for coverage for
+ the employee, his spouse, or his dependents, under a qualified group legal
+ services plan for periods before July 1, 1992, shall be taken into account
+ in determining the amount excluded under section 120 of the Internal Revenue
+ Code of 1986 with respect to such employee for such taxable year.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to
+ taxable years beginning after December 31, 1991.
+SEC. 105. TARGETED JOBS CREDIT.
+ (a) IN GENERAL- Paragraph (4) of section 51(c) (relating to termination)
+ is amended by striking `December 31, 1991' and inserting `June 30, 1992'.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to
+ individuals who begin work for the employer after December 31, 1991.
+SEC. 106. ENERGY INVESTMENT CREDIT FOR SOLAR AND GEOTHERMAL PROPERTY.
+ Subparagraph (B) of section 48(a)(2) (relating to energy percentage) is
+ amended by striking `December 31, 1991' and inserting `June 30, 1992'.
+SEC. 107. LOW-INCOME HOUSING CREDIT.
+ (a) EXTENSION-
+ (1) Paragraph (1) of section 42(o) is amended--
+ (A) by striking `, for any calendar year after 1991',
+ (B) by inserting before the comma at the end of subparagraph (A) `to any
+ amount allocated after June 30, 1992', and
+ (C) by striking `1991' in subparagraph (B) and inserting `June 30, 1992'.
+ (2) Paragraph (2) of section 42(o) is amended--
+ (A) by striking `1992' each place it appears and inserting `July 1, 1992',
+ (B) by striking `December 31, 1991' in subparagraph (B) and inserting
+ `June 30, 1992',
+ (C) by striking `December 31, 1993' in subparagraph (B) and inserting
+ `June 30, 1994', and
+ (D) by striking `January 1, 1994' in subparagraph (C) and inserting `July
+ 1, 1994'.
+ (b) EFFECTIVE DATE- The amendments made by this section shall apply to
+ calendar years after 1991.
+SEC. 108. QUALIFIED MORTGAGE BONDS.
+ (a) IN GENERAL- Subparagraph (B) of section 143(a)(1) (defining qualified
+ mortgage bond) is amended by striking `December 31, 1991' each place it
+ appears and inserting `June 30, 1992'.
+ (b) MORTGAGE CREDIT CERTIFICATES- Subsection (h) of section 25 (relating
+ to interest on certain home mortgages) is amended by striking `December 31,
+ 1991' and inserting `June 30, 1992'.
+ (c) EFFECTIVE DATES-
+ (1) BONDS- The amendment made by subsection (a) shall apply to bonds issued
+ after December 31, 1991.
+ (2) CERTIFICATES- The amendment made by subsection (b) shall apply to
+ elections for periods after December 31, 1991.
+SEC. 109. QUALIFIED SMALL ISSUE BONDS.
+ (a) IN GENERAL- Subparagraph (B) of section 144(a)(12) (relating to
+ termination dates) is amended by striking `December 31, 1991' and inserting
+ `June 30, 1992'.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to bonds
+ issued after December 31, 1991.
+SEC. 110. HEALTH INSURANCE COSTS OF SELF-EMPLOYED INDIVIDUALS.
+ (a) EXTENSION-
+ (1) IN GENERAL- Paragraph (6) of section 162(l) (relating to special rules for
+ health insurance costs of self-employed individuals) is amended by striking
+ `December 31, 1991' and inserting `June 30, 1992'.
+ (2) SPECIAL RULE- In the case of any taxable year beginning in 1992--
+ (A) only amounts paid before July 1, 1992, by the individual for insurance
+ coverage for periods before July 1, 1992, shall be taken into account in
+ determining the amount deductible under section 162(l) of the Internal Revenue
+ Code of 1986 with respect to such individual for such taxable year, and
+ (B) for purposes of subparagraph (A) of section 162(l)(2) of such Code,
+ the amount of the earned income described in such subparagraph taken into
+ account for such taxable year shall be the amount which bears the same ratio
+ to the total amount of such earned income as the number of months in such
+ taxable year ending before July 1, 1992, bears to the number of months in
+ such taxable year.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to
+ taxable years beginning after December 31, 1991.
+SEC. 111. EXPENSES FOR DRUGS FOR RARE CONDITIONS.
+ (a) IN GENERAL- Subsection (e) of section 28 (relating to clinical testing
+ expenses for certain drugs for rare diseases or conditions) is amended by
+ striking `December 31, 1991' and inserting `June 30, 1992'.
+ (b) EFFECTIVE DATE- The amendment made by this section shall apply to
+ taxable years ending after December 31, 1991.
+SEC. 112. CHARITABLE CONTRIBUTIONS OF APPRECIATED PROPERTY.
+ Subparagraph (B) of section 57(a)(6) (relating to appreciated property
+ charitable deduction) is amended by adding at the end thereof the following
+ new sentence: `In the case of a contribution made before July 1, 1992, in
+ a taxable year beginning in 1992, such term shall not include any tangible
+ personal property.'
+TITLE II--MODIFICATION TO CORPORATE ESTIMATED TAX PROVISIONS
+SEC. 201. TEMPORARY INCREASE IN AMOUNT OF CORPORATE ESTIMATED TAX PAYMENTS.
+ (a) GENERAL RULE- Subsection (d) of section 6655 (relating to amount of
+ required installment) is amended by adding at the end thereof the following
+ new paragraph:
+ `(3) TEMPORARY INCREASE IN AMOUNT OF INSTALLMENT BASED ON CURRENT YEAR TAX-
+ In the case of any taxable year beginning after 1991 and before 1997--
+ `(A) Paragraph (1)(B)(i) and subsection (e)(3)(A)(i) shall be applied
+ by substituting for `90 percent' each place it appears the current year
+ percentage determined under the following table:
+  In the case of a taxable year
+--The current year
+    beginning in:
+--percentage is:
+  1992
+--93
+  1993 or 1994
+--94
+  1995 or 1996
+--95.
+ `(B) Appropriate adjustments to the table contained in subsection
+ (e)(2)(B)(ii) shall be made to reflect the provisions of subparagraph (A).'
+ (b) CONFORMING AMENDMENT- Paragraph (1) of section 6655(e) is amended
+ by striking `modified by subsection (d)(2)' and inserting `modified by
+ paragraphs (2) and (3) of subsection (d)'.
+ (c) EFFECTIVE DATE- The amendments made by subsection (a) shall apply to
+ taxable years beginning after December 31, 1991.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,273 @@
+ 
+--H.R.2763--
+H.R.2763
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To enhance geologic mapping of the United States, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `National Geologic Mapping Act of 1992'.
+SEC. 2. FINDINGS AND PURPOSE.
+ (a) FINDINGS- The Congress finds and declares that--
+ (1) during the past 2 decades, the production of geologic maps has been
+ drastically curtailed;
+ (2) geologic maps are the primary data base for virtually all applied and
+ basic earth-science investigations, including--
+ (A) exploration for and development of mineral, energy, and water resources;
+ (B) screening and characterizing sites for toxic and nuclear waste disposal;
+ (C) land use evaluation and planning for environmental protection;
+ (D) earthquake hazards reduction;
+ (E) predicting volcanic hazards;
+ (F) design and construction of infrastructure requirements such as utility
+ lifelines, transportation corridors, and surface-water impoundments;
+ (G) reducing losses from landslides and other ground failures;
+ (H) mitigating effects of coastal and stream erosion;
+ (I) siting of critical facilities; and
+ (J) basic earth-science research;
+ (3) Federal agencies, State and local governments, private industry, and
+ the general public depend on the information provided by geologic maps to
+ determine the extent of potential environmental damage before embarking
+ on projects that could lead to preventable, costly environmental problems
+ or litigation;
+ (4) the combined capabilities of State, Federal, and academic groups to
+ provide geologic mapping are not sufficient to meet the present and future
+ needs of the United States for national security, environmental protection,
+ and energy self-sufficiency of the Nation;
+ (5) States are willing to contribute 50 percent of the funding necessary
+ to complete the mapping of the geology within the State;
+ (6) the lack of proper geologic maps has led to the poor design of such
+ structures as dams and waste-disposal facilities;
+ (7) geologic maps have proven indispensable in the search for needed
+ fossil-fuel and mineral resources; and
+ (8) a comprehensive nationwide program of geologic mapping is required in
+ order to systematically build the Nation's geologic-map data base at a pace
+ that responds to increasing demand.
+ (b) PURPOSE- The purpose of this Act is to expedite the production of a
+ geologic-map data base for the Nation, to be located within the United States
+ Geological Survey, which can be applied to land-use management, assessment,
+ and utilization, conservation of natural resources, groundwater management,
+ and environmental protection.
+SEC. 3. DEFINITIONS.
+ As used in this Act:
+ (1) The term `advisory committee' means the advisory committee established
+ under section 5.
+ (2) The term `Director' means the Director of the United States Geological
+ Survey.
+ (3) The term `geologic mapping program' means the National Cooperative
+ Geologic Mapping Program established by section 4(a).
+ (4) The term `Secretary' means the Secretary of the Interior.
+ (5) The term `Survey' means the United States Geological Survey.
+SEC. 4. GEOLOGIC MAPPING PROGRAM.
+ (a) ESTABLISHMENT- There is established in the United States Geological
+ Survey a National Cooperative Geologic Mapping Program. The geologic mapping
+ program shall be developed in consultation with the advisory committee and
+ shall be designed and administered to achieve the objectives set forth in
+ subsection (c).
+ (b) RESPONSIBILITIES OF USGS- (1) The Survey shall be the lead Federal
+ agency responsible for planning, developing priorities, coordinating,
+ and managing the geologic mapping program. In carrying out this paragraph,
+ the Secretary, acting through the Director, shall--
+ (A) develop a geologic mapping program implementation plan in accordance
+ with section 6, which plan shall be submitted to the Committee on Interior
+ and Insular Affairs of the House of Representatives and the Committee on
+ Energy and Natural Resources of the Senate within 300 days after the date
+ of enactment of this Act;
+ (B) appoint, with the advice and consultation of the State geological surveys,
+ the advisory committee within 90 days after the date of enactment of this
+ Act in accordance with section 5; and
+ (C) within 210 days after the date of enactment of this Act, submit
+ a report to the Committee on Energy and Natural Resources of the United
+ States Senate and to the Committee on Interior and Insular Affairs of the
+ House of Representatives identifying--
+ (i) how the Survey will coordinate the development and implementation of
+ the geologic mapping program;
+ (ii) how the Survey will establish goals, mapping priorities, and target
+ dates for implementation of the geologic mapping program;
+ (iii) how long-term staffing plans for the various components of the
+ geologic mapping program will lead to successful implementation of the
+ geologic mapping program; and
+ (iv) the degree to which geologic mapping activities traditionally funded by
+ the Survey, including the use of commercially available aerial photography,
+ geodesy, professional land surveying, photogrammetric mapping, cartography,
+ photographic processing, and related services, can be contracted to
+ professional private mapping firms.
+ (2) In addition to paragraph (1), the Secretary, acting through the Director,
+ shall be responsible for developing, as soon as practicable--
+ (A) in cooperation with the State geological surveys, other Federal and
+ State agencies, public and private sector organizations and academia,
+ the geologic-map data base; and
+ (B) maps and mapping techniques which achieve the objectives specified in
+ subsection (c).
+ (c) PROGRAM OBJECTIVES- The objectives of the geologic mapping program
+ shall include--
+ (1) determining  the Nation's geologic framework through systematic
+ development of geologic maps at scales appropriate to the geologic setting
+ and the perceived applications, such maps to be contributed to the national
+ geologic map data base;
+ (2) development of a complementary national geophysical-map data base,
+ geochemical-map data base, and a geochronologic and paleontologic data base
+ that provide value-added descriptive and interpretive information to the
+ geologic-map data base;
+ (3) application of cost-effective mapping techniques that assemble, produce,
+ translate and disseminate geologic-map information and that render such
+ information of greater application and benefit to the public; and
+ (4) development of public awareness for the role and application of
+ geologic-map information to the resolution of national issues of land
+ use management.
+ (d) PROGRAM COMPONENTS- The geologic mapping program shall include the
+ following components:
+ (1) A Federal geologic mapping component, whose objective shall be determining
+ the geologic framework of areas determined to be vital to the economic,
+ social, or scientific welfare of the Nation. Mapping priorities shall be
+ based on--
+ (A) national requirements for geologic-map information in areas of
+ multiple-issue need or areas of compelling single-issue need; and
+ (B) national requirements for geologic-map information in areas where
+ mapping is required to solve critical earth-science problems.
+ (2) A geologic mapping support component, whose objective shall be
+ providing interdisciplinary support for the Federal Geologic Mapping
+ Component. Representative categories of interdisciplinary support shall
+ include--
+ (A) establishment of a national geologic-map data base, established pursuant
+ to section 7;
+ (B) studies that lead to the implementation of cost-effective digital methods
+ for the acquisition, compilation, analysis, cartographic production, and
+ dissemination of geologic-map information;
+ (C) paleontologic investigations that provide information critical to
+ understanding the age and depositional environment of fossil-bearing
+ geologic-map units, which investigations shall be contributed to a national
+ paleontologic data base;
+ (D) geochronologic and isotopic investigations that (i) provide radiometric
+ age dates for geologic-map units and (ii) fingerprint the geothermometry,
+ geobarometry, and alteration history of geologic-map units, which
+ investigations shall be contributed to a national geochronologic data base;
+ (E) geophysical investigations that assist in delineating and mapping the
+ physical characteristics and three-dimensional distribution of geologic
+ materials and geologic structures, which investigations shall be contributed
+ to a national geophysical-map data base; and
+ (F) geochemical investigations and analytical operations that characterize
+ the major- and minor-element composition of geologic-map units, and that
+ lead to the recognition of stable and anomalous geochemical signatures for
+ geologic terrains, which investigations shall be contributed to a national
+ geochemical-map data base.
+ (3) A State geologic mapping component, whose objective shall be determining
+ the geologic framework of areas that the State geological surveys determine
+ to be vital to the economic, social, or scientific welfare of individual
+ States. Mapping priorities shall be determined by multirepresentational
+ State panels and shall be integrated with national priorities. Federal
+ funding for the State component shall be matched on a one-to-one basis with
+ non-Federal funds.
+ (4) A geologic mapping education component, whose objective shall be--
+ (A) to develop the academic programs that teach earth-science students the
+ fundamental principles of geologic mapping and field analysis; and
+ (B) to provide for broad education in geologic mapping and field analysis
+ through support of field teaching institutes.
+Investigations conducted under the geologic mapping education component
+shall be integrated with the other mapping components of the geologic mapping
+program, and shall respond to priorities identified for those components.
+SEC. 5. ADVISORY COMMITTEE.
+ (a) ESTABLISHMENT- There shall be established a sixteen member geologic
+ mapping advisory committee to advise the Director on planning and
+ implementation of the geologic mapping program. The President shall
+ appoint one representative each from the Environmental Protection Agency,
+ the Department of Energy, the Department of Agriculture, and the Office
+ of Science and Technology Policy. Within 90 days and with the advice and
+ consultation of the State Geological Surveys, the Secretary shall appoint
+ to the advisory committee 2 representatives from the Survey (including the
+ Chief Geologist, as Chairman), 4 representatives from the State geological
+ surveys, 3 representatives from academia, and 3 representatives from the
+ private sector.
+ (b) DUTIES- The advisory committee shall--
+ (1) review and critique the draft implementation plan prepared by the
+ Director pursuant to section 6;
+ (2) review the scientific progress of the geologic mapping program; and
+ (3) submit an annual report to the Secretary that evaluates the progress
+ of the Federal and State mapping activities and evaluates the progress made
+ toward fulfilling the purposes of this Act.
+SEC. 6. GEOLOGIC MAPPING PROGRAM IMPLEMENTATION PLAN.
+ The Secretary, acting through the Director, shall, with the advice and review
+ of the advisory committee, prepare an implementation plan for the geologic
+ mapping program. The plan shall identify the overall management structure
+ and operation of the geologic mapping program and shall provide for--
+ (1) the role of the Survey in its capacity as overall management lead,
+ including the responsibility for developing the national geologic mapping
+ program that meets Federal needs while simultaneously fostering State needs;
+ (2) the responsibilities accruing to the State geological surveys, with
+ particular emphasis on mechanisms that incorporate their needs, missions,
+ capabilities, and requirements into the nationwide geologic mapping program;
+ (3) mechanisms for identifying short- and long-term priorities for each
+ component of the geologic mapping program, including--
+ (A) for the Federal geologic mapping component, a priority-setting mechanism
+ that responds both to (i) Federal mission requirements for geologic-map
+ information, and (ii) critical scientific problems that require geologic-map
+ control for their resolution;
+ (B) for the geologic mapping support component, a strong interdisciplinary
+ research program plan in isotopic and paleontologic geochronology, geophysical
+ mapping, and process studies to provide data to and interpret results from
+ geologic mapping;
+ (C) for the State geologic mapping component, a priority-setting mechanism
+ that responds to (i) specific intrastate needs for geologic-map information,
+ and (ii) interstate needs shared by adjacent entities that have common
+ requirements; and
+ (D) for the geologic mapping education component, a priority-setting mechanism
+ that responds to requirements for geologic-map information that are driven
+ by Federal and State mission requirements;
+ (4) a description of the degree to which the Survey can acquire, archive,
+ and use Side-Looking Airborne Radar (SLAR) or Interferometric Synthetic
+ Aperture Radar (IFSAR) data in a manner that is technically appropriate
+ for geologic or related mapping studies;
+ (5) a mechanism for adopting scientific and technical map standards for
+ preparing and publishing general-purpose and special-purpose geologic maps
+ to (A) assure uniformity of cartographic and scientific conventions, and
+ (B) provide a basis for judgment as to the comparability and quality of
+ map products; and
+ (6) a mechanism for monitoring the inventory of published and current mapping
+ investigations nationwide in order to facilitate planning and information
+ exchange and to avoid redundancy.
+SEC. 7. NATIONAL GEOLOGIC-MAP DATA BASE.
+ (a) ESTABLISHMENT- The Survey shall establish a national geologic-map data
+ base. Such data base shall be a national archive that includes all maps
+ developed pursuant to this Act, the data bases developed pursuant to the
+ investigations under sections (4)(d)(2) (C), (D), (E), and (F), and other
+ maps and data as the Survey deems appropriate.
+ (b) STANDARDIZATION- Geologic maps contributed to the national archives
+ should have standardized format, symbols, and technical attributes so that
+ archival information can be assimilated, manipulated, accessed, exchanged,
+ and compared efficiently and accurately.
+SEC. 8. ANNUAL REPORT.
+ The Secretary shall, within 90 days after the end of each fiscal year, submit
+ an annual report to the Committee on Interior and Insular Affairs of the
+ House of Representatives and the Committee on Energy and Natural Resources of
+ the Senate describing the status of the nationwide geologic mapping program,
+ and describing and evaluating progress achieved during the preceding fiscal
+ year in developing the national geologic-map data base. Each report shall
+ include any recommendations for legislative or other action as the Secretary
+ deems necessary and appropriate to fulfill the purposes of this Act.
+SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+ There is authorized to be appropriated to carry out this Act the following:
+ (1) For Federal mapping activities under this Act, $12,500,000 for fiscal
+ year 1993, $14,000,000 for fiscal year 1994, $16,000,000 for fiscal year
+ 1995, and $18,000,000 for fiscal year 1996.
+ (2) For Federal support activities under this Act, $9,500,000 for fiscal
+ year 1993, $10,000,000 for fiscal year 1994, $10,500,000 for fiscal year
+ 1995, and $11,000,000 for fiscal year 1996.
+ (3) For State mapping activities under this Act, $15,000,000 for fiscal year
+ 1993, $18,000,000 for fiscal year 1994, $21,000,000 for fiscal year 1995,
+ and $25,000,000 for fiscal year 1996.
+ (4) For educational support activities under this Act, $500,000 for fiscal
+ year 1993, $750,000 for fiscal year 1994, $1,000,000 for fiscal year 1995,
+ and $1,500,000 for fiscal year 1996.
+SEC. 10. UNITED STATES GEOLOGICAL SURVEY AND UNITED STATES BUREAU OF MINES.
+ (a) UNITED STATES GEOLOGICAL SURVEY- The Geological Survey established
+ by the Act of March 3, 1879 (43 U.S.C. 31(a)), is designated as and shall
+ hereafter be known as the United States Geological Survey.
+ (b) UNITED STATES BUREAU OF MINES- The Bureau of Mines established by the
+ Act of May 16, 1910 (30 U.S.C. 1), is designated as and shall hereafter be
+ known as the United States Bureau of Mines.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

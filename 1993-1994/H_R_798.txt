@@ -1,0 +1,178 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 798 Enrolled Bill (ENR)]
+
+        H.R.798
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To amend title 38, United States Code, to codify the rates of 
+disability compensation for veterans with service-connected disabilities 
+and the rates of dependency and indemnity compensation for survivors of 
+such veterans as such rates took effect on December 1, 1992.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. DISABILITY COMPENSATION.
+
+    Section 1114 of title 38, United States Code, is amended--
+        (1) by striking out ``$83'' in subsection (a) and inserting in 
+    lieu thereof ``$85'';
+        (2) by striking out ``$157'' in subsection (b) and inserting in 
+    lieu thereof ``$162'';
+        (3) by striking out ``$240'' in subsection (c) and inserting in 
+    lieu thereof ``$247'';
+        (4) by striking out ``$342'' in subsection (d) and inserting in 
+    lieu thereof ``$352'';
+        (5) by striking out ``$487'' in subsection (e) and inserting in 
+    lieu thereof ``$502'';
+        (6) by striking out ``$614'' in subsection (f) and inserting in 
+    lieu thereof ``$632'';
+        (7) by striking out ``$776'' in subsection (g) and inserting in 
+    lieu thereof ``$799'';
+        (8) by striking out ``$897'' in subsection (h) and inserting in 
+    lieu thereof ``$924'';
+        (9) by striking out ``$1,010'' in subsection (i) and inserting 
+    in lieu thereof ``$1,040'';
+        (10) by striking out ``$1,680'' in subsection (j) and inserting 
+    in lieu thereof ``$1,730'';
+        (11) by striking out ``$2,089'', ``$68'', and ``$2,927'' in 
+    subsection (k) and inserting in lieu thereof ``$2,152'', ``$70'', 
+    and ``$3,015'', respectively;
+        (12) by striking out ``$2,089'' in subsection (l) and inserting 
+    in lieu thereof ``$2,152'';
+        (13) by striking out ``$2,302'' in subsection (m) and inserting 
+    in lieu thereof ``$2,371'';
+        (14) by striking out ``$2,619'' in subsection (n) and inserting 
+    in lieu thereof ``$2,698'';
+        (15) by striking out ``$2,927'' each place it appears in 
+    subsections (o) and (p) and inserting in lieu thereof ``$3,015'';
+        (16) by striking out ``$1,257'' and ``$1,872'' in subsection (r) 
+    and inserting in lieu thereof ``$1,295'' and ``$1,928'', 
+    respectively; and
+        (17) by striking out ``$1,879'' in subsection (s) and inserting 
+    in lieu thereof ``$1,935''.
+
+SEC. 2. ADDITIONAL COMPENSATION FOR DEPENDENTS.
+
+    Section 1115(1) of title 38, United States Code, is amended--
+        (1) by striking out ``$100'' in subparagraph (A) and inserting 
+    in lieu thereof ``$103'';
+        (2) by striking out ``$169'' and ``$52'' in subparagraph (B) and 
+    inserting in lieu thereof ``$174'' and ``$54'', respectively;
+        (3) by striking out ``$69'' and ``$52'' in subparagraph (C) and 
+    inserting in lieu thereof ``$71'' and ``$54'', respectively;
+        (4) by striking out ``$80'' in subparagraph (D) and inserting in 
+    lieu thereof ``$82'';
+        (5) by striking out ``$185'' in subparagraph (E) and inserting 
+    in lieu thereof ``$191''; and
+        (6) by striking out ``$155'' in subparagraph (F) and inserting 
+    in lieu thereof ``$160''.
+
+SEC. 3. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS.
+
+    Section 1162 of title 38, United States Code, is amended by striking 
+out ``$452'' and inserting in lieu thereof ``$466''.
+SEC. 4. DEPENDENCY AND INDEMNITY COMPENSATION FOR SURVIVING SPOUSES.
+    Section 1311 of title 38, United States Code, is amended--
+        (1) by striking out the table in subsection (a)(3) and inserting 
+    in lieu thereof the following:
+
+  
+
+                               Monthly                                 Monthly
+    ``Pay grade                   rate    Pay grade                       rate
+    E-1....................       $634      W-4....................       $911
+    E-2....................        654      O-1....................        803
+    E-3....................        672      O-2....................        829
+    E-4....................        714      O-3....................        888
+    E-5....................        732      O-4....................        939
+    E-6....................        749      O-5....................      1,035
+    E-7....................        785      O-6....................      1,168
+    E-8....................        829      O-7....................      1,262
+    E-9....................  \1\<!!>86      O-8....................      1,383
+                                     6                                        
+    W-1....................        803      O-9....................      1,483
+    W-2....................        835      O-10...................  \2\<!!>1,
+                                                                           627
+    W-3....................        860                                        
+                                                                              
+``\1\<!!>If the veteran served as sergeant major of the Army, senior enlisted 
+  advisor of the Navy, chief master sergeant of the Air Force, sergeant major 
+  of the Marine Corps, or master chief petty officer of the Coast Guard, at   
+  the applicable time designated by section 402 of this title, the surviving  
+  spouse's rate shall be $934.                                                
+``\2\<!!>If the veteran served as Chairman or Vice-Chairman of the Joint      
+  Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations,     
+  Chief of Staff of the Air Force, Commandant of the Marine Corps, or         
+  Commandant of the Coast Guard, at the applicable time designated by section 
+  402 of this title, the surviving spouse's rate shall be $1,744.'';          
+
+        (2) by striking out ``$185'' in subsection (c) and inserting in 
+    lieu thereof ``$191''; and
+        (3) by striking out ``$90'' in subsection (d) and inserting in 
+    lieu thereof ``$93''.
+SEC. 5. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHILDREN.
+    (a) DIC for Orphan Children.--Section 1313(a) of title 38, United 
+States Code, is amended--
+        (1) by striking out ``$310'' in paragraph (1) and inserting in 
+    lieu thereof ``$319'';
+        (2) by striking out ``$447'' in paragraph (2) and inserting in 
+    lieu thereof ``$460'';
+        (3) by striking out ``$578'' in paragraph (3) and inserting in 
+    lieu thereof ``$595''; and
+        (4) by striking out ``$578'' and ``$114'' in paragraph (4) and 
+    inserting in lieu thereof ``$595'' and ``$117'', respectively.
+    (b) Supplemental DIC for Disabled Adult Children.--Section 1314 of 
+such title is amended--
+        (1) by striking out ``$185'' in subsection (a) and inserting in 
+    lieu thereof ``$191'';
+        (2) by striking out ``$310'' in subsection (b) and inserting in 
+    lieu thereof ``$319''; and
+        (3) by striking out ``$157'' in subsection (c) and inserting in 
+    lieu thereof ``$162''.
+SEC. 6. TECHNICAL CORRECTION RELATING TO THE FINANCING OF DISCOUNT 
+POINTS.
+    Section 3703(c)(4)(B) of title 38, United States Code, is amended in 
+the second sentence by striking out ``Discount'' and inserting in lieu 
+thereof ``Except in the case of a loan for the purpose specified in 
+section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, 
+discount''.
+
+SEC. 7. RATE ADJUSTMENTS FOR ADJUSTABLE RATE MORTGAGES.
+
+    Section 3707(b)(2) of title 38, United States Code, is amended by 
+striking out ``on the anniversary of the date on which the loan was 
+closed''.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

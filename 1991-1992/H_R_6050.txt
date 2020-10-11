@@ -1,0 +1,199 @@
+ 
+--H.R.6050--
+H.R.6050
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To facilitate recovery from recent disasters by providing greater flexibility
+for deposi-
+tory institutions and their regulators, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Depository Institutions Disaster Relief Act
+  of 1992'.
+SEC. 2. APPRAISAL REQUIREMENTS.
+  Title XI of the Financial Institutions Reform, Recovery, and Enforcement
+  Act of 1989 (12 U.S.C. 3331 et seq.) is amended by adding at the end the
+  following new section:
+`SEC. 1123. EMERGENCY EXCEPTIONS FOR DISASTER AREAS.
+  `(a) IN GENERAL- Each Federal financial institutions regulatory agency may,
+  by regulation or order, make exceptions to this title, and to standards
+  prescribed pursuant to this title, for transactions involving institutions
+  for which the agency is the primary Federal regulator with respect to real
+  property located within a disaster area if the agency--
+  `(1) makes the exception not later than 30 months after the date on which
+  the President determines, pursuant to section 401 of the Robert T. Stafford
+  Disaster Relief and Emergency Assistance Act, that a major disaster exists
+  in the area; and
+  `(2) determines that the exception--
+  `(A) would facilitate recovery from the major disaster; and
+  `(B) is consistent with safety and soundness.
+  `(b) 3-YEAR LIMIT ON EXCEPTIONS- Any exception made under this section
+  shall expire not later than 3 years after the date of the determination
+  referred to in subsection (a)(1).
+  `(c) PUBLICATION REQUIRED- Any Federal financial institutions regulatory
+  agency shall publish in the Federal Register a statement that--
+  `(1) describes any exception made under this section; and
+  `(2) explains how the exception--
+  `(A) would facilitate recovery from the major disaster; and
+  `(B) is consistent with safety and soundness.
+  `(d) DISASTER AREA DEFINED- For purposes of this section, the term `disaster
+  area' means an area in which the President, pursuant to section 401 of
+  the Robert T. Stafford Disaster Relief and Emergency Assistance Act,
+  has determined that a major disaster exists.'.
+SEC. 3. TRUTH IN LENDING ACT; EXPEDITED FUNDS AVAILABILITY ACT.
+  (a) TRUTH IN LENDING ACT- During the 180-day period beginning on the date
+  of enactment of this Act, the Board of Governors of the Federal Reserve
+  System may make exceptions to the Truth in Lending Act for transactions
+  within an area in which the President, pursuant to section 401 of the Robert
+  T. Stafford Disaster Relief and Emergency Assistance Act, has determined
+  that a major disaster exists, if the Board determines that the exception
+  can reasonably be expected to produce benefits to the public that outweigh
+  possible adverse effects.
+  (b) EXPEDITED FUNDS AVAILABILITY ACT- During the 180-day period beginning
+  on the date of enactment of this Act, the Board of Governors of the Federal
+  Reserve System may make exceptions to the Expedited Funds Availability Act
+  for depository institution offices located within an area referred to in
+  subsection (a) of this section if the Board determines that the exception
+  can reasonably be expected to produce benefits to the public that outweigh
+  possible adverse effects.
+  (c) TIME LIMIT ON EXCEPTIONS- Any exception made under this section shall
+  expire not later than the earlier of--
+  (1) 1 year after the date of enactment of this Act; or
+  (2) 1 year after the date of the Presidential determination referred to
+  in subsection (a).
+  (d) PUBLICATION REQUIRED- The Board of Governors of the Federal Reserve
+  System shall publish in the Federal Register a statement that--
+  (1) describes any exception made under this section; and
+  (2) explains how the exception can reasonably be expected to produce
+  benefits to the public that outweigh possible adverse effects.
+SEC. 4. DEPOSIT OF INSURANCE PROCEEDS.
+  (a) IN GENERAL- The appropriate Federal banking agency may, by order,
+  permit an insured depository institution, during the 18-month period
+  beginning on the date of enactment of this Act, to subtract from the
+  institution's total assets, in calculating compliance with the leverage
+  limit prescribed under section 38 of the Federal Deposit Insurance Act,
+  an amount not exceeding the qualifying amount attributable to insurance
+  proceeds, if the agency determines that--
+  (1) the institution--
+  (A) had its principal place of business within an area in which the
+  President, pursuant to section 401 of the Robert T. Stafford Disaster Relief
+  and Emergency Assistance Act, has determined that a major disaster exists,
+  on the day before the date of that determination;
+  (B) derives more than 60 percent of its total deposits from persons who
+  normally reside within, or whose principal place of business is normally
+  within, areas of intense devastation caused by the major disaster (such
+  as that portion of Dade County, Florida, south of Kendall Drive and east
+  of Everglades National Park, as damaged by Hurricane Andrew);
+  (C) was adequately capitalized (as defined in section 38 of the Federal
+  Deposit Insurance Act) before the major disaster; and
+  (D) has an acceptable plan for managing the increase in its total assets
+  and total deposits; and
+  (2) the subtraction is consistent with the purpose of section 38 of the
+  Federal Deposit Insurance Act.
+  (b) DEFINITIONS- For purposes of this section:
+  (1) APPROPRIATE FEDERAL BANKING AGENCY- The term `appropriate Federal
+  banking agency' has the same meaning as in section 3 of the Federal Deposit
+  Insurance Act.
+  (2) INSURED DEPOSITORY INSTITUTION- The term `insured depository institution'
+  has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+  (3) LEVERAGE LIMIT- The term `leverage limit' has the same meaning as in
+  section 38 of the Federal Deposit Insurance Act.
+  (4) QUALIFYING AMOUNT ATTRIBUTABLE TO INSURANCE PROCEEDS- The term
+  `qualifying amount attributable to insurance proceeds' means the amount
+  (if any) by which the institution's total assets exceed the institution's
+  average total assets during the calendar quarter ending before the date
+  of the Presidential determination referred to in subsection (a)(1)(A),
+  because of the deposit of insurance payments or governmental assistance
+  made with respect to damage caused by, or other costs resulting from,
+  the major disaster.
+SEC. 5. BANKING AGENCY PUBLICATION REQUIREMENTS.
+  (a) IN GENERAL- During the 180-day period beginning on the date of enactment
+  of this Act, a qualifying regulatory agency may take any of the following
+  actions with respect to depository institutions or other regulated entities
+  whose principal place of business is within, or with respect to transactions
+  or activities within, an area in which the President, pursuant to section
+  401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,
+  has determined that a major disaster exists, if the agency determines that
+  the action would facilitate recovery from the major disaster:
+  (1) PROCEDURE- Exercising the agency's authority under provisions of law
+  other than this section without complying with--
+  (A) any requirement of section 553 of title 5, United States Code; or
+  (B) any provision of law that requires notice or opportunity for hearing
+  or sets maximum or minimum time limits with respect to agency action.
+  (2) PUBLICATION REQUIREMENTS- Making exceptions, with respect to institutions
+  or other entities for which the agency is the primary Federal regulator, to--
+  (A) any publication requirement with respect to establishing branches or
+  other deposit-taking facilities; or
+  (B) any similar publication requirement.
+  (b) PUBLICATION REQUIRED- A qualifying regulatory agency shall publish in
+  the Federal Register a statement that--
+  (1) describes any action taken under this section; and
+  (2) explains the need for the action.
+  (c) QUALIFYING REGULATORY AGENCY DEFINED- For purposes of this section,
+  the term `qualifying regulatory agency' means--
+  (1) the Board of Governors of the Federal Reserve System;
+  (2) the Comptroller of the Currency;
+  (3) the Director of the Office of Thrift Supervision;
+  (4) the Federal Deposit Insurance Corporation;
+  (5) the Financial Institutions Examination Council;
+  (6) the National Credit Union Administration; and
+  (7) with respect to chapter 53 of title 31, United States Code, the
+  Secretary of the Treasury.
+SEC. 6. COMMUNITY DEVELOPMENT AUTHORITY OF BANKS.
+  (a) NATIONAL BANKS- Section 5136 of the Revised Statutes (12 U.S.C. 24)
+  is amended by adding at the end the following new paragraph:
+  `Eleventh. To make investments designed primarily to promote the public
+  welfare, including the welfare of low- and moderate-income communities or
+  families (such as by providing housing, services, or jobs). A national
+  banking association may make such investments directly or by purchasing
+  interests in an entity primarily engaged in making such investments. An
+  association shall not make any such investment if the investment would
+  expose the association to unlimited liability. The Comptroller of the
+  Currency shall limit an association's investments in any 1 project and an
+  association's aggregate investments under this paragraph. An association's
+  aggregate investments under this paragraph shall not exceed an amount equal
+  to the sum of 5 percent of the association's capital stock actually paid in
+  and unimpaired and 5 percent of the association's unimpaired surplus fund,
+  unless the Comptroller determines by order that the higher amount will
+  pose no significant risk to the affected deposit insurance fund, and the
+  association is adequately capitalized. In no case shall an association's
+  aggregate investments under this paragraph exceed an amount equal to the
+  sum of 10 percent of the association's capital stock actually paid in and
+  unimpaired and 10 percent of the association's unimpaired surplus fund.'.
+  (b) STATE MEMBER BANKS- Section 9 of the Federal Reserve Act (12
+  U.S.C. 321-338) is amended by adding at the end the following new paragraph:
+  `State member banks may make investments designed primarily to promote
+  the public welfare, including the welfare of low- and moderate-income
+  communities or families (such as by providing housing, services, or jobs),
+  to the extent permissible under State law, and subject to such restrictions
+  and requirements as the Board of Governors of the Federal Reserve System may
+  prescribe by regulation or order. A bank shall not make any such investment
+  if the investment would expose the bank to unlimited liability. The Board
+  shall limit a bank's investments in any 1 project and bank's aggregate
+  investments under this paragraph. A bank's aggregate investments under this
+  paragraph shall not exceed an amount equal to the sum of 5 percent of the
+  bank's capital stock actually paid in and unimpaired and 5 percent of the
+  bank's unimpaired surplus fund, unless the Board determines by order that
+  the higher amount will pose no significant risk to the affected deposit
+  insurance fund, and the bank is adequately capitalized. In no case shall
+  a bank's aggregate investments under this paragraph exceed an amount equal
+  to the sum of 10 percent of the bank's capital stock actually paid in and
+  unimpaired and 10 percent of the bank's unimpaired surplus fund.'.
+SEC. 7. SENSE OF THE CONGRESS.
+  It is the sense of the Congress that the Board of Governors of the Federal
+  Reserve System, the Comptroller of the Currency, the Director of the
+  Office of Thrift Supervision, the Federal Deposit Insurance Corporation,
+  and the National Credit Union Administration should encourage depository
+  institutions in areas affected by such major disasters as Hurricane Andrew,
+  Hurricane Iniki, and the Los Angeles civil unrest to meet the financial
+  services needs of their communities.
+SEC. 8. OTHER AUTHORITY NOT AFFECTED.
+  Nothing in this Act limits the authority of any department or agency under
+  any other provision of law.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

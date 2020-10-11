@@ -1,0 +1,2280 @@
+ 
+--H.R.2130--
+H.R.2130
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To authorize appropriations for the National Oceanic and Atmospheric
+Administration, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `National Oceanic and Atmospheric Administration
+  Authorization Act of 1992'.
+SEC. 2. DEFINITIONS.
+  For the purposes of this Act, the term--
+  (1) `Act of 1890' means the Act entitled `An Act to increase the efficiency
+  and reduce the expenses of the Signal Corps of the Army, and to transfer
+  the Weather Bureau to the Department of Agriculture', approved October 1,
+  1890 (26 Stat. 653); and
+  (2) `Act of 1947' means the Act entitled `An Act to define the functions
+  and duties of the Coast and Geodetic Survey, and for other purposes',
+  approved August 6, 1947 (33 U.S.C. 883a et seq.).
+TITLE I--NOAA ATMOSPHERIC AND SATELLITE PROGRAMS
+SEC. 101. NATIONAL WEATHER SERVICE OPERATIONS AND RESEARCH.
+  (a) IN GENERAL- There are authorized to be appropriated to the Secretary of
+  Commerce, to enable the National Oceanic and Atmospheric Administration to
+  carry out the operations and research activities of the National Weather
+  Service under law, $311,532,000 for fiscal year 1992 and $395,822,000 for
+  fiscal year 1993. Moneys appropriated pursuant to this authorization shall be
+  used to fund those activities relating to National Weather Service operations
+  and research specified by the Act of 1890, the Act of 1947, and any other
+  law involving such activities. Such activities include meteorological,
+  hydrological, aviation, and oceanographic public warnings and forecasts,
+  as well as applied research in support of such warnings and forecasts.
+  (b) PACIFIC WEATHER BUOYS- Of the sums authorized under subsection (a),
+  $840,000 for fiscal year 1992 and $1,135,000 for fiscal year 1993 are
+  authorized to be appropriated for the purpose of operating and maintaining
+  weather buoys off the coast of California, Oregon, Washington, and Hawaii.
+  (c) COOPERATIVE WEATHER OBSERVER PROGRAM- The Secretary of Commerce may use
+  funds otherwise available for conducting weather observations to strengthen
+  the Cooperative Weather Observer Program and encourage public participation
+  in the program. The Secretary may--
+  (1) provide distinctive insignia or paraphernalia to Cooperative Weather
+  Observers; and
+  (2) make awards of nominal value to recognize continued participation in
+  the program by observers or to recognize outstanding achievements by such
+  observers or groups of observers without regard to any law restricting
+  expenditures for such purposes to Federal employees.
+SEC. 102. PUBLIC WARNING AND FORECAST SYSTEMS.
+  (a) IN GENERAL- There are authorized to be appropriated to the Secretary
+  of Commerce, to enable the National Oceanic and Atmospheric Administration
+  to improve its public warning and forecast systems under law, $132,034,000
+  for each of the fiscal years 1992 and 1993. Moneys appropriated pursuant
+  to this authorization shall be used to fund those activities relating
+  to public warning and forecast systems specified by the Act of 1890, the
+  Act of 1947, and any other law involving such activities. Such activities
+  include the development, acquisition, and implementation of major public
+  warning and forecast systems.
+  (b) WEATHER RADAR COMPLETE PROGRAM AUTHORIZATION- (1) Except as provided
+  in paragraph (2), there are authorized to be appropriated to the Secretary
+  of Commerce for all fiscal years beginning with fiscal year 1993, not to
+  exceed $426,971,000, to remain available until expended, to complete the
+  acquisition and deployment of the Next Generation Weather Radar system,
+  and to cover all associated activities (including program management and
+  operations and maintenance through September 30, 1996).
+  (2) None of the funds are authorized to be appropriated for any fiscal year
+  under paragraph (1), unless, within 60 days after the submission of the
+  President's budget request for such fiscal year, the Secretary of Commerce--
+  (A) certifies to the Congress that--
+  (i) the radars, including system software, meet the technical performance
+  specifications included in the radar procurement contract as in effect on
+  October 1, 1992;
+  (ii) the system contract is viable, and the Secretary does not foresee
+  circumstances which would prevent fulfillment of the contract;
+  (iii) the system can be fully sited, commissioned, and operational without
+  requiring further authorization of appropriations beyond amounts authorized
+  under paragraph (1); and
+  (iv) the Secretary does not foresee further delays in the system deployment
+  and operation schedule; or
+  (B) submits to the Congress a report which describes--
+  (i) the circumstances which prevent a certification under subparagraph (A);
+  (ii) remedial actions undertaken or to be undertaken with respect to such
+  circumstances;
+  (iii) the effects of such circumstances on the deployment and operation
+  schedule and radar coverage; and
+  (iv) a justification for proceeding with the program, if appropriate.
+SEC. 103. CLIMATE AND AIR QUALITY RESEARCH.
+  (a) IN GENERAL- There are authorized to be appropriated to the Secretary
+  of Commerce, to enable the National Oceanic and Atmospheric Administration
+  to carry out its climate and air quality research activities under law,
+  $100,718,000 for fiscal year 1992 and $103,877,000 for fiscal year
+  1993. Moneys appropriated pursuant to this authorization shall be used
+  to fund those activities relating to climate and air quality research
+  specified by the Act of 1890, the Act of 1947, and any other law involving
+  such activities. Such activities include interannual and seasonal climate
+  research, long-term climate and air quality research, and the National
+  Climate Program.
+  (b) CLIMATE AND GLOBAL CHANGE- Of the sums authorized under subsection (a),
+  $67,000,000 for each of the fiscal years 1992 and 1993 are authorized to
+  be appropriated for the purpose of studying climate and global change. Such
+  program shall augment and integrate existing programs of the National Oceanic
+  and Atmospheric Administration and shall include global observations,
+  monitoring, and data and information management relating to the study of
+  changes in the Earth's climatic system, fundamental research on critical
+  oceanic and atmospheric processes, and climate prediction and diagnostics.
+SEC. 104. ATMOSPHERIC RESEARCH.
+  There are authorized to be appropriated to the Secretary of Commerce, to
+  enable the National Oceanic and Atmospheric Administration to carry out
+  its atmospheric research activities under law, $43,935,000 for fiscal year
+  1992 and $44,781,000 for fiscal year 1993. Moneys appropriated pursuant
+  to this authorization shall be used to fund those activities relating to
+  atmospheric research specified by the Act of 1890 and by any other law
+  involving such activities. Such activities include research for developing
+  improved observation and prediction capabilities for atmospheric processes,
+  as well as solar-terrestrial services and research.
+SEC. 105. SATELLITE OBSERVING SYSTEMS.
+  (a) IN GENERAL- (1) There are authorized to be appropriated to the
+  Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out its satellite observing systems activities under
+  law, $305,744,000 for fiscal year 1992 and $336,000,000 for fiscal year
+  1993. Moneys appropriated pursuant to this authorization shall be used to
+  fund those activities relating to data and information services specified
+  by the Act of 1890 and by any other law involving such activities. Such
+  activities include spacecraft procurement, launch, and associated ground
+  station modifications for polar orbiting and geostationary environmental
+  satellite systems, as well as the operation of such satellites and land
+  remote-sensing satellites.
+  (2) Of the sums authorized under paragraph (1), $2,300,000 in fiscal year
+  1993 are authorized for the administration by the National Oceanic and
+  Atmospheric Administration of the ground stations for the Search and Rescue
+  Satellite Aided Tracking system. Such administration shall be carried out
+  in consultation with the Department of Transportation and the Department
+  of Defense.
+  (b) EMERGENCY CONTINGENCY FUND- There are authorized to be appropriated
+  to the Secretary of Commerce, $110,000,000 for fiscal year 1992, to
+  be deposited in an Emergency Weather Satellite Contingency Fund. Such
+  Fund shall be available subject to the restrictions of appropriations
+  Acts, without fiscal year limitation, to the Secretary only for the
+  purpose of enabling the National Oceanic and Atmospheric Administration
+  to maintain geostationary environmental satellite coverage for monitoring
+  and prediction of hurricanes and severe storms, including but not limited
+  to the procurement of gap filler satellites, launch vehicles, and payments
+  to foreign governments.
+  (c) STRATEGIC PLAN- (1) The Secretary of Commerce and the Administrator of
+  the National Aeronautics and Space Administration shall jointly develop
+  and, not more than 120 days after the date of enactment of this Act,
+  submit to the Committee on Commerce, Science, and Transportation of the
+  Senate and the Committee on Science, Space, and Technology of the House of
+  Representatives a strategic plan for development, procurement, and operation
+  of the environmental satellite program of the Department of Commerce.
+  (2) The objectives of the strategic plan shall be--
+  (A) to ensure continuous and adequate operational environmental satellite
+  coverage; and
+  (B) to require direct Federal fiscal and administrative accountability in
+  all aspects of such environmental satellite program.
+  (3) The strategic plan shall--
+  (A) delineate the management duties and functions of each Federal department
+  or agency involved in such satellite program;
+  (B) establish funding responsibilities for each Federal department or agency
+  in a manner which reflects their respective management duties and functions;
+  (C) set forth procedures to be followed in the development, procurement,
+  and operations of environmental satellites in such program;
+  (D) minimize the potential for developmental and procurement problems,
+  and for cost overruns;
+  (E) provide for effective interagency and international coordination;
+  (F) provide for research and development activities to ensure that the
+  procurement of operational environmental satellites relies on proven
+  technologies, and to investigate potential improvements in data applications
+  and operations for such satellites in order to improve the national weather
+  warning and forecast system; and
+  (G) specify legislative and administrative actions necessary to implement
+  the plan and to accomplish the objectives described in paragraph (2).
+  (d) GEOSTATIONARY SATELLITE COMPLETE PROGRAM AUTHORIZATION- (1) Except
+  as provided in paragraph (2), there are authorized to be appropriated to
+  the Secretary of Commerce for all fiscal years beginning with fiscal year
+  1993, not to exceed $1,005,255,000, to remain available until expended,
+  to complete the procurement of Geostationary Operational Environmental
+  Satellites I, J, K, L, and M, and the procurement of the launching and
+  supporting ground systems of such satellites.
+  (2) None of the funds are authorized to be appropriated for any fiscal year
+  under paragraph (1), unless, within 60 days after the submission of the
+  President's budget request for such fiscal year, the Secretary of Commerce--
+  (A) certifies to the Congress that--
+  (i) the results of testing indicate that the satellite instruments are
+  likely to meet the technical performance specifications included in the
+  satellite contract as in effect on October 1, 1992;
+  (ii) the procurements can be completed without requiring further
+  authorization of appropriations beyond amounts authorized under paragraph
+  (1); and
+  (iii) the Secretary foresees no gap in two-satellite service operations
+  resulting from non-performance of the satellite contract; or
+  (B) submits to the Congress a report which describes--
+  (i) the circumstances which prevent a certification under subparagraph (A);
+  (ii) remedial actions undertaken or to be undertaken with respect to such
+  circumstances;
+  (iii) the effects of such circumstances on the launch schedule and satellite
+  coverage; and
+  (iv) a justification for proceeding with the program, if appropriate.
+SEC. 106. DATA AND INFORMATION SYSTEMS.
+  (a) IN GENERAL- There are authorized to be appropriated to the Secretary of
+  Commerce, to enable the National Oceanic and Atmospheric Administration
+  to carry out its data and information services activities under law,
+  $32,628,000 for fiscal year 1992 and $39,596,000 for fiscal year 1993. Moneys
+  appropriated pursuant to this authorization shall be used to fund those
+  activities relating to data and information services specified by the Act
+  of 1890 and by any other law involving such activities. Such activities
+  include climate data services, ocean data services, geophysical data
+  services, and environmental assessment and information services.
+  (b) MODERNIZATION INITIATIVE- Of the sums authorized under subsection (a),
+  $10,000,000 in fiscal year 1992 and $15,000,000 in fiscal year 1993 are
+  authorized to be appropriated for the purpose of modernizing the data and
+  information systems of the National Oceanic and Atmospheric Administration
+  to meet increasing requirements for managing, archiving, and distributing
+  environmental data and information.
+  (c) NEEDS ASSESSMENT FOR DATA MANAGEMENT, ARCHIVAL, AND DISTRIBUTION-
+  (1) Not later than 12 months after the date of enactment of this Act and
+  at least biennially thereafter, the Secretary of Commerce shall complete an
+  assessment of the adequacy of the environmental data and information systems
+  of the National Oceanic and Atmospheric Administration. In conducting such
+  an assessment, the Secretary shall take into consideration the need to--
+  (A) provide adequate capacity to manage, archive, and disseminate
+  environmental data and information collected and processed, or expected
+  to be collected and processed, by the National Oceanic and Atmospheric
+  Administration and other appropriate departments and agencies;
+  (B) establish, develop, and maintain information bases, including necessary
+  management systems, which will promote consistent, efficient, and compatible
+  transfer and use of data;
+  (C) develop effective interfaces among the environmental data and information
+  systems of the National Oceanic and Atmospheric Administration and other
+  appropriate departments and agencies;
+  (D) develop and use nationally accepted formats and standards for data
+  collected by various national and international sources; and
+  (E) integrate and interpret data from different sources to produce
+  information that can be used by decisionmakers in developing policies that
+  effectively respond to national and global environmental concerns.
+  (2) Not later than 12 months after the date of enactment of this Act
+  and biennially thereafter, the Secretary of Commerce shall develop and
+  submit to the Committee on Commerce, Science, and Transportation of the
+  Senate and the Committee on Science, Space, and Technology of the House of
+  Representatives a comprehensive plan, based on the assessment under paragraph
+  (1), to modernize and improve the environmental data and information systems
+  of the National Oceanic and Atmospheric Administration. The report shall--
+  (A) set forth modernization and improvement objectives for the 10-year
+  period beginning with the year in which the plan is submitted, including
+  facility requirements and critical new technological components that would
+  be necessary to meet the objectives set forth;
+  (B) propose specific agency programs and activities for implementing
+  the plan;
+  (C) identify the data and information management, archival, and distribution
+  responsibilities of the National Oceanic and Atmospheric Administration
+  with respect to other Federal departments and agencies and international
+  organizations, including the role of the National Oceanic and Atmospheric
+  Administration with respect to large data systems like the Earth Observing
+  System Data and Information System; and
+  (D) provide an implementation schedule and estimate funding levels necessary
+  to achieve modernization and improvement objectives.
+SEC. 107. HURRICANE RECONNAISSANCE PROGRAM.
+  (a) ESTABLISHMENT OF PROGRAM- (1) The Secretary of Defense and the
+  Secretary of Commerce shall establish a 5-year joint program for collecting
+  operational and reconnaissance data, conducting research, and analyzing
+  data on tropical cyclones to assist the forecast and warning program and
+  increase the understanding of the causes and behavior of tropical cyclones.
+  (2) The Secretary of Commerce shall establish the Tropical Cyclone Research
+  Advisory Committee, an advisory committee of tropical cyclone research
+  scientists, to make recommendations for tropical cyclone research activities
+  and reconnaissance procedures.
+  (b) RESPONSIBILITIES- (1) The Secretary of Defense shall have the
+  responsibility for maintaining, flying, and funding tropical cyclone
+  reconnaissance aircraft to accomplish the program established under this
+  section and to transfer the data to the Secretary of Commerce. Program
+  responsibility may not be transferred to any other Federal department or
+  agency, including the Coast Guard, without the agreement and approval of the
+  Secretary of Defense, the Secretary of Commerce, and the head of any other
+  Federal agency or department to which the responsibility is transferred.
+  (2) The Secretary of Commerce shall have the responsibility to provide
+  funding for data gathering and research by remote sensing, ground sensing,
+  research aircraft, and other technologies necessary to accomplish the
+  program established under this section.
+  (c) MANAGEMENT PLANS- (1) The Secretary of Defense and the Secretary of
+  Commerce shall jointly develop and, within 120 days after the date of
+  enactment of this Act, submit to the Congress a management plan for the
+  program established under this section, which shall include organizational
+  structure, goals, major tasks, and funding profiles for the 5-year duration
+  of the program.
+  (2) The Secretary of Defense and the Secretary of Commerce, in consultation
+  with the Tropical Cyclone Research Advisory Committee established by section
+  107(a)(2), shall jointly develop and, within 4 years after the date of
+  enactment of this Act, submit to the Congress a management plan providing
+  for continued tropical cyclone surveillance and reconnaissance which will
+  adequately protect the citizens of the coastal areas of the United States.
+  (3) The management plans and programs required by this section shall in
+  every sense provide for at least the same degree and quality of protection
+  (such as early warning capability and accuracy of fixing a storm's location)
+  as currently exists with a combination of satellite technology and manned
+  reconnaissance flights. Additionally, such plans and programs shall in no way
+  allow any reduction in the level, quality, timeliness, sustainability, or
+  area served (including the State of Hawaii) of both the existing principal
+  and back-up tropical cyclone reconnaissance and tracking systems.
+SEC. 108. UNITED STATES WEATHER RESEARCH PROGRAM.
+  (a) ESTABLISHMENT- The Secretary of Commerce, in cooperation with the
+  Federal Coordinating Council for Science, Engineering, and Technology
+  through the Committee on Earth and Environmental Sciences, shall establish
+  a United States Weather Research Program to--
+  (1) increase benefits to the Nation from the substantial investment in
+  modernizing the public weather warning and forecast system in the United
+  States;
+  (2) improve local and regional weather forecasts and warnings;
+  (3) address critical weather-related scientific issues; and
+  (4) coordinate governmental, university, and private-sector efforts.
+  (b) IMPLEMENTATION PLAN- Not later than 90 days after the date of enactment
+  of this Act, the Secretary of Commerce, in cooperation with the Committee on
+  Earth and Environmental Sciences, shall prepare and submit to the Committee
+  on Commerce, Science, and Transportation of the Senate and the Committee on
+  Science, Space, and Technology of the House of Representatives a plan for
+  implementation of the United States Weather Research Program which shall--
+  (1) establish, for the 10-year period beginning in the year the plan is
+  submitted, the goals and priorities for Federal weather research which most
+  effectively advance the scientific understanding of weather processes and
+  provide information to improve weather warning and forecast systems in
+  the United States;
+  (2) describe specific activities, including research activities, data
+  collection and data analysis requirements, predictive modeling, participation
+  in international research efforts, demonstration of potential operational
+  forecast applications, and education and training required to achieve such
+  goals and priorities; and
+  (3) set forth the role of each Federal agency and department to be involved
+  in the United States Weather Research Program, identifying and addressing,
+  as appropriate, relevant programs and activities of the Federal agencies
+  and departments that would contribute to such Program.
+SEC. 109. WEATHER SERVICE OFFICE IN RENO, NEVADA.
+  (a) FACILITY ACQUISITION- The Administrator of the National Oceanic and
+  Atmospheric Administration is authorized--
+  (1) to construct, on approximately 10 acres of land to be leased from the
+  University of Nevada System, Desert Research Institute, or
+  (2) in the alternative, to acquire by lease construction on such land,
+  with a lease term of up to 30 years,
+a Weather Forecast Office, upper air facility, regional climate center, and
+associated instruments and site improvements as part of the implementation of
+the Next Generation Weather Radar and National Weather Service Modernization
+Program for the Reno, Nevada area. This authorization is subject to the
+availability of appropriations provided in advance for the purpose stated
+in paragraph (1) or (2).
+  (b) REIMBURSEMENT AUTHORITY- The Administrator is authorized to reimburse
+  the Desert Research Institute for the cost of providing utilities and
+  access to the site.
+  (c) OPERATIONS- The Administrator is authorized to carry out the operations
+  of the National Oceanic and Atmospheric Administration in such facility.
+SEC. 110. WEATHER SERVICE FACILITIES IN SOUTH FLORIDA.
+  (a) CONSTRUCTION OF FACILITY- The Administrator of the National Oceanic
+  and Atmospheric Administration is authorized to construct, on land to be
+  leased from Florida International University at the University's Tamiami
+  campus, a facility for the National Hurricane Center, a Weather Forecast
+  Office, an upper air facility, and associated site improvements as part
+  of the implementation of the Next Generation Weather Radar and National
+  Weather Service Modernization Program for the South Florida area. This
+  authorization is subject to the availability of appropriations provided
+  in advance for the purpose stated in this subsection.
+  (b) OPERATIONS- The Administrator is authorized to carry out the operations
+  of the National Oceanic and Atmospheric Administration in such facility.
+SEC. 111. WEATHER FORECAST OFFICE, HONOLULU.
+  (a) FACILITY ACQUISITION- (1) The Administrator of the National Oceanic and
+  Atmospheric Administration is authorized to lease building and associated
+  space from the University of Hawaii, Honolulu, for the operation of
+  a Weather Forecast Office, as part of the implementation of the Next
+  Generation Weather Radar and National Weather Service Modernization Program
+  for the State of Hawaii, for a term of up to 20 years. This authorization
+  is subject to the availability of appropriations provided in advance for
+  the purpose stated in this paragraph.
+  (2) Rental costs for the space leased under paragraph (1) shall not exceed
+  fair annual rental value as established by governmental appraisal.
+  (b) ALTERATIONS- The Administrator is authorized to expend funds to make
+  all necessary alterations to the space to allow for operation of a Weather
+  Forecast Office.
+  (c) OPERATIONS- The Administrator is authorized to carry out the operations
+  of the National Oceanic and Atmospheric Administration  in such facility.
+SEC. 112. INSTITUTE FOR AVIATION WEATHER PREDICTION.
+  The Administrator of the National Oceanic and Atmospheric Administration
+  shall establish an Institute for Aviation Weather Prediction. The Institute
+  shall provide forecasts, weather warnings, and other weather services to
+  the United States aviation community. The Institute shall expand upon the
+  activities of the aviation unit currently at the National Severe Storms
+  Forecast Center in Kansas City, Missouri, and shall be established in
+  the Kansas City, Missouri area. The Administrator shall provide a full
+  and fair opportunity for employees at the National Severe Storms Forecast
+  Center to assume comparable duties and responsibilities within the Institute.
+SEC. 113. WEATHER SERVICE OFFICE IN OKLAHOMA.
+  (a) FACILITY ACQUISITION- (1) The  Administrator of the National Oceanic and
+  Atmospheric Administration is authorized to lease building and associated
+  space to be constructed by the University of Oklahoma, Norman, for the
+  operation of the National Severe Storms Laboratory, Weather Forecast Office,
+  NEXRAD Operational Support Facility, and National Institute for Storm
+  Prediction as part of the implementation of the Next Generation Weather
+  Radar and National Weather Service Modernization Program, for a term
+  of up to 20 years. This authorization is subject to the availability of
+  appropriations provided in advance for the purpose stated in this paragraph.
+  (2) Rental costs for the space leased under paragraph (1) shall not exceed
+  fair annual rental value as established by governmental appraisal.
+  (b) ALTERATIONS- The  Administrator is authorized to expend funds to make
+  all necessary alterations to the space to allow for operations listed in
+  subsection (a)(1).
+  (c) OPERATIONS- The  Administrator is authorized to carry out the operations
+  of the National Oceanic and Atmospheric Administration  in such facility.
+SEC. 114. TRANSFER OF DATA ARCHIVING RESPONSIBILITY.
+  (a) FINDINGS- The Congress finds that--
+  (1) section 602 of the Land Remote-Sensing Commercialization Act of 1984
+  (15 U.S.C. 4272) directs the Secretary of Commerce to provide for the
+  archiving of land remote-sensing data for historical, scientific, and
+  technical purposes, including long-term global environmental monitoring;
+  (2) the Secretary of Commerce currently provides for the archiving
+  of Landsat data at the Department of the Interior's EROS Data Center,
+  which is consistent with the requirement of section 602(g) of such Act
+  (15 U.S.C. 4272(g)) to use existing Federal Government facilities to the
+  extent practicable in carrying out this archiving responsibility;
+  (3) the Landsat data collected since 1972 are an important global data
+  set for monitoring and assessing land resources and global change;
+  (4) the Secretary of the Interior maintains archives of aerial photography,
+  digital cartographic data, and other Earth science data at the EROS Data
+  Center that also are important data sets for monitoring and assessing land
+  resources and global change;
+  (5) it is appropriate to transfer authority to the Secretary of the Interior
+  for the archiving of land remote-sensing data; and
+  (6) the Secretary of the Interior should explore ways to facilitate the
+  use of archived data for research purposes consistent with other provisions
+  of the Land Remote-Sensing Commercialization Act of 1984.
+  (b) PROVISION OF UNENHANCED DATA- Section 402(b)(4) of the Land
+  Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4242(b)(4)) is
+  amended by inserting `of the Interior' immediately after `Secretary'.
+  (c) ARCHIVING OF DATA- Section 602 of the Land Remote-Sensing
+  Commercialization Act of 1984 (15 U.S.C. 4272) is amended--
+  (1) in subsections (b), (c), (d), (f), and (g), by inserting `of the
+  Interior' immediately after `Secretary' each place it appears; and
+  (2) by adding at the end the following new subsection:
+  `(h) in carrying out the functions of this section, the Secretary of
+  the Interior shall consult with the Secretary to ensure that archiving
+  activities are consistent with the terms and conditions of any contract
+  or agreement entered into under title II, III, or V of this Act and with
+  any license issued under title IV of this Act.'.
+SEC. 115. WEATHER OFFICE IN EUREKA, CALIFORNIA.
+  Notwithstanding any other law, any property and improvements to that property
+  located on Woodley Island in the city of Eureka, California, that are--
+  (1) acquired by the Secretary of Commerce from Humboldt Bay Harbor Recreation
+  and Conservation District, California, for use as a weather forecasting
+  office; and
+  (2) determined by the Secretary to be excess property,
+shall revert to that district.
+SEC. 116. REPORT ON SATELLITE OCEANOGRAPHY.
+  (a) IN GENERAL- The Federal Coordinating Council for Science, Engineering,
+  and Technology through the Committee on Earth and Environmental Sciences, in
+  consultation with Federal, academic, and commercial users of remotely sensed
+  data, shall consider and develop findings and recommendations regarding--
+  (1) the most urgent current needs of oceanographic researchers within the
+  Federal Government, the academic community, and the private sector, for
+  remote sensing capabilities and remotely sensed data, including findings
+  regarding the present inadequacies in these capabilities and data; and
+  (2) the major goals of satellite oceanography for the next 10 years.
+  (b) REPORT- Not later than one year after the date of enactment of this Act,
+  the Federal Coordinating Council for Science, Engineering, and Technology
+  shall submit to the Congress a report which describes the findings and
+  recommendations of the Committee on Earth and Environmental Sciences,
+  including recommendations for, or a description of actions to be taken
+  toward--
+  (1) correcting the inadequacies in remote sensing capabilities;
+  (2) improving the availability of remotely sensed data; and
+  (3) achieving the major goals of satellite oceanography developed pursuant
+  to subsection (a)(2).
+TITLE II--NOAA OCEAN AND COASTAL PROGRAMS
+SEC. 201. NATIONAL OCEAN SERVICE.
+  (a) MAPPING, CHARTING, AND GEODESY- There are authorized to be appropriated
+  to the Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out mapping, charting, and geodesy activities
+  (including geodetic data collection and analysis) under the Act of 1947
+  and any other law involving those activities, $50,917,000 for fiscal year
+  1992 and $51,087,000 for fiscal year 1993.
+  (b) OBSERVATION AND ASSESSMENT- There are authorized to be appropriated to
+  the Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out observation and assessment activities--
+  (1) under the Act of 1947 and any other law involving those activities,
+  $57,273,000 for fiscal year 1992 and $57,273,000 for fiscal year 1993; and
+  (2) under title II of the Marine Protection, Research, and Sanctuaries
+  Act of 1972 (33 U.S.C. 1441 et seq.), $11,000,000 for fiscal year 1992
+  and $11,000,000 for fiscal year 1993.
+  (c) COASTAL OCEAN PROGRAM- Of the sums authorized under subsection
+  (b)(1), $17,352,000 for each of the fiscal years 1992 and 1993 are
+  authorized to be appropriated for the purposes of conducting a Coastal
+  Ocean Program. Such program shall augment and integrate existing programs
+  of the National Oceanic and Atmospheric Administration and shall include
+  efforts to improve predictions of fish stocks, to better conserve and
+  manage living marine resources, to improve predictions of coastal ocean
+  pollution to help correct and prevent degradation of the ocean environment,
+  to promote development of ocean technology to support the effort of science
+  to understand and characterize the role oceans play in global climate and
+  environmental analysis, and to improve predictions of coastal hazards to
+  protect human life and personal property.
+  (d) LONG ISLAND SOUND CIRCULATION MODEL- No moneys appropriated pursuant
+  to the authorizations in this Act shall be used to conduct analyses of
+  samples collected under the National Status and Trends Program until the
+  Policy Committee of the Long Island Sound Study certifies that the National
+  Oceanic and Atmospheric Administration has completed the water circulation
+  model for Long Island Sound.
+  (e) CIRCULATION MODEL FUNDING- Of the sums authorized under subsection
+  (b) for fiscal year 1992, $600,000 is available for completion of the
+  water circulation model for Long Island Sound and $400,000 is available
+  for National Status and Trends Program stations in Long Island Sound.
+  (f) OCEAN MANAGEMENT- There are authorized to be appropriated to the
+  Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out ocean management activities, $1,678,000 for
+  fiscal year 1992 and $1,823,000 for fiscal year 1993.
+SEC. 202. OCEAN AND GREAT LAKES RESEARCH.
+  (a) OCEAN AND GREAT LAKES RESEARCH AUTHORIZATION- There are authorized
+  to be appropriated to the Secretary of Commerce, to enable the National
+  Oceanic and Atmospheric Administration to carry out ocean and Great Lakes
+  research activities under the Act of 1947, the Act of 1890, and any other
+  law involving those activities, $32,171,000 for fiscal year 1992 and
+  $39,800,000 for fiscal year 1993.
+  (b) COOPERATIVE INSTITUTE FOR LIMNOLOGY AND ECOSYSTEMS RESEARCH- In
+  addition to amounts authorized under subsection (a), there are authorized
+  to be appropriated to the Office of Oceanic and Atmospheric Research of the
+  National Oceanic and Atmospheric Administration $250,000 for fiscal year 1992
+  and $260,000 for fiscal year 1993, for use by the Cooperative Institute for
+  Limnology and Ecosystems Research (established in partnership with the State
+  of Michigan and the Great Lakes Environmental Research Laboratory) for--
+  (1) research conducted by the Institute;
+  (2) development of the Institute; and
+  (3) for preparation of a five-year plan for research and development.
+  (c) LARGE LAKES RESEARCH- (1) In addition to amounts authorized under
+  subsections (a) and (b), there are authorized to be appropriated to the
+  Secretary of Commerce for use by the Office of Oceanic and Atmospheric
+  Research $2,000,000 for fiscal year 1992 and $2,080,000 for fiscal year
+  1993 for use for preparing a plan for large lakes research.
+  (2) Amounts appropriated under this subsection may be used for--
+  (A) preparation of a 5-year plan designating large lake study sites,
+  research activities, and anticipated research products; and
+  (B) collection of physical, chemical, and biological data required for
+  preparing that plan.
+  (3) Activities conducted with amounts appropriated under this subsection
+  shall be coordinated through the Great Lakes Environmental Research
+  Laboratory, working in association with the Cooperative Institute for
+  Limnology and Ecosystems Research and the National Undersea Research Program.
+SEC. 203. AQUATIC NUISANCE PREVENTION AND CONTROL PROGRAM.
+  (a) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  to the Secretary of Commerce $11,000,000 for fiscal year 1992 and $11,440,000
+  for fiscal year 1993 for use in implementing the Nonindigenous Aquatic
+  Nuisance Prevention and Control Act of 1990 (Public Law 101-646).
+  (b) REPORT- Not later than one year after the date of the enactment of this
+  Act, the Secretary of Commerce shall submit a report to the Congress on
+  progress toward establishing a nonindigenous aquatic nuisance prevention and
+  control program within the National Oceanic and Atmospheric Administration
+  and projected funding for such a program for the following five fiscal years.
+SEC. 204. REPEAL OF NATIONAL OCEAN POLLUTION PLANNING ACT OF 1978.
+  The National Ocean Pollution Planning Act of 1978 (33 U.S.C. 1701-1709)
+  is repealed.
+SEC. 205. NOAA OIL AND HAZARDOUS SUBSTANCE SPILL COST REIMBURSEMENT.
+  (a) TREATMENT OF AMOUNTS RECEIVED AS REIMBURSEMENT OF EXPENSES-
+  Notwithstanding any other provision of law, amounts received by the
+  United States as reimbursement of expenses related to oil or hazardous
+  substance spill response activities, or natural resource damage assessment,
+  restoration, rehabilitation, replacement, or acquisition activities,
+  conducted (or to be conducted) by the National Oceanic and Atmospheric
+  Administration--
+  (1) shall be deposited into the Fund;
+  (2) shall be available, without fiscal year limitation and without
+  apportionment, for use in accordance with the law under which the activities
+  are conducted; and
+  (3) shall not be considered to be an augmentation of appropriations.
+  (b) APPLICATION- Subsection (a) shall apply to amounts described in
+  subsection (a) that are received--
+  (1) after the date of the enactment of this Act; or
+  (2) with respect to the oil spill associated with the grounding of the
+  EXXON VALDEZ.
+  (c) DEFINITIONS- For purposes of this section--
+  (1) the term `Fund' means the Damage Assessment and Restoration Revolving
+  Fund of the National Oceanic and Atmospheric Administration referred to
+  in title I of Public Law 101-515 under the heading `National Oceanic and
+  Atmospheric Administration' (104 Stat. 2105); and
+  (2) the term `expenses' includes incremental and base salaries, ships,
+  aircraft, and associated indirect costs, except the term does not include
+  base salaries and benefits of National Oceanic and Atmospheric Administration
+  Support Coordinators.
+TITLE III--NOAA MARINE FISHERY PROGRAMS
+SEC 301. AUTHORIZATION OF APPROPRIATIONS.
+  The National Oceanic and Atmospheric Administration Marine Fisheries
+  Program Authorization Act (Public Law 98-210; 97 Stat. 1409) is amended--
+  (1) in section 2(a) by striking `$26,500,000' and all that follows through
+  `fiscal year 1989' and inserting in lieu thereof `$47,933,000 for fiscal
+  year 1992 and $59,162,000 for fiscal year 1993';
+  (2) in section 3(a) by striking `$35,000,000' the first time it appears and
+  all that follows through `fiscal year 1989' and inserting in lieu thereof
+  `$27,290,000 for fiscal year 1992 and $35,594,000 for fiscal year 1993'; and
+  (3) in section 4(a) by striking `$10,000,000' and all that follows through
+  `fiscal year 1989' and inserting in lieu thereof `$12,182,000 for fiscal
+  year 1992 and $18,838,000 for fiscal year 1993'.
+SEC. 302. DEVELOPMENT OF DOLPHIN-SAFE METHODS OF TUNA FISHING.
+  Section 2 of the National Oceanic and Atmospheric Administration Marine
+  Fisheries Program Authorization Act (Public Law 98-210; 97 Stat. 1409)
+  is amended by adding at the end the following new subsection:
+  `(d) Of the sums authorized under subsection (a) of this section,
+  $1,000,000 for each of the fiscal years 1992 and 1993 are authorized to
+  be appropriated for the purpose of developing dolphin-safe methods of
+  locating and catching yellowfin tuna. Such authorization shall be in
+  addition to moneys authorized under section 7 of the Act entitled `An
+  Act to improve the operation of the Marine Mammal Protection Act of 1972,
+  and for other purposes', approved October 9, 1981 (16 U.S.C. 1384). Within
+  six months after the date of enactment of this subsection, the Secretary,
+  in cooperation with the Inter-American Tropical Tuna Commission and after
+  consultation with interested persons, shall publish a program plan for
+  public comment that shall provide for--
+  `(1) cooperative research to improve understanding of the behavioral
+  association of dolphins and yellowfin tuna in the eastern tropical Pacific
+  Ocean;
+  `(2) development, testing, and implementation of new methods of locating
+  and catching yellowfin tuna without the incidental taking of dolphins; and
+  `(3) appropriate measures to ensure program participation and sharing of
+  associated costs by each foreign government that conducts, or authorizes
+  its nationals to conduct, yellowfin tuna fishing in the eastern tropical
+  Pacific Ocean.'.
+SEC. 303. FISHERIES RESEARCH.
+  Section 304(e) of the Magnuson Fishery Conservation and Management Act (16
+  U.S.C. 1854(e)) is amended by redesignating paragraphs (1), (2), and (3),
+  and any reference thereto, as paragraphs (2), (3), and (4), respectively,
+  and by inserting immediately after `FISHERIES RESEARCH- ' the following:
+  `(1) The Secretary shall initiate and maintain, in cooperation with the
+  Councils, a comprehensive program of fishery research to carry out and
+  further the purposes, policy, and provisions of this Act. Such program shall
+  be designed to acquire knowledge and information, including statistics, on
+  fishery conservation and management and on the economics of the fisheries.'.
+SEC 304. FISHERY FACILITIES.
+  Section 1101(k) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271(k)),
+  is amended--
+  (1) by striking `or' at the end of paragraph (1);
+  (2) by adding `or' at the end of paragraph (2); and
+  (3) by inserting immediately after paragraph (2) the following new paragraph:
+  `(3) for aquaculture, including operations on land or elsewhere--
+  `(A) any structure or appurtenance thereto designed for aquaculture;
+  `(B) the land necessary for any such structure or appurtenance described
+  in subparagraph (A);
+  `(C) equipment which is for use in connection with any such structure or
+  appurtenance and which is necessary for the performance of any function
+  referred to in subparagraph (A); and
+  `(D) any vessel built in the United States used for, equipped to be used
+  for, or of a type which is normally used for aquaculture;'.
+SEC. 305. STUDY OF JOINT ENFORCEMENT OF FISHERIES REGULATIONS.
+  Not later than 4 months after the date of enactment of this Act, the
+  Secretary of Transportation and the Secretary of Commerce shall submit to
+  the Committee on Commerce, Science, and Transportation of the Senate and the
+  Committee on Merchant Marine and Fisheries of the House of Representatives
+  a joint report describing methods by which Coast Guard enforcement efforts
+  in the western Pacific Ocean under the Magnuson Fishery Conservation and
+  Management Act (16 U.S.C. 1801 et seq.) may be enhanced and coordinated
+  with those of the National Oceanic and Atmospheric Administration. The
+  report shall--
+  (1) evaluate the ability of the Coast Guard to address key enforcement
+  problems, which the Secretary of Commerce shall identify, for the western
+  Pacific Ocean, particularly in the exclusive economic zone adjacent to
+  the Hawaiian Islands, the Northern Mariana Islands, and the territories
+  and possessions of the United States;
+  (2) propose procedures by which the Coast Guard and the National Oceanic
+  and Atmospheric Administration may coordinate their efforts to improve
+  and maximize effective enforcement of fisheries regulations, including but
+  not limited to the chartering of light aircraft for fisheries surveillance
+  and enforcement; and
+  (3) recommend appropriate levels of Coast Guard participation in such
+  efforts.
+SEC. 306. STUDY ON EFFECTS OF DOLPHIN FEEDING.
+  (a) STUDY- The Secretary of Commerce shall conduct a study in the eastern
+  Gulf of Mexico on the effects of feeding of noncaptive dolphins by human
+  beings. The study conducted pursuant to this section shall be designed to
+  detect any behavior or diet modification resulting from this feeding and
+  to identify the effects, if any, of these modifications on the health and
+  well-being of the dolphins.
+  (b) EXTERNAL REVIEW- In design and conduct of the study required under
+  subsection (a), the Secretary shall consult with the National Academy of
+  Sciences and the Marine Mammal Commission.
+  (c) REPORT- Within 18 months after the date of the enactment of this
+  Act, the Secretary shall submit to the Committee on Merchant Marine and
+  Fisheries of the House of Representatives and the Committee on Commerce,
+  Science, and Transportation of the Senate a report on the results of the
+  study conducted pursuant to subsection (a).
+SEC. 307. CHESAPEAKE BAY ESTUARINE RESOURCES OFFICE.
+  (a) ESTABLISHMENT- (1) The Secretary of Commerce shall establish, within
+  the National Oceanic and Atmospheric Administration, an office to be known
+  as the Chesapeake Bay Estuarine Resources Office (hereinafter referred to
+  as the `Office').
+  (2) The Office shall be headed by a Director who shall be appointed by the
+  Secretary of Commerce, in consultation with the Chesapeake Bay Executive
+  Council. Any individual appointed as Director shall have knowledge and
+  experience in research or resource management efforts in the Chesapeake Bay.
+  (3) The Director may appoint such additional personnel for the Office as
+  the Director determines necessary to carry out this section.
+  (b) FUNCTIONS- The Office, in consultation with the Chesapeake Bay Executive
+  Council, shall--
+  (1) provide technical assistance to the Administrator, to other Federal
+  departments and agencies, and to State and local government agencies in--
+  (A) assessing the processes that shape the Chesapeake Bay system and affect
+  its living resources;
+  (B) identifying technical and management alternatives for the restoration
+  and protection of living resources and the habitats they depend upon; and
+  (C) monitoring the implementation and effectiveness of management plans;
+  (2) develop and implement a strategy for the National Oceanic and
+  Atmospheric Administration that integrates the science, research,
+  monitoring, data collection, regulatory, and management responsibilities of
+  the Secretary of Commerce in such a manner as to assist the cooperative,
+  intergovernmental Chesapeake Bay Program to meet the commitments of the
+  Chesapeake Bay Agreement;
+  (3) coordinate the programs and activities of the various organizations
+  within the National Oceanic and Atmospheric Administration and the
+  Chesapeake Bay Regional Sea Grant Programs (including programs and
+  activities in coastal and estuarine research, monitoring, and assessment;
+  fisheries research and stock assessments; data management; remote sensing;
+  coastal management; and habitat conservation);
+  (4) coordinate the activities of the National Oceanic and Atmospheric
+  Administration with the activities of the Environmental Protection Agency
+  and other Federal, State, and local agencies;
+  (5) establish an effective mechanism which shall ensure that projects have
+  undergone appropriate peer review and provide other appropriate means to
+  determine that projects have acceptable scientific and technical merit
+  for the purpose of achieving maximum utilization of available funds and
+  resources to benefit the Chesapeake Bay area;
+  (6) remain cognizant of ongoing research, monitoring, and management
+  projects and assist in the dissemination of the results and findings of
+  those projects; and
+  (7) submit a biennial report to the Congress and the Secretary of Commerce
+  with respect to the activities of the Office and on the progress made
+  in protecting and restoring the living resources and habitat of the
+  Chesapeake Bay.
+  (c) BUDGET LINE ITEM- The Secretary of Commerce shall identify, in the
+  President's annual budget to the Congress, the funding request for the
+  Office.
+  (d) AUTHORIZATION OF APPROPRIATIONS- Section 2 of the National Oceanic
+  and Atmospheric Administration Marine Fisheries Program Authorization Act
+  (Public Law 98-210; 97 Stat. 1409), as amended by section 302 of this Act,
+  is further amended by adding at the end the following new subsection:
+  `(e) Of the sums authorized under subsection (a) of this section, no
+  more than $2,500,000 are authorized to be appropriated for each of the
+  fiscal years 1992 and 1993 to enable the National Oceanic and Atmospheric
+  Administration to establish the Chesapeake Bay Estuarine Resources Office
+  under section 306 of the National Oceanic and Atmospheric Administration
+  Authorization Act of 1991. No more than 20 percent of the amount appropriated
+  under the authorization in this subsection shall be used for administrative
+  purposes.'.
+  (e) CHESAPEAKE EXECUTIVE COUNCIL- For purposes of this section, `Chesapeake
+  Executive Council' means the representatives from the Commonwealth
+  of Virginia, the State of Maryland, the Commonwealth of Pennsylvania,
+  the Environmental Protection Agency, the District of Columbia, and the
+  Chesapeake Bay Commission, who are signatories to the Chesapeake Bay
+  Agreement, and any future signatories to that Agreement.
+SEC. 308. NATIONAL SHELLFISH INDICATOR PROGRAM.
+  (a) ESTABLISHMENT OF A RESEARCH PROGRAM- The Secretary of Commerce,
+  in cooperation with the Secretary of Health and Human Services and the
+  Administrator of the Environmental Protection Agency, shall establish
+  and administer a 5-year national shellfish research program (hereafter in
+  this section referred to as the `Program') for the purpose of improving
+  existing classification systems for shellfish growing waters using the
+  latest technological advancements in microbiology and epidemiological
+  methods. Within 12 months after the date of enactment of this Act, the
+  Secretary of Commerce, in cooperation with the advisory committee established
+  under subsection (b) and the Consortium, shall develop a comprehensive
+  5-year plan for the Program which shall at a minimum provide for--
+  (1) an environmental assessment of commercial shellfish growing areas in
+  the United States, including an evaluation of the relationships between
+  indicators of fecal contamination and human enteric pathogens;
+  (2) the evaluation of such relationships with respect to potential health
+  hazards associated with human consumption of shellfish;
+  (3) a comparison of the current microbiological methods used for evaluating
+  indicator bacteria and human enteric pathogens in shellfish and shellfish
+  growing waters with new technological methods designed for this purpose;
+  (4) the evaluation of current and projected systems for human sewage
+  treatment in eliminating viruses and other human enteric pathogens which
+  accumulate in shellfish;
+  (5) the design of epidemiological studies to relate microbiological data,
+  sanitary survey data, and human shellfish consumption data to actual
+  hazards to health associated with such consumption; and
+  (6) recommendations for revising Federal shellfish standards and improving
+  the capabilities of Federal and State agencies to effectively manage
+  shellfish and ensure the safety of shellfish intended for human consumption.
+  (b) ADVISORY COMMITTEE- (1) For the purpose of providing oversight of
+  the Program on a continuing basis, an advisory committee (hereafter in
+  this section referred to as the `Committee') shall be established under
+  a memorandum of understanding between the Interstate Shellfish Sanitation
+  Conference and the National Marine Fisheries Service.
+  (2) The Committee shall--
+  (A) identify priorities for achieving the purpose of the Program;
+  (B) review and recommend approval or disapproval of Program work plans
+  and plans of operation;
+  (C) review and comment on all subcontracts and grants to be awarded under
+  the Program;
+  (D) receive and review progress reports from the Consortium and program
+  subcontractors and grantees; and
+  (E) provide such other advice on the Program as is appropriate.
+  (3) The Committee shall consist of at least ten members and shall include--
+  (A) three members representing agencies having authority under State law
+  to regulate the shellfish industry, of whom one shall represent each of
+  the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
+  (B) three members representing persons engaged in the shellfish industry
+  in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who
+  shall be appointed from among at least six recommendations by the industry
+  members of the Interstate Shellfish Sanitation Conference Executive Board),
+  of whom one shall represent the shellfish industry in each region;
+  (C) three members, of whom one shall represent each of the following
+  Federal agencies: the National Oceanic and Atmospheric Administration, the
+  Environmental Protection Agency, and the Food and Drug Administration; and
+  (D) one member representing the Shellfish Institute of North America.
+  (4) The Chairman of the Committee shall be selected from among the Committee
+  members described in paragraph (3)(A).
+  (5) The Committee shall establish and maintain a subcommittee of scientific
+  experts to provide advice, assistance, and information relevant to research
+  funded under the Program, except that no individual who is awarded, or whose
+  application is being considered for, a grant or subcontract under the Program
+  may serve on such subcommittee. The membership of the subcommittee shall,
+  to the extent practicable, be regionally balanced with experts who have
+  scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of
+  Mexico shellfish growing regions. Scientists from the National Academy of
+  Sciences and appropriate Federal agencies (including the National Oceanic
+  and Atmospheric Administration, Food and Drug Administration, Centers for
+  Disease Control, National Institutes of Health, Environmental Protection
+  Agency, and National Science Foundation) shall be considered for membership
+  on the subcommittee.
+  (6) Members of the Committee and its scientific subcommittee established
+  under this subsection shall not be paid for serving on the Committee or
+  subcommittee, but shall receive travel expenses as authorized by section
+  5703 of title 5, United States Code.
+  (c) CONTRACT WITH CONSORTIUM- Within 30 days after the date of enactment of
+  this Act, the Secretary of Commerce shall seek to enter into a cooperative
+  agreement or contract with the Consortium under which the Consortium will--
+  (1) be the academic administrative organization and fiscal agent for
+  the Program;
+  (2) award and administer such grants and subcontracts as are approved by
+  the Committee under subsection (b);
+  (3) develop and implement a scientific peer review process for evaluating
+  grant and subcontractor applications prior to review by the Committee;
+  (4) in cooperation with the Secretary of Commerce and the Committee,
+  procure the services of a scientific project director;
+  (5) develop and submit budgets, progress reports, work plans, and plans of
+  operation for the Program to the Secretary of Commerce and the Committee; and
+  (6) make available to the Committee such staff, information, and assistance
+  as the Committee may reasonably require to carry out its activities.
+  (d) REPORTING REQUIREMENTS- Within 3 months after the date of enactment of
+  this Act and within each of the next three consecutive 3-month intervals,
+  the Secretary of Commerce shall provide Congress with written assessments
+  of Federal efforts to implement this section. In addition, the Secretary
+  of Commerce shall submit an annual report to Congress on the Program,
+  including a description of the research funded under the Program and the
+  results of such research.
+  (e) AUTHORIZATION OF APPROPRIATIONS- (1) Of the sums authorized under section
+  4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries
+  Program Authorization Act (Public Law 98-210; 97 Stat. 1409), there are
+  authorized to be appropriated to the Secretary of Commerce $5,200,000 for
+  each of the fiscal years 1993 through 1997 for carrying out the Program. Of
+  the amounts appropriated pursuant to this authorization, not more than
+  5 percent of such appropriation  may be used for administrative purposes
+  by the National Oceanic and Atmospheric Administration. The remaining 95
+  percent of such appropriation shall be used to meet the administrative
+  and scientific objectives of the Program.
+  (2) The Interstate Shellfish Sanitation Conference shall not administer
+  appropriations authorized under this section, but may be reimbursed from
+  such appropriations for its expenses in arranging for travel, meetings,
+  workshops, or conferences necessary to carry out the Program.
+  (f) DEFINITIONS- As used in this section, the term--
+  (1) `Consortium' means the Louisiana Universities Marine Consortium; and
+  (2) `shellfish' means any species of oyster, clam, or mussel that is
+  harvested for human consumption.
+SEC. 309. COOPERATIVE INSTITUTE OF FISHERIES OCEANOGRAPHY.
+  The Secretary of Commerce shall acquire on a long-term basis from the
+  Administrator of General Services space on Pivers Island in Beaufort, North
+  Carolina, that is needed to implement the memorandum of understanding of
+  March 2, 1989, between the National Oceanic and Atmospheric Administration,
+  Duke University, and the University of North Carolina establishing the
+  Cooperative Institute of Fisheries Oceanography. This section shall not
+  apply if the annual cost of leasing the required space exceeds $2,000,000.
+SEC. 310. UNITED STATES GULF OF MEXICO AND SOUTH ATLANTIC SHRIMP FISHERY STUDY.
+  (a) STUDY- (1) The Secretary of Commerce shall conduct a comprehensive
+  economic study to provide baseline information to guide policy decisions on
+  the future of the United States Gulf of Mexico and South Atlantic shrimp
+  fishery. Funds shall only be expended under the terms of paragraph (2)
+  of this section.
+  (2) The study shall--
+  (A) gather information as to the extent to which governmental and economic
+  factors have affected or may affect the United States Gulf of Mexico and
+  South Atlantic shrimp fishery;
+  (B) attempt to expand available historical data through survey contacts
+  and cooperation with the industry; and
+  (C) incorporate the results of the studies on the United States Gulf of
+  Mexico and South Atlantic shrimp fishery that are underway or completed
+  on the date this section is effective.
+  (b) REPORT- The Secretary of Commerce shall submit a report to Congress
+  detailing the results of this study no later than October 1, 1993.
+  (c) AUTHORIZATION- There is authorized to be appropriated to carry out
+  the provisions of this section $1,000,000 for fiscal year 1993. None
+  of the funds authorized under section 304(g) of the Magnuson Fishery
+  Conservation and Management Act (16 U.S.C. 1854(g)) may be used to carry
+  out the provisions of this section.
+SEC. 311. REPORT ON SATELLITE CAPABILITIES FOR FISHERIES ENFORCEMENT.
+  (a) IN GENERAL- Not later than six months after the date of the enactment
+  of this Act, the Secretary of Commerce, in consultation with the heads
+  of other Federal agencies, shall prepare and submit to the Committee
+  on Merchant Marine and Fisheries of the House of Representatives and
+  the Committee on Commerce, Science, and Transportation of the Senate, a
+  report describing how current and planned satellite capabilities of the
+  Federal Government can aid in the enforcement of Federal fisheries laws
+  and international fisheries conservation programs.
+  (b) REPORT CONTENTS- The report under subsection (a) shall include
+  consideration of--
+  (1) active, transponder-based systems and passive, vessel signature-based
+  technologies capable of localizing or identifying individual vessels
+  without the use of vessel-carried transmitters;
+  (2) the resolution, coverage periods, and all-weather effectiveness of each
+  technology and the real-time data delivery capacity of the various systems;
+  (3) a description of the technological requirements (including data
+  processing and transfer procedures) and institutional requirements necessary
+  to transfer satellite data to end users for management and enforcement
+  purposes; and
+  (4) the status of foreign civil satellites and the feasibility of their
+  application to international vessel location and monitoring.
+SEC. 312. DEMONSTRATION PROJECT FOR SEAFOOD HANDLING TRAINING AND EDUCATION.
+  (a) GRANTS- The Secretary of Commerce may make annual grants to the City
+  of San Francisco and the Port of San Francisco for each of the fiscal
+  years 1992 and 1993 for a joint project at the San Francisco Wharf to
+  demonstrate safe seafood handling and to conduct seafood education programs.
+  (b) AUTHORIZATION OF APPROPRIATIONS- For grants under this section, there
+  are authorized to be appropriated to the Secretary of Commerce--
+  (1) $250,000 for fiscal year 1992; and
+  (2) $350,000 for fiscal year 1993.
+Such funds shall remain available until expended.
+SEC. 313. BOWHEAD WHALE STUDY.
+  Notwithstanding any other provision of law, the Department of Commerce
+  and the Department of the Interior are authorized to pay as appropriate,
+  $48,464, plus interest since June 6, 1988, to reimburse any unpaid costs
+  incurred in the research and preparation of a paper entitled `Quantification
+  of Subsistence and Cultural Need for Bowhead Whales by Alaska Eskimos',
+  which was presented by the United States to the 40th Annual Meeting of
+  the International Whaling Commission.
+SEC. 314. FISHERIES RESEARCH CENTER.
+  The Secretary of Commerce, through the Under Secretary of Commerce for Oceans
+  and Atmosphere, is authorized to construct a building, on approximately 15
+  acres of land to be leased from the University of Southwest Louisiana for
+  a 99-year term. This section shall not apply if the annual cost of leasing
+  the required land exceeds one dollar. This authorization is subject to the
+  availability of appropriations provided in advance for the purpose stated
+  in this section.
+SEC. 315. PASCAGOULA LABORATORY WAREHOUSE FACILITIES.
+  Due to the logistical crisis at the National Marine Fisheries Service
+  Laboratory at Pascagoula, Mississippi, the Administrator of the National
+  Oceanic and Atmospheric Administration should give immediate consideration
+  to upgrading dock and warehouse support facilities at such Laboratory in
+  fiscal year 1993.
+TITLE IV--ADMINISTRATION AND OTHER ACCOUNTS
+SEC. 401. PROGRAM SUPPORT.
+  (a) EXECUTIVE DIRECTION AND ADMINISTRATIVE ACTIVITIES- There are authorized
+  to be appropriated to the Secretary of Commerce, to enable the National
+  Oceanic and Atmospheric Administration to carry out executive direction
+  and administrative activities (including management, administrative
+  support, provision of retired pay of National Oceanic and Atmospheric
+  Administration commissioned officers, and policy development) under the
+  Act entitled `An Act to clarify the status and benefits of commissioned
+  officers of the National Oceanic and Atmospheric Administration, and for
+  other purposes', approved December 31, 1970 (33 U.S.C. 857-1 et seq.),
+  and any other law involving those activities, $68,460,000 for fiscal year
+  1992 and $75,750,000 for fiscal year 1993.
+  (b) MARINE SERVICES- (1) There are authorized to be appropriated to the
+  Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out marine services activities (including ship
+  operations, maintenance, and support) under the Act of 1947 and any other
+  law involving those activities, $63,407,000 for fiscal year 1992 and
+  $68,518,000 for fiscal year 1993.
+  (2) There are authorized to be appropriated to the Secretary of Commerce,
+  to enable the National Oceanic and Atmospheric Administration to acquire
+  a multibeam sonar mapper, $1,500,000 for fiscal year 1993.
+  (3) In addition to sums authorized in paragraphs (1) and (2), there are
+  authorized to be appropriated to the Secretary of Commerce $1,040,000 for
+  fiscal year 1993 for the reactivation and operation of the research vessle
+  ALBATROSS IV.
+  (4)(A) Unless necessary for safety reasons, the Secretary of Commerce
+  shall not deactivate the ALBATROSS IV (if active), until an equivalent
+  replacement vessel is operational.
+  (B) The Secretary of Commerce shall notify the Committee on Commerce,
+  Science, and Transportation of the Senate and the Committee on Merchant
+  Marine and Fisheries of the House of Representatives 60 days prior to the
+  proposed deactivation of any other research vessel of the National Oceanic
+  and Atmospheric Administration, if an equivalent replacement vessel will
+  not become operational at the time of deactivation.
+  (5) The Secretary of Commerce shall consult with the Oceanographer of
+  the Navy regarding appropriate cost effective and practical measures to
+  allow vessels of the National Oceanic and Atmospheric Administration to
+  be interoperable with vessels of the Department of the Navy, including
+  with respect to operation, maintenance, and repair of those vessels.
+  (c) AIRCRAFT SERVICES- There are authorized to be appropriated to the
+  Secretary of Commerce, to enable the National Oceanic and Atmospheric
+  Administration to carry out aircraft services activities (including
+  aircraft operations, maintenance, and support) under the Act of 1890 and
+  any other law involving those activities, $8,865,000 for fiscal year 1992
+  and $10,336,000 for fiscal year 1993.
+SEC. 402. CONSTRUCTION.
+  There are authorized to be appropriated to the Secretary of Commerce, for
+  acquisition, construction, maintenance, and operation of facilities of the
+  National Oceanic and Atmospheric Administration under any law involving
+  those activities, $34,917,000 for fiscal year 1992 and $94,500,000 for
+  fiscal year 1993.
+SEC. 403. NOTICE OF REPROGRAMMING.
+  (a) IN GENERAL- The Secretary of Commerce shall provide notice to the
+  Committee on Commerce, Science, and Transportation and Committee on
+  Appropriations of the Senate and to the Committee on Merchant Marine and
+  Fisheries, Committee on Science, Space, and Technology, and Committee on
+  Appropriations of the House of Representatives, not less than 15 days before
+  reprogramming funds available for a program, project, or activity of the
+  National Oceanic and Atmospheric Administration in an amount greater than
+  the lesser of $250,000 or 5 percent of the total funding of such program,
+  project, or activity if the reprogramming--
+  (1) augments an existing program, project, or activity;
+  (2) reduces by 5 percent or more (A) the funding for an existing program,
+  project, or activity or (B) the numbers of personnel therefor as approved
+  by Congress; or
+  (3) results from any general savings from a reduction in personnel which
+  would result in a change in an existing program, project, or activity.
+  (b) NOTICE OF REORGANIZATION- The Secretary of Commerce shall provide
+  notice to the Committees on Merchant Marine and Fisheries, Science, Space,
+  and Technology, and Appropriations of the House of Representatives, and the
+  Committees on Commerce, Science, and Transportation and Appropriations of the
+  Senate not later than 15 days before any major reorganization of any program,
+  project, or activity of the National Oceanic and Atmospheric Administration.
+SEC. 404. FINANCIAL ASSISTANCE.
+  (a) PROCESSING OF APPLICATIONS- Within 12 months after the date of enactment
+  of this Act, the Secretary of Commerce shall develop and, after notice
+  and opportunity for public comment, promulgate regulations or guidelines
+  to ensure that a completed application for a grant, contract, or other
+  financial assistance under a nondiscretionary assistance program shall be
+  processed and approved or disapproved within 75 days after submission of
+  the application to the responsible program office of the National Oceanic
+  and Atmospheric Administration.
+  (b) NOTIFICATION OF APPLICANT- Not later than 14 days after the date on which
+  the Secretary of Commerce receives an application for a contract, grant,
+  or other financial assistance provided under a nondiscretionary assistance
+  program administered by the National Oceanic and Atmospheric Administration,
+  the Secretary shall indicate in writing to the applicant whether or not the
+  application is complete and, if not complete, shall specify the additional
+  material that the applicant must provide to complete the application.
+  (c) EXEMPTION- In the case of a program for which the recipient of a grant,
+  contract, or other financial assistance is specified by statute to be, or
+  has customarily been, a State or an interstate fishery commission, such
+  financial assistance may be provided by the Secretary to that recipient
+  on a sole-source basis, notwithstanding any other provision of law.
+  (d) DEFINITION- In this section, the term `nondiscretionary assistance
+  program' means any program for providing financial assistance--
+  (1) under which the amount of funding for, and the intended recipient of,
+  the financial assistance is specified by Congress; or
+  (2) the recipients of which have customarily been a State or an interstate
+  fishery commission.
+SEC. 405. PRICE FREEZE ON CHARTS AND OTHER PRODUCTS OF NOAA.
+  Notwithstanding section 1307 of title 44, United States Code, the price
+  of nautical charts or other nautical products produced or published by the
+  National Oceanic and Atmospheric Administration and sold after the date of
+  the enactment of this Act shall not exceed the price of that type of chart
+  or product on the date of enactment of this Act adjusted for inflation. This
+  section shall not apply after September 30, 1994.
+SEC. 406. COOPERATIVE AGREEMENTS.
+  The Secretary of Commerce, acting through the Under Secretary of Commerce
+  for Oceans and Atmosphere, may enter into cooperative agreements and other
+  financial agreements with any nonprofit organization to--
+  (1) aid and promote scientific and educational activities to foster public
+  understanding of the National Oceanic and Atmospheric Administration or
+  its programs; and
+  (2) solicit private donations for the support of such activities.
+SEC. 407. RECRUITMENT OF MINORITIES AND WOMEN FOR NOAA SCIENCE EDUCATION
+ACTIVITIES.
+  (a) FINDINGS- The Congress finds the following:
+  (1) In this decade, more than two-thirds of the new entrants to the United
+  States labor force will be minorities and women--groups which for the most
+  part have been historically underrepresented in the sciences.
+  (2) The National Science Foundation estimates that by the year 2000,
+  the United States will face a shortfall of more than 400,000 science and
+  engineering personnel.
+  (3) Given the demographics of the United States workforce, the problem
+  of underrepresented minorities and women in the sciences and engineering
+  could seriously compromise the industrial and technological capability
+  of the United States, as well as its ability to compete in international
+  marketplaces.
+  (4) The National Oceanic and Atmospheric Administration has made important
+  efforts to promote education programs in the sciences for students,
+  teachers, and other citizens.
+  (b) SENSE OF CONGRESS- It is the sense of the Congress that the National
+  Oceanic and Atmospheric Administration should continue to expand its
+  educational programs in the sciences, and in this effort, that the National
+  Oceanic and Atmospheric Administration should develop and promote programs
+  that reach out to and recruit minorities and women for education in the
+  sciences.
+TITLE V--NATIONAL MARINE MONITORING PROGRAM
+SEC. 501. AMENDMENT.
+  The Marine Protection, Research, and Sanctuaries Act of 1972 is amended
+  by adding at the end the following new title:
+`TITLE V--NATIONAL COASTAL MONITORING ACT
+`SEC. 501. PURPOSES.
+  `The purposes of this title are to--
+  `(1) establish a comprehensive national program for consistent monitoring
+  of the Nation's coastal ecosystems;
+  `(2) establish long-term water quality assessment and monitoring programs
+  for high priority coastal waters that will enhance the ability of Federal,
+  State, and local authorities to develop and implement effective remedial
+  programs for those waters;
+  `(3) establish a system for reviewing and evaluating the scientific,
+  analytical, and technological means that are available for monitoring the
+  environmental quality of coastal ecosystems;
+  `(4) establish methods for identifying uniform indicators of coastal
+  ecosystem quality;
+  `(5) provide for periodic, comprehensive reports to Congress concerning
+  the quality of the Nation's coastal ecosystems;
+  `(6) establish a coastal environment information program to distribute
+  coastal monitoring information;
+  `(7) provide state programs authorized under the Coastal Zone Management
+  Act of 1972 (16 U.S.C. 1451 et seq.) with information necessary to design
+  land use plans and coastal zone regulations that will contribute to the
+  protection of coastal ecosystems; and
+  `(8) provide certain water pollution control programs authorized under the
+  Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) with information
+  necessary to design and implement effective coastal water pollution controls.
+`SEC. 502. DEFINITIONS.
+  `For the purposes of this title, the term--
+  `(1) `Administrator' means the Administrator of the Environmental Protection
+  Agency;
+  `(2) `coastal ecosystem' means a system of interacting biological, chemical,
+  and physical components throughout the water column, water surface, and
+  benthic environment of coastal waters;
+  `(3) `coastal water quality' means the physical, chemical and biological
+  parameters that relate to the health and integrity of coastal ecosystems;
+  `(4) `coastal water quality monitoring' means a continuing program of
+  measurement, analysis, and synthesis to identify and quantify coastal
+  water quality conditions and trends to provide a technical basis for
+  decisionmaking;
+  `(5) `coastal waters' means waters of the Great Lakes, including their
+  connecting waters and those portions of rivers, streams, and other bodies
+  of water having unimpaired connection with the open sea up to the head
+  of tidal influence, including wetlands, intertidal areas, bays, harbors,
+  and lagoons, including waters of the territorial sea of the United States
+  and the contiguous zone'; and
+  `(6) `Under Secretary' means Under Secretary of Commerce for Oceans and
+  Atmosphere.
+`SEC. 503. COMPREHENSIVE COASTAL WATER QUALITY MONITORING PROGRAM.
+  `(a) AUTHORITY; JOINT IMPLEMENTATION- (1) The Administrator and the Under
+  Secretary, in conjunction with other Federal, State, and local authorities,
+  shall jointly develop and implement a program for the long-term collection,
+  assimilation, and analysis of scientific data designed to measure the
+  environmental quality of the Nation's coastal ecosystems pursuant to this
+  section. Monitoring conducted pursuant to this section shall be coordinated
+  with relevant monitoring programs conducted by the Administrator, Under
+  Secretary, and other Federal, State, and local authorities.
+  `(2) Primary leadership for the monitoring program activities conducted by
+  the Environmental Protection Agency pursuant to this section shall be located
+  at the Environmental Research Laboratory in Narragansett, Rhode Island.
+  `(b) PROGRAM ELEMENTS- The Comprehensive Coastal Water Quality Monitoring
+  Program shall include, but not be limited to--
+  `(1) identification and analysis of the status of environmental quality in
+  the Nation's coastal ecosystems, including but not limited to, assessment
+  of--
+  `(A) ambient water quality, including contaminant levels in relation to
+  criteria and standards issued pursuant to title III or the Federal Water
+  Pollution Control Act (33 U.S.C. 1311 et seq.);
+  `(B) benthic environmental quality, including analysis of contaminant levels
+  in sediments in relation to criteria and standards issued pursuant to title
+  III of the Federal Water Pollution Control Act (33 U.S.C. 1311 et seq.); and
+  `(C) health and quality of living resources.
+  `(2) identification of sources of environmental degradation affecting the
+  Nation's coastal ecosystems;
+  `(3) assessment of the impact of governmental programs and management
+  strategies and measures designed to abate or prevent the environmental
+  degradation of the Nation's coastal ecosystems;
+  `(4) assessment of the accumulation of floatables along coastal shorelines;
+  `(5) analysis of expected short-term and long-term trends in the
+  environmental quality of the Nation's coastal ecosystems; and
+  `(6) the development and implementation of intensive coastal water quality
+  monitoring programs in accordance with subsection (d).
+  (c) Monitoring Guidelines and Protocols-
+  `(1) GUIDELINES- Not later than 18 months after the date of the enactment of
+  this title, the Administrator and the Under Secretary shall jointly issue
+  coastal water quality monitoring guidelines to assist in the development
+  and implementation of coastal water quality monitoring programs. The
+  guidelines shall--
+  `(A) provide an appropriate degree of uniformity among the coastal water
+  quality monitoring methods and data while preserving the flexibility of
+  monitoring programs to address specific needs;
+  `(B) establish scientifically valid monitoring methods that will--
+  `(i) provide simplified methods to survey and assess the water quality
+  and ecological health of coastal waters;
+  `(ii) identify and quantify through more intensive efforts the severity
+  of existing or anticipated problems in selected coastal waters;
+  `(iii) identify and quantify sources of pollution that cause or contribute
+  to those problems, including point and nonpoint sources; and
+  `(iv) evaluate over time the effectiveness of efforts to reduce or eliminate
+  pollution from those sources;
+  `(C) provide for data compatibility to enable data to be efficiently stored
+  and shared by various users; and
+  `(D) identify appropriate physical, chemical, and biological indicators
+  of the health and quality of coastal ecosystems.
+  `(2) TECHNICAL PROTOCOLS- Guidelines issued under paragraph (1) shall
+  include protocols for--
+  `(A) designing statistically valid coastal water quality monitoring
+  networks and monitoring surveys, including assessment of the accumulation
+  of floatables.
+  `(B) sampling and analysis, including appropriate physical and chemical
+  parameters, living resource parameters, and sediment analysis techniques; and
+  `(C) quality control, quality assessment, and data consistency and
+  management.
+  `(3) PERIODIC REVIEW- The Administrator and the Under Secretary shall
+  periodically review the guidelines and protocols issued under this subsection
+  to evaluate their effectiveness, the degree to which they continue to answer
+  program objectives and provide an appropriate degree of uniformity while
+  taking local conditions into account, and any need to modify or supplement
+  them with new guidelines and protocols, as needed.
+  `(4) DISCHARGE PERMIT DATA- The Administrator or a State permitting authority
+  shall ensure that compliance monitoring conducted pursuant to section
+  402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2))
+  for permits for discharges to coastal waters is consistent with the
+  guidelines issued under this subsection. Any modifications of discharge
+  permits necessary to implement this subsection shall be deemed to be
+  minor modifications of such permit. Nothing in this subsection requires
+  dischargers to conduct monitoring other than compliance monitoring pursuant
+  to permits under section 402(a)(2) of the Federal Water Pollution Control
+  Act (33 U.S.C. 1342(a)(2)).
+  `(d) INTENSIVE COASTAL WATER QUALITY MONITORING PROGRAMS-
+  `(1) IN GENERAL- The Comprehensive Coastal Water Quality Monitoring Program
+  established pursuant to this section shall include intensive coastal water
+  quality monitoring programs developed under this subsection.
+  `(2) DESIGNATION OF INTENSIVE MONITORING AREAS- Not later than 24 months
+  after the date of enactment of this title and periodically thereafter,
+  the Administrator and the Under Secretary shall, based on recommendations
+  by the National Research Council, jointly designate coastal areas to be
+  intensively monitored.
+  `(3) IDENTIFICATION OF SUITABLE COASTAL AREAS- (A) The Administrator and
+  the Under Secretary shall contract with the National Research Council to
+  conduct a study to identify coastal areas suitable for the establishment of
+  intensive coastal monitoring programs. In identifying these coastal areas,
+  the National Research Council shall consider areas that--
+  `(i) are representatives of coastal ecosystems throughout the United States;
+  `(ii) will provide information to assess the status and trends of coastal
+  water quality nation-wide; and
+  `(iii) would benefit from intensive water quality monitoring because of
+  local management needs.
+  `(B) In making recommendations under this paragraph, the National Research
+  Council shall consult with Regional Research Boards established pursuant
+  to title IV of this Act.
+  `(C) The National Research Council shall, within 18 months of the date
+  of enactment of this title, submit a report to the Administrator and the
+  Under Secretary listing areas suitable for intensive monitoring.
+  `(D) The Administrator and the Under Secretary, in conjunction with
+  other Federal, State, and local authorities, shall develop and implement
+  multi-year programs of intensive monitoring for Massachusetts and Cape Cod
+  Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary,
+  and each area jointly designated by the Administrator and the Under
+  Secretary pursuant to paragraph (2).
+  `(4) INTENSIVE COASTAL WATER QUALITY MONITORING PROGRAMS- Each intensive
+  coastal water quality monitoring program developed pursuant to this
+  subsection shall--
+  `(A) identify water quality conditions and problems and provide information
+  to assist in improving coastal water quality;
+  `(B) clearly state the goals and objectives of the monitoring program
+  and their relationship to the water quality objectives for coastal waters
+  covered by the program;
+  `(C) identify the water quality and biological parameters of the monitoring
+  program and their relationship to these goals and objectives;
+  `(D) describe the types of monitoring networks, surveys and other activities
+  to be used to achieve these goals and objectives, using where appropriate
+  the guidelines issued under subsection (c);
+  `(E) survey existing Federal, State, and local coastal monitoring activities
+  and private compliance monitoring activities in or on the coastal waters
+  covered by the program, describe the relationship of the program to those
+  other monitoring activities, and integrate them, as appropriate, into the
+  intensive monitoring program;
+  `(F) describe the data management and quality control components of the
+  program;
+  `(G) specify the implementation requirements for the program, including--
+  `(i) the lead Federal, State, or regional authority that will administer
+  the program;
+  `(ii) the public and private parties that will implement the program;
+  `(iii) a detailed schedule for program implementation;
+  `(iv) all Federal and State responsibilities for implementing the program;
+  and
+  `(v) the changes in Federal, State, and local monitoring programs necessary
+  to implement the program;
+  `(H) estimate the costs to Federal and State governments, and other
+  participants, of implementing the monitoring program; and
+  `(I) describe the methods to assess periodically the success of the
+  monitoring program in meeting its goals and objectives, and the manner in
+  which the program may be modified from time-to-time.
+  `(5) CRITERIA FOR MONITORING MASSACHUSETTS AND CAPE COD BAYS- In addition
+  to the criteria listed in paragraph (4), the intensive monitoring program
+  for Massachusetts and Cape Cod Bays shall establish baseline data on
+  environmental phenomena (such as quantity of bacteria and quality of
+  indigenous species, and swimmability) and determine the ecological impacts
+  resulting from major point source discharges.
+  `(6) MEMORANDUM OF UNDERSTANDING- Prior to implementing any intensive coastal
+  water quality monitoring program under this subsection, the Administrator
+  and the Under Secretary shall enter into a Memorandum of Understanding to
+  implement the intensive coastal water quality monitoring programs and may
+  extend the memorandum of Understanding to include other appropriate Federal
+  agencies. The Memorandum of Understanding shall identify the monitoring
+  and reporting responsibilities of each agency and shall encourage the
+  coordination of monitoring activities.
+  `(7) IMPLEMENTATION- (A) The Administrator, the Under Secretary, and the
+  Governor of each State having waters subject to an intensive coastal water
+  quality monitoring program developed pursuant to this subsection shall
+  ensure compliance with that program.
+  `(B) The Administrator and the Under Secretary are authorized to enter
+  into cooperative agreements to provide financial assistance to non-Federal
+  agencies and institutions to support implementation of intensive monitoring
+  programs under this subsection. Federal financial assistance may only be
+  provided on the condition that not less than fifty percent of the costs
+  of the monitoring to be conducted by a non-Federal agency or institution
+  is provided from non-Federal funds.
+  `(e) Comprehensive Implementation Strategy-
+  `(1) IN GENERAL- Within 1 year after the date of enactment of this title,
+  the Administrator and the Under Secretary shall jointly submit to Congress a
+  Comprehensive Implementation Strategy identifying the current and planned
+  activities to implement the Comprehensive Coastal Monitoring Program
+  pursuant to this section.
+  `(2) CONSULTATION- The Administrator and the Under Secretary shall consult
+  with the National Academy of Sciences, the Director of the United States
+  Fish and Wildlife Service, the Director of the Minerals Management Service,
+  the Commandant of the Coast Guard, the Secretary of the Navy, the Secretary
+  of Agriculture, the heads of any other relevant Federal or regional agencies,
+  and the Governors of coastal States in developing the Strategy.
+  `(3) PUBLIC COMMENT- Not less than 3 months before submitting the Strategy
+  to Congress, the Administrator and the Under Secretary shall jointly publish
+  a draft version of the Strategy in the Federal Register and shall solicit
+  public comments regarding the Strategy.
+  `(4) MEMORANDUM OF UNDERSTANDING- Within 1 year after submission of the
+  Strategy under paragraph (1), the Administrator and the Under Secretary
+  shall enter into a Memorandum of Understanding with appropriate Federal
+  agencies necessary to effect the coordination of Federal coastal monitoring
+  programs. The Memorandum of Understanding shall identify the monitoring
+  and reporting responsibilities of each agency and shall encourage the
+  coordination of monitoring activities where possible.
+SEC. 504. REPORT TO CONGRESS.
+  `On September 30 of each other year beginning in 1993, the Administrator
+  and the Under Secretary shall jointly submit to the Committee on Commerce,
+  Science, and Transportation and the Committee on Environment and Public
+  Works of the Senate and the Committee on Merchant Marine and Fisheries
+  and the Committee on Public Works and Transportation of the House of
+  Representatives a report describing the condition of the Nation's coastal
+  ecosystems, including the following:
+  `(1) an assessment of the status and health of the Nation's coastal
+  ecosystems;
+  `(2) an evaluation of environmental trends in coastal ecosystems;
+  `(3) identification of sources of enironmental degradation affecting
+  coastal ecosystems;
+  `(4) an assessment of the extent to which floatables degrade coastal
+  ecosystems, including trends in the accumulation of floatables and the
+  threat posed by floatables to aquatic life;
+  `(5) an assessment of the impact of government programs designed to abate
+  the degradation of coastal ecosystems:
+  `(6) an evaluation of the adequacy of monitoring programs and identification
+  of any additional program elements which may be needed; and
+  `(7) a summary of monitoring results in areas monitored under subsection
+  503(d).
+`SEC. 505. AUTHORIZATION OF APPROPRIATIONS.
+  `(a) NOAA AUTHORIZATION- For development and implementation of programs
+  under this title, including financial assistance to non-Federal agencies
+  and institutions to support implementation of intensive monitoring programs
+  under section 503(d), there is authorized to be appropriated to the Under
+  Secretary amounts not to exceed $5,000,000 for fiscal year 1993, $8,000,000
+  for fiscal year 1994, $10,000,000 for fiscal year 1995, and $12,000,000
+  for fiscal year 1996.
+  `(b) EPA AUTHORIZATION- For development and implementation of programs
+  under this title, including financial assistance to non-Federal agencies
+  and institutions to support implementation of intensive monitoring
+  programs under section 503(d), there is authorized to be appropriated to
+  the Administrator amounts not to exceed $5,000,000 for fiscal year 1993,
+  $8,000,000 for fiscal year 1994, and $10,000,000 for fiscal year 1995,
+  and $12,000,000 for fiscal year 1996.'.
+TITLE VI--NOAA FLEET MODERNIZATION
+SEC. 601. SHORT TITLE.
+  This title may be cited as the `NOAA Fleet Modernization Act'.
+SEC. 602. DEFINITIONS.
+  In this title, the term--
+  (1) `NOAA' means the National Oceanic and Atmospheric Administration within
+  the Department of Commerce.
+  (2) `NOAA fleet' means the fleet of research vessels owned or operated
+  by NOAA.
+  (3) `Plan' means the NOAA Fleet Replacement and Modernization Plan described
+  in section 604.
+  (4) `Secretary' means the Secretary of Commerce.
+  (5) `UNOLS' means University-National Oceanographic Laboratory System.
+SEC. 603. FLEET REPLACEMENT AND MODERNIZATION PROGRAM.
+  The Secretary is authorized to implement, subject to the requirements of
+  this Act, a 15-year program to replace and modernize the NOAA fleet.
+SEC. 604. FLEET REPLACEMENT AND MODERNIZATION PLAN.
+  (a) IN GENERAL- To carry out the program authorized in section 603,
+  the Secretary shall develop and submit to Congress a replacement and
+  modernization Plan for the NOAA fleet covering the years authorized under
+  section 610.
+  (b) TIMING- The Plan required in subsection (a) shall be submitted to
+  Congress within 30 days of the date of enactment of this Act, and updated
+  on an annual basis.
+  (c) PLAN ELEMENTS- The Plan required in subsection (a) shall include
+  the following--
+  (1) the number of vessels proposed to be modernized or replaced, the schedule
+  for their modernization or replacement, and anticipated funding requirements;
+  (2) the number of vessels proposed to be constructed, leased, or chartered;
+  (3) the number of vessels, or days at sea, that can be obtained by using
+  the vessels of the UNOLS;
+  (4) the number of vessels that will be made available to NOAA by the
+  Secretary of the Navy, or any other federal official, and the terms and
+  conditions for their availability;
+  (5) the proposed acquisition of modern scientific instrumentation for the
+  NOAA fleet, including acoustic systems, data transmission positioning and
+  communication systems, physical, chemical, and meteorological oceanographic
+  systems, and data acquisition and processing systems; and
+  (6) the appropriate role of the NOAA Corps in operating and maintaining
+  the NOAA fleet.
+  (d) CONTRACTING LIMITATION- The Secretary may not enter into any contract
+  for the construction, lease, or service life extension of a vessel of
+  the NOAA fleet before the date of the submission to Congress of the Plan
+  required in subsection (a).
+SEC. 605. DESIGN OF NOAA VESSELS.
+  (a) DESIGN REQUIREMENT- Except for the vessel designs identified under
+  subsection (b), the Secretary, working through the Office of the NOAA
+  Corps Operations and the Systems Procurement Office, shall--
+  (1) prepare requirements for each class of vessel to be constructed or
+  converted under the Plan; and
+  (2) contract competitively from nongovernmental entities with expertise in
+  shipbuilding for vessel design and construction based on the requirements
+  for each class of vessel to be acquired.
+  (b) EXCEPTION- The Secretary shall--
+  (1) report to Congress identifying any existing vessel design or design
+  proposal that meets the requirements of the Plan within 30 days after the
+  date of enactment of this Act and shall promptly advise the Congress of
+  any modification of these designs; and
+  (2) submit to Congress as part of the annual update of the Plan required
+  in section 604, any subsequent existing vessel design or design proposals
+  that meet the requirements of the Plan.
+SEC. 606. CONTRACT AUTHORITY.
+  (a) MULTIYEAR CONTRACTS-
+  (1) IN GENERAL- Subject to paragraphs (2) and (3), and notwithstanding
+  section 1341 of title 31, United States Code and section 3732 of the
+  Revised Statutes of the United States (41 U.S.C. 11), the Secretary may
+  acquire vessels for the NOAA fleet by purchase, lease, lease-purchase,
+  or otherwise, under one or more multiyear contracts.
+  (2) REQUIRED FINDINGS- The Secretary may not enter into a contract
+  pursuant to this subsection unless the Secretary finds with respect to
+  that contract that--
+  (A) there is a reasonable expectation that throughout the contemplated
+  contract period the Secretary will request from Congress funding for the
+  contract at the level required to avoid contract termination; and
+  (B) the use of the contract will promote the best interests of the United
+  States by encouraging competition and promoting economic efficiency in
+  the operation of the NOAA fleet.
+  (3) REQUIRED CONTRACT PROVISIONS- The Secretary may not enter into a
+  contract pursuant to this subsection unless the contract includes--
+  (A) a provision under which the  obligation of the United States to
+  make payments under the contract for any fiscal year is subject to the
+  availability of appropriations provided in advance for those payments;
+  (B) a provision that specifies the term of effectiveness of the contract; and
+  (C) appropriate provisions under which, in case of any termination of the
+  contract before the end of the term specified pursuant to subparagraph
+  (B), the United States shall only be liable for the lesser of--
+  (i) an amount specified in the contract for such a termination; or
+  (ii) amounts that--
+  (I) were appropriated before the date of the termination for the performance
+  of the contract or for procurement of the type of acquisition covered by
+  the contract; and
+  (II) are unobligated on the date of the termination.
+  (b) SERVICE CONTRACTS- Notwithstanding any other provision of law, the
+  Secretary may enter into multiyear contracts for oceanographic research,
+  fisheries research, and mapping and charting services to assist the
+  Secretary in fulfilling NOAA missions. The Secretary may only enter into
+  these contracts if--
+  (1) the Secretary finds that it is in the public interest to do so;
+  (2) the contract is for not more than 7 years; and
+  (3)(A) the cost of the contract is less than the cost (including the cost
+  of operation, maintenance, and personnel) to the NOAA of obtaining those
+  services on NOAA vessels; or
+  (B) NOAA vessels are not available or cannot provide those services.
+  (c) BONDING AUTHORITY- Notwithstanding any other law, the Secretary may not
+  require a contractor for the construction, alteration, repair or maintenance
+  of a NOAA vessel to provide a bid bond, payment bond, performance bond,
+  completion bond, or other surety instrument in an amount greater than 20
+  percent of the value of the base contract quantity (excluding options)
+  unless the Secretary determines that requiring an instrument in that amount
+  will not prevent a responsible bidder or offeror from competing for the
+  award of the contract.
+SEC. 607. RESTRICTION WITH RESPECT TO CERTAIN SHIPYARD SUBSIDIES.
+  (a) IN GENERAL- The Secretary of Commerce may not award a contract for
+  the construction, repair (except emergency repairs), or alteration of any
+  vessel of the National Oceanic and Atmospheric Administration in a shipyard,
+  if that vessel benefits or would benefit from significant subsidies for
+  the construction, repair, or alteration of vessels in that shipyard.
+  (b) DEFINITION- In this section, the term `significant subsidy' includes,
+  but is not limited to, any of the following:
+  (1) Officially supported export credits.
+  (2) Direct official operating support to the commercial shipbuilding
+  and repair industry, or to a related entity that favors the operation of
+  shipbuilding and repair, including but not limited to--
+  (A) grants;
+  (B) loans and loan guarantees other than those available on the commercial
+  market;
+  (C) forgiveness of debt;
+  (D) equity infusions on terms inconsistent with commercially reasonable
+  investment practices; and
+  (E) preferential provision of goods and services.
+  (3) Direct official support for investment in the commercial shipbuilding
+  and repair industry, or to a related entity that favors the operation of
+  shipbuilding and repair, including but not limited to the kinds of support
+  listed in paragraph (2)(A) through (E), and any restructuring support,
+  except public support for social purposes directly and effectively linked
+  to shipyard closures.
+  (4) Assistance in the form of grants, preferential loans, preferential
+  tax treatment, or otherwise, that benefits or is directly related to
+  shipbuilding and repair for purposes of research and development that is
+  not equally open to domestic and foreign enterprises.
+  (5) Tax policies and practices that favor the shipbuilding and repair
+  industry, directly or indirectly, such as tax credits, deductions,
+  exemptions, and preferences, including accelerated depreciation, if such
+  benefits are not generally available to persons or firms not engaged in
+  shipbuilding or repair.
+  (6) Any official regulation or practice that authorizes or encourages persons
+  or firms engaged in shipbuilding or repair to enter into anticompetitive
+  arrangements.
+  (7) Any indirect support directly related, in law or in fact, to shipbuilding
+  and repair at national yards, including any public assistance favoring
+  shipowners with an indirect effect on shipbuilding or repair activities, and
+  any assistance provided to suppliers of significant inputs to shipbuilding,
+  which results in benefits to domestic shipbuilders.
+  (8) Any export subsidy identified in the Illustrative List of Export
+  Subsidies in the Annex to the Agreement on Interpretation and Application
+  of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and
+  Trade or any other export subsidy that may be prohibited as a result of
+  the Uruguay Round of trade negotiations.
+SEC. 608. USE OF VESSELS.
+  (a) VESSEL AGREEMENTS- In implementing the NOAA fleet replacement and
+  modernization program, the Secretary shall use excess capacity of UNOLS
+  vessels where appropriate and may enter into memoranda of agreement with
+  the operators of these vessels to carry out this requirement.
+  (b) REPORT TO CONGRESS- Within one year after the date of enactment of
+  this Act, the Comptroller General of the United States shall provide a
+  report to Congress, in consultation with the Secretary, comparing the
+  cost-efficiency, accounting, and operating practices of the vessels of
+  NOAA, UNOLS, other Federal agencies, and the United States private sector
+  in meeting the missions of NOAA.
+SEC. 609. INTEROPERABILITY.
+  The Secretary shall consult with the Oceanographer of the Navy regarding
+  appropriate measures that should be taken, on a reimbursable basis, to
+  ensure that NOAA vessels are interoperable with vessels of the Department
+  of the Navy, including with respect to operation, maintenance, and repair
+  of those vessels.
+SEC. 610. AUTHORIZATION OF APPROPRIATIONS.
+  (a) IN GENERAL- There are authorized to be appropriated to the Secretary
+  for carrying out this title--
+  (1) $50,000,000 for fiscal year 1993;
+  (2) $100,000,000 for fiscal year 1994; and
+  (3) such sums as are necessary for each of the fiscal years 1995, 1996,
+  and 1997.
+  (b) LIMITATION ON FLEET MODERNIZATION ACTIVITIES- All National Oceanic and
+  Atmospheric Administration fleet modernization shipbuilding, and conversion
+  shall be conducted in accordance with this title.
+TITLE VII--WEATHER SERVICE MODERNIZATION
+SEC. 701. SHORT TITLE.
+  This title may be cited as the `Weather Service Modernization Act'.
+SEC. 702. DEFINITIONS.
+  For the purposes of this title, the term--
+  (1) `automate' means to replace employees with automated weather service
+  equipment;
+  (2) `change operations at a field office' means transfer service
+  responsibility, commission weather observation systems, decommission a
+  National Weather Service radar, change staffing levels significantly, or move
+  a field office to a new location inside the local commuting and service area;
+  (3) `Committee' means the Modernization Transition Committee established
+  by section 707;
+  (4) `degradation of service' means any decrease in or failure to maintain
+  the quality and type of weather services provided by the National Weather
+  Service to the public in a service area, including but not limited to a
+  reduction in existing weather radar coverage at an elevation of 10,000 feet;
+  (5) `field office' means any National Weather Service Office or National
+  Weather Service Forecast Office;
+  (6) `Plan' means the National Implementation Plan required under section 703;
+  (7) `relocate' means to transfer from one location to another location
+  that is outside the local commuting or service area;
+  (8) `Secretary' means the Secretary of Commerce;
+  (9) `service area' means the geographical area for which a field office
+  provides services or conducts observations, including but not limited to
+  local forecasts, severe weather warnings, aviation support, radar coverage,
+  and ground weather observations; and
+  (10) `Strategic Plan' means the 10-year strategic plan for the comprehensive
+  modernization of the National Weather Service, required under section 407
+  of the National Aeronautics and Space Administration Authorization Act,
+  Fiscal Year 1989 (15 U.S.C. 313 note).
+SEC. 703. NATIONAL IMPLEMENTATION PLAN.
+  (a) NATIONAL IMPLEMENTATION PLAN- As part of the budget justification
+  documents submitted to Congress in support of the annual budget request
+  for the Department of Commerce, the Secretary shall include a National
+  Implementation Plan for modernization of the National Weather Service for
+  each fiscal year following fiscal year 1993 until such modernization is
+  complete. The Plan shall set forth the actions, during the 2-year period
+  beginning with the fiscal year for which the budget request is made, that
+  will be necessary to accomplish the objectives described in the Strategic
+  Plan, and shall include--
+  (1) detailed requirements for new technologies, facilities, staffing levels
+  and positions, and funding, in accordance with the overall schedule for
+  modernization;
+  (2) notification of any proposed action to change operations at a field
+  office and the intended date of such operational change;
+  (3) identification of any field office that the Secretary intends to
+  certify under section 706, including the intended date of such certification;
+  (4) special measures to test, evaluate, and demonstrate key elements
+  of the modernized National Weather Service operations prior to national
+  implementation, including a multistation operational demonstration which
+  tests the performance of the modernization in an integrated manner for a
+  sustained period;
+  (5) detailed plans and funding requirements for meteorological research
+  to be accomplishment under this title to assure that new techniques
+  in forecasting will be developed to utilize the new technologies being
+  implemented in the modernization; and
+  (6) training and education programs to ensure that employees gain the
+  necessary expertise to utilize the new technologies and to minimize employee
+  displacement as a consequence of modernization.
+  (b) TRANSMITTAL TO COMMITTEE- The Secretary shall transmit a copy of each
+  annual Plan to the Committee.
+  (c) CONSULTATION- In developing the Plan, the Secretary shall consult,
+  as appropriate, with the Committee and public entities responsible for
+  providing or utilizing weather services.
+SEC. 704. MODERNIZATION CRITERIA.
+  (a) NATIONAL RESEARCH COUNCIL REVIEW- The Secretary shall contract with
+  the National Research Council for a review of the scientific and technical
+  modernization criteria by which the Secretary proposes to certify action
+  to close, consolidate, automate, or relocate a field office under section
+  706. In conducting such review, the National Research Council shall prepare
+  and submit to the Secretary, no later than 9 months after the date of
+  enactment of this Act, a report which--
+  (1) assesses requirements and procedures for commissioning new weather
+  observation systems, decommissioning an outdated National Weather Service
+  radar, and evaluating staffing needs for field offices in an affected
+  service area;
+  (2) assesses the statistical and analytical measures that should be made
+  for a service area to form an adequate basis for determining that there
+  will be no degradation of service; and
+  (3) includes such other recommendations as the National Research Council
+  determines are appropriate to ensure public safety.
+  (b) CRITERIA- No later than 12 months after the date of enactment of this
+  Act, the Secretary, in consultation with the National Research Council
+  and the Committee and after notice and opportunity for public comment,
+  shall publish in the Federal Register modernization criteria (including
+  all requirements and procedures), based on the report required under this
+  section, for--
+  (1) commissioning new weather observation systems, decommissioning an
+  outdated National Weather Service radar, and evaluating staffing needs
+  for field offices in an affected service area; and
+  (2) certifying action to close, consolidate, automate, or relocate a field
+  office under section 706.
+SEC. 705. CHANGES IN FIELD OFFICE OPERATIONS.
+  (a) NOTIFICATION- The Secretary shall not change operations at a field office
+  pursuant to implementation of the Strategic Plan unless the Secretary has
+  provided the notification required by section 703.
+  (b) WEATHER RADAR DECOMMISSIONING- The Secretary shall not remove or
+  permanently decommission any National Weather Service radar until the
+  Secretary has prepared radar commissioning and decommissioning reports
+  documenting that such action would be consistent with the modernization
+  criteria established under section 704(b)(1). The commissioning report shall
+  document that the radar system performs reliably, satisfactory maintenance
+  support is in place, sufficient staff with adequate training are present to
+  operate the system, technical coordination with weather service users has
+  been completed, and the radar being commissioned satisfactorily supports
+  field office operations. The decommissioning report shall document that
+  the replacement radar has been commissioned, technical coordination with
+  service users has been completed, and the radar being decommissioned is
+  no longer needed to support field office operations.
+  (c) SURFACE OBSERVING SYSTEM COMMISSIONING- The Secretary may not commission
+  an automated surface observing system located at an airport unless it is
+  determined, in consultation with the Secretary of Transportation, that
+  the weather services provided after commissioning will continue to be in
+  full compliance with applicable flight aviation rules promulgated by the
+  Federal Aviation Administration.
+SEC. 706. RESTRUCTURING FIELD OFFICES.
+  SEC. 706. (a) PROHIBITION- The Secretary shall not close, before January 1,
+  1996, any field office pursuant to implementation of the Strategic Plan.
+  (b) CERTIFICATION- The Secretary shall not close, consolidate, automate,
+  or relocate any field office, unless the Secretary has certified that such
+  action will not result in any degradation of service. Such certification
+  shall include--
+  (1) a description of local weather characteristics and weather-related
+  concerns which affect the weather services provided within the service area;
+  (2) a detailed comparison of the services provided within the service area
+  and the services to be provided after such action;
+  (3) a description of any recent or expected modernization of National
+  Weather Service operations which will enhance services in the service area;
+  (4) an identification of any area within any State which would not receive
+  coverage (at an elevation of 10,000 feet) by the next generation weather
+  radar network;
+  (5) evidence, based upon operational demonstration of modernized National
+  Weather Service operations, which was considered in reaching the conclusion
+  that no degradation in service will result from such action; and
+  (6) any report of the Committee submitted under section 707(c) that
+  evaluates the proposed certification.
+  (c) PUBLIC REVIEW- Each certification decision shall be preceded by--
+  (1) publication in the Federal Register of a proposed certification; and
+  (2) a 60-day period after such publication during which the public may
+  provide comments to the Secretary on the proposed certification.
+  (d) FINAL DECISION- If after consideration of the public comment received
+  under subsection (c) the Secretary, in consultation with the Committee,
+  decides to close, consolidate, automate, or relocate any such field office,
+  the Secretary shall publish a final certification in the Federal Register
+  and submit the certification to the Committee on Commerce, Science,
+  and Transportation of the Senate and the Committee on Science, Space,
+  and Technology of the House of Representatives.
+  (e) SPECIAL CIRCUMSTANCES- The Secretary may not close or relocate any
+  field office--
+  (1) which is located at an airport, unless the Secretary, in consultation
+  with the Secretary of Transportation and the Committee, first conducts
+  an air safety appraisal, determines that such action will not result in
+  degradation of service that affects aircraft safety, and includes such
+  determination in the certification required under subsection (b); or
+  (2) which is the only office in a State, unless the Secretary first
+  evaluates the effect on weather services provided to in-State users,
+  such as State agencies, civil defense officials, and local public safety
+  offices, and includes in the certification required under subsection (b)
+  the Secretary's determination that a comparable level of weather services
+  provided to such in-State users will remain.
+  (f) LIAISON OFFICER- The Secretary may not close, consolidate, automate,
+  or relocate a field office until arrangements have been made to maintain
+  for a period of at least 2 years at least one person in the service area
+  to act as a liaison officer who--
+  (1) provides timely information regarding the activities of the National
+  Weather Service which may affect service to the community, including
+  modernization and restructuring; and
+  (2) works with area weather service users, including persons associated with
+  general aviation, civil defense, emergency preparedness, and the news media,
+  with respect to the provision of timely weather warnings and forecasts.
+SEC. 707. MODERNIZATION TRANSITION COMMITTEE.
+  (a) ESTABLISHMENT- There is established a committee of 12 members to be
+  known as the Modernization Transition Committee.
+  (b) MEMBERSHIP AND TERMS- (1) The Committee shall consist of--
+  (A) five members representing agencies and departments of the United States
+  which are responsible for providing or using weather services, including
+  but not limited to the National Weather Service, the Department of Defense,
+  the Federal Aviation Administration, and the Federal Emergency Management
+  Agency; and
+  (B) seven members to be appointed by the Secretary from civil defense and
+  public safety organizations, news media, any labor organization certified
+  by the Federal Labor Relations Authority as an exclusive representative
+  of weather service employees, meteorological experts, and private sector
+  users of weather information such as pilots and farmers.
+  (2) The terms of office of a member of the Committee shall be 3 years;
+  except that, of the original membership, four shall serve a 5-year term,
+  four shall serve a 4-year term, and four shall serve a 3-year term. No
+  individual may serve for more than one additional 3-year term.
+  (3) The Secretary shall designate a chairman of the Committee from among
+  its members.
+  (c) DUTIES- (1) The Committee may review any proposed certification under
+  section 706 for which the Secretary has provided a notice of intent to
+  certify in the Plan, and should review such a proposed certification if
+  there is a significant possibility of degradation of service within the
+  affected service area. Upon the request of the Committee, the Secretary shall
+  make available to the Committee the supporting documents developed by the
+  Secretary in connection with the proposed certification. The Committee may
+  prepare and submit to the Secretary, prior to publication of the proposed
+  certification, a report which evaluates the proposed certification on the
+  basis of the modernization criteria and with respect to the requirement
+  that there be no degradation of service.
+  (2) The Committee shall advise the Congress and the Secretary on--
+  (A) the implementation of the Strategic Plan, annual development of the
+  Plan, and establishment and implementation of modernization criteria; and
+  (B) matters of public safety and the provision of weather services which
+  relate to the comprehensive modernization of the National Weather Service.
+  (d) PAY AND TRAVEL EXPENSES- Members of the Committee who are not employees
+  of the United States shall each be paid at a rate equal to the daily
+  equivalent of the rate for GS-18 of the General Schedule under section
+  5332 of title 5, United States Code, for each day (including travel time)
+  during which the member is engaged in the actual performance of duties
+  vested in the Committee. Members shall receive travel expenses, including
+  per diem in lieu of subsistence, as authorized by section 5703 of title 5,
+  United States Code.
+  (e) STAFF- The Secretary shall make available to the Committee such staff,
+  information, and assistance as it may reasonably require to carry out
+  its activities.
+  (f) TERMINATION- The Committee shall terminate on December 31, 1999.
+SEC. 708. WEATHER SERVICE REPORT.
+  (a) REPORT- The Secretary shall prepare a report on the proposed
+  modernization of the National Weather Service and transmit the report,
+  not later than 6 months after the date of enactment of this Act, to the
+  Committee on Commerce, Science, and Transportation of the Senate and the
+  Committee on Science, Space, and Technology of the House of Representatives.
+  (b) CONTENTS- (1) The report required by subsection (a) shall identify the
+  size of the geographic area of responsibility of each proposed Weather
+  Forecast Office and shall include an explanation of the number and type
+  of personnel required at each Weather Forecast Office. For each proposed
+  Weather Forecast Office covering a geographic area greater than two times
+  the average geographic area of responsibility of Weather Forecast Offices
+  nationwide, the report shall detail the reasons for assigning those Weather
+  Forecast Offices a geographic area which differs significantly from the
+  national average.
+  (2) The report shall list the number of next generation weather radars
+  that will be associated with each Weather Forecast Office nationwide under
+  the proposed modernization plan. If some Weather Forecast Offices will
+  be associated with more than one such radar, the report shall explain the
+  deviation from the National Weather Service's stated policy of associating
+  one such radar with one Weather Forecast Office, and shall analyze and
+  compare any differences in the expected efficiency of those Weather Forecast
+  Offices with Weather Forecast Offices that will be associated with only
+  one such radar.
+  (c) CONSULTATION- In preparing portions of the report that address Weather
+  Forecast Offices located in areas of the Nation that are uniquely dependent
+  on general aviation as a means of transportation, the Secretary shall
+  consult with local aviation groups. In the case of Alaska, such local
+  groups shall include the Alaska Aviation Safety Foundation, the Alaska
+  Airmen's Association, and the regional representatives of the Aircraft
+  Owners and Pilots Association.
+SEC. 709. REPEALS.
+  The National Aeronautics and Space Administration Authorization Act,
+  Fiscal Year 1989 (15 U.S.C. 313 note), is amended by repealing--
+  (1) subsections (b), (c), and (d) of section 407; and
+  (2) section 408.
+TITLE VIII--NORTH PACIFIC ANADROMOUS STOCKS CONVENTION
+SEC. 801. SHORT TITLE.
+  This title may be cited as the `North Pacific Anadromous Stocks Act of 1992'.
+SEC. 802. PURPOSE.
+  It is the purpose of this title to implement the Convention for the
+  Conservation of Anadromous Stocks in the North Pacific Ocean, signed in
+  Moscow, February 11, 1992.
+SEC. 803. DEFINITIONS.
+  As used in this title, the term--
+  (1) `Anadromous stocks' means stocks of species listed in the Annex to
+  the Convention that migrate into the Convention area.
+  (2) `Anadromous fish' means fish of the species listed in the Annex to
+  the Convention that migrate into the Convention area.
+  (3) `Authorized officer' means a law enforcement official authorized to
+  enforce this title under section 809(a).
+  (4) `Commission' means the North Pacific Anadromous Fish Commission provided
+  for by article VIII of the Convention.
+  (5) `Convention' means the Convention for the Conservation of Anadromous
+  Stocks of the North Pacific Ocean, signed in Moscow, February 11, 1992.
+  (6) `Convention area' means the waters of the North Pacific Ocean and its
+  adjacent seas, north of 33 degrees North Latitude, beyond 200 nautical miles
+  from the baselines from which the breadth of the territorial sea is measured.
+  (7) `Directed fishing' means fishing targeted at a particular species or
+  stock of fish.
+  (8) `Ecologically related species' means living marine species which are
+  associated with anadromous stocks found in the Convention area, including,
+  but not restricted to, both predators and prey of anadromous fish.
+  (9) `Enforcement officer' means a law enforcement official authorized by
+  any Party to enforce this title.
+  (10) `Exclusive economic zone' means the zone established by Proclamation
+  Numbered 5030, dated March 10, 1983. For purposes of applying this title,
+  the inner boundary of that zone is a line coterminous with the seaward
+  boundary of each of the coastal States.
+  (11) `Fish' means finfish, mollusks, crustaceans, and all other forms of
+  marine animal and plant life other than marine mammals and birds.
+  (12) `Fishing' means--
+  (A) the catching, taking, or harvesting of fish, or any other activity
+  that can reasonably be expected to result in the catching, taking, or
+  harvesting of fish; or
+  (B) any operation at sea in preparation for or in direct support of any
+  activity described in subparagraph (A).
+  (13) `Fishing vessel' means--
+  (A) any vessel engaged in catching fish within the Convention area or in
+  processing or transporting fish loaded in the Convention area;
+  (B) any vessel outfitted to engage in any activity described in subparagraph
+  (A);
+  (C) any vessel described in subparagraph (A) or (B).
+  (14) `Incidental taking' means catching, taking, or harvesting a species
+  or stock of fish while conducting directed fishing for another species or
+  stock of fish.
+  (15) `Party' means Canada, Japan, the Russian Federation, the United States,
+  and any other nation that may accede to the Convention.
+  (16) `Secretary' means the Secretary of State.
+  (17) `United States Section' means the United States Commissioners of
+  the Commission.
+SEC. 804. UNITED STATES COMMISSIONERS.
+  (a) COMMISSIONERS- The United States shall be represented on the Commission
+  by not more than three United States Commissioners to be appointed by and
+  serve at the pleasure of the President. Each United States Commissioner
+  shall be appointed for a term of office not to exceed 4 years, but is
+  eligible for reappointment. Of the Commissioners--
+  (1) one shall be an official of the United States Government;
+  (2) one shall be a resident of the State of Alaska; and
+  (3) one shall be a resident of the State of Washington.
+An individual is not eligible for appointment under paragraph (2) or (3)
+as a Commissioner unless the individual is knowledgeable or experienced
+concerning the anadromous stocks and ecologically related species of the
+North Pacific Ocean.
+  (b) ALTERNATE COMMISSIONERS- The Secretary, in consultation with the
+  Secretary of Commerce, may designate from time to time Alternate United
+  States Commissioners to the Commission. An Alternate United States
+  Commissioner may exercise all designated powers and duties of a United
+  States Commissioner in the absence of a duly designated Commissioner for
+  whatever reason. The number of such Alternate United States Commissioners
+  that may be designated for any such meeting shall be limited to the number
+  of authorized United States Commissioners that will not be present.
+  (c) UNITED STATES SECTION- The United States Section, in consultation
+  with the Advisory Panel established in section 805, shall identify and
+  recommend to the Commission research needs and priorities for anadromous
+  stocks and ecologically related species subject to the Convention, and
+  oversee the United States research programs involving such fisheries,
+  stocks, and species.
+  (d) COMPENSATION- United States Commissioners and Alternate United
+  States Commissioners shall receive no compensation for their services as
+  Commissioners and Alternate Commissioners.
+SEC. 805. ADVISORY PANEL.
+  (a) ESTABLISHMENT OF PANEL- An Advisory Panel to the United States Section
+  is established. The Advisory Panel shall be composed of the following:
+  (1) The Commissioner of the Alaska Department of Fish and Game.
+  (2) The Director of the Washington Department of Fisheries.
+  (3) One representative of the Pacific States Marine Fisheries Commission,
+  designated by the Executive Director of that commission.
+  (4) Eleven members (six of whom shall be residents of the State of Alaska
+  and five of whom shall be residents of the State of Washington), appointed
+  by the Secretary, in consultation with the Secretary of Commerce, from
+  among a slate of 12 persons nominated by the Governor of Alaska and a
+  slate of 10 persons nominated by the Governor of Washington.
+  (b) QUALIFICATIONS- Persons appointed to the Advisory Panel shall be
+  individuals who are knowledgeable or experienced concerning anadromous stocks
+  and ecologically related species. In submitting a slate of nominees pursuant
+  to subsection (a)(4), the Governors of Alaska and Washington shall seek to
+  represent the broad range of parties interested in anadromous stocks and
+  ecologically related species, and at a minimum shall include on each slate
+  at least one representative of commercial salmon fishing interests and of
+  environmental interests concerned with protection of living marine resources.
+  (c) LIMITATION ON SERVICE- Any person appointed to the Advisory Panel
+  pursuant to subsection (a)(4) shall serve for a term not to exceed 4 years,
+  and may not serve more than two consecutive terms.
+  (d) FUNCTIONS- The Advisory Panel shall be invited to all nonexecutive
+  meetings of the United States Section and at such meetings shall be granted
+  the opportunity to examine and to be heard on all proposed programs of study
+  and investigation, reports, and recommendations of the United States Section.
+  (e) COMPENSATION AND EXPENSES- The members of the Advisory Panel shall
+  receive no compensation or travel expenses for their services as such
+  members.
+SEC. 806. COMMISSION RECOMMENDATIONS.
+  The Secretary, with the concurrence of the Secretary of Commerce, may
+  accept or reject, on behalf of the United States, recommendations made by
+  the Commission in accordance with article IX of the Convention.
+SEC. 807. ADMINISTRATION AND ENFORCEMENT OF CONVENTION.
+  (a) RESPONSIBILITIES- The Secretary of Commerce shall be responsible for
+  administering provisions of the Convention, this title, and regulations
+  issued under this title. The Secretary, in consultation with the Secretary
+  of Commerce and the Secretary of Transportation, shall be responsible for
+  coordinating the participation of the United States in the Commission.
+  (b) CONSULTATION AND COOPERATION- In carrying out such functions, the
+  Secretary of Commerce--
+  (1) shall, in consultation with the Secretary of Transportation and the
+  United States Section, issue such regulations as may be necessary to carry
+  out the purposes and objectives of the Convention and this title; and
+  (2) may, with the concurrence of the Secretary, cooperate with the authorized
+  officials of the government of any Party.
+SEC. 808. COOPERATION WITH OTHER AGENCIES.
+  (a) IN GENERAL- Any agency of the Federal Government is authorized, upon
+  request of the Commission, to cooperate in the conduct of scientific and
+  other programs, and to furnish, on a reimbursable basis, facilities and
+  personnel for the purpose of assisting the Commission in carrying out its
+  duties under the Convention. Such agency may accept reimbursement from
+  the Commission.
+  (b) FUNCTIONS OF SECRETARY OF COMMERCE- In carrying out the provisions
+  of the Convention and this title, the Secretary of Commerce may arrange
+  for cooperation with agencies of the United States, the States, private
+  institutions and organizations, and agencies of the government of any Party,
+  to conduct scientific and other programs, and may execute such memoranda
+  as may be necessary to reflect such agreements.
+SEC. 809. ENFORCEMENT PROVISIONS.
+  (a) DUTIES OF SECRETARIES OF COMMERCE AND TRANSPORTATION- This title
+  shall be enforced by the Secretary of Commerce and the Secretary of
+  Transportation. Such Secretaries may by agreement utilize, on a reimbursable
+  basis or otherwise, the personnel, services, equipment (including aircraft
+  and vessels), and facilities of any other Federal agency, including all
+  elements of the Department of Defense, and of any State agency, in the
+  performance of such duties. Such Secretaries shall, and the head of any
+  Federal or State agency that has entered into an agreement with either such
+  Secretary under the preceding sentence may (if the agreement so provides),
+  authorize officers to enforce the provisions of the Convention, this title,
+  and regulations issued under this title. Any such agreement or contract
+  entered into pursuant to this section shall be effective only to such
+  extent or in such amounts as are provided in advance in appropriations Acts.
+  (b) DISTRICT COURT JURISDICTION- The district courts of the United States
+  shall have exclusive jurisdiction over any case or controversy arising
+  under the provisions of this title.
+  (c) POWERS OF ENFORCEMENT OFFICERS- Authorized officers may, shoreward of
+  the outer boundary of the exclusive economic zone, or during hot pursuit
+  from the zone--
+  (1) with or without a warrant or other process--
+  (A) arrest any person, if the officer has reasonable cause to believe that
+  such person has committed an act prohibited by section 810;
+  (B) board, and search or inspect, any fishing vessel subject to the
+  provisions of the Convention and this title;
+  (C) seize any fishing vessel (together with its fishing gear, furniture,
+  appurtenances, stores, and cargo) used or employed in, or with respect to
+  which it reasonably appears that such vessel was used or employed in, the
+  violation of any provision of the Convention, this title, or regulations
+  issued under this title;
+  (D) seize any fish (wherever found) taken or retained in violation of any
+  provision referred to in subparagraph (C);
+  (E) seize any other evidence related to any violation of any provision
+  referred to in subparagraph (C);
+  (2) execute any warrant or other process issued by any court of competent
+  jurisdiction; and
+  (3) exercise any other lawful authority.
+  (d) ADDITIONAL POWERS- (1) An authorized officer may in the Convention area--
+  (A) board a vessel of any Party that reasonably can be believed to be
+  engaged in directed fishing for, incidental taking of, or processing of
+  anadromous fish, and, without warrant or process, inspect equipment, logs,
+  documents, catch, and other articles, and question persons, on board the
+  vessel, for the purpose of carrying out the provisions of the Convention,
+  this title, or any regulation issued under this title; and
+  (B) If any such vessel or person on board is actually engaged in operations
+  in violation of any such provision, or there is reasonable ground to believe
+  any person or vessel was obviously so engaged before the boarding of such
+  vessel by the authorized officer, arrest or seize such person or vessel
+  and further investigate the circumstance if necessary.
+If an authorized officer, after boarding and investigation, has reasonable
+cause to believe that any such fishing vessel or person engaged in
+operations in violation of any provision referred to in subparagraph (A),
+the officer shall deliver the vessel or person as promptly as practicable
+to the enforcement officers of the appropriate Party, in accordance with
+the provisions of the Convention.
+  (2) When requested by the appropriate authorities of a Party, an authorized
+  officer may be directed to attend as a witness, and to produce such available
+  records and files or duly certified copies thereof as may be necessary,
+  for the prosecution by that Party of any violation of the provisions of
+  the Convention or any law of that Party relating to the enforcement thereof.
+SEC. 810. UNLAWFUL ACTIVITIES.
+  It is unlawful for any person or fishing vessel subject to the jurisdiction
+  of the United States--
+  (1) to fish for any anadromous fish in the Convention area;
+  (2) to retain on board any anadromous fish taken incidentally in a fishery
+  directed at nonanadromous fish in the Convention area;
+  (3) to fail to return immediately to the sea any anadromous fish taken
+  incidentally in a fishery directed at nonanadromous fish in the Convention
+  area;
+  (4) to ship, transport, offer for sale, sell, purchase, import, export,
+  or have custody, control, or possession of, any anadromous fish taken or
+  retained in violation of the Convention, this title, or any regulation
+  issued under this title;
+  (5) to refuse to permit any enforcement officer to board a fishing vessel
+  subject to such person's control for purposes of conducting any search or
+  inspection in connection with the enforcement of the Convention, this title,
+  or any regulation issued under this title;
+  (6) to forcibly assault, resist, oppose, impede, intimidate, or interfere
+  with any enforcement officer in the conduct of any search or inspection
+  described in paragraph (5);
+  (7) to resist a lawful arrest or detection for any act prohibited by
+  this section;
+  (8) to interfere with, delay, or prevent, by any means, the apprehension,
+  arrest, or detection of another person, knowing that such person has
+  committed any act prohibited by this section; or
+  (9) to violate any provision of the Convention, this title, or any regulation
+  issued under this title.
+SEC. 811. PENALTIES.
+  (a) CIVIL PENALTIES- (1) Any person who is found by the Secretary of
+  Commerce, after notice and opportunity for a hearing in accordance with
+  section 554 of title 5, United States Code, to have committed an act
+  prohibited by section 810 shall be liable to the United States for a
+  civil penalty. The amount of the civil penalty shall not exceed $100,000
+  for each violation. Each day of a continuing violation shall constitute a
+  separate offense. The amount of such civil penalty shall be assessed by the
+  Secretary of Commerce, or the Secretary's designee, by written notice. In
+  determining the amount  of such penalty, the Secretary of Commerce shall
+  take into account the nature, circumstances, extent, and gravity of the
+  prohibited acts committed and, with respect to the violation, the degree
+  of culpability, any history of prior offenses, ability to pay, and such
+  other matters as justice may require.
+  (2) Any person against whom a civil penalty is assessed under paragraph (1)
+  may obtain review thereof in the appropriate court of the United States by
+  filing a complaint in such court within 30 days from the date of such order
+  and by simultaneously serving a copy of such complaint by certified mail
+  on the Secretary of Commerce, the Attorney General, and the appropriate
+  United States Attorney. The Secretary of Commerce shall promptly file in
+  such court a certified copy of the record upon which such violation was
+  found or such penalty imposed, as provided in section 2112 of title 28,
+  United States Code. The findings and order of the Secretary of Commerce
+  shall be set aside by such court if they are not found to be supported
+  by substantial evidence, as provided in section 706(2) of title 5, United
+  States Code.
+  (3) If any person fails to pay an assessment of a civil penalty after
+  it has become a final and unappealable order, or after the appropriate
+  court has entered final judgment in favor of the Secretary of Commerce,
+  the matter shall be referred to the Attorney General, who shall recover the
+  amount assessed in any appropriate district court of the United States. In
+  such action, the validity and appropriateness of the final order imposing
+  the civil penalty shall not be subject to review.
+  (4) A fishing vessel (including its fishing gear, furniture, appurtenances,
+  stores, and cargo) used in the commission of an act prohibited by section
+  810 shall be liable in rem for any civil penalty assessed for such violation
+  under paragraph (1) and may be proceeded against in any district court of
+  the United States having jurisdiction thereof. Such penalty shall constitute
+  a maritime lien on such vessel that may be recovered in an action in rem in
+  the district court of the United States having jurisdiction over the vessel.
+  (5) The Secretary of Commerce may compromise, modify, or remit, with or
+  without conditions, any civil penalty that is subject to imposition or
+  that has been imposed under this section.
+  (6) For the purposes of conducting any hearing under this section, the
+  Secretary of Commerce may issue subpoenas for the attendance and testimony
+  of witnesses and the production of relevant papers, books, and documents,
+  and may administer oaths. Witnesses summoned shall be paid the same fees and
+  mileage that are paid to witnesses in the courts of the United States. In
+  case of contempt or refusal to obey a subpoena served upon any person
+  pursuant to this paragraph, the district court of the United States for any
+  district in which such person is found, resides, or transacts business,
+  upon application by the United States and after notice to such person,
+  shall have jurisdiction to issue an order requiring such person to appear
+  and give testimony before the Secretary of Commerce or to appear and produce
+  documents before the Secretary of Commerce, or both, and any failure to obey
+  such order of the court may be punished by such court as a contempt thereof.
+  (b) OFFENSES- (1) A person is guilty of an offense if the person commits
+  any act prohibited by section 810 (5), (6), (7), or (8).
+  (2) Any offense described in paragraph (1) is a class A misdemeanor
+  punishable by a fine under title 18, United States code, or imprisonment
+  for not more than 6 months, or both; except that if in the commission of
+  any offense the person uses a dangerous weapon, engages in conduct that
+  causes bodily injury to any enforcement officer, or places any such officer
+  in fear of imminent bodily injury, the offense is a felony punishable by
+  a fine under title 18, United States Code, or imprisonment for not more
+  than 10 years, or both.
+  (c) FORFEITURE- (1) Any fishing vessel (including its fishing gear,
+  furniture, appurtenances, stores, and cargo) used, and any fish (or a fair
+  market value thereof) taken or retained, in any manner, in connection with
+  or as a result of the commission of any act prohibited by section 810 shall
+  be subject to forfeiture to the United States. All or part of such vessel
+  may, and all such fish shall, be forfeited to the United States pursuant
+  to a civil proceeding under this section.
+  (2) Any district court of the United States shall have jurisdiction,
+  upon application of the Attorney General on behalf of the United States,
+  to order any forfeiture authorized under paragraph (1) and any action
+  provided for under paragraph (4).
+  (3) if a judgment is entered for the United States in a civil forfeiture
+  proceeding under this section, the Attorney General may seize any property
+  or other interest declared forfeited to the United States, which has not
+  previously been seized pursuant to this title or for which security has not
+  previously been obtained. The provisions of the customs laws relating to--
+  (A) the seizure, forfeiture, and condemnation of property for violation
+  of the customs law;
+  (B) the disposition of such property or the proceeds from the sale
+  thereof; and
+  (C) the remission or mitigation of any such forfeiture;
+shall apply to seizures and forfeitures incurred, or alleged to have been
+incurred, under the provisions of this title, unless such provisions are
+inconsistent with the purposes, policy, and provisions of this title.
+  (4)(A) Any officer authorized to serve any process in rem that is issued
+  by a court having jurisdiction under section 809(b) shall--
+  (i) stay the execution of such process; or
+  (ii) discharge any fish seized pursuant to such process;
+upon receipt of a satisfactory bond or other security from any person claiming
+such property. Such bond or other security shall be conditioned upon such
+person delivering such property to the appropriate court upon order thereof,
+without any impairment of its value, or paying the monetary value of such
+property pursuant to an order of such court. Judgment shall be recoverable
+on such bond or other security against both the principal and any sureties in
+the event that any condition thereof is breached, as determined by such court.
+  (B) Any fish seized pursuant to this title may be sold, subject to the
+  approval and direction of the appropriate court, for not less than the
+  fair market value thereof. The proceeds of any such sale shall be deposited
+  with such court pending the disposition of the matter involved.
+  (5) For purposes of this section, it shall be a rebuttable presumption that
+  all fish found on board a fishing vessel and which is seized in connection
+  with an act prohibited by section 810 were taken or retained in violation
+  of the Convention and this title.
+SEC. 812. FUNDING REQUIREMENTS.
+  (a) AUTHORIZATION- There are authorized to be appropriated from time
+  to time such sums as may be necessary for carrying out the purposes and
+  provisions of the Convention and this title, including--
+  (1) necessary travel expenses of the United States Commissioners or
+  Alternate Commissioners; and
+  (2) the United States' share of the joint expenses of the Commission.
+  (b) RESEARCH- Such funds as shall be made available to the Secretary of
+  Commerce for research and related activities shall be expended to carry
+  out the program of the Commission in accordance with the recommendations
+  of the United States Section and to carry out other research and observer
+  programs pursuant to the Convention.
+SEC. 813. DISPOSITION OF PROPERTY.
+  The Secretary shall dispose of any United States property held by the
+  International North Pacific Fisheries Commission on the date of its
+  termination in a manner that would further the purposes of this title.
+SEC. 814. REPEAL OF THE NORTH PACIFIC FISHERIES ACT OF 1954.
+  The Act of August 12, 1954 (16 U.S.C. 1021-1035) is repealed.
+TITLE IX--NEW ENGLAND GROUNDFISH
+SEC. 901. FISHERY ENFORCEMENT.
+  Section 311 of the Magnuson Fishery Conservation and Management Act (16
+  U.S.C. 1861) is amended--
+  (1) by redesignating subsection (f) as subsection (g); and
+  (2) by inserting immediately after subsection (e) the following new
+  subsection:
+  `(f) Enforcement of Northeast Multispecies Fishery Management Plan-
+  `(1) ENFORCEMENT AGREEMENTS- Beginning not later than October 1, 1993,
+  the Secretary shall, if requested by the Governor of a State represented
+  on the New England Fishery Management Council, enter into an agreement
+  under subsection (a), with each of the States represented on such Council,
+  that authorizes the marine law enforcement agency of such State to perform
+  duties of the Secretary relating to enforcement of the Northeast Multispecies
+  Fishery Management Plan.
+  `(2) REIMBURSEMENT- An agreement with a State under this subsection shall
+  provide, subject to the availability of appropriations, for reimbursement of
+  the State for expenses incurred in detection and prosecution of violations
+  of any fishery management plan approved by the Secretary.
+  `(3) Coast guard enforcement working group-
+  `(A) ESTABLISHMENT- The Commander of the First Coast Guard District shall
+  establish an informal fisheries enforcement working group to improve the
+  overall compliance with and effectiveness of the regulations issued under
+  the Northeast Multispecies Fishery Management Plan.
+  `(B) MEMBERSHIP- The working group shall consist of members selected by
+  the Commander, and shall include--
+  `(i) individuals who are representatives of various fishing ports located
+  in the States represented on the New England Fishery Management Council;
+  `(ii) captains of fishing vessels that operate in waters under the
+  jurisdiction of that Council; and
+  `(iii) other individuals the Commander considers appropriate.
+  `(C) NON-FEDERAL STATUS OF WORKING GROUP MEMBERS- An individual shall not
+  receive any compensation for, and shall not be considered to be a Federal
+  employee based on, membership in the working group.
+  `(D) MEETINGS- The working group shall meet, at the call of the Commander,
+  at least 4 times each year. The meetings shall be held at various major
+  fishing ports in States represented on the New England Fishery Management
+  Council, as specified by the Commander.
+  `(4) USE OF FINES AND PENALTIES- Amounts available to the Secretary
+  under this Act which are attributable to fines and penalties imposed for
+  violations of the Northeast Multispecies Fishery Management Plan shall be
+  used by the Secretary pursuant to this section to enforce that Plan.'.
+SEC. 902. FISHERIES REINVESTMENT PROGRAM.
+  (a) PROGRAM- Title III of the Magnuson Fishery Conservation and Management
+  Act (16 U.S.C. 1851 et seq.) is amended by adding at the end the following:
+`SEC. 314. NORTHWEST ATLANTIC OCEAN FISHERIES REINVESTMENT PROGRAM.
+  `(a) PROGRAM- (1) Not later than October 1, 1993, the Secretary shall
+  establish a Northwest Atlantic Ocean Fisheries Reinvestment Program for
+  the purposes of--
+  `(A) promoting development of commercial fisheries and markets for
+  underutilized species of the northwest Atlantic Ocean;
+  `(B) developing alternative fishing opportunities for participants in the
+  New England groundfish fishery;
+  `(C) providing technical support and assistance to United States fishermen
+  and fish processors to improve the value-added processing of underutilized
+  species and to make participation in fisheries for underutilized species
+  of the northwest Atlantic Ocean economically viable;
+  `(D) creating new economic opportunities through the improved processing
+  and expanded use of fish waste; and
+  `(E) helping to restore overfished New England groundfish stocks through
+  aquaculture or hatchery programs.
+  `(2) CONSULTATION- In establishing and implementing the Northwest Fisheries
+  Reinvestment Program, the Secretary shall consult with representatives of
+  the commercial fishing industry, the seafood processing industry, and the
+  academic community (including the National Sea Grant Program).
+  `(3) ACTIVITIES UNDER PROGRAM- Subject to the availability of appropriations,
+  the Secretary shall award contracts, grants and other financial assistance to
+  United States citizens to carry out the purposes of subsection (1), under the
+  terms and conditions provided in section 2(c) of the Act of August 11, 1939
+  (15 U.S.C. 713c-3(c); commonly referred to as the `Saltonstall-Kennedy Act'),
+  except that, in making awards under this section for projects involving
+  participation in fisheries for underutilized species, the Secretary shall
+  give the highest priority to a person who owns or operates a fishing vessel
+  permitted under this Act to participate in the New England groundfish
+  fishery who agrees to surrender that permit to the Secretary during the
+  duration of the contract, grant or other assistance.
+  `(4) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+  $5,000,000 for each of fiscal years 1993 through 1997 to carry out the
+  purposes of this section. For fiscal year 1993 no more than $1,000,000,
+  and for fiscal year 1994 no more than $2,000,000, of such funds may be
+  provided from monies made available under section 2(b) of the Act of August
+  11, 1939 (15 U.S.C. 713c-3(b)).
+  `(b) ASSISTANCE OF OTHER AGENCIES- The Secretary shall actively seek the
+  assistance of other Federal agencies in the development of fisheries for
+  underutilized species of the northwest Atlantic Ocean, including, to the
+  extent permitted by other applicable laws, assistance from the Secretary
+  of Agriculture in including such underutilized species as agricultural
+  commodities in the programs of the Foreign Agricultural Service for
+  which amounts are authorized under the Food, Agriculture, Conservation,
+  and Trade Act of 1990 (Public Law 101-624; 104 Stat. 3359).
+  `(c) MANAGEMENT PLANS FOR UNDERUTILIZED SPECIES- The New England Fishery
+  Management Council, in consultation with other appropriate Councils, shall
+  develop fishery management plans as soon as possible for any underutilized
+  species of the northwest Atlantic Ocean that is not covered under such a
+  plan, in order to prevent overfishing of that species.
+  `(d) UNDERUTILIZED SPECIES DEFINED- For purposes of this section, the term
+  `underutilized species of the northwest Atlantic Ocean' means any fish
+  species of the northwest Atlantic Ocean that is identified, by the Director
+  of the Northeast Fisheries Center of the National Marine Fisheries Service,
+  as an underutilized species.'.
+  (b) CONFORMING AMENDMENT- The table of contents in the first section of the
+  Magnuson Fishery Conservation and Management Act is amended by inserting
+  immediately after the item relating to section 313 the following new item:
+`Sec. 314. Northwest Atlantic Oceans Fisheries Reinvestment Program.'.
+  (c) AMENDMENTS TO THE SALTONSTALL-KENNEDY ACT- Section 2(b)(1)(A) of the
+  Act of August 11, 1939 (15 U.S.C. 713c-3(b)(1)(A)); commonly referred to
+  as the `Saltonstall-Kennedy Act'), is amended--
+  (1) by striking `and' at the end of clause (i); and
+  (2) by adding at the end the following new clause:
+  `(iii) to implement the Northwest Atlantic Ocean Fisheries Reinvestment
+  Program established under section 314 of the Magnuson Fishery Conservation
+  and Management Act.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,2727 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1284 Enrolled Bill (ENR)]
+
+<DOC>
+
+        S.1284
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend the Developmental Disabilities Assistance and Bill of Rights 
+Act to modify certain provisions relating to programs for individuals 
+with developmental disabilities, Federal assistance for priority area 
+activities for individuals with developmental disabilities, protection 
+and advocacy of individual rights, university affiliated programs, and 
+projects of national significance, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title._This Act may be cited as the ``Developmental 
+Disabilities Assistance and Bill of Rights Act Amendments of 1994''.
+    (b) Table of Contents._The table of contents is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. References.
+
+                       TITLE I_GENERAL PROVISIONS
+
+Sec. 101. Headings and short title.
+Sec. 102. Findings and purposes.
+Sec. 103. Definitions.
+Sec. 104. Federal share.
+Sec. 105. Records and audits.
+Sec. 106. Recovery.
+Sec. 107. State control of operations.
+Sec. 108. Reports.
+Sec. 109. Responsibilities of the Secretary.
+Sec. 110. Employment of handicapped individuals.
+Sec. 111. Rights of the developmentally disabled.
+
+TITLE II_FEDERAL ASSISTANCE FOR PRIORITY AREA ACTIVITIES FOR INDIVIDUALS 
+                     WITH DEVELOPMENTAL DISABILITIES
+
+Sec. 201. Part heading.
+Sec. 202. Purpose.
+Sec. 203. State plans.
+Sec. 204. Habilitation plans.
+Sec. 205. Councils.
+Sec. 206. State allotments.
+Sec. 207. Federal share and non-Federal share.
+Sec. 208. Payments to the States for planning, administration, and 
+          services.
+Sec. 209. Withholding of payments for planning, administration, and 
+          services.
+Sec. 210. Nonduplication.
+Sec. 211. Appeals by States.
+Sec. 212. Authorization of appropriations.
+Sec. 213. Review, analysis, and report.
+
+  TITLE III_PROTECTION AND ADVOCACY OF THE RIGHTS OF INDIVIDUALS WITH 
+                       DEVELOPMENTAL DISABILITIES
+
+Sec. 301. Part heading.
+Sec. 302. Purpose.
+Sec. 303. System required.
+Sec. 304. Authorization of appropriations.
+
+                 TITLE IV_UNIVERSITY AFFILIATED PROGRAMS
+
+Sec. 401. Part heading.
+Sec. 402. Purpose.
+Sec. 403. Grant authority.
+Sec. 404. Applications.
+Sec. 405. Grant awards.
+Sec. 406. Authorization of appropriations and definition.
+
+                TITLE V_PROJECTS OF NATIONAL SIGNIFICANCE
+
+Sec. 501. Part heading.
+Sec. 502. Purpose.
+Sec. 503. Grant authority.
+Sec. 504. Authorization of appropriations.
+
+SEC. 2. REFERENCES.
+
+    Except as otherwise specifically provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or a 
+repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the 
+Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 
+6000 et seq.).
+
+                       TITLE I_GENERAL PROVISIONS
+
+SEC. 101. HEADINGS AND SHORT TITLE.
+
+    (a) Title._The heading of title I of the Act is amended to read as 
+follows:
+
+ ``TITLE I_PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES''.
+
+    (b) Part._The heading of part A of title I of the Act is amended to 
+read as follows:
+
+                     ``PART A_GENERAL PROVISIONS''.
+
+    (c) Short Title._Section 100 (42 U.S.C. 6000 note) is amended_
+        (1) by striking ``Sec. 100''; and
+        (2) in the section heading, by striking ``short title'' and 
+    inserting the following new section heading:
+
+``SEC. 100. SHORT TITLE.''.
+
+SEC. 102. FINDINGS AND PURPOSES.
+
+    Section 101 (42 U.S.C. 6000) is amended to read as follows:
+
+``SEC. 101. FINDINGS, PURPOSES, AND POLICY.
+
+    ``(a) Findings._The Congress finds that_
+        ``(1) in 1993 there are more than 3,000,000 individuals with 
+    developmental disabilities in the United States;
+        ``(2) disability is a natural part of the human experience that 
+    does not diminish the right of individuals with developmental 
+    disabilities to enjoy the opportunity to live independently, enjoy 
+    self-determination, make choices, contribute to society, and 
+    experience full integration and inclusion in the economic, 
+    political, social, cultural, and educational mainstream of American 
+    society;
+        ``(3) individuals with developmental disabilities continually 
+    encounter various forms of discrimination in critical areas;
+        ``(4) there is a lack of public awareness of the capabilities 
+    and competencies of individuals with developmental disabilities;
+        ``(5) individuals whose disabilities occur during their 
+    developmental period frequently have severe disabilities that are 
+    likely to continue indefinitely;
+        ``(6) individuals with developmental disabilities often require 
+    lifelong specialized services and assistance, provided in a 
+    coordinated and culturally competent manner by many agencies, 
+    professionals, advocates, community representatives, and others to 
+    eliminate barriers and to meet the needs of such individuals and 
+    their families;
+        ``(7) a substantial portion of individuals with developmental 
+    disabilities and their families do not have access to appropriate 
+    support and services from generic and specialized service systems 
+    and remain unserved or underserved;
+        ``(8) family members, friends, and members of the community can 
+    play an important role in enhancing the lives of individuals with 
+    developmental disabilities, especially when the family and 
+    community are provided with the necessary services and supports;
+        ``(9) there is a need to ensure that services, supports, and 
+    other assistance are provided in a culturally competent manner, 
+    that individuals from racial and ethnic minority backgrounds are 
+    fully included in all activities under this Act, and that greater 
+    efforts are made to recruit individuals from minority backgrounds 
+    into the field of developmental disabilities; and
+        ``(10) the goals of the Nation properly include the goal of 
+    providing individuals with developmental disabilities with the 
+    opportunities and support to_
+            ``(A) make informed choices and decisions;
+            ``(B) live in homes and communities in which such 
+        individuals can exercise their full rights and responsibilities 
+        as citizens;
+            ``(C) pursue meaningful and productive lives;
+            ``(D) contribute to their family, community, State, and 
+        Nation;
+            ``(E) have interdependent friendships and relationships 
+        with others; and
+            ``(F) achieve full integration and inclusion in society, in 
+        an individualized manner, consistent with unique strengths, 
+        resources, priorities, concerns, abilities, and capabilities of 
+        each individual.
+    ``(b) Purpose._The purpose of this Act is to assure that 
+individuals with developmental disabilities and their families 
+participate in the design of and have access to culturally competent 
+services, supports, and other assistance and opportunities that promote 
+independence, productivity, and integration and inclusion into the 
+community, through_
+        ``(1) support to State Developmental Disabilities Councils in 
+    each State to promote, through systemic change, capacity building, 
+    and advocacy activities that are consistent with the policy under 
+    subsection (c)(2), a consumer and family-centered, comprehensive 
+    system, and a coordinated array of services, supports, and other 
+    assistance for individuals with developmental disabilities and 
+    their families;
+        ``(2) support to protection and advocacy systems in each State 
+    to protect the legal and human rights of individuals with 
+    developmental disabilities;
+        ``(3) support to university affiliated programs to provide 
+    interdisciplinary preservice preparation of students and fellows, 
+    community service activities, and the dissemination of information 
+    and research findings; and
+        ``(4) support to national initiatives to collect necessary 
+    data, provide technical assistance to State Developmental 
+    Disabilities Councils, protection and advocacy systems and 
+    university affiliated programs, and support other nationally 
+    significant activities.
+    ``(c) Policy._It is the policy of the United States that all 
+programs, projects, and activities receiving assistance under this Act 
+shall be carried out in a manner consistent with the principles that_
+        ``(1) individuals with developmental disabilities, including 
+    those with the most severe developmental disabilities, are capable 
+    of achieving independence, productivity, and integration and 
+    inclusion into the community, and often require the provision of 
+    services, supports and other assistance to achieve independence, 
+    productivity, and integration and inclusion;
+        ``(2) individuals with developmental disabilities and their 
+    families have competencies, capabilities and personal goals that 
+    should be recognized, supported, and encouraged, and any assistance 
+    to such individuals should be provided in an individualized manner, 
+    consistent with the unique strengths, resources, priorities, 
+    concerns, abilities, and capabilities of such individuals;
+        ``(3) individuals with developmental disabilities and their 
+    families are the primary decisionmakers regarding the services and 
+    supports such individuals and their families receive and play 
+    decisionmaking roles in policies and programs that affect the lives 
+    of such individuals and their families;
+        ``(4) services, supports, and other assistance are provided in 
+    a manner that demonstrates respect for individual dignity, personal 
+    preferences, and cultural differences;
+        ``(5) specific efforts must be made to ensure that individuals 
+    from racial and ethnic minority backgrounds enjoy effective and 
+    meaningful opportunities for full participation in the 
+    developmental disabilities service system;
+        ``(6) recruitment efforts within developmental disabilities at 
+    the level of preservice training, community training, practice, 
+    administration and policymaking must focus on bringing larger 
+    numbers of racial and ethnic minorities into the field in order to 
+    provide appropriate skills, knowledge, role models, and sufficient 
+    manpower to address the growing needs of an increasingly diverse 
+    population;
+        ``(7) with education and support, communities can be responsive 
+    to the needs of individuals with developmental disabilities and 
+    their families and are enriched by the full and active 
+    participation and the contributions by individuals with 
+    developmental disabilities and their families; and
+        ``(8) individuals with developmental disabilities should have 
+    access to opportunities and the necessary support to be included in 
+    community life, have interdependent relationships, live in homes 
+    and communities, and make contributions to their families, 
+    community, State, and Nation.''.
+
+SEC. 103. DEFINITIONS.
+
+    Section 102 (42 U.S.C. 6001) is amended to read as follows:
+
+``SEC. 102. DEFINITIONS.
+
+    ``For purposes of this title:
+        ``(1) American indian consortium._The term `American Indian 
+    Consortium' means any confederation of two or more recognized 
+    American Indian tribes, created through the official action of each 
+    participating tribe, that has a combined total resident population 
+    of 150,000 enrolled tribal members and a contiguous territory of 
+    Indian lands in two or more States.
+        ``(2) Assistive technology device._The term `assistive 
+    technology device' means any item, piece of equipment, or product 
+    system, whether acquired commercially, modified or customized, that 
+    is used to increase, maintain, or improve functional capabilities 
+    of individuals with developmental disabilities.
+        ``(3) Assistive technology service._The term `assistive 
+    technology service' means any service that directly assists an 
+    individual with a developmental disability in the selection, 
+    acquisition, or use, of an assistive technology device. Such term 
+    includes_
+            ``(A) the evaluation of the needs of an individual with a 
+        developmental disability, including a functional evaluation of 
+        the individual in the individual's customary environment;
+            ``(B) purchasing, leasing, or otherwise providing for the 
+        acquisition of assistive technology devices by an individual 
+        with a developmental disability;
+            ``(C) selecting, designing, fitting, customizing, adapting, 
+        applying, maintaining, repairing or replacing assistive 
+        technology devices;
+            ``(D) coordinating and using other therapies, 
+        interventions, or services with assistive technology devices, 
+        such as those associated with existing education and 
+        rehabilitation plans and programs;
+            ``(E) training or technical assistance for an individual 
+        with a developmental disability, or, where appropriate, a 
+        family member, guardian, advocate, or authorized representative 
+        of an individual with a developmental disability; and
+            ``(F) training or technical assistance for professionals 
+        (including individuals providing education and rehabilitation 
+        services), employers, or other individuals who provide services 
+        to, employ, or are otherwise substantially involved in the 
+        major life functions of, an individual with developmental 
+        disabilities.
+        ``(4) Child development activities._The term `child development 
+    activities' means such priority area activities as will assist in 
+    the prevention, identification, and alleviation of developmental 
+    disabilities in children, including early intervention services.
+        ``(5) Community living activities._The term `community living 
+    activities' means such priority area activities as will assist 
+    individuals with developmental disabilities to obtain and receive 
+    the supports needed to live in their family home or a home of their 
+    own with individuals of their choice and to develop supports in the 
+    community.
+        ``(6) Community supports._The term `community supports' means 
+    activities, services, supports, and other assistance designed to_
+            ``(A) assist neighborhoods and communities to be more 
+        responsive to the needs of individuals with developmental 
+        disabilities and their families;
+            ``(B) develop local networks that can provide informal 
+        support; and
+            ``(C) make communities accessible and enable communities to 
+        offer their resources and opportunities to individuals with 
+        developmental disabilities and their families.
+    Such term includes community education, personal assistance 
+    services, vehicular and home modifications, support at work, and 
+    transportation.
+        ``(7) Culturally competent._The term `culturally competent' 
+    means services, supports or other assistance that are conducted or 
+    provided in a manner that is responsive to the beliefs, 
+    interpersonal styles, attitudes, language and behaviors of 
+    individuals who are receiving services, and in a manner that has 
+    the greatest likelihood of ensuring their maximum participation in 
+    the program.
+        ``(8) Developmental disability._The term `developmental 
+    disability' means a severe, chronic disability of an individual 5 
+    years of age or older that_
+            ``(A) is attributable to a mental or physical impairment or 
+        combination of mental and physical impairments;
+            ``(B) is manifested before the individual attains age 22;
+            ``(C) is likely to continue indefinitely;
+            ``(D) results in substantial functional limitations in 
+        three or more of the following areas of major life activity_
+                ``(i) self-care;
+                ``(ii) receptive and expressive language;
+                ``(iii) learning;
+                ``(iv) mobility;
+                ``(v) self-direction;
+                ``(vi) capacity for independent living; and
+                ``(vii) economic self-sufficiency; and
+            ``(E) reflects the individual's need for a combination and 
+        sequence of special, interdisciplinary, or generic services, 
+        supports, or other assistance that is of lifelong or extended 
+        duration and is individually planned and coordinated,
+    except that such term, when applied to infants and young children 
+    means individuals from birth to age 5, inclusive, who have 
+    substantial developmental delay or specific congenital or acquired 
+    conditions with a high probability of resulting in developmental 
+    disabilities if services are not provided.
+        ``(9) Early intervention services._The term `early intervention 
+    services' means services provided to infants, toddlers, young 
+    children, and their families to_
+            ``(A) enhance the development of infants, toddlers, and 
+        young children with disabilities and to minimize their 
+        potential for developmental delay; and
+            ``(B) enhance the capacity of families to meet the special 
+        needs of their infants, toddlers, and young children.
+        ``(10) Employment activities._The term `employment activities' 
+    means such priority area activities as will increase the 
+    independence, productivity, and integration and inclusion into the 
+    community of individuals with developmental disabilities in work 
+    settings.
+        ``(11) Family support service._The term `family support 
+    service' means services, supports, and other assistance provided to 
+    families with members with developmental disabilities that are 
+    designed to_
+            ``(A) strengthen the family's role as primary caregiver;
+            ``(B) prevent inappropriate out-of-the-home placement and 
+        maintain family unity; and
+            ``(C) reunite families with members who have been placed 
+        out of the home, whenever possible.
+    Such term includes respite care, rehabilitation technology, 
+    personal assistance services, parent training and counseling, 
+    support for elderly parents, vehicular and home modifications, and 
+    assistance with extraordinary expenses associated with the needs of 
+    individuals with developmental disabilities.
+        ``(12) Federal priority areas._The term `Federal priority 
+    areas' means community living activities, employment activities, 
+    child development activities, and system coordination and community 
+    education activities.
+        ``(13) Independence._The term `independence' means the extent 
+    to which individuals with developmental disabilities exert control 
+    and choice over their own lives.
+        ``(14) Individual supports._The term `individual supports' 
+    means services, supports, and other assistance that enable an 
+    individual with a developmental disability to be independent, 
+    productive, integrated, and included into such individual's 
+    community, and that are designed to_
+            ``(A) enable such individual to control such individual's 
+        environment, permitting the most independent life possible;
+            ``(B) prevent placement into a more restrictive living 
+        arrangement than is necessary; and
+            ``(C) enable such individual to live, learn, work, and 
+        enjoy life in the community.
+    Such term includes personal assistance services, rehabilitation 
+    technology, vehicular and home modifications, support at work, and 
+    transportation.
+        ``(15) Integration and inclusion._The term `integration and 
+    inclusion', with respect to individuals with developmental 
+    disabilities, means_
+            ``(A) the use by individuals with developmental 
+        disabilities of the same community resources that are used by 
+        and available to other citizens;
+            ``(B) living in homes close to community resources, with 
+        regular contact with citizens without disabilities in their 
+        communities;
+            ``(C) the full and active participation by individuals with 
+        developmental disabilities in the same community activities and 
+        types of employment as citizens without disabilities, and 
+        utilization of the same community resources as citizens without 
+        disabilities, living, learning, working, and enjoying life in 
+        regular contact with citizens without disabilities; and
+            ``(D) having friendships and relationships with individuals 
+        and families of their own choosing.
+        ``(16) Nonprofit._The term `nonprofit' means an agency, 
+    institution, or organization that is owned or operated by one or 
+    more corporations or associations, no part of the net earnings of 
+    which inures, or may lawfully inure, to the benefit of any private 
+    shareholder or individual.
+        ``(17) Other organizations._The term `other organizations' 
+    means those organizations that are not State agencies or nonprofit 
+    agencies, except such organizations may be consulting firms, 
+    independent proprietary businesses and providers, and local 
+    community groups not organizationally incorporated, and that are 
+    interested in supporting individuals with developmental 
+    disabilities.
+        ``(18) Personal assistance services._The term `personal 
+    assistance services' means a range of services, provided by one or 
+    more individuals, designed to assist an individual with a 
+    disability to perform daily living activities on or off a job that 
+    such individual would typically perform if such individual did not 
+    have a disability. Such services shall be designed to increase such 
+    individual's control in life and ability to perform everyday 
+    activities on or off such job.
+        ``(19) Prevention._The term `prevention' means activities that 
+    address the causes of developmental disabilities and the 
+    exacerbation of functional limitations, such as activities that_
+            ``(A) eliminate or reduce the factors that cause or 
+        predispose individuals to developmental disabilities or that 
+        increase the prevalence of developmental disabilities;
+            ``(B) increase the early identification of existing 
+        problems to eliminate circumstances that create or increase 
+        functional limitations; and
+            ``(C) mitigate against the effects of developmental 
+        disabilities throughout the individual's lifespan.
+        ``(20) Productivity._The term `productivity' means_
+            ``(A) engagement in income-producing work that is measured 
+        by increased income, improved employment status, or job 
+        advancement; or
+            ``(B) engagement in work that contributes to a household or 
+        community.
+        ``(21) Protection and advocacy system._The term `protection and 
+    advocacy system' means a protection and advocacy system established 
+    in accordance with section 142.
+        ``(22) Rehabilitation technology._The term `rehabilitation 
+    technology' means the systematic application of technologies, 
+    engineering methodologies, or scientific principles to meet the 
+    needs of, and address the barriers confronted by, individuals with 
+    developmental disabilities in areas that include education, 
+    rehabilitation, employment, transportation, independent living, and 
+    recreation. Such term includes rehabilitation engineering, 
+    assistive technology devices, and assistive technology services.
+        ``(23) Secretary._The term `Secretary' means the Secretary of 
+    Health and Human Services.
+        ``(24) Service coordination activities._The term `service 
+    coordination activities' (also referred to as `case management 
+    activities') means activities that assist and enable individuals 
+    with developmental disabilities and their families to access 
+    services, supports and other assistance, and includes_
+            ``(A) the provision of information to individuals with 
+        developmental disabilities and their families about the 
+        availability of services, supports, and other assistance;
+            ``(B) assistance in obtaining appropriate services, 
+        supports, and other assistance, which may include facilitating 
+        and organizing such assistance;
+            ``(C) coordination and monitoring of services, supports, 
+        and other assistance provided singly or in combination to 
+        individuals with developmental disabilities and their families 
+        to ensure accessibility, continuity, and accountability of such 
+        assistance; and
+            ``(D) follow-along services that ensure, through a 
+        continuing relationship, that the changing needs of individuals 
+        with developmental disabilities and their families are 
+        recognized and appropriately met.
+        ``(25) State._The term `State', except as provided in section 
+    155, includes, in addition to each of the several States of the 
+    United States, the District of Columbia, the Commonwealth of Puerto 
+    Rico, the United States Virgin Islands, Guam, American Samoa, the 
+    Commonwealth of the Northern Mariana Islands, and the Republic of 
+    Palau (until the Compact of Free Association with Palau takes 
+    effect).
+        ``(26) State developmental disabilities council._The term 
+    `State Developmental Disabilities Council' means a Council 
+    established under section 124.
+        ``(27) State priority area._The term `State priority area' 
+    means priority area activities in an area considered essential by 
+    the State Developmental Disabilities Council.
+        ``(28) Supported employment._The term `supported employment' 
+    means competitive work in integrated work settings for individuals 
+    with developmental disabilities_
+            ``(A)(i) for whom competitive employment has not 
+        traditionally occurred; or
+            ``(ii) for whom competitive employment has been interrupted 
+        or intermittent as a result of a severe disability; and
+            ``(B) who, because of the nature and severity of their 
+        disability, need intensive supported employment services or 
+        extended services in order to perform such work.
+        ``(29) System coordination and community education activities._
+    The term `system coordination and community education activities' 
+    means activities that_
+            ``(A) eliminate barriers to access and eligibility for 
+        services, supports, and other assistance;
+            ``(B) enhance systems design, redesign, and integration, 
+        including the encouragement of the creation of local service 
+        coordination and information and referral statewide systems;
+            ``(C) enhance individual, family, and citizen participation 
+        and involvement; and
+            ``(D) develop and support coalitions and individuals 
+        through training in self-advocacy, educating policymakers, and 
+        citizen leadership skills.
+        ``(30) University affiliated program._The term `university 
+    affiliated program' means a university affiliated program 
+    established under section 152.
+        ``(31) Unserved and underserved._The term `unserved and 
+    underserved' includes populations such as individuals from racial 
+    and ethnic minority backgrounds, disadvantaged individuals, 
+    individuals with limited-English proficiency, individuals from 
+    underserved geographic areas (rural or urban), and specific groups 
+    of individuals within the population of individuals with 
+    developmental disabilities, including individuals with 
+    developmental disabilities attributable to physical impairment, 
+    mental impairment, or a combination of physical and mental 
+    impairments.''.
+
+SEC. 104. FEDERAL SHARE.
+
+    Section 103 (42 U.S.C. 6002) is repealed.
+
+SEC. 105. RECORDS AND AUDITS.
+
+    (a) Section Heading._Section 104 (42 U.S.C. 6003) is amended_
+        (1) by striking ``Sec. 104.''; and
+        (2) in the section heading, by striking ``records and audit'' 
+    and inserting the following new section heading:
+
+``SEC. 104. RECORDS AND AUDITS.''.
+
+    (b) Records and Audits._Section 104 (42 U.S.C. 6003) is amended_
+        (1) in subsection (a)_
+            (A) by striking ``Each'' and inserting ``Records._Each'';
+            (B)bystriking``including''and inserting ``including_'';
+            (C) by realigning the margins of subparagraphs (A), (B), 
+        and (C) of paragraph (1) so as to align with the margins of 
+        subparagraphs (A) and (B) of paragraph (28) of section 102;
+            (D) by realigning the margins of paragraphs (1) and (2) so 
+        as to align with the margin of paragraph (30) of section 102;
+            (E) in paragraph (1), by striking ``disclose'' and 
+        inserting ``disclose_''; and
+            (F) by striking the comma each place such appears and 
+        inserting a semicolon; and
+        (2) in subsection (b), by striking ``The Secretary'' and 
+    inserting ``Access._The Secretary''.
+
+SEC. 106. RECOVERY.
+
+    Section 105 (42 U.S.C. 6004) is repealed.
+
+SEC. 107. STATE CONTROL OF OPERATIONS.
+
+    Section 106 (42 U.S.C. 6005) is amended_
+        (1) by striking ``Sec. 106.'';
+        (2) in the section heading, by striking ``state control of 
+    operations'' and inserting the following new section heading:
+
+``SEC. 106. STATE CONTROL OF OPERATIONS.'';
+
+    and
+        (3) by striking ``facility for persons'' and inserting 
+    ``programs, services, and supports for individuals''.
+
+SEC. 108. REPORTS.
+
+    (a) Section Heading._Section 107 (42 U.S.C. 6006) is amended_
+        (1) by striking ``Sec. 107.''; and
+        (2) in the section heading, by striking ``reports'' and 
+    inserting the following new section heading:
+
+``SEC. 107. REPORTS.''.
+
+    (b) Reports._Section 107 (42 U.S.C. 6006) is amended_
+        (1) in subsection (a)_
+            (A) in the matter preceding paragraph (1)_
+                (i) by striking, ``By January'' and inserting 
+            ``Developmental Disabilities Council Reports._By January'';
+                (ii) by striking ``the State Planning Council of each 
+            State'' and inserting ``each State Developmental 
+            Disabilities Council'';
+                (iii) by striking ``a report concerning'' and inserting 
+            ``a report of''; and
+                (iv) by striking ``such report'' and inserting 
+            ``report'';
+            (B) in paragraph (1), by striking ``of such activities'' 
+        and all that follows through ``from such activities'' and 
+        inserting ``of activities and accomplishments'';
+            (C) in paragraph (2)_
+                (i) by striking ``such accomplishments'' and inserting 
+            ``accomplishments''; and
+                (ii) by striking ``by the State'';
+            (D) in paragraph (4)_
+                (i) by striking ``Planning'' and inserting 
+            ``Developmental Disabilities'';
+                (ii) by striking ``each'' each place such term appears;
+                (iii) by striking ``report'' and inserting ``reports'';
+                (iv) by striking ``1902(a)(31)(C)'' and inserting 
+            ``1902(a)(31)'';
+                (v) by striking ``plan'' and inserting ``plans''; and
+                (vi) by striking ``; and'' and inserting a semicolon;
+            (E) by striking paragraph (5); and
+            (F) by adding at the end the following new paragraphs:
+        ``(5) a description of_
+            ``(A) the trends and progress made in the State concerning 
+        systemic change (including policy reform), capacity building, 
+        advocacy, and other actions on behalf of individuals with 
+        developmental disabilities, with attention to individuals who 
+        are traditionally unserved and underserved, particularly 
+        individuals who are members of ethnic and racial minority 
+        groups, and individuals from underserved geographic areas;
+            ``(B) systemic change, capacity building, and advocacy 
+        activities that affect individuals with disabilities other than 
+        developmental disabilities; and
+            ``(C) a summary of actions taken to improve access and 
+        services for unserved and underserved groups;
+        ``(6) a description of resources leveraged by activities 
+    directly attributable to State Developmental Disabilities Council 
+    actions; and
+        ``(7) a description of the method by which the State 
+    Developmental Disabilities Council shall widely disseminate the 
+    annual report to affected constituencies as well as the general 
+    public and to assure that the report is available in accessible 
+    formats.'';
+        (2) in subsection (b)_
+            (A) by striking ``By January'' and inserting ``Protection 
+        and Advocacy System Reports._By January''; and
+            (B) by inserting before the period ``, including a 
+        description of the system's priorities for such fiscal year, 
+        the process used to obtain public input, the nature of such 
+        input, and how such input was used''; and
+        (3) in subsection (c)_
+            (A) by realigning the margins of subparagraphs (A) and (B) 
+        of paragraph (1) so as to align with the margins of 
+        subparagraph (C) of such paragraph;
+            (B) by realigning the margins of paragraphs (1) and (2) so 
+        as to align with the margin of paragraph (1) of subsection (a);
+            (C) by striking the subsection designation and inserting 
+        ``(c) Secretary Reports._'';
+            (D) by striking ``(1) By'' and inserting the following:
+        ``(1) In general._By'';
+            (E) in paragraph (1)_
+                (i) in subparagraph (B)_
+
+                    (I) by striking ``integration'' each place such 
+                term appears and inserting ``integration and 
+                inclusion''; and
+                    (II) by striking ``persons'' and inserting 
+                ``individuals'';
+
+                (ii) by striking subparagraph (C) and inserting the 
+            following new subparagraph:
+            ``(C)(i) the trends and progress made in the States 
+        concerning systemic change (including policy reform), capacity 
+        building, advocacy, and other actions on behalf of individuals 
+        with developmental disabilities, with attention to individuals 
+        who are traditionally unserved and underserved, particularly 
+        individuals who are members of ethnic and racial minority 
+        groups, and individuals from underserved geographic areas;
+            ``(ii) systemic change, capacity building, and advocacy 
+        activities that affect individuals with disabilities other than 
+        developmental disabilities; and
+            ``(iii) a summary of actions taken to improve access and 
+        services for unserved and underserved groups;''; and
+                (iii) in subparagraph (D), by striking ``persons'' and 
+            inserting ``individuals''; and
+            (F) in paragraph (2)_
+                (i) by striking ``use and include'' and inserting 
+            ``include and analyze'';
+                (ii) by striking ``to the Secretary''; and
+                (iii) by striking ``In preparing'' and inserting 
+            ``Inclusion of council and system information._In 
+            preparing''.
+
+SEC. 109. RESPONSIBILITIES OF THE SECRETARY.
+
+    (a) Section Heading._Section 108 (42 U.S.C. 6007) is amended_
+        (1) by striking ``Sec. 108.''; and
+        (2) in the section heading, by striking ``responsibilities of 
+    the secretary'' and inserting the following new section heading:
+
+``SEC. 108. RESPONSIBILITIES OF THE SECRETARY.''.
+
+    (b) Responsibilities._Section 108 (42 U.S.C. 6007) is amended_
+        (1) in subsection (a), by striking ``The Secretary'' and 
+    inserting ``Regulations._The Secretary''; and
+        (2) in subsection (b)_
+            (A) by striking ``Within ninety'' and inserting 
+        ``Interagency Committee._Within 90''; and
+            (B) by striking ``Administration for Developmental 
+        Disabilities'' and inserting ``Administration on Developmental 
+        Disabilities,''.
+
+SEC. 110. EMPLOYMENT OF HANDICAPPED INDIVIDUALS.
+
+    (a) Section Heading._Section 109 (42 U.S.C. 6008) is amended_
+        (1) by striking ``Sec. 109.''; and
+        (2) in the section heading, by striking ``employment of 
+    handicapped individuals'' and inserting the following new section 
+    heading:
+
+``SEC. 109. EMPLOYMENT OF INDIVIDUALS WITH DISABILITIES.''.
+
+    (b) Employment._Section 109 (42 U.S.C. 6008) is amended_
+        (1) by striking ``handicapped individuals'' and inserting 
+    ``individuals with disabilities'';
+        (2) by striking ``Act of'' and inserting ``Act of 1973''; and
+        (3) by striking ``which govern'' and all that follows through 
+    ``subcontracts.'' and inserting the following: ``that govern 
+    employment_
+        ``(1) by State rehabilitation agencies and community 
+    rehabilitation programs; and
+        ``(2) under Federal contracts and subcontracts.''.
+
+SEC. 111. RIGHTS OF THE DEVELOPMENTALLY DISABLED.
+
+    (a) Section Heading._Section 110 (42 U.S.C. 6009) is amended_
+        (1) by striking ``Sec. 110.''; and
+        (2) in the section heading, by striking ``rights of the 
+    developmentally disabled'' and inserting the following new section 
+    heading:
+``SEC. 110. RIGHTS OF INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES.''.
+    (b) Rights._Section 110 (42 U.S.C. 6009) is amended_
+        (1) in the matter preceding paragraph (1) by striking 
+    ``persons'' and inserting ``individuals'';
+        (2) in paragraph (1), by striking ``Persons'' and inserting 
+    ``Individuals'';
+        (3) in paragraph (2)_
+            (A) by striking ``a person'' and inserting ``an 
+        individual'';
+            (B) by striking ``the person'' and inserting ``the 
+        individual''; and
+            (C) by striking ``the person's'' and inserting ``the 
+        individual's'';
+        (4) in paragraph (3), by striking ``persons'' each place such 
+    term appears and inserting ``individuals'';
+        (5) in paragraph (4), by striking ``persons'' each place such 
+    term appears and inserting ``individuals''; and
+        (6) in the matter following subparagraph (C) of paragraph (4), 
+    by striking ``persons'' each place such term appears and inserting 
+    ``individuals''.
+
+     TITLE II_FEDERAL ASSISTANCE FOR PRIORITY AREA ACTIVITIES FOR 
+              INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES
+
+SEC. 201. PART HEADING.
+
+    The heading of Part B of title I of the Act is amended to read as 
+follows:
+
+    ``PART B_FEDERAL ASSISTANCE TO STATE DEVELOPMENTAL DISABILITIES 
+                              COUNCILS''.
+
+SEC. 202. PURPOSE.
+
+    Section 121 (42 U.S.C. 6021) is amended to read as follows:
+
+``SEC. 121. PURPOSE.
+
+    ``The purpose of this part is to provide for allotments to support 
+State Developmental Disabilities Councils in each State to promote, 
+through systemic change, capacity building, and advocacy activities 
+that are consistent with the policy under section 101(c)(2), the 
+development of a consumer and family-centered, comprehensive system and 
+a coordinated array of culturally competent services, supports, and 
+other assistance designed to achieve independence, productivity, and 
+integration and inclusion into the community for individuals with 
+developmental disabilities.''.
+
+SEC. 203. STATE PLANS.
+
+    Section 122 (42 U.S.C. 6022) is amended to read as follows:
+
+``SEC. 122. STATE PLAN.
+
+    ``(a) In General._Any State desiring to take advantage of this part 
+shall have a State plan submitted to, and approved by, the Secretary 
+under this section.
+    ``(b) Planning Cycle._The plan under subsection (a) shall be 
+reviewed annually and revised at least once every 3 years.
+    ``(c) State Plan Requirements._In order to be approved by the 
+Secretary under this section, a State plan shall meet the requirements 
+in paragraphs (1) through (5).
+        ``(1) State council._The plan shall provide for the 
+    establishment and maintenance of a State Developmental Disabilities 
+    Council in accordance with section 124 and describe the membership 
+    of such Council.
+        ``(2) Designated state agency._The plan shall identify the 
+    agency or office within the State designated to support the State 
+    Developmental Disabilities Council in accordance with this section 
+    and section 124(d).
+        ``(3) Comprehensive review and analysis._The plan shall contain 
+    a comprehensive review and analysis of the extent to which services 
+    and supports are available to, and the need for services and 
+    supports for, individuals with developmental disabilities and their 
+    families. Such review and analysis shall include_
+            ``(A) a description of the services, supports and other 
+        assistance being provided to, or to be provided to, individuals 
+        with developmental disabilities and their families under other 
+        federally assisted State programs, plans, and policies that the 
+        State conducts and in which individuals with developmental 
+        disabilities are or may be eligible to participate, including 
+        programs relating to education, job training, vocational 
+        rehabilitation, public assistance, medical assistance, social 
+        services, child welfare, maternal and child health, aging, 
+        programs for children with special health care needs, 
+        children's mental health, housing, transportation, technology, 
+        comprehensive health and mental health, and such other programs 
+        as the Secretary may specify;
+            ``(B) a description of the extent to which agencies 
+        operating such other federally assisted State programs pursue 
+        interagency initiatives to improve and enhance services, 
+        supports, and other assistance for individuals with 
+        developmental disabilities; and
+            ``(C) an examination of the provision, and the need for the 
+        provision, in the State of the four Federal priority areas and 
+        an optional State priority area, including_
+                ``(i) an analysis of such Federal and State priority 
+            areas in relation to the degree of support for individuals 
+            with developmental disabilities attributable to either 
+            physical impairment, mental impairment, or a combination of 
+            physical and mental impairments;
+                ``(ii) an analysis of criteria for eligibility for 
+            services, including specialized services and special 
+            adaptation of generic services provided by agencies within 
+            the State, that may exclude individuals with developmental 
+            disabilities from receiving such services;
+                ``(iii) an analysis of the barriers that impede full 
+            participation of members of unserved and underserved 
+            groups;
+                ``(iv) consideration of the report conducted pursuant 
+            to section 124(e);
+                ``(v) consideration of the data collected by the State 
+            educational agency under section 618 of the Individuals 
+            with Disabilities Education Act;
+                ``(vi) an analysis of services, assistive technology, 
+            or knowledge that may be unavailable to assist individuals 
+            with developmental disabilities;
+                ``(vii) an analysis of existing and projected fiscal 
+            resources;
+                ``(viii) an analysis of any other issues identified by 
+            the State Developmental Disabilities Council; and
+                ``(ix) the formulation of objectives in systemic 
+            change, capacity building, and advocacy to address the 
+            issues described in clauses (i) through (vi) for all 
+            subpopulations of individuals with developmental 
+            disabilities that may be identified by the State 
+            Developmental Disabilities Council.
+        ``(4) Plan objectives._The plan shall_
+            ``(A) specify employment, and at the discretion of the 
+        State, any or all of the three other Federal priority areas and 
+        an optional State priority area that are selected by the State 
+        Developmental Disabilities Council for such Council's major 
+        systemic change, capacity building, and advocacy activities to 
+        be addressed during the plan period and describe the extent and 
+        scope of the Federal and State priority areas that will be 
+        addressed under the plan in the fiscal year;
+            ``(B) describe the specific 1-year and 3-year objectives to 
+        be achieved and include a listing of the programs, activities, 
+        and resources by which the State Developmental Disabilities 
+        Council will implement its systemic change, capacity building, 
+        and advocacy activities in selected priority areas, and set 
+        forth the non-Federal share required to carry out each 
+        objective; and
+            ``(C) establish a method for the periodic evaluation of the 
+        plan's effectiveness in meeting the objectives described in 
+        subparagraph (B).
+        ``(5) Assurances._The plan shall contain or be supported by the 
+    assurances described in subparagraphs (A) through (N), which are 
+    satisfactory to the Secretary.
+            ``(A) Use of funds._With respect to the funds paid to the 
+        State under section 125, the plan shall provide assurances 
+        that_
+                ``(i) such funds will be used to make a significant 
+            contribution toward enhancing the independence, 
+            productivity, and integration and inclusion into the 
+            community of individuals with developmental disabilities in 
+            various political subdivisions of the State;
+                ``(ii) such funds will be used to supplement and to 
+            increase the level of funds that would otherwise be made 
+            available for the purposes for which Federal funds are 
+            provided and not to supplant non-Federal funds;
+                ``(iii) such funds will be used to complement and 
+            augment rather than duplicate or replace services for 
+            individuals with developmental disabilities and their 
+            families who are eligible for Federal assistance under 
+            other State programs;
+                ``(iv) part of such funds will be made available by the 
+            State to public or private entities;
+                ``(v) not more than 25 percent of such funds will be 
+            allocated to the agency designated under section 124(d) for 
+            service demonstration by such agency and that such funds 
+            and demonstration services have been explicitly authorized 
+            by the State Developmental Disabilities Council;
+                ``(vi) not less than 65 percent of the amount available 
+            to the State under section 125 shall be expended for 
+            activities in the Federal priority area of employment 
+            activities, and, at the discretion of the State, activities 
+            in any or all of the three other Federal priority areas and 
+            an optional State priority area; and
+                ``(vii) the remainder of the amount available to the 
+            State from allotments under section 125 (after making 
+            expenditures required by clause (vi)) shall be used for the 
+            planning, coordination, administration, and implementation 
+            of priority area activities, and other activities relating 
+            to systemic change, capacity building, and advocacy to 
+            implement the responsibilities of the State Developmental 
+            Disabilities Council pursuant to section 124(c).
+            ``(B) State financial participation._The plan shall provide 
+        assurances that there will be reasonable State financial 
+        participation in the cost of carrying out the State plan.
+            ``(C) Conflict of interest._The plan shall provide 
+        assurances that the State Developmental Disabilities Council 
+        has approved conflict of interest policies as of October 1, 
+        1994, to ensure that no member of such Council shall cast a 
+        vote on any matter that would provide direct financial benefit 
+        to the member or otherwise give the appearance of a conflict of 
+        interest.
+            ``(D) Urban and rural poverty areas._The plan shall provide 
+        assurances that special financial and technical assistance 
+        shall be given to organizations that provide services, 
+        supports, and other assistance to individuals with 
+        developmental disabilities who live in areas designated as 
+        urban or rural poverty areas.
+            ``(E) Program standards._The plan shall provide assurances 
+        that programs, projects, and activities assisted under the 
+        plan, and the buildings in which such programs, projects, and 
+        activities are operated, will meet standards prescribed by the 
+        Secretary in regulation and all applicable Federal and State 
+        accessibility standards.
+            ``(F) Individualized services._The plan shall provide 
+        assurances that any direct services provided to individuals 
+        with developmental disabilities and funded under this plan will 
+        be provided in an individualized manner, consistent with unique 
+        strengths, resources, priorities, concerns, abilities, and 
+        capabilities of an individual.
+            ``(G) Human rights._The plan shall provide assurances that 
+        the human rights of all individuals with developmental 
+        disabilities (especially those individuals without familial 
+        protection) who are receiving services under programs assisted 
+        under this part will be protected consistent with section 110 
+        (relating to rights of individuals with developmental 
+        disabilities).
+            ``(H) Minority participation._The plan shall provide 
+        assurances that the State has taken affirmative steps to assure 
+        that participation in programs under this part is 
+        geographically representative of the State, and reflects the 
+        diversity of the State with respect to race and ethnicity.
+            ``(I) Intermediate care facility for the mentally retarded 
+        survey reports._The plan shall provide assurances that the 
+        State will provide the State Developmental Disabilities Council 
+        with a copy of each annual survey report and plan of 
+        corrections for cited deficiencies prepared pursuant to section 
+        1902(a)(31) of the Social Security Act with respect to any 
+        intermediate care facility for the mentally retarded in such 
+        State not less than 30 days after the completion of each such 
+        report or plan.
+            ``(J) Volunteers._The plan shall provide assurances that 
+        the maximum utilization of all available community resources 
+        including volunteers serving under the Domestic Volunteer 
+        Service Act of 1973 and other appropriate voluntary 
+        organizations will be provided for, except that such volunteer 
+        services shall supplement, and shall not be in lieu of, 
+        services of paid employees.
+            ``(K) Employee protections._The plan shall provide 
+        assurances that fair and equitable arrangements (as determined 
+        by the Secretary after consultation with the Secretary of 
+        Labor) will be provided to protect the interests of employees 
+        affected by actions under the plan to provide community living 
+        activities, including arrangements designed to preserve 
+        employee rights and benefits and to provide training and 
+        retraining of such employees where necessary and arrangements 
+        under which maximum efforts will be made to guarantee the 
+        employment of such employees.
+            ``(L) Staff assignments._The plan shall provide assurances 
+        that the staff and other personnel of the State Developmental 
+        Disabilities Council, while working for the Council, are 
+        responsible solely for assisting the Council in carrying out 
+        its duties under this part and are not assigned duties by the 
+        designated State agency or any other agency or office of the 
+        State.
+            ``(M) Noninterference._The plan shall provide assurances 
+        that the designated State agency or other office of the State 
+        will not interfere with systemic change, capacity building, and 
+        advocacy activities, budget, personnel, State plan development, 
+        or plan implementation of the State Developmental Disabilities 
+        Council, except that the designated State agency shall have the 
+        authority necessary to carry out the responsibilities described 
+        in section 124(d)(3).
+            ``(N) Other assurances._The plan shall contain such 
+        additional information and assurances as the Secretary may find 
+        necessary to carry out the provisions and purposes of this 
+        part.
+    ``(d) Public Review, Submission, and Approval._
+        ``(1) Public review._The plan shall be made available for 
+    public review and comment with appropriate and sufficient notice in 
+    accessible formats and take into account and respond to significant 
+    suggestions, as prescribed by the Secretary in regulation.
+        ``(2) Consultation with the designated state agency._Before the 
+    plan is submitted to the Secretary, the State Developmental 
+    Disabilities Council shall consult with the designated State agency 
+    to ensure that the State plan is consistent with State law and to 
+    obtain appropriate State plan assurances.
+        ``(3) Plan approval._The Secretary shall approve any State plan 
+    and annual updates of such plan that comply with the provisions of 
+    subsections (a), (b), and (c). The Secretary may not finally 
+    disapprove a State plan except after providing reasonable notice 
+    and an opportunity for a hearing to the State.''.
+
+SEC. 204. HABILITATION PLANS.
+
+    Section 123 (42 U.S.C. 6023) is repealed.
+
+SEC. 205. COUNCILS.
+
+    Section 124 (42 U.S.C. 6024) is amended to read as follows:
+``SEC. 124. STATE DEVELOPMENTAL DISABILITIES COUNCILS AND DESIGNATED 
+STATE AGENCIES.
+    ``(a) In General._Each State that receives assistance under this 
+part shall establish and maintain a State Developmental Disabilities 
+Council (hereafter in this section referred to as the `Council') to 
+promote, through systemic change, capacity building, and advocacy 
+activities (consistent with section 101(c)(2)), the development of a 
+consumer and family-centered comprehensive system and a coordinated 
+array of culturally competent services, supports and other assistance 
+designed to achieve independence, productivity, and integration and 
+inclusion into the community for individuals with developmental 
+disabilities. The Council shall have the authority to fulfill its 
+responsibilities described in subsection (c).
+    ``(b) Council Membership._
+        ``(1) Council appointments._The members of the Council of a 
+    State shall be appointed by the Governor of the State from among 
+    the residents of that State. The Governor shall select members of 
+    the Council, at his or her discretion, after soliciting 
+    recommendations from organizations representing a broad range of 
+    individuals with developmental disabilities and individuals 
+    interested in individuals with developmental disabilities, 
+    including the non-State agency members of the Council. The Council 
+    may, at the request of the Governor, coordinate Council and public 
+    input to the Governor regarding all recommendations. To the extent 
+    feasible, the membership of the Council shall be geographically 
+    representative of the State and reflect the diversity of the State 
+    with respect to race and ethnicity.
+        ``(2) Membership rotation._The Governor shall make appropriate 
+    provisions to rotate the membership of the Council. Such provisions 
+    shall allow members to continue to serve on the Council until such 
+    members' successors are appointed. The Council shall notify the 
+    Governor regarding membership requirements, when vacancies remain 
+    unfilled for a significant period of time.
+        ``(3) Representation of agencies and organizations._Each 
+    Council shall at all times include representatives of the principal 
+    State agencies (including the State agencies that administer funds 
+    provided under the Rehabilitation Act of 1973, the Individuals with 
+    Disabilities Education Act, the Older Americans Act, and title XIX 
+    of the Social Security Act), institutions of higher education, each 
+    university affiliated program in the State established under part 
+    D, the State protection and advocacy system established under part 
+    C, and local agencies, nongovernmental agencies, and private 
+    nonprofit groups concerned with services for individuals with 
+    developmental disabilities in the State in which such agencies and 
+    groups are located. Such representatives shall_
+            ``(A) have sufficient authority to engage in policy 
+        planning and implementation on behalf of the department, 
+        agency, or program such representatives represent; and
+            ``(B) recuse themselves from any discussion of grants or 
+        contracts for which such representatives' departments, 
+        agencies, or programs are grantees or applicants and comply 
+        with the conflict of interest policies required under section 
+        122(c)(5)(C).
+        ``(4) Representation of individuals with developmental 
+    disabilities._Not less than 50 percent of the membership of each 
+    Council shall consist of individuals who are_
+            ``(A)(i) individuals with developmental disabilities;
+            ``(ii) parents or guardians of children with developmental 
+        disabilities; or
+            ``(iii) immediate relatives or guardians of adults with 
+        mentally impairing developmental disabilities who cannot 
+        advocate for themselves; and
+            ``(B) not employees of a State agency that receives funds 
+        or provides services under this part, and who are not managing 
+        employees (as defined in section 1126(b) of the Social Security 
+        Act) of any other entity that receives funds or provides 
+        services under this part.
+        ``(5) Composition of membership with developmental 
+    disabilities._Of the members of the Council described in paragraph 
+    (4)_
+            ``(A) one-third shall be individuals with developmental 
+        disabilities as described in paragraph (4)(A)(i);
+            ``(B) one-third shall be parents of children with 
+        developmental disabilities as described in paragraph 
+        (4)(A)(ii), and immediate relatives or guardians of adults with 
+        mentally impairing developmental disabilities as described in 
+        paragraph (4)(A)(iii); and
+            ``(C) one-third shall be a combination of individuals 
+        described in paragraph (4)(A).
+        ``(6) Institutionalized individuals._Of the members of the 
+    Council described in paragraph (5), at least one shall be an 
+    immediate relative or guardian of an institutionalized or 
+    previously institutionalized individual with a developmental 
+    disability or an individual with a developmental disability who 
+    resides or previously resided in an institution. This paragraph 
+    shall not apply with respect to a State if such an individual does 
+    not reside in that State.
+    ``(c) Council Responsibilities._A Council, through Council members, 
+staff, consultants, contractors, or subgrantees, shall have the 
+responsibilities described in paragraphs (1) through (11).
+        ``(1) Systemic change, capacity building, and advocacy 
+    activities._The Council shall serve as an advocate for individuals 
+    with developmental disabilities and conduct programs, projects, and 
+    activities that carry out the purpose under section 121.
+        ``(2) Examination of priority areas._Not less than once every 3 
+    years, the Council shall examine the provision of and need for the 
+    four Federal priority areas and an optional State priority area to 
+    address, on a statewide and comprehensive basis, urgent needs for 
+    services, supports, and other assistance for individuals with 
+    developmental disabilities and their families, pursuant to section 
+    122.
+        ``(3) State plan development._The Council shall develop and 
+    submit to the Secretary the State plan required under section 122 
+    after consultation with the designated State agency under the State 
+    plan. Such consultation shall be solely for the purposes of 
+    obtaining State assurances and ensuring consistency of the plan 
+    with State law.
+        ``(4) State plan implementation._The Council shall implement 
+    the State plan by conducting and supporting the Federal priority 
+    area of employment, not less than one of the remaining three 
+    Federal priority areas, and an optional State priority area as 
+    defined in section 102, through systemic change, capacity building, 
+    and advocacy activities such as those described in subparagraphs 
+    (A) through (K).
+            ``(A) Demonstration of new approaches._The Council may 
+        conduct, on a time-limited basis, the demonstration of new 
+        approaches to enhance the independence, productivity, and 
+        integration and inclusion into the community of individuals 
+        with developmental disabilities. This may include making 
+        successful demonstrations generally available through sources 
+        of funding other than funding under this part, and may also 
+        include assisting those conducting such successful 
+        demonstration activities to develop strategies for securing 
+        funding from other sources.
+            ``(B) Outreach._The Council may conduct activities to reach 
+        out to assist and enable individuals with developmental 
+        disabilities and their families who otherwise might not come to 
+        the attention of the Council to obtain services, supports, and 
+        other assistance, including access to special adaptation of 
+        generic services or specialized services.
+            ``(C) Training._The Council may conduct training for 
+        individuals with developmental disabilities, their families, 
+        and personnel (including professionals, paraprofessionals, 
+        students, volunteers, and other community members) to enable 
+        such individuals to obtain access to, or to provide, services, 
+        supports and other assistance, including special adaptation of 
+        generic services or specialized services for individuals with 
+        developmental disabilities and their families. To the extent 
+        that training activities are provided, such activities shall be 
+        designed to promote the empowerment of individuals with 
+        developmental disabilities and their families.
+            ``(D) Supporting communities._The Council may assist 
+        neighborhoods and communities to respond positively to 
+        individuals with developmental disabilities and their families 
+        by encouraging local networks to provide informal and formal 
+        supports and enabling communities to offer such individuals and 
+        their families access, resources, and opportunities.
+            ``(E) Interagency collaboration and coordination._The 
+        Council may promote interagency collaboration and coordination 
+        to better serve, support, assist, or advocate for individuals 
+        with developmental disabilities and their families.
+            ``(F) Coordination with related councils, committees, and 
+        programs._The Council may conduct activities to enhance 
+        coordination with_
+                ``(i) other councils or committees, authorized by 
+            Federal or State law, concerning individuals with 
+            disabilities (such as the State Interagency Coordinating 
+            Council under part H of the Individuals with Disabilities 
+            Education Act, the State Rehabilitation Advisory Council 
+            and the Statewide Independent Living Council under the 
+            Rehabilitation Act of 1973, the State Mental Health 
+            Planning Council under part B of title XIX of the Public 
+            Health Service Act and other similar councils or 
+            committees);
+                ``(ii) parent training and information centers under 
+            part D of the Individuals with Disabilities Education Act 
+            and other federally funded projects that assist parents of 
+            children with disabilities; and
+                ``(iii) other groups interested in systemic change, 
+            capacity building, and advocacy for individuals with 
+            disabilities.
+            ``(G) Barrier elimination, systems design, and citizen 
+        participation._The Council may conduct activities to eliminate 
+        barriers, enhance systems design and redesign, and enhance 
+        citizen participation to address issues identified in the State 
+        plan.
+            ``(H) Public education and coalition development._The 
+        Council may conduct activities to educate the public about the 
+        capabilities, preferences, and needs of individuals with 
+        developmental disabilities and their families and to develop 
+        and support coalitions that support the policy agenda of the 
+        Council, including training in self-advocacy, educating 
+        policymakers, and citizen leadership skills.
+            ``(I) Informing policymakers._The Council may provide 
+        information to Federal, State, and local policymakers, 
+        including the Congress, the Federal executive branch, the 
+        Governor, State legislature, and State agencies, in order to 
+        increase the ability of such policymakers to offer 
+        opportunities and to enhance or adapt generic services or 
+        provide specialized services to individuals with developmental 
+        disabilities and their families by conducting studies and 
+        analyses, gathering information, and developing and 
+        disseminating model policies and procedures, information, 
+        approaches, strategies, findings, conclusions, and 
+        recommendations.
+            ``(J) Prevention._The Council may conduct prevention 
+        activities as defined in section 102.
+            ``(K) Other activities._The Council may conduct other 
+        systemic change, capacity building, and advocacy activities to 
+        promote the development of a consumer and family-centered 
+        comprehensive system and a coordinated array of culturally 
+        competent services, supports and other assistance designed to 
+        achieve independence, productivity, and integration and 
+        inclusion into the community of individuals with developmental 
+        disabilities throughout the State on a comprehensive basis.
+        ``(5) State plan monitoring._Not less than once each year, the 
+    Council shall monitor, review, and evaluate the implementation and 
+    effectiveness of the State plan in meeting such plan's objectives.
+        ``(6) Review of designated state agency._The Council shall 
+    periodically review the designated State agency with respect to the 
+    activities carried out under this Act and make any recommendations 
+    for change to the Governor.
+        ``(7) Reports._The Council shall submit to the Secretary, 
+    through the Governor, periodic reports on its activities as the 
+    Secretary may reasonably request, and keep such records and afford 
+    such access thereto as the Secretary finds necessary to verify such 
+    reports.
+        ``(8) Budget._Each Council shall prepare, approve, and 
+    implement a budget using amounts paid to the State under this part 
+    to fund and implement all programs, projects, and activities under 
+    this part including_
+            ``(A) conducting such hearings and forums as the Council 
+        may determine to be necessary to carry out the duties of the 
+        Council, reimbursing Council members of the Council for 
+        reasonable and necessary expenses for attending Council 
+        meetings and performing Council duties (including child care 
+        and personal assistance services), paying compensation to a 
+        member of the Council, if such member is not employed or must 
+        forfeit wages from other employment, for each day such member 
+        is engaged in performing the duties of the Council, supporting 
+        Council member and staff travel to authorized training and 
+        technical assistance activities including inservice training 
+        and leadership development, and appropriate subcontracting 
+        activities;
+            ``(B) hiring and maintaining sufficient numbers and types 
+        of staff (qualified by training and experience) and obtaining 
+        the services of such professional, consulting, technical, and 
+        clerical personnel (qualified by training and experience), 
+        consistent with State law, as the Council determines to be 
+        necessary to carry out its functions under this part, except 
+        that such State shall not apply hiring freezes, reductions in 
+        force, prohibitions on staff travel, or other policies, to the 
+        extent that such policies would impact staff or functions 
+        funded with Federal funds and would prevent the Council from 
+        carrying out its functions under this Act; and
+            ``(C) directing the expenditure of funds for grants, 
+        contracts, interagency agreements that are binding contracts, 
+        and other activities authorized by the approved State plan.
+        ``(9) Staff hiring and supervision._A Council shall, consistent 
+    with State law, recruit and hire a Director of the Council, should 
+    the position of Director become vacant, and supervise and annually 
+    evaluate the Director. The Director shall hire, supervise, and 
+    annually evaluate the staff of the Council. Council recruitment and 
+    hiring of staff shall be consistent with Federal and State 
+    nondiscrimination laws. Dismissal of personnel shall be consistent 
+    with State law and personnel policies.
+        ``(10) Staff assignments._The staff and other personnel, while 
+    working for the Council, shall be responsible solely for assisting 
+    the Council in carrying out its duties under this part and shall 
+    not be assigned duties by the designated State agency or any other 
+    agency or office of the State.
+        ``(11) Construction._
+            ``(A) Activities of the Council._Nothing in this part shall 
+        be construed to preclude a Council from engaging in systemic 
+        change, capacity building, and advocacy activities for 
+        individuals with disabilities other than developmental 
+        disabilities, where appropriate.
+            ``(B) Authority of the Council._Nothing in this Act shall 
+        be construed to authorize a Council to direct, control, or 
+        exercise any policymaking authority or administrative authority 
+        over any program assisted under the Rehabilitation Act of 1973 
+        (29 U.S.C. 701 et seq.) and the Individuals with Disabilities 
+        Education Act (20 U.S.C. 1400 et seq.).
+    ``(d) Designated State Agency._
+        ``(1) In general._Each State that receives assistance under 
+    this part shall designate the State agency that shall, on behalf of 
+    the State, provide support to the Council. After the date of 
+    enactment of the Developmental Disabilities Assistance and Bill of 
+    Rights Act Amendments of 1994, any designation of a State agency 
+    shall be made in accordance with the requirements of this 
+    subsection.
+        ``(2) Designation._
+            ``(A) Type of agency._Except as provided in this 
+        subsection, the designated State agency shall be_
+                ``(i) the Council if such Council may be the designated 
+            State agency under the laws of the State;
+                ``(ii) a State agency that does not provide or pay for 
+            services made available to individuals with developmental 
+            disabilities; or
+                ``(iii) a State office, including the immediate office 
+            of the Governor of the State or a State planning office.
+            ``(B) Conditions for continuation of state service agency 
+        designation._
+                ``(i) Designation before enactment._If a State agency 
+            that provides or pays for services for individuals with 
+            developmental disabilities was a designated State agency 
+            for purposes of this part on the date of enactment of the 
+            Developmental Disabilities Assistance and Bill of Rights 
+            Act Amendments of 1994, and the Governor of the State (or 
+            legislature, where appropriate and in accordance with State 
+            law) determines prior to June 30, 1994, not to change the 
+            designation of such agency, such agency may continue to be 
+            a designated State agency for purposes of this part.
+                ``(ii) Criteria for continued designation._The 
+            determination at the discretion of the Governor (or 
+            legislature as the case may be) shall be made after the 
+            Governor has considered the comments and recommendations of 
+            the general public and a majority of the non-State agency 
+            members of the Council with respect to the designation of 
+            such State agency, and after the Governor (or legislature 
+            as the case may be) has made an independent assessment that 
+            the designation of such agency shall not interfere with the 
+            budget, personnel, priorities, or other action of the 
+            Council, and the ability of the Council to serve as an 
+            advocate for individuals with developmental disabilities.
+            ``(C) Review of designation._After April 1, 1994, the 
+        Council may request a review of the designation of the 
+        designated State agency by the Governor (or legislature as the 
+        case may be). The Council shall provide documentation 
+        concerning the reason the Council desires a change to be made 
+        and make a recommendation to the Governor (or legislature as 
+        the case may be) regarding a preferred designated State agency.
+            ``(D) Appeal of designation._After the review is completed 
+        under subparagraph (C), a majority of the non-State agency 
+        members of the Council may appeal to the Secretary for a review 
+        of the designation of the designated State agency if Council 
+        independence as an advocate is not assured because of the 
+        actions or inactions of the designated State agency.
+        ``(3) Responsibilities._The designated State agency shall, on 
+    behalf of the State, have the responsibilities described in 
+    subparagraphs (A) through (F).
+            ``(A) Support services._The designated State agency shall 
+        provide required assurances and support services as requested 
+        by and negotiated with the Council.
+            ``(B) Fiscal responsibilities._The designated State agency 
+        shall_
+                ``(i) receive, account for, and disperse funds under 
+            this part based on the State plan required in section 122; 
+            and
+                ``(ii) provide for such fiscal control and fund 
+            accounting procedures as may be necessary to assure the 
+            proper dispersement of, and accounting for, funds paid to 
+            the State under this part.
+            ``(C) Records, access, and financial reports._The 
+        designated State agency shall keep such records and afford 
+        access thereto as the Secretary and the Council determine 
+        necessary. The designated State agency, if other than the 
+        Council, shall provide timely financial reports at the request 
+        of the Council regarding the status of expenditures, 
+        obligations, liquidation, and the Federal and non-Federal 
+        share.
+            ``(D) Non-federal share._The designated State agency, if 
+        other than the Council, shall provide the required non-Federal 
+        share defined in section 125A(c).
+            ``(E) Assurances._The designated State agency shall assist 
+        the Council in obtaining the appropriate State plan assurances 
+        and in ensuring that the plan is consistent with State law.
+            ``(F) Memorandum of understanding._On the request of the 
+        Council, the designated State agency shall enter into a 
+        memorandum of understanding with the Council delineating the 
+        roles and responsibilities of the designated State agency.
+        ``(4) Use of funds for designated state agency 
+    responsibilities._
+            ``(A) Necessary expenditures of state designated agency._At 
+        the request of any State, a portion of any allotment or 
+        allotments of such State under this part for any fiscal year 
+        shall be available to pay up to one-half (or the entire amount 
+        if the Council is the designated State agency) of the 
+        expenditures found necessary by the Secretary for the proper 
+        and efficient exercise of the functions of the State designated 
+        agency, except that not more than 5 percent of the total of the 
+        allotments of such State for any fiscal year, or $50,000, 
+        whichever is less, shall be made available for the total 
+        expenditure for such purpose by the State agency designated 
+        under this subsection.
+            ``(B) Condition for federal funding._Amounts shall be 
+        provided under subparagraph (A) to a State for a fiscal year 
+        only on condition that there shall be expended from State 
+        sources for carrying out the responsibilities of the designated 
+        State agency under paragraph (3) not less than the total amount 
+        expended for carrying out such responsibilities from such 
+        sources during the previous fiscal year, except in such year as 
+        the Council may become the designated State agency.
+            ``(C) Support services provided by other agencies._With the 
+        agreement of the designated State agency, the Council may use 
+        or contract with agencies other than the designated State 
+        agency to perform the functions of the designated State agency.
+    ``(e) 1990 Report._Not later than January 1, 1990, each Council 
+shall complete the reviews, analyses, and final report described in 
+this section.
+        ``(1) Comprehensive review and analysis._Each Council shall 
+    conduct a comprehensive review and analysis of the eligibility for 
+    services provided, and the extent, scope, and effectiveness of, 
+    services provided and functions performed by, all State agencies 
+    (including agencies that provide public assistance) that affect or 
+    that potentially affect the ability of individuals with 
+    developmental disabilities to achieve the goals of independence, 
+    productivity, and integration and inclusion into the community, 
+    including individuals with developmental disabilities attributable 
+    to physical impairment, mental impairment, or a combination of 
+    physical and mental impairments.
+        ``(2) Consumer satisfaction._Each Council shall conduct a 
+    review and analysis of the effectiveness of, and consumer 
+    satisfaction with, the functions performed by, and services 
+    provided or paid for from Federal and State funds by, each of the 
+    State agencies (including agencies that provide public assistance) 
+    responsible for performing functions for, and providing services 
+    to, all individuals with developmental disabilities in the State. 
+    Such review and analysis shall be based upon a survey of a 
+    representative sample of individuals with developmental 
+    disabilities receiving services from each such agency, and if 
+    appropriate, shall include such individuals' families.
+        ``(3) Public review and comment._Each Council shall convene 
+    public forums, after the provision of notice within the State, in 
+    order to_
+            ``(A) present the findings of the reviews and analyses 
+        prepared under paragraphs (1) and (2);
+            ``(B) obtain comments from all interested individuals in 
+        the State regarding the unserved and underserved populations of 
+        individuals with developmental disabilities that result from 
+        physical impairment, mental impairment, or a combination of 
+        physical and mental impairments; and
+            ``(C) obtain comments on any proposed recommendations 
+        concerning the removal of barriers to services for individuals 
+        with developmental disabilities and to connect such services to 
+        existing State agencies by recommending the designation of one 
+        or more State agencies, as appropriate, to be responsible for 
+        the provision and coordination of such services.
+        ``(4) Basis for state plan._Each Council shall utilize the 
+    information developed pursuant to paragraphs (1), (2), and (3) in 
+    developing the State plan.''.
+
+SEC. 206. STATE ALLOTMENTS.
+
+    (a) Section Heading._Section 125 (42 U.S.C. 6025) is amended_
+        (1) by striking ``Sec. 125.''; and
+        (2) in the section heading, by striking ``state allotments'' 
+    and inserting the following new section heading:
+
+``SEC. 125. STATE ALLOTMENTS.''.
+
+    (b) Allotments._Section 125 (42 U.S.C. 6025) is amended_
+        (1) in subsection (a)_
+            (A) in paragraph (1)_
+                (i) by realigning the margins of subparagraphs (A), 
+            (B), and (C) so as to align with the margin of subparagraph 
+            (A) of paragraph (4); and
+                (ii) by realigning the margin of the matter following 
+            subparagraph (C) so as to align with the margin of 
+            paragraph (3);
+            (B) by striking ``(a)(1) For'' and inserting the following:
+    ``(a) Allotments._
+        ``(1) In general._For'';
+            (C) in paragraph (2)_
+                (i) by striking ``(2) Adjustments'' and inserting the 
+            following:
+        ``(2) Adjustments._Adjustments'';
+                (ii) by striking ``may be'' and inserting ``shall be''; 
+            and
+                (iii) by striking ``not less'' and inserting ``and the 
+            percentage of the total appropriation for each State not 
+            less'';
+            (D) in paragraph (3)_
+                (i) by striking ``(3)(A) Except'' and all that follows 
+            through ``September 30, 1990.'' and inserting the 
+            following:
+        ``(3) Minimum allotment for appropriations less than or equal 
+    to $75,000,000._
+            ``(A) In general._Except as provided in paragraph (4), for 
+        any fiscal year the allotment under this section_
+                ``(i) to each of American Samoa, Guam, the United 
+            States Virgin Islands, the Commonwealth of the Northern 
+            Mariana Islands, or the Republic of Palau (until the 
+            Compact of Free Association with Palau takes effect) may 
+            not be less than the greater of_
+
+                    ``(I) $210,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection (d)); 
+                and
+
+                ``(ii) to any State not described in clause (i), may 
+            not be less than the greater of_
+
+                    ``(I) $400,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection 
+                (d)).''; and
+
+                (ii) by striking ``(B) Notwithstanding'' and inserting 
+            the following:
+            ``(B) Reduction of allotment._Notwithstanding'';
+            (E) in paragraph (4), to read as follows:
+        ``(4) Minimum allotment for appropriations in excess of 
+    $75,000,000._
+            ``(A) In general._In any case in which amounts appropriated 
+        under section 130 for a fiscal year exceeds $75,000,000, the 
+        allotment under this section for such fiscal year_
+                ``(i) to each of American Samoa, Guam, the United 
+            States Virgin Islands, the Commonwealth of the Northern 
+            Mariana Islands or the Republic of Palau (until the Compact 
+            of Free Association with Palau takes effect) may not be 
+            less than the greater of_
+
+                    ``(I) $220,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection (d)); 
+                and
+
+                ``(ii) to any State not described in clause (i) may not 
+            be less than the greater of_
+
+                    ``(I) $450,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection (d)).
+
+            ``(B) Reduction of allotment._The requirements of paragraph 
+        (3)(B) shall apply with respect to amounts to be allotted to 
+        States under subparagraph (A), in the same manner and to the 
+        same extent as such requirements apply with respect to amounts 
+        to be allotted to States under paragraph (3)(A).'';
+            (F) in paragraph (5)_
+                (i) by striking ``In determining'' and inserting 
+            ``State supports, services, and other activities._In 
+            determining''; and
+                (ii) by striking, ``section 122(b)(2)(C)'' and 
+            inserting ``section 122(c)(3)(A)''; and
+            (G) in paragraph (6), by striking ``In any case'' and 
+        inserting ``Increase in allotments._In any case'';
+        (2) in subsection (b), by striking ``Any amount'' and inserting 
+    ``Unobligated Funds._Any amount'';
+        (3) by redesignating subsections (c) and (d) as subsections (d) 
+    and (e), respectively;
+        (4) by inserting after subsection (b) the following new 
+    subsection:
+    ``(c) Obligation of Funds._For the purposes of this part, State 
+Interagency Agreements are considered valid obligations for the purpose 
+of obligating Federal funds allotted to the State under this part.'';
+        (5) in subsection (d) (as redesignated by paragraph (3)), by 
+    striking ``Whenever'' and inserting ``Cooperative Efforts Between 
+    States._Whenever''; and
+        (6) in subsection (e) (as redesignated by paragraph (3)), by 
+    striking ``The amount'' and inserting ``Reallotments._The amount''.
+
+SEC. 207. FEDERAL SHARE AND NON-FEDERAL SHARE.
+
+    Part B of title I of the Act is amended by inserting after section 
+125 (42 U.S.C. 6025) the following new section:
+
+``SEC. 125A. FEDERAL AND NON-FEDERAL SHARE.
+
+    ``(a) Aggregate Costs._The Federal share of all projects in a State 
+supported by an allotment to the State under this part may not exceed 
+75 percent of the aggregate necessary costs of all such projects as 
+determined by the Secretary, except that_
+        ``(1) in the case of projects whose activities or products 
+    target individuals with developmental disabilities who live in 
+    urban or rural poverty areas, the Federal share of all such 
+    projects may not exceed 90 percent of the aggregate necessary costs 
+    of such projects or activities, as determined by the Secretary; and
+        ``(2) in the case of projects or activities undertaken by the 
+    Council or Council staff to implement State plan priority 
+    activities, the Federal share of all such activities may be up to 
+    100 percent of the aggregate necessary costs of such activities.
+    ``(b) Nonduplication._In determining the amount of any State's 
+Federal share of the expenditures incurred by such State under a State 
+plan approved under section 122, the Secretary shall not consider_
+        ``(1) any portion of such expenditures that are financed by 
+    Federal funds provided under any provision of law other than 
+    section 125; and
+        ``(2) the amount of any non-Federal funds required to be 
+    expended as a condition of receipt of such Federal funds.
+    ``(c) Non-Federal Share._
+        ``(1) In kind contributions._The non-Federal share of the cost 
+    of any project assisted by a grant or an allotment under this part 
+    may be provided in kind.
+        ``(2) Contributions of political subdivisions, public, or 
+    private entities._
+            ``(A) In general._Expenditures on projects or activities by 
+        a political subdivision of a State or by a public or private 
+        entity shall, subject to such limitations and conditions as the 
+        Secretary may by regulation prescribe, be considered to be 
+        expenditures by such State in the case of a project under this 
+        part.
+            ``(B) State contributions._State contributions, including 
+        contributions by the designated State agency to provide support 
+        services to the Council pursuant to section 124(d)(4), may be 
+        counted as part of such State's non-Federal share of allotments 
+        under this part.
+        ``(3) Variations of the non-federal share._The non-Federal 
+    share required on a grant-by-grant basis may vary.''.
+    SEC. 208. PAYMENTS TO THE STATES FOR PLANNING, ADMINISTRATION, AND 
+      SERVICES.
+    Section 126 (42 U.S.C. 6026) is amended_
+        (1) by striking ``Sec. 126.'' and inserting ``(a) State Plan 
+    Expenditures._'';
+        (2) in the section heading, by striking ``payments to the 
+    states for planning, administration and services'' and inserting 
+    the following new section heading:
+``SEC. 126. PAYMENTS TO THE STATES FOR PLANNING, ADMINISTRATION, AND 
+SERVICES.'';
+    and
+        (3) by adding at the end the following new subsection:
+    ``(b) Support Services._Payments to States for support services 
+provided by the designated State agency pursuant to section 124(d)(4) 
+may be made in advance or by way of reimbursement, and in such 
+installments as the Secretary may determine.''.
+    SEC. 209. WITHHOLDING OF PAYMENTS FOR PLANNING, ADMINISTRATION, AND 
+      SERVICES.
+    Section 127 (42 U.S.C. 6027) is amended_
+        (1) in the matter preceding paragraph (1), by striking ``Sec. 
+    127.'';
+        (2) in the section heading by striking ``withholding of 
+    payments for planning, administration and services'' and inserting 
+    the following new section heading:
+``SEC. 127. WITHHOLDING OF PAYMENTS FOR PLANNING, ADMINISTRATION, AND 
+SERVICES.'';
+    and
+        (3) in paragraph (1), by striking ``sections'' and inserting 
+    ``section''.
+
+SEC. 210. NONDUPLICATION.
+
+    Section 128 (42 U.S.C. 6028) is repealed.
+
+SEC. 211. APPEALS BY STATES.
+
+    Section 129 (42 U.S.C. 6029) is amended_
+        (1) by striking ``Sec. 129.''; and
+        (2) in the section heading, by striking ``appeals by states'' 
+    and inserting the following new section heading:
+
+``SEC. 129. APPEALS BY STATES.''.
+
+SEC. 212. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 130 (42 U.S.C. 6030) is amended by striking ``$77,400,000'' 
+and all that follows and inserting the following: ``$70,000,000 for 
+fiscal year 1994, and such sums as may be necessary for each of the 
+fiscal years 1995 and 1996.''.
+
+SEC. 213. REVIEW, ANALYSIS, AND REPORT.
+
+    (a) Review and Analysis._The Secretary of Health and Human Services 
+shall review and analyze the allotment formula in effect under parts B 
+and C of title I of the Developmental Disabilities Assistance and Bill 
+of Rights Act prior to the date of enactment of this Act, including the 
+factors described in such parts, and the data elements and measures 
+used by the Secretary, to determine whether such formula is consistent 
+with the purpose of the Act.
+    (b) Alternative Formulas._The Secretary of Health and Human 
+Services shall identify alternative formulas for allocating funds, 
+consistent with the purpose of this Act.
+    (c) Report._Not later than October 1, 1995, the Secretary of Health 
+and Human Services shall submit a report on the review conducted under 
+subsection (a) and a copy of the alternative formulas identified under 
+subsection (b) to the Committee on Labor and Human Resources of the 
+Senate and to the Committee on Energy and Commerce of the House of 
+Representatives.
+
+  TITLE III_PROTECTION AND ADVOCACY OF THE RIGHTS OF INDIVIDUALS WITH 
+                       DEVELOPMENTAL DISABILITIES
+
+SEC. 301. PART HEADING.
+
+    The heading of part C of title I of the Act is amended to read as 
+follows:
+
+        ``PART C_PROTECTION AND ADVOCACY OF INDIVIDUAL RIGHTS''.
+
+SEC. 302. PURPOSE.
+
+    Section 141 (42 U.S.C. 6041) is amended_
+        (1) by striking ``Sec. 141.'';
+        (2) in the section heading, by striking ``purpose'' and 
+    inserting the following new section heading:
+
+``SEC. 141. PURPOSE.'';
+
+        (3) by striking ``system'' and inserting ``Protection and 
+    Advocacy system (hereafter referred to in this part as the 
+    `system')''; and
+        (4) by striking ``persons'' and inserting ``individuals''.
+
+SEC. 303. SYSTEM REQUIRED.
+
+    (a) Section Heading._Section 142 (42 U.S.C. 6042) is amended_
+        (1) by striking ``Sec. 142.''; and
+        (2) in the section heading, by striking ``system required'' and 
+    inserting the following new section heading:
+
+``SEC. 142. SYSTEM REQUIRED.''.
+
+    (b) System._Section 142 (42 U.S.C. 6042) is amended_
+        (1) in subsection (a)_
+            (A) by striking ``In order'' and inserting ``System 
+        Required._In order'';
+            (B) in paragraph (1), by striking ``persons'' and inserting 
+        ``individuals'';
+            (C) in paragraph (2)_
+                (i) by striking ``persons'' each place such term 
+            appears and inserting ``individuals'';
+                (ii) in subparagraph (A), by striking ``minority'' and 
+            inserting ``ethnic and racial minority'';
+                (iii) by striking subparagraph (C);
+                (iv) in subparagraph (E), by striking ``Planning 
+            Council'' and inserting ``Developmental Disabilities 
+            Council authorized under part B'';
+                (v) in subparagraph (F), by striking ``and'' at the end 
+            thereof; and
+                (vi) in subparagraph (G)_
+
+                    (I) in clause (i), by striking ``person'' each 
+                place such term appears and inserting ``individual'';
+                    (II) in the matter preceding subclause (I) of 
+                clause (ii), by striking ``person'' and inserting 
+                ``individual'';
+                    (III) in clause (ii)(I), by striking ``by reason of 
+                the mental or physical condition of such person'' and 
+                inserting ``by reason of such individual's mental or 
+                physical condition'';
+                    (IV) in clause (ii)(III), by striking ``person'' 
+                and inserting ``individual'';
+                    (V) in clause (iii), by realigning the margins of 
+                subclauses (I), (II), and (III) so as to align with the 
+                margins of subclauses (I), (II), and (III) of clause 
+                (ii);
+                    (VI) in clause (iii), by striking ``(iii) any'' and 
+                inserting the following:
+
+                ``(iii) any''; and
+
+                    (VII) in clause (iii)(III), by striking ``person'' 
+                and inserting ``individual'';
+
+                (vii) by redesignating subparagraphs (D), (E), (F), and 
+            (G) as subparagraphs (E), (F), (G), and (I), respectively;
+                (viii) by inserting after subparagraph (B) the 
+            following new subparagraphs:
+            ``(C) on an annual basis, develop a statement of objectives 
+        and priorities for the system's activities; and
+            ``(D) on an annual basis, provide to the public, including 
+        individuals with developmental disabilities attributable to 
+        either physical impairment, mental impairment, or a combination 
+        of physical or mental impairments, and their representatives, 
+        as appropriate, non-State agency representatives of the State 
+        Developmental Disabilities Council, and the university 
+        affiliated program (if applicable within a State), an 
+        opportunity to comment on_
+                ``(i) the objectives and priorities established by the 
+            system and the rationale for the establishment of such 
+            objectives; and
+                ``(ii) the activities of the system, including the 
+            coordination with the advocacy programs under the 
+            Rehabilitation Act of 1973, the Older Americans Act of 
+            1965, and the Protection and Advocacy for Mentally Ill 
+            Individuals Act of 1986, and with other related programs, 
+            including the parent training and information centers, 
+            education ombudsman programs and assistive technology 
+            projects;'';
+                (ix) by inserting after subparagraph (G), as so 
+            redesignated in clause (vii), the following new 
+            subparagraph:
+            ``(H) have access at reasonable times and locations to any 
+        resident who is an individual with a developmental disability 
+        in a facility that is providing services, supports, and other 
+        assistance to such a resident;'';
+                (x) by adding at the end the following new 
+            subparagraphs:
+            ``(J) hire and maintain sufficient numbers and types of 
+        staff, qualified by training and experience, to carry out such 
+        system's function except that such State shall not apply hiring 
+        freezes, reductions in force, prohibitions on staff travel, or 
+        other policies, to the extent that such policies would impact 
+        staff or functions funded with Federal funds and would prevent 
+        the system from carrying out its functions under this Act;
+            ``(K) have the authority to educate policymakers; and
+            ``(L) provide assurances to the Secretary that funds 
+        allotted to the State under this section will be used to 
+        supplement and increase the level of funds that would otherwise 
+        be made available for the purposes for which Federal funds are 
+        provided and not to supplant such non-Federal funds;'';
+            (D) by striking paragraphs (3) and (5);
+            (E) in paragraph (4)_
+                (i) by striking ``the State'' and all that follows 
+            through ``provided with'' and inserting ``the State must 
+            provide to the system'';
+                (ii) by striking ``1902(a)(31)(B)'' and inserting 
+            ``1902(a)(31)''; and
+                (iii) by redesignating such paragraph as paragraph (3); 
+            and
+            (F) by adding at the end the following new paragraph:
+        ``(4) the agency implementing the system will not be 
+    redesignated unless there is good cause for the redesignation and 
+    unless_
+            ``(A) notice has been given of the intention to make such 
+        redesignation to the agency that is serving as the system 
+        including the good cause for such redesignation and the agency 
+        has been given an opportunity to respond to the assertion that 
+        good cause has been shown;
+            ``(B) timely notice and opportunity for public comment in 
+        an accessible format has been given to individuals with 
+        developmental disabilities or their representatives; and
+            ``(C) the system has the opportunity to appeal to the 
+        Secretary that the redesignation was not for good cause.'';
+        (2) in subsection (b)_
+            (A) by striking ``(b)(1) To'' and inserting the following:
+    ``(b) Allotments._
+        ``(1) In general._To'';
+            (B) in paragraph (1)_
+                (i) in subparagraph (A), to read as follows:
+            ``(A) the total amount appropriated under section 143 for a 
+        fiscal year is at least $20,000,000_
+                ``(i) the allotment of each of American Samoa, Guam, 
+            the United States Virgin Islands, the Commonwealth of the 
+            Northern Mariana Islands, and the Republic of Palau (until 
+            the Compact of Free Association with Palau takes effect) 
+            for such fiscal year may not be less than the greater of_
+
+                    ``(I) $107,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection (d)); 
+                and
+
+                ``(ii) the allotment of any State not described in 
+            clause (i) for such fiscal year may not be less than the 
+            greater of_
+
+                    ``(I) $200,000; or
+                    ``(II) the greater of the allotments received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection 
+                (d)).''; and
+
+                (ii) in subparagraph (B), to read as follows:
+            ``(B) the total amount appropriated under section 143 for a 
+        fiscal year is less than $20,000,000_
+                ``(i) the allotment of each of American Samoa, Guam, 
+            the United States Virgin Islands, the Commonwealth of the 
+            Northern Mariana Islands, and the Republic of Palau (until 
+            the Compact of Free Association with Palau takes effect) 
+            for such fiscal year may not be less than the greater of_
+
+                    ``(I) $80,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection (d)); 
+                and
+
+                ``(ii) the allotment of any State not described in 
+            clause (i) for such fiscal year may not be less than the 
+            greater of_
+
+                    ``(I) $150,000; or
+                    ``(II) the greater of the allotment received by 
+                such State for fiscal year 1992, or the allotment 
+                received by such State for fiscal year 1993, under this 
+                section (determined without regard to subsection 
+                (d)).'';
+
+            (C) by realigning the margins of subparagraphs (A) and (B) 
+        of paragraph (2) so as to align with subparagraphs (A) through 
+        (C) of subsection (a)(4);
+            (D) by realigning the margins of paragraphs (2) through (4) 
+        so as to align with paragraph (4) of subsection (a);
+            (E) in paragraph (2), by striking ``In any case'' and 
+        inserting ``Increase in allotments._In any case'';
+            (F) in paragraph (3), by striking ``A State'' and inserting 
+        ``Monitoring the administration of the system._A State'';
+            (G) in paragraph (4), by striking ``Notwithstanding'' and 
+        inserting ``Reduction of allotment._Notwithstanding''; and
+            (H) by inserting at the end the following new paragraph:
+        ``(5) Technical assistance and american indian consortium._In 
+    any case in which amounts appropriated under section 143 for a 
+    fiscal year exceeds $24,500,000, the Secretary shall_
+            ``(A) use not more than 2 percent of the amounts 
+        appropriated to provide technical assistance (consistent with 
+        requests by such systems for such assistance in the year that 
+        appropriations reach $24,500,000) to eligible systems with 
+        respect to activities carried out under this title; and
+            ``(B) provide grants in accordance with paragraph (1)(A)(i) 
+        to American Indian Consortiums to provide protection and 
+        advocacy services.'';
+        (3) in subsection (c), by striking ``Any amount'' and inserting 
+    ``Unobligated Funds._Any amount'';
+        (4) in subsection (d)_
+            (A) in the matter preceding paragraph (1), by striking ``In 
+        States'' and inserting ``Governing board._In States'';
+            (B) in paragraph (1), by inserting before the semicolon 
+        ``and include individuals with developmental disabilities who 
+        are eligible for services, or have received or are receiving 
+        services, or parents, family members, guardians, advocates, or 
+        authorized representatives of such individuals'';
+            (C) in paragraph (2), by striking ``and'' at the end 
+        thereof;
+            (D) in paragraph (3), by striking the period and inserting 
+        ``; and''; and
+            (E) by adding at the end the following new paragraph:
+        ``(4) in States in which the system is organized as a public 
+    system without a multimember governing or advisory board, the 
+    system shall establish an advisory council that shall_
+            ``(A) advise the system on policies and priorities to be 
+        carried out in protecting and advocating the rights of 
+        individuals with developmental disabilities; and
+            ``(B) consist of a majority of individuals with 
+        developmental disabilities who are eligible for services, or 
+        have received or are receiving services, or parents, family 
+        members, guardians, advocates, or authorized representatives of 
+        such individuals.'';
+        (5) in subsection (e), by striking ``As used'' and inserting 
+    ``Records._As used'';
+        (6) in subsection (f)_
+            (A) by striking ``If the'' and inserting ``Access to 
+        Records._If the''; and
+            (B) in the matter preceding paragraph (1) by striking 
+        ``persons'' and inserting ``individuals'';
+        (7) in subsection (g)_
+            (A) by striking ``(g)(1) Nothing'' and inserting the 
+        following:
+    ``(g) Legal Action._
+        ``(1) In general._Nothing'';
+            (B) in paragraph (1), by striking ``persons'' and inserting 
+        ``individuals''; and
+            (C) in paragraph (2), by striking ``(2) Amounts'' and 
+        inserting the following:
+        ``(2) Use of amounts from judgment._Amounts'';
+        (8) in subsection (h), by striking ``Notwithstanding'' and 
+    inserting ``Payment to Systems._Notwithstanding'';
+        (9) by redesignating subsections (b) through (h) as subsections 
+    (c) through (i), respectively;
+        (10) by inserting after subsection (a) the following new 
+    subsection:
+    ``(b) American Indian Consortium._Upon application to the 
+Secretary, an American Indian consortium, as defined in section 102, 
+established to provide protection and advocacy services under this 
+part, shall receive funding pursuant to subsection (c)(5). Such 
+consortium shall coordinate activities with existing systems.''; and
+        (11) by adding at the end the following new subsections:
+    ``(j) Disclosure of Information._For purposes of any periodic 
+audit, report, or evaluation required under this Act, the Secretary 
+shall not require a program to disclose the identity of, or any other 
+personally identifiable information related to, any individual 
+requesting assistance under such program.
+    ``(k) Public Notice of Federal Onsite Review._The Secretary shall 
+provide advance public notice of any Federal programmatic and 
+administrative review and solicit public comment on the system funded 
+under this part through such notice. The findings of the public comment 
+solicitation notice shall be included in the onsite visit report. The 
+results of such review shall be distributed to the Governor of the 
+State and to other interested public and private parties.''.
+
+SEC. 304. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 143 (42 U.S.C. 6043) is amended_
+        (1) by striking ``Sec. 143.'';
+        (2) in the section heading, by striking ``authorization of 
+    appropriations'' and inserting the following new section heading:
+
+``SEC. 143. AUTHORIZATION OF APPROPRIATIONS.'';
+
+        (3) by striking ``$24,200,000 for fiscal year 1991'' and 
+    inserting ``$24,000,000 for fiscal year 1994''; and
+        (4) by striking ``fiscal years 1992 and 1993'' and inserting 
+    ``fiscal years 1995 and 1996''.
+
+                TITLE IV_UNIVERSITY AFFILIATED PROGRAMS
+
+SEC. 401. PART HEADING.
+
+    The heading of part D of title I of the Act is amended to read as 
+follows:
+
+               ``PART D_UNIVERSITY AFFILIATED PROGRAMS''.
+
+SEC. 402. PURPOSE.
+
+    Section 151 (42 U.S.C. 6061) is amended to read as follows:
+
+``SEC. 151. PURPOSE AND SCOPE OF ACTIVITIES.
+
+    ``The purpose of this part is to provide for grants to university 
+affiliated programs that are interdisciplinary programs operated by 
+universities, or by public or nonprofit entities associated with a 
+college or university, to provide a leadership role in the promotion of 
+independence, productivity, and integration and inclusion into the 
+community of individuals with developmental disabilities through the 
+provision of the following activities, which are conducted in a 
+culturally competent manner:
+        ``(1) Interdisciplinary preservice preparation of students and 
+    fellows, including the preparation of leadership personnel.
+        ``(2) Community service activities that shall include community 
+    training and technical assistance for or with individuals with 
+    developmental disabilities, family members of individuals with 
+    developmental disabilities, professionals, paraprofessionals, 
+    students, and volunteers. Such activities may include state-of-the-
+    art direct services including family support, individual support, 
+    personal assistance services, educational, vocational, clinical, 
+    health, prevention, or other direct services.
+        ``(3) Dissemination of information and research findings, which 
+    may include the empirical validation of activities relevant to the 
+    purposes described in paragraphs (1) and (2) and contributions to 
+    the development of new knowledge in the field of developmental 
+    disabilities.''.
+
+SEC. 403. GRANT AUTHORITY.
+
+    (a) Section Heading._Section 152 (42 U.S.C. 6062) is amended_
+        (1) by striking ``Sec. 152.''; and
+        (2) in the section heading, by striking ``grant authority'' and 
+    inserting the following new section heading:
+
+``SEC. 152. GRANT AUTHORITY.''.
+
+    (b) Authority._Section 152 (42 U.S.C. 6062) is amended_
+        (1) in subsection (a)_
+            (A) by striking ``From appropriations'' and inserting 
+        ``Administration and Operation._From appropriations''; and
+            (B) by striking ``102(18).'' and inserting ``151. Grants 
+        may be awarded for a period not to exceed 5 years.'';
+        (2) in subsection (b), to read as follows:
+    ``(b) Training Projects._
+        ``(1) In general._From amounts appropriated under section 
+    156(a), the Secretary shall make grants to university affiliated 
+    programs receiving grants under subsection (a) to support training 
+    projects to train personnel to address the needs of individuals 
+    with developmental disabilities in areas of emerging national 
+    significance, as described in paragraph (3). Grants awarded under 
+    this subsection shall be awarded on a competitive basis and may be 
+    awarded for a period not to exceed 5 years.
+        ``(2) Eligibility limitations._A university affiliated program 
+    shall not be eligible to receive funds for training projects under 
+    this subsection unless_
+            ``(A) such program has operated for at least 1 year; or
+            ``(B) the Secretary determines that such program has 
+        demonstrated the capacity to develop an effective training 
+        project during the first year such program is operated.
+        ``(3) Areas of focus._Training projects under this subsection 
+    shall train personnel to address the needs of individuals with 
+    developmental disabilities in the areas of emerging national 
+    significance described in subparagraphs (A) through (H).
+            ``(A) Early intervention._Grants under this subsection for 
+        training projects with respect to early intervention services 
+        shall be for the purpose of assisting university affiliated 
+        programs in providing training to family members of children 
+        with developmental disabilities and personnel from all 
+        disciplines involved with interdisciplinary intervention to 
+        infants, toddlers, and preschool age children with 
+        developmental disabilities. Such training projects shall 
+        include instruction on family-centered, community-based, 
+        coordinated care for infants, toddlers, and preschool age 
+        children with developmental disabilities and their families.
+            ``(B) Aging._Grants under this subsection for training 
+        projects with respect to aging and developmental disabilities 
+        shall be for the purpose of supporting the planning, design, 
+        and implementation of coordinated interdisciplinary training 
+        programs between existing aging or gerontological programs and 
+        university affiliated programs in order to prepare professional 
+        staff to provide services for aging individuals with 
+        developmental disabilities and their families.
+            ``(C) Community services._Grants under this subsection for 
+        training projects with respect to community services shall be 
+        for the purpose of providing training that enhances direct 
+        supports and services for individuals with developmental 
+        disabilities, including training to community members, 
+        families, individuals with developmental disabilities, and 
+        community-based direct service providers. The Secretary shall 
+        ensure that all grants under this subparagraph are made only to 
+        university affiliated programs that involve community-level 
+        direct support services in the preparation of the application 
+        for such grant and that assure that any training under the 
+        university affiliated program will be coordinated with local 
+        community services and support systems and with State, local, 
+        and regional governmental or private agencies responsible for 
+        the planning or delivery of services to individuals with 
+        developmental disabilities.
+            ``(D) Positive behavioral supports._Grants awarded under 
+        this subsection for training projects with respect to positive 
+        behavioral supports shall be for the purpose of assisting 
+        university affiliated programs in providing training to family 
+        members of individuals with developmental disabilities and 
+        personnel in methods of developing individual supports that 
+        maximize opportunities for independence, productivity, and 
+        integration and inclusion into the community for individuals 
+        with developmental disabilities and severe behavior problems. 
+        Such training projects shall provide training to_
+                ``(i) address ethical and legal principles and 
+            standards, including the role of personal and cultural 
+            values in designing assessments and interventions;
+                ``(ii) address appropriate assessment approaches that 
+            examine the range of factors that contribute to problem 
+            behavior;
+                ``(iii) address the development of a comprehensive plan 
+            that considers the needs and preferences of an individual 
+            with a developmental disability;
+                ``(iv) address the competence in the types of skills 
+            training, environmental modification, and incentive 
+            procedures that encourage alternative behaviors;
+                ``(v) familiarize training participants with crisis 
+            intervention approaches and the separate role of such 
+            approaches as short-term emergency procedures;
+                ``(vi) familiarize training participants with medical 
+            interventions and how to evaluate the effect of such 
+            interventions on behavior; and
+                ``(vii) address techniques for evaluating the outcomes 
+            of interventions.
+            ``(E) Assistive technology services._Grants under this 
+        subsection for training projects with respect to assistive 
+        technology services shall be for the purpose of assisting 
+        university affiliated programs in providing training to 
+        personnel who provide, or will provide, assistive technology 
+        services and devices to individuals with developmental 
+        disabilities and their families. Such projects may provide 
+        training and technical assistance to improve access to 
+        assistive technology services for individuals with 
+        developmental disabilities and may include stipends and tuition 
+        assistance for training project participants. Such projects 
+        shall be coordinated with State technology coordinating 
+        councils wherever such councils exist.
+            ``(F) Americans with disabilities act._Grants under this 
+        subsection for training projects with respect to the provisions 
+        of the Americans with Disabilities Act of 1990 shall be for the 
+        purpose of assisting university affiliated programs in 
+        providing training to personnel who provide, or will provide, 
+        services to individuals with developmental disabilities, and to 
+        others concerned with individuals with developmental 
+        disabilities.
+            ``(G) Community transition._Grants under this subsection 
+        for training projects with respect to transition from school to 
+        adult life shall be for the purpose of assisting university 
+        affiliated programs in providing training to individuals with 
+        developmental disabilities and their families, generic 
+        community agencies, advocacy organizations, and others in order 
+        to stimulate the development and improvement of policies, 
+        procedures, systems, and other mechanisms that prepare youth 
+        with developmental disabilities to enter adult life. Such 
+        projects shall be coordinated with State transition projects 
+        funded under section 626(e) of the Individuals with 
+        Disabilities Education Act, where such State transition 
+        projects exist.
+            ``(H) Other areas._Grants under this subsection for 
+        training projects with respect to programs in other areas of 
+        national significance shall be for the purpose of training 
+        personnel in an area of special concern to the university 
+        affiliated program, and shall be developed in consultation with 
+        the State Developmental Disabilities Council.
+        ``(4) Courses, traineeships and fellowships._Grants under this 
+    subsection may be used by university affiliated programs to_
+            ``(A) assist in paying the costs of courses of training or 
+        study for personnel to provide services for individuals with 
+        developmental disabilities and their families; and
+            ``(B) establish fellowships or traineeships providing such 
+        stipends and allowances as may be determined by the Secretary.
+        ``(5) Prohibited activities._Grants awarded under this 
+    subsection shall not be used for administrative expenses for the 
+    university affiliated program under subsection (a).
+        ``(6) Criteria._Grants awarded under this subsection shall meet 
+    the criteria described in subparagraphs (A) and (B).
+            ``(A) Application._An application that is submitted for a 
+        grant under this subsection shall present evidence that 
+        training projects assisted by funds awarded under this section 
+        are_
+                ``(i) competency and value based;
+                ``(ii) designed to facilitate independence, 
+            productivity, and integration and inclusion for individuals 
+            with developmental disabilities; and
+                ``(iii) evaluated utilizing state-of-the-art evaluation 
+            techniques in the programmatic areas selected.
+            ``(B) General project requirements._Training projects under 
+        this subsection shall_
+                ``(i) represent state-of-the-art techniques in areas of 
+            critical shortage of personnel that are identified through 
+            consultation with the consumer advisory committee described 
+            in section 153(d) and the State Developmental Disabilities 
+            Council;
+                ``(ii) be conducted in consultation with the consumer 
+            advisory committee described in section 153(d) and the 
+            State Developmental Disabilities Council;
+                ``(iii) be integrated into the appropriate university 
+            affiliated program and university curriculum;
+                ``(iv) be integrated with relevant State agencies in 
+            order to achieve an impact on statewide personnel and 
+            service needs;
+                ``(v) to the extent practical, be conducted in 
+            environments where services are actually delivered;
+                ``(vi) to the extent possible, be interdisciplinary in 
+            nature;
+                ``(vii) utilize strategies to recruit and train members 
+            from racial and ethnic minority backgrounds and individuals 
+            with disabilities; and
+                ``(viii) address the issue of cultural competence in 
+            the training provided.'';
+        (3) in subsection (c)_
+            (A) by striking ``From amounts appropriated under section 
+        154(b)'' and inserting ``Supplemental Awards._From amounts 
+        appropriated under section 156(a)'';
+            (B) in paragraph (1)_
+                (i) by striking ``service-related training to persons'' 
+            and inserting ``interdisciplinary training, community 
+            training and technical assistance, community services, or 
+            dissemination of information to individuals'';
+                (ii) by striking ``integration into the community of 
+            persons with developmental disabilities'' and inserting 
+            ``integration and inclusion into the community of 
+            individuals with developmental disabilities and not 
+            otherwise specified in subsection (b)''; and
+                (iii) by striking ``persons'' each place such term 
+            appears and inserting ``individuals'';
+            (C) in paragraph (2)_
+                (i) by striking ``(A) the'' and inserting ``the'';
+                (ii) by striking ``persons'' and inserting 
+            ``individuals'';
+                (iii) by striking ``(B) the'' and inserting ``the''; 
+            and
+                (iv) by striking ``parents'' and inserting ``family 
+            members'';
+        (4) by striking subsection (d);
+        (5) in subsection (e)_
+            (A) by striking ``(e) From amounts appropriated under 
+        section 154(a)'' and inserting ``(d) Feasibility Studies._From 
+        amounts appropriated under section 156(a)''; and
+            (B) by striking_
+                (i) ``or a satellite center''; and
+                (ii) ``or satellite center''; and
+        (6) by striking subsections (f) and (g).
+
+SEC. 404. APPLICATIONS.
+
+    (a) Section Heading._Section 153 (42 U.S.C. 6063) is amended_
+        (1) by striking ``Sec. 153.''; and
+        (2) in the section heading, by striking ``applications'' and 
+    inserting the following new section heading:
+
+``SEC. 153. APPLICATIONS.''.
+
+    (b) Applications._Section 153 (42 U.S.C. 6063) is amended_
+        (1) in subsection (a)_
+            (A) by striking ``Not later than six'' and inserting: 
+        ``Standards._Not later than 12'';
+            (B) by striking ``Act of 1984'' and inserting ``Assistance 
+        and Bill of Rights Act Amendments of 1994'';
+            (C) by striking ``persons'' and inserting ``individuals''; 
+        and
+            (D) by striking ``section 102(18)'' and inserting ``section 
+        151'';
+        (2) in subsection (b)_
+            (A) in the matter preceding paragraph (1), by striking ``No 
+        grants'' and all that follows through ``Such an application'' 
+        and inserting ``Assurances._The application under subsection 
+        (a)'';
+            (B) in paragraph (1), by striking ``grant will'' and all 
+        that follows through ``level of such funds;'' and inserting the 
+        following: ``grant will_
+            ``(A) not result in any decrease in the use of State, 
+        local, and other non-Federal funds for services for individuals 
+        with developmental disabilities and for training of individuals 
+        to provide such services, which funds would (except for such 
+        grant) be made available to the applicant; and
+            ``(B) be used to supplement and, to the extent practicable, 
+        increase the level of such funds;'';
+            (C) in paragraph (2), by striking ``subsection (a)'' each 
+        place such term appears and inserting ``subsection (b)'';
+            (D) in paragraph (3)_
+                (i) by striking ``persons'' each place such term 
+            appears and inserting ``individuals'';
+                (ii) by striking ``treatment, services, or 
+            habilitation'' and inserting ``services''; and
+                (iii) by striking ``the developmentally disabled'' and 
+            inserting ``individuals with developmental disabilities''; 
+            and
+            (E) in paragraph (5)_
+                (i) by striking ``Planning'' and inserting 
+            ``Developmental Disabilities''; and
+                (ii) by striking ``or the satellite center is or will 
+            be located'';
+        (3) by striking subsections (c) and (d);
+        (4) by redesignating subsections (a), (b), and (e) as 
+    subsections (b), (c), and (f), respectively;
+        (5) by inserting after the section heading the following new 
+    subsection:
+    ``(a) In General._No grants may be made under section 152(a) unless 
+an application therefor is submitted to, and approved by, the 
+Secretary. Such an application shall be submitted in such form and 
+manner, and contain such information, as the Secretary may require.'';
+        (6) by inserting after subsection (c), as so redesignated by 
+    paragraph (4), the following new subsections:
+    ``(d) Consumer Advisory Committee._The Secretary shall only make 
+grants under section 152(a) to university affiliated programs that 
+establish a consumer advisory committee comprised of individuals with 
+developmental disabilities, family members of individuals with 
+developmental disabilities, representatives of State protection and 
+advocacy systems, State developmental disabilities councils (including 
+State service agency directors), local agencies, and private nonprofit 
+groups concerned with providing services for individuals with 
+developmental disabilities, which may include representatives from 
+parent training and information centers. The consumer advisory 
+committee shall reflect the racial and ethnic diversity of the 
+geographic area served by the university affiliated program.
+    ``(e) Federal Share._
+        ``(1) In general._The Federal share of any project to be 
+    provided through grants under this part may not exceed 75 percent 
+    of the necessary cost of such project, as determined by the 
+    Secretary, except that if the project activities or products target 
+    individuals with developmental disabilities who live in an urban or 
+    rural poverty area, the Federal share may not exceed 90 percent of 
+    the project's necessary costs as so determined by the Secretary.
+        ``(2) Project expenditures._For the purpose of determining the 
+    Federal share with respect to any project, expenditures on that 
+    project by a political subdivision of the State or by a public or 
+    private entity shall, subject to such limitations and conditions as 
+    the Secretary may by regulation prescribe, be considered to be 
+    expenditures made by a university affiliated program under this 
+    part.'';
+        (7) in subsection (f), as so redesignated by paragraph (4)_
+            (A) by striking ``(f)(1) The Secretary'' and inserting the 
+        following:
+    ``(f) Peer Review._
+        ``(1) In general._The Secretary'';
+            (B) in paragraph (1), by striking ``Such peer review'' and 
+        all that follows through ``152(b)(1)(D).'';
+            (C) in paragraph (2)_
+                (i) by striking ``(2) Regulations'' and inserting the 
+            following:
+        ``(2) Regulations._Regulations''; and
+                (ii) by striking ``experience or training'' and 
+            inserting ``experience and training'';
+            (D) in paragraph (3), to read as follows:
+        ``(3) Approval._
+            ``(A) In general._The Secretary may approve an application 
+        under this part only if such application has been recommended 
+        by a peer review group that has conducted the peer review 
+        required under paragraph (1).
+            ``(B) Applicability._This paragraph shall apply to the 
+        approval of grant applications received for fiscal year 1990 
+        and succeeding fiscal years.'';
+            (E) in paragraph (4)_
+                (i) by striking ``(4) The Secretary'' and inserting the 
+            following:
+        ``(4) Establishment of peer review groups._The Secretary''; and
+                (ii) by realigning the margins of subparagraphs (A) and 
+            (B) so as to align with the margin of subparagraph (A) of 
+            paragraph (3); and
+            (F) in paragraph (5), by striking ``(5) The Secretary'' and 
+        inserting the following:
+        ``(5) Waivers of approval._The Secretary''; and
+        (8) by adding at the end the following new subsection:
+    ``(g) Review by Other Federal Agencies._The Secretary shall 
+establish such a process for the review of applications for grants 
+under section 152(a) as will ensure, to the maximum extent feasible, 
+that each Federal agency that provides funds for the direct support of 
+the applicant's program reviews the application.''.
+
+SEC. 405. GRANT AWARDS.
+
+    Section 154 (42 U.S.C. 6064) is amended to read as follows:
+
+``SEC. 154. PRIORITY FOR GRANT AWARDS.
+
+    ``(a) In General._In awarding and distributing grant funds under 
+this part, the Secretary, subject to the availability of 
+appropriations, shall award and distribute grant funds in accordance 
+with the following order of priorities:
+        ``(1) Existing state university affiliated programs._First 
+    priority shall be given, with respect to the provision of grant 
+    awards under section 152(a) in the amount of $200,000, to an 
+    existing State university affiliated program that meets the 
+    requirements under section 153.
+        ``(2) Unserved states._Second priority shall be given, with 
+    respect to the provision of grant awards under section 152(a) in 
+    the amount of $200,000, to a university or public or nonprofit 
+    entity associated with a college or university that desires to 
+    establish a university affiliated program in a State that is 
+    unserved by a university affiliated program as of the date of 
+    enactment of the Developmental Assistance and Bill of Rights Act 
+    Amendments of 1994.
+        ``(3) Training projects in all university affiliated programs._
+    Third priority shall be given, with respect to the provision of 
+    grant awards, to each university affiliated program that receives 
+    funding under section 152(a) and that meets the eligibility 
+    limitations under section 152(b) to the establishment of training 
+    projects under section 152(b) in the amount of $90,000 in each such 
+    program.
+        ``(4) Increased funding for training projects._Fourth priority 
+    shall be given, with respect to the provision of grant awards, to 
+    the provision of an increase in the amount of a training project 
+    grant award under section 152(b) to $100,000.
+        ``(5) Increased funding for university affiliated programs._
+    Fifth priority shall be given, with respect to the provision of 
+    grant awards, to the provision of an increase in the amount of a 
+    university affiliated program grant award under section 152(a) to 
+    $250,000.
+        ``(6) Additional training._Sixth priority shall be given, with 
+    respect to the provision of grant awards, to an existing university 
+    affiliated program in a State that is served by such program under 
+    section 152(a) to provide additional training under subsection (b) 
+    or (c) of section 152 within such State or other geographic 
+    regions, or to a university or public or nonprofit entity 
+    associated with a college or university that desires to establish 
+    another university affiliated program within such State under 
+    section 152(a). All applications submitted to the Secretary for 
+    such grant awards shall document plans for coordinating activities 
+    with an existing university affiliated program in the State (if 
+    applicable) and in consultation with the State Developmental 
+    Disabilities Council.
+    ``(b) Additional Programs._For purposes of making grants under 
+subsection (a)(6), the Secretary shall consider applications for grants 
+for university affiliated programs_
+        ``(1) for States that are currently underserved by a university 
+    affiliated program; and
+        ``(2) that are in addition to the total number of university 
+    affiliated programs receiving grants under this subsection for the 
+    preceding fiscal year.
+    ``(c) Single Application._When every State is served by a 
+university affiliated program under section 152(a) in the amount of 
+$200,000 and every such program has been awarded a training grant under 
+section 152(b) in the amount of $90,000, the Secretary may accept 
+applications under such sections in a single application.''.
+
+SEC. 406. AUTHORIZATION OF APPROPRIATIONS AND DEFINITION.
+
+    Part D of title I (42 U.S.C. 151 et seq.) is amended by adding at 
+the end the following new sections:
+
+``SEC. 155. DEFINITION.
+
+    ``For purposes of this part, the term `State' means each of the 
+several States of the United States, the District of Columbia, the 
+Commonwealth of Puerto Rico, the United States Virgin Islands, and 
+Guam.
+
+``SEC. 156. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) In General._For the purpose of making grants under 
+subsections (a), (b), (c), and (d) of section 152, there are authorized 
+to be appropriated $19,000,000 for fiscal year 1994, and such sums as 
+may be necessary for each of the fiscal years 1995 and 1996.
+    ``(b) Limitation._With respect to peer review or other activities 
+directly related to peer review, the Secretary may not use_
+        ``(1) for fiscal year 1994, more than $300,000 of the funds 
+    made available under subsection (a) for such review or such other 
+    activities; and
+        ``(2) for any succeeding fiscal year, more than the amount of 
+    the funds made available under paragraph (1) adjusted to take into 
+    account the increase in the Consumer Price Index for such fiscal 
+    year for such review or such other activities.''.
+
+               TITLE V_PROJECTS OF NATIONAL SIGNIFICANCE
+
+SEC. 501. PART HEADING.
+
+    The heading of part E of title I of the Act is amended to read as 
+follows:
+
+             ``PART E_PROJECTS OF NATIONAL SIGNIFICANCE''.
+
+SEC. 502. PURPOSE.
+
+    Section 161 (42 U.S.C. 6081) is amended to read as follows:
+
+``SEC. 161. PURPOSE.
+
+    ``The purpose of this part is to provide for grants and contracts 
+for projects of national significance that support the development of 
+national and State policy to enhance the independence, productivity, 
+and integration and inclusion of individuals with developmental 
+disabilities through_
+        ``(1) data collection and analysis;
+        ``(2) technical assistance to enhance the quality of State 
+    Developmental Disabilities Councils, protection and advocacy 
+    systems, and university affiliated programs; and
+        ``(3) other projects of sufficient size and scope that hold 
+    promise to expand or improve opportunities for individuals with 
+    developmental disabilities, including_
+            ``(A) technical assistance for the development of 
+        information and referral systems;
+            ``(B) educating policymakers;
+            ``(C) Federal interagency initiatives;
+            ``(D) the enhancement of participation of racial and ethnic 
+        minorities in public and private sector initiatives in 
+        developmental disabilities;
+            ``(E) transition of youth with developmental disabilities 
+        from school to adult life; and
+            ``(F) special pilots and evaluation studies to explore the 
+        expansion of programs under part B to individuals with severe 
+        disabilities other than developmental disabilities.''.
+
+SEC. 503. GRANT AUTHORITY.
+
+    (a) Section Heading._Section 162 (42 U.S.C. 6082) is amended_
+        (1) by striking ``Sec. 162.''; and
+        (2) in the section heading, by striking ``grant authority'' and 
+    inserting the following new section heading:
+
+``SEC. 162. GRANT AUTHORITY.''.
+
+    (b) Authority._Section 162 (42 U.S.C. 6082) is amended_
+        (1) in subsection (a), to read as follows:
+    ``(a) In General._The Secretary_
+        ``(1) shall make grants to and enter into contracts with public 
+    or nonprofit private entities for projects of national significance 
+    relating to individuals with developmental disabilities to_
+            ``(A) support ongoing data collection on expenditures, 
+        residential services and employment, and develop an ongoing 
+        data collection system, including data collection on the 
+        accomplishments of State Developmental Disabilities Councils, 
+        protection and advocacy systems, and university affiliated 
+        programs that includes data on the participation of individuals 
+        from racial and ethnic minority backgrounds; and
+            ``(B) provide technical assistance (including research, 
+        training, and evaluation) that expands or improves the 
+        effectiveness of State Developmental Disabilities Councils 
+        under part B, protection and advocacy systems under part C, and 
+        university affiliated programs under part D, including the 
+        evaluation and assessment of the quality of services provided 
+        to individuals with developmental disabilities and other 
+        activities performed by programs under parts B, C, and D; and
+        ``(2) may make grants to and enter into contracts with public 
+    or nonprofit private entities for projects of national significance 
+    relating to individuals with developmental disabilities to conduct 
+    other nationally significant initiatives of sufficient size and 
+    scope that hold promise of expanding or otherwise improving 
+    opportunities for individuals with developmental disabilities, 
+    including_
+            ``(A) conducting research and providing technical 
+        assistance to assist States to develop statewide, comprehensive 
+        information and referral and service coordination systems for 
+        individuals with developmental disabilities and their families 
+        that are culturally competent and that improve supportive 
+        living and quality of life opportunities that enhance 
+        recreation, leisure, and fitness;
+            ``(B) educating policymakers, including the training of 
+        self-advocates and family members of individuals with 
+        developmental disabilities;
+            ``(C) pursuing Federal interagency initiatives that enhance 
+        the ability of Federal agencies to address the needs of 
+        individuals with developmental disabilities and their families;
+            ``(D) expanding or otherwise improving opportunities for 
+        individuals with developmental disabilities who are from racial 
+        and ethnic minority backgrounds including projects to encourage 
+        members of such groups to participate in the Developmental 
+        Disabilities Programs authorized under parts B, C, and D, and 
+        increase the involvement of students and professionals of such 
+        groups in the provision of services to, supports to, and 
+        advocacy for, individuals with developmental disabilities; and
+            ``(E) conducting research and providing technical 
+        assistance to policymakers concerning the transition of youth 
+        with developmental disabilities from school to work and to 
+        adult life.'';
+        (2) in subsection (b), to read as follows:
+    ``(b) Application and Other Grant Requirements._No grant may be 
+made under subsection (a) unless_
+        ``(1) an application has been submitted to the Secretary in 
+    such form, in such manner, and containing such information as the 
+    Secretary shall by regulation prescribe and such application has 
+    been approved by the Secretary;
+        ``(2) each State in which the applicant's project will be 
+    conducted has a State plan approved under section 122;
+        ``(3) the application provides assurances that the human rights 
+    of all individuals with developmental disabilities (especially 
+    those individuals without familial protection) who are receiving 
+    services under projects assisted under this part will be protected 
+    consistent with section 110 (relating to the rights of individuals 
+    with developmental disabilities);
+        ``(4) the applicant demonstrates, where appropriate, how the 
+    project will address, in whole or part, the needs of individuals 
+    with developmental disabilities from racial and ethnic minority 
+    backgrounds; and
+        ``(5) the Secretary provides to the State Developmental 
+    Disabilities Council in such State an opportunity to review the 
+    application for such project and to submit its comments on the 
+    application.'';
+        (3) in subsection (c), by striking ``Not later'' and inserting 
+    ``Priorities for Grants._Not later'';
+        (4) in subsection (d)_
+            (A) by striking ``Payments under'' and inserting ``Grant 
+        Payments._Payments under''; and
+            (B) by inserting before the period in the second sentence 
+        ``, except as otherwise provided under section 163'';
+        (5) by redesignating subsections (b), (c), and (d) as 
+    subsections (c), (d), and (e), respectively;
+        (6) by inserting after subsection (a) the following new 
+    subsection:
+    ``(b) Investigations._
+        ``(1) In general._Not later than April 1, 1994, there shall be 
+    a special initiative to support grants to investigate the expansion 
+    of part B activities to individuals with severe disabilities other 
+    than developmental disabilities. Such investigations shall be 
+    implemented through the following activities:
+            ``(A) A national study of State Developmental Disabilities 
+        Councils that are currently mandated under State law or 
+        Executive order to focus on individuals with disabilities other 
+        than developmental disabilities. Such study shall be completed 
+        not later than June 30, 1995.
+            ``(B) Pilot initiatives by not more than five additional 
+        State Developmental Disabilities Councils, in consultation with 
+        and with the support of the protection and advocacy system and 
+        the university affiliated program in such State, to study the 
+        implications of such expansion in States in which such Councils 
+        are located and to delineate barriers, opportunities, and 
+        critical issues. Such initiatives shall be completed not later 
+        than January 1996.
+            ``(C) A national study of the process and outcomes of the 
+        pilot studies conducted under subparagraph (B). Such study 
+        shall be completed not later than May 30, 1996.
+        ``(2) Application._No grant may be made under this subsection 
+    unless an applicant submits to the Secretary an application, and 
+    meets the additional application requirements, under subsection 
+    (c).''; and
+        (7) by adding at the end thereof the following new subsection:
+    ``(f) List of Recipients._Not later than September 1 of each fiscal 
+year, the Secretary shall publish in the Federal Register a list of the 
+recipients of grants and contracts in each of the areas authorized in 
+subsections (a) and (b), including a brief description of the project, 
+and the amount of funds granted to each such project. The amounts for 
+such grants and contracts shall total the amount appropriated under 
+this part for such fiscal year.''.
+
+SEC. 504. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General._Section 163(a) (42 U.S.C. 6083(a)) is amended_
+        (1) by striking ``$3,650,000'' and inserting ``$4,000,000'';
+        (2) by striking ``fiscal year 1991'' and inserting ``fiscal 
+    year 1994''; and
+        (3) by striking ``fiscal years 1992 and 1993'' and inserting 
+    ``fiscal years 1995 and 1996''.
+    (b) Limitations._Section 163(b) (42 U.S.C. 6083(b)) is amended to 
+read as follows:
+    ``(b) Limitations._
+        ``(1) Projects of national significance._At least 8 percent, 
+    but in no event less than $300,000, of the amounts appropriated 
+    pursuant to subsection (a) shall be used to carry out the 
+    provisions of section 162(a)(1)(B).
+        ``(2) Investigations._
+            ``(A) In general._The additional authority to fund projects 
+        under section 162(b) shall not be construed as requiring the 
+        Secretary to supplant funding for other priorities described in 
+        this part.
+            ``(B) Time line for funding._If amounts are available to 
+        carry out subparagraphs (A), (B), and (C) of section 162(b)(1), 
+        the Administration shall provide funding to carry out such 
+        subparagraphs not later than May 1 of the fiscal year in which 
+        such funds become available.
+        ``(3) Programmatic reviews or other administrative activities._
+    The Secretary may not use the funds made available under subsection 
+    (a) for programmatic reviews as prescribed by regulation or other 
+    administrative activities under parts B, C, and D.
+        ``(4) Technical assistance for protection and advocacy 
+    systems._If technical assistance to improve the effectiveness of 
+    protection and advocacy systems under part C is provided under 
+    section 142(c)(5)_
+            ``(A) no funding for the provision of such technical 
+        assistance to protection and advocacy systems shall be provided 
+        under this part; and
+            ``(B) the amount set aside for technical assistance under 
+        section 162(a)(1)(B) shall be proportionally reduced.''.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

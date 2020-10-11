@@ -1,0 +1,1773 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 2060 Enrolled Bill (ENR)]
+
+        S.2060
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend the Small Business Act and the Small Business Investment Act 
+of 1958, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Small Business 
+Administration Reauthorization and Amendments Act of 1994''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+Sec. 1. Short title; table of contents.
+
+                         TITLE I--AUTHORIZATIONS
+
+Sec. 101. Authorizations.
+
+                 TITLE II--FINANCIAL ASSISTANCE PROGRAMS
+
+Sec. 201. Microloan financing pilot.
+Sec. 202. Eligibility of Native American Tribal Governments to be 
+          microloan intermediaries.
+Sec. 203. Microloan program extension.
+Sec. 204. Microloan program funding and State limitations.
+Sec. 205. Distribution of intermediaries.
+Sec. 206. Microloan intermediary loan limitation.
+Sec. 207. Microloan technical assistance to nonborrowers.
+Sec. 208. Microloan technical assistance grants for intermediaries 
+          serving economically distressed areas.
+Sec. 209. Loans to exporters.
+Sec. 210. Working capital international trade loans.
+Sec. 211. Guarantees on international trade loans.
+Sec. 212. Accredited lenders program.
+Sec. 213. Interest rate on certified development company loans.
+Sec. 214. Certifications of eligibility for SBIC and SSBIC financing.
+Sec. 215. Participating securities for smaller SBICs.
+Sec. 216. Report on SBIC program.
+Sec. 217. Premier Certified Lenders Program.
+
+              TITLE III--SIZE STANDARDS AND BOND GUARANTEES
+
+Sec. 301. Establishment of size standards.
+Sec. 302. Pilot preferred surety bond guarantee program extension.
+Sec. 303. Manufacturing contracts through manufacturing application and 
+          education centers.
+Sec. 304. Pilot program for very small business concerns.
+Sec. 305. Handicapped workshop participation in small business set aside 
+          contracts.
+
+                TITLE IV--BUSINESS DEVELOPMENT ASSISTANCE
+
+                     Subtitle A--General Provisions
+
+Sec. 401. Sunset on cosponsored training.
+Sec. 402. Small business development center program level.
+Sec. 403. Federal contracts with small business development centers.
+Sec. 404. Small business development center program examination and 
+          certification.
+Sec. 405. Central European small business development.
+Sec. 406. Mobile resource center pilot program.
+Sec. 407. Information concerning franchising.
+
+            Subtitle B--Development of Woman-Owned Businesses
+
+Sec. 411. Extension of authority for demonstration projects.
+Sec. 412. Establishment of Office of Women's Business Ownership.
+Sec. 413. Development of women's business enterprise.
+Sec. 414. Transition reimbursement.
+Sec. 415. Gift authority.
+Sec. 416. Conforming amendment.
+
+           TITLE V--RELIEF FROM DEBENTURE PREPAYMENT PENALTIES
+
+Sec. 501. Short title.
+Sec. 502. Intention of Congress.
+Sec. 503. Prepayment of development company debentures.
+
+                   TITLE VI--MISCELLANEOUS AMENDMENTS
+
+Sec. 601. SBA interest payments to Treasury.
+Sec. 602. Imposition of fees.
+Sec. 603. Job creation and community benefit.
+Sec. 604. Microloan program amendments.
+Sec. 605. Technical clarification.
+Sec. 606. Study and data base: guaranteed business loan program and 
+          development company program.
+Sec. 607. SBIR vendors.
+Sec. 608. Program extension.
+Sec. 609. Prohibition on the use of funds for individuals not lawfully 
+          within the United States.
+Sec. 610. Office of Advocacy employees.
+Sec. 611. Prohibition on the provision of assistance.
+Sec. 612. Certification of compliance with child support obligations.
+Sec. 613. Advocacy study of paperwork and tax impact.
+
+                        TITLE I--AUTHORIZATIONS
+
+SEC. 101. AUTHORIZATIONS.
+
+    Section 20 of the Small Business Act (15 U.S.C. 631 note) is 
+amended by striking subsections (k) (as added by section 405(3) of the 
+Small Business Credit and Business Opportunity Enhancement Act of 1992) 
+through (p) and inserting the following:
+    ``(l) The following program levels are authorized for fiscal year 
+1995:
+        ``(1) For the programs authorized by this Act, the 
+    Administration is authorized to make--
+            ``(A) $45,000,000 in technical assistance grants as 
+        provided in section 7(m); and
+            ``(B) $130,000,000 in direct and immediate participation 
+        loans, and of such sum, the Administration is authorized to 
+        make--
+                ``(i) not more than $10,000,000 in loans, as provided 
+            in section 7(a)(10); and
+                ``(ii) not more than $120,000,000 in loans, as provided 
+            in section 7(m).
+        ``(2) For the programs authorized by this Act, the 
+    Administration is authorized to make $13,420,000,000 in deferred 
+    participation loans and other financings. Of such sum, the 
+    Administration is authorized to make--
+            ``(A) $9,150,000,000 in general business loans as provided 
+        in section 7(a);
+            ``(B) $2,250,000,000 in financings as provided in section 
+        7(a)(13) and section 504 of the Small Business Investment Act 
+        of 1958;
+            ``(C) $2,000,000,000 in loans as provided in section 
+        7(a)(21); and
+            ``(D) $20,000,000 in loans as provided in section 7(m).
+        ``(3) For the programs authorized by title III of the Small 
+    Business Investment Act of 1958, the Administration is authorized 
+    to make--
+            ``(A) $23,000,000 in purchases of preferred securities;
+            ``(B) $244,000,000 in guarantees of debentures, of which 
+        $44,000,000 is authorized in guarantees of debentures from 
+        companies operating pursuant to section 301(d) of such Act; and
+            ``(C) $400,000,000 in guarantees of participating 
+        securities.
+        ``(4) For the programs authorized by part B of title IV of the 
+    Small Business Investment Act of 1958, the Administration is 
+    authorized to enter into guarantees not to exceed $1,800,000,000, 
+    of which not more than $600,000,000 may be in bonds approved 
+    pursuant to the provisions of section 411(a)(3) of such Act.
+        ``(5) The Administration is authorized to make grants or enter 
+    into cooperative agreements--
+            ``(A) for the Service Corps of Retired Executives program 
+        authorized by section 8(b)(1), $3,500,000;
+            ``(B) for the Small Business Institute program authorized 
+        by section 8(b)(1), $3,000,000; and
+            ``(C) for activities of small business development centers 
+        pursuant to section 21(c)(3)(G), $5,000,000, to remain 
+        available until expended.
+    ``(m)(1) There are authorized to be appropriated to the 
+Administration for fiscal year 1995 such sums as may be necessary to 
+carry out the provisions of this Act, including administrative expenses 
+and necessary loan capital for disaster loans pursuant to section 7(b), 
+and to carry out the provisions of the Small Business Investment Act of 
+1958, including salaries and expenses of the Administration.
+    ``(2) Notwithstanding paragraph (1), for fiscal year 1995--
+        ``(A) no funds are authorized to be provided to carry out the 
+    loan program authorized by section 7(a)(21) except by transfer from 
+    another Federal department or agency to the Administration, unless 
+    the program level authorized for general business loans under 
+    subsection (l)(2)(A) is fully funded; and
+        ``(B) the Administration may not approve loans on behalf of the 
+    Administration or on behalf of any other department or agency, by 
+    contract or otherwise, under terms and conditions other than those 
+    specifically authorized under this Act or the Small Business 
+    Investment Act of 1958, except that it may approve loans under 
+    section 7(a)(21) of this Act in gross amounts of not more than 
+    $1,250,000.
+    ``(n) The following program levels are authorized for fiscal year 
+1996:
+        ``(1) For the programs authorized by this Act, the 
+    Administration is authorized to make--
+            ``(A) $65,000,000 in technical assistance grants as 
+        provided in section 7(m); and
+            ``(B) $191,000,000 in direct and immediate participation 
+        loans, and of such sum, the Administration is authorized to 
+        make--
+                ``(i) $11,000,000 in loans, as provided in section 
+            7(a)(10); and
+                ``(ii) $180,000,000 in loans, as provided in section 
+            7(m).
+        ``(2) For the programs authorized by this Act, the 
+    Administration is authorized to make $15,680,000,000 in deferred 
+    participation loans and other financings. Of such sum, the 
+    Administration is authorized to make--
+            ``(A) $10,500,000,000 in general business loans as provided 
+        in section 7(a);
+            ``(B) $2,650,000,000 in financings as provided in section 
+        7(a)(13) and section 504 of the Small Business Investment Act 
+        of 1958;
+            ``(C) $2,500,000,000 in loans as provided in section 
+        7(a)(21); and
+            ``(D) $30,000,000 in loans as provided in section 7(m).
+        ``(3) For the programs authorized by title III of the Small 
+    Business Investment Act of 1958, the Administration is authorized 
+    to make--
+            ``(A) $24,000,000 in purchases of preferred securities;
+            ``(B) $256,000,000 in guarantees of debentures, of which 
+        $46,000,000 is authorized in guarantees of debentures from 
+        companies operating pursuant to section 301(d) of such Act; and
+            ``(C) $650,000,000 in guarantees of participating 
+        securities.
+        ``(4) For the programs authorized by part B of title IV of the 
+    Small Business Investment Act of 1958, the Administration is 
+    authorized to enter into guarantees not to exceed $1,900,000,000, 
+    of which not more than $625,000,000 may be in bonds approved 
+    pursuant to the provisions of section 411(a)(3) of such Act.
+        ``(5) The Administration is authorized to make grants or enter 
+    cooperative agreements--
+            ``(A) for the Service Corps of Retired Executives program 
+        authorized by section 8(b)(1), $3,700,000;
+            ``(B) for the Small Business Institute program authorized 
+        by section 8(b)(1), $3,200,000; and
+            ``(C) for activities of small business development centers 
+        pursuant to section 21(c)(3)(G), not to exceed $10,000,000, to 
+        remain available until expended.
+    ``(o)(1) There are authorized to be appropriated to the 
+Administration for fiscal year 1996 such sums as may be necessary to 
+carry out the provisions of this Act, including administrative expenses 
+and necessary loan capital for disaster loans pursuant to section 7(b), 
+and to carry out the provisions of the Small Business Investment Act of 
+1958, including salaries and expenses of the Administration.
+    ``(2) Notwithstanding paragraph (1), for fiscal year 1996--
+        ``(A) no funds are authorized to be provided to carry out the 
+    loan program authorized by section 7(a)(21) except by transfer from 
+    another Federal department or agency to the Administration, unless 
+    the program level authorized for general business loans under 
+    subsection (n)(2)(A) is fully funded; and
+        ``(B) the Administration may not approve loans on behalf of the 
+    Administration or on behalf of any other department or agency, by 
+    contract or otherwise, under terms and conditions other than those 
+    specifically authorized under this Act or the Small Business 
+    Investment Act of 1958, except that it may approve loans under 
+    section 7(a)(21) of this Act in gross amounts of not more than 
+    $1,250,000.
+    ``(p) The following program levels are authorized for fiscal year 
+1997:
+        ``(1) For the programs authorized by this Act, the 
+    Administration is authorized to make--
+            ``(A) $98,000,000 in technical assistance grants as 
+        provided in section 7(m); and
+            ``(B) $262,000,000 in direct and immediate participation 
+        loans, and of such sum, the Administration is authorized to 
+        make--
+                ``(i) $12,000,000 in loans, as provided in section 
+            7(a)(10); and
+                ``(ii) $250,000,000 in loans, as provided in section 
+            7(m).
+        ``(2) For the programs authorized by this Act, the 
+    Administration is authorized to make $19,390,000,000 in deferred 
+    participation loans and other financings. Of such sum, the 
+    Administration is authorized to make--
+            ``(A) $13,100,000,000 in general business loans as provided 
+        in section 7(a);
+            ``(B) $3,250,000,000 in financings as provided in section 
+        7(a)(13) and section 504 of the Small Business Investment Act 
+        of 1958;
+            ``(C) $3,000,000,000 in loans as provided in section 
+        7(a)(21); and
+            ``(D) $40,000,000 in loans as provided in section 7(m).
+        ``(3) For the programs authorized by title III of the Small 
+    Business Investment Act of 1958, the Administration is authorized 
+    to make--
+            ``(A) $25,000,000 in purchases of preferred securities;
+            ``(B) $268,000,000 in guarantees of debentures, of which 
+        $48,000,000 is authorized in guarantees of debentures from 
+        companies operating pursuant to section 301(d) of such Act; and
+            ``(C) $900,000,000 in guarantees of participating 
+        securities.
+        ``(4) For the programs authorized by part B of title IV of the 
+    Small Business Investment Act of 1958, the Administration is 
+    authorized to enter into guarantees not to exceed $2,000,000,000, 
+    of which not more than $650,000,000 may be in bonds approved 
+    pursuant to the provisions of section 411(a)(3) of such Act.
+        ``(5) The Administration is authorized to make grants or enter 
+    cooperative agreements--
+            ``(A) for the Service Corps of Retired Executives program 
+        authorized by section 8(b)(1), $3,900,000;
+            ``(B) for the Small Business Institute program authorized 
+        by section 8(b)(1), $3,400,000; and
+            ``(C) for activities of small business development centers 
+        pursuant to section 21(c)(3)(G), not to exceed $15,000,000, to 
+        remain available until expended.
+    ``(q)(1) There are authorized to be appropriated to the 
+Administration for fiscal year 1997 such sums as may be necessary to 
+carry out the provisions of this Act, including administrative expenses 
+and necessary loan capital for disaster loans pursuant to section 7(b), 
+and to carry out the provisions of the Small Business Investment Act of 
+1958, including salaries and expenses of the Administration.
+    ``(2) Notwithstanding paragraph (1), for fiscal year 1997--
+        ``(A) no funds are authorized to be provided to carry out the 
+    loan program authorized by section 7(a)(21) except by transfer from 
+    another Federal department or agency to the Administration, unless 
+    the program level authorized for general business loans under 
+    subsection (p)(2)(A) is fully funded; and
+        ``(B) the Administration may not approve loans on behalf of the 
+    Administration or on behalf of any other department or agency, by 
+    contract or otherwise, under terms and conditions other than those 
+    specifically authorized under this Act or the Small Business 
+    Investment Act of 1958, except that it may approve loans under 
+    section 7(a)(21) of this Act in gross amounts of not more than 
+    $1,250,000.''.
+
+                TITLE II--FINANCIAL ASSISTANCE PROGRAMS
+
+SEC. 201. MICROLOAN FINANCING PILOT.
+
+    Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is 
+amended by adding at the end the following new paragraph:
+        ``(12) Deferred participation loan pilot.--In lieu of making 
+    direct loans to intermediaries as authorized in paragraph (1)(B), 
+    during fiscal years 1995 through 1997, the Administration may, on a 
+    pilot program basis, participate on a deferred basis of not less 
+    than 90 percent and not more than 100 percent on loans made to 
+    intermediaries by a for-profit or nonprofit entity or by alliances 
+    of such entities, subject to the following conditions:
+            ``(A) Number of loans.--In carrying out this paragraph, the 
+        Administration shall not participate in providing financing on 
+        a deferred basis to more than 10 intermediaries in urban areas 
+        or more than 10 intermediaries in rural areas.
+            ``(B) Term of loans.--The term of each loan shall be 10 
+        years. During the first year of the loan, the intermediary 
+        shall not be required to repay any interest or principal. 
+        During the second through fifth years of the loan, the 
+        intermediary shall be required to pay interest only. During the 
+        sixth through tenth years of the loan, the intermediary shall 
+        be required to make interest payments and fully amortize the 
+        principal.
+            ``(C) Interest rate.--The interest rate on each loan shall 
+        be the rate specified by paragraph (3)(F) for direct loans.''.
+
+SEC. 202. ELIGIBILITY OF NATIVE AMERICAN TRIBAL GOVERNMENTS TO BE 
+              MICROLOAN INTERMEDIARIES.
+
+    Section 7(m)(11)(A) of the Small Business Act (15 U.S.C. 
+636(m)(11)(A)) is amended--
+        (1) in clause (iii), by striking ``or'' at the end;
+        (2) in clause (iv), by striking the comma at the end and 
+    inserting ``; or''; and
+        (3) by adding at the end the following new clause:
+                ``(v) an agency of or nonprofit entity established by a 
+            Native American Tribal Government,''.
+
+SEC. 203. MICROLOAN PROGRAM EXTENSION.
+
+    Section 609(j) of Public Law 102-140 (105 Stat. 831) is amended by 
+striking ``5 years after the date of enactment of this Act'', and 
+inserting ``on October 1, 1997''.
+
+SEC. 204. MICROLOAN PROGRAM FUNDING AND STATE LIMITATIONS.
+
+    Section 7(m)(7) of the Small Business Act (15 U.S.C. 636(m)(7)) is 
+amended to read as follows:
+        ``(7) Program funding for microloans.--
+            ``(A) Number of participants.--During the demonstration 
+        program authorized by this subsection, the Administration may 
+        fund, on a competitive basis, not more than 200 microloan 
+        programs.
+            ``(B) State limitations.--During any fiscal year, a State 
+        shall not receive new loan funds from the Administration that 
+        exceed 125 percent of the State's pro rata share of the 
+        microloan program authorization during such fiscal year, such 
+        share to be based on the population of the State, as compared 
+        to the total population of the United States.''.
+
+SEC. 205. DISTRIBUTION OF INTERMEDIARIES.
+
+    Section 7(m)(8) of the Small Business Act (15 U.S.C. 636(m)(8)) is 
+amended to read as follows:
+        ``(8) Equitable distribution of intermediaries.--In approving 
+    microloan program applicants under this subsection, the 
+    Administration shall select such intermediaries as will ensure 
+    appropriate availability of loans for small businesses in all 
+    industries located throughout each State, particularly those 
+    located in urban and in rural areas.''.
+
+SEC. 206. MICROLOAN INTERMEDIARY LOAN LIMITATION.
+
+    Section 7(m)(3)(C) of the Small Business Act (15 U.S.C. 
+636(m)(3)(C)) is amended by striking ``$1,250,000'' and inserting ``$2, 
+500,000''.
+
+SEC. 207. MICROLOAN TECHNICAL ASSISTANCE TO NONBORROWERS.
+
+    Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is 
+amended by adding at the end the following new subparagraph:
+            ``(E) Assistance to certain small business concerns.--Each 
+        intermediary may expend an amount not to exceed 15 percent of 
+        the grant funds received under paragraph (1)(B)(ii) to provide 
+        information and technical assistance to small business concerns 
+        that are prospective borrowers under this subsection.''.
+
+SEC. 208. MICROLOAN TECHNICAL ASSISTANCE GRANTS FOR INTERMEDIARIES 
+              SERVING ECONOMICALLY DISTRESSED AREAS.
+
+    (a) Grant Eligibility.--Section 7(m)(4) of the Small Business Act 
+(15 U.S.C. 636(m)(4)) is amended--
+        (1) in subparagraph (B), by inserting ``except for a grant made 
+    to an intermediary that provides not less than 50 percent of its 
+    loans to small business concerns located in or owned by one or more 
+    residents of an economically distressed area,'' after ``under 
+    subparagraph (A),''; and
+        (2) in subparagraph (C), by striking clause (i) and inserting 
+    the following:
+                ``(i) In general.--In addition to grants made under 
+            subparagraph (A), each intermediary shall be eligible to 
+            receive a grant equal to 5 percent of the total outstanding 
+            balance of loans made to the intermediary under this 
+            subsection if--
+
+                    ``(I) the intermediary provides not less than 25 
+                percent of its loans to small business concerns located 
+                in or owned by one or more residents of an economically 
+                distressed area; or
+                    ``(II) the intermediary has a portfolio of loans 
+                made under this subsection that averages not more than 
+                $7,500 during the period of the intermediary's 
+                participation in the program.''.
+
+    (b) Definition.--Section 7(m)(11) of the Small Business Act (15 
+U.S.C. 636(m)(11)) is amended--
+        (1) in subparagraph (C), by striking the period at the end and 
+    inserting ``; and''; and
+        (2) by adding at the end the following new subparagraph:
+            ``(D) the term `economically distressed area', as used in 
+        paragraph (4), means a county or equivalent division of local 
+        government of a State in which the small business concern is 
+        located, in which, according to the most recent data available 
+        from the Bureau of the Census, Department of Commerce, not less 
+        than 40 percent of residents have an annual income that is at 
+        or below the poverty level.''.
+    (c) Termination.--The amendments made by this section shall remain 
+in effect during the period beginning on the date of enactment of this 
+Act and ending on October 1, 1997.
+
+SEC. 209. LOANS TO EXPORTERS.
+
+    Section 7(a)(14)(A) of the Small Business Act (15 U.S.C. 
+636(a)(14)(A)) is amended to read as follows:
+        ``(14)(A) The Administration may provide extensions of credit, 
+    standby letters of credit, revolving lines of credit for export 
+    purposes, and other financing to enable small business concerns, 
+    including small business export trading companies and small 
+    business export management companies, to develop foreign markets. A 
+    bank or participating lending institution may establish the rate of 
+    interest on such financings as may be legal and reasonable.''.
+
+SEC. 210. WORKING CAPITAL INTERNATIONAL TRADE LOANS.
+
+    Section 7(a)(3)(B) of the Small Business Act (15 U.S.C. 
+636(a)(3)(B)) is amended to read as follows:
+            ``(B) if the total amount outstanding and committed (on a 
+        deferred basis) solely for the purposes provided in paragraph 
+        (16) to the borrower from the business loan and investment fund 
+        established by this Act would exceed $1,250,000, of which not 
+        more than $750,000 may be used for working capital, supplies, 
+        or financings under section 7(a)(14) for export purposes; 
+        and''.
+
+SEC. 211. GUARANTEES ON INTERNATIONAL TRADE LOANS.
+
+    Section 7(a)(2)(B)(iv) of the Small Business Act (15 U.S.C. 
+636(a)(2)(B)(iv)) is amended to read as follows:
+                ``(iv) not less than 85 percent nor more than 90 
+            percent of the financing outstanding at the time of 
+            disbursement if such financing is a loan under paragraph 
+            (14) or (16).''.
+
+SEC. 212. ACCREDITED LENDERS PROGRAM.
+
+    (a) Establishment.--Title V of the Small Business Investment Act of 
+1958 (15 U.S.C. 695 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 507. ACCREDITED LENDERS PROGRAM.
+
+    ``(a) Establishment.--The Administration is authorized to establish 
+an Accredited Lenders Program for qualified State and local development 
+companies that meet the requirements of subsection (b).
+    ``(b) Requirements.--The Administration may designate a qualified 
+State or local development company as an accredited lender if such 
+company--
+        ``(1) has been an active participant in the Development Company 
+    Program authorized by sections 502, 503, and 504 for not less than 
+    the preceding 12 months;
+        ``(2) has well-trained, qualified personnel who are 
+    knowledgeable in the Administration's lending policies and 
+    procedures for such Development Company Program;
+        ``(3) has the ability to process, close, and service financing 
+    for plant and equipment under such Development Company Program;
+        ``(4) has a loss rate on the company's debentures that is 
+    reasonable and acceptable to the Administration;
+        ``(5) has a history of submitting to the Administration 
+    complete and accurate debenture guaranty application packages; and
+        ``(6) has demonstrated the ability to serve small business 
+    credit needs for financing plant and equipment through the 
+    Development Company Program.
+    ``(c) Expedited Processing of Loan Applications.--The 
+Administration shall develop an expedited procedure for processing a 
+loan application or servicing action submitted by a qualified State or 
+local development company that has been designated as an accredited 
+lender in accordance with subsection (b).
+    ``(d) Suspension or Revocation of Designation.--
+        ``(1) In general.--The designation of a qualified State or 
+    local development company as an accredited lender may be suspended 
+    or revoked if the Administration determines that--
+            ``(A) the development company has not continued to meet the 
+        criteria for eligibility under subsection (b); or
+            ``(B) the development company has failed to adhere to the 
+        Administration's rules and regulations or is violating any 
+        other applicable provision of law.
+        ``(2) Effect.--A suspension or revocation under paragraph (1) 
+    shall not affect any outstanding debenture guarantee.
+    ``(e) Definition.--For purposes of this section, the term 
+`qualified State or local development company' has the same meaning as 
+in section 503(e).''.
+    (b) Regulations.--Not later than 120 days after the date of 
+enactment of this Act, the Administration shall promulgate final 
+regulations to carry out this section.
+    (c) Report.--Not later than 1 year after the effective date of 
+regulations promulgated under subsection (b), and biennially 
+thereafter, the Administration shall report to the Committees on Small 
+Business of the Senate and the House of Representatives on the 
+implementation of this section. Such report shall include data on the 
+number of development companies designated as accredited lenders, their 
+debenture guarantee volume, their loss rates, the average processing 
+time on their guarantee applications, and such other information as the 
+Administration deems appropriate.
+
+SEC. 213. INTEREST RATE ON CERTIFIED DEVELOPMENT COMPANY LOANS.
+
+    Section 112(c) of the Small Business Administration Reauthorization 
+and Amendment Act of 1988 (102 Stat. 2996) is amended--
+        (1) in paragraph (1), by striking ``(1) In General.--Section 
+    503'' and inserting ``Section 503''; and
+        (2) by striking paragraph (2).
+
+SEC. 214. CERTIFICATIONS OF ELIGIBILITY FOR SBIC AND SSBIC FINANCING.
+
+    Section 308 of the Small Business Investment Act of 1958 (15 U.S.C. 
+687) is amended by adding at the end the following new subsection:
+    ``(h) Certifications of Eligibility.--
+        ``(1) Certification by small business concern.--Prior to 
+    receiving financial assistance from a company licensed pursuant to 
+    subsection (c) or (d) of section 301, a small business concern 
+    shall certify in writing that it meets the eligibility requirements 
+    of the Small Business Investment Company Program or the Specialized 
+    Small Business Investment Company Program, as applicable.
+        ``(2) Certification by company.--Prior to providing financial 
+    assistance to a small business concern under this Act, a company 
+    licensed pursuant to subsection (c) or (d) of section 301 shall 
+    certify in writing that it has reviewed the application for 
+    assistance of the small business concern and that all documentation 
+    and other information supports the eligibility of the applicant.
+        ``(3) Retention of certifications.--Certificates made pursuant 
+    to paragraphs (1) and (2) shall be retained by the company licensed 
+    pursuant to subsection (c) or (d) of section 301 for the duration 
+    of the financial assistance.''.
+
+SEC. 215. PARTICIPATING SECURITIES FOR SMALLER SBICS.
+
+    Section 303(g) of the Small Business Investment Act of 1958 (15 
+U.S.C. 683(g)) is amended by adding at the end the following new 
+paragraph:
+        ``(13) Participating securities for smaller small business 
+    investment companies.--
+            ``(A) In general.--Subject to the provisions of 
+        subparagraph (B), of the amount of the annual program level of 
+        participating securities approved in appropriations Acts, 50 
+        percent shall be reserved for funding small business investment 
+        companies with private capital of not more than $20,000,000.
+            ``(B) Exception.--During the last quarter of each fiscal 
+        year, if the Administrator determines that there is a lack of 
+        qualified applicants with private capital of not more than 
+        $20,000,000, the Administrator may utilize all or any part of 
+        the program level for securities reserved under subparagraph 
+        (A) for qualified applicants with private capital of more than 
+        $20,000,000.''.
+
+SEC. 216. REPORT ON SBIC PROGRAM.
+
+    Not later than May 15, 1995, the Small Business Administration 
+shall submit to the Committees on Small Business of the House of 
+Representatives and the Senate a comprehensive report on--
+        (1) the status and disposition of all small business investment 
+    companies participating in the Small Business Investment Company 
+    Program under subsections (c) and (d) of section 301 of the Small 
+    Business Investment Act of 1958, whether active or in liquidation;
+        (2) a complete accounting of the assets in and the basis of the 
+    portfolios of such companies;
+        (3) the projected and actual loss rates for all portfolios in 
+    liquidation or active; and
+        (4) a detailed accounting of valuation of the Small Business 
+    Investment Company Program's investments.
+
+SEC. 217. PREMIER CERTIFIED LENDERS PROGRAM.
+
+    (a) In General.--Title V of the Small Business Investment Act of 
+1958 (15 U.S.C. 695 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 508. PREMIER CERTIFIED LENDERS PROGRAM.
+
+    ``(a) Establishment.--On a pilot program basis, the Administration 
+may establish a Premier Certified Lenders Program for not more than 15 
+certified development companies that meet the requirements of 
+subsection (b).
+    ``(b) Requirements.--
+        ``(1) Application.--To be eligible to participate in the 
+    Premier Certified Lenders Program established under subsection (a), 
+    a certified development company shall prepare and submit to the 
+    Administration an application at such time, in such manner, and 
+    containing such information as the Administration may require.
+        ``(2) Designation.--The Administration may designate a 
+    certified development company as a premier certified lender if such 
+    company--
+            ``(A) has been an active participant in the accredited 
+        lenders program during the 12-month period preceding the date 
+        on which the company submits an application under paragraph 
+        (1), except that, prior to January 1, 1996, the Administration 
+        may waive this requirement if the company is qualified to 
+        participate in the accredited lenders program;
+            ``(B) has a history of submitting to the Administration 
+        adequately analyzed debenture guarantee application packages; 
+        and
+            ``(C) agrees to assume and to reimburse the Administration 
+        for 10 percent of any loss sustained by the Administration as a 
+        result of default by the company in the payment of principal or 
+        interest on a debenture issued by such company and guaranteed 
+        by the Administration under this section.
+    ``(c) Loss Reserve.--
+        ``(1) Establishment.--A company designated as a premier 
+    certified lender shall establish a loss reserve for financings 
+    approved pursuant to this section.
+        ``(2) Amount.--The amount of the loss reserve shall be based 
+    upon the greater of--
+            ``(A) the historic loss rate on debentures issued by such 
+        company; or
+            ``(B) 10 percent of the amount of the company's exposure as 
+        determined under subsection (b)(2)(C).
+        ``(3) Assets.--The loss reserve shall be comprised of 
+    segregated assets of the company which shall be securitized in 
+    favor of the Administration.
+        ``(4) Contributions.--The company shall make contributions to 
+    the loss reserve in the following amounts and at the following 
+    intervals:
+            ``(A) 50 percent when a debenture is closed.
+            ``(B) 25 percent not later than 1 year after a debenture is 
+        closed.
+            ``(C) 25 percent not later than 2 years after a debenture 
+        is closed.
+    ``(d) Loan Approval Authority.--
+        ``(1) In general.--Notwithstanding section 503(b)(6), and 
+    subject to such terms and conditions as the Administration may 
+    establish, the Administration may permit a company designated as a 
+    premier certified lender under this section to approve loans that 
+    are funded with the proceeds of a debenture issued by such company 
+    and may authorize the guarantee of such debenture.
+        ``(2) Scope of review.--The approval of a loan by a premier 
+    certified lender shall be subject to final approval as to 
+    eligibility of any guarantee by the Administration pursuant to 
+    section 503(a), but such final approval shall not include review of 
+    decisions by the lender involving creditworthiness, loan closing, 
+    or compliance with legal requirements imposed by law or regulation.
+    ``(e) Review.--After the issuance and sale of debentures under this 
+section, the Administration, at intervals not greater than 12 months, 
+shall review the financings made by each premier certified lender. The 
+review shall include the lender's credit decisions and general 
+compliance with the eligibility requirements for each financing 
+approved under the program authorized under this section. The 
+Administration shall consider the findings of the review in carrying 
+out its responsibilities under subsection (f), but such review shall 
+not affect any outstanding debenture guarantee.
+    ``(f) Suspension or Revocation.--The designation of a State or 
+local development company as a premier certified lender may be 
+suspended or revoked if the Administration determines that the 
+company--
+        ``(1) has not continued to meet the criteria for eligibility 
+    under subsection (b);
+        ``(2) has not established or maintained the loss reserve 
+    required under subsection (c);
+        ``(3) is failing to adhere to the Administration's rules and 
+    regulations; or
+        ``(4) is violating any other applicable provision of law.
+    ``(g) Effect of Suspension or Designation.--A suspension or 
+revocation under subsection (f) shall not affect any outstanding 
+debenture guarantee.
+    ``(h) Regulations.--Not later than 180 days after the date of 
+enactment of this section, the Administration shall promulgate 
+regulations to carry out this section.
+    ``(i) Report.--Not later than 1 year after the date of enactment of 
+this Act, and annually thereafter, the Administration shall report to 
+the Committees on Small Business of the Senate and the House of 
+Representatives on the implementation of this section. Each report 
+shall include--
+        ``(1) the number of certified development companies designated 
+    as premier certified lenders;
+        ``(2) the debenture guarantee volume of such companies;
+        ``(3) a comparison of the loss rate for premier certified 
+    lenders to the loss rate for accredited and other lenders; and
+        ``(4) such other information as the Administration deems 
+    appropriate.''.
+    (b) Repeal.--Effective on October 1, 1997, section 508 of the Small 
+Business Investment Act of 1958, as added by subsection (a), is 
+repealed.
+
+             TITLE III--SIZE STANDARDS AND BOND GUARANTEES
+
+SEC. 301. ESTABLISHMENT OF SIZE STANDARDS.
+
+    Section 3(a)(2) of the Small Business Act (15 U.S.C. 632(a)(2)) is 
+amended to read as follows:
+        ``(2) Establishment of size standards.--
+            ``(A) In general.--In addition to the criteria specified in 
+        paragraph (1), the Administrator may specify detailed 
+        definitions or standards by which a business concern may be 
+        determined to be a small business concern for the purposes of 
+        this Act or any other Act.
+            ``(B) Additional criteria.--The standards described in 
+        paragraph (1) may utilize number of employees, dollar volume of 
+        business, net worth, net income, a combination thereof, or 
+        other appropriate factors.
+            ``(C) Requirements.--Unless specifically authorized by 
+        statute, no Federal department or agency may prescribe a size 
+        standard for categorizing a business concern as a small 
+        business concern, unless such proposed size standard--
+                ``(i) is proposed after an opportunity for public 
+            notice and comment;
+                ``(ii) provides for determining--
+
+                    ``(I) the size of a manufacturing concern as 
+                measured by the manufacturing concern's average 
+                employment based upon employment during each of the 
+                manufacturing concern's pay periods for the preceding 
+                12 months;
+                    ``(II) the size of a business concern providing 
+                services on the basis of the annual average gross 
+                receipts of the business concern over a period of not 
+                less than 3 years;
+                    ``(III) the size of other business concerns on the 
+                basis of data over a period of not less than 3 years; 
+                or
+                    ``(IV) other appropriate factors; and
+
+                ``(iii) is approved by the Administrator.''.
+
+SEC. 302. PILOT PREFERRED SURETY BOND GUARANTEE PROGRAM EXTENSION.
+
+    Section 207 of the Small Business Administration Reauthorization 
+and Amendment Act of 1988 (15 U.S.C. 694b note) is amended by striking 
+``September 30, 1994'' and inserting ``September 30, 1995''.
+
+SEC. 303. MANUFACTURING CONTRACTS THROUGH MANUFACTURING APPLICATION AND 
+              EDUCATION CENTERS.
+
+    (a) In General.--The Small Business Administration shall promote 
+the award of Federal manufacturing contracts to small business concerns 
+that participate in manufacturing application and education centers by 
+working with the Department of Commerce and other agencies to identify 
+components and subsystems that are both critical and currently foreign-
+sourced.
+    (b) Qualifications.--In order to qualify as a manufacturing 
+application and education center under this section, an entity shall 
+have the capacity to assist small business concerns in a shared-use 
+production environment and to offer the following services:
+        (1) Technology demonstration.
+        (2) Technology education.
+        (3) Technology application support.
+        (4) Technology advancement support.
+    (c) Inapplicability of Certain Requirements.--The requirements of 
+section 15(o)(1)(B) of the Small Business Act shall not apply with 
+respect to any manufacturing contract carried out by a small business 
+concern in conjunction with a manufacturing application and education 
+center under this section.
+    (d) Regulations.--Not later than 180 days after the date of 
+enactment of this Act, the Administrator of the Small Business 
+Administration shall promulgate final regulations to carry out this 
+section.
+    (e) Termination of Authority.--The authority of the Small Business 
+Administration under this section shall terminate on September 30, 
+1997.
+    (f) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Small Business Administration, such sums as may be 
+necessary to carry out this section.
+
+SEC. 304. PILOT PROGRAM FOR VERY SMALL BUSINESS CONCERNS.
+
+    (a) Establishment.--The Administrator shall establish and carry out 
+a pilot program in accordance with the requirements of this section to 
+provide improved access to Federal contract opportunities for very 
+small business concerns.
+    (b) Procurement Contracts.--
+        (1) In general.--In carrying out subsection (a), the 
+    Administrator shall identify procurement contracts of Federal 
+    agencies for award under the program.
+        (2) Contract awards.--Under the program established pursuant to 
+    this section, the award of a procurement contract of a Federal 
+    agency identified by the Administration pursuant to paragraph (1) 
+    shall be made by the agency to an eligible program participant 
+    selected, and determined to be responsible, by the agency.
+        (3) Competition.--All contract opportunities offered for award 
+    under the program shall be awarded on the basis of competition 
+    among eligible very small business concerns.
+    (c) Eligibility.--Only a very small business concern shall be 
+eligible to compete for a contract to be awarded under the program. A 
+contracting officer may rely in good faith on a written certification 
+that a small business concern is a very small business concern.
+    (d) Delegation of Authority.--The authority of the Administrator 
+under subsections (b)(1) and (c) shall be delegated to not less than 5 
+and not more than 10 districts of the Administration to promote the 
+award of contracts that can be performed by very small business 
+concerns.
+    (e) Financial Assistance.--In order to assist very small business 
+concerns receiving contract awards under the program, the Administrator 
+shall establish a preauthorization program for such concerns for the 
+purpose of receiving financial assistance under section 7(a) of the 
+Small Business Act.
+    (f) Attainment of Contract Goals.--All contract awards made under 
+the program shall be counted toward the attainment of the goals 
+specified in section 15(g) of the Small Business Act.
+    (g) Regulations.--The Administrator shall--
+        (1) issue proposed regulations to carry out this section not 
+    later than 180 days after the date of enactment of this Act; and
+        (2) issue final regulations to carry out this section not later 
+    than 270 days after the date of enactment of this Act.
+    (h) Report to Congress.--Not later than April 30, 1997, the 
+Administrator shall transmit to the Congress a report on the results of 
+the program, together with such recommendations as the Administrator 
+deems appropriate.
+    (i) Program Term.--Implementation of the program shall begin not 
+later than August 30, 1995. The program authorized by this section 
+shall expire on September 30, 1998.
+    (j) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+        (1) Administration.--The term ``Administration'' means the 
+    Small Business Administration.
+        (2) Administrator.--The term ``Administrator'' means the 
+    Administrator of the Small Business Administration.
+        (3) Program.--The term ``program'' means a program established 
+    pursuant to subsection (a).
+        (4) Very small business concern.--The term ``very small 
+    business concern'' means a small business concern that--
+            (A) has not more than 15 employees; and
+            (B) has average annual receipts that total not more than 
+        $1,000,000.
+
+SEC. 305. HANDICAPPED WORKSHOP PARTICIPATION IN SMALL BUSINESS SET 
+              ASIDE CONTRACTS.
+
+    Section 15(c) of the Small Business Act (15 U.S.C. 644(c)) is 
+amended--
+        (1) by amending paragraph (2)(A) to read as follows:
+    ``(2)(A) During fiscal year 1995, public or private organizations 
+for the handicapped shall be eligible to participate in programs 
+authorized under this section in an aggregate amount not to exceed 
+$40,000,000.''; and
+        (2) by adding at the end the following new paragraph:
+    ``(7) Agencies awarding one or more contracts to such an 
+organization pursuant to the provisions of this subsection may use 
+multiyear contracts, if appropriate.''.
+
+               TITLE IV--BUSINESS DEVELOPMENT ASSISTANCE
+                     Subtitle A--General Provisions
+
+SEC. 401. SUNSET ON COSPONSORED TRAINING.
+
+    (a) In General.--
+        (1) Repeal.--The amendments made by section 5(a) of Small 
+    Business Computer Security and Education Act of 1984 (15 U.S.C. 633 
+    note) are hereby repealed.
+        (2) Effective date.--Paragraph (1) shall take effect on 
+    September 30, 1997.
+    (b) Conforming Amendment.--Section 7(b) of the Small Business 
+Computer Security and Education Act of 1984 (15 U.S.C. 633 note) is 
+amended in the second sentence by striking ``and the amendments made to 
+section 8(b)(1)(A) of the Small Business Act by section 5(a)(2) of this 
+Act are'' and inserting ``is''.
+
+SEC. 402. SMALL BUSINESS DEVELOPMENT CENTER PROGRAM LEVEL.
+
+    Section 21(a)(4) of the Small Business Act (15 U.S.C. 648(a)(4)) is 
+amended to read as follows:
+    ``(4) Small business development center program level.--
+        ``(A) In general.--The Administration shall require as a 
+    condition of any grant (or amendment or modification thereof) made 
+    to an applicant under this section, that a matching amount 
+    (excluding any fees collected from recipients of such assistance) 
+    equal to the amount of such grant be provided from sources other 
+    than the Federal Government, to be comprised of not less than 50 
+    percent cash and not more than 50 percent of indirect costs and in-
+    kind contributions.
+        ``(B) Restriction.--The matching amount described in 
+    subparagraph (A) shall not include any indirect costs or in-kind 
+    contributions derived from any Federal program.
+        ``(C) National program.--
+            ``(i) In general.--Except as provided in clause (ii), no 
+        State receiving funds under this section shall receive a grant 
+        that exceeds--
+                ``(I) for fiscal year 1995, the sum of such State's pro 
+            rata share of a national program based upon the population 
+            of the State as compared to the total population in the 
+            United States, and $125,000; or
+                ``(II) in each succeeding fiscal year, the sum of such 
+            State's pro rata share of a national program based upon the 
+            population of the State as compared to the total population 
+            in the United States, and $200,000.
+            ``(ii) Exception.--Grants provided to a small business 
+        development center by the Administration or another agency to 
+        carry out the provisions of subsection (c)(3)(G) shall not be 
+        included in the calculation of maximum funding of a small 
+        business development center.
+            ``(iii) Amount.--The amount of the national program shall 
+        be--
+                ``(I) $70,000,000 through September 30, 1996;
+                ``(II) $77,500,000 from October 1, 1996 through 
+            September 30, 1997; and
+                ``(III) $85,000,000 beginning October 1, 1997.
+        The amount for which a small business development center is 
+        eligible under this paragraph shall be based upon the amount of 
+        the national program in effect as of the date for commencement 
+        of performance of the small business development center's 
+        grant.''.
+
+SEC. 403. FEDERAL CONTRACTS WITH SMALL BUSINESS DEVELOPMENT CENTERS.
+
+    Section 21(a)(5) of the Small Business Act (15 U.S.C. 648(a)(5)) is 
+amended to read as follows:
+    ``(5) Federal contracts with small business development centers.--
+        ``(A) In general.--Subject to the conditions set forth in 
+    subparagraph (B), a small business development center may enter 
+    into a contract with a Federal department or agency to provide 
+    specific assistance to small business concerns.
+        ``(B) Contract prerequisites.--Before bidding on a contract 
+    described in subparagraph (A), a small business development center 
+    shall receive approval from the Associate Administrator of the 
+    small business development center program of the subject and 
+    general scope of the contract. Each approval under subparagraph (A) 
+    shall be based upon a determination that the contract will provide 
+    assistance to small business concerns and that performance of the 
+    contract will not hinder the small business development center in 
+    carrying out the terms of the grant received by the small business 
+    development center from the Administration.
+        ``(C) Exemption from matching requirement.--A contract under 
+    this paragraph shall not be subject to the matching funds or 
+    eligibility requirements of paragraph (4).
+        ``(D) Additional provision.--Notwithstanding any other 
+    provision of law, a contract for assistance under this paragraph 
+    shall not be applied to any Federal department or agency's small 
+    business, woman-owned business, or socially and economically 
+    disadvantaged business contracting goal under section 15(g).''.
+
+SEC. 404. SMALL BUSINESS DEVELOPMENT CENTER PROGRAM EXAMINATION AND 
+              CERTIFICATION.
+
+    Section 21(k) of the Small Business Act (15 U.S.C. 648(k)) is 
+amended to read as follows:
+    ``(k) Program Examination and Certification.--
+        ``(1) Examination.--Not later than 180 days after the date of 
+    enactment of this subsection, the Administration shall develop and 
+    implement a biennial programmatic and financial examination of each 
+    small business development center established pursuant to this 
+    section.
+        ``(2) Certification.--The Administration may provide financial 
+    support, by contract or otherwise, to the association authorized by 
+    subsection (a)(3)(A) for the purpose of developing a small business 
+    development center certification program.
+        ``(3) Extension or renewal of cooperative agreements.--In 
+    extending or renewing a cooperative agreement of a small business 
+    development center, the Administration shall consider the results 
+    of the examination and certification program conducted pursuant to 
+    paragraphs (1) and (2).''.
+
+SEC. 405. CENTRAL EUROPEAN SMALL BUSINESS DEVELOPMENT.
+
+    Section 25(i) of the Small Business Act (15 U.S.C. 652(i)) is 
+amended by striking ``and $2,000,000 for each of fiscal years 1993 and 
+1994'' and inserting ``, $2,000,000 for each of fiscal years 1993 and 
+1994, and $1,000,000 for fiscal year 1995''.
+
+SEC. 406. MOBILE RESOURCE CENTER PILOT PROGRAM.
+
+    (a) Establishment.--The Administrator of the Small Business 
+Administration may establish and carry out in each of fiscal years 
+1995, 1996, and 1997 a mobile resource pilot program (hereafter in this 
+section referred to as the ``program'') in accordance with the 
+requirements of this section.
+    (b) Mobile Resource Center Vehicles.--Under the program, the 
+Administration may use mobile resource center vehicles to provide 
+technical assistance, information, and other services available from 
+the Small Business Administration to traditionally underserved 
+populations. Two of such vehicles should be utilized in rural areas and 
+2 of such vehicles should be utilized in urban areas.
+    (c) Report to Congress.--If the Administrator conducts the program 
+authorized in this section, the Administrator shall, not later than 
+December 31, 1996, transmit to the Congress a report containing the 
+results of such program, together with recommendations for appropriate 
+legislative and administrative action.
+    (d) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section $900,000 for each of fiscal 
+years 1995, 1996, and 1997, such sums to remain available until 
+expended. Of such sums--
+        (1) $800,000 may be made available for the purchase or lease of 
+    mobile resource center vehicles and operating expenses; and
+        (2) $100,000 may be made available for studies, startup 
+    expenses, and other administrative expenses.
+
+SEC. 407. INFORMATION CONCERNING FRANCHISING.
+
+    Section 8(b)(1)(A) of the Small Business Act (15 U.S.C. 
+637(b)(1)(A)) is amended by inserting ``including information on the 
+benefits and risks of franchising,'' after ``small-business 
+enterprises,''.
+
+           Subtitle B--Development of Woman-Owned Businesses
+
+SEC. 411. EXTENSION OF AUTHORITY FOR DEMONSTRATION PROJECTS.
+
+    The Small Business Act (15 U.S.C. 631 et seq.) is amended--
+        (1) by redesignating section 28 (as added by section 2 of the 
+    Women's Business Development Act of 1991) as section 29; and
+        (2) in section 29(g), as redesignated, by striking ``1995'' and 
+    inserting ``1997''.
+
+SEC. 412. ESTABLISHMENT OF OFFICE OF WOMEN'S BUSINESS OWNERSHIP.
+
+    Section 29 of the Small Business Act (15 U.S.C. 656), as 
+redesignated by section 411 of this Act, is amended by adding at the 
+end the following new subsection:
+    ``(h) Office of Women's Business Ownership.--There is hereby 
+established within the Administration an Office of Women's Business 
+Ownership, which shall be responsible for the administration of the 
+Administration's programs for the development of women's business 
+enterprises, as such term is defined in section 408 of the Women's 
+Business Ownership Act of 1988. The Office of Women's Business 
+Ownership shall be administered by an Assistant Administrator, who 
+shall be appointed by the Administrator.''.
+
+SEC. 413. DEVELOPMENT OF WOMEN'S BUSINESS ENTERPRISE.
+
+    Title IV of the Women's Business Ownership Act of 1988 (15 U.S.C. 
+631 note) is amended to read as follows:
+
+         ``TITLE IV--DEVELOPMENT OF WOMEN'S BUSINESS ENTERPRISE
+
+``SEC. 401. ESTABLISHMENT OF THE INTERAGENCY COMMITTEE.
+
+    ``There is established an interagency committee to be known as the 
+Interagency Committee on Women's Business Enterprise.
+
+``SEC. 402. DUTIES OF THE INTERAGENCY COMMITTEE.
+
+    ``(a) In General.--The Interagency Committee shall--
+        ``(1) monitor, coordinate, and promote the plans, programs, and 
+    operations of the departments and agencies of the Federal 
+    Government that may contribute to the establishment and growth of 
+    women's business enterprise;
+        ``(2) develop and promote new public sector initiatives, 
+    policies, programs, and plans designed to foster women's business 
+    enterprise;
+        ``(3) review, monitor, and coordinate plans and programs, 
+    developed in the public sector, which affect the ability of women-
+    owned businesses to obtain capital and credit;
+        ``(4) promote and assist, as appropriate, in the development of 
+    surveys of women-owned business; and
+        ``(5) design a comprehensive plan for a joint public-private 
+    sector effort to facilitate growth and development of women's 
+    business enterprise, which plan shall, not later than 1 year after 
+    the effective date of the Small Business Administration 
+    Reauthorization and Amendments Act of 1994, be submitted to the 
+    President for review.
+    ``(b) Meetings.--The Interagency Committee shall meet not less than 
+biannually at such times as the Interagency Committee determines to be 
+necessary to perform the duties under subsection (a). A majority of the 
+members of the Committee shall constitute a quorum for the approval of 
+recommendations or reports issued pursuant to this section.
+    ``(c) Interaction With Council.--In performing its duties under 
+subsection (a), the Interagency Committee shall consult with the 
+Council. The Interagency Committee may meet jointly with the Council at 
+the discretion of the chairperson of the Interagency Committee and the 
+chairperson of the Council, but not less frequently than twice 
+annually. The chairperson of the Interagency Committee shall serve as 
+chairperson of any joint meetings of the Interagency Committee and the 
+Council.
+
+``SEC. 403. MEMBERSHIP OF THE INTERAGENCY COMMITTEE.
+
+    ``(a) In General.--
+        ``(1) Participants.--The Interagency Committee shall be 
+    composed of 1 representative from each of the following:
+            ``(A) The Department of Commerce.
+            ``(B) The Department of Defense.
+            ``(C) The Department of Health and Human Services.
+            ``(D) The Department of Labor.
+            ``(E) The Small Business Administration.
+            ``(F) The Department of Transportation.
+            ``(G) The Department of the Treasury.
+            ``(H) The General Services Administration.
+            ``(I) The Board of Governors of the Federal Reserve.
+            ``(J) The Executive staff of the President engaged in 
+        policymaking activities.
+        ``(2) Appointments.--
+            ``(A) In general.--Except as provided in subparagraph (B), 
+        the head of each department and agency listed in paragraph (1) 
+        shall, not later than 45 days after the date of enactment of 
+        the Small Business Administration Reauthorization and 
+        Amendments Act of 1994, designate a representative who shall be 
+        a policymaking official within the department or agency.
+            ``(B) Small business administration.--With respect to the 
+        Small Business Administration, the representative shall be the 
+        Assistant Administrator of the Office of Women's Business 
+        Ownership, who also shall serve as the vice chairperson of the 
+        Interagency Committee.
+        ``(3) Other participation.--Other representatives of the 
+    Federal Government not listed in paragraph (1) may participate in 
+    the meetings and functions of the Interagency Committee on a 
+    temporary basis as needed to carry out specific Interagency 
+    Committee goals.
+    ``(b) Appointment of Chairperson.--Not later than 45 days after 
+enactment of the Small Business Administration Reauthorization and 
+Amendments Act of 1994, the President, in consultation with the 
+Administrator of the Small Business Administration, shall appoint 1 of 
+the members of the Interagency Committee to serve as chairperson.
+    ``(c) Noncompensation.--The members of the Interagency Committee 
+shall serve without additional pay for such membership.
+    ``(d) Detail of Federal Employees.--Upon request by the chairperson 
+of the Interagency Committee, the head of any Federal department or 
+agency may detail any of the personnel of such agency to assist the 
+Interagency Committee in carrying out its duties under this title 
+without regard to section 3341 of title 5, United States Code.
+
+``SEC. 404. REPORTS FROM THE INTERAGENCY COMMITTEE.
+
+    ``Not later than September 30, 1995, and annually thereafter, the 
+Interagency Committee shall transmit to the President and to the 
+Committees on Small Business of the Senate and the House of 
+Representatives, a report containing--
+        ``(1) any recommendations of the Council and any comments of 
+    the Interagency Committee thereon;
+        ``(2) a detailed description of the activities of the 
+    Interagency Committee;
+        ``(3) the findings and conclusions of the Interagency 
+    Committee; and
+        ``(4) the Interagency Committee's recommendations for such 
+    legislation and administrative actions as the Interagency Committee 
+    considers appropriate to promote the development of small business 
+    concerns owned and controlled by women.
+
+``SEC. 405. ESTABLISHMENT OF THE NATIONAL WOMEN'S BUSINESS COUNCIL.
+
+    ``There is established a council to be known as the National 
+Women's Business Council, which shall serve as an independent source of 
+advice and policy recommendations to the Interagency Committee, to the 
+Administrator through the Assistant Administrator of the Office of 
+Women's Business Ownership, to the Congress, and to the President.
+
+``SEC. 406. DUTIES OF THE COUNCIL.
+
+    ``(a) In General.--The Council shall advise and consult with the 
+Interagency Committee on matters relating to the activities, functions, 
+and policies of the Interagency Committee, as provided in this title. 
+The Council shall meet jointly with the Interagency Committee at the 
+discretion of the chairperson of the Council and the chairperson of the 
+Interagency Committee, but not less than biannually.
+    ``(b) Meetings.--The Council shall meet separately at such times as 
+the Council deems necessary. A majority of the members of the Council 
+shall constitute a quorum for the approval of recommendations or 
+reports issued pursuant to this section.
+    ``(c) Recommendations.--The Council shall make annual 
+recommendations for consideration by the Interagency Committee. The 
+Council shall also provide reports and make such other recommendations 
+as it deems appropriate to the Interagency Committee, to the President, 
+to the Administrator, and to the Committees on Small Business of the 
+Senate and the House of Representatives.
+    ``(d) Other Duties.--The Council shall--
+        ``(1) review, coordinate, and monitor plans and programs 
+    developed in the public and private sectors, which affect the 
+    ability of women-owned business enterprises to obtain capital and 
+    credit;
+        ``(2) promote and assist in the development of a women's 
+    business census and other surveys of women-owned businesses;
+        ``(3) monitor and promote the plans, programs, and operations 
+    of the departments and agencies of the Federal Government which may 
+    contribute to the establishment and growth of women's business 
+    enterprise;
+        ``(4) develop and promote new initiatives, policies, programs, 
+    and plans designed to foster women's business enterprise; and
+        ``(5) advise and consult with the Interagency Committee in the 
+    design of a comprehensive plan for a joint public-private sector 
+    effort to facilitate growth and development of women's business 
+    enterprise.
+
+``SEC. 407. MEMBERSHIP OF THE COUNCIL.
+
+    ``(a) Chairperson.--Not later than 45 days after the date of 
+enactment of the Small Business Administration Reauthorization and 
+Amendments Act of 1994, the President shall appoint an individual to 
+serve as chairperson of the Council, in consultation with the 
+Administrator. The chairperson of the Council shall be a prominent 
+business woman who is qualified to head the Council by virtue of her 
+education, training, and experience.
+    ``(b) Other Members.--Not later than 60 days after the date of 
+enactment of the Small Business Administration Reauthorization and 
+Amendments Act of 1994, the Administrator shall appoint, in 
+consultation with the Assistant Administrator of the Office of Women's 
+Business Ownership and the chairperson of the Council appointed under 
+subsection (a), 9 members of the Council, of whom--
+        ``(1) 2 shall be--
+            ``(A) owners of small businesses, as such term is defined 
+        in section 3 of the Small Business Act; and
+            ``(B) members of the same political party as the President;
+        ``(2) 2 shall--
+            ``(A) be owners of small businesses, as such term is 
+        defined in section 3 of the Small Business Act; and
+            ``(B) not be members of the same political party as the 
+        President; and
+        ``(3) 5 shall be representatives of national women's business 
+    organizations.
+    ``(c) Diversity.--In appointing members of the Council, the 
+Administrator shall, to the extent possible, ensure that the members 
+appointed reflect geographic, racial, economic, and sectoral diversity.
+    ``(d) Service Term.--The term of service of the members of the 
+Council shall be 3 years.
+    ``(e) Other Federal Service.--If any member of the Council 
+subsequently becomes an officer or employee of the Federal Government 
+or of the Congress, such individual may continue as a member of the 
+Council for not longer than the 30-day period beginning on the date on 
+which such individual becomes such an officer or employee.
+    ``(f) Vacancies.--A vacancy on the Council shall, not later than 30 
+days after the date on which the vacancy occurs, be filled in the same 
+manner in which the original appointment was made.
+    ``(g) Reimbursements.--Members of the Council shall serve without 
+pay for such membership, except that members shall be entitled to 
+reimbursement for travel, subsistence, and other necessary expenses 
+incurred by them in carrying out the functions of the Council, in the 
+same manner as persons serving on advisory boards pursuant to section 
+8(b) of the Small Business Act.
+    ``(h) Executive Director.--Not later than 60 days after the date of 
+enactment of the Small Business Administration Reauthorization Act of 
+1994, the Administrator, in consultation with the chairperson of the 
+Council, shall appoint an executive director of the Council. Upon the 
+recommendation by the executive director, the chairperson of the 
+Council may appoint and fix the pay of 4 additional employees of the 
+Council, at a rate of pay not to exceed the maximum rate of pay payable 
+for a position at GS-15 of the General Schedule. All such appointments 
+shall be subject to the appropriation of funds.
+    ``(i) Rates of Pay.--The executive director and staff of the 
+Council may be appointed without regard to the provisions of title 5, 
+United States Code, governing appointments in the competitive service, 
+and except as provided in subsection (e), may be paid without regard to 
+the provisions of chapter 51 and subchapter III of chapter 53 of such 
+title relating to classification and General Schedule pay rates, except 
+that the executive director may not receive pay in excess of the annual 
+rate of basic pay payable for a position at ES-3 of the Senior 
+Executive Pay Schedule under section 5832 of title 5, United States 
+Code.
+
+``SEC. 408. DEFINITIONS.
+
+    ``For purposes of this title--
+        ``(1) the term `Administration' means the Small Business 
+    Administration;
+        ``(2) the term `Administrator' means the Administrator of the 
+    Small Business Administration;
+        ``(3) the term `control' means exercising the power to make 
+    policy decisions concerning a business;
+        ``(4) the term `Council' means the National Women's Business 
+    Council, established under section 405;
+        ``(5) the term `Interagency Committee' means the Interagency 
+    Committee on Women's Business Enterprise, established under section 
+    401;
+        ``(6) the term `operate' means being actively involved in the 
+    day-to-day management of a business;
+        ``(7) the term `women's business enterprise' means--
+            ``(A) a business or businesses owned by a woman or a group 
+        of women; or
+            ``(B) the establishment, maintenance, or development of a 
+        business or businesses by a woman or a group of women; and
+        ``(8) the term `women-owned business' means a small business 
+    which a woman or a group of women--
+            ``(A) control and operate; and
+            ``(B) own not less than 51 percent of the business.
+
+``SEC. 409. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated for each of fiscal years 
+1995 through 1997, to carry out this title, $350,000.''.
+
+SEC. 414. TRANSITION REIMBURSEMENT.
+
+    (a) In General.--Subject to the limitation contained in subsection 
+(b), in order to provide continuity in the development of women-owned 
+business, the Administration may approve reasonable amounts made 
+available to carry out title IV of the Women's Business Ownership Act 
+of 1988 to be used to pay the salaries, if any, and expenses of the 
+members and staff of the National Women's Business Council that are 
+appointed on or before the date of enactment of this Act.
+    (b) Time Period.--No payments shall be made under subsection (a) 
+after the expiration of the 90-day period beginning on the date of 
+enactment of this Act.
+
+SEC. 415. GIFT AUTHORITY.
+
+    Section 8(b)(1)(G) of the Small Business Act (15 U.S.C. 
+637(b)(1)(G)) is amended by striking ``section 8(b)(1) of this Act'' 
+and by inserting ``this Act and to carry out the activities authorized 
+by title IV of the Women's Business Ownership Act of 1988''.
+
+SEC. 416. CONFORMING AMENDMENT.
+
+    The table of contents for the Women's Business Ownership Act of 
+1988 (15 U.S.C. 631 note) is amended by striking the items relating to 
+title IV and inserting the following:
+
+         ``TITLE IV--DEVELOPMENT OF WOMEN'S BUSINESS ENTERPRISE
+
+    ``Sec. 401.  Establishment of the Interagency Committee.
+    ``Sec. 402.  Duties of the Interagency Committee.
+    ``Sec. 403.  Membership of the Interagency Committee.
+    ``Sec. 404.  Reports from the Interagency Committee.
+    ``Sec. 405.  Establishment of the National Women's Business Council.
+    ``Sec. 406.  Duties of the Council.
+    ``Sec. 407.  Membership of the Council.
+    ``Sec. 408.  Definitions.
+    ``Sec. 409.  Authorization of Appropriations.''.
+
+          TITLE V--RELIEF FROM DEBENTURE PREPAYMENT PENALTIES
+
+SEC. 501. SHORT TITLE.
+
+    This title may be cited as the ``Small Business Prepayment Penalty 
+Relief Act of 1994''.
+
+SEC. 502. INTENTION OF CONGRESS.
+
+    (a) In General.--The Small Business Administration shall fully 
+utilize the $30,000,000 appropriated in Public Law 103-317 to reduce, 
+in accordance with this title and the amendments made by this title, 
+prepayment penalties imposed in connection with debentures issued 
+under--
+        (1) section 303 or 503 of the Small Business Investment Act of 
+    1958, which have been purchased by the Federal Financing Bank; and
+        (2) title III to companies operating under section 301(d) of 
+    such Act, which have been purchased by the Small Business 
+    Administration.
+    (b) Equal Opportunity.--In order to provide an equal opportunity to 
+participate in the program authorized under this title, the Small 
+Business Administration shall afford each borrower or issuer of a 
+debenture subject to this title, not less than 45 days to elect to 
+participate and to provide an earnest money deposit. The Administration 
+shall subsequently allow a period of not less than 4 months, during 
+which those borrowers or issuers that elect to participate shall be 
+allowed to complete the prepayment process.
+    (c) Restrictions on Participation.--In no event shall the Small 
+Business Administration--
+        (1) allow any borrower or issuer to participate in the program 
+    if the borrower or issuer fails to--
+            (A) make a timely election and provide the deposit on a 
+        timely basis; or
+            (B) complete the prepayment process within the required 
+        time; or
+        (2) allow any borrower or issuer to participate in the program 
+    at a percentage rate other than the rate finally determined to be 
+    applicable to all other borrowers or issuers with similar terms of 
+    years.
+
+SEC. 503. PREPAYMENT OF DEVELOPMENT COMPANY DEBENTURES.
+
+    Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 
+et seq.), as amended by section 217, is amended by adding at the end 
+the following new section:
+
+``SEC. 509. PREPAYMENT OF DEVELOPMENT COMPANY DEBENTURES.
+
+    ``(a) In General.--
+        ``(1) Prepayment authorized.--Subject to the requirements set 
+    forth in subsection (b), an issuer of a debenture purchased by the 
+    Federal Financing Bank and guaranteed by the Administration under 
+    this Act may, at the election of the borrower (in the case of a 
+    loan under section 503) or the issuer (in the case of a small 
+    business investment company) and with the approval of the 
+    Administration, prepay such debenture in accordance with the 
+    provisions of this section. A small business investment company 
+    operating under the authority of section 301(d) that has issued a 
+    debenture that was purchased by and is held by the Administration, 
+    may, under the same terms and conditions, prepay such debenture, 
+    and the penalty as provided in this section, and shall thereafter 
+    be immediately eligible to apply for additional assistance from the 
+    Administration.
+        ``(2) Procedure.--
+            ``(A) In general.--In making a prepayment under paragraph 
+        (1)--
+                ``(i) the borrower (in the case of a loan under section 
+            503) or the issuer (in the case of a small business 
+            investment company) shall pay to the Federal Financing Bank 
+            an amount that is equal to the sum of the unpaid principal 
+            balance due on the debenture as of the date of the 
+            prepayment (plus accrued interest at the coupon rate on the 
+            debenture) and the amount of the repurchase premium 
+            described in subparagraph (B); and
+                ``(ii) the Administration shall pay to the Federal 
+            Financing Bank the difference between the repurchase 
+            premium paid by the borrower under this subsection and the 
+            repurchase premium that the Federal Financing Bank would 
+            otherwise have received.
+            ``(B) Repurchase premium.--
+                ``(i) In general.--For purposes of subparagraph (A)(i), 
+            the repurchase premium is the amount equal to the product 
+            of--
+
+                    ``(I) the unpaid principal balance due on the 
+                debenture on the date of prepayment; and
+                    ``(II) the applicable percentage rate, as 
+                determined in accordance with clauses (ii) and (iii).
+
+                ``(ii) Applicable percentage rate.--For purposes of 
+            clause (i)(II), the applicable percentage rate means--
+
+                    ``(I) with respect to a 10-year term loan, 8.5 
+                percent;
+                    ``(II) with respect to a 15-year term loan, 9.5 
+                percent;
+                    ``(III) with respect to a 20-year term loan, 10.5 
+                percent; and
+                    ``(IV) with respect to a 25-year term loan, 11.5 
+                percent.
+
+                ``(iii) Adjustments to applicable percentage rate.--The 
+            percentage rates described in clause (ii) shall be 
+            increased or decreased by the Administration by a factor 
+            not to exceed one-third, if the same factor is applied in 
+            each case and if the Administration determines that an 
+            adjustment is necessary, based on the number of borrowers 
+            having given notice of their intent to participate, in 
+            order to make the program (including the amounts 
+            appropriated for this purpose under Public Law 103-317) 
+            result in no substantial net gain or loss of revenue to the 
+            Federal Financing Bank or to the Administration. Amounts 
+            collected in excess of the amount necessary to ensure 
+            revenue neutrality shall be refunded to the borrowers.
+    ``(b) Requirements.--For purposes of subsection (a), the 
+requirements of this subsection are that--
+        ``(1) the debenture is outstanding and neither the loan that 
+    secures the debenture, if any, nor the debenture is in default on 
+    the date on which the prepayment is made;
+        ``(2) State, local, or personal funds, or the proceeds of a 
+    refinancing in accordance with subsection (d) of this section under 
+    the programs authorized by this title, are used to prepay or roll 
+    over the debenture; and
+        ``(3) with respect to a debenture issued under section 503, the 
+    issuer certifies that the benefits, net of fees and expenses 
+    authorized herein, associated with prepayment of the debenture are 
+    entirely passed through to the borrower.
+    ``(c) No Prepayment Fees or Penalties.--No fees or penalties other 
+than those specified in this section may be imposed on the issuer, the 
+borrower, the Administration, or any fund or account administered by 
+the Administration as the result of a prepayment under this section.
+    ``(d) Refinancing Limitations.--
+        ``(1) In general.--The refinancing of a debenture under 
+    sections 504 and 505, in accordance with subsection (b)(2)--
+            ``(A) shall not exceed the amount necessary to prepay 
+        existing debentures, including all costs associated with the 
+        refinancing and any applicable prepayment penalty or repurchase 
+        premium; and
+            ``(B) except as provided in paragraphs (2) and (3), shall 
+        be subject to the provisions of sections 504 and 505 and the 
+        rules and regulations promulgated thereunder, including rules 
+        and regulations governing payment of authorized expenses, 
+        commissions, fees, and discounts to brokers and dealers in 
+        trust certificates issued pursuant to section 505.
+        ``(2) Job creation.--An applicant for refinancing under section 
+    504 of a loan made pursuant to section 503 shall not be required to 
+    demonstrate that a requisite number of jobs will be created with 
+    the proceeds of a refinancing.
+        ``(3) Loan processing fee.--To cover the cost of loan 
+    packaging, processing, and other administrative functions, a 
+    development company that provides refinancing under subsection 
+    (b)(2) may impose a one-time loan processing fee, not to exceed 0.5 
+    percent of the principal amount of the loan.
+        ``(4) New debentures.--Issuers of debentures under title III 
+    may issue new debentures in accordance with such title in order to 
+    prepay existing debentures as authorized in this section.
+        ``(5) Preliminary notice.--
+            ``(A) In general.--The Administration shall use certified 
+        mail and other reasonable means to notify each eligible 
+        borrower of the prepayment program provided in this title. Each 
+        preliminary notice shall specify the range and dollar amount of 
+        repurchase premiums which could be required of that borrower in 
+        order to participate in the program. In carrying out this 
+        program, the Administration shall provide a period of not less 
+        than 45 days following the receipt of such notice by the 
+        borrower during which the borrower must notify the 
+        Administration of the borrower's intent to participate in the 
+        program. The Administration shall require that a borrower who 
+        gives notice of its intent to participate to make an earnest 
+        money deposit of $1,000 which shall not be refundable but which 
+        shall be credited toward the final repurchase premium.
+            ``(B) Definition.--For purposes of this paragraph, the term 
+        `borrower', in the case of a small business investment company 
+        or a specialized small business investment company, means 
+        `issuer'.
+        ``(6) Final notice.--Based upon the response to the preliminary 
+    notice under paragraph (5), the Administration shall make a final 
+    computation of the necessary prepayment premiums and shall notify 
+    each qualified respondent of the results of such computation. Each 
+    qualified respondent shall be afforded not less than 4 months to 
+    complete the prepayment.
+    ``(e) Definitions.--For purposes of this section--
+        ``(1) the term `issuer' means--
+            ``(A) the qualified State or local development company that 
+        issued a debenture pursuant to section 503, which has been 
+        purchased by the Federal Financing Bank; and
+            ``(B) a small business investment company licensed pursuant 
+        to subsection (c) or (d) of section 301; or
+        ``(2) the term `borrower' means a small business concern whose 
+    loan secures a debenture issued pursuant to section 503.
+    ``(f) Regulations.--Not later than 30 days after the date of 
+enactment of this section, the Administration shall promulgate such 
+regulations as may be necessary to carry out this section.
+    ``(g) Authorization.--There are authorized to be appropriated 
+$30,000,000 to carry out the provisions of The Small Business 
+Prepayment Penalty Relief Act of 1994.''.
+
+                   TITLE VI--MISCELLANEOUS AMENDMENTS
+
+SEC. 601. SBA INTEREST PAYMENTS TO TREASURY.
+
+    Section 4(c)(5)(B)(ii) of the Small Business Act (15 U.S.C. 
+633(c)(5)(B)(ii)) is amended to read as follows:
+    ``(ii) Following the close of each fiscal year, the Administration 
+shall pay into the miscellaneous receipts of the United States Treasury 
+the actual interest that the Administration collects during that fiscal 
+year on all financings made under this Act.''.
+
+SEC. 602. IMPOSITION OF FEES.
+
+    Section 5(b) of the Small Business Act (15 U.S.C. 634(b)) is 
+amended--
+        (1) in paragraph (10), by striking ``and'' at the end;
+        (2) in paragraph (11), by striking the period at the end and 
+    inserting a semicolon; and
+        (3) by adding at the end the following new paragraphs:
+        ``(12) impose, retain, and use only those fees which are 
+    specifically authorized by law or which are in effect on September 
+    30, 1994, and in the amounts and at the rates in effect on such 
+    date, except that the Administrator may, subject to approval in 
+    appropriations Acts, impose, retain, and utilize, additional fees--
+            ``(A) not to exceed $100 for each loan servicing action 
+        (other than a loan assumption) requested after disbursement of 
+        the loan, including any substitution of collateral, release or 
+        substitution of a guarantor, reamortization, or similar action;
+            ``(B) not to exceed $300 for loan assumptions;
+            ``(C) not to exceed 1 percent of the amount of requested 
+        financings under title III of the Small Business Investment Act 
+        of 1958 for which the applicant requests a commitment from the 
+        Administration for funding during the following year; and
+            ``(D) to recover the direct, incremental cost involved in 
+        the production and dissemination of compilations of information 
+        produced by the Administration under the authority of this Act 
+        and the Small Business Investment Act of 1958; and
+        ``(13) collect, retain and utilize, subject to approval in 
+    appropriations Acts, any amounts collected by fiscal transfer 
+    agents and not used by such agent as payment of the cost of loan 
+    pooling or debenture servicing operations, except that amounts 
+    collected under this paragraph and paragraph (12) shall be utilized 
+    solely to facilitate the administration of the program that 
+    generated the excess amounts.''.
+
+SEC. 603. JOB CREATION AND COMMUNITY BENEFIT.
+
+    Section 7(a)(21) of the Small Business Act (15 U.S.C. 636(a)(21)) 
+is amended by adding at the end the following new subparagraph:
+            ``(E) Job creation and community benefit.--In providing 
+        assistance under this paragraph, the Administration shall 
+        develop procedures to ensure, to the maximum extent 
+        practicable, that such assistance is used for projects that--
+                ``(i) have the greatest potential for--
+
+                    ``(I) creating new jobs for individuals whose 
+                employment is involuntarily terminated due to 
+                reductions in Federal defense expenditures; or
+                    ``(II) preventing the loss of jobs by employees of 
+                small business concerns described in subparagraph 
+                (A)(i); and
+
+                ``(ii) have substantial potential for stimulating new 
+            economic activity in communities most affected by 
+            reductions in Federal defense expenditures.''.
+
+SEC. 604. MICROLOAN PROGRAM AMENDMENTS.
+
+    Section 7(m)(9)(B) of the Small Business Act (15 U.S.C. 
+636(m)(9)(B)) is amended--
+        (1) by inserting ``and loan guarantees'' after ``for loans''; 
+    and
+        (2) by inserting after ``experienced microlending 
+    organizations'' the following: ``and national and regional 
+    nonprofit organizations that have demonstrated experience in 
+    providing training support for microenterprise development and 
+    financing.''.
+
+SEC. 605. TECHNICAL CLARIFICATION.
+
+    (a) Defense Conversion.--Section 7(a)(21)(A) of the Small Business 
+Act (15 U.S.C. 636(a)(21)(A)) is amended by striking ``under the'' and 
+inserting ``on a guaranteed basis under the''.
+    (b) Additional Technical Clarification.--Section 204 of Public Law 
+94-305 (15 U.S.C. 634d) is amended by striking ``section 202'' and 
+inserting ``this title''.
+
+SEC. 606. STUDY AND DATA BASE: GUARANTEED BUSINESS LOAN PROGRAM AND 
+              DEVELOPMENT COMPANY PROGRAM.
+
+    (a) Study Authorized.--The Administration shall conduct a study 
+of--
+        (1) the Guaranteed Business Loan program under section 7(a) of 
+    the Small Business Act; and
+        (2) the Development Company program under sections 502, 503, 
+    and 504 of the Small Business Investment Act of 1958.
+    (b) Evaluation.--For purposes of the study conducted under 
+subsection (a), the Administration shall evaluate the performance of 
+the programs described in paragraphs (1) and (2) of subsection (a), 
+using data from the most recent 4-year period. Such evaluation shall 
+focus on the following factors:
+        (1) The number, dollar amount, and average size of the loans or 
+    financings under each program.
+        (2) The number, dollar amount, and average size of the loans or 
+    financings made to woman-owned and minority-owned businesses under 
+    each program.
+        (3) The geographic distribution of the loans or financings 
+    under each program.
+        (4) The jobs created or maintained attributable to the loans or 
+    financings under each program.
+        (5) The number, dollar amount, and average size of the loans or 
+    financings on which borrowers defaulted under each program.
+        (6) The amounts recovered by the Administration after default, 
+    foreclosure, or otherwise under each program.
+        (7) The number of companies which are no longer in business 
+    despite receiving the loans or financings under each program.
+        (8) The taxes paid by businesses which received the loans or 
+    financings under each program.
+        (9) Such other information as the Administration determines to 
+    be appropriate for a complete evaluation of each program.
+    (c) Contracting With Independent Entities.--In carrying out 
+subsections (a) and (b), the Administration may contract with an 
+independent entity or entities--
+        (1) to conduct the study pursuant to subsection (a); and
+        (2) to develop a database of information to enable the 
+    Administration to maintain and access, on an ongoing basis, current 
+    information relating to the factors set forth in subsection (b).
+    (d) Date.--The study authorized by subsection (a) shall be 
+completed not later than September 30, 1995.
+
+SEC. 607. SBIR VENDORS.
+
+    Section 9(q)(2) of the Small Business Act (15 U.S.C. 638(q)(2)) is 
+amended to read as follows:
+        ``(2) Vendor selection.--Each agency may select a vendor to 
+    assist small business concerns to meet the goals listed in 
+    paragraph (1) for a term not to exceed 3 years. Such selection 
+    shall be competitive and shall utilize merit-based criteria.''.
+
+SEC. 608. PROGRAM EXTENSION.
+
+    Section 602(e) of the Business Opportunity Development Reform Act 
+of 1988 (15 U.S.C. 637 note) is amended by striking ``September 30, 
+1994'', and inserting ``September 30, 1997''.
+
+SEC. 609. PROHIBITION ON THE USE OF FUNDS FOR INDIVIDUALS NOT LAWFULLY 
+              WITHIN THE UNITED STATES.
+
+    Section 2 of the Small Business Act (15 U.S.C. 631) is amended by 
+adding at the end the following new subsection:
+    ``(i) Prohibition on the Use of Funds for Individuals Not Lawfully 
+Within the United States.--None of the funds made available pursuant to 
+this Act may be used to provide any direct benefit or assistance to any 
+individual in the United States if the Administrator or the official to 
+which the funds are made available receives notification that the 
+individual is not lawfully within the United States.''.
+
+SEC. 610. OFFICE OF ADVOCACY EMPLOYEES.
+
+    Section 204 of Public Law 94-305 (15 U.S.C. 634d) is amended--
+        (1) in the matter preceding paragraph (1), by striking ``after 
+    consultation with and subject to the approval of the 
+    Administrator,''; and
+        (2) in paragraph (1), by striking ``ten'' and inserting ``14''.
+
+SEC. 611. PROHIBITION ON THE PROVISION OF ASSISTANCE.
+
+    Section 4 of the Small Business Act (15 U.S.C. 633) is amended by 
+adding at the end the following new subsection:
+    ``(e) Prohibition on the Provision of Assistance.--Notwithstanding 
+any other provision of law, the Administration is prohibited from 
+providing any financial or other assistance to any business concern or 
+other person engaged in the production or distribution of any product 
+or service that has been determined to be obscene by a court of 
+competent jurisdiction.''.
+
+SEC. 612. CERTIFICATION OF COMPLIANCE WITH CHILD SUPPORT OBLIGATIONS.
+
+    Section 4 of the Small Business Act (15 U.S.C. 633), as amended by 
+section 611, is amended by adding at the end the following new 
+subsection:
+    ``(f) Certification of Compliance With Child Support Obligations.--
+        ``(1) In general.--For financial assistance approved after the 
+    promulgation of final regulations to implement this section, each 
+    recipient of financial assistance under this Act, including a 
+    recipient of a direct loan or a loan guarantee, shall certify that 
+    the recipient is not more than 60 days delinquent under the terms 
+    of any--
+            ``(A) administrative order;
+            ``(B) court order; or
+            ``(C) repayment agreement entered into between the 
+        recipient and the custodial parent or State agency providing 
+        child support enforcement services,
+    that requires the recipient to pay child support, as such term is 
+    defined in section 462(b) of the Social Security Act.
+        ``(2) Enforcement.--Not later than 6 months after the date of 
+    enactment of this subsection, the Administration shall promulgate 
+    such regulations as may be necessary to enforce compliance with the 
+    requirements of this subsection.''.
+
+SEC. 613. ADVOCACY STUDY OF PAPERWORK AND TAX IMPACT.
+
+    The Chief Counsel for Advocacy of the Small Business Administration 
+shall conduct a study of the impact of all Federal regulatory, 
+paperwork, and tax requirements upon small business, and report its 
+findings to the Congress not later than 1 year after the date of 
+enactment of this Act.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

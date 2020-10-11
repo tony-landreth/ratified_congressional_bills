@@ -1,0 +1,488 @@
+ 
+--S.247--
+S.247
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Energy Policy and Conservation Act to increase the efficiency
+and effectiveness of State energy conservation programs carried out pursuant
+to such Act, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `State Energy Efficiency Programs Improvement
+ Act of 1990'.
+SEC. 2. STATE ENERGY EFFICIENCY GOALS AND DEFINITIONS.
+ (a) GOALS- (1) Section 364 of the Energy Policy and Conservation Act (42
+ U.S.C. 6324) is amended to read as follows:
+`STATE ENERGY EFFICIENCY GOALS
+ `SEC. 364. Each State energy conservation plan with respect to which
+ assistance is made available under this part on or after October 1, 1991,
+ shall contain a goal, consisting of an improvement of 10 percent or more in
+ the efficiency of use of energy in the State concerned in the calendar year
+ 2000 as compared to the calendar year 1990, and may contain interim goals.'.
+ (2) The table of contents of such Act is amended by striking out the item
+ for section 364 and inserting in lieu thereof the following:
+`Sec. 364. State energy efficiency goals.'.
+ (b) DEFINITIONS- Section 366(4) of such Act (42 U.S.C. 6326(4)) is amended--
+ (1) by striking out `building or industrial' and inserting in lieu thereof
+ `building, building system, energy consuming device associated with the
+ building, or industrial';
+ (2) by striking out `the date of enactment of the Energy Conservation and
+ Production Act' and inserting in lieu thereof `May 1, 1989'; and
+ (3) by inserting `maintain or' before `improve the efficiency' in the
+ first sentence.
+SEC. 3. REQUIRED ELEMENTS OF STATE ENERGY CONSERVATION PLAN.
+ (a) PLAN REQUIREMENTS- Section 362(c) of the Energy Policy and Conservation
+ Act (42 U.S.C. 6322(c)) is amended--
+ (1) by striking out `and' at the end of paragraph (4);
+ (2) by striking out the period at the end of paragraph (5) and inserting
+ in lieu thereof `;  and';
+ (3) by adding at the end thereof the following new paragraph:
+ `(6) procedures for ensuring effective coordination among various local,
+ State, and Federal energy conservation programs within the State, including
+ any program administered within the Office of Technical and Financial
+ Assistance of the Department of Energy and the Low Income Home Energy
+ Assistance Program administered by the Department of Health and Human
+ Services.'.
+ (b) ADDITIONAL CONDITIONS- Section 363 of such Act (42 U.S.C. 6323) is
+ amended by adding at the end thereof the following new subsections:
+ `(d) Each State receiving Federal financial assistance pursuant to this
+ section shall provide reasonable assurance to the Secretary that it has
+ established policies and procedures designed to assure that Federal financial
+ assistance under this part and under part G of this title will be used to
+ supplement, and not to supplant, State and local funds, and to the extent
+ practicable, to increase the amount of such funds that otherwise would be
+ available, in the absence of such Federal financial assistance, for those
+ programs set forth in the State energy conservation plan approved pursuant
+ to subsection (b).
+ `(e)(1) Effective October 1, 1991, to be eligible for Federal financial
+ assistance pursuant to this section, a State shall submit to the Secretary,
+ as a supplement to its energy conservation plan, an energy emergency planning
+ program for an energy supply disruption, as designed by the State consistent
+ with applicable Federal and State law. The contingency plan provided for
+ by the program shall include an implementation strategy or strategies
+ (including regional coordination) for dealing with energy emergencies. The
+ submission of such plan shall be for informational purposes only and without
+ any requirement of approval by the Secretary.
+ `(2) Federal financial assistance made available under this part to a State
+ may be used to develop and conduct the energy emergency planning program
+ requirement referred to in paragraph (1).'.
+SEC. 4. OPTIONAL ELEMENTS OF STATE ENERGY CONSERVATION PLAN AND CONSOLIDATION
+OF SUPPLEMENTAL STATE ENERGY CONSERVATION PLAN.
+ (a) IN GENERAL- Section 362(d) of the Energy Policy and Conservation Act
+ (42 U.S.C. 6322(d)) is amended--
+ (1) by striking out paragraph (3) and inserting in lieu thereof the following:
+ `(3) programs to increase transportation energy efficiency, including
+ programs to accelerate the use of alternative transportation fuels for State
+ government vehicles, fleet vehicles, taxies, mass transit, and privately
+ owned vehicles;';
+ (2) by striking out `and' at the end of paragraph (4);
+ (3) by striking out paragraph (5) and inserting in lieu thereof the following:
+ `(5) programs for financing energy efficiency and renewable energy capital
+ investments, projects, and programs--
+ `(A) which may include loan programs and performance contracting programs
+ for leveraging of additional public and private sector funds, and programs
+ which allow rebates, grants, or other incentives for the purchase and
+ installation of energy efficiency and renewable energy measures; or
+ `(B) in addition to or in lieu of programs described in subparagraph (A),
+ which may be used in connection with public or nonprofit buildings owned
+ and operated by a State, a political subdivision of a State or an agency or
+ instrumentality of a State, or an organization exempt from taxation under
+ section 501(c)(3) of the Internal Revenue Code of 1986;
+ `(6) programs for encouraging and for carrying out energy audits with respect
+ to buildings and industrial facilities (including industrial processes)
+ within the State;
+ `(7) programs to promote the adoption of integrated energy plans which
+ provide for--
+ `(A) periodic evaluation of a State's energy needs, available energy resources
+ (including greater energy efficiency), and energy costs; and
+ `(B) utilization of adequate and reliable energy supplies, including greater
+ energy efficiency, that meet applicable safety, environmental, and policy
+ requirements at the lowest cost;
+ `(8) programs to promote energy efficiency in residential housing, such as--
+ `(A) programs for development and promotion of energy efficiency rating
+ systems for newly constructed housing and existing housing so that consumers
+ can compare the energy efficiency of different housing; and
+ `(B) programs for the adoption of incentives for builders, utilities,
+ and mortgage lenders to build, service, or finance energy efficient housing;
+ `(9) programs to identify unfair or deceptive acts or practices which relate
+ to the implementation of energy efficiency measures and renewable resource
+ energy measures and to educate consumers concerning such acts or practices;
+ `(10) programs to modify patterns of energy consumption so as to reduce
+ peak demands for energy and improve the efficiency of energy supply systems,
+ including electricity supply systems;
+ `(11) programs to promote energy efficiency as an integral component
+ of economic development planning conducted by State, local, or other
+ governmental entities or by energy utilities;
+ `(12) in accordance with subsection (g), programs to implement the Energy
+ Technology Commercialization Services Program; and
+ `(13) any other appropriate method or programs to conserve and to promote
+ efficiency in the use of energy.'.
+ (b) ENERGY TECHNOLOGY COMMERCIALIZATION SERVICES PROGRAM- Section 362 of
+ the Energy Policy and Conservation Act (42 U.S.C. 6322) is amended by adding
+ at the end thereof the following new subsection:
+ `(f)(1) The purposes of this subsection are to--
+ `(A) strengthen State outreach programs to aid small and start-up businesses;
+ `(B) foster a broader application of engineering principles and techniques
+ to energy technology products, manufacturing, and commercial production by
+ small and start-up businesses; and
+ `(C) foster greater assistance to small and start-up businesses in dealing
+ with the Federal Government on energy technology related matters.
+ `(2) The programs to implement the functions of the Energy Technology
+ Commercialization Services Program, as provided for by subsection (d)(12),
+ shall--
+ `(A) aid small and start-up businesses in discovering useful and practical
+ information relating to manufacturing and commercial production techniques
+ and costs associated with new energy technologies;
+ `(B) encourage the application of such information in order to solve energy
+ technology product development and manufacturing problems;
+ `(C) establish an Energy Technology Commercialization Services Program
+ affiliated with an existing entity in each State;
+ `(D) coordinate engineers and manufacturers to aid small and start-up
+ businesses in solving specific technical problems and improving the cost
+ effectiveness of methods for manufacturing new energy technologies;
+ `(E) assist small and start-up businesses in preparing the technical
+ portions of proposals seeking financial assistance for new energy technology
+ commercialization; and
+ `(F) facilitate contract research between university faculty and students
+ and small start-up businesses, in order to improve energy technology product
+ development and independent quality control testing.
+ `(3) Each State energy technology commercialization services program
+ shall develop and maintain a data base of engineering and scientific
+ experts in energy technologies and product commercialization interested in
+ participating in the service. Such data base shall, at a minimum, include
+ faculty of institutions of higher education, retired manufacturing experts,
+ and national laboratory personnel.
+ `(4) The services provided by the energy technology commercialization
+ services programs established under this subsection shall be available to
+ any small or start-up business. Such service programs shall charge fees
+ which are affordable to a party eligible for assistance, which shall be
+ determined by examining factors, including the following: (A) the costs of
+ the services received; (B) the need of the recipient for the services; and
+ (C) the ability of the recipient to pay for the services.
+ `(5) For the purposes of this subsection, the term--
+ `(A) `institution of higher education' has the same meaning as such term
+ is defined in section 1201(a) of the Higher Education Act of 1965 (20
+ U.S.C. 1141(a));
+ `(B) `small business' means a private firm that does not exceed the numerical
+ size standard promulgated by the Small Business Administration under section
+ 3(a) of the Small Business Act (15 U.S.C. 632) for the Standard Industrial
+ Classification (SIC) codes designated by the Secretary of Energy; and
+ `(C) `start-up business' means a small business which has been in existence
+ for 5 years or less.'.
+ (c) ELIMINATION OF SSECP- (1) Section 367 of such Act (42 U.S.C. 6327)
+ is repealed.
+ (2) The table of contents of such Act is amended by striking out the item
+ for section 367.
+SEC. 5. STATE ENERGY ADVISORY BOARD.
+ Section 365 of the Energy Policy and Conservation Act (42 U.S.C. 6325)
+ is amended by adding at the end the following:
+ `(g)(1)(A) There is hereby established within the Department of Energy
+ a State Energy Advisory Board (hereafter in this subsection referred to
+ as the `Board') which shall consist of at least 18 and not more than 21
+ members appointed by the Secretary as soon as practicable but no later
+ than September 30, 1991. At least eight of the members of the Board shall
+ be persons who serve as directors of the State agency, or a division of
+ such agency, responsible for developing State energy conservation plans
+ pursuant to section 362. At least four members shall be directors of State or
+ local low income weatherization assistance programs. Other members shall be
+ appointed from persons who have experience in energy efficiency or renewable
+ energy programs from the private sector, consumer interest groups, utilities,
+ public utility commissions, educational institutions, financial institutions,
+ local government energy programs, or research institutions. A majority of
+ the members of the Board shall be State employees.
+ `(B)(i) Except as provided in clause (ii), the members of the Board shall
+ serve a term of three years.
+ `(ii) Of the members first appointed to the Board, one-third shall serve
+ a term of one year, one-third shall serve a term of two years, and the
+ remainder shall serve a term of three years, as specified by the Secretary.
+ `(2) The Board shall--
+ `(A) make recommendations to the Assistant Secretary for Conservation and
+ Renewable Energy within the Department of Energy with respect to--
+ `(i) the energy efficiency goals and objectives of the programs carried out
+ under this part, part G of this title, and under part A of title IV of the
+ Energy Conservation and Production Act; and
+ `(ii) programmatic and administrative policies designed to strengthen and
+ improve the programs referred to in clause (i), including actions that
+ should be considered to encourage non-Federal resources (including private
+ resources) to supplement Federal financial assistance;
+ `(B) serve as a liaison between the States and such Department on energy
+ efficiency and renewable energy resource programs; and
+ `(C) encourage transfer of the results of research and development activities
+ carried out by the Federal Government with respect to energy efficiency
+ and renewable energy resource technologies.
+ `(3) The Secretary shall designate one of the members of the Board to serve
+ as its chairman and one to serve as its vice-chairman. The chairman and
+ vice-chairman shall serve in those offices no longer than two years.
+ `(4) The Secretary shall provide the Board with such reasonable services
+ and facilities as may be necessary for the performance of its functions.
+ `(5) The Board shall be nonpartisan.
+ `(6) The Board may adopt administrative rules and procedures and may elect
+ one of its members secretary of the Board.
+ `(7) Consistent with Federal regulations, the Secretary shall reimburse
+ members of the Board for expenses (including travel expenses) necessarily
+ incurred by them in the performance of their duties.
+ `(8) The Board shall meet at least twice a year and shall submit an annual
+ report to the Secretary and the Congress on the activities carried out
+ by the Board in the previous fiscal year, including an accounting of the
+ expenses reimbursed under paragraph (7) with respect to the year for which
+ the report is made and any recommendations it may have for administrative
+ or legislative changes concerning the matters referred to in subparagraphs
+ (A), (B), and (C) of paragraph (2).
+ `(9) The Board shall continue until terminated by law.'.
+SEC. 6. ENERGY CONSERVATION PROGRAM FOR SCHOOLS AND HOSPITALS.
+ (a) NON-FEDERAL SHARE OF A PROJECT- Section 396(b)(1) of the Energy Policy
+ and Conservation Act (42 U.S.C. 6371e(b)(1)) is amended by adding at the
+ end thereof the following: `The non-Federal share of the costs of any such
+ energy conservation project may be provided by using programs of innovative
+ financing for energy conservation projects (including, but not limited to,
+ loan programs and performance contracting), even if, pursuant to such
+ financing, clear title to the equipment does not pass to the school or
+ hospital until after the grant is completed.'.
+ (b) DEFINITIONS- Section 391 of such Act (42 U.S.C. 6371) is amended--
+ (1) in paragraph (1), by striking out `April 20, 1977' and inserting in
+ lieu thereof `May 1, 1989';
+ (2) in paragraph (2), by striking out `reduce energy consumption' and
+ inserting in lieu thereof `maintain or reduce energy consumption and reduce
+ energy costs' in the material preceding subparagraph (A);
+ (3) in paragraph (2)(C), by inserting `and load management systems' before
+ the semicolon;
+ (4) in paragraph (8), by inserting `administrative facilities,' after
+ `dormitories,'; and
+ (5) in paragraph (17)(A), by striking out `and related cost savings' and
+ inserting in lieu thereof `or energy cost savings'.
+ (c) REPEAL OF EDUCATIONAL AGENCY EXCLUSION- Section 396(e) of such Act
+ (42 U.S.C. 6371e(e)) is repealed.
+ (d) USE OF FUNDS- Section 396(d) of such Act (42 U.S.C. 6371e(d)) is amended--
+ (1) by striking out `The' and inserting in lieu thereof `(1) The'; and
+ (2) by adding at the end the following new paragraphs:
+ `(2) A State may utilize up to 100 percent of the funds provided by the
+ Secretary under this part for any fiscal year for program and technical
+ assistance and up to 50 percent of such funds for marketing and other
+ costs associated with leveraging of non-Federal funds for carrying out this
+ part and may administer a continuous and consecutive application and award
+ procedure for providing program and technical assistance under this part in
+ accordance with regulations that the Secretary shall establish, if the State--
+ `(A) has adopted a State plan in accordance with section 394, the
+ administration of which is in accordance with applicable regulations; and
+ `(B) certifies to the Secretary that not more than 15 percent of the
+ aggregate amount of Federal and non-Federal funds used by the State to
+ provide program and technical assistance, implement energy conservation
+ measures, and otherwise carry out a program pursuant to this part for the
+ fiscal year concerned will be expended for program and technical assistance
+ and for marketing and other costs associated with leveraging of non-Federal
+ funds for such program.'.
+SEC. 7. WEATHERIZATION ASSISTANCE FOR LOW-INCOME PERSONS.
+ (a) COOLING MATERIALS- Section 412(9) of the Energy Conservation and
+ Production Act (42 U.S.C. 6862(9)) is amended--
+ (1) by striking out `and' at the end of subparagraph (F);
+ (2) by redesignating subparagraph (G) as subparagraph (H); and
+ (3) by adding after subparagraph (F) the following:
+ `(G) cooling efficiency modifications, including, but not limited to,
+ replacement air-conditioners, ventilation equipment, screening, window films,
+ and shading devices; and'.
+ (b) RENTAL HOUSING- (1) Section 413(b)(2) of such Act (42 U.S.C. 6863(b)(2))
+ is amended--
+ (A) by striking out  `and' at the end of subparagraph (A); and
+ (B) by striking out subparagraph (B) and inserting in lieu thereof the
+ following:
+ `(B) that provide guidance to the States in the implementation of this
+ part, including guidance designed to ensure that a State establishes (i)
+ procedures that provide protection under paragraph (5) to tenants paying
+ for energy as a portion of their rent, and (ii) a process for monitoring
+ compliance with its obligations pursuant to this part; and
+ `(C) that secure the Federal investment made under this part and address
+ the issues of eviction from and sale of property receiving weatherization
+ materials under this part.'.
+ (2) Section 413(b) of such Act (42 U.S.C. 6863(b)) is amended by adding at
+ the end the following:
+ `(5) In any case in which a dwelling consists of a rental unit or rental
+ units, the State, in the implementation of this part, shall ensure that--
+ `(A) the benefits of weatherization assistance in connection with such rental
+ units, including units where the tenants pay for their energy through their
+ rent, will accrue primarily to the low-income tenants residing in such units;
+ `(B) for a reasonable period of time after weatherization work has been
+ completed on a dwelling containing a unit occupied by an eligible household,
+ the tenants in that unit (including households paying for their energy through
+ their rent) will not be subjected to rent increases unless those increases are
+ demonstrably related to matters other than the weatherization work performed;
+ `(C) the enforcement of subparagraph (B) is provided through procedures
+ established by the State by which tenants may file complaints and owners,
+ in response to such complaints, shall demonstrate that the rent increase
+ concerned is related to matters other than the weatherization work performed;
+ and
+ `(D) no undue or excessive enhancement will occur to the value of such
+ dwelling units.
+ `(6) As a condition of having assistance provided under this part with respect
+ to multifamily buildings, a State may require financial participation from
+ the owners of such buildings.'.
+ (c) ALLOCATION FORMULA- Section 414 of such Act (42 U.S.C. 6864) is amended--
+ (1) in subsection (a)(D), by inserting `, such as the cost of heating and
+ cooling,' after `necessary'; and
+ (2) by adding at the end the following:
+ `(c) Effective with fiscal year 1991, and annually thereafter, the Secretary
+ shall update the population, eligible households, climatic, residential
+ energy use, and all other data used in allocating the funds under this part
+ among the States pursuant to subsection (a).'.
+ (d) WAIVER OF 40-PERCENT REQUIREMENT- Section 415(a) of such Act (42
+ U.S.C. 6865(a)) is amended--
+ (1) in the first sentence, by striking out `An average' and inserting in
+ lieu thereof `(1) Except as provided in paragraph (2), an average';
+ (2) by inserting the following before the period at the end of the second
+ sentence: `, and a State may provide in the plan adopted pursuant to
+ subsection (b) for recipients of grants of less than $350,000 to use up to
+ an additional 5 percent of such grant for administration if the State has
+ determined that such recipient requires such additional amount to implement
+ effectively the administrative requirements established by the Secretary
+ pursuant to this part'; and
+ (3) by adding at the end the following:
+ `(2)(A) The Secretary shall approve a State's application to waive the
+ 40-percent requirement established in paragraph (1) if the State includes in
+ its plan energy audit procedures and techniques which (i) meet standards
+ established by the Secretary after consultation with the State Energy
+ Advisory Board established under section 365(g) of the Energy Policy and
+ Conservation Act, (ii) establish priorities for selection of weatherization
+ measures based on their cost and contribution to energy efficiency, (iii)
+ measure the energy requirement of individual dwellings and the rate of
+ return of the total conservation investment in a dwelling, and (iv) account
+ for interaction among energy efficiency measures.
+ `(B) The Secretary shall make information on energy audit procedures and
+ techniques available to States applying for a waiver under subparagraph (A)
+ and shall provide training for State and local agencies in the implementation
+ of such procedures and techniques.'.
+ (e) DWELLING UNIT LIMITATION- Section 415(c) of such Act (42 U.S.C. 6865(c))
+ is amended--
+ (1) in paragraph (1), by striking out `The expenditure' and inserting in lieu
+ thereof `Except as provided in paragraphs (3) and (4), the expenditure'; and
+ (2) by adding at the end the following:
+ `(3) Beginning with fiscal year 1991, the $1,600 per dwelling unit limitation
+ provided in paragraph (1) shall be adjusted annually by increasing the
+ limitation amount by an amount equal to--
+ `(A) the limitation amount for the previous fiscal year, multiplied by
+ `(B) the lesser of (i) the percentage increase in the Consumer Price Index
+ (all items, United States city average) for the most recent calendar year
+ completed before the beginning of fiscal year for which the determination
+ is being made, or (ii) three percent.
+ `(4)(A) In addition to the average per dwelling unit limitation applicable in
+ a State under paragraphs (1) and (3), the Secretary shall, upon application
+ by a State, establish a separate average per dwelling unit limitation for
+ dwelling units in such State--
+ `(i) which conform to program requirements; and
+ `(ii) which, in addition to any other weatherization modifications, have
+ furnace efficiency modifications made under this part.
+ `(B) The average per dwelling unit limitation applicable in a State to
+ units described in subparagraph (A) shall not exceed an amount equal to--
+ `(i) the amount permitted for the expenditure of financial assistance for
+ labor, weatherization materials, and related matters for dwelling units in
+ such State under paragraphs (1) and (3), plus
+ `(ii) an amount determined by the State to be the average amount that is
+ appropriate for furnace efficiency modifications of dwelling units of the
+ type assisted under this part in such State.'.
+ (f) REPEAL OF PERFORMANCE FUND- Section 415(d) of such Act (42 U.S.C. 6865(d))
+ is repealed.
+ (g) NON-FEDERAL FUNDING REQUIREMENT- Section 414(b)(3) of such Act (42
+ U.S.C. 6864(b)(3)) is amended by striking out `and (B)' and inserting in lieu
+ thereof the following: `(B) for using Federal financial assistance under this
+ part to increase the portion of low-income weatherization assistance that the
+ State obtains from non-Federal sources, including private sources, and (C)'.
+ (h) ADDITIONAL REPORTING REQUIREMENT- Section 421 of such Act (42 U.S.C. 6871)
+ is amended--
+ (1) by striking out `through 1979'; and
+ (2) by adding at the end the following: `Such report shall include
+ information and data furnished by each State on the average costs incurred
+ in weatherization of individual dwelling units, the average size of the
+ dwellings being weatherized, and the average income of households receiving
+ assistance under this part.'.
+ (i) INCENTIVE PROGRAM- Section 415 of such Act (42 U.S.C. 6865) is amended
+ by adding at the end the following:
+ `(d) Beginning with fiscal year 1992, the Secretary may allocate funds
+ appropriated pursuant to section 422(b) to provide supplementary financial
+ assistance to those States which the Secretary determines have achieved the
+ best performance during the previous fiscal year in achieving the purposes
+ of this part. In making this determination, the Secretary shall--
+ `(1) consult with the State Energy Advisory Board established under section
+ 365(g) of the Energy Policy and Conservation Act; and
+ `(2) give priority to those States which, during such previous fiscal year,
+ obtained a significant portion of income from non-Federal sources for their
+ weatherization programs or increased significantly the portion of low-income
+ weatherization assistance that the State obtained from non-Federal sources.
+ `(e)(1)(A) Beginning with fiscal year 1992, the Secretary may allocate,
+ from funds appropriated pursuant to section 422(b), among the States an
+ equal amount for each State not to exceed $100,000 per State. Each State
+ shall make available amounts received under this subsection to provide
+ supplementary financial assistance to recipients of grants under this part
+ that have achieved the best performance during the previous fiscal year in
+ advancing the purposes of this part.
+ `(B) None of the funds made available under this subsection may be used by
+ any State for administrative purposes.
+ `(2) The Secretary shall, after consulting with the State Energy Advisory
+ Board referred to in subsection (d)(1), prescribe guidelines to be used by
+ each State in making available supplementary financial assistance under
+ this subsection, with a priority being given to subgrantees that, by law
+ or through administrative or other executive action, provided non-Federal
+ resources (including private resources) to supplement Federal financial
+ assistance under this part during the previous fiscal year.'.
+ (j) CONFORMING AMENDMENT- Section 411 of such Act (42 U.S.C. 6861) is
+ amended to read as follows:
+`FINDINGS AND PURPOSE
+ `SEC. 411. (a) The Congress finds that--
+ `(1) a fast, cost-effective, and environmentally sound way to prevent future
+ energy shortages in the United States while reducing the Nation's dependence
+ on imported energy supplies, is to encourage and facilitate, through major
+ programs, the implementation of energy conservation and renewable-resource
+ energy measures with respect to dwelling units;
+ `(2) existing efforts to encourage and facilitate such measures are
+ inadequate because--
+ `(A) many dwellings owned or occupied by low-income persons are energy
+ inefficient;
+ `(B) low-income persons can least afford to make the modifications necessary
+ to provide for efficient energy equipment in such dwellings and otherwise
+ to improve the energy efficiency of such dwellings;
+ `(3) weatherization of such dwellings would lower shelter costs in dwellings
+ owned or occupied by low-income persons as well as save energy and reduce
+ future energy capacity requirements; and
+ `(4) States, through Community Action Agencies established under the Economic
+ Opportunity Act of 1964 and units of general purpose local government,
+ should be encouraged, with Federal financial and technical assistance,
+ to develop and support coordinated weatherization programs designed to
+ alleviate the adverse effects of energy costs on such low-income persons,
+ to supplement other Federal programs serving such low-income persons,
+ and to increase energy efficiency.
+ `(b) It is, therefore, the purpose of this part to develop and implement
+ a weatherization assistance program to increase the energy efficiency of
+ dwellings owned or occupied by low-income persons, reduce their total
+ residential energy expenditures, and improve their health and safety,
+ especially low-income persons who are particularly vulnerable such as the
+ elderly, the handicapped, and children.'.
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+ (a) STATE PLAN PROGRAM- Section 365(f) of the Energy Policy and Conservation
+ Act (42 U.S.C. 6325(f)) is amended to read as follows:
+ `(f) For the purpose of carrying out this part, there are authorized to be
+ appropriated not to exceed $25,000,000 for fiscal year 1991, $35,000,000
+ for fiscal year 1992, and $45,000,000 for fiscal year 1993.'.
+ (b) ENERGY CONSERVATION PROGRAM FOR SCHOOLS AND HOSPITALS- Section 397 of
+ the Energy Policy and Conservation Act (42 U.S.C. 6371f) is amended to read
+ as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 397. For the purpose of carrying out this part, there are authorized to
+ be appropriated not to exceed $40,000,000 for fiscal year 1991, $50,000,000
+ for fiscal year 1992, and $60,000,000 for fiscal year 1993.'.
+ (c) WEATHERIZATION ASSISTANCE PROGRAM- Section 422 of the Energy Conservation
+ and Production Act (42 U.S.C. 6872) is amended to read as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 422. (a) There are authorized to be appropriated for purposes of
+ carrying out the weatherization program under this part, other than under
+ subsections (d) and (e) of section 415, not to exceed $200,000,000 for
+ fiscal year 1991 and such sums as may be necessary for fiscal years 1992,
+ 1993, and 1994.
+ `(b) There are authorized to be appropriated for purposes of carrying out
+ the weatherization program under subsections (d) and (e) of section 415,
+ not to exceed $20,000,000 for fiscal year 1992 and such sums as may be
+ necessary for fiscal years 1993 and 1994.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

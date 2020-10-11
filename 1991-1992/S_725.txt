@@ -1,0 +1,2262 @@
+ 
+--S.725--
+S.725
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+Entitled the `Persian Gulf Conflict Supplemental Authorization and Personnel
+Benefits Act of 1991'.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE
+ This Act may be cited as the `Persian Gulf Conflict Supplemental Authorization
+ and Personnel Benefits Act of 1991'.
+SEC. 2. TABLE OF CONTENTS
+ The table of contents of this Act is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Definitions.
+Sec. 4. Construction with Public Law 101-510.
+TITLE I--AUTHORIZATION OF FISCAL YEAR 1991 SUPPLEMENTAL APPROPRIATIONS FOR
+OPERATION DESERT STORM
+Sec. 101. Funds in the Defense Cooperation Account.
+Sec. 102. Persian Gulf Conflict Working Capital Account.
+Sec. 103. Additional transfer authority.
+Sec. 104. Administration of transfers.
+Sec. 105. Notice to Congress of transfers.
+Sec. 106. Monthly reports on transfers.
+TITLE II--WAIVER OF PERSONNEL CEILINGS AFFECTED BY OPERATION DESERT STORM
+Sec. 201. Authority to waive end strength and grade strength laws.
+Sec. 202. Certification.
+Sec. 203. Authorization from Defense Cooperation Account.
+Sec. 204. Conforming repeal.
+Sec. 205. Relationship to other laws.
+TITLE III--BENEFITS FOR PERSONS SERVING IN ARMED FORCES DURING THE PERSIAN
+GULF CONFLICT
+Part A--Military Compensation and Benefits
+Sec. 301. Temporary increase in the rate of special pay for duty subject to
+hostile fire or imminent danger.
+Sec. 302. Temporary increase in family separation allowance.
+Sec. 303. Determination of variable housing allowance for Reserves.
+Sec. 304. Medical, dental, and nonphysician special pays for reserve,
+recalled, or retained health care officers.
+Sec. 305. Waiver of board certification requirements.
+Sec. 306. Foreign language proficiency pay.
+Sec. 307. Temporary increase in amount of death gratuity.
+Sec. 308. Death gratuity for participants who died before the date of
+enactment.
+Sec. 309. Treatment of accrued leave of members who die while on active duty.
+Sec. 310. Removal of limitation on the accrual of savings of members in a
+missing status.
+Sec. 310A. Basic allowance for quarters for certain members of reserve
+components without dependents.
+Part B--Military Personnel Policies and Programs
+Sec. 311. Grade of recalled retired members.
+Sec. 312. Temporary CHAMPUS provisions regarding deductibles and copayment
+requirements.
+Sec. 313. Transitional health care.
+Sec. 314. Extension of certain Persian Gulf conflict provisions.
+Sec. 315. Study of Department of Defense policies relating to deployment of
+military servicemembers with dependents or servicemembers from families with
+more than one servicemember.
+Sec. 316. Adjustment in the effective date of changes in mental health
+benefits as a result of Operation Desert Storm.
+Sec. 317. Sense of the House of Representatives on the separation of certain
+members from their infant children.
+Part C--Veterans Benefits and Programs
+Sec. 331. Short title.
+Sec. 332. Inclusion of Persian Gulf War within definition of `period of war'
+for purposes of veterans benefits.
+Sec. 333. Pension eligibility for Persian Gulf War veterans and surviving
+spouses of Persian Gulf War veterans.
+Sec. 334. Health benefits.
+Sec. 335. Reports by Secretary of Defense and Secretary of Veterans Affairs
+concerning services to treat post-traumatic stress disorder.
+Sec. 336. Life insurance benefits.
+Sec. 337. Increase in the amount of Montgomery GI bill educational assistance
+payments.
+Sec. 338. Membership on Educational Benefits Advisory Committee for Persian
+Gulf War veteran.
+Sec. 339. Improved reemployment rights for disabled veterans.
+Sec. 340. Requalification of former employees.
+Sec. 341. Eligibility for housing benefits.
+Part D--Federal Employee Benefits
+Sec. 361. Leave bank for Federal civilian employees in reserves who were
+activated during Persian Gulf War.
+Part E--Higher Education Assistance
+Sec. 371. Short title.
+Sec. 372. Operation Desert Storm waiver authority.
+Sec. 373. Tuition refunds or credits.
+Sec. 374. Eligibility of student borrowers.
+Sec. 375. Termination of sections 372 and 373.
+Sec. 376. Coordination with other law.
+Part F--Programs for Farmers and Ranchers
+Sec. 381. Definitions.
+Sec. 382. Base protection.
+Sec. 383. Waiver of minimum planting requirement.
+Sec. 384. Conservation requirements.
+Sec. 385. Farm credit provisions.
+Sec. 386. Program administration provisions.
+Sec. 387. Administration.
+Sec. 388. Outreach projects.
+Part G--Budget Treatment
+Sec. 391. Authorization of appropriations from Defense Cooperation Account.
+Sec. 392. Benefits contingent upon appropriations from Defense Cooperation
+Account.
+Sec. 393. Definition; construction of sections 391 and 392.
+TITLE IV--REPORTS ON FOREIGN CONTRIBUTIONS AND THE COSTS OF OPERATION
+DESERT STORM
+Sec. 401. Reports on United States costs in the Persian Gulf conflict and
+foreign contributions to offset such costs.
+Sec. 402. Reports on foreign contributions in response to the Persian
+Gulf crisis.
+Sec. 403. Form of reports.
+TITLE V--REPORT ON THE CONDUCT OF THE PERSIAN GULF CONFLICT
+Sec. 501. Department of Defense report on the conduct of the Persian Gulf
+conflict.
+TITLE VI--GENERAL PROVISIONS
+Sec. 601. Child care assistance.
+Sec. 602. Family education and support services.
+Sec. 603. Land conveyance, Fort A.P. Hill Military Reservation, Virginia.
+Sec. 604. Grassroots efforts to support our troops.
+Sec. 605. Extension of time for filing for persons serving in combat zone.
+Sec. 606. Sense of Congress concerning businesses seeking to participate in
+the rebuilding of Kuwait.
+Sec. 607. Sense of Congress regarding use of United States funds for
+rebuilding Iraq.
+Sec. 608. Withholding of payments to indirect-hire civilian personnel of
+nonpaying pledging nations.
+Sec. 609. Relief from requirements for reductions in defense acquisition
+workforce during fiscal year 1991.
+TITLE VII--MISCELLANEOUS TECHNICAL AMENDMENTS
+Sec. 701. Amendments to title 10, United States Code.
+Sec. 702. Amendments to title 37, United States Code.
+Sec. 703. Amendments to title 32, United States Code.
+Sec. 704. Amendments to Public Law 101-510.
+Sec. 705. Other technical amendments.
+TITLE VIII--AUTHORIZATION OF SUPPLEMENTAL APPROPRIATIONS FOR DEPARTMENT OF
+ENERGY NATIONAL SECURITY PROGRAMS FOR FISCAL YEAR 1991
+Sec. 801. Authorization of supplemental appropriations for operating expenses.
+Sec. 802. Authorization of supplemental appropriations for environmental
+restoration and waste management.
+Sec. 803. Applicability of recurring general provisions.
+Sec. 804. Relocation of Rocky Flats Plant operations.
+SEC. 3. DEFINITIONS
+ For the purposes of this Act:
+ (1) The term `Operation Desert Storm' means operations of United States Armed
+ Forces conducted as a consequence of the invasion of Kuwait by Iraq (including
+ operations known as Operation Desert Shield and Operation Desert Storm).
+ (2) The term `incremental costs associated with Operation Desert Storm'
+ means costs referred to in section 251(b)(2)(D)(ii) of the Balanced Budget
+ and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(D)(ii)).
+ (3) The term `Persian Gulf conflict' means the period beginning on August
+ 2, 1990, and ending thereafter on the date prescribed by Presidential
+ proclamation or by law.
+ (4) The term `congressional defense committees' has the meaning given that
+ term in section 3 of the National Defense Authorization Act for Fiscal Year
+ 1991 (Public Law 101-510; 104 Stat. 1498).
+SEC. 4. CONSTRUCTION WITH PUBLIC LAW 101-510.
+ Any authorization of appropriations, or authorization of the transfer
+ of authorizations of appropriations, made by this Act is in addition to
+ the authorization of appropriations, or the authority to make transfers,
+ provided in the National Defense Authorization Act for Fiscal Year 1991
+ (Public Law 101-510).
+TITLE I--AUTHORIZATION OF FISCAL YEAR 1991 SUPPLEMENTAL APPROPRIATIONS FOR
+OPERATION DESERT STORM
+SEC. 101. FUNDS IN THE DEFENSE COOPERATION ACCOUNT
+ (a) AUTHORIZATION OF APPROPRIATION- During fiscal year 1991, there is
+ authorized to be appropriated to the Department of Defense current and future
+ balances in the Defense Cooperation Account established under section 2608
+ of title 10, United States Code.
+ (b) USE OF FUNDS- Amounts appropriated pursuant to subsection (a) shall be
+ available only for--
+ (1) transfer by the Secretary of Defense to fiscal year 1991 appropriation
+ accounts of the Department of Defense or Coast Guard for incremental costs
+ associated with Operation Desert Storm; and
+ (2) replenishment of the working capital account created under section 102.
+SEC. 102. PERSIAN GULF CONFLICT WORKING CAPITAL ACCOUNT
+ (a) ESTABLISHMENT OF ACCOUNT- There is established in the Treasury of the
+ United States a working capital account for the Department of Defense to
+ be known as the `Persian Gulf Conflict Working Capital Account'.
+ (b) AUTHORIZATION OF APPROPRIATIONS- During fiscal year 1991, there is
+ authorized to be appropriated to the Persian Gulf Conflict Working Capital
+ Account the sum of $15,000,000,000.
+ (c) USE OF FUNDS- Funds appropriated pursuant to subsection (b) shall be
+ available only for transfer by the Secretary of Defense to fiscal year 1991
+ appropriation accounts of the Department of Defense or Coast Guard for the
+ incremental costs associated with Operation Desert Storm. Such funds may
+ be used for that purpose only to the extent that funds are not available
+ in the Defense Cooperation Account for transfer for such incremental costs.
+ (d) REPLENISHMENT OF ACCOUNT- Amounts transferred from the Persian Gulf
+ Conflict Working Capital Account shall be replenished from funds available
+ in the Defense Cooperation Account to the extent that funds are available in
+ the Defense Cooperation Account. Whenever the balance in the working capital
+ account is less than the amount appropriated to that account pursuant to this
+ section, the Secretary shall transfer from the Defense Cooperation Account
+ such funds as become available to the account to replenish the working capital
+ account before making any transfer of such funds under sections 101 and 102.
+ (e) REVERSION OF BALANCE UPON TERMINATION OF ACCOUNT- Any balance in the
+ Persian Gulf Conflict Working Capital Account at the time of the termination
+ of the account shall revert to the general fund of the Treasury.
+SEC. 103. ADDITIONAL TRANSFER AUTHORITY
+ The amount of the transfer authority provided in section 1401 of Public
+ Law 101-510 is hereby increased by the amount of such transfers as the
+ Secretary of Defense makes pursuant to law (other than Public Law 101-511)
+ to make adjustments among amounts provided in titles I and II of Public
+ Law 101-511 due to incremental costs associated with Operation Desert Storm.
+SEC. 104. ADMINISTRATION OF TRANSFERS
+ A transfer made under the authority of section 101 or 102 increases by the
+ amount of the transfer the amount authorized for the account to which the
+ transfer is made.
+SEC. 105. NOTICE TO CONGRESS OF TRANSFERS
+ (a) NOTICE-AND-WAIT- A transfer may not be made under section 101 or 102
+ until the seventh day after the congressional defense committees receive
+ a report with respect to that transfer under subsection (b).
+ (b) CONTENT OF REPORT- A report under subsection (a) shall include the
+ following:
+ (1) A certification by the Secretary of Defense that the amount or amounts
+ proposed to be transferred will be used only for incremental costs associated
+ with Operation Desert Storm.
+ (2) A statement of each account to which the transfer is proposed to be
+ made and the amount proposed to be transferred to such account.
+ (3) A description of the programs, projects, and activities for which funds
+ proposed to be transferred are proposed to be used.
+ (4) In the case of a transfer from the working capital account established
+ under section 102, an explanation of the reasons why funds are not available
+ in the Defense Cooperation Account for such transfer.
+SEC. 106. MONTHLY REPORTS ON TRANSFERS
+ Not later than seven days after the end of each month in fiscal years 1991
+ and 1992, the Secretary of Defense shall submit to the congressional defense
+ committees and the Comptroller General of the United States a detailed
+ report on the cumulative total amount of the transfers made under the
+ authority of this title through the end of that month.
+TITLE II--WAIVER OF PERSONNEL CEILINGS AFFECTED BY OPERATION DESERT STORM
+SEC. 201. AUTHORITY TO WAIVE END STRENGTH AND GRADE STRENGTH LAWS
+ (a) FISCAL YEAR 1991 END STRENGTH- The Secretary of a military department
+ may waive any end strength prescribed in section 401(a), 411, or 412(a)
+ of the National Defense Authorization Act for Fiscal Year 1991 (Public Law
+ 101-510; 104 Stat. 1485) that applies to any of the armed forces under the
+ jurisdiction of that Secretary.
+ (b) GRADE STRENGTH LIMITATIONS- The Secretary of a military department may
+ suspend, for fiscal year 1991, the operation of any provision of section
+ 517, 523, 524, 525, or 526 of title 10, United States Code, with respect
+ to that military department.
+SEC. 202. CERTIFICATION
+ The Secretary of a military department may exercise the authority provided
+ in subsection (a) or (b) of section 201 only after the Secretary submits
+ to the congressional defense committees a certification in writing that
+ the exercise of that authority is necessary because of personnel actions
+ associated with Operation Desert Storm.
+SEC. 203. AUTHORIZATION FROM DEFENSE COOPERATION ACCOUNT
+ (a) AUTHORIZATION- In addition to authorizations under section 101,
+ there is hereby authorized to be appropriated from the Defense Cooperation
+ Account such sums as may be necessary for increases in military personnel
+ costs for fiscal years 1991 through 1995 resulting from the exercise of the
+ authorities provided in section 201. Such increases in costs are incremental
+ costs associated with Operation Desert Storm.
+ (b) USE OF FUNDS- Funds appropriated to the Persian Gulf Conflict Working
+ Capital Account pursuant to section 102(b) may be used for the purposes
+ described in subsection (a) to the extent provided in section 102(c).
+ (c) REPORTING- Funds obligated for the purposes described in subsection
+ (a) shall be included in the reports required by section 106.
+SEC. 204. CONFORMING REPEAL
+ Section 1117 of the National Defense Authorization Act for Fiscal Year 1991
+ (Public Law 101-510; 104 Stat. 1637) is repealed.
+SEC. 205. RELATIONSHIP TO OTHER LAWS
+ (a) RELATIONSHIP TO OTHER WAIVER AUTHORITIES- The authority provided in
+ section 201(a) is in addition to the waiver authority provided in sections
+ 401(c) and 411(b) of the National Defense Authorization Act for Fiscal
+ Year 1991 (Public Law 101-510) and the waiver authority provided in section
+ 115(c)(1) of title 10, United States Code.
+ (b) RELATIONSHIP TO OTHER SUSPENSION AUTHORITY- The authority provided in
+ section 201(b) is in addition to the authority provided in section 527 of
+ title 10, United States Code.
+TITLE III--BENEFITS FOR PERSONS SERVING IN THE ARMED FORCES DURING THE
+PERSIAN GULF CONFLICT
+Part A--Military Compensation and Benefits
+SEC. 301. TEMPORARY INCREASE IN THE RATE OF SPECIAL PAY FOR DUTY SUBJECT TO
+HOSTILE FIRE OR IMMINENT DANGER
+ (a) INCREASED RATE- In lieu of the rate of special pay specified in section
+ 310(a) of title 37, United States Code, the rate of special pay payable
+ under that section shall be $150 for each month during the period described
+ in subsection (b).
+ (b) PERIOD OF APPLICABILITY- Subsection (a) shall apply during the period
+ beginning on August 1, 1990, and ending on the first day of the first month
+ beginning on or after the date 180 days after the end of the Persian Gulf
+ conflict.
+SEC. 302. TEMPORARY INCREASE IN FAMILY SEPARATION ALLOWANCE
+ (a) INCREASED RATE- In lieu of the family separation allowance specified in
+ section 427(b)(1) of title 37, United States Code, the family separation
+ allowance payable under that section shall be $75 for each month during
+ the period described in subsection (b).
+ (b) PERIOD OF APPLICABILITY- Subsection (a) shall apply during the period
+ beginning on January 15, 1991, and ending on the first day of the first
+ month beginning on or after the date 180 days after the end of the Persian
+ Gulf conflict.
+SEC. 303. DETERMINATION OF VARIABLE HOUSING ALLOWANCE FOR RESERVES
+ (a) USE OF PRINCIPAL PLACE OF RESIDENCE- For the purpose of determining the
+ entitlement of a Reserve described in subsection (b) to a variable housing
+ allowance under section 403a of title 37, United States Code, the Reserve
+ shall be considered to be assigned to duty at the Reserve's principal place
+ of residence, determined as prescribed by the Secretary of Defense.
+ (b) RESERVE DESCRIBED- A Reserve referred to in subsection (a) is a member
+ of a reserve component of the uniformed services who is serving on active
+ duty under a call or order to active duty in connection with Operation
+ Desert Storm and is assigned to duty away from the Reserve's principal
+ place of residence, determined as prescribed by the Secretary.
+SEC. 304. MEDICAL, DENTAL, AND NONPHYSICIAN SPECIAL PAYS FOR RESERVE,
+RECALLED, OR RETAINED HEALTH CARE OFFICERS
+ (a) ELIGIBLE FOR SPECIAL PAY- A health care officer described in subsection
+ (b) shall be eligible for special pay under section 302, 302a, 302b, 302e,
+ or 303 of title 37, United States Code (whichever applies), notwithstanding
+ any requirement in those sections that--
+ (1) the call or order of the officer to active duty be for a period of not
+ less than one year; or
+ (2) the officer execute a written agreement to remain on active duty for
+ a period of not less than one year.
+ (b) HEALTH CARE OFFICERS DESCRIBED- A health care officer referred to in
+ subsection (a) is an officer of the Armed Forces who is otherwise eligible
+ for special pay under section 302, 302a, 302b, 302e, or 303 of title 37,
+ United States Code, and who--
+ (1) is a reserve officer on active duty under a call or order to active duty
+ for a period of less than one year in connection with Operation Desert Storm;
+ (2) is involuntarily retained on active duty under section 673c of title 10,
+ United States Code, or is recalled to active duty under section 688 of that
+ title, in connection with Operation Desert Storm; or
+ (3) voluntarily agrees to remain on active duty for a period of less than
+ one year in connection with Operation Desert Storm.
+ (c) MONTHLY PAYMENTS- Payment of special pay pursuant to this section may
+ be made on a monthly basis. If the service on active duty of an officer
+ described in subsection (b) is terminated before the end of the period for
+ which a payment is made to the officer under subsection (a), the officer
+ is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of
+ title 37, United States Code (whichever applies), only for the portion of
+ that period that the officer actually served on active duty. The officer
+ shall refund any amount received in excess of the amount that corresponds
+ to the period of active duty of the officer.
+ (d) SPECIAL RULE FOR RESERVE MEDICAL OFFICER- While a reserve medical officer
+ receives a special pay under section 302 of title 37, United States Code,
+ by operation of subsection (a), the officer shall not be entitled to special
+ pay under subsection (h) of that section.
+ (e) PERIOD OF APPLICABILITY- Subsection (a) shall apply during the period
+ beginning on November 5, 1990, and ending on the first day of the first
+ month beginning on or after the date 180 days after the end of the Persian
+ Gulf conflict.
+SEC. 305. WAIVER OF BOARD CERTIFICATION REQUIREMENTS
+ (a) CERTIFICATION INTERRUPTED BY OPERATION DESERT STORM- A member of the Armed
+ Forces described in subsection (b) who completes the board certification or
+ recertification requirements specified in section 302(a)(5), 302b(a)(5),
+ 302c(c)(3), or 302c(d)(4) of title 37, United States Code, before the end
+ of the period established for the member in subsection (c) shall be paid
+ special pay under section 302(a)(5), 302b(a)(5), 302c(c)(3), or 302c(d)(4)
+ of such title (whichever applies) for active duty performed after November
+ 5, 1990, and before the date of that certification and recertification if
+ the Secretary of Defense determines that the member was unable to schedule
+ or complete that certification or recertification earlier because of a duty
+ assignment in connection with Operation Desert Storm.
+ (b) ELIGIBLE MEMBERS DESCRIBED- A member of the Armed Forces referred to
+ in subsection (a) is a member who--
+ (1) is a medical or dental officer or a nonphysician health care provider;
+ (2) has completed any required residency training; and
+ (3) was, except for the board certification requirement, otherwise
+ eligible for special pay under section 302(a)(5), 302b(a)(5), 302c(c)(3),
+ or 302c(d)(4) of such title during the duty assignment in connection with
+ Operation Desert Storm.
+ (c) PERIOD FOR CERTIFICATION- The period referred to in subsection (a)
+ for completion of board certification or recertification requirements with
+ respect to a member of the Armed Forces is the 180-day period (extended for
+ such additional time as the Secretary of Defense determines to be appropriate)
+ beginning on the date that the member is released from the duty to which
+ the member was assigned in connection with Operation Desert Storm.
+SEC. 306. FOREIGN LANGUAGE PROFICIENCY PAY
+ (a) CERTIFICATION INTERRUPTED BY OPERATION DESERT STORM- A member of the
+ Armed Forces described in subsection (b) who obtains a certification of
+ foreign language proficiency before the end of the period established for the
+ member in subsection (c) shall be paid foreign language proficiency pay under
+ section 316 of title 37, United States Code, for active duty performed after
+ August 2, 1990, and before the date of that certification if the Secretary
+ of Defense determines that the member was unable to schedule or complete
+ that certification earlier because of a duty assignment in connection with
+ Operation Desert Storm.
+ (b) ELIGIBLE MEMBERS DESCRIBED- A member of the Armed Forces referred to
+ in subsection (a) is a member on active duty who, except for subsection
+ (a)(2) of that section, was otherwise eligible for special pay under that
+ section during the duty assignment in connection with Operation Desert Storm.
+ (c) PERIOD FOR CERTIFICATION- The period referred to in subsection (a) for
+ completion of certification of foreign language proficiency with respect
+ to a member of the Armed Forces is the 180-day period (extended for such
+ additional time as the Secretary of Defense determines to be appropriate)
+ beginning on the date that the member is released from the duty to which
+ the member was assigned in connection with Operation Desert Storm.
+SEC. 307. TEMPORARY INCREASE IN AMOUNT OF DEATH GRATUITY
+ In lieu of the amount of the death gratuity specified in section 1478(a)
+ of title 10, United States Code, the amount of the death gratuity payable
+ under that section shall be $6,000 for a death resulting from any injury
+ or illness incurred during the Persian Gulf conflict or during the 180-day
+ period beginning at the end of the Persian Gulf conflict.
+SEC. 308. DEATH GRATUITY FOR PARTICIPANTS WHO DIED BEFORE THE DATE OF ENACTMENT
+ (a) PAYMENT OF DEATH GRATUITY- Subject to subsections (b) and (c), the
+ Secretary of Defense shall pay a death gratuity to each SGLI beneficiary
+ of each deceased member of the uniformed services who died after August 1,
+ 1990, and before the date of the enactment of this Act, and whose death was
+ in conjunction with or in support of Operation Desert Storm, or attributable
+ to hostile action in regions other than the Persian Gulf, as prescribed in
+ regulations set forth by the Secretary of Defense.
+ (b) AMOUNT AND DISTRIBUTION OF GRATUITY- The amount of the death gratuity
+ payable to an SGLI beneficiary in the case of a deceased member of the
+ uniformed services under this section shall be equal to the Servicemen's
+ Group Life Insurance paid or payable to such beneficiary under subchapter
+ III of chapter 19 of title 38, United States Code, by reason of the death
+ of such member.
+ (c) APPLICATION FOR GRATUITY REQUIRED- A death gratuity shall be payable to
+ an SGLI beneficiary under this section upon receipt of a written application
+ therefor by the Secretary of Defense within one year after the date of the
+ enactment of this Act.
+ (d) REGULATIONS- The Secretary shall prescribe in regulations the form
+ of the application for benefits under this section and any procedures and
+ requirements that the Secretary considers necessary to carry out this section.
+ (e) DEFINITIONS- In this section:
+ (1) The term `SGLI beneficiary', with respect to a deceased member of the
+ uniformed services, means a person to whom Servicemen's Group Life Insurance
+ is paid or payable under subchapter III of chapter 19 of title 38, United
+ States Code, by reason of the death of such member.
+ (2) The term `Secretary concerned' has the meaning given that term in
+ section 101(25) of title 38, United States Code.
+SEC. 309. TREATMENT OF ACCRUED LEAVE OF MEMBERS WHO DIE WHILE ON ACTIVE DUTY
+ (a) SURVIVORS ELIGIBLE FOR PAYMENT FOR ALL ACCRUED LEAVE OF MEMBER- In
+ the case of a member of the uniformed services who dies as a result of an
+ injury or illness incurred while serving on active duty during the Persian
+ Gulf conflict, the limitation in the second sentence of subsection (b)(3)
+ of section 501 of title 37, United States Code, and in subsection (f) of that
+ section shall not apply with respect to a payment made pursuant to subsection
+ (d) of that section for leave accrued during fiscal year 1990 or 1991.
+ (b) TECHNICAL AMENDMENT- Section 1115(a) of the National Defense Authorization
+ Act for Fiscal Year 1991 (Public Law 101-510; 104 Stat. 1636) is amended by
+ striking out `section 501(b)(3) of title 37, United States Code, does not
+ apply' and inserting in lieu thereof `subsection (b)(3) of section 501 of
+ title 37, United States Code, and in subsection (f) of that section does
+ not apply'.
+ (c) EFFECTIVE DATE- The amendment made by subsection (b) shall take effect
+ as of November 5, 1990.
+SEC. 310. REMOVAL OF LIMITATION ON THE ACCRUAL OF SAVINGS OF MEMBERS IN A
+MISSING STATUS
+ (a) ADDITION OF PERSIAN GULF CONFLICT- Subsection (b) of section 1035 of
+ title 10, United States Code, is amended--
+ (1) by inserting before the period in the second sentence the following:
+ `or during the Persian Gulf conflict'; and
+ (2) in the last sentence, by striking out `the date designated' and all that
+ follows through the period and inserting in lieu thereof the following: `May
+ 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends
+ on the date thereafter prescribed by Presidential proclamation or by law.'.
+ (b) MISSING STATUS DEFINED- Such section is further amended by adding at
+ the end the following new subsection:
+ `(f) In this section, the term `missing status' has the meaning given such
+ term in section 551(2) of title 37.'.
+ (c) CONFORMING AMENDMENTS- Such section is further amended--
+ (1) in subsection (b), by striking out `, as defined in section 551(2)
+ of title 37,'; and
+ (2) in subsection (e), by striking out `(as defined in section 551(2)
+ of title 37)'.
+SEC. 310A. BASIC ALLOWANCE FOR QUARTERS FOR CERTAIN MEMBERS OF RESERVE
+COMPONENTS WITHOUT DEPENDENTS
+ (a) IN GENERAL- A member of a reserve component of the uniformed services
+ without dependents who is called or ordered to active duty in connection
+ with Operation Desert Storm shall be entitled to a basic allowance for
+ quarters under section 403 of title 37, United States Code, if, because of
+ the call or order, the member is unable to continue to occupy a residence--
+ (1) which is maintained as the primary residence of the member at the time
+ of the call or order; and
+ (2) which is owned by the member or for which the member is responsible
+ for rental payments.
+ (b) PERIOD OF APPLICABILITY- Subsection (a) shall apply during the period
+ beginning on August 2, 1990, and ending on the first day of the first month
+ beginning on or after the date 180 days after the end of the Persian Gulf
+ conflict.
+Part B--Military Personnel Policies and Programs
+SEC. 311. GRADE OF RECALLED RETIRED MEMBERS
+ (a) IN GENERAL- A retired member of the Armed Forces ordered to active
+ duty under section 688 of title 10, United States Code, in connection
+ with Operation Desert Storm who had previously served on active duty
+ satisfactorily, as determined by the Secretary of the military department
+ concerned, in a grade higher than that member's retired grade may be ordered
+ to active duty under that section in the highest grade in which the member
+ had so served satisfactorily.
+ (b) GRADE UPON RELEASE FROM ACTIVE DUTY- (1) For the purposes of section
+ 688(b) of title 10, United States Code, a member of the Armed Forces ordered
+ to active duty in a grade that is higher than the member's retired grade
+ pursuant to subsection (a) shall be deemed to have been promoted to such
+ higher grade while on such active duty.
+ (2) A retired member described in subsection (a) who, upon being released
+ from the tour of active duty covered by that subsection, has served on active
+ duty satisfactorily, as determined by the Secretary concerned, for not less
+ than a total of 36 months in a grade higher than the member's retired grade,
+ is entitled, upon that release from active duty, to placement on the retired
+ list in that grade.
+ (c) EFFECTIVE DATE- This section shall apply with respect to retired members
+ ordered to active duty on or after August 2, 1990.
+SEC. 312. TEMPORARY CHAMPUS PROVISIONS REGARDING DEDUCTIBLES AND COPAYMENT
+REQUIREMENTS
+ (a) DELAY IN THE INCREASE OF ANNUAL DEDUCTIBLES UNDER CHAMPUS- The annual
+ deductibles specified in subsection (b) of section 1079 of title 10, United
+ States Code (as in effect on November 4, 1990), shall apply until October
+ 1, 1991, in the case of health care provided under that section to the
+ dependents of a member of the uniformed services who serves or served on
+ active duty in the Persian Gulf theater of operations in connection with
+ Operation Desert Storm.
+ (b) WAIVER OF COPAYMENT REQUIREMENTS- (1) Any civilian health care provider
+ furnishing health care pursuant to a plan contracted for under the authority
+ of section 1079 or 1086 of title 10, United States Code, may waive, in
+ whole or in part, any requirement for payment under subsection (b) of that
+ section by a patient described in paragraph (2) for health care furnished
+ the patient by such health care provider during the Persian Gulf conflict.
+ (2) A patient referred to in paragraph (1) is a dependent of a member of
+ the uniformed services who serves on active duty in the Persian Gulf theater
+ of operations in connection with Operation Desert Storm.
+ (3) If a health care provider waives a payment for health care under
+ paragraph (1), the health care provider shall certify to the Secretary
+ of Defense that the amount charged the Federal Government for such health
+ care was not increased above the amount that the health care provider would
+ have charged the Federal Government for such health care had the payment not
+ been waived. The Secretary of Defense may require a health care provider to
+ provide information to the Secretary to show the compliance of the health
+ care provider with this paragraph.
+SEC. 313. TRANSITIONAL HEALTH CARE
+ (a) HEALTH CARE PROVIDED- A member of the Armed Forces described in subsection
+ (b), and the dependents of the member, shall be entitled to receive health
+ care described in subsection (c) upon the release of the member from active
+ duty in connection with Operation Desert Storm until the earlier of--
+ (1) 30 days after the date of the release of the member from active duty; or
+ (2) the date on which the member and the dependents of the member are
+ covered by a health plan sponsored by an employer.
+ (b) ELIGIBLE MEMBER DESCRIBED- A member of the Armed Forces referred to in
+ subsection (a) is a member who--
+ (1) is a member of a reserve component of the Armed Forces and is called
+ or ordered to active duty under chapter 39 of title 10, United States Code,
+ in connection with Operation Desert Storm;
+ (2) is involuntarily retained on active duty under section 673c of title 10,
+ United States Code, in connection with Operation Desert Storm; or
+ (3) voluntarily agrees to remain on active duty for a period of less than
+ one year in connection with Operation Desert Storm.
+ (c) HEALTH CARE DESCRIBED- The health care referred to in subsection (a) is--
+ (1) medical and dental care under section 1076 of title 10, United States
+ Code, in the same manner as a dependent described in subsection (a)(2)
+ of that section; and
+ (2) health benefits contracted under the authority of section 1079(a)
+ of that title and subject to the same rates and conditions as apply to
+ persons covered under that section.
+ (d) DEPENDENT DEFINED- For purposes of this section, the term `dependent'
+ has the meaning given that term in section 1072(2) of title 10, United
+ States Code.
+SEC. 314. EXTENSION OF CERTAIN PERSIAN GULF CONFLICT PROVISIONS
+ Title XI of the National Defense Authorization Act for Fiscal Year 1991
+ (Public Law 101-510; 104 Stat. 1634 et seq.) is amended as follows:
+ (1) The following sections are amended by striking out `Operation Desert
+ Shield' each place it appears and inserting in lieu thereof `the Persian
+ Gulf conflict': sections 1111(b)(1), 1114, and 1115.
+ (2) Section 1111 is further amended--
+ (A) by striking out `for fiscal year 1990 and during fiscal year 1991'
+ in subsection (b)(1);
+ (B) by inserting `or for fiscal year 1992' in subsection (b)(2) after
+ `fiscal year 1991'; and
+ (C) by striking out subsection (c).
+ (3) Sections 1114(a) and 1115(a) are amended by striking out `during fiscal
+ year 1990 or 1991'.
+SEC. 315. STUDY OF DEPARTMENT OF DEFENSE POLICIES RELATING TO DEPLOYMENT OF
+MILITARY SERVICEMEMBERS WITH DEPENDENTS OR SERVICEMEMBERS FROM FAMILIES WITH
+MORE THAN ONE SERVICEMEMBER
+ (a) STUDY- The Secretary of Defense shall carry out a study of the policies
+ of the Department of Defense relating--
+ (1) to activation of units and members of reserve components for active duty
+ (other than for training); and
+ (2) to deployments overseas of members of the Armed Forces (whether from
+ active or reserve components),
+as those policies affect the family responsibilities and interests of members
+of the Armed Forces who have minor children or who are from families with
+more than one member in the Armed Forces.
+ (b) MATTERS TO BE CONSIDERED- The study under subsection (a) shall examine
+ the family policies of the military departments for consistency among the
+ Armed Forces and shall consider whether these policies adequately address
+ the needs of reserve component personnel. The study shall also assess the
+ responsiveness of current policies to the needs of the all-volunteer Force
+ as it is presently constituted, as reflected by its demographic profile.
+ (c) REPORT- Not later than March 31, 1992, the Secretary of Defense shall
+ submit to the Committees on Armed Services of the Senate and House of
+ Representatives a report containing the results of the study under subsection
+ (a). The report shall include an analysis of the effect of deployments made
+ as part of military operations during the Persian Gulf conflict on members
+ of the Armed Forces referred to in that subsection, including the following
+ (which shall be shown separately by service and for active-component and
+ reserve-component personnel):
+ (1) The number of single parent military personnel who were deployed and
+ the number of children of those parents.
+ (2) The number of members of the Armed Forces married to another member
+ of the Armed Forces who were both deployed and the number of children of
+ those members.
+ (3) The number of members of the Armed Forces deployed (or given orders
+ to deploy) who requested exceptions to existing policies respecting
+ family members, categorized by the reasons given for the requests and the
+ dispositions of the requests.
+ (4) A description of any differences in any of the military departments
+ in policies applicable to active component members and reserve component
+ members and any problems that arose from those differences.
+ (5) A statement of the incidence of use of military family assistance
+ programs by persons other than parents who provided care for dependent
+ children while parents in the Armed Forces were deployed.
+ (6) A discussion of the effectiveness of military family assistance programs
+ during the Persian Gulf conflict.
+ (7) A discussion of the applicability of existing policies with respect to
+ members of the Armed Forces who have dependents other than minor children,
+ including dependent parents and dependent disabled adult children.
+ (8) A discussion of proposed and actual changes by the Department of Defense
+ in family assistance programs and assignment policies.
+SEC. 316. ADJUSTMENT IN THE EFFECTIVE DATE OF CHANGES IN MENTAL HEALTH
+BENEFITS AS A RESULT OF OPERATION DESERT STORM
+ (a) IN GENERAL- (1) Section 703(d) of the National Defense Authorization
+ Act for Fiscal Year 1991 (Public Law 101-510; 104 Stat. 1582) is amended
+ by striking out `February 15, 1991' and inserting in lieu thereof `October
+ 1, 1991'.
+ (2) Section 8044 of the Department of Defense Appropriations Act, 1991
+ (Public Law 101-511; 104 Stat. 1884) is amended (A) in the matter preceding
+ the first proviso, by striking out `this Act' and inserting in lieu thereof
+ `any Act appropriating funds to the Department of Defense for fiscal year
+ 1992 and', and (B) in the fifth proviso, by striking out `February 15,
+ 1991' and inserting in lieu thereof `October 1, 1991'.
+ (b) TRANSITION PROVISION- Effective as of February 15, 1991, subsections
+ (a)(6) and (i) of section 1079 of title 10, United States Code, as those
+ subsections were in effect on February 14, 1991, are revived.
+ (c) FUNDS- Of the amount authorized to be appropriated by section 391,
+ $36,000,000 shall be available for increased costs by reason of the amendments
+ made by this section.
+SEC. 317. SENSE OF THE HOUSE OF REPRESENTATIVES ON SEPARATION OF CERTAIN
+MEMBERS FROM THEIR INFANT CHILDREN
+ It is the Sense of the House of Representatives that--
+ (1) The armed services shall strive to devise and implement a uniform policy
+ with respect to the deployment of mothers of newborn children.
+ (2) Such policy should provide that to the maximum extent possible, mothers
+ of new born children under the age of 6 months shall not be:
+ (A) deployed in the case of a mother on active duty; or
+ (B) activated, if activation requires separating the mother and child,
+ or deployed in the case of a mother serving in a reserve component.
+Part C--Veterans Benefits and Programs
+SEC. 331. SHORT TITLE
+ This part may be cited as the `Persian Gulf War Veterans' Benefits Act
+ of 1991'.
+SEC. 332. INCLUSION OF PERSIAN GULF WAR WITHIN DEFINITION OF `PERIOD OF WAR'
+FOR PURPOSES OF VETERANS BENEFITS
+ Section 101 of title 38, United States Code, is amended--
+ (1) in paragraph (11), by inserting `the Persian Gulf War,' after `the
+ Vietnam era,'; and
+ (2) by adding at the end the following new paragraph:
+ `(33) The term `Persian Gulf War' means the period beginning on August
+ 2, 1990, and ending on the date thereafter prescribed by Presidential
+ proclamation or by law.'.
+SEC. 333. PENSION ELIGIBILITY FOR PERSIAN GULF WAR VETERANS AND SURVIVING
+SPOUSES OF PERSIAN GULF WAR VETERANS
+ (a) Section 501 of title 38, United States Code, is amended by inserting
+ `the Persian Gulf War,' in paragraph (4) after `the Vietnam era,'.
+ (b) Section 541(f)(1) of such title is amended--
+ (1) by striking out `or' before (D); and
+ (2) by inserting before the semicolon at the end `, or (E) January 1, 2001,
+ in the case of a surviving spouse of a veteran of the Persian Gulf War'.
+ (c) CONFORMING AMENDMENTS- (1) The heading above section 541 of such title
+ is amended to read as follows:
+`OTHER PERIODS OF WAR'.
+ (2) The table of sections at the beginning of chapter 15 of such title is
+ amended by striking out the heading between the items relating to section
+ 537 and 541 and inserting in lieu thereof the following:
+`Other Periods of War'.
+SEC. 334. HEALTH BENEFITS
+ (a) PERIOD OF SERVICE FOR DENTAL BENEFITS- Section 612(b) of title 38,
+ United States Code, is amended by inserting `or, in the case of a veteran
+ who served on active duty during the Persian Gulf War, 90 days' after
+ `180 days' in paragraphs (1)(B)(ii) and (2).
+ (b) PRESUMPTION RELATING TO PSYCHOSIS- Section 602 of such title is amended--
+ (1) by striking out `or the Vietnam era' and inserting in lieu thereof
+ `the Vietnam era, or the Persian Gulf War';
+ (2) by striking out `or' after `Korean conflict,' the second place it
+ appears; and
+ (3) by inserting `or before the end of the two-year period beginning on the
+ last day of the Persian Gulf War, in the case of a veteran of the Persian
+ Gulf War,' after `Vietnam era veteran,'.
+ (c) COVERAGE OF CERTAIN PRESCRIPTION DRUG BENEFITS- Section 612(h) of such
+ title is amended in the first sentence by striking out `the Mexican border
+ period' and all that follows through `Vietnam era' and inserting in lieu
+ thereof `a period of war'.
+ (d) READJUSTMENT COUNSELING- Section 612A(a) of such title is amended--
+ (1) by inserting `(1)' after `(a)'; and
+ (2) by adding at the end the following new paragraph:
+ `(2)(A) The Secretary shall furnish counseling as described in paragraph
+ (1), upon request, to any veteran who served on active duty after May 7,
+ 1975, in an area at a time during which hostilities occurred in such area.
+ `(B) For the purposes of subparagraph (A) of this paragraph, the term
+ `hostilities' means an armed conflict in which members of the Armed Forces
+ are subjected to danger comparable to the danger to which members of the
+ Armed Forces have been subjected in combat with enemy armed forces during
+ a period of war, as determined by the Secretary in consultation with the
+ Secretary of Defense.'.
+SEC. 335. REPORTS BY SECRETARY OF DEFENSE AND SECRETARY OF VETERANS AFFAIRS
+CONCERNING SERVICES TO TREAT POST-TRAUMATIC STRESS DISORDER
+ (a) IN GENERAL- The Secretary of Defense and the Secretary of Veterans
+ Affairs shall each submit to Congress two reports containing, with respect
+ to their respective Departments, the following:
+ (1) An assessment of the need for rehabilitative services for members of
+ the Armed Forces participating in the Operation Desert Storm who experience
+ post-traumatic stress disorder.
+ (2) A description of the available programs and resources to meet those needs.
+ (3) The specific plans of that Secretary for treatment of members experiencing
+ post-traumatic stress disorder, particularly with respect to any specific
+ needs of members of reserve components.
+ (4) An assessment of needs for additional resources necessary in order to
+ carry out such plans.
+ (5) A description of plans to coordinate treatment services for post-traumatic
+ stress disorder with the other Department.
+ (b) TIMES FOR SUBMISSION OF REPORTS- The first report by each of the
+ Secretaries shall be submitted not later than 90 days after the date of
+ the enactment of this Act, and the second report by each of the Secretaries
+ shall be submitted a year later.
+SEC. 336. LIFE INSURANCE BENEFITS
+ (a) SERVICEMEN'S GROUP LIFE INSURANCE- Section 767 of title 38, United
+ States Code, is amended--
+ (1) in subsections (a) and (c), by striking out `$50,000' each place it
+ appears and inserting in lieu thereof `$100,000'; and
+ (2) in subsection (d)--
+ (A) by striking out `January 1, 1986' each place it appears and inserting
+ in lieu thereof `May 1, 1991'; and
+ (B) by striking out `$50,000' and inserting in lieu thereof `$100,000'.
+ (b) VETERANS' GROUP LIFE INSURANCE- Section 777(a) of such title is amended
+ by striking out `$50,000' each place it appears and inserting in lieu thereof
+ `$100,000'.
+ (c) EFFECTIVE DATES- (1) The amendments made by subsection (a) shall apply
+ with respect to deaths on or after the date of the enactment of this Act.
+SEC. 337. INCREASE IN THE AMOUNT OF MONTGOMERY GI BILL EDUCATIONAL ASSISTANCE
+PAYMENTS
+ (a) AMOUNT OF BENEFIT PAYMENTS UNDER CHAPTER 30- Section 1415 of title 38,
+ United States Code, is amended--
+ (1) in subsection (a), by striking out `and (c)' and inserting in lieu
+ thereof `, (c), (d), (e), and (f)';
+ (2) in subsection (b), by striking out `In' and inserting in lieu thereof
+ `Except as provided in subsections (c), (d), (e), and (f), in'; and
+ (3) by adding at the end the following new subsection:
+ `(f)(1) During the period beginning on October 1, 1991, and ending on
+ September 30, 1993, the monthly rates payable under subsection (a)(1) or
+ (b)(1) of this section shall be $350 and $275, respectively.
+ `(2) With respect to the fiscal year beginning on October 1, 1993, the
+ Secretary may continue to pay, in lieu of the rates payable under subsection
+ (a)(1) or (b)(1) of this section, the monthly rates payable under paragraph
+ (1) of this subsection and may provide a percentage increase in such rates
+ equal to the percentage by which the Consumer Price Index (all items,
+ United States city average, published by the Bureau of Labor Statistics)
+ for the 12-month period ending June 30, 1993, exceeds such Consumer Price
+ Index for the 12-month period ending June 30, 1992.
+ `(3) With respect to any fiscal year beginning on or after October 1,
+ 1994, the Secretary may continue to pay, in lieu of the rates payable under
+ subsection (a)(1) or (b)(1) of this section, the monthly rates payable under
+ this subsection for the previous fiscal year and may provide, for any such
+ fiscal year, a percentage increase in such rates equal to the percentage
+ by which--
+ `(A) the Consumer Price Index (all items, United States city average) for
+ the 12-month period ending on the June 30 preceding the beginning of the
+ fiscal year for which the increase is made, exceeds
+ `(B) such Consumer Price Index for the 12-month period preceding the 12-month
+ period described in subparagraph (A).'.
+ (b) AMOUNT OF BENEFIT PAYMENTS UNDER SELECTED RESERVE PROGRAM- (1) Section
+ 2131(b) of title 10, United States Code, is amended--
+ (A) by striking out `(b) Except as provided in' and inserting in lieu thereof
+ `(b)(1) Except as provided in paragraph (2) and';
+ (B) by redesignating paragraphs (1), (2), (3), and (4), as subparagraphs (A),
+ (B), (C), and (D), respectively; and
+ (C) and by adding at the end the following new paragraph:
+ `(2)(A) During the period beginning on October 1, 1991, and ending on
+ September 30, 1993, the monthly rates payable under subparagraphs (A),
+ (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.
+ `(B) With respect to the fiscal year beginning on October 1, 1993,
+ the Secretary may continue to pay, in lieu of the rates payable under
+ subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable
+ under subparagraph (A) of this paragraph and may provide a percentage
+ increase in such rates equal to the percentage by which the Consumer Price
+ Index (all items, United States city average, published by the Bureau of
+ Labor Statistics) for the 12-month period ending June 30, 1993, exceeds
+ such Consumer Price Index for the 12-month period ending June 30, 1992.
+ `(C) With respect to any fiscal year beginning on or after October 1,
+ 1994, the Secretary may continue to pay, in lieu of the rates payable
+ under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates
+ payable under this paragraph for the previous fiscal year and may provide,
+ for any such fiscal year, a percentage increase in such rates equal to the
+ percentage by which--
+ `(i) the Consumer Price Index (all items, United States city average) for
+ the 12-month period ending on the June 30 preceding the beginning of the
+ fiscal year for which the increase is made, exceeds
+ `(ii) such Consumer Price Index for the 12-month period preceding the
+ 12-month period described in clause (i).'.
+ (2) Section 2131(f)(2) of such title is amended by striking out `$140'
+ and inserting in lieu thereof `amount equal to the amount of the monthly
+ rate payable under subsection (b)(1)(A) for the fiscal year concerned'.
+ (3) Section 2131(g)(3) of such title is amended by striking out `$140'
+ and inserting in lieu thereof `amount equal to the amount of the monthly
+ rate payable under subsection (b)(1)(A) for the fiscal year concerned'.
+SEC. 338. MEMBERSHIP ON EDUCATIONAL BENEFITS ADVISORY COMMITTEE FOR PERSIAN
+GULF WAR VETERAN
+ Section 1792(a) of title 38, United States Code, is amended by striking out
+ `and the post-Vietnam era' in the second sentence and inserting in lieu
+ thereof `the post-Vietnam era, and the Persian Gulf War'.
+SEC. 339. IMPROVED REEMPLOYMENT RIGHTS FOR DISABLED VETERANS
+ (a) IN GENERAL- Chapter 43 of title 38, United States Code, is amended by
+ adding at the end the following new section:
+`Sec. 2027. Qualification for employment position
+ `(a) For the purposes of this chapter, a person shall be considered qualified
+ to perform the duties of an employment position if such person, with or
+ without reasonable accommodation, can perform the essential functions of
+ the position.
+ `(b) For the purposes of subsection (a) of this section, an employer shall
+ be required to make reasonable accommodations to the known physical or
+ mental limitations of an otherwise qualified individual with a disability,
+ unless the employer can demonstrate that the accommodation would impose an
+ undue hardship on the operation of the business of such employer.
+ `(c) For purposes of subsections (a) and (b) of this section--
+ `(1) the term `employer' means--
+ `(A) until July 26, 1994, a person engaged in an industry affecting commerce
+ who has 25 or more employees for each working day in each of 20 or more
+ calendar weeks in the current or preceding year, and any agent of such
+ person; and
+ `(B) on and after July 26, 1994, a person engaged in an industry affecting
+ commerce who has 15 or more employees for each working day in each of 20
+ or more calendar weeks in the current or preceding calendar year, and any
+ agent of such person;
+except that such term does not include the United States, a corporation wholly
+owned by the Government of the United States, an Indian tribe, or a bona
+fide private membership club (other than a labor organization) that is exempt
+from taxation under section 501(c) of the Internal Revenue Code of 1986; and
+ `(2) the terms `reasonable accommodation' and `undue hardship' have the
+ meanings given such terms in paragraphs (9) and (10), respectively, of
+ section 101 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111
+ (9) and (10)).
+ `(d) Nothing in this chapter shall be interpreted to limit in any way any
+ of the rights conferred by the Americans with Disabilities Act of 1990.'.
+ (b) TECHNICAL AMENDMENT- The table of sections of such chapter is amended
+ by adding at the end the following:
+`2027. Qualification for employment position.'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ as of August 1, 1990.
+SEC. 340. REQUALIFICATION OF FORMER EMPLOYEES
+ (a) IN GENERAL- Section 2021(a) of title 38, United States Code, is amended--
+ (1) in clause (A), by inserting `or able to become requalified with reasonable
+ efforts by the employer' after `perform the duties of such position' each
+ place it appears; and
+ (2) in clause (B), by inserting `or able to become requalified with reasonable
+ efforts by the employer' after `perform the duties of such position' each
+ place it appears.
+ (b) EFFECTIVE DATE- The amendments made by this section shall take effect
+ as of August 1, 1990.
+SEC. 341. ELIGIBILITY FOR HOUSING BENEFITS
+ Section 1802(a)(2) of title 38, United States Code, is amended by adding
+ at the end the following new subparagraph:
+ `(D) Each veteran who served on active duty for 90 days or more at any time
+ during the Persian Gulf War, other than a veteran ineligible for benefits
+ under this title by reason of section 3103A(b) of this title.'.
+Part D--Federal Employee Benefits
+SEC. 361. LEAVE BANK FOR FEDERAL CIVILIAN EMPLOYEES IN RESERVES WHO WERE
+ACTIVATED DURING PERSIAN GULF WAR
+ (a) CIVIL SERVICE EMPLOYEES- The Office of Personnel Management shall
+ establish a leave bank program under which--
+ (1) an employee in any executive agency may (during a period specified by
+ the Office of Personnel Management) donate any unused annual leave from the
+ employee's annual leave account to a leave bank established by the Office
+ of Personnel Management;
+ (2) the total annual leave that has been donated under paragraph (1) shall
+ be divided equally among the annual leave accounts of all employees who
+ have been members of the Armed Forces serving on active duty during the
+ Persian Gulf conflict pursuant to an order issued under section 672(a),
+ 672(g), 673, 673b, 674, 675, or 688 of title 10, United States Code, and
+ who return to civilian employment with their agencies; and
+ (3) such Persian Gulf concflict participants who have returned to civilian
+ employment may use such annual leave, after it is credited to their leave
+ accounts, in the same manner as any other annual leave to their credit.
+ (b) DEFINITIONS- For purposes of subsection (a), the term `employee' means
+ an employee as defined in section 6361(1) of title 5, United States Code.
+ (c) DEADLINE FOR REGULATIONS- Within 30 days after the date of the enactment
+ of this Act, the Office of Personnel Management shall prescribe regulations
+ necessary for the administration of subsection (a).
+ (d) DEPARTMENT OF VETERANS AFFAIRS HEALTH-CARE PROFESSIONALS- The Secretary
+ of Veterans Affairs shall establish a program similar to that established
+ under subsection (a) for the benefit of health-care professionals covered
+ under section 4108(e) of title 38, United States Code. Such program shall
+ be as similar and practicable to the program established under subsection (a).
+Part E--Higher Education Assistance
+SEC. 371. SHORT TITLE
+ This part may be cited as the `Persian Gulf Conflict Higher Education
+ Assistance Act'.
+SEC. 372. OPERATION DESERT STORM WAIVER AUTHORITY
+ (a) PURPOSE- It is the purpose of this section to ensure that--
+ (1) the men and women serving on active duty in connection with Operation
+ Desert Storm who are borrowers of Stafford Loans or Perkins Loans are not
+ placed in a worse position financially in relation to those loans because
+ of such service;
+ (2) the administrative requirements placed on all borrowers of student
+ loans made in accordance with title IV of the Higher Education Act of 1965
+ (20 U.S.C. 1001 et seq.) (hereafter in this section referred to as the
+ `Act') who are engaged in such military service are minimized to the extent
+ possible without impairing the integrity of the student loan programs,
+ in order to ease the burden on such borrowers, and to avoid inadvertent,
+ technical defaults; and
+ (3) the future eligibility of such an individual for Pell Grants is not
+ reduced by the amount of such assistance awarded for a period of instruction
+ that such individual was unable to complete, or for which the individual
+ did not receive academic credit, because the individual was called up for
+ such service.
+ (b) WAIVER REQUIREMENT- Notwithstanding any other provision of law, unless
+ enacted with specific reference to this section, the Secretary of Education
+ shall waive or modify any statutory or regulatory provision applicable to the
+ student financial aid programs under title IV of the Act that the Secretary
+ deems necessary to achieve the purposes stated in subsection (a), including--
+ (1) the length of, and eligibility requirements for, the military
+ deferments authorized under sections 427(a)(2)(C)(ii), 428(b)(1)(M)(ii), and
+ 464(c)(2)(A)(ii) of the Act, in order to enable the borrower of a Stafford
+ Loan or a Perkins Loan who is or was serving on active duty in connection with
+ Operation Desert Storm to obtain a military deferment, under which interest
+ shall accrue and shall, if otherwise payable by the Secretary of Education,
+ be paid by the Secretary of Education, for the duration of such service;
+ (2) administrative requirements placed on all borrowers of student loans
+ made in accordance with title IV of the Act who are or were engaged in such
+ military service;
+ (3) the number of years for which individuals who are engaged in such
+ military service may be eligible for Pell Grants under subpart 1 of part
+ A of title IV of the Act;
+ (4) the point at which the borrower of a Stafford Loan who is or was engaged
+ in such military service is required to resume repayment of principal and
+ interest on such loan after the borrower completes a period of deferment
+ under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+ (5) the point at which the borrower of a Stafford Loan who is or was engaged
+ in such military service is required to resume repayment of principal
+ and interest on such loan after the borrower completes a single period
+ of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act
+ subsequent to such service; and
+ (6) the modification of the terms `annual adjusted family income' and
+ `available income', as used in the determination of need for student
+ financial assistance under title IV of the Act for such individual (and the
+ determination of such need for the individual's spouse and dependents, if
+ applicable), to mean the sums received in the first calendar year of the award
+ year for which such determination is made, in order to reflect more accurately
+ the financial condition of such individual and such individual's family.
+ (c) NOTICE OF WAIVER- Notwithstanding section 431 of the General Education
+ Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States
+ Code, the Secretary shall, by notice in the Federal Register, publish the
+ waivers or modifications of statutory and regulatory provisions the Secretary
+ deems necessary to achieve the purposes of this section. Such notice shall
+ include the terms and conditions to be applied in lieu of such statutory
+ and regulatory provisions. The Secretary is not required to exercise the
+ waiver or modification authority under this section on a case-by-case basis.
+ (d) DEFINITIONS- For purposes of this part--
+ (1) individuals serving on active duty in connection with Operation Desert
+ Storm include--
+ (A) any Reserve of the Armed Forces called to active duty under section
+ 672(a), 672(g), 673, 673(b), 674, or 688 of title 10, United States Code,
+ for service in connection with Operation Desert Storm, regardless of the
+ location at which such active duty service is performed; and
+ (B) for purposes of waivers of administrative requirements under subsection
+ (b)(2) only, any other member of the Armed Forces on active duty in
+ connection with Operation Desert Storm, who has been assigned to a duty
+ station at a location other than the location at which such member is
+ normally assigned; and
+ (2) the term `active duty' has the meaning given such term in section
+ 101(22) of title 10, United States Code, except that such term does not
+ include active duty for training or attendance at a service school.
+SEC. 373. TUITION REFUNDS OR CREDITS
+ (a) SENSE OF CONGRESS- It is the sense of the Congress that all institutions
+ offering postsecondary education should provide a full refund to any member
+ of the Armed Forces on active duty in connection with Operation Desert Storm
+ for that portion of a period of instruction such individual was unable to
+ complete, or for which such individual did not receive academic credit,
+ because such individual was called up for such service. For purposes of
+ this section, a full refund includes a refund of required tuition and fees,
+ or a credit in a comparable amount against future tuition and fees.
+ (b) ENCOURAGEMENT AND REPORT- The Secretary of Education shall encourage
+ institutions to provide such refunds or credits, and shall report to the
+ appropriate committees of Congress on the actions taken in accordance with
+ this subsection as well as information the Secretary receives regarding
+ any institutions that are not providing such refunds or credits.
+SEC. 374. ELIGIBILITY OF STUDENT BORROWERS
+ Section 731 of the Public Health Service Act (42 U.S.C. 294d) is amended--
+ (1) in subsection (a)(2)(C)--
+ (A) by striking `or' at the end of clause (vi); and
+ (B) by striking `and any such period' and all that follows through `clause (B)
+ above;' in clause (vii) and inserting the following: `and (viii) in addition
+ to all other deferments for which the borrower is eligible under clauses (i)
+ through (vii) during which the borrower is a member of the Armed Forces on
+ active duty during the Persian Gulf conflict, and any period described in
+ clauses (i) through (viii) shall not be included in determining the 25-year
+ period described in subparagraph (B);'; and
+ (2) by adding at the end the following new subsection:
+ `(f) As used in this section:
+ `(1) The term `active duty' has the meaning given such term in section
+ 101(18) of title 37, United States Code, except that such term does not
+ include active duty for training.
+ `(2) The term `Persian Gulf conflict' means the period beginning on August
+ 2, 1990, and ending on the date thereafter prescribed by Presidential
+ proclamation or by law.'.
+SEC. 375. TERMINATION OF SECTIONS 372 AND 373
+ The provisions of sections 372 and 373 shall cease to be effective on
+ September 30, 1997.
+SEC. 376. COORDINATION WITH OTHER LAW
+ If the Higher Education Technical Amendments of 1991 is enacted, the
+ provisions of sections 4, 5, and 6 of that Act shall supersede sections 372,
+ 373, and 375.
+Part F--Programs for Farmers and Ranchers
+SEC. 381. DEFINITIONS
+ As used in this part:
+ (1) ACTIVATED RESERVIST- The term `activated reservist' means a member of
+ a reserve component of the Armed Forces who served or is serving on active
+ duty during the Persian Gulf conflict pursuant to an order issued under
+ section 672(a), 672(d), 672(g), 673, 673b, 674, 675, or 678 of title 10,
+ United States Code.
+ (2) FARMER PROGRAM LOAN- The term `farmer program loan' has the same meaning
+ given such term in section 343(a)(10) of the Consolidated Farm and Rural
+ Development Act (7 U.S.C. 1991(a)(10)).
+ (3) RESERVE COMPONENT OF THE ARMED FORCES- The term `reserve component
+ of the Armed Forces' means a reserve component named in section 261(a)
+ of title 10, United States Code.
+ (4) SECRETARY- The term `Secretary' means the Secretary of Agriculture.
+ (5) OTHER TERMS-
+ (A) AGRICULTURAL ACT OF 1949- The terms `crop acreage base', `producer',
+ `program crop', and any other terms used in this title have the same
+ meanings specifically given such terms in the Agricultural Act of 1949
+ (7 U.S.C. 1421 et seq.).
+ (B) TITLE 10- The term `active duty' has the meaning given such term in
+ section 101 of title 10, United States Code.
+SEC. 382. BASE PROTECTION
+ The Secretary shall, with respect to a producer on a farm who is an activated
+ reservist during a crop year, provide for the protection of the producer's
+ crop acreage base for any program crop on the farm to the extent necessary
+ to provide fair and equitable treatment for the producer.
+SEC. 383. WAIVER OF MINIMUM PLANTING REQUIREMENT
+ The producers on a farm shall be eligible for payments for a crop of rice
+ or upland cotton under sections 101B(c)(1)(D)(i) and 103B(c)(1)(D)(i) of the
+ Agricultural Act of 1949 (7 U.S.C. 1441-2(c)(1)(D)(i) and 1444-2(c)(1)(D)(i),
+ without regard to the minimum planting requirement established in sections
+ 101B(c)(1)(D)(ii) and 103B(c)(1)(D)(ii) of such Act, if--
+ (1) one or more of the producers on the farm is an activated reservist
+ during any portion of the crop year; and
+ (2) the producers on the farm satisfy all other requirements determined
+ appropriate by the Secretary for the payments.
+SEC. 384. CONSERVATION REQUIREMENTS
+ (a) TEMPORARY WAIVER AUTHORITY- The Secretary may provide for a temporary
+ waiver or modification of the application of subtitles A through E of title
+ XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.) with respect
+ to producers on a farm who are activated reservists if--
+ (1) the temporary waiver or modification is only for the period during
+ which the producer is an activated reservist;
+ (2) the Secretary determines that the temporary waiver or modification is
+ necessary to prevent undue hardship caused as a result of the producer's
+ service on active duty during the Persian Gulf Conflict or to provide
+ equitable treatment for the activated reservist; and
+ (3) the temporary waiver or modification will not significantly detract
+ from the purposes and objectives of subtitles A through E of title XII of
+ the Food Security Act of 1985.
+ (b) REPORT- The Secretary shall, not later than March 31, 1992, submit
+ a report to the Committee on Agriculture of the House of Representatives
+ and the Committee on Agriculture, Nutrition, and Forestry of the Senate
+ regarding the temporary waivers and modifications granted under subsection
+ (a). Such report shall include--
+ (1) a summary of the types of waivers and modifications granted under
+ subsection (a);
+ (2) a summary of the number and the geographical breakdown of the waivers
+ and modifications granted under subsection (a); and
+ (3) an assessment of the effect of the waivers and modifications granted
+ under subsection (a) on the ability of the programs established under
+ subtitles A through E of title XII of the Food Security Act of 1985 to
+ accomplish the purposes and objectives of such subtitles.
+SEC. 385. FARM CREDIT PROVISIONS
+ (a) IN GENERAL- The Secretary shall establish a program to provide relief
+ to any borrower of a farmer program loan if the borrower is an activated
+ reservist.
+ (b) BORROWER RELIEF- The Secretary shall modify the terms and conditions
+ of farmer program loans (including loans in which any participant in the
+ loan is an activated reservist) made or insured under the Consolidated Farm
+ and Rural Development Act, or purchased under section 309B of such Act (7
+ U.S.C. 1926b), to the extent necessary, as determined by the Secretary, to
+ alleviate conditions of distress related to the activation of such reservist
+ and to assist keeping the farm or ranch of an activated reservist borrower
+ in operation for such period of time as the Secretary determines is fair
+ and equitable.
+ (c) LOAN MODIFICATIONS- The Secretary may modify farmer program loans,
+ including delinquent loans, by deferring scheduled payments, reducing interest
+ rates or accumulated interest charges, reamortizing or consolidating loans,
+ reducing the amount of scheduled payments, releasing additional income,
+ reducing collateral requirements, or taking any other restructuring actions
+ determined appropriate by the Secretary to assist in maintaining the farm
+ or ranch for such period of time as the Secretary determines is fair and
+ equitable.
+ (d) NOTICE- The Secretary shall develop a program to notify any person
+ that has an interest in, or is operating, a farm or ranch of an activated
+ reservist who is a farmer program loan borrower of the borrower relief
+ provisions of this section.
+SEC. 386. PROGRAM ADMINISTRATION PROVISIONS
+ (a) SIGN-UP PROCEDURES- The Secretary may provide for procedures by which
+ the spouse or other close relative (as determined by the Secretary) of
+ an activated reservist may participate in, or make decisions related to,
+ a program administered by the Secretary under the Agricultural Act of 1949
+ (7 U.S.C. 1421 et seq.), the Conservation and Domestic Allotment Act (16
+ U.S.C. 590a et seq.), the Food Security Act of 1985 (Public Law 99-198), the
+ Food, Agriculture, Conservation, and Trade Act of 1990 (Public Law 101-624),
+ the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.),
+ or any other Act concerning the operation of the activated reservist's
+ farming or ranching operation.
+ (b) REQUIREMENTS- The Secretary may rely on the representation of the spouse
+ or close relative (even in the absence of a power of attorney) made under
+ such procedures if--
+ (1) The Secretary determines that the reliance is appropriate in order to
+ prevent undue hardship and to provide equitable treatment for the activated
+ reservist; and
+ (2) the Secretary has reason to believe that the representation of the spouse
+ or close relative is in accordance with the wishes of the activated reservist.
+SEC. 387. ADMINISTRATION
+ The Secretary shall issue such regulations, and take such other actions,
+ as are necessary to carry out this part. Section 553 of title 5,  United
+ States Code, shall not apply with respect to the implementation of this
+ part by the Secretary.
+SEC. 388. OUTREACH PROJECTS
+ (a) The Secretary shall conduct a sufficient number of outreach projects to
+ inform appropriate households, of which a member is a member of the Armed
+ Forces serving on active duty (other than for training) that they might be
+ eligible for participation in the Food Stamp Program authorized under the
+ Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).
+ (b) The Secretary shall--
+ (1) in designing and carrying out projects under subsection (a), consult
+ with the Secretary of Defense, appropriate State agencies, and appropriate
+ military family support groups; and
+ (2) ensure that the projects under subsection (a) begin no later than July 1,
+ 1991, and end July 1, 1992.
+ (c) The Secretary shall submit a report, by September 1, 1992, to the
+ Committee on Agriculture of the House of Representatives and the Committee
+ on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness
+ of each method used under subsection (a) to inform households of food
+ stamp eligibility.
+Part G--Budget Treatment
+SEC. 391. AUTHORIZATION OF APPROPRIATIONS FROM DEFENSE COOPERATION ACCOUNT
+ (a) AUTHORIZATION- In addition to the authorizations of appropriations
+ in titles I and II, there is hereby authorized to be appropriated from the
+ Defense Cooperation Account the sum of $655,000,000, to be available only for
+ the payment of title III benefits for fiscal years 1991 through 1995, except
+ that none of the amount appropriated pursuant to such authorization shall
+ be available for (1) payment of Montgomery GI bill rate increases for fiscal
+ years after fiscal year 1993, or (2) for costs under the amendments made by
+ section 334.  Of the amount appropriated pursuant to such authorization,
+ $255,000,000 is available only for the costs of benefits under part C of
+ this title, and no more than such amount may be available from such account
+ for those costs.
+ (b) LONG-TERM COSTS- The amount of funds in the Defense Cooperation Account
+ on October 1, 1992 (other than funds appropriated pursuant to authorizations
+ in other provisions of this Act), is hereby authorized to be appropriated
+ from that account for costs of title III benefits (other than Montgomery
+ GI bill rate increases and costs under the amendments made by section 334)
+ accruing after fiscal year 1995.
+ (c) INCREMENTAL COSTS- The costs of title III benefits (other than Montgomery
+ GI bill rate increases and  costs under the amendments made by section 334)
+ for fiscal years 1991 through 1995 and the costs of Montgomery GI bill rate
+ increases for fiscal years 1992 and 1993 are incremental costs associated
+ with Operation Desert Storm.
+SEC. 392. BENEFITS CONTINGENT UPON APPROPRIATIONS FROM DEFENSE COOPERATION
+ACCOUNT
+ (a) IN GENERAL- No person is entitled to, or eligible for, any title III
+ benefit that is payable during fiscal years 1991 through 1995 unless an
+ appropriations Act appropriates funds for such benefit from the Defense
+ Cooperation Account for transfer to applicable appropriations. The preceding
+ sentence does not apply with respect to Montgomery GI bill rate increases
+ or to benefits under section 334.
+ (b) VETERANS BENEFITS- No person is entitled to, or eligible for, payment
+ of Montgomery GI bill rate increases during fiscal year 1992 or fiscal
+ year 1993 unless an appropriations Act appropriates funds for the payment
+ of such rate increases from the Defense Cooperation Account for transfer
+ to applicable appropriations.
+SEC. 393. DEFINITION; CONSTRUCTION OF SECTIONS 391 AND 392
+ (a) DEFINITION- For purposes of this title, the term `Montgomery GI bill
+ rate increases' means increases provided by section 337 with respect to
+ fiscal years 1992 and 1993 in the monthly rates of educational assistance
+ benefits in effect on the day before the date of the enactment of this Act
+ under chapter 106 of title 10, United States Code, and under chapter 30 of
+ title 38, United States Code.
+ (b) CONSTRUCTION- For purposes of sections 391 and 392--
+ (1) a title III benefit is (A) any new payment or benefit provided by this
+ title, or (B) any increase provided by this title in payments amounts or
+ benefits previously provided by law; and
+ (2) a reference to provisions of this title shall be considered to include
+ reference to provisions of law added by amendments made by this title.
+TITLE IV--REPORTS ON FOREIGN CONTRIBUTIONS AND THE COSTS OF OPERATION
+DESERT STORM
+SEC. 401. REPORTS ON UNITED STATES COSTS IN THE PERSIAN GULF CONFLICT AND
+FOREIGN CONTRIBUTIONS TO OFFSET SUCH COSTS
+ (a) REPORTS REQUIRED- The Director of the Office of Management and Budget
+ shall prepare, in accordance with this section, periodic reports on the
+ incremental costs associated with Operation Desert Storm and on the amounts
+ of contributions made to the United States by foreign countries to offset
+ those costs. The Director shall prepare the reports in consultation with the
+ Secretary of Defense, the Secretary of State, the Secretary of the Treasury,
+ and other appropriate Government officials.
+ (b) COSTS OF OPERATION DESERT STORM-
+ (1) PERIOD COSTS AND CUMULATIVE COSTS- Each report prepared under subsection
+ (a) shall specify--
+ (A) the incremental costs associated with Operation Desert Storm that were
+ incurred during the period covered by the report; and
+ (B) the cumulative total of such costs, by fiscal year, from August 1,
+ 1990, to the end of the period covered by the report.
+ (2) NONRECURRING COSTS AND COSTS OFFSET- In specifying the incremental
+ costs associated with Operation Desert Storm that were incurred during the
+ period covered by a report and the total of such costs, the Director shall
+ separately identify those costs that--
+ (A) are nonrecurring costs;
+ (B) are offset by in-kind contributions; or
+ (C) are offset (or proposed to be offset) by the realignment, reprogramming,
+ or transfer of funds appropriated for activities unrelated to the Persian
+ Gulf conflict.
+ (c) SPECIFIC COST AREAS- Each report prepared under subsection (a) on the
+ incremental costs associated with Operation Desert Storm shall specify an
+ allocation of the total amount of such costs among the military departments,
+ the Defense Agencies of the Department of Defense, and the Office of the
+ Secretary of Defense, by category, including the following categories:
+ (1) AIRLIFT- Airlift costs related to the transportation by air of personnel,
+ equipment, and supplies.
+ (2) SEALIFT- Sealift costs related to the transportation by sea of personnel,
+ equipment, and supplies.
+ (3) PERSONNEL- Personnel costs, including pay and allowances of members of
+ the reserve components of the Armed Forces called or ordered to active duty
+ and increased pay and allowances of members of the regular components of
+ the Armed Forces incurred because of deployment in connection with Operation
+ Desert Storm.
+ (4) PERSONNEL SUPPORT- Personnel support costs, including subsistence,
+ uniforms, and medical costs.
+ (5) OPERATING SUPPORT- Operating support costs, including equipment support
+ costs, costs associated with increased operational tempo, spare parts,
+ stock fund purchases, communications, and equipment maintenance.
+ (6) FUEL- Fuel costs.
+ (7) PROCUREMENT- Procurement costs, including ammunition, weapon systems
+ improvements and upgrades, and equipment purchases.
+ (8) MILITARY CONSTRUCTION- Military construction costs.
+ (d) CONTRIBUTIONS TO THE UNITED STATES-
+ (1) AMOUNT OF CONTRIBUTIONS- Each report prepared under subsection (a)
+ shall specify the amount of contributions made to the United States by
+ each foreign country that is making contributions to defray the cost to
+ the United States of Operation Desert Storm. The amount of each country's
+ contribution during the period covered by each report, as well as the
+ cumulative total of such contributions made before the date of the report,
+ shall be indicated as follows:
+ (A) Cash payments pledged.
+ (B) Cash payments received.
+ (C) Description and value of in-kind contributions pledged.
+ (D) Description and value of in-kind contributions received.
+ (2) PLEDGE PERIOD AND USE RESTRICTIONS- In specifying the amount of each
+ contribution pledged, the Director shall indicate--
+ (A) the time period, if any, for which that contribution applies; and
+ (B) any restrictions on the use of that contribution.
+ (e) SUBMISSION OF REPORTS-
+ (1) FIRST REPORT- The first report required by subsection (a) shall be
+ submitted to the Congress not later than 14 days after the date of the
+ enactment of this Act and shall cover the period beginning on August 1,
+ 1990, and ending on December 31, 1990.
+ (2) SECOND REPORT- The second report shall be submitted to the Congress
+ not later than 21 days after the date of the enactment of this Act and
+ shall cover--
+ (A) January and February 1991, with respect to information required under
+ subsections (b) and (c); and
+ (B) January, February, and March 1991, with respect to information required
+ under subsection (d).
+ (3) SUBSEQUENT MONTHLY REPORTS- A report shall be submitted to Congress
+ not later than the 15th day of each month after April 1991 and shall cover--
+ (A) the month before the preceding month, in the case of information required
+ under subsections (b) and (c); and
+ (B) the preceding month, in the case of information required under subsection
+ (d).
+ (4) FINAL REPORT- The final report shall be submitted not later than November
+ 15, 1992, and shall include--
+ (A) the information required under subsections (b) and (c) relating to the
+ month of September 1992; and
+ (B) a summary of all information that was included in reports submitted
+ under this section.
+SEC. 402. REPORTS ON FOREIGN CONTRIBUTIONS IN RESPONSE TO THE PERSIAN
+GULF CRISIS
+ (a) REPORTS REQUIRED- The Secretary of State and the Secretary of the
+ Treasury shall jointly prepare periodic reports on the contributions made
+ by foreign countries as part of the international response to the Persian
+ Gulf crisis. The Secretaries shall prepare the reports in consultation with
+ the Secretary of Defense and other appropriate Federal Government officials.
+ (b) INFORMATION TO BE PROVIDED- Each report required by this section
+ shall include the following information for each foreign country making
+ contributions as part of the international response to the Persian Gulf
+ crisis:
+ (1) PARTICIPATION IN THE INTERNATIONAL MILITARY COALITION- In the case of each
+ foreign country whose armed forces are participating in the international
+ military coalition confronting Iraq, a description of the forces committed
+ in terms of personnel, units, and equipment deployed, and  any information
+ available regarding the aggregate amount of the incremental costs associated
+ with such country's participation.
+ (2) CONTRIBUTIONS TO THOSE COUNTRIES SIGNIFICANTLY AFFECTED BY THE PERSIAN
+ GULF CRISIS- Any information available on--
+ (A) any additional special assistance (financial, in-kind, or host-country
+ support) pledged as a contribution to each of those countries significantly
+ affected by the Persian Gulf crisis; and
+ (B) the value and a description of the types of such assistance received
+ by each such country.
+The information provided pursuant to this paragraph shall include information
+on such assistance as reported to the Gulf Crisis Financial Coordination Group.
+ (3) CONTRIBUTIONS TO OTHER MILITARY FORCES- The value and nature of any
+ assistance (financial, in-kind, or host-country support) made to each
+ foreign country referred to in paragraph (1), other than the United States,
+ to defray costs of military operations conducted by the armed forces of
+ such foreign country in connection with Operation Desert Storm.
+ (4) CONTRIBUTIONS TO INTERNATIONAL ORGANIZATIONS- Any information available
+ on the value and nature of contributions pledged--
+ (A) to any United Nations organization,
+ (B) to the International Committee of the Red Cross, and
+ (C) to the extent the Secretary of State considers appropriate, to other
+ international or nongovernmental organizations,
+for the purpose of dealing with consequences of the Persian Gulf crisis
+(including contributions for such purposes as furnishing humanitarian
+assistance for displaced persons or furnishing assistance for responding to
+oil spills), and the value and nature of such contributions received by each
+such organization.
+ (5) OTHER FORMS OF CONTRIBUTIONS- A description of international agreements
+ entered into by the United States as a result of the Persian Gulf crisis, and
+ a description of prepositioning rights, base or other military facilities
+ access rights, or air transit rights granted to the United States as a
+ result of the Persian Gulf crisis.
+ (6) CONTRIBUTIONS TO OTHER FOREIGN COUNTRIES- Any information available on
+ the types of any additional assistance (financial, in-kind, or host-country
+ support) pledged and received as a contribution to other foreign countries
+ as a result of the Persian Gulf crisis.
+ (7) CUMULATIVE TOTALS- Each report submitted pursuant to subsection (c)
+ shall include cumulative totals for, and any information available on
+ the aggregate value of, the contributions that have been pledged, and the
+ contributions that have been paid or otherwise delivered, by each foreign
+ country as of the end of the calendar quarter covered by that report.
+ (c) SUBMISSION OF REPORTS-
+ (1) TIME FOR SUBMISSION, PERIOD COVERED- (A) A report prepared pursuant to
+ subsection (a) shall be submitted to the Congress not later than 30 days
+ after the date of the enactment of this Act with respect to the contributions
+ pledged and the contributions paid or otherwise delivered during the period
+ beginning on August 1, 1990, and ending on December 31, 1990.
+ (B) A report prepared pursuant to subsection (a) shall be submitted to the
+ Congress not later than 30 days after the date of the enactment of this
+ Act with respect to the contributions pledged and the contributions paid
+ or otherwise delivered during the period beginning on January 1, 1991,
+ and ending on March 31, 1991.
+ (C) Subsequent reports prepared pursuant to subsection (a) shall be
+ submitted to the Congress not later than the 15th day after the end of each
+ calendar quarter in 1991 with respect to the contributions pledged and the
+ contributions paid or otherwise delivered during that calendar quarter.
+ (D) A final report shall be submitted to the Congress not later than November
+ 15, 1992, and shall contain a summary of all information relating to the
+ contributions pledged and the contributions paid or otherwise delivered
+ that was included in reports submitted under this paragraph.
+ (d) DEFINITIONS- In this section:
+ (1) The term `countries significantly affected by the Persian Gulf crisis'
+ means Egypt, Jordan, Turkey, and Israel, and any other country whose economy
+ the President determines is significantly affected by the Persian Gulf crisis.
+ (2) The term `Persian Gulf crisis' means the military conflict, the United
+ Nations Security Council embargo against Iraq, and other consequences
+ associated with Iraq's invasion and occupation of Kuwait and its failure
+ to comply with the resolutions of the Security Council.
+ (3) The term `Gulf Crisis Financial Coordination Group' means the organization
+ established by the President on September 25, 1990 for coordinating economic
+ assistance in response to the Persian Gulf crisis.
+SEC. 403. FORM OF REPORTS
+ The reports required to be submitted to the Congress pursuant to this
+ title shall be submitted in unclassified form to the extent practicable,
+ with a classified annex if necessary.
+TITLE V--REPORT ON THE CONDUCT OF THE PERSIAN GULF CONFLICT
+SEC. 501. DEPARTMENT OF DEFENSE REPORT ON THE CONDUCT OF THE PERSIAN GULF
+CONFLICT
+ (a) REPORT REQUIRED- Not later than January 15, 1992, the Secretary of Defense
+ shall submit to the congressional defense committees a report on the conduct
+ of the hostilities in the Persian Gulf theater of operations. The Secretary
+ shall submit to such committees a preliminary report on the conduct of those
+ hostilities not later than July 1, 1991. The report (including the preliminary
+ report) shall be prepared in consultation with the Chairman of the Joint
+ Chiefs of Staff and the Commander in Chief, United States Central Command.
+ (b) DISCUSSION OF ACCOMPLISHMENTS AND SHORTCOMINGS- The report (and the
+ preliminary report, to the extent feasible) shall contain a discussion,
+ with a particular emphasis on accomplishments and shortcomings, of the
+ following matters:
+ (1) The military objectives of the multinational coalition.
+ (2) The military strategy of the multinational coalition to achieve those
+ military objectives and how the military strategy contributed to the
+ achievement of those objectives.
+ (3) The deployment of United States forces and the transportation of supplies
+ to the theater of operations, including an assessment of airlift, sealift,
+ afloat prepositioning ships, and Maritime Prepositioning Squadron ships.
+ (4) The conduct of military operations.
+ (5) The use of special operations forces, including operational and
+ intelligence uses classified under special access procedures.
+ (6) The employment and performance of United States military equipment,
+ weapon systems, and munitions (including items classified under special
+ access procedures) and an analysis of--
+ (A) any equipment or capabilities that were in research and development
+ and if available could have been used in the theater of operations; and
+ (B) any equipment or capabilities that were available and could have been
+ used but were not introduced into the theater of operations.
+ (7) The scope of logistics support, including support from other nations, with
+ particular emphasis on medical support provided in the theater of operations.
+ (8) The acquisition policy actions taken to support the forces in the
+ theater of operations.
+ (9) The personnel management actions taken to support the forces in the
+ theater of operations.
+ (10) The role of women in the theater of operations.
+ (11) The effectiveness of reserve component forces, including a discussion
+ of each of the following matters:
+ (A) The readiness and activation of such forces.
+ (B) The decisionmaking process regarding both activation of reserve component
+ forces and deployment of those forces to the theater of operations.
+ (C) The post-activation training received by such forces.
+ (D) The integration of forces and equipment of reserve component forces
+ into the active component forces.
+ (E) The use and performance of the reserve component forces in operations
+ in the theater of operations.
+ (F) The use and performance of such forces at duty stations outside the
+ theater of operations.
+ (12) The role of the law of armed conflict in the planning and execution
+ of military operations by United States forces and the other coalition
+ forces and the effects on operations of Iraqi compliance or noncompliance
+ with the law of armed conflict, including a discussion regarding each of
+ the following matters:
+ (A) Taking of hostages.
+ (B) Treatment of civilians in occupied territory.
+ (C) Collateral damage and civilian casualties.
+ (D) Treatment of prisoners of war.
+ (E) Repatriation of prisoners of war.
+ (F) Use of ruses and acts of perfidy.
+ (G) War crimes.
+ (H) Environmental terrorism.
+ (I) Conduct of neutral nations.
+ (13) The actions taken by the coalition forces in anticipation of, and in
+ response to, Iraqi acts of environmental terrorism.
+ (14) The contributions of United States and coalition intelligence and
+ counterintelligence systems and personnel, including contributions regarding
+ bomb damage assessments and particularly including United States tactical
+ intelligence and related activities (TIARA) programs.
+ (15) Command, control, communications, and operational security of the
+ coalition forces as a whole, and command, control, communications, and
+ operational security of the United States forces.
+ (16) The rules of engagement for the coalition forces.
+ (17) The actions taken to reduce the casualties among coalition forces
+ caused by the fire of such forces.
+ (18) The role of supporting combatant commands and Defense Agencies of the
+ Department of Defense.
+ (19) The policies and procedures relating to the media, including the use
+ of media pools.
+ (20) The assignment of roles and missions to the United States forces and
+ other coalition forces and the performance of those forces in carrying out
+ their assigned roles and missions.
+ (21) The preparedness, including doctrine and training, of the United
+ States forces.
+ (22) The acquisition of foreign military technology from Iraq, and any
+ compromise of military technology of the United States or other countries
+ in the multinational coalition.
+ (23) The problems posed by Iraqi possession and use of equipment produced
+ in the United States and other coalition nations.
+ (24) The use of deception by Iraqi forces and by coalition forces.
+ (25) The military criteria used to determine when to progress from one phase
+ of military operations to another phase of military operations, including
+ transition from air superiority operations to operations focused on degrading
+ Iraqi forces, transition to large-scale ground offensive operations, and
+ transition to cessation of hostilities.
+ (26) The effects on the conduct of United States military operations
+ resulting from the implementation of the Goldwater-Nichols Department of
+ Defense Reorganization Act of 1986.
+ (c) CASUALTY STATISTICS- The report (and the preliminary report, to
+ the extent feasible) shall also contain (1) the number of military and
+ civilian casualties sustained by coalition nations, and (2) estimates of
+ such casualties sustained by Iraq and by nations not directly participating
+ in the hostilities in the Persian Gulf area during the Persian Gulf Conflict.
+ (d) CLASSIFICATION OF REPORTS- The Secretary of Defense shall submit
+ both the report and the preliminary report in a classified form and an
+ unclassified form.
+TITLE VI--GENERAL PROVISIONS
+SEC. 601. CHILD CARE ASSISTANCE
+ (a) IN GENERAL- The Secretary of Defense may provide assistance for families
+ of members of the Armed Forces serving on active duty during the Persian
+ Gulf conflict in order to ensure that the children of such families obtain
+ needed child care services. The assistance authorized by this section
+ should be directed primarily toward providing needed child care services
+ for children of such personnel who are serving in the Persian Gulf area or
+ who have been otherwise deployed, assigned, or ordered to active duty in
+ connection with Operation Desert Storm.
+ (b) AUTHORIZATION OF APPROPRIATIONS- Of the amounts authorized to be
+ appropriated from the Defense Cooperation Account for fiscal year 1991 under
+ section 101(a), $20,000,000 shall be available to carry out the provisions
+ of this section. The costs of carrying out such provisions are incremental
+ costs associated with Operation Desert Storm.
+ (c) SUPPLEMENTATION OF OTHER PUBLIC FUNDS- Funds appropriated pursuant to
+ subsection (b) that are made available to carry out this section may be used
+ only to supplement, and not to supplant, the amount of any other Federal,
+ State, or local government funds otherwise expended or authorized for the
+ support of child care programs for members of the Armed Forces.
+SEC. 602. FAMILY EDUCATION AND SUPPORT SERVICES
+ (a) IN GENERAL- The Secretary of Defense may provide assistance in accordance
+ with this section to families of members of the Armed Forces serving on
+ active duty in order to ensure that those families receive educational
+ assistance and family support services necessary to meet needs arising out
+ of Operation Desert Storm.
+ (b) TYPES OF ASSISTANCE- The assistance authorized by this section may be
+ provided to families directly or through the awarding of grants, contracts, or
+ other forms of financial assistance to appropriate private or public entities.
+ (c) GEOGRAPHIC AREAS ASSISTED- (1) Such assistance shall be provided
+ primarily in geographic areas--
+ (A) in which a substantial number of members of the active components of the
+ Armed Forces of the United States are permanently assigned and from which a
+ significant number of such members are being deployed, or have been deployed,
+ in connection with Operation Desert Storm; or
+ (B) from which a significant number of members of the reserve components of
+ the Armed Forces ordered to, or retained on, active duty pursuant to section
+ 672(a), 672(d), 673, 673b, or 688 of title 10, United States Code, are being
+ deployed, or have been deployed, in connection with Operation Desert Storm.
+ (2) The Secretary of Defense shall determine which areas meet the criteria
+ set out in paragraph (1).
+ (d) EDUCATIONAL ASSISTANCE- Educational assistance authorized by this
+ section may be used for the furnishing of one or more of the following
+ forms of assistance:
+ (1) Individual or group counseling for children and other members of the
+ families of members of the Armed Forces of the United States who have been
+ deployed in connection with, or are casualties of, Operation Desert Storm.
+ (2) Training and technical assistance to better prepare teachers and other
+ school employees to address questions and concerns of children of such
+ members of the Armed Forces.
+ (3) Other appropriate programs, services, and information designed to
+ address the special needs of children and other members of the families of
+ members of the Armed Forces referred to in paragraph (1) resulting from the
+ deployment, the return from deployment, or the medical or rehabilitation
+ needs of such members.
+ (e) FAMILY SUPPORT ASSISTANCE- Family support assistance authorized by this
+ section may be used for the following purposes:
+ (1) Family crisis intervention.
+ (2) Family counseling.
+ (3) Family support groups.
+ (4) Expenses for volunteer activities.
+ (5) Respite care.
+ (6) Housing protection and advocacy.
+ (7) Food assistance.
+ (8) Employment assistance.
+ (9) Child care.
+ (10) Benefits eligibility determination services.
+ (11) Transportation assistance.
+ (12) Adult day care for dependent elderly and disabled adults.
+ (13) Temporary housing assistance for immediate family members visiting
+ soldiers wounded during Operation Desert Storm and receiving medical
+ treatment at military hospitals and facilities in the United States.
+ (f) AUTHORIZATION OF APPROPRIATIONS- Of the amounts authorized to be
+ appropriated from the Defense Cooperation Account for fiscal year 1991 under
+ section 101(a), $30,000,000 shall be available to carry out the provisions
+ of this section. The costs of carrying out such provisions are incremental
+ costs of Operation Desert Storm.
+SEC. 603. LAND CONVEYANCE, FORT A.P. HILL MILITARY RESERVATION, VIRGINIA
+ (a) CONVEYANCE AUTHORIZED- Not later than one year after the date of the
+ enactment of this Act, subject to subsections (b) through (g), the Secretary
+ of the Army shall convey, without consideration, to Caroline County, Virginia,
+ or the Commonwealth of Virginia (hereinafter in this section referred to
+ as the `Commonwealth'), as appropriate, all right, title, and interest of
+ the United States in and to a parcel of land located at Fort A.P. Hill,
+ Virginia, and consisting of approximately 150 acres.
+ (b) IDENTIFICATION OF PROPERTY- (1) Not later than 180 days after the date
+ of the enactment of this Act, the Secretary shall, after consultation
+ with appropriate representatives of Caroline County, Virginia, and the
+ Commonwealth, identify the exact size and location of the parcel of land to
+ be conveyed pursuant to this section. The Secretary shall, to the maximum
+ extent practicable, identify a parcel of land that--
+ (A) has soil and topographical conditions suitable for the construction of a
+ low- to mid-rise institutional correctional facility, including recreation,
+ parking, and other necessary support facilities; and
+ (B) is situated within reasonably close proximity to an existing sewer system.
+ (2) The cost of any new or expanded sewer system or utilities shall not be
+ the responsibility of the Department of Defense or Caroline County.
+ (c) CONVEYANCE OF PROPERTY- (1) Except as provided in paragraph (2), the
+ parcel of land conveyed pursuant to this section shall be conveyed to the
+ Commonwealth and shall be subject to the conditions and limitations on its
+ use as provided in Chapter 3, Article 3.1 of Title 53.1, Code of Virginia.
+ (2) The Secretary shall convey the parcel of land to Caroline County,
+ Virginia, instead of the Commonwealth, if, within one year after the date of
+ the enactment of this Act, the Secretary receives the written agreement of the
+ participating political subdivisions of the Commonwealth named in paragraph
+ (3) to take, under the laws of the Commonwealth, the following actions:
+ (A) Establish a governmental entity to construct and operate on such parcel
+ of land a regional correctional facility.
+ (B) Ensure that such governmental entity constructs and operates such
+ facility.
+ (3)(A) In order for the agreement referred to in paragraph (2) to be
+ effective for the purposes of such paragraph, it shall be agreed to by
+ Caroline County, Virginia, and at least three of the following political
+ subdivisions of the Commonwealth:
+ (i) Arlington County.
+ (ii) Fairfax County.
+ (iii) Prince William County.
+ (iv) Stafford County.
+ (v) The City of Alexandria.
+ (B) Subparagraph (A) shall not be construed to prohibit any political
+ subdivision not named in such subparagraph to participate in the written
+ agreement referred to in paragraph (2).
+ (d) USE OF PROPERTY; REVERSION- (1)(A) A conveyance of land to Caroline
+ County, Virginia, pursuant to this section shall be subject to the conditions
+ that--
+ (i) construction of a regional correctional facility pursuant to the agreement
+ referred to in subsection (c)(2) commence not later than 24 months after
+ the date of the enactment of this Act;
+ (ii) such construction be completed and the operation of such facility
+ commence not later than five years after such date; and
+ (iii) such parcel of land be used only for the construction and operation
+ of such facility.
+ (B) If the parcel of land conveyed pursuant to this section is conveyed
+ to Caroline County, Virginia, and the entity established pursuant to the
+ agreement referred to in subsection (c)(2) fails to construct and operate a
+ regional correctional facility in accordance with the conditions set out in
+ subparagraph (A), all right, title, and interest in and to such parcel of land
+ (together with the improvements thereon) shall revert to the United States.
+ (C) In the event of a reversion under subparagraph (B), the Secretary shall
+ promptly convey all right, title, and interest of the United States in the
+ parcel of land referred to in such subparagraph to the Commonwealth, subject
+ to the applicable provisions of paragraph (2) and subsections (e) through (g).
+ (2)(A) A conveyance of a parcel of land to the Commonwealth pursuant to
+ this section, shall be subject to the conditions that--
+ (i) an entity be established under the laws of the Commonwealth for the
+ construction and operation of a regional correctional facility on such
+ parcel of land;
+ (ii) construction of such facility on such parcel of land be completed and
+ the operation of such facility commence not later than seven years after
+ the date of the enactment of this Act;
+ (iii) such parcel of land be used only for the purpose of construction and
+ operation of such facility;
+ (iv) Arlington County, Fairfax County, the City of Alexandria, Prince
+ William County, Stafford County, and Caroline County, Virginia, be offered
+ the opportunity for participation in such entity; and
+ (v) no fee be charged by the Commonwealth for the conveyance to, lease by,
+ or use of such parcel of land by such entity.
+ (B) If the parcel of land to be conveyed pursuant to this section is conveyed
+ to the Commonwealth and the conditions referred to in subparagraph (A)
+ are not complied with (as determined by the Secretary), all right, title,
+ and interest in and to such land (together with the improvements thereon)
+ shall revert to the United States and the United States shall have the
+ right of immediate entry thereon.
+ (e) PROHIBITION ON HOUSING CERTAIN PRISONERS- Except when agreed to in
+ writing by an appropriate representative of Caroline County, Virginia,
+ the regional correctional facility constructed and operated in accordance
+ with this section--
+ (1) shall have a maximum capacity of not more than 2,400 inmates; and
+ (2) may not be used to house Federal prisoners or prisoners convicted by,
+ sentenced by, or awaiting trial in the courts of the District of Columbia.
+ (f) TIME LIMITATION- The period of any litigation relating to the conveyance
+ or improvement of land under this section shall not be included in a
+ determination of the period for conveyance or improvement, or for the
+ reverter of or right of re-entry onto such land.
+ (g) ADDITIONAL TERMS AND CONDITIONS- The Secretary may require such
+ additional terms and conditions in connection with the conveyance pursuant
+ to this section as the Secretary, in his sole discretion, shall determine
+ appropriate to protect the interests of the United States.
+ (h) REPEAL- Section 2839 of the Military Construction Authorization Act
+ for Fiscal Year 1991 (division B of Public Law 101-510; 104 Stat. 1801)
+ is repealed.
+SEC. 604. GRASSROOTS EFFORTS TO SUPPORT OUR TROOPS
+ (a) FINDINGS- The Congress finds the following:
+ (1) Over 400,000 American servicemen and women risked their lives in defending
+ the interests and principles of the United States in the Persian Gulf region.
+ (2) These American servicemen and women performed with remarkable success
+ against Iraq and its military-industrial complex.
+ (3) All Americans should take great pride in the manner in which our brave
+ servicemen and women represented our Nation in the Persian Gulf region.
+ (4) All Americans eagerly await the safe return of our courageous sons and
+ daughters who served in the Persian Gulf region.
+ (b) GRASSROOTS SUPPORT- The Congress--
+ (1) supports and endorses national, State, and local grassroots efforts
+ to support our servicemen and women who participated in Operation Desert
+ Storm and their families here at home;
+ (2) encourages Federal agencies (in accordance with applicable law), State
+ and local governments, and private businesses and industry to organize task
+ forces intended to provide support for the families of servicemen and women
+ deployed in the Persian Gulf region and to organize celebrations for the
+ servicemen and women upon their arrival home; and
+ (3) encourages those grassroots government, business, and industry efforts
+ to include Vietnam Veteran organizations in all activities conducted for
+ the benefit of the troops returning home from Operation Desert Storm.
+SEC. 605. EXTENSION OF TIME FOR FILING FOR PERSONS SERVING IN COMBAT ZONE
+ (a) IN GENERAL- Section 101(g) of the Ethics in Government Act of 1978
+ is amended--
+ (1) by inserting `(1)' after `(g)'; and
+ (2) by adding at the end the following:
+ `(2)(A) In the case of an individual who is serving in the Armed Forces,
+ or serving in support of the Armed Forces, in an area while that area
+ is designated by the President by Executive order as a combat zone for
+ purposes of section 112 of the Internal Revenue Code of  1986, the date
+ for the filing of any report shall be extended so that the date is 180 days
+ after the later of--
+ `(i) the last day of the individual's service in such area during such
+ designated period; or
+ `(ii) the last day of the individual's hospitalization as a result of injury
+ received or disease contracted while serving in such area.
+ `(B) The Office of Government Ethics, in consultation with the Secretary
+ of Defense, may prescribe procedures under this paragraph.'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall apply with
+ respect to reports required to be filed after January 17, 1991.
+SEC. 606. SENSE OF CONGRESS CONCERNING BUSINESSES SEEKING TO PARTICIPATE IN
+THE REBUILDING OF KUWAIT
+ (a) FINDINGS- The Congress finds as follows:
+ (1) The Armed Forces of the United States, together with allied forces,
+ have successfully liberated Kuwait and have restored the independence of
+ that nation.
+ (2) During the occupation of Kuwait by Iraq, much damage was done to
+ the infrastructure, environment, and industrial capacity of Kuwait, and
+ rebuilding of Kuwait is desperately needed.
+ (3) The principal test of a nation's commitment to the liberation of Kuwait
+ in the Persian Gulf conflict was its willingness to provide military forces
+ for the liberation of Kuwait.
+ (4) United States firms, including small and minority-owned businesses, have
+ expressed a significant interest in participating in the rebuilding of Kuwait.
+ (5) Small and minority-owned businesses face inherent difficulties in
+ competing in foreign markets and in obtaining a share of contracts from
+ foreign governments, particularly those contracts that are performed in
+ distant parts of the world.
+ (b) SENSE OF CONGRESS CONCERNING SOURCE SELECTION FOR KUWAIT CONTRACTS-
+ It is the sense of Congress that the Army Corps of Engineers and other
+ Federal agencies should award contracts for the rebuilding of Kuwait, and,
+ in recommending business firms to the Government of Kuwait for the award
+ by it of such contracts, should encourage the Government of Kuwait to award
+ such contracts, in accordance with the following priority:
+ (1) First, to United States firms, including small and minority-owned
+ businesses, that are committed to employing United States workers under
+ the contract.
+ (2) Second, to other United States firms.
+ (3) Then, to firms from allied nations that committed military forces to
+ the liberation of Kuwait during the Persian Gulf conflict.
+ (c) SENSE OF CONGRESS CONCERNING SELECTION OF SUBCONTRACTORS FOR KUWAIT
+ CONTRACTS- It is the sense of Congress that, when making recommendations to
+ any contractor awarded a contract referred to in subsection (b) concerning
+ the selection of firms for subcontracts under such contract, the Army Corps
+ of Engineers shall encourage the contractor to select a firm or firms for
+ the subcontract in accordance with the priority set out in subsection (b).
+ (d) SENSE OF CONGRESS CONCERNING EMPLOYEES UNDER KUWAIT REBUILDING CONTRACTS-
+ It is the sense of Congress that any United States firm that receives a
+ contract pertaining to the rebuilding of Kuwait--
+ (1) should employ United States citizens to carry out the contract; and
+ (2) should provide a preference to veterans of the Armed Forces in hiring
+ for work on the contract.
+ (e) SENSE OF CONGRESS CONCERNING SMALL AND MINORITY-OWNED BUSINESS
+ PARTICIPATION IN KUWAIT REBUILDING CONTRACTS- It is the sense of Congress
+ that--
+ (1) the President, acting through the appropriate Government agencies
+ (including particularly the agencies that will be engaged in source selections
+ or source recommendations as described in subsection (b)), should take steps
+ to provide assistance to United States small and minority-owned businesses
+ seeking to be awarded contracts as part of the rebuilding of Kuwait;
+ (2) the Administrator of the Small Business Administration and other
+ appropriate Federal officials should conduct a public information campaign
+ to advise small and minority-owned business firms with respect to contracts
+ for the rebuilding of Kuwait; and
+ (3) United States firms that are awarded contracts pertaining to the
+ rebuilding of Kuwait should, to the maximum extent practicable, seek to award
+ subcontracts for such contracts to United States small and minority-owned
+ business firms.
+ (f) PROGRESS REPORTS- (1) The President shall submit to Congress a report
+ every four months with respect to contracting for the rebuilding of
+ Kuwait. Each such report shall show, as of the submission of the report,
+ the country of origin of all business firms awarded Kuwait rebuilding
+ contracts by the Corps of Engineers and other Federal agencies and the
+ country of origin of all business firms awarded subcontracts under such
+ contracts and the other information specified in paragraphs (2) and (3).
+ (2) The President shall include in each such report the same information
+ (to the extent reasonably available) with regard to all business firms
+ awarded Kuwait rebuilding contracts by the Government of Kuwait and all
+ business firms that are subcontractors under those contracts. The President
+ shall request the Government of Kuwait to provide to the United States,
+ on an ongoing basis, information with respect to the country of origin of
+ business firms to which it awards rebuilding contracts, the country of origin
+ of firms awarded subcontracts under those contracts, and the information
+ with respect to those contracts and subcontracts described in paragraph (3).
+ (3)(A) Information in reports under paragraph (1) shall be shown by the
+ number of firms from each such country and by the dollar value of contracts
+ and subcontracts awarded to firms from each such country.
+ (B) Each such report shall also show (to the extent reasonably available)
+ the number and percentage of contractors that are small businesses, and the
+ number and percentage that are minority-owned businesses, among the total
+ number of contracts awarded to United States. Each such report shall also show
+ (to the extent reasonably available), with respect to each contract awarded
+ to a United States firm, the number and percentage of persons employed (or
+ expected to be employed) under the contract who are United States citizens,
+ the number and percentage of all persons so employed (or expected to be so
+ employed) who are United States citizens and are veterans, and the number of
+ subcontractors under the contract that are small businesses and the number
+ that are minority-owned businesses.
+ (4) The first report under paragraph (1) shall be submitted not later than
+ two months after the date of the enactment of this Act. The last such report
+ shall be submitted 36 months after the first report.
+SEC. 607. SENSE OF CONGRESS REGARDING USE OF UNITED STATES FUNDS FOR
+REBUILDING IRAQ
+ It is the sense of Congress that none of the funds appropriated or otherwise
+ made available by any provision of law may be obligated or expended,
+ directly or indirectly, for the purpose of rebuilding Iraq while Saddam
+ Hussein remains in power in Iraq.
+SEC. 608. WITHHOLDING OF PAYMENTS TO INDIRECT-HIRE CIVILIAN PERSONNEL OF
+NONPAYING PLEDGING NATIONS
+ (a) GENERAL RULE- Effective as of the end of the six-month period beginning
+ on the date of the enactment of this Act, the Secretary of Defense shall
+ withhold payments to any nonpaying pledging nation that would otherwise be
+ paid as reimbursements for expenses of indirect-hire civilian personnel of
+ the Department of Defense in that nation.
+ (b) NONPAYING PLEDGING NATION DEFINED- For purposes of this section, the
+ term `nonpaying pledging nation' means a foreign nation that has pledged
+ to the United States that it will make contributions to assist the United
+ States in defraying the incremental costs of Operation Desert Shield and
+ which has not paid to the United States the full amount so pledged.
+ (c) RELEASE OF WITHHELD AMOUNTS- When a nation affected by subsection (a) has
+ paid to the United States the full amount pledged, the Secretary of Defense
+ shall release the amounts withheld from payment pursuant to subsection (a).
+ (d) WAIVER AUTHORITY- The Secretary of Defense may waive the requirement in
+ subsection (a) upon certification to Congress that the waiver is required
+ in the national security interests of the United States.
+SEC. 609. RELIEF FROM REQUIREMENTS FOR REDUCTIONS IN DEFENSE ACQUISITION
+WORKFORCE DURING FISCAL YEAR 1991
+ (a) The Secretary of Defense, in allocating to various installations and
+ facilities the defense acquisition workforce reductions required for fiscal
+ year 1991, should use the considerable flexibility concerning the manner in
+ which those reductions are to be made that was provided to the Secretary
+ by section 905 of the National Defense Authorization Act for Fiscal Year
+ 1991 (Public Law 101-510; 104 Stat. 1621) in order to respond properly
+ and efficiently to the influx of work expected to come into the defense
+ acquisition system resulting from Operation Desert Storm.
+ (b) The Secretary should allocate those reductions for fiscal year 1991
+ in a manner that ensures that any Department of Defense installation or
+ facility that will experience a significant increase in workload during
+ fiscal year 1991 (compared to its workload during fiscal year 1990) as
+ a direct result of activities undertaken in support of Operation Desert
+ Storm is not required to make defense acquisition workforce reductions
+ during fiscal year 1991 that would adversely affect the ability of that
+ installation or facility to perform its mission.
+ (c) For purposes of this section, the term `defense acquisition workforce
+ reductions' means the reductions in the defense acquisition workforce required
+ by section 905 of the National Defense Authorization Act for Fiscal Year 1991
+ (Public Law 101-510; 104 Stat. 1621).
+TITLE VII--MISCELLANEOUS TECHNICAL AMENDMENTS
+SEC. 701. AMENDMENTS TO TITLE 10, UNITED STATES CODE
+ (a) CLARIFICATION OF WAIVER AUTHORITY- Section 2331(c)(1) of title 10,
+ United States Code, as added by section 834(a) of Public Law 101-510 (104
+ Stat. 1613), is amended--
+ (1) by striking out `on a case-by-case basis';
+ (2) by striking out `considers necessary the use of master agreements'
+ and inserting in lieu thereof `considers the use of master agreements
+ necessary'; and
+ (3) by striking out `of this section' before the period at the end.
+ (b) CLARIFICATION OF TRUTH-IN-NEGOTIATION ACT AMENDMENTS- Section 2306a(a)(1)
+ of title 10, United States Code, as amended by section 803(a) of Public
+ Law 101-510 (104 Stat. 1589), is amended--
+ (1) in subparagraph (B), by striking out `$500,000' and all that follows
+ through `$100,000' and inserting in lieu thereof `the dollar amount applicable
+ under subparagraph (A) to that contract';
+ (2) in subparagraph (C)(i), by striking out `$500,000' and all that follows
+ through `$100,000' and inserting in lieu thereof `the dollar amount applicable
+ under subparagraph (A) to the prime contract of that subcontract'; and
+ (3) in subparagraph (D), by striking out `$500,000' and all that follows
+ through `$100,000' and inserting in lieu thereof `the dollar amount applicable
+ under subparagraph (A) to the prime contract of that subcontract'.
+ (c) CLARIFICATION OF IR&D AMENDMENTS- Section 2372(d)(2)(B) of title 10,
+ United States Code, as added by section 824(a)(1) of Public Law 101-510
+ (104 Stat. 1603), is amended by striking out `or' after `subsection (b)'
+ and inserting in lieu thereof `, including'.
+ (d) DEFINITION OF SMALL PURCHASE THRESHOLD- Title 10, United States Code,
+ is amended as follows:
+ (1) Section 2302 is amended by adding at the end the following new paragraph:
+ `(7) The term `small purchase threshold' has the meaning given that term
+ in section 4(11) of the Office of Federal Procurement Policy Act (41
+ U.S.C. 403(11)).'.
+ (2) Section 2304 is amended--
+ (A) in subsection (g)--
+ (i) by striking out `chapter' in paragraph (2) and inserting in lieu thereof
+ `subsection'; and
+ (ii) by striking out paragraph (5), as added by section 806(b)(3) of Public
+ Law 101-510; and
+ (B) in subsection (j)(3)(A), by striking out `$25,000' and inserting in
+ lieu thereof `the small purchase threshold'.
+ (3) Section 2306(e)(2)(A) is amended by striking out `the small purchase
+ amount under section 2304(g) of this title' and inserting in lieu thereof
+ `the small purchase threshold'.
+ (4) Section 2307(d)(3) is amended by striking out `contracts for amounts less
+ than the maximum amount for small purchases specified in section 2304(g)(2)
+ of this title' and inserting in lieu thereof `any contract for an amount
+ not in excess of the amount of the small purchase threshold'.
+ (5) Section 2326(g)(1)(B) is amended by striking out `of less than $25,000'
+ and inserting in lieu thereof `in an amount not in excess of the amount of
+ the small purchase threshold'.
+ (6) Section 2397(a)(1) is amended--
+ (A) by striking out `awarded'; and
+ (B) by striking out `involves at least $25,000' and inserting in lieu
+ thereof `is in an amount in excess of the small purchase threshold (as
+ defined in section 2302(7) of this title), as in effect at the time that
+ contract is awarded'.
+ (e) TABLES OF CHAPTERS AND SECTIONS- Title 10, United States Code, is
+ amended as follows:
+ (1) The tables of chapters at the beginning of subtitle A, and at the
+ beginning of part II of subtitle A, are amended by inserting after the item
+ relating to chapter 83 the following new item:
+1621'.
+ (2) The items relating to chapter 108 in the tables of chapters at the
+ beginning of subtitle A, and at the beginning of part III of subtitle A,
+ are amended to read as follows:
+2161'.
+ (3) The table of sections at the beginning of chapter 39 is amended by
+ transferring the item relating to section 687, as added by section 559(a)(2)
+ of Public Law 101-510 (104 Stat. 1571), to appear after the item relating
+ to section 689 and redesignating that item so as to relate to section 690.
+ (4) The item relating to section 1584 in the table of sections at the
+ beginning of chapter 81 is amended to read as follows:
+`1584. Employment of non-citizens.'.
+ (5) The table of sections at the beginning of chapter 139 is amended by
+ inserting a period at the end of the item relating to section 2366.
+ (6) The item relating to section 2706 in the table of sections at the
+ beginning of chapter 160 is amended to read as follows:
+`2706. Annual reports to Congress.'.
+ (7) The item relating to section 6082 in the table of sections at the
+ beginning of chapter 557 is amended to read as follows:
+`6082. Rations.'.
+ (8)(A) The headings of sections 1053 and 1594 are amended by striking out
+ `mandatory'.
+ (B) The item relating to section 1053 in the table of sections at the
+ beginning of chapter 53, and the item relating to section 1594 in the table
+ of sections at the beginning of chapter 81, are amended by striking out
+ `mandatory'.
+ (f) CROSS-REFERENCE CORRECTIONS- Title 10, United States Code, is amended
+ as follows:
+ (1) Section 2318(c) is amended by striking out `section 21' and inserting
+ in lieu thereof `section 23'.
+ (2) Section 2344(c) is amended by striking out `chapter' and inserting in
+ lieu thereof `subchapter'.
+ (3) Paragraph (5) of section 2432(c), as added by section 1407(c) of Public
+ Law 101-510 (104 Stat. 1681), is amended by striking out `section 2432(a)'
+ and all that follows through `subsection (a)(2),' and inserting in lieu
+ thereof `subsection (a)'.
+ (4) Section 2503(3) is amended by striking out `as defined in section 4(4) of
+ the Office of Federal Procurement Policy Act' and inserting in lieu thereof
+ `issued pursuant to section 25(c)(1) of the Office of Federal Procurement
+ Policy Act (41 U.S.C. 421(c)(1))'.
+ (5) Section 4343 is amended by striking out `clauses (2)-(9)' and inserting
+ in lieu thereof `clauses (2) through (8)'.
+ (6) Section 2132(d) is amended by striking out `section 115(b)(1)(A)(ii)'
+ and inserting in lieu thereof `section 115(a)(1)(B)'.
+ (7) Section 2414(b) is amended by striking out `section 2411(a)(1)(D)'
+ and inserting in lieu thereof `section 2411(1)(D)'.
+ (8) Section 2306a(e)(1)(A)(i) is amended by striking out `Internal Revenue
+ Code of 1954' and inserting in lieu thereof `Internal Revenue Code of 1986'.
+ (g) U.S.C. REFERENCES- Title 10, United States Code, is amended as follows:
+ (1) Section 2368(a) is amended by inserting `(42 U.S.C. 6683)' before the
+ period at the end.
+ (2) Sections 2394a(c)(2) and 2857(c)(2) are amended by inserting `(42
+ U.S.C. 8254(a))' after `section 544(a) of the National Energy Conservation
+ Policy Act'.
+ (3) Section 2508(a)(2) is amended by inserting `(42 U.S.C. 6681 et
+ seq.)' before the period at the end.
+ (h) DATE OF ENACTMENT REFERENCES- Title 10, United States Code, is amended
+ as follows:
+ (1) Section 1595(c) is amended by striking out `after the end of the 90-day
+ period beginning on the date of the enactment of this section' and inserting
+ in lieu thereof `after February 27, 1990'.
+ (2) Section 2903(d)(2) is amended by striking out `two years after the date
+ of the enactment of the National Defense Authorization Act for Fiscal Year
+ 1991' and inserting in lieu thereof `on November 5, 1992'.
+ (i) DEFINITIONS- Title 10, United States Code, is amended as follows:
+ (1) Section 645 is amended--
+ (A) by inserting `The term' in paragraphs (1), (2), and (3) after the
+ paragraph designation; and
+ (B) by revising the first word after the open quotation marks in each of
+ such paragraphs so that the initial letter of such word is lower case.
+ (2) Section 2196, as added by section 247(a) of Public Law 101-510 (104
+ Stat. 1523), is amended by inserting `the term' after `In this chapter,'.
+ (j) OTHER AMENDMENTS-
+ (1) Section 1721(c) of title 10, United States Code, as added by section
+ 1202 of the Defense Acquisition Workforce Improvement Act (title XII of
+ Public Law 101-510), is amended by striking out `Activities,' dated' in
+ the last sentence and inserting in lieu thereof `Activities', dated'.
+ (2)(A) Subsection (f) of section 2307 of title 10, United States Code,
+ as added by section 836(a) of Public Law 101-510 (104 Stat. 1615), is
+ redesignated as subsection (e).
+ (B) Section 836(c) of Public Law 101-510 (104 Stat. 1616) is amended to
+ read as follows:
+ `(c) EFFECTIVE DATE- The provisions of section 2307 of title 10, United
+ States Code, that are added by the amendments made by subsections (a) and (b)
+ shall apply with respect to contracts entered into on or after May 6, 1991.'.
+ (3) Section 2391(b)(3) of title 10, United States Code, as added by section
+ 4102(b)(3) of Public Law 101-510 (104 Stat. 1851), is amended--
+ (A) by striking out `publicly-announced' and inserting in lieu thereof
+ `publicly announced'; and
+ (B) by inserting a comma after `only if the reduction'.
+ (4) Section 2409a(c) of title 10, United States Code, as added by section
+ 837(a) of Public Law 101-510 (104 Stat. 1616), is amended--
+ (A) by aligning that part of paragraph (5) preceding subparagraph (A)
+ so as to be indented two ems;
+ (B) by aligning subparagraphs (A), (B), and (C) of paragraph (5) so as to
+ be indented four ems; and
+ (C) by aligning paragraph (6) so as to be indented two ems.
+ (5) Section 2411(1)(D) of title 10, United States Code, is amended by
+ striking out `for-profit and nonprofit' and inserting in lieu thereof
+ `for profit purposes or nonprofit'.
+ (6) Sections 3446 and 8446 of title 10, United States Code, are amended by
+ striking out `as' before `provided by law'.
+ (7) Section 6223(b) of title 10, United States Code, is amended by striking
+ out `MARINE CORPS BANDS' and inserting in lieu thereof `THE UNITED STATES
+ MARINE CORPS BAND'.
+ (8) Section 1095(a)(1) of title 10, United States Code, is amended by
+ inserting `a' before `covered beneficiary'.
+ (9) Section 2822(b) of title 10, United States Code, is amended by realigning
+ paragraph (4) so as to be indented two ems.
+ (10) Section 2704(f) of title 10, United States Code, is amended by striking
+ out `Agency of Toxic' and inserting in lieu thereof `Agency for Toxic'.
+ (k) EFFECTIVE DATE CLARIFICATION-
+ (1) Section 2409 of title 10, United States Code, is amended by adding at
+ the end the following new subsection:
+ `(d) EFFECTIVE DATE- This section shall not be in effect during the period
+ when section 2409a of this title is in effect.'.
+ (2) Section 2409a of such title, as added by section 837(a) of Public Law
+ 101-510 (104 Stat. 1616), is amended by adding at the end the following
+ new subsection:
+ `(f) EXPIRATION OF SECTION- This section shall cease to be in effect on
+ November 5, 1994.'.
+ (3) Section 837(b) of Public Law 101-510 (104 Stat. 1619) is amended by
+ striking out the second sentence.
+SEC. 702. AMENDMENTS TO TITLE 37, UNITED STATES CODE
+ (a) TABLES OF SECTIONS- Title 37, United States Code, is amended as follows:
+ (1) The item relating to section 301d in the table of sections at the
+ beginning of chapter 5 is amended by striking out `Retention' and inserting
+ in lieu thereof `Multiyear retention'.
+ (2)(A) The heading of section 302c is amended to read as follows:
+`Sec. 302c. Special pay: psychologists and nonphysician health care providers'.
+ (B) The heading of section 302e is amended to read as follows:
+`Sec. 302e. Special pay: nurse anesthetists'.
+ (b) STYLISTIC AMENDMENTS- Title 37, United States Code, is amended--
+ (1) by striking out `of this section' each place it appears (other than as
+ provided in subsection (c));
+ (2) by striking out `of this subsection' each place it appears (other than
+ in sections 305a(d)(3), 431(a), and 501(f));
+ (3) by striking out `of this paragraph' each place it appears (other than
+ in section 301(c)(2)(B)); and
+ (4) by striking out `of this subparagraph' in section 558(c)(3)(A)(i).
+ (c) EXCEPTIONS- Subsection (b)(1) does not apply to the following provisions
+ of title 37, United States Code:
+ (1) Section 204(d).
+ (2) Section 302(g).
+ (3) Section 302b(g).
+ (4) Section 305a(d)(2).
+ (5) Section 308e(b)(3).
+ (6) Section 312(e).
+ (7) Section 312a(e).
+ (8) Section 312b(c).
+ (9) Section 312c(d).
+ (10) Section 314(a)(2).
+ (11) Section 314(a)(3).
+ (12) Section 401.
+ (13) Section 402(e)(1), the first place `of this section' appears.
+ (14) Section 403(j)(1).
+ (15) Section 403(k).
+ (16) Section 403a(c)(4).
+ (17) Section 403a(e)(1).
+ (18) Section 404a(b), the second place `of this section' appears.
+ (19) Section 405a(a).
+ (20) Section 406(h), the third place `of this section' appears.
+ (21) Section 406(m).
+ (22) Section 407(e).
+ (23) Section 411c(a).
+ (24) Section 552(d).
+ (25) Section 907(c), the first place `of this section' appears.
+ (26) Section 1011(b).
+SEC. 703. AMENDMENTS TO TITLE 32, UNITED STATES CODE
+ Section 112(c)(2) of title 32, United States Code, is amended by striking out
+ `in consultation with--' and all that follows and inserting in lieu thereof
+ `in consultation with the Director of National Drug Control Policy.'.
+SEC. 704. AMENDMENTS TO PUBLIC LAW 101-510
+ (a) GENERAL AMENDMENTS- The National Defense Authorization Act for Fiscal
+ Year 1991 (Public Law 101-510) is amended as follows:
+ (1) Section 217(d)(1) (104 Stat. 1511) is amended by striking out `amounts
+ of' and all that follows through `applicable' and inserting in lieu thereof
+ `amounts of authorizations provided for the Department of Defense in this
+ Act, subject to applicable'.
+ (2) Section 406(b) (104 Stat. 1546) is amended by striking out `Such section'
+ and inserting in lieu thereof `Such subsection'.
+ (3) Section 559 (104 Stat. 1571) is amended--
+ (A) in subsection (a), by striking out `inserting after section 686' and
+ inserting in lieu thereof `adding at the end';
+ (B) by redesignating as section 690 the new section to be added to title 10,
+ United States Code, by the amendment made by subsection (a); and
+ (C) in subsection (b), by striking out `Section 687' and inserting in lieu
+ thereof `Section 690'.
+ (4) Section 803(a)(2) (104 Stat. 1590) is amended by striking out
+ subparagraphs (A) and (B) and inserting in lieu thereof the following:
+ `(A) contracts entered into after December 5, 1990;
+ `(B) subcontracts under contracts covered by subparagraph (A); and
+ `(C) modifications or changes to such contracts and subcontracts.'.
+ (5) Section 822(g) (104 Stat. 1600) is amended--
+ (A) in paragraph (1)--
+ (i) by striking out `available for the Department of Defense' and inserting
+ in lieu thereof `appropriated pursuant to this Act'; and
+ (ii) by striking out `in the first fiscal year in which the Institute begins
+ operations'; and
+ (B) in paragraph (2), by striking out `for each fiscal year after the fiscal
+ year referred to in paragraph (1)'.
+ (6) Section 832 (104 Stat. 1612) is amended by inserting `of subsection
+ (a)' in paragraph (2) after `by adding at the end'.
+ (7) Section 903(b)(1) (104 Stat. 1620) is amended by striking out `all forces'
+ and all that follows through `Army Reserve Command' and inserting in lieu
+ thereof  `to the Army Reserve Command all forces of the Army Reserve in
+ the continental United States other than forces assigned to the unified
+ combatant command for special operations forces established pursuant to
+ section 167 of title 10, United States Code'.
+ (8) Section 1407(d) (104 Stat. 1681) is amended by striking out `section
+ 2342' and inserting in lieu thereof `section 2432'.
+ (9) Section 1451(b)(2) (104 Stat. 1693) is amended by inserting `of subchapter
+ II' after `at the beginning'.
+ (b) ACQUISITION WORKFORCE ACT AMENDMENTS- The Defense Acquisition Workforce
+ Improvement Act (title XII of Public Law 101-510) is amended as follows:
+ (1) Section 1202(a) (104 Stat. 1638) is amended by striking out `the following
+ new section' and inserting in lieu thereof `the following new chapter'.
+ (2) Section 1208 (104 Stat. 1665) is amended--
+ (A) in subsection (a)(1), by striking out `this Act' and inserting in lieu
+ thereof `this title';
+ (B) in subsection (b)(1)--
+ (i) by striking out `this title' and inserting in lieu thereof `title 10,
+ United States Code (as added by section 1202)'; and
+ (ii) by striking out `this chapter' and inserting in lieu thereof `chapter
+ 87 of such title (as added by section 1202)'; and
+ (C) in subsection (b)(2)--
+ (i) by striking out `this chapter' the first place it appears and inserting
+ in lieu thereof `chapter 87 of title 10, United States Code (as added by
+ section 1202),'; and
+ (ii) by striking out `this chapter' the second place it appears and inserting
+ in lieu thereof `such chapter'.
+ (3) Section 1209 (104 Stat. 1666) is amended--
+ (A) in subsection (a)--
+ (i) by striking out `Effective during the three-year period beginning
+ on the date of the enactment of this Act' and inserting in lieu thereof
+ `Before November 6, 1993'; and
+ (ii) by striking out the comma after `section 1202)';
+ (B) in subsection (b), by inserting a comma after `(as added by section
+ 1202)';
+ (C) in subsection (f), by striking out the comma after `shall include'
+ in the last sentence; and
+ (D) in subsection (i), by inserting a comma after `section 1732(c)(1)
+ of such title'.
+ (c) MENTOR-PROTEGE PROGRAM- Section 831 of the National Defense Authorization
+ Act for Fiscal Year 1991 (104 Stat. 1607) is amended--
+ (1) in subsection (c)(2)--
+ (A) by striking out `Disadvantaged small business concerns' and inserting
+ in lieu thereof `A disadvantaged small business concern';
+ (B) by striking out `one or more mentor firms' and inserting in lieu thereof
+ `a mentor firm';
+ (C) by striking out `or firms'; and
+ (D) by inserting after the first sentence the following new sentence:
+ `A disadvantaged small business concern may not be a party to more than
+ one agreement to receive such assistance at any time.';
+ (2) in subsection (e)(3), by striking out `mentor firm or'; and
+ (3) in subsection (k)--
+ (A) by striking out `673(d)' and inserting in lieu thereof `637(d)'; and
+ (B) by striking out the period at the end of the second sentence and
+ inserting in lieu thereof `and shall prescribe procedures by which mentor
+ firms may terminate participation in the program.'.
+ (d) DOE AMENDMENTS- Section 3165 of Public Law 101-510 (104 Stat. 1841)
+ is amended--
+ (1) in subsection (a), by redesignating subparagraphs (J), (K), (L), and
+ (M) as paragraphs (10), (11), (12), and (13), respectively; and
+ (2) in subsection (b), by inserting `such' in the second sentence before
+ `education activities'.
+ (e) EFFECTIVE DATE- The amendments made by this section shall apply as if
+ included in the enactment of the National Defense Authorization Act for
+ Fiscal Year 1991 (Public Law 101-510).
+SEC. 705. OTHER TECHNICAL AMENDMENTS
+ (a) CONTINUED APPLICABILITY OF CERTAIN PROVISION- The subsection added by the
+ amendment made by paragraph (2) of section 814(d) of the National Defense
+ Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101-189;
+ 103 Stat. 1498) is hereby reinstated as originally enacted, effective as
+ of January 1, 1991.
+ (b) MISSING PARAGRAPH DESIGNATION- Effective as of November 29, 1989,
+ section 703(f) of the National Defense Authorization Act for Fiscal Years
+ 1990 and 1991 (Public Law 101-189; 103 Stat. 1470) is amended by inserting
+ `(1)' before `In the case of'.
+ (c) TITLE 38- (1) Section 1418A(a)(1) of title 38, United States Code, as
+ added by section 561(a) of Public Law 101-510, is amended by striking out
+ `section 1142 of title 10' and inserting in lieu thereof `section 1141 of
+ title 10'.
+ (2) Section 1404(b)(2) of Public Law 101-189 (103 Stat. 1586) is amended
+ by striking out `of subchapter I or II' in the matter in quotation marks
+ and inserting in lieu thereof `subchapter I or II of'.
+ (d) CROSS-REFERENCE CORRECTIONS- (1) Section 21(g) of the Arms Export Control
+ Act (22 U.S.C. 2761(g)) is amended by striking out `section 1105 of the
+ National Defense Authorization Act of fiscal year 1987' and inserting in
+ lieu thereof `section 2350a(i)(3) of title 10, United States Code'.
+ (2) Section 65(d) of such Act (22 U.S.C. 2796d(d)) is amended by striking
+ out `section 1105 of the National Defense Authorization Act for Fiscal Year
+ 1987 (22 U.S.C. 2767a)' and inserting in lieu thereof `section 2350a(i)(3)
+ of title 10, United States Code'.
+ (e) SECTION 1207- Subparagraph (A) of section 1207(a)(1) of Public Law
+ 99-661 (10 U.S.C. 2301 note), as amended and redesignated by sections 811
+ and 832(1)(B) of Public Law 101-510 (104 Stat. 1596, 1612), is amended by
+ inserting a close parenthesis after `637(d)'.
+ (f) PUBLIC LAW 85-804- (1) Effective as of November 6, 1990, the first
+ section of Public Law 85-804 (50 U.S.C. 1431) is amended by inserting `and
+ 60 days of continuous session of Congress have expired following the date
+ on which such notice was transmitted to such Committees' before the period
+ at the end of the third sentence.
+ (2) Such section is further amended in the fourth sentence--
+ (A) by inserting `at the end of a Congress' after `sine die'; and
+ (B) by inserting `, or because of an adjournment sine die other than at
+ the end of a Congress,' after `to a day certain'.
+ (g) CAPITALIZATION CORRECTION- Paragraph (2) of section 12(d) of the
+ Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d))
+ is amended by striking out `Naval' and inserting in lieu thereof `naval'.
+ (h) EXPENDITURES FOR UNIFORMED SERVICES TREATMENT FACILITIES- Section 1252(f)
+ of the Department of Defense Authorization Act, 1984 (42 U.S.C. 248d(f)),
+ is amended by inserting `by the Secretary of Defense' after `expenditures'.
+ (i) ADDITIONAL CROSS REFERENCE CORRECTION- Section 27(p)(8) of the Office
+ of Federal Procurement Policy Act (41 U.S.C. 423) is amended by striking out
+ `has the same meaning as' and all that follows through the end and inserting
+ in lieu thereof the following:  `has the meaning given such term by section
+ 109(3) of the Ethics in Government Act of 1978 (5 U.S.C. App.).'.
+TITLE VIII--AUTHORIZATION OF SUPPLEMENTAL APPROPRIATIONS FOR DEPARTMENT OF
+ENERGY NATIONAL SECURITY PROGRAMS FOR FISCAL YEAR 1991
+SEC. 801. AUTHORIZATION OF SUPPLEMENTAL APPROPRIATIONS FOR OPERATING EXPENSES
+ There is hereby authorized to be appropriated for fiscal year 1991 for
+ operating expenses incurred in carrying out national security programs
+ (including scientific research and development in support of the Armed
+ Forces, strategic and critical materials necessary for the common defense,
+ and military applications of nuclear energy and related management and support
+ activities) for weapons activities production and surveillance, $283,000,000.
+SEC. 802. AUTHORIZATION OF SUPPLEMENTAL APPROPRIATIONS FOR ENVIRONMENTAL
+RESTORATION AND WASTE MANAGEMENT
+ There is hereby authorized to be appropriated for fiscal year 1991 for
+ carrying out the environmental restoration and waste management programs
+ necessary for national security programs as follows:
+ (1) For operating expenses:
+ (A) For environmental restoration, $100,000,000.
+ (B) For waste operations, $74,300,000.
+ (C) For waste research and development, $30,000,000.
+ (2) For plant projects:
+ Project 91-D-172, high-level waste tank farm replacement, Idaho Chemical
+ Processing Plant, Idaho National Engineering Laboratory, Idaho, $30,000,000.
+ Project 90-D-178, TSA retrieval containment building, Idaho National
+ Engineering Laboratory, Idaho Falls, Idaho, $19,500,000.
+ Project 89-D-142, reactor effluent cooling water thermal mitigation,
+ Savannah River, South Carolina, $17,600,000.
+ Project Project 89-D-172, Hanford environmental compliance, Richland,
+ Washington, $27,700,000.
+ Project 89-D-174, replacement high-level waste evaporator, Savannah River,
+ South Carolina, $14,000,000.
+ Project 83-D-148, nonradioactive hazardous waste management, Savannah River,
+ South Carolina, $10,000,000.
+ Project 77-13-f, waste isolation pilot project, Delaware Basin, southeast
+ New Mexico, $16,900,000.
+SEC. 803. APPLICABILITY OF RECURRING GENERAL PROVISIONS
+ The provisions contained in part B of title XXXI of the National Defense
+ Authorization Act for Fiscal Year 1991 (Public Law 101-510; 104 Stat. 1829)
+ shall apply with respect to the authorizations provided in this title in
+ the same manner as such provisions apply with respect to the authorizations
+ provided in title XXXI of such Act.
+SEC. 804. RELOCATION OF ROCKY FLATS PLANT OPERATIONS
+ (a) RELOCATION PROGRAM- From funds authorized and appropriated for production
+ and surveillance for fiscal year 1991, the Secretary of Energy shall develop
+ a program to relocate, within 10 years after the date of the enactment
+ of this Act, operations performed at the Rocky Flats Plant in Golden,
+ Colorado, to a replacement facility (or facilities) on a site (or sites)
+ where public health and safety can be assured.
+ (b) REPORT- Not later than 60 days after the date of the enactment of this
+ Act, the Secretary of Energy shall submit to Congress a report describing the
+ program developed under subsection (a), a plan to implement such program, and
+ the activities to be undertaken during fiscal year 1991 pursuant to the plan.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

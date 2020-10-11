@@ -1,0 +1,1761 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1507 Enrolled Bill (ENR)]
+
+        S.1507
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To make certain technical and conforming amendments to the Higher 
+Education
+
+                              Act of 1965.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; REFERENCES.
+
+    (a) Short Title.--This Act may be cited as the ``Higher Education 
+Technical Amendments of 1993''.
+    (b) References.--References in this Act to ``the Act'' are 
+references to the Higher Education Act of 1965.
+
+SEC. 2. TECHNICAL AMENDMENTS.
+
+    (a) Amendments to Titles I, II, and III of the Act.--Titles I, II, 
+and III of the Act (20 U.S.C. 1001 et seq., 1021 et seq., 1051 et seq.) 
+are amended--
+        (1) in section 103(b)(2), by increasing the indentation of 
+    subparagraphs (A) through (E) by two em spaces;
+        (2) in section 104(b)(5)(C), by striking ``subpart'' and 
+    inserting ``part'';
+        (3) in section 241(a)(2)(B), by striking ``information service'' 
+    and inserting ``information science'';
+        (4) in section 301(a)(2), by striking the comma after 
+    ``planning'';
+        (5) in section 312(c)(2), by inserting ``the'' before ``second 
+    fiscal year'' the second place it appears;
+        (6) in section 313(b), by inserting ``, except that for the 
+    purpose of this subsection a grant under section 354(a)(1) shall not 
+    be considered a grant under this part'' before the period.
+        (7) in section 316(c), by striking ``Such programs may include--
+    '' and inserting the following:
+        ``(2) Examples of authorized activities.--Such programs may 
+    include--'';
+        (8) by reducing by two em spaces the indentation of each of the 
+    following provisions: sections 323(b)(3), 331(a)(2)(D), and 
+    331(b)(5);
+        (9) in section 326(e)(2)--
+            (A) by inserting ``and'' after the semicolon at the end of 
+        subparagraph (A);
+            (B) by striking subparagraph (B); and
+            (C) by redesignating subparagraph (C) as subparagraph (B);
+        (10) in section 331(b)(2), by reducing the indentation of 
+    subparagraphs (B) and (C) by four em spaces; and
+        (11) in section 331(b)(5), by striking ``an endowment'' and 
+    inserting ``An endowment''.
+    (b) Amendments to Part A of Title IV of the Act.--Part A of title IV 
+of the Act (20 U.S.C. 1070 et seq.) is amended--
+        (1) in section 401(a)(1), by inserting ``, except that this 
+    sentence shall not be construed to limit the authority of the 
+    Secretary to place an institution on a reimbursement system of 
+    payment'' before the period at the end of the second sentence;
+        (2) in section 401(b)(6), in the matter preceding subparagraph 
+    (A), by striking ``single 12-month period'' and inserting ``single 
+    award year'';
+        (3) in section 401(b)(6)(A), by striking ``a baccalaureate'' and 
+    inserting ``an associate or baccalaureate'';
+        (4) in section 401(b)(6)(B), by striking ``a bachelor's'' and 
+    inserting ``an associate or baccalaureate'';
+        (5) in section 401(i), by striking ``part D of title V'' and 
+    inserting ``subtitle D of title V'';
+        (6) in section 402A(b), by striking paragraph (2) and inserting 
+    the following:
+        ``(2) Duration.--Grants or contracts made under this chapter 
+    shall be awarded for a period of 4 years, except that--
+            ``(A) the Secretary shall award such grants or contracts for 
+        5 years to applicants whose peer review scores were in the 
+        highest 10 percent of scores of all applicants receiving grants 
+        or contracts in each program competition for the same award 
+        year; and
+            ``(B) grants made under section 402G shall be awarded for a 
+        period of 2 years.'';
+        (7) in the second sentence of section 402A(c)(1), by inserting 
+    before the period the following ``, except that in the case of the 
+    programs authorized in sections 402E and 402G, the level of 
+    consideration given to prior experience shall be the same as the 
+    level of consideration given this factor in the other programs 
+    authorized in this chapter'';
+        (8) in section 402A(c)(2)(A), by inserting ``with respect to 
+    grants made under section 402G, and'' after ``Except'';
+        (9) in section 402A, by amending subsection (e) to read as 
+    follows:
+    ``(e) Documentation of Status as a Low-Income Individual.--(1) 
+Except in the case of an independent student, as defined in section 
+480(d), documentation of an individual's status pursuant to subsection 
+(g)(2) shall be made by providing the Secretary with--
+        ``(A) a signed statement from the individual's parent or legal 
+    guardian;
+        ``(B) verification from another governmental source;
+        ``(C) a signed financial aid application; or
+        ``(D) a signed United States or Puerto Rico income tax return.
+    ``(2) In the case of an independent student, as defined in section 
+480(d), documentation of an individual's status pursuant to subsection 
+(g)(2) shall be made by providing the Secretary with--
+        ``(A) a signed statement from the individual;
+        ``(B) verification from another governmental source;
+        ``(C) a signed financial aid application; or
+        ``(D) a signed United States or Puerto Rico income tax 
+    return.'';
+        (10) in section 402C(c), by striking ``and foreign'' and 
+    inserting ``foreign'';
+        (11) in section 402D(c)(2), by striking ``either'';
+        (12) in section 404A(1), by striking ``high-school'' and 
+    inserting ``high school'';
+        (13) in section 404B(a)(1)--
+            (A) by striking ``section 403C'' and inserting ``section 
+        404D''; and
+            (B) by striking ``section 403D'' and inserting ``section 
+        404C'';
+        (14) in section 404B(a)(2), by inserting ``shall'' after 
+    ``paragraph (1)'';
+        (15) in section 404C(b)(3)(A), by striking ``grades 12'' and 
+    inserting ``grade 12'';
+        (16) in section 404C(b)(3)(D)(i), by striking ``section 401D of 
+    this subpart'' and inserting ``section 402D'';
+        (17) in section 404C(b)(3)(D)(ii), by striking ``section 401D of 
+    this part'' and inserting ``section 402D'';
+        (18) in section 404D(d)(3), by striking ``program of 
+    instruction'' and inserting ``program of undergraduate 
+    instruction'';
+        (19) in section 404D(d)(4), by striking ``the'' the first place 
+    it appears;
+        (20) in section 404E(c), by striking ``tuition'' and inserting 
+    ``financial'';
+        (21) in section 404F(a), by striking ``under this section shall 
+    biannually'' and inserting ``under this chapter shall biennially'';
+        (22) in section 404F(c), by striking ``biannually'' and 
+    inserting ``biennially'';
+        (23) in section 404G--
+            (A) by striking ``an appropriation'' and inserting ``to be 
+        appropriated''; and
+            (B) by striking the second sentence and inserting the 
+        following: ``For any fiscal year for which funds are authorized 
+        to be appropriated to carry out subpart 4 of part A of this 
+        title, no amount may be expended to carry out the provisions of 
+        this chapter unless the amount appropriated for such fiscal year 
+        to carry out such subpart 4 exceed $60,000,000.'';
+        (24) in section 409A(1), by striking ``private financial'' and 
+    inserting ``private student financial'';
+        (25) in section 413C(d)--
+            (A) by striking ``, a reasonable proportion of the 
+        institution's allocation shall be made available to such 
+        students, except that'' and inserting ``and''; and
+            (B) by striking ``5 percent of the need'' and inserting ``5 
+        percent of the total financial need'';
+        (26) in section 413D(d)(3)(C), by striking ``three-fourths in 
+    the Pell Grant family size offset'' and inserting ``150 percent of 
+    the difference between the income protection allowance for a family 
+    of five with one in college and the income protection allowance for 
+    a family of six with one in college'';
+        (27) in section 415C(b)(7), by striking the period at the end 
+    and inserting a semicolon;
+        (28) in section 419C(b)--
+            (A) by striking ``for a period of not more than 4 years for 
+        the first 4 years of study'' and inserting ``for a period of not 
+        less than 1 or more than 4 years during the first 4 years of 
+        study''; and
+            (B) by adding at the end the following:
+``The State educational agency administering the program in a State 
+shall have discretion to determine the period of the award (within the 
+limits specified in the preceding sentence), except that--
+        ``(1) if the amount appropriated for this subpart for any fiscal 
+    year exceeds the amount appropriated for this subpart for fiscal 
+    year 1993, the Secretary shall identify to each State educational 
+    agency the number of scholarships available to that State under 
+    section 419D(b) that are attributable to such excess;
+        ``(2) the State educational agency shall award not less than 
+    that number of scholarships for a period of 4 years.''; and
+        (29) in section 419D, by adding at the end the following new 
+    subsection:
+    ``(d) Consolidation by Insular Areas Prohibited.--Notwithstanding 
+section 501 of Public Law 95-1134 (48 U.S.C. 1469a), funds allocated 
+under this part to an Insular Area described in that section shall be 
+deemed to be direct payments to classes of individuals, and the Insular 
+Area may not consolidate such funds with other funds received by the 
+Insular Area from any department or agency of the United States 
+Government.''; and
+        (30) in section 419G(b), by striking ``the District of Columbia, 
+    the Commonwealth of Puerto Rico,'' and inserting ``the Federated 
+    States of Micronesia, the Republic of the Marshall Islands,''.
+    (c) Amendments to Part B of Title IV of the Act.--Part B of title IV 
+of the Act (20 U.S.C. 1071 et seq.) is amended--
+        (1) in section 422(c)(7), by striking the semicolon at the end 
+    of subparagraph (B) and inserting a period;
+        (2) in section 425(a)(1)(A)--
+            (A) by striking clauses (ii) and (iii) and inserting the 
+        following:
+            ``(ii) in the case of a student at an eligible institution 
+        who has successfully completed such first year but has not 
+        successfully completed the remainder of a program of 
+        undergraduate education--
+                ``(I) $3,500; or
+                ``(II) if such student is enrolled in a program of 
+            undergraduate education, the remainder of which is less than 
+            one academic year, the maximum annual loan amount that such 
+            student may receive may not exceed the amount that bears the 
+            same ratio to the amount specified in subclause (I) as such 
+            remainder measured in semester, trimester, quarter, or clock 
+            hours bears to one academic year;
+            ``(iii) in the case of a student at an eligible institution 
+        who has successfully completed the first and second years of a 
+        program of undergraduate education but has not successfully 
+        completed the remainder of such program--
+                ``(I) $5,500; or
+                ``(II) if such student is enrolled in a program of 
+            undergraduate education, the remainder of which is less than 
+            one academic year, the maximum annual loan amount that such 
+            student may receive may not exceed the amount that bears the 
+            same ratio to the amount specified in subclause (I) as such 
+            remainder measured in semester, trimester, quarter, or clock 
+            hours bears to one academic year;'' and
+            (B) by striking the semicolon at the end of clause (iv) and 
+        inserting a period;
+        (3) in section 425(a)(1), by inserting at the end thereof the 
+    following:
+        ``(C) For the purpose of subparagraph (A), the number of years 
+    that a student has completed in a program of undergraduate education 
+    shall include any prior enrollment in an eligible program of 
+    undergraduate education for which the student was awarded an 
+    associate or baccalaureate degree, if such degree is required by the 
+    institution for admission to the program in which the student is 
+    enrolled.'';
+        (4) in the matter following subclause (II) of section 
+    427(a)(2)(C)(i), by inserting ``section'' before ``428B or 428C'';
+        (5) in section 427A(e)(1), by striking ``under this part,'' and 
+    inserting ``under section 427, 428, or 428H of this part,'';
+        (6) in section 427A(i)(1), by amending subparagraph (B) to read 
+    as follows:
+            ``(B)(i) during any period in which a student is eligible to 
+        have interest payments paid on his or her behalf by the 
+        Government pursuant to section 428(a), by crediting the excess 
+        interest to the Government; or
+            ``(ii) during any other period, by crediting such excess 
+        interest to the reduction of principal to the extent provided in 
+        paragraph (5) of this subsection.'';
+        (7) in section 427A(i)(2)(B)--
+            (A) by striking ``outstanding principal balance'' and 
+        inserting ``average daily principal balance''; and
+            (B) by striking ``at the end of'' and inserting ``during'';
+        (8) in section 427A(i)(4)(B)--
+            (A) by striking ``outstanding principal balance'' and 
+        inserting ``average daily principal balance''; and
+            (B) by striking ``at the end of'' and inserting ``during'';
+        (9) in section 427A(i)(5)--
+            (A) in the first sentence--
+                (i) by striking ``paragraph (2)'' and inserting 
+            ``paragraphs (2) and (4)''; and
+                (ii) by striking ``principle'' and inserting 
+            ``principal''; and
+            (B) in the second sentence by inserting before the period at 
+        the end the following: ``, but the excess interest shall be 
+        calculated and credited to the Secretary'';
+        (10) in section 427A(i), by adding at the end the following new 
+    paragraph:
+        ``(7) Conversion to variable rate.--(A) Subject to subparagraphs 
+    (C) and (D), a lender or holder shall convert the interest rate on a 
+    loan that is made pursuant to this part and is subject to the 
+    provisions of this subsection to a variable rate. Such conversion 
+    shall occur not later than January 1, 1995, and, commencing on the 
+    date of conversion, the applicable interest rate for each 12-month 
+    period beginning on July 1 and ending on June 30 shall be determined 
+    by the Secretary on the June 1 preceding each such 12-month period 
+    and be equal to the sum of (i) the bond equivalent rate of the 91-
+    day Treasury bills auctioned at the final auction prior to such June 
+    1; and (ii) 3.25 percent in the case of loans described in paragraph 
+    (1), or 3.10 percent in the case of loans described in paragraph 
+    (3).
+        ``(B) In connection with the conversion specified in 
+    subparagraph (A) for any period prior to such conversion, and 
+    subject to paragraphs (C) and (D), a lender or holder shall convert 
+    the interest rate to a variable rate on a loan that is made pursuant 
+    to this part and is subject to the provisions of this subsection to 
+    a variable rate. The interest rates for such period shall be reset 
+    on a quarterly basis and the applicable interest rate for any 
+    quarter or portion thereof shall equal the sum of (i) the average of 
+    the bond equivalent rates of 91-Treasury bills auctioned for the 
+    preceding 3-month period, and (ii) 3.25 percent in the case of loans 
+    described in paragraph (1) or 3.10 percent in the case of loans 
+    described in paragraph (3). The rebate of excess interest derived 
+    through this conversion shall be provided to the borrower as 
+    specified in paragraph (5) for loans described in paragraph (1) or 
+    to the Government and borrower as specified in paragraph (3).
+        ``(C) A lender or holder of a loan being converted pursuant to 
+    this paragraph shall complete such conversion on or before January 
+    1, 1995. The lender or holder shall notify the borrower that the 
+    loan shall be converted to a variable interest rate and provide a 
+    description of the rate to the borrower not later than 30 days prior 
+    to the conversion. The notice shall advise the borrower that such 
+    rate shall be calculated in accordance with the procedures set forth 
+    in this paragraph and shall provide the borrower with a 
+    substantially equivalent benefit as the adjustment otherwise 
+    provided for under this subsection. Such notice may be incorporated 
+    into the disclosure required under section 433(b) if such disclosure 
+    has not been previously made.
+        ``(D) The interest rate on a loan converted to a variable rate 
+    pursuant to this paragraph shall not exceed the maximum interest 
+    rate applicable to the loan prior to such conversion.
+        ``(E) Loans on which the interest rate is converted in 
+    accordance with subparagraph (A) or (B) shall not be subject to any 
+    other provisions of this subsection.'';
+        (11) in section 428(a)(2)(C)(i), by striking the period at the 
+    end and inserting ``; and'';
+        (12) in section 428(a)(2)(E), by inserting ``or 428H'' after 
+    ``428A'';
+        (13) in section 428(b)(1)(A)--
+            (A) by striking clauses (ii) and (iii) and inserting the 
+        following:
+                ``(ii) in the case of a student at an eligible 
+            institution who has successfully completed such first year 
+            but has not successfully completed the remainder of a 
+            program of undergraduate education--
+
+                    ``(I) $3,500; or
+                    ``(II) if such student is enrolled in a program of 
+                undergraduate education, the remainder of which is less 
+                than one academic year, the maximum annual loan amount 
+                that such student may receive may not exceed the amount 
+                that bears the same ratio to the amount specified in 
+                subclause (I) as such remainder measured in semester, 
+                trimester, quarter, or clock hours bears to one academic 
+                year;
+
+                ``(iii) in the case of a student at an eligible 
+            institution who has successfully completed the first and 
+            second years of a program of undergraduate education but has 
+            not successfully completed the remainder of such program--
+
+                    ``(I) $5,500; or
+                    ``(II) if such student is enrolled in a program of 
+                undergraduate education, the remainder of which is less 
+                than one academic year, the maximum annual loan amount 
+                that such student may receive may not exceed the amount 
+                that bears the same ratio to the amount specified in 
+                subclause (I) as such remainder measured in semester, 
+                trimester, quarter, or clock hours bears to one academic 
+                year;'';
+
+            (B) by redesignating clause (iv) as clause (v); and
+            (C) by inserting after clause (iii) the following:
+                ``(iv) in the case of a student who has received an 
+            associate or baccalaureate degree and is enrolled in an 
+            eligible program for which the institution requires such 
+            degree for admission, the number of years that a student has 
+            completed in a program of undergraduate education shall, for 
+            the purposes of clauses (ii) and (iii), include any prior 
+            enrollment in the eligible program of undergraduate 
+            education for which the student was awarded such degree; 
+            and'';
+        (14) in section 428(b)(1)(B), by striking the matter following 
+    clause (ii) and inserting the following:
+        ``except that the Secretary may increase the limit applicable to 
+        students who are pursuing programs which the Secretary 
+        determines are exceptionally expensive;'';
+        (15) in section 428(b)(1), by amending subparagraph (N) to read 
+    as follows:
+            ``(N) provides that funds borrowed by a student--
+                ``(i) are disbursed to the institution by check or other 
+            means that is payable to, and requires the endorsement or 
+            other certification by, such student; or
+                ``(ii) in the case of a student who is studying outside 
+            the United States in a program of study abroad that is 
+            approved for credit by the home institution at which such 
+            student is enrolled or at an eligible foreign institution, 
+            are, at the request of the student, disbursed directly to 
+            the student by the means described in clause (i), unless 
+            such student requests that the check be endorsed, or the 
+            funds transfer authorized, pursuant to an authorized power-
+            of-attorney;'';
+        (16) in section 428(b)(1)(U)--
+            (A) by striking ``this clause;'' and inserting ``this 
+        clause''; and
+            (B) by inserting a comma after ``emergency action'' each 
+        place it appears;
+        (17) in section 428(b)(1)--
+            (A) by striking subparagraphs (V) and (W); and
+            (B) by redesignating subparagraphs (X), (Y), and (Z) as 
+        subparagraphs (V), (W), and (X), respectively;
+        (18) in section 428(b)(2)(F)(i), by striking ``each to provide a 
+    separate notice'' and inserting ``either jointly or separately to 
+    provide a notice'';
+        (19) in section 428(b)(2)(F)(ii), by striking ``transferor'' and 
+    inserting ``transferee'';
+        (20) in section 428(b)(2)(F)(ii)(I), by striking ``to another 
+    holder'';
+        (21) in section 428(b)(2)(F)(ii)(II), by striking ``such other'' 
+    and inserting ``the new'';
+        (22) in section 428(b), by amending paragraph (7) to read as 
+    follows:
+        ``(7) Repayment period.--(A) In the case of a loan made under 
+    section 427 or 428, the repayment period shall exclude any period of 
+    authorized deferment or forbearance and shall begin--
+            ``(i) the day after 6 months after the date the student 
+        ceases to carry at least one-half the normal full-time academic 
+        workload (as determined by the institution); or
+            ``(ii) on an earlier date if the borrower requests and is 
+        granted a repayment schedule that provides for repayment to 
+        commence at an earlier date.
+        ``(B) In the case of a loan made under section 428H, the 
+    repayment period shall exclude any period of authorized deferment or 
+    forbearance, and shall begin as described in clause (i) or (ii) of 
+    subparagraph (A), but interest shall begin to accrue or be paid by 
+    the borrower on the day the loan is disbursed.
+        ``(C) In the case of a loan made under section 428A, 428B, or 
+    428C, the repayment period shall begin on the day the loan is 
+    disbursed, or, if the loan is disbursed in multiple installments, on 
+    the day of the last such disbursement, and shall exclude any period 
+    of authorized deferment or forbearance.'';
+        (23) in section 428(b), by adding at the end thereof the 
+    following new paragraph:
+        ``(8) Means of disbursement of loan proceeds.--Nothing in this 
+    title shall be interpreted to prohibit the disbursement of loan 
+    proceeds by means other than by check or to allow the Secretary to 
+    require checks to be made co-payable to the institution and the 
+    borrower.'';
+        (24) in section 428(c)(1)(A), by striking the last sentence and 
+    inserting the following: ``A guaranty agency shall file a claim for 
+    reimbursement with respect to losses under this subsection within 45 
+    days after the guaranty agency discharges its insurance obligation 
+    on the loan.'';
+        (25) in section 428(c)(2)(G), by striking ``demonstrates'' and 
+    inserting ``certifies'';
+        (26) in section 428(c)(3) by striking subparagraph (A) and 
+    inserting the following:
+            ``(A) shall contain provisions providing that--
+                ``(i) upon written request, a lender shall grant a 
+            borrower forbearance, renewable at 12-month intervals, on 
+            terms agreed to in writing by the parties to the loan with 
+            the approval of the insurer, and otherwise consistent with 
+            the regulations of the Secretary, if the borrower--
+
+                    ``(I) is serving in a medical or dental internship 
+                or residency program, the successful completion of which 
+                is required to begin professional practice or service, 
+                or is serving in a medical or dental internship or 
+                residency program leading to a degree or certificate 
+                awarded by an institution of higher education, a 
+                hospital, or a health care facility that offers 
+                postgraduate training, provided that if the borrower 
+                qualifies for a deferment under section 
+                427(a)(2)(C)(vii) or subsection (b)(1)(M)(vii) of this 
+                section as in effect prior to the enactment of the 
+                Higher Education Amendments of 1992, or section 
+                427(a)(2)(C) or subsection (b)(1)(M) of this section as 
+                amended by such amendments, the borrower has exhausted 
+                his or her eligibility for such deferment;
+                    ``(II) has a debt burden under this title that 
+                equals or exceeds 20 percent of income; or
+                    ``(III) is serving in a national service position 
+                for which the borrower receives a national service 
+                educational award under the National and Community 
+                Service Trust Act of 1993;
+
+                ``(ii) the length of the forbearance granted by the 
+            lender--
+
+                    ``(I) under clause (i)(I) shall equal the length of 
+                time remaining in the borrower's medical or dental 
+                internship or residency program, if the borrower is not 
+                eligible to receive a deferment described in such 
+                clause, or such length of time remaining in the program 
+                after the borrower has exhausted the borrower's 
+                eligibility for such deferment;
+                    ``(II) under clause (i)(II) shall not exceed 3 
+                years; or
+                    ``(III) under clause (i)(III) shall not exceed the 
+                period for which the borrower is serving in a position 
+                described in such clause; and
+
+                ``(iii) no administrative or other fee may be charged in 
+            connection with the granting of a forbearance under clause 
+            (i), and no adverse information regarding a borrower may be 
+            reported to a credit bureau organization solely because of 
+            the granting of such forbearance;'';
+        (27) in section 428(e)(2)(A)--
+            (A) by striking ``(i)'';
+            (B) by striking ``(I)'' and inserting ``(i)''; and
+            (C) by striking ``(II)'' and inserting ``(ii)'';
+        (28) in section 428(j)(2), in the matter preceding subparagraph 
+    (A), by striking ``lender of last resort'' and inserting ``lender-
+    of-last-resort'';
+        (29) in section 428A(b)(1), by striking subparagraph (B) and 
+    inserting the following:
+            ``(B) In the case of a student at an eligible institution 
+        who has successfully completed such first and second years but 
+        has not successfully completed the remainder of a program of 
+        undergraduate education--
+                ``(i) $5,000; or
+                ``(ii) if such student is enrolled in a program of 
+            undergraduate education, the remainder of which is less than 
+            one academic year, the maximum annual loan amount that such 
+            student may receive may not exceed the amount that bears the 
+            same ratio to the amount specified in subclause (I) as such 
+            remainder measured in semester, trimester, quarter, or clock 
+            hours bears to one academic year.'';
+        (30) in section 428A(b)(1)--
+            (A) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (B) by inserting after subparagraph (B) the following new 
+        subparagraph:
+            ``(C) For the purposes of this paragraph, the number of 
+        years that a student has completed in a program of undergraduate 
+        education shall include any prior enrollment in an eligible 
+        program of undergraduate education for which the student was 
+        awarded an associate or baccalaureate degree, if such degree is 
+        required by the institution for admission to the program in 
+        which the student is enrolled.'';
+        (31) in section 428A(b)(3)(B)(i), by striking ``section 428'' 
+    and inserting ``sections 428 and 428H'';
+        (32) in section 428A(c)(1), by striking ``sections 427 or 
+    428(b)'' and inserting ``section 427 or 428(b)'';
+        (33) in section 428C(a)(3)(A), by striking ``delinquent or 
+    defaulted borrower who will reenter repayment through loan 
+    consolidation'' and inserting ``defaulted borrower who has made 
+    arrangements to repay the obligation on the defaulted loans 
+    satisfactory to the holders of the defaulted loans'';
+        (34) in section 428C(a)(4)(A), by striking ``, except for loans 
+    made to parent borrowers under section 428B as in effect prior to 
+    the enactment of the Higher Education Amendments of 1986'';
+        (35) in section 428C(a)(4)(C), by striking ``part C'' and 
+    inserting ``part A'';
+        (36) in section 428C(c)(2)(A)(vi), by inserting a period after 
+    ``30 years'';
+        (37) in section 428C(c)(3)(A), by inserting ``be an amount'' 
+    before ``equal to'';
+        (38) in section 428F(a)(2)--
+            (A) by striking ``this paragraph'' and inserting ``paragraph 
+        (1) of this subsection''; and
+            (B) by striking ``this section'' and inserting ``this 
+        subsection'';
+        (39) in section 428F(a)(4), by striking ``this paragraph'' and 
+    inserting ``paragraph (1) of this subsection'';
+        (40) in section 428F(b), by adding at the end thereof the 
+    following new sentence: ``A borrower may only obtain the benefit of 
+    this subsection with respect to renewed eligibility once.'';
+        (41) in section 428G(c)(3), by striking ``disbursed'' and 
+    inserting ``disbursed by the lender'';
+        (42) in section 428H(d)(2), by amending subparagraph (B) to read 
+    as follows:
+            ``(B) in the case of a student at an eligible institution 
+        who has successfully completed such first and second years but 
+        has not successfully completed the remainder of a program of 
+        undergraduate education--
+                ``(i) $5,000; or
+                ``(ii) if such student is enrolled in a program of 
+            undergraduate education, the remainder of which is less than 
+            one academic year, the maximum annual loan amount that such 
+            student may receive may not exceed the amount that bears the 
+            same ratio to the amount specified in subclause (I) as such 
+            remainder measured in semester, trimester, quarter, or clock 
+            hours bears to one academic year;'';
+        (43) in section 428H(e)(1)--
+            (A) by striking ``shall commence 6 months after the month in 
+        which the student ceases to carry at least one-half the normal 
+        full-time workload as determined by the institution.'' and 
+        inserting ``shall begin at the beginning of the repayment period 
+        described in section 428(b)(7).'';
+            (B) by adding at the end thereof the following new sentence: 
+        ``Not less than 30 days prior to the anticipated commencement of 
+        such repayment period, the holder of such loan shall provide 
+        notice to the borrower that interest will accrue before 
+        repayment begins and of the borrower's option to begin loan 
+        repayment at an earlier date.'';
+        (44) in section 428H(e)(4), by striking ``427A(e)'' and 
+    inserting ``427A'';
+        (45) in section 428H, by redesignating subsection (l) as 
+    subsection (h);
+        (46) in section 428I(g), by striking ``the Federal False Claims 
+    Act'' and inserting ``section 3729 of title 31, United States 
+    Code,'';
+        (47) in section 428J(b)(1), by striking ``sections 428A, 428B, 
+    or 428C'' and inserting ``section 428A, 428B, or 428C'';
+        (48) in section 428J(b)(1)(B), by striking ``agrees in writing 
+    to volunteer for service'' and inserting ``serves as a full-time 
+    volunteer'';
+        (49) in section 428J(c)(1), by striking ``academic year'' each 
+    place it appears and inserting ``year of service'';
+        (50) in the heading for section 428J(d), by striking ``of 
+    Eligibility'' and inserting ``to Eligible'';
+        (51) in section 428J, by amending subsection (e) to read as 
+    follows:
+    ``(e) Application for Repayment.--
+        ``(1) In general.--Each eligible individual desiring loan 
+    repayment under this section shall submit a complete and accurate 
+    application to the Secretary at such time, in such manner, and 
+    containing such information as the Secretary may reasonably require. 
+    Loan repayment under this section shall be on a first-come, first-
+    served basis and subject to the availability of appropriations.
+        ``(2) Conditions.--An eligible individual may apply for 
+    repayment after completing each year of qualifying service. The 
+    borrower shall receive forbearance while engaged in qualifying 
+    service unless the borrower is in deferment while so engaged.'';
+        (52) in section 430A(f)(1), by striking the comma at the end and 
+    inserting a semicolon;
+        (53) in the matter preceding paragraph (1) of section 433(b), by 
+    striking ``60 days'' and inserting ``30 days'';
+        (54) in section 433(e), by striking ``section 428A, 428B,'' and 
+    inserting ``sections 428A, 428B,'';
+        (55) in section 435(a), by inserting after paragraph (2) the 
+    following new paragraph:
+        ``(3) Appeals based upon allegations of improper loan 
+    servicing.--An institution that--
+            ``(A) is subject to loss of eligibility for the Federal 
+        Family Education Loan Program pursuant to paragraph (2)(A) of 
+        this subsection;
+            ``(B) is subject to loss of eligibility for the Federal 
+        Supplemental Loans for Students pursuant to section 428A(a)(2); 
+        or
+            ``(C) is an institution whose cohort default rate equals or 
+        exceeds 20 percent for the most recent year for which data are 
+        available;
+    may include in its appeal of such loss or rate a defense based on 
+    improper loan servicing (in addition to other defenses). In any such 
+    appeal, the Secretary shall take whatever steps are necessary to 
+    ensure that such institution has access to a representative sample 
+    (as determined by the Secretary) of the relevant loan servicing and 
+    collection records of the affected guaranty agencies and loan 
+    servicers for a reasonable period of time, not to exceed 30 days. 
+    The Secretary shall reduce the institution's cohort default rate to 
+    reflect the percentage of defaulted loans in the representative 
+    sample that are required to be excluded pursuant to subsection 
+    (m)(1)(B).'';
+        (56) in section 435(d)(2)(D), by striking ``lender; and'' and 
+    inserting ``lender;'';
+        (57) in section 435(d)(2), by increasing the indentation of the 
+    matter following subparagraph (F) by two em spaces;
+        (58) in section 435(d)(3), by striking ``435(o)'' and inserting 
+    ``435(m)'';
+        (59) in section 435(m)(1)(A), by striking ``428 or 428A'' and 
+    inserting ``428, 428A, or 428H,'';
+        (60) in section 435(m)--
+            (A) by inserting at the end of paragraph (1)(A) the 
+        following new sentence: ``The Secretary shall require that each 
+        guaranty agency that has insured loans for current or former 
+        students of the institution afford such institution a reasonable 
+        opportunity (as specified by the Secretary) to review and 
+        correct errors in the information required to be provided to the 
+        Secretary by the guaranty agency for the purposes of calculating 
+        a cohort default rate for such institution, prior to the 
+        calculation of such rate.'';
+            (B) in paragraph (1)(B), by striking ``and, in calculating'' 
+        and all that follows through the period at the end thereof and 
+        inserting the following: ``and, in considering appeals with 
+        respect to cohort default rates pursuant to subsection (a)(3), 
+        exclude any loans which, due to improper servicing or 
+        collection, would, as demonstrated by the evidence submitted in 
+        support of the institution's timely appeal to the Secretary, 
+        result in an inaccurate or incomplete calculation of such cohort 
+        default rate.'';
+        (61) in section 435(m)(2)(D)--
+            (A) by inserting ``(or the portion of a loan made under 
+        section 428C that is used to repay a loan made under section 
+        428A)'' after ``section 428A'' the first place it appears; and
+            (B) by inserting ``(or a loan made under section 428C a 
+        portion of which is used to repay a loan made under section 
+        428A)'' after ``section 428A'' the second place it appears;
+        (62) in section 435(m), by adding at the end thereof the 
+    following new paragraph:
+        ``(4) Collection and reporting of cohort default rates.--(A) The 
+    Secretary shall collect data from all insurers under this part and 
+    shall publish not less often than once every fiscal year a report 
+    showing default data for each category of institution, including (i) 
+    4-year public institutions, (ii) 4-year private institutions, (iii) 
+    2-year public institutions, (iv) 2-year private institutions, (v) 4-
+    year proprietary institutions, (vi) 2-year proprietary institutions, 
+    and (vii) less than 2-year proprietary institutions.
+        ``(B) The Secretary may designate such additional subcategories 
+    within the categories specified in subparagraph (A) as the Secretary 
+    deems appropriate.
+        ``(C) The Secretary shall publish not less often than once every 
+    fiscal year a report showing default data for each institution for 
+    which a cohort default rate is calculated under this subsection.'';
+        (63) in section 437, by amending subsection (b) to read as 
+    follows:
+    ``(b) Payment of Claims on Loans in Bankruptcy.--The Secretary shall 
+pay to the holder of a loan described in section 428(a)(1) (A) or (B), 
+428A, 428B, 428C, or 428H, the amount of the unpaid balance of principal 
+and interest owed on such loan--
+        ``(1) when the borrower files for relief under chapter 12 or 13 
+    of title 11, United States Code;
+        ``(2) when the borrower who has filed for relief under chapter 7 
+    or 11 of such title commences an action for a determination of 
+    dischargeability under section 523(a)(8)(B) of such title; or
+        ``(3) for loans described in section 523(a)(8)(A) of such title, 
+    when the borrower files for relief under chapter 7 or 11 of such 
+    title.'';
+        (64) in section 437(c)(1)--
+            (A) by striking ``If a student borrower'' and inserting ``If 
+        a borrower'';
+            (B) by striking ``under this part is unable'' and inserting 
+        ``under this part and the student borrower, or the student on 
+        whose behalf a parent borrowed, is unable''; and
+            (C) by striking ``in which the borrower is enrolled'' and 
+        inserting ``in which such student is enrolled''; and
+        (65) in section 437(c)(4), by adding at the end the following 
+    new sentence: ``The amount discharged under this subsection shall be 
+    treated the same as loans under section 465(a)(5) of this title.'';
+        (66) in the matter preceding paragraph (1) of section 437A(a), 
+    by striking ``under subsection (d)'';
+        (67) in section 437A(c)(2), by inserting a period at the end;
+        (68) in section 437A, by striking subsection (e); and
+        (69) in section 439(r)(12), by striking ``section 522'' and 
+    inserting ``section 552''.
+    (d) Amendment to Part C of Title IV of the Act.--Part C of title IV 
+of the Act (42 U.S.C. 2751 et seq.) is amended--
+        (1) in section 442(d)(4)(C), by striking ``three-fourths in the 
+    Pell Grant family size offset'' and inserting ``150 percent of the 
+    difference between the income protection allowance for a family of 
+    five with one in college and the income protection allowance for a 
+    family of six with one in college'';
+        (2) in section 442(e)--
+            (A) by inserting ``(1)'' before ``If''; and
+            (B) by adding at the end the following new paragraph:
+    ``(2) If, under paragraph (1) of this subsection, an institution 
+returns more than 10 percent of its allocation, the institution's 
+allocation for the next fiscal year shall be reduced by the amount 
+returned. The Secretary may waive this paragraph for a specific 
+institution if the Secretary finds that enforcing this paragraph would 
+be contrary to the interest of the program.'';
+        (3) in section 443(b)(2)(A), by striking ``institution;'' and 
+    inserting ``institution; and'';
+        (4) in section 443(b), by amending paragraph (5) to read as 
+    follows:
+        ``(5) provide that the Federal share of the compensation of 
+    students employed in the work-study program in accordance with the 
+    agreement shall not exceed 75 percent for academic year 1993-1994 
+    and succeeding academic years, except that the Federal share may 
+    exceed such amounts of compensation if the Secretary determines, 
+    pursuant to regulations promulgated by the Secretary establishing 
+    objective criteria for such determinations, that a Federal share in 
+    excess of such amounts is required in furtherance of the purpose of 
+    this part;''; and
+        (5) in section 443(b)(8), by striking subparagraphs (A), (B), 
+    and (C) and inserting the following:
+            ``(A) that are only on campus and that--
+                ``(i) to the maximum extent practicable, complement and 
+            reinforce the education programs or vocational goals of such 
+            students; and
+                ``(ii) furnish student services that are directly 
+            related to the student's education, as determined by the 
+            Secretary pursuant to regulations, except that no student 
+            shall be employed in any position that would involve the 
+            solicitation of other potential students to enroll in the 
+            school; or
+            ``(B) in community service in accordance with paragraph 
+        (2)(A) of this subsection;''.
+    (e) Amendment to Part D of Title IV of the Act.--Section 
+453(b)(2)(B) of the Act (20 U.S.C. 1087c(b)(2)(B)) is amended to read as 
+follows:
+            ``(B) if the Secretary determines it necessary in order to 
+        carry out the purposes of subparagraph (A) and attain such 
+        reasonable representation (as required by subparagraph (A)), 
+        selecting additional institutions.''.
+    (f) Amendments to Part E of Title IV of the Act.--Part E of title IV 
+of the Act (20 U.S.C. 1087aa et seq.) is amended--
+        (1) in subsections (a)(1) and (a)(2)(D) of section 462, by 
+    striking ``if the institution which has'' each place it appears and 
+    inserting ``if the institution has'';
+        (2) in section 462(d)(4)(C), by striking ``three-fourths in the 
+    Pell Grant family size offset'' and inserting ``150 percent of the 
+    difference between the income protection allowance for a family of 
+    five with one in college and the income protection allowance for a 
+    family of six with one in college'';
+        (3) in section 462(e), by reducing the indentation of paragraph 
+    (2) by two em spaces;
+        (4) in section 462(h)(4), by reducing the indentation of 
+    subparagraph (B) by two em spaces;
+        (5) in section 463(a)(2)(B)(i)(II), by striking ``7.5 percent'' 
+    and inserting ``7.5 percent for award year 1993-1994 and has a 
+    cohort default rate which does not exceed 15 percent for award year 
+    1994-1995 or for any succeeding award year'';
+        (6) in section 463(c)(4), by striking ``shall disclose'' and 
+    inserting ``shall disclose at least annually'';
+        (7) in section 463, by adding at the end the following new 
+    subsections:
+    ``(d) Limitation on Use of Interest Bearing Accounts.--In carrying 
+out the provisions of subsection (a)(10), the Secretary may not require 
+that any collection agency, collection attorney, or loan servicer 
+collecting loans made under this part deposit amounts collected on such 
+loans in interest bearing accounts, unless such agency, attorney, or 
+servicer holds such amounts for more than 45 days.
+    ``(e) Special Due Diligence Rule.--In carrying out the provisions of 
+subsection (a)(5) relating to due diligence, the Secretary shall make 
+every effort to ensure that institutions of higher education may use 
+Internal Revenue Service skip-tracing collection procedures on loans 
+made under this part.'';
+        (8) in section 463A, by striking subsections (d) and (e);
+        (9) in section 464(c)(2)(B) by striking ``repayment or'' and 
+    inserting ``repayment of'';
+        (10) in section 464(c)(6), by striking ``Fullbright'' and 
+    inserting ``Fulbright'';
+        (11) in section 464(e), by striking ``principle'' and inserting 
+    ``principal'';
+        (12) in section 465(a)(2)(D), by striking ``services'' and 
+    inserting ``service'';
+        (13) in section 465(a)(2)(F), by striking ``or'' after the 
+    semicolon;
+        (14) in section 465(a), by reducing the indentation of paragraph 
+    (6) by 2 em spaces; and
+        (15) in section 466(c), by reducing the indentation of paragraph 
+    (2) by two em spaces.
+    (g) Amendments to Part F of Title IV of the Act.--Part F of title IV 
+of the Act (20 U.S.C. 1087kk et seq.) is amended--
+        (1) in section 472--
+            (A) in paragraph (10), by striking ``and'' after the 
+        semicolon;
+            (B) in paragraph (11), by striking the period and inserting 
+        ``; and''; and
+            (C) by adding at the end the following new paragraph:
+        ``(12) for a student who receives a loan under this or any other 
+    Federal law, or, at the option of the institution, a conventional 
+    student loan incurred by the student to cover a student's cost of 
+    attendance at the institution, an allowance for the actual cost of 
+    any loan fee, origination fee, or insurance premium charged to such 
+    student or such parent on such loan, or the average cost of any such 
+    fee or premium charged by the Secretary, lender, or guaranty agency 
+    making or insuring such loan, as the case may be.'';
+        (2) in the table contained in sections 475(c)(4) and 477(b)(4), 
+    by inserting ``$'' before ``9,510'';
+        (3) in section 475(f)(3)--
+            (A) by striking ``Income in the case of a parent'' and 
+        inserting ``If a parent'';
+            (B) by striking ``(1) of this subsection, or a parent'' and 
+        inserting ``(1) of this subsection, or if a parent''; and
+            (C) by striking ``is determined as follows: The income'' and 
+        inserting ``the income'';
+        (4) in section 475(g)(1)(B), by inserting a close parentheses 
+    after ``paragraph (2)'';
+        (5) in the table contained in section 475(g)(3), by adding a 
+    last row that is identical to the last row of the table contained in 
+    section 476(b)(2);
+        (6) in section 476, by adding at the end thereof the following 
+    new subsection:
+    ``(d) Computations in Case of Separation, Divorce, or Death.--In the 
+case of a student who is divorced or separated, or whose spouse has 
+died, the spouse's income and assets shall not be considered in 
+determining the family's contribution from income or assets.'';
+        (7) in section 477 by adding at the end thereof the following 
+    new subsection:
+    ``(e) Computations in Case of Separation, Divorce, or Death.--In the 
+case of a student who is divorced or separated, or whose spouse has 
+died, the spouse's income and assets shall not be considered in 
+determining the family's available income or assets.'';
+        (8) in section 478--
+            (A) by striking ``1992-1993'' each place it appears and 
+        inserting ``1993-1994''; and
+            (B) in subsection (c)(1), by inserting ``December'' before 
+        ``1992'';
+        (9) in section 478(h), by striking ``Bureau of Labor Standards'' 
+    and inserting ``Bureau of Labor Statistics'';
+        (10) in section 479(a)(1), by inserting ``of'' after ``(c)'';
+        (11) in section 479(b)(1)(B)(i)--
+            (A) by inserting ``(and the student's spouse, if any)'' 
+        after ``student'' each time it appears; and
+            (B) by striking ``such'';
+        (12) in section 479(b)(2), by striking ``five elements'' and 
+    inserting ``six elements'';
+        (13) in section 479(b)(2)(E), by striking the semicolon and 
+    inserting a comma;
+        (14) in section 479(b)(3)--
+            (A) in subparagraph (A), by inserting ``(including any 
+        prepared or electronic version of such form)'' before 
+        ``required''; and
+            (B) in subparagraph (B), by inserting ``(including any 
+        prepared or electronic version of such return)'' before 
+        ``required'';
+        (15) in section 479(c)--
+            (A) by amending subparagraph (A) of paragraph (1) to read as 
+        follows:
+            ``(A) the student's parents were not required to file an 
+        income tax return under section 6012(a)(1) of the Internal 
+        Revenue Code of 1986; and'';
+            (B) by amending subparagraph (A) of paragraph (2) to read as 
+        follows:
+            ``(A) the student (and the student's spouse, if any) was not 
+        required to file an income tax return under section 6012(a)(1) 
+        of the Internal Revenue Code of 1986; and''; and
+            (C) in subparagraph (B) of paragraphs (1) and (2), by 
+        inserting ``in 1992 or the current year, whichever is higher,'' 
+        after ``that may be earned''; and
+        (16) in section 479A, by adding at the end the following new 
+    subsection:
+    ``(c) Adjustments for Special Circumstances.--
+        ``(1) In general.--A student financial aid administrator shall 
+    be considered to be making an adjustment for special circumstances 
+    in accordance with subsection (a) if--
+            ``(A) in the case of a dependent student--
+                ``(i) such student received a Federal Pell Grant as a 
+            dependent student in academic year 1992-1993 and the amount 
+            of such student's Federal Pell Grant for academic year 1993-
+            1994 is at least $500 less than the amount of such student's 
+            Federal Pell Grant for academic year 1992-1993; and
+                ``(ii) the decrease described in clause (i) is the 
+            direct result of a change in the determination of such 
+            student's need for assistance in accordance with this part 
+            that is attributable to the enactment of the Higher 
+            Education Amendments of 1992; and
+            ``(B) in the case of a single independent student--
+                ``(i) such student received a Federal Pell Grant as a 
+            single independent student in academic year 1992-1993 and 
+            qualified as an independent student in accordance with 
+            section 480(d) for academic year 1993-1994, and the amount 
+            of such student's Federal Pell Grant for academic year 1993-
+            1994 is at least $500 less than the amount of such student's 
+            Federal Pell Grant for academic year 1992-1993; and
+                ``(ii) the decrease described in clause (i) is the 
+            direct result of a change in the determination of such 
+            student's need for assistance in accordance with this part 
+            that is attributable to the enactment of the Higher 
+            Education Amendments of 1992.
+        ``(2) Amount.--A financial aid administrator shall not make an 
+    adjustment for special circumstances pursuant to this subsection in 
+    an amount that exceeds one-half of the difference between the amount 
+    of a student's Federal Pell Grant for academic year 1992-1993 and 
+    the amount of such student's Federal Pell Grant for academic year 
+    1993-1994.
+        ``(3) Academic year limitation.--A financial aid administrator 
+    shall make adjustments under this subsection only for Federal Pell 
+    Grants awarded for academic years 1993-1994, 1994-1995, and 1995-
+    1996.
+        ``(4) Special rule.--Adjustments under this subsection shall be 
+    made in any fiscal year only if an Act that contains an 
+    appropriation for such fiscal year to carry out this subsection is 
+    enacted on or after the date of enactment of the Higher Education 
+    Technical Amendments of 1993.
+        ``(5) Limitation.--Adjustments under this subsection shall not 
+    be available for any academic year to any student who, on the basis 
+    of the financial circumstances of the student for the current 
+    academic year, would not have been eligible for a grant under this 
+    section in academic year 1992-1993.'';
+        (17) in section 480(c)(2), by striking ``Title'' each place it 
+    appears and inserting ``United States Code, title'';
+        (18) in section 480(d)(2), by inserting ``or was a ward of the 
+    court until the individual reached the age of 18'' before the 
+    semicolon;
+        (19) in section 480(j), by reducing the indentation of paragraph 
+    (3) by 2 em spaces; and
+        (20) in section 480, by adding at the end the following new 
+    subsections:
+    ``(k) Dependents.--(1) Except as otherwise provided, the term 
+`dependent of the parent' means the student, dependent children of the 
+student's parents, including those children who are deemed to be 
+dependent students when applying for aid under this title, and other 
+persons who live with and receive more than one-half of their support 
+from the parent and will continue to receive more than half of their 
+support from the parent during the award year.
+    ``(2) Except as otherwise provided, the term `dependent of the 
+student' means the student's dependent children and other persons 
+(except the student's spouse) who live with and receive more than one-
+half of their support from the student and will continue to receive more 
+than half of their support from the student during the award year.
+    ``(l) Family Size.--(1) In determining family size in the case of a 
+dependent student--
+        ``(A) if the parents are not divorced or separated, family 
+    members include the student's parents, and the dependents of the 
+    student's parents including the student;
+        ``(B) if the parents are divorced or separated, family members 
+    include the parent whose income is included in computing available 
+    income and that parent's dependents, including the student; and
+        ``(C) if the parents are divorced and the parent whose income is 
+    so included is remarried, or if the parent was a widow or widower 
+    who has remarried, family members also include, in addition to those 
+    individuals referred to in subparagraph (B), the new spouse and any 
+    dependents of the new spouse if that spouse's income is included in 
+    determining the parents' adjusted available income.
+    ``(2) In determining family size in the case of an independent 
+student--
+        ``(A) family members include the student, the student's spouse, 
+    and the dependents of the student; and
+        ``(B) if the student is divorced or separated, family members do 
+    not include the spouse (or ex-spouse), but do include the student 
+    and the student's dependents.
+    ``(m) Business Assets.--The term `business assets' means property 
+that is used in the operation of a trade or business, including real 
+estate, inventories, buildings, machinery, and other equipment, patents, 
+franchise rights, and copyrights.''.
+    (h) Amendments to Part G of Title IV of the Act.--Part G of title IV 
+of the Act (20 U.S.C. 1088 et seq.) is amended--
+        (1) in section 481(a)(3)(B), by inserting before the semicolon 
+    the following: ``, except that the Secretary, at the request of such 
+    institution, may waive the applicability of this subparagraph to 
+    such institution for good cause, as determined by the Secretary in 
+    the case of an institution of higher education that provides a 2-
+    year or 4-year program of instruction for which the institution 
+    awards an associate or baccalaureate degree'';
+        (2) in section 481(a)(3)(D)--
+            (A) by striking ``are admitted pursuant to section 484(d)'' 
+        and inserting ``do not have a high school diploma or its 
+        recognized equivalent''; and
+            (B) by inserting before the period the following: ``, except 
+        that the Secretary may waive the limitation contained in this 
+        subparagraph if a nonprofit institution demonstrates to the 
+        satisfaction of the Secretary that it exceeds such limitation 
+        because it serves, through contracts with Federal, State, or 
+        local government agencies, significant numbers of students who 
+        do not have a high school diploma or its recognized 
+        equivalent'';
+        (3) in section 481(a)(4), by amending subparagraph (A) to read 
+    as follows:
+        ``(A) the institution, or an affiliate of the institution that 
+    has the power, by contract or ownership interest, to direct or cause 
+    the direction of the management or policies of the institution, has 
+    filed for bankruptcy; or'';
+        (4) in section 481(d), by amending paragraph (2) to read as 
+    follows:
+    ``(2) For the purpose of any program under this title, the term 
+`academic year' shall require a minimum of 30 weeks of instructional 
+time, and, with respect to an undergraduate course of study, shall 
+require that during such minimum period of instructional time a full-
+time student is expected to complete at least 24 semester or trimester 
+hours or 36 quarter hours at an institution that measures program length 
+in credit hours, or at least 900 clock hours at an institution that 
+measures program length in clock hours. The Secretary may reduce such 
+minimum of 30 weeks to not less than 26 weeks for good cause, as 
+determined by the Secretary on a case-by-case basis, in the case of an 
+institution of higher education that provides a 2-year or 4-year program 
+of instruction for which the institution awards an associate or 
+baccalaureate degree.'';
+        (5) in section 481(e) by striking paragraph (2) and inserting 
+    the following:
+    ``(2)(A) A program is an eligible program for purposes of part B of 
+this title if it is a program of at least 300 clock hours of 
+instruction, but less than 600 clock hours of instruction, offered 
+during a minimum of 10 weeks, that--
+        ``(i) has a verified completion rate of at least 70 percent, as 
+    determined in accordance with the regulations of the Secretary;
+        ``(ii) has a verified placement rate of at least 70 percent, as 
+    determined in accordance with the regulations of the Secretary; and
+        ``(iii) satisfies such further criteria as the Secretary may 
+    prescribe by regulation.
+    ``(B) In the case of a program being determined eligible for the 
+first time under this paragraph, such determination shall be made by the 
+Secretary before such program is considered to have satisfied the 
+requirements of this paragraph.'';
+        (6) in section 481(f), by striking ``State'' and inserting 
+    ``individual, or any State,'';
+        (7) in section 482(c), by adding at the end the following new 
+    sentence: ``For award year 1994-95, this subsection shall not 
+    require a delay in the effectiveness of regulatory changes affecting 
+    parts B, G, and H of this title that are published in final form by 
+    May 1, 1994.'';
+        (8) in section 483(a)(1), by striking ``section 411(d)'' and 
+    inserting ``section 401(d)'';
+        (9) in section 483(a)(2), by inserting at the end the following 
+    new sentence: ``No data collected on a form for which a fee is 
+    charged shall be used to complete the form prescribed under 
+    paragraph (1).'';
+        (10) in section 483(a)(3), by inserting at the end the following 
+    sentence: ``Entities designated by institutions of higher education 
+    or States to receive such data shall be subject to all requirements 
+    of this section, unless such requirements are waived by the 
+    Secretary.'';
+        (11) in section 483(f), by striking ``address, social security 
+    number,'' and inserting ``address or employer's address, social 
+    security number or employer identification number,'';
+        (12) in section 483, by redesignating subsections (e), (f), and 
+    (g) as subsections (d), (e), and (f), respectively;
+        (13) in section 484(a)(4)(B), by inserting after ``number'' the 
+    following: ``, except that the provisions of this subparagraph shall 
+    not apply to a student from the Republic of the Marshall Islands, 
+    the Federated States of Micronesia, or the Republic of Palau'';
+        (14) in section 484(a)(5), by striking ``in the United States 
+    for other than a temporary purpose and able to provide evidence from 
+    the Immigration and Naturalization Service of his or her intent to 
+    become a permanent resident'' and inserting ``able to provide 
+    evidence from the Immigration and Naturalization Service that he or 
+    she is in the United States for other than a temporary purpose with 
+    the intention of becoming a citizen or permanent resident'';
+        (15) in section 484(b)(2)--
+            (A) in subparagraph (A), by striking ``and'' after the 
+        semicolon;
+            (B) in subparagraph (B), by striking the period and 
+        inserting ``; and''; and
+            (C) by adding at the end the following new subparagraph:
+        ``(C) has applied for a loan under section 428H, if such student 
+    is eligible to apply for such a loan.'';
+        (16) in the matter following subparagraph (B) of section 
+    484(b)(3), by striking ``part B'' and inserting ``part B or D'';
+        (17) in section 484, by striking subsection (f);
+        (18) in section 484(g), by inserting a comma after ``Part D'' 
+    each place it appears;
+        (19) in the matter preceding clause (i) of section 484(h)(4)(B), 
+    by striking ``constitutes'' and inserting ``constitute'';
+        (20) in section 484(i)(2)--
+            (A) by striking ``(h)(4)(A)(ii)'' and inserting 
+        ``(h)(4)(A)(i)''; and
+            (B) by striking ``documentation,'' and inserting 
+        ``documentation, or'';
+        (21) in section 484(i)(3)--
+            (A) by striking ``(h)(4)(B)(ii)'' and inserting 
+        ``(h)(4)(B)(i)''; and
+            (B) by striking ``, or'' and inserting a period;
+        (22) in section 484(i), by striking paragraph (4);
+        (23) in section 484(n), by striking ``part B, C,'' and inserting 
+    ``parts B, C,'';
+        (24) in section 484(q)(2), by striking ``a correct social 
+    security number'' and inserting ``documented evidence of a social 
+    security number that is determined by the institution to be 
+    correct'';
+        (25) in section 484, by redesignating subsections (g) through 
+    (q) as subsections (f) through (p), respectively;
+        (26) in section 484B(a), by striking ``grant, loan, or work 
+    assistance'' and inserting ``grant or loan assistance'';
+        (27) in section 484B(b)(3), by striking ``subsection (d)'' and 
+    inserting ``subsection (c)'';
+        (28) in clauses (i), (ii), and (iii) of section 485(a)(1)(F), by 
+    inserting before the comma at the end of each such clause the 
+    following: ``for the period of enrollment for which a refund is 
+    required'';
+        (29) in section 485(a)(1)(F)(iv), by inserting ``under'' after 
+    ``awards'';
+        (30) in section 485(a)(1)(F)(vii), by striking ``provided under 
+    this title'';
+        (31) in section 485(a)(1)(F)(viii), by striking the period;
+        (32) in section 485(a)(1)(F), by striking clause (vi) and 
+    redesignating clauses (vii) and (viii) as clauses (vi) and (vii), 
+    respectively;
+        (33) in section 485(a)(1)(L), by inserting a comma after ``full-
+    time'';
+        (34) in section 485(a)(3), by amending subparagraph (A) to read 
+    as follows:
+        ``(A) shall, for any academic year beginning more than 270 days 
+    after the Secretary first prescribes final regulations pursuant to 
+    such subparagraph (L), be made available to current and prospective 
+    students prior to enrolling or entering into any financial 
+    obligation; and'';
+        (35) in paragraphs (1)(A) and (2)(A) of section 485(b), by 
+    striking ``under parts'' and inserting ``under part'';
+        (36) in section 485(d), by inserting a period at the end of the 
+    penultimate sentence;
+        (37) in section 485(e), by adding at the end the following new 
+    paragraph:
+    ``(9) This subsection shall not be effective until the first July 1 
+that follows, by more than 270 days, the date on which the Secretary 
+first prescribes final regulations pursuant to this subsection. The 
+reports required by this subsection shall be due on that July 1 and each 
+succeeding July 1 and shall cover the 1-year period ending June 30 of 
+the preceding year.'';
+        (38) in section 485B(a)--
+            (A) by striking ``part E'' and inserting ``parts D and E''; 
+        and
+            (B) by striking the second period at the end of the third 
+        sentence;
+        (39) in section 485B(a)(4), by striking ``part E'' and inserting 
+    ``parts D and E'';
+        (40) in section 485B(c), by striking ``part B or part E'' and 
+    inserting ``part B, D, or E'';
+        (41) in section 485B(e), by striking ``under this part'' each 
+    place it appears and inserting ``under this title'';
+        (42) in section 487(a)(2), by striking ``, or for completing or 
+    handling the Federal Student Assistance Report'';
+        (43) in section 487(c)(1)(F), by striking ``eligibility for any 
+    program under this title of any otherwise eligible institution,'' 
+    and inserting ``participation in any program under this title of an 
+    eligible institution,'';
+        (44) in section 489(a), by striking ``484(c)'' and inserting 
+    ``484(h)'';
+        (45) in section 491(d)(1), by striking ``sections 411A through 
+    411E and''; and
+        (46) in section 491(h)(1), by striking ``subtitle III'' and 
+    inserting ``subchapter III''.
+    (i) Amendments to Part H of Title IV of the Act.--Part H of title IV 
+of the Act (20 U.S.C. 1099a et seq.) is amended--
+        (1) in section 494C(a), by striking the first and second 
+    sentences and inserting the following: ``The Secretary shall review 
+    all eligible institutions of higher education in a State to 
+    determine if any such institution meets any of the criteria in 
+    subsection (b). If any such institution meets one or more of such 
+    criteria, the Secretary shall inform the State in which such 
+    institution is located that the institution has met such criteria, 
+    and the State shall review the institution pursuant to the standards 
+    in subsection (d). The Secretary may determine that a State need not 
+    review an institution if such institution meets the criterion in 
+    subsection (b)(10) only, such institution was previously reviewed by 
+    the State under subsection (d), and the State determined in such 
+    previous review that the institution did not violate any of the 
+    standards in subsection (d).'';
+        (2) in section 494C(i), by striking ``sections 428 or 487'' and 
+    inserting ``section 428 or 487'';
+        (3) in section 496(a)(2)(A)(i), by inserting ``of institutions 
+    of higher education'' after ``membership'';
+        (4) in section 496(a)(3)(A), by striking ``subparagraph (A)'' 
+    and inserting ``subparagraph (A)(i)'';
+        (5) in section 496(a)(5)--
+            (A) by striking the period at the end of subparagraph (L) 
+        and inserting a semicolon; and
+            (B) by inserting after subparagraph (L) the following:
+    ``except that subparagraphs (G), (H), (I), (J), and (L) shall not 
+    apply to agencies or associations described in paragraph (2)(A)(ii) 
+    of this subsection;'';
+        (6) in the matter preceding paragraph (1) of section 496(c), by 
+    striking ``for the purpose of this title'' and inserting ``as a 
+    reliable authority as to the quality of education or training 
+    offered by an institution seeking to participate in the programs 
+    authorized under this title'';
+        (7) in section 496(l)(2)--
+            (A) by striking ``institutution'' and inserting 
+        ``institution''; and
+            (B) by striking ``association leading to the suspension'' 
+        and inserting ``association, described in paragraph (2)(A)(i), 
+        (2)(B), or (2)(C) of subsection (a) of this section, leading to 
+        the suspension'';
+        (8) in section 496(n)(1), by amending subparagraph (B) to read 
+    as follows:
+        ``(B) site visits, including unannounced site visits as 
+    appropriate, at accrediting agencies and associations, and, at the 
+    Secretary's discretion, at representative member institutions.'';
+        (9) in section 498(c)--
+            (A) in paragraph (2), by adding at the end the following new 
+        sentences: ``Such criteria shall take into account any 
+        differences in generally accepted accounting principles, and the 
+        financial statements required thereunder, that are applicable to 
+        for profit and nonprofit institutions. The Secretary shall take 
+        into account an institution's total financial circumstances in 
+        making a determination of its ability to meet the standards 
+        herein required.'';
+            (B) in the matter preceding subparagraph (A) of paragraph 
+        (3), by striking ``may determine'' and inserting ``shall 
+        determine'';
+            (C) by amending subparagraph (C) of paragraph (3) to read as 
+        follows:
+        ``(C) such institution establishes to the satisfaction of the 
+    Secretary, with the support of a financial statement audited by an 
+    independent certified public accountant in accordance with generally 
+    accepted auditing standards, that the institution has sufficient 
+    resources to ensure against the precipitous closure of the 
+    institution, including the ability to meet all of its financial 
+    obligations (including refunds of institutional charges and 
+    repayments to the Secretary for liabilities and debts incurred in 
+    programs administered by the Secretary); or'';
+            (D) by redesignating paragraphs (4) and (5) as paragraphs 
+        (5) and (6), respectively; and
+            (E) by inserting after paragraph (3) the following new 
+        paragraph:
+    ``(4) If an institution of higher education that provides a 2-year 
+or 4-year program of instruction for which the institution awards an 
+associate or baccalaureate degree fails to meet the ratio of current 
+assets to current liabilities imposed by the Secretary pursuant to 
+paragraph (2), the Secretary shall waive that particular requirement for 
+that institution if the institution demonstrates to the satisfaction of 
+the Secretary that--
+        ``(A) there is no reasonable doubt as to its continued solvency 
+    and ability to deliver quality educational services;
+        ``(B) it is current in its payment of all current liabilities, 
+    including student refunds, repayments to the Secretary, payroll, and 
+    payment of trade creditors and withholding taxes; and
+        ``(C) it has substantial equity in school-occupied facilities, 
+    the acquisition of which was the direct cause of its failure to meet 
+    the current operating ratio requirement.'';
+        (10) in section 498(f), by inserting after the second sentence 
+    the following: ``The Secretary may establish priorities by which 
+    institutions are to receive site visits, and may coordinate such 
+    visits with site visits by States, guaranty agencies, and 
+    accrediting bodies in order to eliminate duplication, and reduce 
+    administrative burden.'';
+        (11) in section 498(h)(1)(B), by amending clause (iii) to read 
+    as follows:
+            ``(iii) the Secretary determines that an institution that 
+        seeks to renew its certification is, in the judgment of the 
+        Secretary, in an administrative or financial condition that may 
+        jeopardize its ability to perform its financial responsibilities 
+        under a program participation agreement.'';
+        (12) in section 498, by amending subsection (i)(1) to read as 
+    follows:
+    ``(i) Treatment of Changes of Ownership.--(1) An eligible 
+institution of higher education that has had a change in ownership 
+resulting in a change of control shall not qualify to participate in 
+programs under this title after the change in control (except as 
+provided in paragraph (3)) unless it establishes that it meets the 
+requirements of section 481 (other than the requirements in subsections 
+(b)(5) and (c)(3)) and this section after such change in control.'';
+        (13) in section 498(i)(3), by amending subparagraph (A) to read 
+    as follows:
+        ``(A) the sale or transfer, upon the death of an owner of an 
+    institution, of the ownership interest of the deceased in that 
+    institution to a family member or to a person holding an ownership 
+    interest in that institution; or'';
+        (14) in section 498, by amending subsection (j)(1) to read as 
+    follows:
+    ``(j) Treatment of Branches.--(1) A branch of an eligible 
+institution of higher education, as defined pursuant to regulations of 
+the Secretary, shall be certified under this subpart before it may 
+participate as part of such institution in a program under this title, 
+except that such branch shall not be required to meet the requirements 
+of sections 481(b)(5) and 481(c)(3) prior to seeking such certification. 
+Such branch is required to be in existence at least 2 years prior to 
+seeking certification as a main campus or free-standing institution.''; 
+and
+        (15) in section 498A(e), by striking ``Act,'' and inserting 
+    ``Act''.
+    (j) Amendments to Titles V Through XII of the Act.--Titles V through 
+XII of the Act (20 U.S.C. 1101 et seq.) are amended--
+        (1) in section 505(b)(2)(D)(iii), by striking the period and 
+    inserting a semicolon;
+        (2) in section 525, by amending subsection (c) to read as 
+    follows:
+    ``(c) Waivers.--For purposes of giving special consideration under 
+section 523(d), a State may waive the criteria contained in the first 
+sentence of subsection (b) for not more than 25 percent of individuals 
+receiving Paul Douglas Teacher Scholarships on or after July 1, 1993.'';
+        (3) in the first sentence of section 530A by striking 
+    ``elementary and secondary school teachers'' each place it appears 
+    and inserting ``preschool, elementary, and secondary school 
+    teachers'';
+        (4) in section 535(b)(1)(C), by striking the semicolon and 
+    inserting a period;
+        (5) in section 537(a), by inserting ``In'' before ``General'';
+        (6) in section 545(d), by striking ``parts B, D,'' and inserting 
+    ``part B, D,'';
+        (7) in section 580B, by striking ``(a) Authorization.--'';
+        (8) in section 581(b)(2), by striking ``402A(g)(2)'' and 
+    inserting ``402A(g)'';
+        (9) in section 597(d)(1), by striking ``Development and'' and 
+    inserting ``and Development'';
+        (10) in section 602(a)(3), by striking ``(1)(A)'' and inserting 
+    ``(1)'';
+        (11) in section 602(a)(4), by striking ``(1)(A)'' and inserting 
+    ``(1)'';
+        (12) in the heading of subsection (a) of section 603, by 
+    striking ``Resources'' and inserting ``Resource'';
+        (13) in section 607(c), by redesignating the second paragraph 
+    (2) as paragraph (3);
+        (14) in section 714, by striking ``(a) In General.--'';
+        (15) in section 715(b)--
+            (A) by striking ``(1) State grants.--'';
+            (B) by redesignating subparagraphs (A) and (B) as paragraphs 
+        (1) and (2);
+            (C) in paragraph (2) (as so redesignated) by redesignating 
+        clauses (i), (ii), and (iii) as subparagraphs (A), (B), and (C), 
+        respectively; and
+            (D) by reducing the indentation of such paragraphs (1) and 
+        (2) (as so redesignated) by two em spaces;
+        (16) in section 725--
+            (A) by redesignating paragraphs (2) through (5) as 
+        paragraphs (3) through (6), respectively; and
+            (B) by inserting after paragraph (1) the following new 
+        paragraph:
+        ``(2) shall require that the first loans for capital projects 
+    authorized under section 723 be made no later than March 31, 
+    1994;'';
+        (17) in section 726, by inserting a period after ``title'' the 
+    first time it appears and striking the remainder of the sentence;
+        (18) in section 731(a), by striking ``faculties,'' and inserting 
+    ``faculty,'';
+        (19) in section 731(c), by striking ``enactment of'';
+        (20) in section 734(e)--
+            (A) by striking ``Faculties'' and inserting ``Faculty''; and
+            (B) by striking ``faculties'' and inserting ``faculty'';
+        (21) in section 781(b), by striking ``Education Amendments of 
+    1992,'' and inserting ``Education Amendments of 1992'';
+        (22) in section 782(1)(A), by striking ``outpatient care of 
+    student'' and inserting ``outpatient care of students'';
+        (23) in section 783--
+            (A) in subsection (a)(2), by inserting ``on all such loans 
+        owed by such institution'' after ``outstanding indebtedness''; 
+        and
+            (B) by adding at the end thereof the following new 
+        subsection:
+    ``(d) Reduction of Amounts Owed to Treasurer.--If the Secretary 
+forgives all or part of a loan described in subsection (a), the 
+outstanding balance remaining on the notes of the Secretary that were 
+issued to the Secretary of the Treasury under section 761(d) as in 
+effect prior to the enactment of the Higher Education Amendments of 
+1992, or under any provision of this title as in effect at the time such 
+note was issued, shall be reduced by such amount forgiven.'';
+        (24) in the matter preceding paragraph (1) of section 802(b), by 
+    inserting after ``fiscal year'' the following: ``the Secretary shall 
+    reserve such amount as is necessary to make continuing awards to 
+    institutions of higher education that were, on the date of enactment 
+    of the Higher Education Amendments of 1992, operating an existing 
+    cooperative education program under a multiyear project award and to 
+    continue to pay to such institutions the Federal share in effect on 
+    the day before such date of enactment. Of the remainder of the 
+    amount appropriated in such fiscal year'';
+        (25) in section 803(b)(6)(A), by striking ``data'';
+        (26) in section 803(e)(2)--
+            (A) by striking ``Mexican American'' and inserting 
+        ``Mexican-American''; and
+            (B) by striking ``Mariana'' and inserting ``Marianian'';
+        (27) in section 901(b)(2), by striking ``such part'' and 
+    inserting ``such title'';
+        (28) in section 922, by amending subsection (f) to read as 
+    follows:
+    ``(f) Institutional Payments.--(1) The Secretary shall pay to the 
+institution of higher education, for each individual awarded a 
+fellowship under this part at such institution, an institutional 
+allowance. Except as provided in paragraph (2), such allowance shall 
+be--
+        ``(A) $6,000 annually with respect to individuals who first 
+    received fellowships under this part prior to academic year 1993-
+    1994; and
+        ``(B) with respect to individuals who first receive fellowships 
+    during or after academic year 1993-1994--
+            ``(i) $9,000 for the academic year 1993-1994; and
+            ``(ii) for succeeding academic years, $9,000 adjusted 
+        annually thereafter in accordance with inflation as determined 
+        by the Department of Labor's Consumer Price Index for the 
+        previous calendar year.
+    ``(2) The institutional allowance paid under paragraph (1) shall be 
+reduced by the amount the institution charges and collects from a 
+fellowship recipient for tuition and other expenses as part of the 
+recipient's instructional program.'';
+        (29) in the second sentence of section 923(b)(1), by striking 
+    ``granting of such fellowships'' and all that follows through ``set 
+    forth in this section,'' and inserting ``granting of such 
+    fellowships for an additional period of study not to exceed one 12-
+    month period,'';
+        (30) in section 923(b)(2), by striking out the second and third 
+    sentences and inserting the following: ``Such period shall not 
+    exceed a total of 3 years, consisting of not more than 2 years of 
+    support for study or research, and not more than 1 year of support 
+    for dissertation work, provided that the student has attained 
+    satisfactory progress prior to the dissertation stage, except that 
+    the Secretary may provide by regulation for the granting of such 
+    fellowships for an additional period of study not to exceed one 12-
+    month period, under special circumstances which the Secretary 
+    determines would most effectively serve the purposes of this part. 
+    The Secretary shall make a determination to provide such 12-month 
+    extension of an award to an individual fellowship recipient for 
+    study or research upon review of an application for such extension 
+    by the recipient. The institution shall provide 2 years of support 
+    for each student following the years of Federal predissertation 
+    support under this part. Any student receiving an award for graduate 
+    study leading to a doctoral degree shall receive at least 1 year of 
+    supervised training in instruction during such student's doctoral 
+    program.'';
+        (31) in section 923(b), by adding at the end the following new 
+    paragraph:
+        ``(3) Continuation of awards under prior law.--Notwithstanding 
+    any other provision of law, in the case of an individual who was 
+    awarded a multiyear fellowship under this part before the date of 
+    enactment of the Higher Education Amendments of 1992, awards to such 
+    individual for the remainder of such fellowship may, at the 
+    discretion of the institution of higher education attended by such 
+    individual, be subject to the requirements of this subsection as in 
+    effect prior to such date of enactment. The institution shall be 
+    required to exercise such discretion at the time that its 
+    application to the Secretary for a grant under this part, and the 
+    amount of any such grant, are being considered by the Secretary.'';
+        (32) in section 924, by adding at the end thereof the following 
+    new sentence: ``Notwithstanding any other provision of law, the 
+    Secretary may use funds appropriated pursuant to this section for 
+    fiscal year 1994 to make continuation awards under section 923(b)(3) 
+    to individuals who would have been eligible for such awards in 
+    fiscal year 1993 if such section had been in effect.'';
+        (33) in section 931(a), by inserting after the first sentence 
+    the following new sentence: ``These fellowships shall be awarded to 
+    students intending to pursue a doctoral degree, except that 
+    fellowships may be granted to students pursuing a master's degree in 
+    those fields in which the master's degree is commonly accepted as 
+    the appropriate degree for a tenured-track faculty position in a 
+    baccalaureate degree-granting institution.'';
+        (34) in the third sentence of section 932(a)(1), by striking 
+    ``doctoral'' and inserting ``graduate'';
+        (35) in section 932(c), by striking ``doctoral'' and inserting 
+    ``graduate'';
+        (36) in section 933(b), by amending paragraph (1) to read as 
+    follows:
+        ``(1) In general.--(A) The Secretary shall (in addition to 
+    stipends paid to individuals under this part) pay to the institution 
+    of higher education, for each individual awarded a fellowship under 
+    this part at such institution, an institutional allowance. Except as 
+    provided in subparagraph (B), such allowance shall be--
+            ``(i) $6,000 annually with respect to individuals who first 
+        received fellowships under this part prior to academic year 
+        1993-1994; and
+            ``(ii) with respect to individuals who first receive 
+        fellowships during or after academic year 1993-1994--
+                ``(I) $9,000 for the academic year 1993-1994; and
+                ``(II) for succeeding academic years, $9,000 adjusted 
+            annually thereafter in accordance with inflation as 
+            determined by the Department of Labor's Consumer Price Index 
+            for the previous calendar year.
+        ``(B) The institutional allowance paid under subparagraph (A) 
+    shall be reduced by the amount the institution charges and collects 
+    from a fellowship recipient for tuition and other expenses as part 
+    of the recipient's instructional program.'';
+        (37) in section 941, by striking ``the part'' and inserting 
+    ``this part'';
+        (38) in section 943(b), by striking ``foreign languages or area 
+    studies'' and inserting ``foreign languages and area studies'';
+        (39) in section 945, by amending subsection (c) to read as 
+    follows:
+    ``(c) Treatment of Institutional Payments.--An institution of higher 
+education that makes institutional payments for tuition and fees on 
+behalf of individuals supported by fellowships under this part in 
+amounts that exceed the institutional payments made by the Secretary 
+pursuant to section 946(a) may count such payments toward the amounts 
+the institution is required to provide pursuant to section 944(b)(2).'';
+        (40) in section 946, by amending subsection (a) to read as 
+    follows:
+    ``(a) Institutional Payments.--(1) The Secretary shall (in addition 
+to stipends paid to individuals under this part) pay to the institution 
+of higher education, for each individual awarded a fellowship under this 
+part at such institution, an institutional allowance. Except as provided 
+in paragraph (2), such allowance shall be--
+        ``(A) $6,000 annually with respect to individuals who first 
+    received fellowships under this part prior to academic year 1993-
+    1994; and
+        ``(B) with respect to individuals who first receive fellowships 
+    during or after academic year 1993-1994--
+            ``(i) $9,000 for the academic year 1993-1994; and
+            ``(ii) for succeeding academic years, $9,000 adjusted 
+        annually thereafter in accordance with inflation as determined 
+        by the Department of Labor's Consumer Price Index for the 
+        previous calendar year.
+    ``(2) The institutional allowance paid under paragraph (1) shall be 
+reduced by the amount the institution charges and collects from a 
+fellowship recipient for tuition and other expenses as part of the 
+recipient's instructional program.'';
+        (41) in the matter preceding paragraph (1) of section 951(a), by 
+    inserting ``Pacific Islanders,'' after ``Native Americans,'';
+        (42) in section 1004(a), by striking ``part'' and inserting 
+    ``subpart'';
+        (43) in section 1011(d), by striking ``part'' and inserting 
+    ``subpart'';
+        (44) in part D of title X, by redesignating section 1181 as 
+    section 1081;
+        (45) in section 1081(d) (as so redesignated) by inserting a 
+    comma after ``this title)'' and after ``such institutions'';
+        (46) in section 1106(a), by striking ``may receive a grant'' and 
+    inserting ``may receive such a grant'';
+        (47) in section 1142(d)(2), by inserting ``program'' after 
+    ``literacy corps'';
+        (48) in the last sentence of section 1201(a), by striking 
+    ``subpart 3 of part H,'' and inserting ``subpart 2 of part H of 
+    title IV of this Act,'';
+        (49) by amending section 1204 to read as follows:
+
+
+       ``treatment of territories and territorial student assistance
+
+    ``Sec. 1204. (a) The Secretary is required to waive the eligibility 
+criteria of any postsecondary education program administered by the 
+Department where such criteria do not take into account the unique 
+circumstances in Guam, the Virgin Islands, American Samoa, Palau, the 
+Commonwealth of the Northern Mariana Islands, and the freely associated 
+states.
+    ``(b) Notwithstanding any other provision of law, an institution of 
+higher education that is located in any of the freely associated states, 
+rather than a State, shall be eligible, if otherwise qualified, for 
+assistance under chapter 1 of subpart 2 of part A of title IV of this 
+Act.'';
+        (50) in section 1205, in the section heading, by inserting 
+    ``NATIONAL ADVISORY'' before ``COMMITTEE'';
+        (51) in section 1205(a), by inserting ``National Advisory'' 
+    before ``Committee'' the first place it appears;
+        (52) in paragraphs (1) and (6) of section 1205(c), by inserting 
+    ``of title IV of this Act'' after ``part H'';
+        (53) in section 1205(f), by striking ``Accreditation and 
+    Institutional Eligibility'' and inserting ``Institutional Quality 
+    and Integrity'';
+        (54) in section 1209(f)(1), by striking ``the Act'' and 
+    inserting ``this Act'';
+        (55) in title XII, by redesignating section 1211 (as added by 
+    section 6231 of the Omnibus Trade and Competitiveness Act of 1988) 
+    as section 1212; and
+        (56) in section 1212(e)(2) (as so redesignated), by inserting 
+    close quotation marks after ``facilities'' the first place it 
+    appears.
+    (k) Amendments to the 1992 Amendments.--The Higher Education 
+Amendments of 1992 (Public Law 102-325; 106 Stat. 459) is amended--
+        (1) in section 401(d)(2)(A), by inserting ``the first place it 
+    appears'' before ``the following:'';
+        (2) in section 425(d)(1)--
+            (A) by inserting ``the second sentence of'' after ``(1) 
+        in''; and
+            (B) by striking ``in the second sentence'';
+        (3) in section 425(d)(4)--
+            (A) by inserting ``the second sentence of'' after ``(4) 
+        in''; and
+            (B) by striking ``in the second sentence'';
+        (4) in section 426(c), by striking ``new subsections'' and 
+    inserting ``new subsection'';
+        (5) in section 432(a)(3), by striking ``427(a)(2)(C) and 
+    428(b)(1)(M)'' and inserting ``427(a)(2)(C), 428(b)(1)(M), and 
+    428B(d)(1)'';
+        (6) in section 446, by striking subsection (c);
+        (7) in section 465(a), by amending paragraph (1) to read as 
+    follows:
+        ``(1) in subparagraph (A), by striking `and such determination' 
+    and all that follows through `such chapter 1';'';
+        (8) in section 484, by inserting after subsection (h) the 
+    following new subsection:
+    ``(i) Effective Date.--The amendments made by subsection (g) with 
+respect to the addition of subsection (n) shall be effective on and 
+after December 1, 1987.'';
+        (9) in section 486(a)(3), by striking ``section 1'' and 
+    inserting ``section 103'';
+        (10) in section 1409(b)(1), by striking ``the Asbestos Hazard 
+    Emergency Response Act'' and inserting ``section 202 of the Toxic 
+    Substances Control Act (15 U.S.C. 2642)'';
+        (11) in section 1422(9), by striking ``has placed'' and 
+    inserting ``have placed'';
+        (12) in section 1442(c), by striking ``Chairman'' and inserting 
+    ``Chairperson'';
+        (13) in section 1541(g), by striking ``educational'' and 
+    inserting ``education''; and
+        (14) in the subsection (a)(1) amended by section 1554(a), by 
+    striking ``4'' and inserting ``6''.
+    (l) Amendment to the 1986 Amendment.--Section 1507(a)(12) of the 
+Higher Education Amendments of 1986 (20 U.S.C. 4414(a)(12)) is amended 
+by striking the period and inserting a semicolon.
+    (m) Stylistic Consistency.--The Act is amended so that the section 
+designation and section heading of each section of the Act shall be in 
+the form and typeface of the section designation and heading of this 
+section.
+    (n) Accreditation Through Transfer of Credit.--(1) An institution of 
+higher education which satisfied the requirements of section 
+1201(a)(5)(B) of the Act prior to the enactment of the Higher Education 
+Amendments of 1992, shall be considered to meet the requirements of 
+section 1201(a)(5) of the Act if--
+        (A) within 60 days after the date of enactment of the Higher 
+    Education Technical Amendments of 1993, such institution has applied 
+    for accreditation by a nationally recognized accrediting agency or 
+    association which the Secretary determines, pursuant to subpart 2 of 
+    part H of title IV of the Act, to be a reliable authority as to the 
+    quality of education or training offered;
+        (B) within 2 years of the date of enactment of the Higher 
+    Education Technical Amendments of 1993, such institution is 
+    accredited by such an accrediting agency or association or, if not 
+    so accredited, has been granted preaccreditation status by such an 
+    agency or association that has been recognized by the Secretary for 
+    the granting of preaccreditation status, and the Secretary has 
+    determined that there is satisfactory assurance that the institution 
+    will meet the accreditation standards of such an agency or 
+    association within a reasonable time; and
+        (C) such institution is legally authorized within a State to 
+    provide education beyond secondary education.
+    (2) The Secretary shall determine whether to recertify any 
+institution that meets the requirements of paragraph (1) within 2 years 
+after the date of enactment of this Act.
+    (3) Paragraph (1) of this subsection shall be effective on and after 
+July 23, 1992.
+
+SEC. 3. PACIFIC REGIONAL EDUCATIONAL LABORATORY.
+
+    Section 101A of the Carl D. Perkins Vocational and Applied 
+Technology Education Act (20 U.S.C. 2311a) is amended--
+        (1) in the matter preceding paragraph (1) of subsection (b)--
+            (A) by striking ``Center for the Advancement of Pacific 
+        Education, Honolulu, Hawaii, or its successor entity as the 
+        Pacific regional educational laboratory'' and inserting 
+        ``Pacific Regional Educational Laboratory, Honolulu, Hawaii''; 
+        and
+            (B) by inserting ``or provide direct services regarding'' 
+        after ``grants for''; and
+        (2) in subsection (c), by striking ``Center for the Advancement 
+    of Pacific Education'' and inserting ``Pacific Regional Educational 
+    Laboratory, Honolulu, Hawaii,''.
+
+SEC. 4. DISTRIBUTION OF FUNDS TO POSTSECONDARY AND ADULT PROGRAMS.
+
+    Section 232 of the Carl D. Perkins Vocational and Applied Technology 
+Education Act (20 U.S.C. 2341a) is amended--
+        (1) in subsection (a)--
+            (A) in the first sentence--
+                (i) by inserting ``(1)'' before ``Except''; and
+                (ii) by inserting ``or consortia thereof'' before 
+            ``within''; and
+            (B) in the second sentence--
+                (i) by inserting ``or consortium'' before ``shall''; and
+                (ii) by inserting ``or consortium'' before ``in the 
+            preceding'';
+            (C) by adding at the end the following new paragraph:
+    ``(2) In order for a consortium of eligible institutions described 
+in paragraph (1) to receive assistance pursuant to such paragraph such 
+consortium shall operate joint projects that--
+        ``(A) provide services to all postsecondary institutions 
+    participating in the consortium; and
+        ``(B) are of sufficient size, scope and quality as to be 
+    effective.'';
+        (2) in subsection (b)--
+            (A) in paragraph (1), by inserting ``or consortia'' after 
+        ``institutions''; and
+            (B) in the matter preceding subparagraph (A) of paragraph 
+        (2), by inserting ``or consortia'' after ``institutions''; and
+        (3) in subsection (c)--
+            (A) in paragraph (1), by inserting ``or consortium'' after 
+        ``institution''; and
+            (B) in paragraph (2), by inserting ``or consortia'' after 
+        ``institutions''.
+
+SEC. 5. EFFECTIVE DATES.
+
+    (a) In general.--Except as otherwise provided therein or in 
+subsection (b) of this section, the amendments made by section 2 of this 
+Act shall be effective as if such amendments were included in the Higher 
+Education Amendments of 1992 (Public Law 102-325), except that section 
+492 of the Act shall not apply to the amendments made by this Act.
+    (b) Exceptions.--
+        (1) Effective on October 1, 1993.--The amendments made by the 
+    following subsections of section 2 of this Act shall be effective on 
+    and after October 1, 1993: (b)(29), (j)(28), (j)(36), and (j)(40).
+        (2) Effective on date of enactment.--The amendments made by the 
+    following subsections of section 2 of this Act shall be effective on 
+    and after the date of enactment of this Act: (b)(2), (b)(7), 
+    (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), 
+    (c)(62).
+        (3) Effective 30 days after enactment.--The amendments made by 
+    the following subsections of section 2 of this Act shall be 
+    effective on and after 30 days after the date of enactment of this 
+    Act: (c)(19), (c)(20), (c)(21), (c)(59).
+        (4) Effective 60 days after enactment.--The amendments made by 
+    the following subsections of section 2 of this Act shall be 
+    effective on and after 60 days after the date of enactment of this 
+    Act: (c)(31) and (c)(53).
+        (5) Effective on April 1, 1994.--The amendments made by section 
+    2(c)(43)(B) of this Act shall be effective on and after April 1, 
+    1994.
+        (6) Effective on July 1, 1994.--The amendments made by the 
+    following subsection of section 2 of this Act shall be effective on 
+    and after July 1, 1994: (b)(25), (c)(2), (c)(13)(A), (c)(29).
+        (7) Cohort default data examinations.--The amendment made by 
+    section 2(c)(60)(A) shall be effective on and after October 1, 1994.
+        (8) Cohort default rate determinations.--The amendments made to 
+    subsection (a)(3) and (m)(1)(B) of section 435 of this Act shall 
+    apply with respect to the determination (and appeals from 
+    determinations) of cohort default rates for fiscal year 1989 and any 
+    succeeding fiscal year.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

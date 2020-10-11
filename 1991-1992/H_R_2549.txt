@@ -1,0 +1,130 @@
+ 
+--H.R.2549--
+H.R.2549
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To make technical corrections to chapter 5 of title 5, United States Code.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Administrative Procedure Technical Amendments
+ Act of 1991'.
+SEC. 2. REDESIGNATION OF SUBCHAPTER III.
+ Subchapter III of chapter 5 of title 5, United States Code, is amended--
+ (1) by redesignating such subchapter as subchapter V;
+ (2) by redesignating sections 571 through 576 as sections 591 through 596,
+ respectively; and
+ (3) in section 593(b)(4), as redesignated by paragraph (2), by striking
+ `575' and inserting `595'.
+SEC. 3. REDESIGNATION OF SUBCHAPTER IV.
+ (a) NEGOTIATED RULEMAKING- The subchapter IV entitled `NEGOTIATED RULEMAKING
+ PROCEDURE' of chapter 5 of title 5, United States Code, is amended--
+ (1) by redesignating such subchapter as subchapter III and inserting such
+ subchapter immediately after subchapter II of such chapter 5;
+ (2) by redesignating sections 581 through 590 as sections 561 through 570,
+ respectively;
+ (3) in section 565(a)(1), as redesignated by paragraph (2) of this section,
+ by striking `584' and inserting `564';
+ (4) in subsection (d) of section 568, as redesignated by paragraph (2)
+ of this section, by striking `589' and inserting `569'; and
+ (5) in section 569, as redesignated by paragraph (2) of this section--
+ (A) in subsection (d)(2) by striking `586' and inserting `566';
+ (B) in subsection (f)(2) by striking `588' and inserting `568'; and
+ (C) in subsection (g) by striking `575' and inserting `595'.
+ (b) ALTERNATIVE DISPUTE RESOLUTION- The subchapter IV entitled `ALTERNATIVE
+ MEANS OF DISPUTE RESOLUTION IN THE ADMINISTRATIVE PROCESS' of chapter 5 of
+ title 5, United States Code, is amended--
+ (1) by inserting such subchapter immediately after subchapter III of such
+ chapter (as redesignated by subsection (a)(1) of this section);
+ (2) by redesignating sections 581 through 593 as sections 571 through 583,
+ respectively;
+ (3) in subsection (b) of section 577, as redesignated by paragraph (2)
+ of this section, by striking `583' and inserting `573'; and
+ (4) in subsection (b)(2) of section 581, as redesignated by paragraph (2)
+ of this section, by striking `590' and inserting `580'.
+SEC. 4. CLERICAL AMENDMENTS.
+ The table of sections at the beginning of chapter 5 of title 5, United
+ States Code, is amended by striking `SUBCHAPTER III' and all that follows
+ through the end of the table and inserting the following:
+`SUBCHAPTER III--NEGOTIATED RULEMAKING PROCEDURE
+`Sec. 561. Purpose.
+`Sec. 562. Definitions.
+`Sec. 563. Determination of need for negotiated rulemaking committee.
+`Sec. 564. Publication of notice; applications for membership on committee.
+`Sec. 565. Establishment of committee.
+`Sec. 566. Conduct of committee activity.
+`Sec. 567. Termination of committee.
+`Sec. 568. Services, facilities, and payment of committee member expenses.
+`Sec. 569. Role of the Administrative Conference of the United States and
+other entities.
+`Sec. 570. Judicial review.
+`SUBCHAPTER IV--ALTERNATIVE MEANS OF DISPUTE RESOLUTION IN THE ADMINISTRATIVE
+PROCESS
+`Sec. 571. Definitions.
+`Sec. 572. General authority.
+`Sec. 573. Neutrals.
+`Sec. 574. Confidentiality.
+`Sec. 575. Authorization of arbitration.
+`Sec. 576. Enforcement of arbitration agreements.
+`Sec. 577. Arbitrators.
+`Sec. 578. Authority of the arbitrator.
+`Sec. 579. Arbitration proceedings.
+`Sec. 580. Arbitration awards.
+`Sec. 581. Judicial review.
+`Sec. 582. Compilation of information.
+`Sec. 583. Support services.
+`SUBCHAPTER V--ADMINISTRATIVE CONFERENCE OF THE UNITED STATES
+`Sec. 591. Purpose.
+`Sec. 592. Definitions.
+`Sec. 593. Administrative Conference of the United States.
+`Sec. 594. Powers and duties of the Conference.
+`Sec. 595. Organization of the Conference.
+`Sec. 596. Authorization of appropriations.'.
+SEC. 5. ADDITIONAL TECHNICAL AND CONFORMING AMENDMENTS.
+ (a) NEGOTIATED RULEMAKING ACT OF 1990- (1) Section 4 of the Negotiated
+ Rulemaking Act of 1990 (Public Law 101-648; 104 Stat. 4976) is amended by
+ striking `576' and inserting `596'.
+ (2) Section 5 of that Act is amended--
+ (A) by striking `Subchapter IV' and inserting `Subchapter III of chapter 5';
+ (B) by striking `, as added by section 3 of this Act,' and inserting `(enacted
+ as subchapter IV of chapter 5 of title 5, United States Code, by section 3
+ of this Act and redesignated as subchapter III of such chapter 5 by section
+ (3)(a) of the Administrative Procedure Technical Amendments Act of 1991)'; and
+ (C) by striking `subchapter IV' and inserting `subchapter III'.
+ (b) ADMINISTRATIVE DISPUTE RESOLUTION ACT- (1) Paragraph (3) of section
+ 571 of title 5, United States Code, as redesignated by section 3(b)(2)
+ of this Act, is amended by inserting a comma after `including'.
+ (2) Paragraph (8) of section 571 of title 5, United States Code, as
+ redesignated by section 3(b)(2) of this Act, is amended to read as follows:
+ `(8) `issue in controversy' means an issue which is material to a decision
+ concerning an administrative program of an agency, and with which there
+ is disagreement--
+ `(A) between an agency and persons who would be substantially affected by
+ the decision; or
+ `(B) between persons who would be substantially affected by the decision,
+except that such term shall not include any matter specified under section
+2302 or 7121(c) of this title;'.
+ (3) Subsection (g) of section 580 of title 5, United States Code,
+ as redesignated by section 3(b)(2) of this Act, is amended by striking
+ `attorney fees and expenses' and inserting `fees and other expenses'.
+ (4) Section 10(b) of title 9, United States Code (as added by section 5 of the
+ Administrative Dispute Resolution Act (Public Law 101-552; 104 Stat. 2745)),
+ is amended--
+ (A) by striking `590' and inserting `580'; and
+ (B) by striking `582' and inserting `572'.
+ (5) Section 203(f) of the Labor Management Relations Act, 1947 (as added by
+ section 7 of the Administrative Dispute Resolution Act (104 Stat. 2746)),
+ is amended in the third sentence by striking `583' and inserting `573'.
+ (6) Section 10 of the Administrative Dispute Resolution Act (104 Stat. 2747)
+ is amended--
+ (A) by striking `581' and inserting `571'; and
+ (B) by striking `, as added by section 4(b) of this Act' and inserting
+ `(enacted as section 581 of title 5, United States Code, by section 4(b)
+ of this Act, and redesignated as section 571 of such title by section 3(b)
+ of the Administrative Procedure Technical Amendments Act of 1991)'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

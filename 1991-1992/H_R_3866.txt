@@ -1,0 +1,342 @@
+ 
+--H.R.3866--
+H.R.3866
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To provide for the designation of the Flower Garden Banks National Marine
+Sanctuary.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+TITLE I--NATIONAL MARINE SANCTUARY
+FLOWER GARDEN BANKS NATIONAL MARINE SANCTUARY
+ SECTION 101. Notwithstanding section 304(b) of the Marine Protection,
+ Research, and Sanctuaries Act of 1972 (16 U.S.C. 1434(b))--
+ (1) the Secretary of Commerce shall, on January 17, 1992 (or as soon
+ thereafter as is practicable), publish under that Act in the Federal
+ Register a notice of designation of  the Flower Garden Banks National
+ Marine Sanctuary, as described in the notice of designation submitted to
+ the Congress on November 20, 1991; and
+ (2) that designation shall take effect on January 17, 1992.
+TITLE II--MERCHANT MARINE PROVISIONS
+NON-VESSEL-OPERATING COMMON CARRIERS
+ SEC. 201. (a) SHORT TITLE- This section may be cited as the
+ `Non-Vessel-Operating Common Carrier Act of 1991'.
+ (b) PROHIBITED ACTS- Section 10(b) of the Shipping Act of 1984 (46
+ U.S.C. App. 1709(b)) is amended--
+ (1) in paragraph (14), by inserting `, insurance, or other surety' after
+ `bond'; and
+ (2) in paragraph (15), by inserting `, insurance, or other surety' after
+ `bond'.
+ (c) SURETY FOR NVOCC'S- Section 23 of the Shipping Act of 1984 (46
+ U.S.C. App. 1721), is amended--
+ (1) in the section heading by striking `bonding of' and inserting in lieu
+ thereof `surety for';
+ (2) by amending subsection (a) to read as follows:
+ `(a) SURETY- Each non-vessel-operating common carrier shall furnish to
+ the Commission a bond, proof of insurance, or such other surety, as the
+ Commission may require, in a form and an amount determined by the Commission
+ to be satisfactory to insure the financial responsibility of that carrier. Any
+ bond submitted pursuant to this section shall be issued by a surety company
+ found acceptable by the Secretary of the Treasury.';
+ (3) by striking subsection (b) and redesignating subsections (c) through
+ (e) as subsections (b) through (d), respectively;
+ (4) in subsection (b), as so redesignated--
+ (A) by striking `BOND' in the subsection heading and inserting in lieu
+ thereof `SURETY';
+ (B) by inserting `, insurance, or other surety' after `bond'; and
+ (C) by inserting `under this Act' after `transportation-related activities';
+ and
+ (5) in subsection (d), as so redesignated--
+ (A) by inserting `, insurance, or other surety' after `bond'; and
+ (B) by striking `subsection (d)' and inserting in lieu thereof `subsection
+ (c)'.
+ (d) INTERIM RULES AND REGULATIONS- The Federal Maritime Commission may
+ prescribe interim rules and regulations necessary to carry out the amendments
+ made by this section.
+ (e) CONFORMING AMENDMENT- The item relating to section 23 in the table of
+ contents in the first section of the Shipping Act of 1984 is amended by
+ striking `Bonding of'  and inserting in lieu thereof `Surety for'.
+ (f) EFFECTIVE DATE- This section shall become effective 90 days after the
+ date of its enactment.
+CLARIFICATIONS OF, AND LIMITATIONS ON, GAMBLING DEVICES PROHIBITIONS
+ SEC. 202. (a) TRANSPORT TO A PLACE IN A STATE, ETC- Section 2 of the Act of
+ January 2, 1951 (15 U.S.C. 1172; commonly referred to as the `Johnson Act'),
+ is amended--
+ (1) by inserting before the first paragraph the following: `(a) GENERAL RULE-
+ ';
+ (2) in subsection (a) (as so designated) by striking `, District of
+ Columbia,';
+ (3) by inserting before the second paragraph the following: `(b) AUTHORITY
+ OF FEDERAL TRADE COMMISSION- '; and
+ (4) by adding at the end the following:
+ `(c) EXCEPTION- This section does not prohibit the transport of a gambling
+ device to a place in a State or a possession of the United States on a
+ vessel on a voyage, if--
+ `(1) use of the gambling device on a portion of that voyage is, by reason
+ of subsection (b) of section 5, not a violation of that section; and
+ `(2) the gambling device remains on board that vessel while in that State.'.
+ (b) REPAIR, OTHER TRANSPORT, ETC- Section 5 of that Act (15 U.S.C. 1175)
+ is amended--
+ (1) by inserting before `It shall be unlawful' the following: `(a) GENERAL
+ RULE- ';
+ (2) by inserting before the period at the end the following: `, including
+ on a vessel documented under chapter 121 of title 46, United States Code,
+ or documented under the laws of a foreign country'; and
+ (3) by adding at the end the following:
+ `(b) EXCEPTION-
+ `(1) IN GENERAL- Except as provided in paragraph (2), this section does
+ not prohibit--
+ `(A) the repair, transport, possession, or use of a gambling device on a
+ vessel that is not within the boundaries of any State or possession of the
+ United States; or
+ `(B) the transport or possession, on a voyage, of a gambling device on
+ a vessel that is within the boundaries of any State or possession of the
+ United States, if--
+ `(i) use of the gambling device on a portion of that voyage is, by reason
+ of subparagraph (A), not a violation of this section; and
+ `(ii) the gambling device remains on board that vessel while the vessel is
+ within the boundaries of that State or possession.
+ `(2) APPLICATION TO CERTAIN VOYAGES-
+ `(A) GENERAL RULE- Paragraph (1)(A) does not apply to the repair or use of
+ a gambling device on a vessel that is on a voyage or segment of a voyage
+ described in subparagraph (B) of this paragraph if the State or possession
+ of the United States in which the voyage or segment begins and ends has
+ enacted a statute the terms of which prohibit that repair or use on that
+ voyage or segment.
+ `(B) VOYAGE AND SEGMENT DESCRIBED- A voyage or segment of a voyage referred
+ to in subparagraph (A) is a voyage or segment, respectively--
+ `(i) that begins and ends in the same State or possession of the United
+ States, and
+ `(ii) during which the vessel does not make an intervening stop within
+ the boundaries of another State or possession of the United States or a
+ foreign country.'.
+ (c) BOUNDARIES DEFINED- The first section of that Act (15 U.S.C. 1171)
+ is amended by adding at the end the following:
+ `(f) The term `boundaries' has the same meaning given that term in section
+ 2 of the Submerged Lands Act.'.
+TITLE III--IMPLEMENTATION OF MARITIME BOUNDARY AGREEMENT AMENDMENTS TO
+MAGNUSON FISHERY CONSERVATION AND MANAGEMENT ACT
+ SEC. 301. (a) PURPOSES- Section 2(b)(1) of the Magnuson Fishery Conservation
+ and Management Act (16 U.S.C. 1801(b)(1)) is amended by inserting `, and
+ fishery resources in the special areas' immediately before the semicolon
+ at the end.
+ (b) DEFINITIONS- Section 3 of the Magnuson Fishery Conservation and Management
+ Act (16 U.S.C. 1802) is amended--
+ (1) by redesignating paragraphs (24) through (32) as paragraphs (25) through
+ (33), respectively; and
+ (2) by inserting immediately after paragraph (23) the following new paragraph:
+ `(24) The term `special areas' means the areas referred to as eastern
+ special areas in Article 3(1) of the Agreement between the United States of
+ America and the Union of Soviet Socialist Republics on the Maritime Boundary,
+ signed June 1, 1990; in particular, the term refers to those areas east of
+ the  maritime boundary, as defined in that Agreement, that lie within 200
+ nautical miles of the baselines from which the breadth of the territorial sea
+ of  Russia is measured but beyond 200 nautical miles of the baselines from
+ which the breadth of the territorial sea of the United States is measured.'.
+ (c) UNITED STATES MANAGEMENT AUTHORITY- (1) Section 101(a) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1811(a)) is amended by
+ inserting `and special areas' immediately before the period at the end.
+ (2) Section 101(b) of the Magnuson Fishery Conservation and Management Act
+ (16 U.S.C. 1811(b)) is amended by inserting immediately after paragraph
+ (2) the following new paragraph:
+ `(3) All fishery resources in the special areas.'.
+ (d) FOREIGN FISHING- Section 201 of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1821) is amended--
+ (1) in subsection (a)--
+ (A) by inserting `within the special areas,' immediately before `or for
+ anadromous species'; and
+ (B) by striking `beyond the exclusive economic zone' and inserting in lieu
+ thereof `beyond such zone or areas';
+ (2) in subsection (e)(1)(E)(IV), by inserting `or special areas' immediately
+ after `exclusive economic zone';
+ (3) in subsection (i)--
+ (A) by inserting `or special areas' immediately before the period at the
+ end of paragraph (1)(A);
+ (B) by inserting `or special areas' immediately after `exclusive economic
+ zone' in paragraph (2)(A); and
+ (C) by inserting `or special areas' immediately after `exclusive economic
+ zone' in paragraph (2)(B); and
+ (4) in subsection (j)--
+ (A) by inserting `, special areas,' immediately after `exclusive economic
+ zone'; and
+ (B) by inserting `, areas,' immediately after `such zone'.
+ (e) INTERNATIONAL FISHERY AGREEMENTS- Section 202 of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1822) is amended--
+ (1) in subsection (b)--
+ (A) by inserting `or special areas' immediately after `February 28,
+ 1977)'; and
+ (B) by striking `such zone or area' and inserting in lieu thereof `such
+ zone or areas';
+ (2) in subsection (c)--
+ (A) by inserting `or special areas' immediately after `February 28,
+ 1977)'; and
+ (B) by striking `such zone or area' and inserting in lieu thereof `such
+ zone or areas'; and
+ (3) by adding at the end the following new subsection:
+ `(g) FISHERY AGREEMENT WITH UNION OF SOVIET SOCIALIST REPUBLICS- (1) The
+ Secretary of State, in consultation with the Secretary, is authorized to
+ negotiate and conclude a fishery agreement with Russia of a duration of no
+ more than 3 years, pursuant to which--
+ `(A) Russia will give United States fishing vessels the opportunity to conduct
+ traditional fisheries within waters claimed by the United States prior to
+ the conclusion of the Agreement between the United States of America and
+ the Union of Soviet Socialist Republics on the Maritime Boundary, signed
+ June 1, 1990, west of the maritime boundary, including the western special
+ area described in Article 3(2) of the Agreement;
+ `(B) the United States will give fishing vessels of Russia the opportunity to
+ conduct traditional fisheries within waters claimed by the Union of Soviet
+ Socialist Republics prior to the conclusion of the Agreement referred to
+ in subparagraph (A), east of the maritime boundary, including the eastern
+ special areas described in Article 3(1) of the Agreement;
+ `(C) catch data shall be made available to the government of the country
+ exercising fisheries jurisdiction over the waters in which the catch
+ occurred; and
+ `(D) each country shall have the right to place observers on board vessels
+ of the other country and to board and inspect such vessels.
+ `(2) Vessels operating under a fishery agreement negotiated and concluded
+ pursuant to paragraph (1) shall be subject to regulations and permit
+ requirements of the country in whose waters the fisheries are conducted
+ only to the extent such regulations and permit requirements are specified
+ in that agreement.
+ `(3) The Secretary of Commerce may promulgate such regulations, in accordance
+ with section 553 of title 5, United States Code, as may be necessary to
+ carry out the provisions of any fishery agreement negotiated and concluded
+ pursuant to paragraph (1).'.
+ (f) PERMITS FOR FOREIGN FISHING- Section 204(a) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1824(a)) is amended--
+ (1) by inserting `within the special areas,' immediately before `or for
+ anadromous species'; and
+ (2) by inserting `or areas' immediately after `such zone'.
+ (g) CONTENTS OF FISHERY MANAGEMENT PLANS- Section 303(b)(1)(A) of the Magnuson
+ Fishery Conservation and Management Act (16 U.S.C. 1853(b)(1)(A)) is amended--
+ (1) by inserting `or special areas,' immediately after `exclusive economic
+ zone'; and
+ (2) by inserting `or areas' immediately after `such zone'.
+ (h) PROHIBITED ACTS- Section 307 of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1857) is amended--
+ (1) in paragraph (1)(K), by inserting `or special areas' immediately after
+ `exclusive economic zone';
+ (2) in paragraph (2)(B)--
+ (A) by inserting `within the special areas,' immediately after `exclusive
+ economic zone'; and
+ (B) by inserting `or areas' immediately after `such zone';
+ (3) in paragraph (3), by inserting `or special areas' immediately after
+ `exclusive economic zone'; and
+ (4) in paragraph (4), by inserting `or special areas' immediately after
+ `exclusive economic zone'.
+ (i) ENFORCEMENT- Section 311(b)(2) of the Magnuson Fishery Conservation and
+ Management Act (16 U.S.C. 1861(b)(2)) is amended by inserting `and special
+ areas' immediately after `exclusive economic zone'.
+AMENDMENTS TO NORTHERN PACIFIC HALIBUT ACT OF 1982
+ SEC. 302. (a) DEFINITIONS- (1) Section 2(c) of the Northern Pacific Halibut
+ Act of 1982 (16 U.S.C. 773(c)) is amended to read as follows:
+ `(c) `Exclusive economic zone' means the zone established by Proclamation
+ Numbered 5030, dated March 10, 1983. For purposes of applying this Act,
+ the inner boundary of that zone is a line coterminous with the seaward
+ boundary of each of the coastal States.'.
+ (2) Section 2 of the Northern Pacific Halibut Act of 1982 (16 U.S.C. 773)
+ is amended by adding at the end the following new subsection:
+ `(h) `Special areas' means the areas referred to as eastern special areas in
+ Article 3(1) of the Agreement between the United States of America and the
+ Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1,
+ 1990; in particular, the term refers to those areas east of the  maritime
+ boundary, as defined in that Agreement, that lie within 200 nautical miles
+ of the baselines from which the breadth of the territorial sea of Russia
+ is measured but beyond 200 nautical miles of the baselines from which the
+ breadth of the territorial sea of the United States is measured.'.
+ (b) UNLAWFUL ACTS- Section 7(b) of the Northern Pacific Halibut Act of 1982
+ (16 U.S.C. 773e(b)) is amended by striking `fishery conservation zone'
+ and inserting in lieu thereof `exclusive economic zone or special areas'.
+AMENDMENTS TO THE FUR SEAL ACT OF 1966
+ SEC. 303. Section 101 of the Fur Seal Act of 1966 (16 U.S.C. 1151)
+ is amended--
+ (1) by redesignating subsections (f) through (m) as subsections (g) through
+ (n), respectively; and
+ (2) by inserting immediately after subsection (e) the following new
+ subsection:
+ `(f) `Jurisdiction of the United States' includes jurisdiction over the
+ areas referred to as eastern special areas in Article 3(1) of the Agreement
+ between the United States of America and the Union of Soviet Socialist
+ Republics on the Maritime Boundary, signed June 1, 1990; in particular,
+ those areas east of the maritime boundary, as defined in that Agreement,
+ that lie within 200 nautical miles of the baselines from which the breadth
+ of the territorial sea of Russia is measured but beyond 200 nautical miles
+ of the baselines from which the breadth of the territorial sea of the United
+ States is measured.'.
+AMENDMENTS TO MARINE MAMMAL PROTECTION ACT OF 1972
+ SEC. 304. Section 3(14) of the Marine Mammal Protection Act of 1972 (16
+ U.S.C. 1362(14)) is amended to read as follows:
+ `(14) The term `waters under the jurisdiction of the United States' means--
+ `(A) the territorial sea of the United States;
+ `(B) the waters included within a zone, contiguous to the territorial sea
+ of the United States, of which the inner boundary is a line coterminous
+ with the seaward boundary of each coastal State, and the outer boundary is
+ a line drawn in such a manner that each point on it is 200 nautical miles
+ from the baseline from which the territorial sea is measured; and
+ `(C) the areas referred to as eastern special areas in Article 3(1)
+ of the Agreement between the United States of America and the Union of
+ Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990;
+ in particular, those areas east of the maritime boundary, as defined in that
+ Agreement, that lie within 200 nautical miles of the baselines from which
+ the breadth of the territorial sea of Russia is measured but beyond 200
+ nautical miles of the baselines from which the breadth of the territorial
+ sea of the United States is measured.'.
+RELATIONSHIP TO ENDANGERED SPECIES ACT OF 1973
+ SEC. 305. The special areas defined in section 3(24) of the Magnuson Fishery
+ Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered
+ places that are subject to the jurisdiction of the United States for the
+ purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
+AMENDMENTS TO PACIFIC SALMON TREATY ACT OF 1985
+ SEC. 306. (a) DEFINITIONS- Section 2 of the Pacific Salmon Treaty Act of 1985
+ (16 U.S.C. 3631) is amended--
+ (1) by redesignating subsections (h) through (j) as subsections (i) through
+ (k), respectively; and
+ (2) by inserting immediately after subsection (g) the following new
+ subsection:
+ `(h) `Special areas' means the areas referred to as eastern special areas in
+ Article 3(1) of the Agreement between the United States of America and the
+ Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1,
+ 1990; in particular, the term refers to those areas east of the  maritime
+ boundary, as defined in that Agreement, that lie within 200 nautical miles
+ of the baselines from which the breadth of the territorial sea of Russia
+ is measured but beyond 200 nautical miles of the baselines from which the
+ breadth of the territorial sea of the United States is measured.'.
+ (b) RULEMAKING- Section 7(a) of the Pacific Salmon Treaty Act of 1985 (16
+ U.S.C. 3636(a)) is amended by inserting `and special areas' immediately after
+ `Exclusive Economic Zone'.
+NATIONAL SEA GRANT COLLEGE PROGRAM
+ SEC. 307. (a) DEFINITIONS- Section 203(6) of the National Sea Grant College
+ Program Act (33 U.S.C. 1122(6)) is amended--
+ (1) by striking `and' at the end of subparagraph (E);
+ (2) by redesignating subparagraph (F) as subparagraph (G); and
+ (3) by inserting immediately after subparagraph (E) the following new
+ subparagraph:
+ `(F) the areas referred to as eastern special areas in Article 3(1)
+ of the Agreement between the United States of America and the Union of
+ Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990;
+ in particular, those areas east of the maritime boundary, as defined in that
+ Agreement, that lie within 200 nautical miles of the baselines from which
+ the breadth of the territorial sea of Russia is measured but beyond 200
+ nautical miles of the baselines from which the breadth of the territorial
+ sea of the United States is measured; and'.
+ (b) INTERNATIONAL PROGRAM- Section 3(a)(6) of the Sea Grant Program
+ Improvement Act of 1976 (33 U.S.C. 1124a(a)(6)) is amended by inserting
+ `and special areas' immediately after `exclusive economic zone'.
+EFFECTIVE DATES
+ SEC. 308. (a) IN GENERAL- The amendment made by section 301(e)(3) takes
+ effect on the date of enactment of this Act, and the amendments made by
+ the other provisions of this title, except as provided in subsection (b),
+ shall be effective on the date on which the Agreement between the United
+ States and the Union of Soviet Socialist Republics on the Maritime Boundary,
+ signed June 1, 1990, enters into force for the United States.
+ (b) AUTHORITY TO PRESCRIBE REGULATIONS- The authority to prescribe regulations
+ to implement the amendments made by this title shall be effective on the
+ date of enactment of this Act, but no such regulation may be effective
+ until the date on which the Agreement described in subsection (a) enters
+ into force for the United States.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,77 @@
+ 
+--H.R.1805--
+H.R.1805
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend title 5, United States Code, to allow Federal annuitants to make
+contributions for health benefits through direct payments rather than through
+annuity withholdings if the annuity is insufficient to cover the required
+withholdings, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. HEALTH BENEFITS.
+ (a) AUTHORITY FOR DIRECT PAYMENTS- Section 8906 of title 5, United States
+ Code, is amended by adding at the end the following:
+ `(i) An annuitant whose annuity is insufficient to cover the withholdings
+ required for enrollment in a particular health benefits plan may enroll
+ (or remain enrolled) in such plan, notwithstanding any other provision
+ of this section, if the annuitant elects, under conditions prescribed
+ by regulations of the Office, to pay currently into the Employees Health
+ Benefits Fund, through the retirement system that administers the annuitant's
+ health benefits enrollment, an amount equal to the withholdings that would
+ otherwise be required under this section.'.
+ (b) TECHNICAL AND CONFORMING AMENDMENTS- Section 8906 of title 5, United
+ States Code, is further amended--
+ (1) in subsection (c), by inserting `except as provided in subsection (i)
+ of this section)' before `the annuity'; and
+ (2) in subsection (d), by inserting `(except as provided in subsection (i)
+ of this section)' before `from the annuity'.
+ (c) EFFECTIVE DATE- The amendments made by this section shall take effect
+ on the date of enactment of this Act. Any annuitant whose enrollment was
+ terminated at any time before such date on account of such annuitant's
+ annuity being insufficient to cover the amount of the required withholdings
+ may, under regulations prescribed by the Office of Personnel Management,
+ be prospectively reinstated in any available health benefits plan upon
+ application of the annuitant.
+SEC. 2. TECHNICAL CORRECTION IN LIFE INSURANCE PROVISIONS.
+ Section 8708 of title 5, United States Code, is amended by adding at the
+ end the following:
+ `(d)(1) Except as otherwise provided in this subsection, for each period
+ in which an employee continues life insurance after retirement or while in
+ receipt of compensation under subchapter I of chapter 81 of this title because
+ of disease or injury to the employee, as provided under section 8706(b)
+ of this title, a sum equal to one-half of the amount which is withheld from
+ the employee's annuity or compensation under section 8707 of this title shall
+ be contributed by the Office from annual appropriations which are authorized
+ to be made for that purpose and which may be made available until expended.
+ `(2) Contributions under this subsection--
+ `(A) shall not be made other than with respect to individuals who retire,
+ or commence receiving compensation, after December 31, 1989;
+ `(B) shall not be made with respect to any individual for months after the
+ calendar month in which such individual becomes 65 years of age; and
+ `(C) shall, in the case of any individual who elects coverage under
+ subparagraph (B) of section 8706(b)(3) of this title, be equal to the
+ amount which would apply under this subsection if such individual had
+ instead elected coverage under subparagraph (A) of such section.
+ `(3) The United States Postal Service shall pay the contributions required
+ under this subsection with respect to any individual who--
+ `(A) first becomes an annuitant by reason of retirement from employment
+ with the United States Postal Service after December 31, 1989; or
+ `(B) commences receiving compensation under subchapter I of chapter 81 of
+ this title (because of disease or injury to the individual) after December
+ 31, 1989, if the position last held by the individual before commencing to
+ receive such compensation was within the United States Postal Service.'.
+SEC. 3. REDUCTION IN AGE REQUIREMENT FOR WIDOWS AND WIDOWERS FOR RECEIVING
+CERTAIN COMPENSATION UNDER THE FEDERAL EMPLOYEES' COMPENSATION SYSTEM.
+ Chapter 81, of title 5, United States Code, is amended--
+ (1) in section 8133(b)(1) by striking out `age 60' and inserting in lieu
+ thereof `age 55'; and
+ (2) in section 8135(b) by striking out `age 60' and inserting in lieu thereof
+ `age 55'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

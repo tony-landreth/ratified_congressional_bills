@@ -1,0 +1,140 @@
+ 
+--H.R.5075--
+H.R.5075
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Rail Passenger Service Act to authorize appropriations for the
+National Railroad Passenger Corporation, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Amtrak Reauthorization and Improvement Act
+ of 1990'.
+SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+ Section 601(b)(2) of the Rail Passenger Service Act (45 U.S.C. 601(b)(2))
+ is amended--
+ (1) by striking `and' at the end of subparagraph (D);
+ (2) by striking the period at the end of subparagraph (E) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end thereof the following:
+ `(F) not to exceed $630,000,000 for the fiscal year ending September 30, 1989;
+ `(G) not to exceed $656,000,000 for the fiscal year ending September 30, 1990;
+ `(H) not to exceed $684,000,000 for the fiscal year ending September 30,
+ 1991; and
+ `(I) not to exceed $712,000,000 for the fiscal year ending September 30,
+ 1992.'.
+SEC. 3. INCENTIVES FOR PASSENGER SERVICE AGREEMENTS.
+ Title VIII of the Rail Passenger Service Act (45 U.S.C. 642 et seq.) is
+ amended by adding at the end thereof the following new section:
+`SEC. 810. INCENTIVES FOR PASSENGER SERVICE AGREEMENTS.
+ `(a) Notwithstanding any other provision of law, in instances where a
+ publicly funded commuter transportation authority established under Virginia
+ law contracts to indemnify the Corporation for liability for operations
+ conducted by or on behalf of the publicly funded commuter transportation
+ authority or to indemnify a railroad over whose tracks such operations are
+ conducted, liability for all claims, whether for compensatory or punitive
+ damages, arising from any accident or incident occurring in the District
+ of Columbia against the Corporation or the publicly funded commuter
+ transportation authority in connection with operations conducted by or
+ on behalf of such publicly funded commuter transportation authority, or
+ against a railroad over whose tracks such operations were conducted at the
+ time of the accident or incident, shall not be in an amount greater than the
+ limits of the liability coverage maintained by the publicly funded commuter
+ transportation authority to indemnify the Corporation or the railroad. In no
+ event shall the publicly funded commuter transportation authority maintain
+ an aggregate limit of liability coverage less than $200,000,000.
+ `(b) Subsection (a) shall not be effective unless the Corporation or a
+ railroad seeking coverage hereunder has entered into an operating agreement
+ with a publicly funded commuter transportation authority established
+ under Virginia law to provide access for revenue service to its property in
+ connection with the operations of the publicly funded commuter transportation
+ authority.'.
+SEC. 4. AUTHORIZATION TO USE FUNDS FOR SIMILAR PURPOSES.
+ Proceeds from the sale of all or part of the railroad line for which funds
+ were provided, for acquisition and rehabilitation, under section 511 of the
+ Rail Safety and Service Improvement Act of 1982 may be used for similar
+ purposes with respect to any railroad line connecting with such line,
+ for the purpose of continued rail service on such lines.
+SEC. 5. COOPERATION WITH STUDY.
+ The National Railroad Passenger Corporation shall cooperate with the
+ efforts of the Washington State Department of Transportation in designing
+ and carrying out a study of the feasibility of reestablishing rail service
+ between Seattle, Washington, and Vancouver, British Columbia.
+SEC. 6. ROUTING FEASIBILITY STUDY.
+ The National Railroad Passenger Corporation shall conduct a study to
+ evaluate the short-term and long-term revenue and cost implications of
+ separating the existing California Zephyr-Desert Wind-Pioneer train into two
+ service routes serving separate western destinations via a southern route
+ and a central route through Iowa. The Corporation shall include in this
+ evaluation the projected cost for required additional passenger equipment,
+ any projected loss, and any revenue and ridership gains, associated with
+ offering a second service route. A detailed report on the findings of the
+ study shall be submitted by the Corporation to the Congress within 6 months
+ after the date of enactment of this Act.
+SEC. 7. RESIDENCE OF EMPLOYEES.
+ (a) Section 11504(a) of title 49, United States Code, is amended to read
+ as follows:
+ `(a) No part of the compensation paid by a rail carrier providing
+ transportation subject to the jurisdiction of the Commission under subchapter
+ I of chapter 105 of this title to an employee who performs regularly assigned
+ duties as such an employee on a railroad in more than one State shall be
+ subject to the income tax laws of any State or subdivision of that State,
+ other than the State or subdivision thereof of the employee's residence.'.
+ (b) Section 11504(b) of title 49, United States Code, is amended to read
+ as follows:
+ `(b)(1) No part of the compensation paid by a motor carrier providing
+ transportation subject to the jurisdiction of the Commission under subchapter
+ II of chapter 105 of this title or by a motor private carrier to an employee
+ who performs regularly assigned duties in 2 or more States as such an
+ employee with respect to a motor vehicle shall be subject to the income
+ tax laws of any State or subdivision of that State, other than the State
+ or subdivision thereof of the employee's residence.
+ `(2) In this subsection `employee' has the meaning given such term in
+ section 204 of the Motor Carrier Safety Act of 1984 (49 App. U.S.C. 2503).'.
+ (c) Section 11504(d) of title 49, United States Code, is amended--
+ (1) by striking `express, sleeping car,'; and
+ (2) by striking `with--' and all that follows and inserting in lieu thereof
+ the following: `with the State and subdivision of residence of the employee.'.
+SEC. 8. RAILROAD UNEMPLOYMENT INSURANCE ACT AMENDMENT.
+ (a) Section 8(a)(1)(B)(vi) of the Railroad Unemployment Insurance Act (45
+ U.S.C. 358(a)(1)(B)(vi)) is amended by inserting `the National Railroad
+ Passenger Corporation and' immediately after `the contribution of' in the
+ first sentence.
+ (b) The amendment made by subsection (a) shall be effective as of January
+ 1, 1989.
+SEC. 9. STUDY OF LOAN GUARANTEE NEEDS.
+ The Secretary of Transportation, in consultation with the Administrator of
+ the Federal Railroad Administration, shall study and survey the present and
+ potential need and demand among class II and class III railroads for Federal
+ guarantees of obligations as provided for by section 511 of the Railroad
+ Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 831). Such study
+ and survey shall examine the present and potential need and demand for such
+ guarantees to fund rehabilitation and improvement of facilities or equipment,
+ acquisition of new railroad facilities, and refinancing of existing debt. The
+ Secretary of Transportation shall report to Congress no later than 90 days
+ following the date of the enactment of this Act the results of such study and
+ survey. Such report shall include an analysis of the present and potential
+ need and demand for Federal guarantees of class II and class III railroad
+ debt, the amount of guarantee authority required to meet that need, and a
+ projection of demand for such Federal guarantees through fiscal year 1995.
+SEC. 10. FEDERAL OPERATING SUPPORT REPORT.
+ The National Railroad Passenger Corporation shall report to Congress by June
+ 1, 1991, on its plan to eliminate its need for Federal operating support
+ by the year 2000. The report should include a discussion of the actions
+ that could be taken to enhance revenues, to control costs, and to improve
+ productivity and efficiency of operations, as well as an estimate of the
+ capital investment needed to take such actions.
+SEC. 11. NEW SERVICE STUDY.
+ The National Railroad Passenger Corporation shall study the economic
+ feasibility of providing new service, if such service will
+have the potential of covering the operating costs associated with such
+service, to areas not served by the Corporation as of the date of enactment
+of this Act. Within two years after such date of enactment, the Corporation
+shall report to Congress on the results of that study.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

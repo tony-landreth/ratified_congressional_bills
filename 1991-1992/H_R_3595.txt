@@ -1,0 +1,552 @@
+ 
+--H.R.3595--
+H.R.3595
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To delay until September 30, 1992, the issuance of any regulations by the
+Secretary of Health and Human Services changing the treatment of voluntary
+contributions and provider-specific taxes by States as a source of a State's
+expenditures for which Federal financial participation is available under
+the medicaid program and to maintain the treatment of intergovernmental
+transfers as such a source.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Medicaid Voluntary Contribution and
+ Provider-Specific Tax Amendments of 1991'.
+SEC. 2. PROHIBITION ON USE OF VOLUNTARY CONTRIBUTIONS, AND LIMITATION ON
+THE USE OF PROVIDER-SPECIFIC TAXES TO OBTAIN FEDERAL FINANCIAL PARTICIPATION
+UNDER MEDICAID.
+ (a) IN GENERAL- Section 1903 of the Social Security Act (42 U.S.C. 1396b)
+ is amended by adding at the end the following new subsection.
+ `(w)(1)(A) Notwithstanding the previous provisions of this section, for
+ purposes of determining the amount to be paid to a State (as defined in
+ paragraph (7)(D)) under subsection (a)(1) for quarters in any fiscal year,
+ the total amount expended during such fiscal year as medical assistance
+ under the State plan (as determined without regard to this subsection)
+ shall be reduced by the sum of any revenues received by the State (or by
+ a unit of local government in the State) during the fiscal year--
+ `(i) from provider-related donations (as defined in paragraph (2)(A)),
+ other than--
+ `(I) bona fide provider-related donations (as defined in paragraph
+ (2)(B)), and
+ `(II) donations described in paragraph (2)(C);
+ `(ii) from health care related taxes (as defined in paragraph (3)(A)), other
+ than broad-based health care related taxes (as defined in paragraph (3)(B));
+ `(iii) from a broad-based health care related tax, if there is in effect
+ a hold harmless provision (described in paragraph (4)) with respect to the
+ tax; or
+ `(iv) only with respect to State fiscal years (or portions thereof) occurring
+ on or after January 1, 1992, and before October 1, 1995, from broad-based
+ health care related taxes to the extent the amount of such taxes collected
+ exceeds the limit established under paragraph (5).
+ `(B) Notwithstanding the previous provisions of this section, for puroses
+ of determining the amount to be paid to a State under subsection (a)(7) for
+ all quarters in a Federal fiscal year (beginning with fiscal year 1993), the
+ total amount expended during the fiscal year for administrative expenditures
+ under the State plan (as determined without regard to this subsection)
+ shall be reduced by the sum of any revenues received by the State (or by a
+ unit of local government in the State) during such quarters from donations
+ described in paragraph (2)(C), to the extent the amount of such donations
+ exceeds 10 percent of the amounts expended under the State plan under this
+ title during the fiscal year for purposes described in paragraphs (2), (3),
+ (4), (6), and (7) of subsection (a).
+ `(C)(i) Except as otherwise provided in clause (ii), subparagraph (A)(i)
+ shall apply to donations received on or after January 1, 1992.
+ `(ii) Subject to the limits described in clause (iii) and subparagraph
+ (E), subparagraph (A)(i) shall not apply to donations received before the
+ effective date specified in subparagraph (F) if such donations are received
+ under programs in effect or as described in State plan amendments or related
+ documents submitted to the Secretary by September 30, 1991, and applicable
+ to State fiscal year 1992, as demonstrated by State plan amendments, written
+ agreements, State budget documentation, or other documentary evidence in
+ existence on that date.
+ `(iii) In applying clause (ii) in the case of donations received in State
+ fiscal year 1993, the maximum amount of such donations to which such clause
+ may be applied may not exceed the total amount of such donations received
+ in the corresponding period in State fiscal year 1992 (or not later than
+ 5 days after the last day of the corresponding period).
+ `(D)(i) Except as otherwise provided in clause (ii), subparagraphs (A)(ii)
+ and (A)(iii) shall apply to taxes received on or after January 1, 1992.
+ `(ii) Subparagraphs (A)(ii) and (A)(iii) shall not apply to impermissible
+ taxes (as defined in clause (iii)) received before the effective date
+ specified in subparagraph (F) to the extent the taxes (including the tax
+ rate or base) were in effect, or the legislation or regulations imposing
+ such taxes were enacted or adopted, as of November 22, 1991.
+ `(iii) In this subparagraph and subparagraph (E), the term `impermissible
+ tax' means a health care related tax for which a reduction may be made
+ under clause (ii) or (iii) of subparagraph (A).
+ `(E)(i) In no case may the total amount of donations and taxes permitted
+ under the exception provided in subparagraphs (C)(ii) and (D)(ii) for the
+ portion of State fiscal year 1992 occurring during calendar year 1992 exceed
+ the limit under paragraph (5) minus the total amount of broad-based health
+ care related taxes received in the portion of that fiscal year.
+ `(ii) In no case may the total amount of donations and taxes permitted under
+ the exception provided in subparagraphs (C)(ii) and (D)(ii) for State fiscal
+ year 1993 exceed the limit under paragraph (5) minus the total amount of
+ broad-based health care related taxes received in that fiscal year.
+ `(F) In this paragraph in the case of a State--
+ `(i) except as provided in clause (iii), with a State fiscal year beginning
+ on or before July 1, the effective date is October 1, 1992,
+ `(ii) except as provided in clause (iii), with a State fiscal year that
+ begins after July 1, the effective date is January 1, 1993, or
+ `(iii) with a State legislature which is not scheduled to have a regular
+ legislative session in 1992, with a State legislature which is not scheduled
+ to have a regular legislative session in 1993, or with a provider-specific
+ tax enacted on November 4, 1991, the effective date is July 1, 1993.
+ `(2)(A) In this subsection (except as provided in paragraph (6)), the term
+ `provider-related donation' means any donation or other voluntary payment
+ (whether in cash or in kind) made (directly or indirectly) to a State or
+ unit of local government by--
+ `(i) a health care provider (as defined in paragraph (7)(B)),
+ `(ii) an entity related to a health care provider (as defined in paragraph
+ (7)(C)), or
+ `(iii) an entity providing goods or services under the State plan for which
+ payment is made to the State under paragraph (2), (3), (4), (6), or (7)
+ of subsection (a).
+ `(B) For purposes of paragraph (1)(A)(i)(I), the term `bona fide
+ provider-related donation' means a provider-related donation that has no
+ direct or indirect relationship (as determined by the Secretary) to payments
+ made under this title to that provider, to providers furnishing the same
+ class of items and services as that provider, or to any related entity,
+ as established by the State to the satisfaction of the Secretary. The
+ Secretary may by regulation specify types of provider-related donations
+ described in the previous sentence that will be considered to be bona fide
+ provider-related donations.
+ `(C) For purposes of paragraph (1)(A)(i)(II), donations described in this
+ subparagraph are funds expended by a hospital, clinic, or similar entity for
+ the direct cost (including costs of training and of preparing and distributing
+ outreach materials) of State or local agency personnel who are stationed at
+ the hospital, clinic, or entity to determine the eligibility of individuals
+ for medical assistance under this title and to provide outreach services
+ to eligible or potentially eligible individuals.
+ `(3)(A) In this subsection (except as provided in paragraph (6)), the term
+ `health care related tax' means a tax (as defined in paragraph (7)(F)) that--
+ `(i) is related to health care items or services, or to the provision of,
+ the authority to provide, or payment for, such items or services, or
+ `(ii) is not limited to such items or services but provides for treatment
+ of individuals or entities that are providing or paying for such items or
+ services that is different from the treatment provided to other individuals
+ or entities.
+In applying clause (i), a tax is considered to relate to health care items
+or services if at least 85 percent of the burden of such tax falls on health
+care providers.
+ `(B) In this subsection, the term `broad-based health care related tax'
+ means a health care related tax which is imposed with respect to a class
+ of health care items or services (as described in paragraph (7)(A)) or
+ with respect to providers of such items or services and which, except as
+ provided in subparagraphs (D) and (E)--
+ `(i) is imposed at least with respect to all items or services in the class
+ furnished by all non-Federal, nonpublic providers in the State (or, in the
+ case of a tax imposed by a unit of local government, the area over which
+ the unit has jurisdiction) or is imposed with respect to all non-Federal,
+ nonpublic providers in the class; and
+ `(ii) is imposed uniformly (in accordance with subparagraph (C)).
+ `(C)(i) Subject to clause (ii), for purposes of subparagraph (B)(ii),
+ a tax is considered to be imposed uniformly if--
+ `(I) in the case of a tax consisting of a licensing fee or similar tax on
+ a class of health care items or services (or providers of such items or
+ services), the amount of the tax imposed is the same for every provider
+ providing items or services within the class;
+ `(II) in the case of a tax consisting of a licensing fee or similar tax
+ imposed on a class of health care items or services (or providers of such
+ services) on the basis of the number of beds (licensed or otherwise) of the
+ provider, the amount of the tax is the same for each bed of each provider
+ of such items or services in the class;
+ `(III) in the case of a tax based on revenues or receipts with respect to
+ a class of items or services (or providers of items or services) the tax
+ is imposed at a uniform rate for all items and services (or providers of
+ such items or services) in the class on all the gross revenues or receipts,
+ or net operating revenues, relating to the provision of all such items or
+ services (or all such providers) in the State (or, in the case of a tax
+ imposed by a unit of local government within the State, in the area over
+ which the unit has jurisdiction); or
+ `(IV) in the case of any other tax, the State establishes to the satisfaction
+ of the Secretary that the tax is imposed uniformly.
+ `(ii) Subject to subparagraphs (D) and (E), a tax imposed with respect to
+ a class of health care items and services is not considered to be imposed
+ uniformly if the tax provides for any credits, exclusions, or deductions
+ which have as their purpose or effect the return to providers of all or a
+ portion of the tax paid in a manner that is inconsistent with subclauses (I)
+ and (II) of subparagraph (E)(ii) or provides for a hold harmless provision
+ described in paragraph (4).
+ `(D) A tax imposed with respect to a class of health care items and services
+ is considered to be imposed uniformly--
+ `(i) notwithstanding that the tax is not imposed with respect to items or
+ services (or the providers thereof) for which payment is made under a State
+ plan under this title or title XVIII, or
+ `(ii) in the case of a tax described in subparagraph (C)(i)(III),
+ notwithstanding that the tax provides for exclusion (in whole or in part)
+ of revenues or receipts from a State plan under this title or title XVIII.
+ `(E)(i) A State may submit an application to the Secretary requesting
+ that the Secretary treat a tax as a broad-based health care related tax,
+ notwithstanding that the tax does not apply to all health care items or
+ services in class (or all providers of such items and services), provides for
+ a credit, deduction, or exclusion, is not applied uniformly, or otherwise
+ does not meet the requirements of subparagraph (B) or (C). Permissible
+ waivers may include exemptions for rural or sole-community providers.
+ `(ii) The Secretary shall approve such an application if the State establishes
+ to the satisfaction of the Secretary that--
+ `(I) the net impact of the tax and associated expenditures under this title
+ as proposed by the State is generally redistributive in nature, and
+ `(II) the amount of the tax is not directly correlated to payments under
+ this title for items or services with respect to which the tax is imposed.
+The Secretary shall by regulation specify types of credits, exclusions,
+and deductions that will be considered to meet the requirements of this
+subparagraph.
+ `(4) For purposes of paragraph (1)(A)(iii), there is in effect a hold
+ harmless provision with respect to a broad-based health care related tax
+ imposed with respect to a class of items or services if the Secretary
+ determines that any of the following applies:
+ `(A) The State or other unit of government imposing the tax provides
+ (directly or indirectly) for a payment (other than under this title) to
+ taxpayers and the amount of such payment is positively correlated either
+ to the amount of such tax or to the difference between the amount of the
+ tax and the amount of payment under the State plan.
+ `(B) All or any portion of the payment made under this title to the taxpayer
+ varies based only upon the amount of the total tax paid.
+ `(C) The State or other unit of government imposing the tax provides
+ (directly or indirectly) for any payment, offset, or waiver that guarantees
+ to hold taxpayers harmless for any portion of the costs of the tax.
+The provisions of this paragraph shall not prevent use of the tax to reimburse
+health care providers in a class for expenditures under this title nor
+preclude States from relying on such reimbursement to justify or explain
+the tax in the legislative process.
+ `(5)(A) For purposes of this subsection, the limit under this subparagraph
+ with respect to a State is an amount equal to 25 percent (or, if greater,
+ the State base percentage, as defined in subparagraph (B)) of the non-Federal
+ share of the total amount expended under the State plan during a State fiscal
+ year (or portion thereof), as it would be determined pursuant to paragraph
+ (1)(A) without regard to paragraph (1)(A)(iv).
+ `(B)(i) In subparagraph (A), the term `State base percentage' means, with
+ respect to a State, an amount (expressed as a percentage) equal to--
+ `(I) the total of the amount of health care related taxes (whether or
+ not broad-based) and the amount of provider-related donations (whether or
+ not bona fide) projected to be collected (in accordance with clause (ii))
+ during State fiscal year 1992, divided by
+ `(II) the non-Federal share of the total amount estimated to be expended
+ under the State plan during such State fiscal year.
+ `(ii) For purposes of clause (i)(I), in the case of a tax that is not in
+ effect throughout State fiscal year 1992 or the rate (or base) of which is
+ increased during such fiscal year, the Secretary shall project the amount
+ to be collected during such fiscal year as if the tax (or increase) were
+ in effect during the entire State fiscal year.
+ `(C)(i) The total amount of health care related taxes under subparagraph
+ (B)(i)(I) shall be determined by the Secretary based on only those taxes
+ (including the tax rate or base) which were in effect, or for which
+ legislation or regulations imposing such taxes were enacted or adopted,
+ as of November 22, 1991.
+ `(ii) The amount of provider-related donations under subparagraph (B)(i)(I)
+ shall be determined by the Secretary based on programs in effect on September
+ 30, 1991, and applicable to State fiscal year 1992, as demonstrated by
+ State plan amendments, written agreements, State budget documentation,
+ or other documentary evidence in existence on that date.
+ `(iii) The amount of expenditures described in subparagraph (B)(i)(II)
+ shall be determined by the Secretary based on the best data available as
+ of the date of the enactment of this subsection.
+ `(6)(A) Notwithstanding the provisions of this subsection, the Secretary may
+ not restrict States' use of funds where such funds are derived from State or
+ local taxes (or funds appropriated to State university teaching hospitals)
+ transferred from or certified by units of government within a State as the
+ non-Federal share of expenditures under this title, regardless of whether
+ the unit of government is also a health care provider, except as provided
+ in section 1902(a)(2), unless the transferred funds are derived by the unit
+ of government from donations or taxes that would not otherwise be recognized
+ as the non-Federal share under this section.
+ `(B) For purposes of this subsection, funds the use of which the Secretary
+ may not restrict under subparagraph (A) shall not be considered to be a
+ provider-related donation or a health care related tax.
+ `(7) For purposes of this subsection:
+ `(A) Each of the following shall be considered a separate class of health
+ care items and services:
+ `(i) Inpatient hospital services.
+ `(ii) Outpatient hospital services.
+ `(iii) Nursing facility services (other than services of intermediate care
+ facilities for the mentally retarded).
+ `(iv) Services of intermediate care facilities for the mentally retarded.
+ `(v) Physicians' services.
+ `(vi) Home health care services.
+ `(vii) Outpatient prescription drugs.
+ `(viii) Services of health maintenance organizations (and other organizations
+ with contracts under section 1903(m)).
+ `(ix) Such other classification of health care items and services consistent
+ with this subparagraph as the Secretary may establish by regulation.
+ `(B) The term `health care provider' means an individual or person that
+ receives payments for the provision of health care items or services.
+ `(C) An entity is considered to be `related' to a health care provider if
+ the entity--
+ `(i) is an organization, association, corporation or partnership formed by
+ or on behalf of health care providers;
+ `(ii) is a person with an ownership or control interest (as defined in
+ section 1124(a)(3)) in the provider;
+ `(iii) is the employee, spouse, parent, child, or sibling of the provider
+ (or of a person described in clause (ii)); or
+ `(iv) has a similar, close relationship (as defined in regulations) to
+ the provider.
+ `(D) The term `State' means only the 50 States and the District of Columbia
+ but does not include any State whose entire program under this title is
+ operated under a waiver granted under section 1115.
+ `(E) The `State fiscal year' means, with respect to a specified year,
+ a State fiscal year ending in that specified year.
+ `(F) The term `tax' includes any licensing fee, assessment, or other mandatory
+ payment, but does not include payment of a criminal or civil fine or penalty
+ (other than a fine or penalty imposed in lieu of or instead of a fee,
+ assessment, or other mandatory payment).
+ `(G) The term `unit of local government' means, with respect to a State,
+ a city, county, special purpose district, or other governmental unit in
+ the State.'.
+ (b) CONFORMING AMENDMENTS- (1) Section 1902(t) of such Act (42
+ U.S.C. 1396a(t)) is amended--
+ (A) by striking `Except as provided in section 1903(i), nothing' and inserting
+ `Nothing', and
+ (B) by striking `taxes (whether or not of general applicability)' and
+ inserting `taxes of general applicability'.
+ (2) Section 1903(i) of such Act (42 U.S.C. 1396b(i)) is amended by striking
+ paragraph (10) inserted by section 4701(b)(2)(B) of the Omnibus Budget
+ Reconciliation Act of 1990.
+ (c) EFFECTIVE DATE- (1) The amendments made by this section shall take
+ effect January 1, 1992, without regard to whether or not regulations have
+ been promulgated to carry out such amendments by such date.
+ (2) Except as specifically provided in section 1903(w) of the Social Security
+ Act and notwithstanding any other provision of such Act, the Secretary of
+ Health and Human Services shall not, with respect to expenditures prior to
+ the effective date specified in section 1903(w)(1)(F) of such Act, disallow
+ any claim submitted by a State for, or otherwise withhold Federal financial
+ participation with respect to, amounts expended for medical assistance under
+ title XIX of the Social Security Act by reason of the fact that the source
+ of the funds used to constitute the non-Federal share of such expenditures
+ is a tax imposed on, or a donation received from, a health care provider,
+ or on the ground that the amount of any donation or tax proceeds must be
+ credited against the amount of the expenditure.
+ (3) The interim final rule promulgated by the Secretary of Health and Human
+ Services on October 31, 1991 (56 Federal Register 56132), relating to the
+ State share of financial participation under the medicaid program, is hereby
+ nullified and is of no effect. No part of such rule shall be effective except
+ pursuant to a rule promulgated after the date of the enactment of this Act
+ and consistent with this section (and the amendments made by this section).
+SEC. 3. RESTRICTIONS ON AGGREGATE PAYMENTS FOR DISPROPORTIONATE SHARE
+HOSPITALS.
+ (a) REPEAL OF PROHIBITION OF UPPER PAYMENT LIMIT FOR DISPROPORTIONATE SHARE
+ HOSPITALS- Section 1902(h) of the Social Security Act (42 U.S.C. 1396a(h))
+ is amended by striking `to limit' the first place it appears and all that
+ follows through `special needs or'.
+ (b) LIMITATION ON AGGREGATE PAYMENT ADJUSTMENTS-
+ (1) IN GENERAL- Section 1923 of such Act (42 U.S.C. 1396r-4) is amended by
+ adding at the end the following new subsection:
+ `(f) DENIAL OF FEDERAL FINANCIAL PARTICIPATION FOR PAYMENTS IN EXCESS OF
+ CERTAIN LIMITS-
+ `(1) IN GENERAL-
+ `(A) APPLICATION OF STATE-SPECIFIC LIMITS- Except as provided in subparagraph
+ (D), payment under section 1903(a) shall not be made with respect to any
+ payment adjustment made under this section for hospitals in a State (as
+ defined in paragraph (4)(B)) for quarters--
+ `(i) in fiscal year 1992 (beginning on or after January 1, 1992), unless--
+ `(I) the payment adjustments are made--
+ `(a) in accordance with the State plan in effect or amendments submitted
+ to the Secretary by September 30, 1991,
+ `(b) in accordance with the State plan in effect or amendments submitted to
+ the Secretary by November 26, 1991, or modification thereof, if the amendment
+ designates only disproportionate share hospitals with a medicaid or low-income
+ utilization percentage at or above the Statewide arithmetic mean, or
+ `(c) in accordance with a payment methodology which was established and
+ in effect as of September 30, 1991, or in accordance with legislation or
+ regulations enacted or adopted as of such date; or
+ `(II) the payment adjustments are the minimum adjustments required in order
+ to meet the requirements of subsection (c)(1); or
+ `(ii) in a subsequent fiscal year, to the extent that the total of such
+ payment adjustments exceeds the State disproportionate share hospital (in
+ this subsection referred to as `DSH') allotment for the year (as specified
+ in paragraph (2)).
+ `(B) NATIONAL DSH PAYMENT LIMIT- The national DSH payment limit for a fiscal
+ year is equal to 12 percent of the total amount of expenditures under State
+ plans under this title for medical assistance during the fiscal year.
+ `(C) PUBLICATION OF STATE DSH ALLOTMENTS AND NATIONAL DSH PAYMENT LIMIT-
+ Before the beginning of each fiscal year (beginning with fiscal year 1993),
+ the Secretary shall, consistent with section 1903(d), estimate and publish--
+ `(i) the national DSH payment limit for the fiscal year, and
+ `(ii) the State DSH allotment for each State for the year.
+ `(D) CONDITIONAL EXCEPTION FOR CERTAIN STATES- Subject to subparagraph (E),
+ beginning with payments for quarters beginning on or after January 1, 1996,
+ and at the option of a State, subparagraph (A) shall not apply in the case
+ of a State which defines a hospital as a disproportionate share hospital
+ under subsection (a)(1) only if the hospital meets any of the following
+ requirements:
+ `(i) The hospital's medicaid inpatient utilization rate (as defined in
+ subsection (b)(2)) is at or above the mean medicaid inpatient utilization
+ rate for all hospitals in the State.
+ `(ii) The hospital's low-income utilization rate (as defined in subsection
+ (b)(3)) is at or above the mean low-income utilization rate for all hospitals
+ in the State.
+ `(iii) The number of inpatient days of the hospital attributable to patients
+ who (for such days) were eligible for medical assistance under the State
+ plan is equal to at least 1 percent of the total number of such days for
+ all hospitals in the State.
+ `(iv) The hospital meets such alternative requirements as the Secretary may
+ establish by regulation, taking into account the special circumstances of
+ children's hospitals, hospitals located in rural areas, and sole community
+ hospitals.
+ `(E) CONDITION FOR OPTION- The option specified in subparagraph (D) shall not
+ apply for payments for a quarter beginning before the date of enactment of
+ legislation establishing a limit on payment adjustments under this section
+ which would apply in the case of a state exercising such option.
+ `(2) DETERMINATION OF STATE DSH ALLOTMENTS-
+ `(A) IN GENERAL- Subject to subparagraph (B), the State DSH allotment for a
+ fiscal year is equal to the State DSH allotment for the previous fiscal year
+ (or, for fiscal year 1993, the State base allotment as defined in paragraph
+ (4)(C)), increased by--
+ `(i) the State growth factor (as defined in paragraph (4)(E)) for the fiscal
+ year, and
+ `(ii) the State supplemental amount for the fiscal year (as determined
+ under paragraph (3)).
+ `(B) EXCEPTIONS-
+ `(i) LIMIT TO 12 PERCENT OR BASE ALLOTMENT- A State DSH allotment under
+ subparagraph (A) for a fiscal year shall not exceed 12 percent of the total
+ amount of expenditures under the State plan for medical assistance during
+ the fiscal year, except that, in the case of a high DSH State (as defined
+ in paragraph (4)(A)), the State DSH allotment shall equal the State based
+ allotment.
+ `(ii) EXCEPTION FOR MINIMUM REQUIRED ADJUSTMENT- No State DSH allotment shall
+ be less than the minimum amount of payment adjustments the State is required
+ to make in the fiscal year to meet the requirements of subsection (c)(1).
+ `(3) STATE SUPPLEMENTAL AMOUNTS- The Secretary shall determine a supplemental
+ amount for each State that is not a high DSH State for a fiscal year
+ as follows:
+ `(A) DETERMINATION OF REDISTRIBUTION POOL- The Secretary shall subtract
+ from the national DSH payment limit (specified in paragraph (1)(B) for the
+ fiscal year the following:
+ `(i) the total of the State base allotments for high DSH States;
+ `(ii) the total of State DSH allotments for the previous fiscal year (or,
+ in the case of fiscal year 1993, the total of State base allotments) for
+ all States other than high DSH States;
+ `(iii) the total of the State growth amounts for all States other than high
+ DSH States for the fiscal year; and
+ `(iv) the total additions to State DSH allotments the Secretary estimates
+ will be attributable to paragraph (2)(B)(ii).
+ `(B) DISTRIBUTION OF POOL BASED ON TOTAL MEDICAID EXPENDITURES FOR MEDICAL
+ ASSISTANCE- The supplemental amount for a State for a fiscal year is equal
+ to the lesser of--
+ `(i) the product of the amount determined under subparagraph (A) and the
+ ratio of--
+ `(I) the total amount of expenditures made under the State plan under this
+ title for medical assistance during the fiscal year, to
+ `(II) the total amount of expenditures made under the State plans under
+ this title for medical assistance during the fiscal year for all States
+ which are not high DSH States in the fiscal year, or
+ `(ii) the amount that would raise the State DSH allotment to the maximum
+ permitted under paragraph (2)(B).
+ `(4) DEFINITIONS- In this subsection:
+ `(A) HIGH DSH STATE- The term `high DSH State' means, for a fiscal year,
+ a State for which the State base allotment exceeds 12 percent of the total
+ amount of expenditures made under the State plan under this title for
+ medical assistance during the fiscal year.
+ `(B) STATE- The term `State' means only the 50 States and the District of
+ Columbia but does not include any State whose entire program under this
+ title is operated under a waiver granted under section 1115.
+ `(C) STATE BASE ALLOTMENT- The term `State base allotment' means, with
+ respect to a State, the greater of--
+ `(i) the total amount of payment adjustments made under subsection (c)
+ under the State plan during fiscal year 1992 (excluding any such payment
+ adjustments for which a reduction may be made under paragraph (1)(A)(i)), or
+ `(ii) $1,000,000.
+The amount under clause (i) shall be determined by the Secretary and shall
+include only payment adjustments described in paragraph (1)(A)(i)(I).
+ `(D) STATE GROWTH AMOUNT- The term `State growth amount' means, with respect
+ to a State for a fiscal year, the lesser of--
+ `(i) the product of the State growth factor and the State DSH payment limit
+ for the previous fiscal year, or
+ `(ii) the amount by which 12 percent of the total amount of expenditures
+ made under the State plan under this title for medical assistance during
+ the fiscal year exceeds the State DSH allotment for the previous fiscal year.
+ `(E) STATE GROWTH FACTOR- The term `State growth factor' means, for a State
+ for a fiscal year, the percentage by which the expenditures described in
+ section 1903(a) in the State in the fiscal year exceed such expenditures
+ in the previous fiscal year.'.
+ (2) CONFORMING AMENDMENTS- (A) Such section 1923 is further amended--
+ (i) in subsection (a)(2)(B), by striking `subsection (c),' and inserting
+ `subsections (c) and (f),'; and
+ (ii) in subsection (c), by striking `In order' and inserting `Subject to
+ subsection (f), in order'.
+ (B) Section 1903(a)(1) of such Act (42 U.S.C. 1396b(a)(1)) is amended by
+ inserting `and section 1923(f)' after `of this section'.
+ (c) LIMITS ON AUTHORITY TO RESTRICT DSH DESIGNATIONS- Subsection (b) of
+ such section is amended by adding at the end the following new paragraph:
+ `(4) The Secretary may not restrict a State's authority to designate
+ hospitals as disproportionate share hospitals under this section. The
+ previous sentence shall not be construed to affect the authority of the
+ Secretary to reduce payments pursuant to section 1903(w)(1)(A)(iii) if the
+ Secretary determines that, as a result of such designations, there is in
+ effect a hold harmless provision described in section 1903(w)(4).'.
+ (d) STUDY OF DSH PAYMENT ADJUSTMENTS-
+ (1) IN GENERAL- The Prospective Payment Assessment Commission shall conduct
+ a study concerning--
+ (A) the feasibility and desirability of establishing maximum and minimum
+ payment adjustments under section 1923(c) of the Social Security Act for
+ hospitals deemed disproportionate share hospitals under State medicaid
+ plans, and
+ (B) criteria (other than criteria described in clause (i) or (ii) of section
+ 1923(f)(1)(D) of such Act) that are appropriate for the designation of
+ disproportionate share hospitals under section 1923 of such Act.
+ (2) ITEMS INCLUDED IN STUDY- The Commission shall include in the study--
+ (A) a comparison of the payment adjustments for hospitals made under such
+ section and the additional payments made under title XVIII of such Act for
+ hospitals serving a significantly disproportionate number of low-income
+ patients under the medicare program; and
+ (B) an analysis of the effect the establishment of limits on such payment
+ adjustments will have on the ability of the hospitals to be reimbursed for the
+ resource costs incurred by the hospitals in treating individuals entitled to
+ medical assistance under State medicaid plans and other low-income patients.
+ (3) REPORT- Not later than January 1, 1994, the Commission shall submit
+ a report on the study conducted under paragraph (1) to the Committee on
+ Finance of the Senate and the Committee on Energy and Commerce of the House
+ of Representatives. Such report shall include such recommendations respecting
+ the designation of disproportionate share hospitals and the establishment
+ of maximum and minimum payment adjustments for such hospitals under section
+ 1923 of the Social Security Act as may be appropriate.
+ (e) EFFECTIVE DATE- (1) The amendments made by this section shall take
+ effect January 1, 1992.
+ (2) The proposed rule promulgated by the Secretary of Health and Human
+ Services on October 31, 1991 (56 Federal Register 56141), relating to the
+ standards for defining disproportionate share hospitals under the medicaid
+ program, shall be withdrawn and canceled. No part of such proposed rule
+ shall be effective except pursuant to a rule promulgated after the date
+ of the enactment of this Act and consistent with this section (and the
+ amendments made by this section).
+SEC. 4. REPORTING REQUIREMENT.
+ (a) IN GENERAL- Section 1903(d) of the Social Security Act (42
+ U.S.C. 1396b(d)) is amended by adding at the end the fol-lowing:
+ `(6)(A) Each State (as defined in subsection (w)(7)(D)) shall include,
+ in the first report submitted under paragraph (1) after the end of each
+ fiscal year, information related to--
+ `(i) provider-related donations made to the State or units of local government
+ during such fiscal year, and
+ `(ii) health care related taxes collected by the State or such units during
+ such fiscal year.
+ `(B) Each State shall include, in the first report submitted under paragraph
+ (1) after the end of each fiscal year, information related to the total
+ amount of payment adjustments made, and the amount of payment adjustments
+ made to individual providers (by provider), under section 1923(c) during
+ such fiscal year.'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply to
+ fiscal years ending after the date of the enactment of this Act.
+SEC. 5. INTERIM FINAL REGULATIONS.
+ (a) IN GENERAL- Subject to subsection (b), the Secretary of Health and Human
+ Services shall issue such regulations (on an interim final or other basis)
+ as may be necessary to implement this Act and the amendments made by this Act.
+ (b) REGULATIONS CHANGING TREATMENT OF INTERGOVERNMENTAL TRANSFERS- The
+ Secretary may not issue any interim final regulation that changes the
+ treatment (specified in section 433.45(a) of title 42, Code of Federal
+ Regulations) of public funds as a source of State share of financial
+ participation under title XIX of the Social Security Act, except as may be
+ necessary to permit the Secretary to deny Federal financial participation
+ for public funds described in section 1903(w)(6)(A) of such Act (as added
+ by section 2(a) of this Act) that are derived from donations or taxes that
+ would not otherwise be recognized as the non-Federal share under section
+ 1903(w) of such Act.
+ (c) CONSULTATION WITH STATES- The Secretary shall consult with the States
+ before issuing any regulations under this Act.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

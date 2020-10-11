@@ -1,0 +1,421 @@
+ 
+--S.2088--
+S.2088
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To extend titles I and II of the Energy Policy and Conservation Act, and
+for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be referred to as the `Energy Policy and Conservation Act
+ Amendments of 1990'.
+SEC. 2. EXTENSION OF AUTHORITY.
+ The Energy Policy and Conservation Act (42 U.S.C. 6201 et seq.) is amended--
+ (1) in section 104(b)(1) by striking out `September 15, 1990' and inserting
+ in lieu thereof `September 30, 1994';
+ (2) in section 171, by striking out `September 15, 1990' each place it
+ appears and inserting in lieu thereof `September 30, 1994'; and
+ (3) in section 281, by striking out `September 15, 1990' each place it
+ appears and inserting in lieu thereof `September 30, 1994'.
+SEC. 3. SEVERE DOMESTIC ENERGY SUPPLY INTERRUPTIONS.
+ (a) DEFINITIONS- Section 3(8)(C) of the Energy Policy and Conservation Act
+ (42 U.S.C. 6202(8)(C)) is amended--
+ (1) by inserting `(i)' after `from' the first place it appears; and
+ (2) by striking out `or from' and inserting in lieu thereof: `(ii) an
+ interruption in the supply of domestic petroleum products, or (iii)'.
+ (b) DRAWDOWN- Section 161 of such Act (42 U.S.C. 6241) is amended by adding
+ at the end the following:
+ `(h)(1) If the President finds that--
+ `(A) a circumstance, other than those described in subsection (d), exists
+ that constitutes, or is likely to become, a domestic energy supply shortage
+ of significant scope or duration; and
+ `(B) action taken under this subsection would assist directly and
+ significantly in preventing or reducing the adverse impact of such shortage,
+then the Secretary may, subject to the limitations of paragraph (2), draw
+down and distribute the Strategic Petroleum Reserve.
+ `(2) In no case may the Reserve be drawn down under this subsection--
+ `(A) in excess of an aggregate of 30,000,000 barrels with respect to each
+ such shortage;
+ `(B) for more than 60 days with respect to each such shortage;
+ `(C) if there are fewer than 500,000,000 barrels of petroleum product stored
+ in the Reserve; or
+ `(D) below the level of an aggregate of 500,000,000 barrels of petroleum
+ product stored in the Reserve.
+ `(3) During any period in which there is a drawdown and distribution of
+ the Reserve in effect under this subsection, the Secretary shall transmit
+ a monthly report to the Congress containing an account of the drawdown and
+ distribution of petroleum products under this subsection and an assessment
+ of its effect.
+ `(4) In no case may the drawdown under this subsection be extended beyond
+ 60 days with respect to any domestic energy supply shortage.'.
+SEC. 4. ENLARGEMENT OF SPR TO ONE BILLION BARRELS.
+ (a) IN GENERAL- Section 159 of the Energy Policy and Conservation Act (42
+ U.S.C. 6239) is amended by adding at the end the following new subsections:
+ `(i) No later than 18 months after the date of the enactment of the Energy
+ Policy and Conservation Act Amendments of 1990, the Secretary shall transmit
+ to the Committee on Energy and Natural Resources of the Senate and the
+ Committee on Energy and Commerce of the House of Representatives a report on
+ the results of negotiations undertaken pursuant to part C. The report shall--
+ `(1) describe the terms of any contracts negotiated pursuant to part C
+ and any cost savings that would result from such contracts relative to the
+ costs of acquisition pursuant to part B; and
+ `(2) give all available information on any cost savings that would likely
+ result from additional contracts that could be negotiated pursuant to part
+ C for completion of the storage of one billion barrels of petroleum product
+ in the Reserve relative to the costs of acquisition pursuant to part B.
+ `(j) No later than 24 months after the date of the enactment of the Energy
+ Policy and Conservation Act Amendments of 1990, the Secretary shall amend
+ the Strategic Petroleum Reserve Plan to prescribe plans for completion of
+ storage of one billion barrels of petroleum product in the Reserve. Such
+ amendment shall comply with the provisions of this section and shall
+ detail the Secretary's plans for the design, construction, leasing or other
+ acquisition, and fill of storage and related facilities of the Reserve to
+ achieve such one billion barrels of storage. Such amendment shall not be
+ subject to the congressional review procedures contained in section 551. In
+ assessing alternatives in the development of such plans, the Secretary
+ shall consider leasing privately owned storage facilities.'.
+ (b) CONFORMING AMENDMENTS- Section 160 of the Energy Policy and Conservation
+ Act (42 U.S.C. 6240) is amended--
+ (1) in subsection (c)(3)--
+ (A) by striking out `fiscal years 1988 and 1989' and inserting in lieu
+ thereof `fiscal year 1994'; and
+ (B) by striking out `at least 750,000,000' and inserting in lieu thereof
+ `1,000,000,000'; and
+ (2) in subsection (d)(1), by inserting before the period at the end of
+ subparagraph (B) the following: `and the Secretary has amended the Strategic
+ Petroleum Reserve Plan as required by section 159(j)'.
+ (c) FACILITIES- Section 160(d)(1)(A) of such Act (42 U.S.C. 6240(d)(1)(A))
+ is amended by inserting after `within' the following: `Government owned
+ facilities of'.
+SEC. 5. PREDRAWDOWN DIVERSION OF SPR OIL.
+ (a) IN GENERAL- Section 160 of the Energy Policy and Conservation Act
+ (42 U.S.C. 6240) is amended by adding at the end the following:
+ `(f) If the Secretary finds that a severe energy supply interruption may be
+ imminent, the Secretary may suspend the acquisition of petroleum product for,
+ and the injection of petroleum product into, the Reserve and may sell any
+ petroleum product acquired for and in transit to, but not injected into,
+ the Reserve.'.
+ (b) CONFORMING AMENDMENTS- (1) Section 167(b)(3) of such Act (42
+ U.S.C. 6247(b)(3)) is amended by inserting after `(g) of such section' the
+ following: `, or from the sale of petroleum products under section 160(f)'.
+ (2) Section 167(d) of such Act (42 U.S.C. 6247(d)) is amended by inserting
+ after `(g) of such section' the following: `, and from the sale of petroleum
+ products under section 160(f)'.
+ (3) Section 160(d) of such Act (42 U.S.C. 6240(d)) is amended by adding at
+ the end the following:
+ `(4) For any fiscal year in which purchases of petroleum products are
+ suspended, or the sale of petroleum products is carried out, under subsection
+ (f), the fill-rate requirements of paragraph (1)(B) shall be reduced by--
+ `(A) the amount of petroleum products are acquired for such fiscal year as
+ a result of such suspension; plus
+ `(B) the amount of petroleum products sold under such subsection during
+ such fiscal year.'.
+SEC. 6. LEASING AUTHORITY.
+ (a) IN GENERAL- Title I of the Energy Policy and Conservation Act (42
+ U.S.C. 6211 et seq.) is amended--
+ (1) in section 152, by inserting `and part C' after `this part' in the
+ material preceding paragraph (1);
+ (2) by redesignating part C as part D;
+ (3) by redesignating section 171 (after the amendment is made by section 2(2)
+ of this Act) as section 181; and
+ (4) by adding the following new part after part B:
+`Part C--Authority To Contract for Petroleum Product Not Owned by the
+United States
+`CONTRACTING FOR PETROLEUM PRODUCT AND FACILITIES
+ `SEC. 171. (a) IN GENERAL- Subject to the other provisions of this part,
+ the Secretary may contract--
+ `(1) for storage, in otherwise unused Strategic Petroleum Reserve facilities,
+ of petroleum product not owned by the United States; and
+ `(2) for storage, in storage facilities other than those of the Reserve,
+ of petroleum product either owned or not owned by the United States.
+ `(b) CONDITIONS- (1) Petroleum product stored pursuant to such a contract
+ shall, until the expiration, termination, or other conclusion of the contract,
+ be a part of the Reserve and subject to the Secretary's authority under
+ part B.
+ `(2) The Secretary may enter into a contract for storage of petroleum
+ product under subsection (a) only if--
+ `(A) the Secretary determines (i) that entering into one or more contracts
+ under such subsection would achieve benefits comparable to the acquisition
+ of an equivalent amount of petroleum product, or an equivalent volume of
+ storage capacity, for the Reserve under part B, and (ii) that, because of
+ budgetary constraints, the acquisition of an equivalent amount of petroleum
+ product or volume of storage space for the Reserve cannot be accomplished
+ under part B; and
+ `(B) the Secretary notifies each House of the Congress of such determination
+ and includes in such notification the same information required under section
+ 154(e) with regard to storage and related facilities proposed to be included,
+ or petroleum product proposed to be stored, in the Reserve.
+ `(3) A contract entered into under subsection (a) shall not limit the
+ discretion of the President or the Secretary to conduct a drawdown and
+ distribution of the Reserve.
+ `(4) A contract entered into under subsection (a) shall include a provision
+ that the obligation of the United States to make payments under the contract
+ in any fiscal year is subject to the availability of appropriations.
+ `(c) CHARGE FOR STORAGE- The Secretary may store petroleum product pursuant
+ to a contract entered into under subsection (a)(1) with or without charge
+ or may pay a fee for its storage.
+ `(d) DURATION- Contracts entered into under subsection (a) may be of such
+ duration as the Secretary considers necessary or appropriate.
+ `(e) BINDING ARBITRATION- The Secretary may agree to binding arbitration
+ of disputes under any contract entered into under subsection (a).
+`IMPLEMENTATION
+ `SEC. 172. (a) AMENDMENT TO PLAN NOT REQUIRED- An amendment of the Strategic
+ Petroleum Reserve Plan is not required for any action taken under this part.
+ `(b) FILL RATE REQUIREMENT- For purposes of section 160(d)(1), any petroleum
+ product stored in the Reserve under this part that is removed from the Reserve
+ at the expiration, termination, or other conclusion of the agreement shall
+ be considered to be part of the Reserve until the beginning of the fiscal
+ year following the fiscal year in which the petroleum product was removed.
+ `(c) LEGAL STATUS REGARDING OTHER LAW- Petroleum product and facilities
+ contracted for under this part have the same status as petroleum product
+ and facilities owned by the United States for all purposes associated with
+ the exercise of the laws of any State or political subdivision thereof.
+ `(d) RETURN OF PRODUCT- At such time as the petroleum product contracted
+ for under this part is withdrawn from the Reserve upon the expiration,
+ termination, or other conclusion of the contract, such petroleum product
+ (or the equivalent quantity of petroleum product withdrawn from the Reserve
+ pursuant to the contract) shall be deemed, for purposes of determining the
+ extent to which such product is thereafter subject to any Federal, State,
+ or local law or regulation, not to have left the place where such petroleum
+ product was located at the time it was originally committed to a contract
+ under this part.
+`CONTRACTS FOR WHICH NO IMPLEMENTING LEGISLATION IS NEEDED
+ `SEC. 173. (a) CONGRESSIONAL REVIEW- In the case of contracts entered into
+ under this part, and amendments to such contracts, for which no implementing
+ legislation is needed, the Secretary shall transmit each such contract and
+ each such amendment to the Committee on Appropriations and the Committee
+ on Energy and Natural Resources of the Senate and to the Committee on
+ Appropriations and the Committee on Energy and Commerce of the House of
+ Representatives within 30 days after the signing thereof.
+ `(b) EFFECTIVE DATE- (1) Any such contract, and any such amendment, shall
+ not become effective until the end of the 30-day period of continuous
+ session of Congress after the date of such transmittal, except that such
+ contract may become effective without regard to such period if the President
+ determines that such contract is required as a result of a severe energy
+ supply interruption or by obligations of the United States under the
+ international energy program.
+ `(2) For purposes of paragraph (1)--
+ `(A) continuity of session is broken only by an adjournment of Congress
+ sine die; and
+ `(B) the days on which either House is not in session because of an
+ adjournment of more than three days to a day certain are excluded in the
+ computation of the calendar-day period involved.
+`CONTRACTS FOR WHICH IMPLEMENTING LEGISLATION IS NEEDED
+ `SEC. 174. (a) IN GENERAL- (1) In the case of contracts entered into
+ under this part, and amendments to such contracts, for which implementing
+ legislation will be needed, the Secretary may transmit an implementing bill
+ to both Houses of the Congress.
+ `(2) In the Senate, any such bill shall be considered in accordance with
+ the provisions of this section.
+ `(3) For purposes of this section--
+ `(A) the term `implementing bill' means a bill introduced in either House
+ of Congress with respect to one or more contracts or amendments to contracts
+ submitted to the House of Representatives and the Senate under this section
+ and which contains--
+ `(i) a provision approving such contracts or amendments, or both; and
+ `(ii) legislative provisions that are necessary or appropriate for the
+ implementation of such contracts or amendments, or both; and
+ `(B) the term `implementing revenue bill' means an implementing bill which
+ contains one or more revenue measures by reason of which it must originate
+ in the House of Representatives.
+ `(b) CONSULTATION- The Secretary shall consult, at the earliest possible
+ time and on a continuing basis, with each committee of the House and the
+ Senate that has jurisdiction over all matters expected to be affected by
+ legislation needed to implement any such contract.
+ `(c) EFFECTIVE DATE- Each contract and each amendment to a contract for
+ which an implementing bill is necessary may become effective only if--
+ `(1) the Secretary, not less than 30 days before the day on which such
+ contract is entered into, notifies the House of Representatives and the
+ Senate of the intention to enter into such a contract and promptly thereafter
+ publishes notice of such intention in the Federal Register;
+ `(2) after entering into the contract, the Secretary transmits a report
+ to the House of Representatives and to the Senate containing a copy of the
+ final text of such contract together with--
+ `(A) the implementing bill, and an explanation of how the implementing bill
+ changes or affects existing law; and
+ `(B) a statement of the reasons why the contract serves the interests of
+ the United States and why the implementing bill is required or appropriate
+ to implement the contract; and
+ `(3) the implementing bill is enacted into law.
+ `(d) RULES OF THE SENATE- Subsections (e) through (h) are enacted by the
+ Congress--
+ `(1) as an exercise of the rulemaking power of the Senate, and as such they
+ are deemed a part of the rules of the Senate but applicable only with respect
+ to the procedure to be followed in the Senate in the case of implementing
+ bills and implementing revenue bills described in subsection (a), and
+ they supersede other rules only to the extent that they are inconsistent
+ therewith; and
+ `(2) with full recognition of the constitutional right of the Senate to
+ change the rules (so far as relating to the procedure of the Senate) at
+ any time, in the same manner and to the same extent as in the case of any
+ other rule of the Senate.
+ `(e) INTRODUCTION AND REFERRAL IN THE SENATE- (1) On the day on which
+ an implementing bill is transmitted to the Senate under this section,
+ the implementing bill shall be introduced (by request) in the Senate by
+ the majority leader of the Senate, for himself or herself and the minority
+ leader of the Senate, or by Members of the Senate designated by the majority
+ leader and minority leader of the Senate.
+ `(2) If the Senate is not in session on the day on which such an agreement
+ is submitted, the implementing bill shall be introduced in the Senate,
+ as provided in the paragraph (1), on the first day thereafter on which the
+ Senate is in session.
+ `(3) Such bills shall be referred by the presiding officer of the Senate to
+ the appropriate committee, or, in the case of a bill containing provisions
+ within the jurisdiction of two or more committees, jointly to such committees
+ for consideration of those provisions within their respective jurisdictions.
+ `(f) CONSIDERATION OF AMENDMENTS TO IMPLEMENTING BILL PROHIBITED IN THE
+ SENATE- (1) No amendments to an implementing bill shall be in order in
+ the Senate, and it shall not be in order in the Senate to consider an
+ implementing bill that originated in the House if such bill passed the
+ House containing any amendment to the introduced bill.
+ `(2) No motion to suspend the application of this subsection shall be in
+ order in the Senate; nor shall it be in order in the Senate for the Presiding
+ Officer to entertain a request to suspend the application of this subsection
+ by unanimous consent.
+ `(g) DISCHARGE IN THE SENATE- (1) Except as provided in paragraph (3),
+ if the committee or committees of the Senate to which an implementing
+ bill has been referred have not reported it at the close of the 30th day
+ after its introduction, such committee or committees shall be automatically
+ discharged from further consideration of the bill, and it shall be placed
+ on the appropriate calendar.
+ `(2) A vote on final passage of the bill shall be taken in the Senate
+ on or before the close of the 15th day after the bill is reported by the
+ committee or committees to which it was referred or after such committee
+ or committees have been discharged from further consideration of the bill.
+ `(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate
+ to an implementing revenue bill. An implementing revenue bill received from
+ the House shall be, subject to subsection (f)(1), referred to the appropriate
+ committee or committees of the Senate. If such committee or committees have
+ not reported such bill at the close of the 15th day after its receipt by the
+ Senate, such committee or committees shall be automatically discharged from
+ further consideration of such bill and it shall be placed on the calendar. A
+ vote on final passage of such bill shall be taken in the Senate on or before
+ the close of the 15th day after such bill is reported by the committee or
+ committees of the Senate to which it was referred, or after such committee
+ or committees have been discharged from further consideration of such bill.
+ `(4) For purposes of this subsection, in computing a number of days in the
+ Senate, there shall be excluded any day on which the Senate is not in session.
+ `(h) FLOOR CONSIDERATION IN THE SENATE- (1) A motion in the Senate to
+ proceed to the consideration of an implementing bill shall be privileged
+ and not debatable. An amendment to the motion shall not be in order, nor
+ shall it be in order to move to reconsider the vote by which the motion is
+ agreed to or disagreed to.
+ `(2) Debate in the Senate on an implementing bill, and all debatable motions
+ and appeals in connection therewith, shall be limited to not more than
+ 20 hours. The time shall be equally divided between, and controlled by,
+ the majority leader and the minority leader or their designees.
+ `(3) Debate in the Senate on any debatable motion or appeal in connection
+ with an implementing bill shall be limited to not more than one hour to be
+ equally divided between, and controlled by, the mover and the manager of the
+ bill, except that in the event the manager of the bill is in favor of any
+ such motion or appeal, the time in opposition thereto shall be controlled by
+ the minority leader or his designee. Such leaders, or either of them, may,
+ from time under their control on the passage of an implementing bill, allot
+ additional time to any Senator during the consideration of any debatable
+ motion or appeal.
+ `(4) A motion in the Senate to further limit debate is not debatable. A
+ motion to recommit an implementing bill is not in order.'.
+ (b) CONFORMING AMENDMENTS- The table of contents of the Energy Policy and
+ Conservation Act is amended--
+ (1) by adding at the end of the items for title I the following items:
+`Part C--Authority to Contract for Petroleum Product Not Owned by the
+United States
+`Sec. 171. Contracting for petroleum product and facilities.
+`Sec. 172. Implementation.
+`Sec. 173. Contracts for which no implementing legislation is needed.
+`Sec. 174. Contracts for which implementing legislation is needed.';
+ (2) by redesignating part C in the items for title I as part D; and
+ (3) by redesignating the item for section 171 as the item for section 181.
+SEC. 7. REFINED PETROLEUM PRODUCT RESERVE.
+ Section 160 of the Energy Policy and Conservation Act (42 U.S.C. 6240)
+ is amended by adding at the end the following after the subsection added
+ by section 5(a) of this Act:
+ `(g)(1) The Secretary shall conduct a test program of storage of refined
+ petroleum products within the Reserve. The test program shall commence during
+ fiscal year 1992 and continue through fiscal year 1994. The test program
+ shall demonstrate mechanisms for storage of refined petroleum products
+ within the Reserve which may be drawn down in accordance with this part.
+ `(2) The mechanisms demonstrated under paragraph (1)--
+ `(A) shall include the acquisition by lease or purchase, or both, of
+ refined petroleum products for storage in the Reserve and shall include
+ the acquisition by lease of storage facilities; and
+ `(B) may include other mechanisms including, but not limited to, industrial
+ petroleum reserves pursuant to section 156 and State set-aside programs,
+ except that such mechanisms must provide equivalent control over the drawdown
+ and distribution of such refined petroleum products as is provided under
+ this part.
+ `(3) Any refined petroleum products stored in the Reserve under this
+ subsection shall be stored in locations to be determined by the Secretary,
+ taking into account the proximity of existing distribution systems, the
+ proximity of the area or areas of the United States most dependent on
+ imported petroleum products or likely to experience shortages of refined
+ petroleum products, and the capability for expeditious distribution to such
+ area or areas.
+ `(4) In the conduct of the test program under paragraph (1), the Secretary
+ shall increase the quantity of refined petroleum products acquired for
+ storage in the Reserve by an amount equal to 10 percent of the fill of the
+ Reserve during each of the fiscal years 1992, 1993, and 1994, except that
+ the Secretary may not expend more than 10 percent of the funds appropriated
+ for the acquisition, transportation and injection of petroleum products
+ into the Reserve during each of the fiscal years covered by the test program.
+ `(5) In the conduct of the test program under paragraph (1), the Secretary may
+ not construct or purchase facilities for the storage of refined petroleum
+ products.
+ `(6) Refined petroleum products stored in the Reserve under the test program
+ may be withdrawn from the Reserve before the conclusion of the test program--
+ `(A) as may be necessary to turn such products over because of changes in
+ the physical characteristics of the product; or
+ `(B) on the basis of a finding made under section 161.
+ `(7) No later than January 31, 1994, the Secretary shall transmit to
+ the Congress a report on the test program. The report shall evaluate the
+ mechanisms demonstrated under the test program, other potential mechanisms,
+ and the purchase of facilities. The report shall include an assessment of
+ the costs and benefits of the various mechanisms. The report shall also make
+ recommendations with regard to future storage of refined petroleum products
+ and contain drafts of any legislative provisions which the Secretary wishes
+ to recommend.'.
+SEC. 8. TEST DRAWDOWN.
+ Paragraph (1) of section 161(g) of the Energy Policy and Conservation Act
+ (42 U.S.C. 6241(g)(1)) is amended to read as follows:
+ `(1) The Secretary shall conduct a continuing evaluation of the Distribution
+ Plan. In the conduct of such evaluation, the Secretary is authorized to
+ carry out test drawdown and distribution of crude oil from the Reserve. If
+ any such test drawdown includes the sale or exchange of crude oil, then the
+ aggregate quantity of crude oil withdrawn from the Reserve may not exceed
+ 5,000,000 barrels during any such test drawdown or distribution.'.
+SEC. 9. EXEMPTION FROM INTERSTATE COMMERCE ACT.
+ Section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239),
+ is amended by adding at the end the following new subsection after the
+ subsection added by section 4(a) of this Act:
+ `(k) A storage or related facility of the Strategic Petroleum Reserve
+ owned by or leased to the United States is not subject to the Interstate
+ Commerce Act.'.
+SEC. 10. AUTHORITY TO ALLOW EXCHANGE OF SPR OIL.
+ Section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241)
+ is amended by adding at the end the following new subsection after the
+ subsection added by section 3(b) of this Act:
+ `(i) Notwithstanding any other law, the President may permit any petroleum
+ products withdrawn from the Strategic Petroleum Reserve in accordance with
+ this section to be sold and delivered for refining or exchange outside of
+ the United States, in connection with an arrangement for the delivery of
+ refined petroleum products to the United States.'.
+SEC. 11. DRAWDOWN PLAN AMENDMENTS DURING IMPLEMENTATION.
+ Section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) is
+ amended by inserting at the end of the section the following new subsection
+ after the subsection added by section 9 of this Act:
+ `(l) Notwithstanding subsection (d), during any period in which the
+ Distribution Plan is being implemented, the Secretary may amend the plan
+ and promulgate rules, regulations, or orders to implement such amendments in
+ accordance with section 523 of this Act, without regard to the requirements
+ of section 553 of title 5, United States Code, and section 501 of the
+ Department of Energy Organization Act (42 U.S.C. 7191). Such amendments
+ shall be transmitted to the Congress together with a statement explaining
+ the need for such amendments.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,348 @@
+ 
+--H.R.5673--
+H.R.5673
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Public Health Service Act to revise and extend the programs of
+the Agency for Health Care Policy and Research.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; AMENDATORY REFERENCES.
+  (a) SHORT TITLE- This Act may be cited as the `Agency for Health Care
+  Policy and Research Reauthorization Act of 1992'.
+  (b) AMENDATORY REFERENCES- Except as otherwise specifically provided,
+  whenever in this Act an amendment or repeal is expressed in terms of an
+  amendment to, or a repeal of, a section or other provision, the reference
+  shall be considered to be made to that section or other provision of the
+  Public Health Service Act (42 U.S.C. 201 et seq.).
+SEC. 2. ESTABLISHMENT AND GENERAL AUTHORITIES.
+  (a) ESTABLISHMENT- Section 901(b) (42 U.S.C. 299(b)) is amended by inserting
+  after `improvements in clinical practice' the following: `(including the
+  prevention of diseases and other health conditions)'.
+  (b) GENERAL AUTHORITIES- Section 902 (42 U.S.C. 299a) is amended--
+  (1) by redesignating subsections (c) and (d) as subsections (d) and (e),
+  respectively; and
+  (2) by inserting after subsection (b), the following subsection:
+  `(c) HEALTH SERVICES TRAINING GRANTS- The Administrator may provide training
+  grants in the field of health services research related to activities
+  authorized under subsection (a), to include pre- and post-doctoral
+  fellowships and training programs, young investigator awards, and other
+  programs and activities as appropriate.'.
+SEC. 3. DISSEMINATION.
+  Section 903 (42 U.S.C. 299a-1) is amended by adding at the end the following
+  subsection:
+  `(e) INFORMATION CENTER-
+  `(1) IN GENERAL- There shall be established at the National Library of
+  Medicine an information center on health services research, and on selected
+  technology assessments and clinical practice guidelines produced by the
+  Agency and other public and private sources.
+  `(2) IDENTIFICATION SYSTEM- The Administrator shall ensure that information
+  under paragraph (1) concerning clinical practice guidelines is collected and
+  maintained electronically and in a convenient format. The Administrator,
+  in consultation with the Director of the National Library of Medicine,
+  shall develop and publish criteria for the inclusion of practice guidelines
+  and technology assessments in the information center database.
+  `(3) INTERAGENCY AGREEMENT- The Administrator shall enter into an agreement
+  providing for the implementation of paragraph (1) with the Director of
+  the National Library of Medicine.'.
+SEC. 4. HEALTH CARE TECHNOLOGY ASSESSMENT.
+  (a) IN GENERAL- Section 904 (42 U.S.C. 299a-2) is amended--
+  (1) in subsection (a)--
+  (A) by striking `and' at the end of paragraph (4);
+  (B) by striking the period at the end of paragraph (5) and inserting  `;
+  and'; and
+  (C) by adding at the end the following paragraph:
+  `(6) by conducting assessments and reassessments of existing and new health
+  care technologies.';
+  (2) in subsection (b)(2)--
+  (A) by striking `cost-effectiveness,'; and
+  (B) by adding at the end the following sentence: `In carrying out such
+  paragraph, the Administrator shall also consider the cost effectiveness
+  of such technologies where cost information is available and reliable.'; and
+  (3) in subsection (c) to read as follows:
+  `(c) AGENDA AND PRIORITIES-
+  `(1) ESTABLISHMENT OF PRIORITIES- In accordance with paragraph (2), the
+  Administrator, in consultation with the Advisory Council established under
+  section 921, shall establish an annual list of technology assessments under
+  consideration by the Agency, including those assessments performed at the
+  request of the Health Care Financing Administration and the Department of
+  Defense and those assessments performed under subsections (d) and (f).
+  `(2) PUBLIC NOTICE- The Administrator, in consultation with the Advisory
+  Council, shall publish the list established in paragraph (1) annually in
+  the Federal Register.';
+  (4) in subsection (d), to read as follows:
+  `(d) CONDUCT OF ASSESSMENTS-
+  `(1) IN GENERAL- The Administrator may conduct technology assessments in
+  addition to those assessments performed at the request of the Administrator
+  of the Health Care Financing Administration or of the Secretary of Defense.
+  `(2) CRITERIA- The Administrator shall develop criteria for determining
+  the priority of assessments performed under this subsection. Such criteria
+  shall include--
+  `(A) the prevalence of the health condition for which the technology aims
+  to prevent, diagnose, treat and clinically manage;
+  `(B) variations in current practice;
+  `(C) the economic burden posed by the prevention, diagnosis, treatment,
+  and clinical management of the health condition, including the impact on
+  publicly-funded  programs;
+  `(D) aggregate cost of the use of technology;
+  `(E) the morbidity and mortality associated with the health condition; and
+  `(F) the potential of an assessment to improve health outcomes or affect
+  costs associated with the prevention, diagnosis, or treatment of the
+  condition.'; and
+  (5) by adding at the end the following subsections:
+  `(e) DESCRIPTION OF PROCESS- Not later than January 1, 1994, the
+  Administrator shall develop and publish a description of the methodology
+  used to establish priorities for technology assessment and the process
+  used to conduct its technology assessments under this section.
+  `(f) PROGRAM OF INNOVATIVE ASSESSMENTS-
+  `(1) IN GENERAL- The Administrator may make grants to, or enter cooperative
+  agreements or contracts with, entities described in paragraph (2) for the
+  establishment of collaborative arrangements for the purpose of conducting
+  assessments of experimental, emerging, existing, or potentially outmoded
+  health care technologies, and for related activities. Such assessments
+  may include controlled clinical trials, large simple trials, and other
+  methodologies that can be conducted in partnership between the public and
+  private sectors or among multiple government agencies.
+  `(2) ELIGIBLE ENTITIES- The entities referred to in paragraph (1) are
+  entities determined to be appropriate by the Administrator, which entities
+  may include academic medical centers, research institutions, nonprofit
+  professional organizations, public or private third party payers, other
+  governmental agencies, and consortia of appropriate research entities
+  established for the purpose of conducting technology assessments.
+  `(3) USE OF AWARD- A grant, cooperative agreement, or contract under
+  paragraph (1) may be expended for data collection, data analysis, protocol
+  development, report development, dissemination and evaluation, and other
+  activities determined to be appropriate by the Administrator. Such funds
+  shall not be used for direct services.
+  `(4) APPLICATION FOR AWARD- To be eligible to receive a grant, cooperative
+  agreement, or contract under paragraph (1), an entity shall prepare and
+  submit to the Administrator an application, at such time, in such form,
+  and containing such information as the Administrator may require.
+  `(5) INTERAGENCY MEMORANDA OF UNDERSTANDING- In carrying out paragraph
+  (1), the Administrator may enter into memoranda of understanding with the
+  heads of other Federal agencies.'.
+  (b) REPORT REGARDING INNOVATIVE ASSESSMENTS- Not later than January 1,
+  1994, the Administrator for Health Care Policy and Research shall submit
+  to the Committee on Energy and Commerce of the House of Representatives,
+  and the Committee on Labor and Human Resources of the Senate, a report
+  concerning the program established in section 904(f) of the Public Health
+  Service Act (as added by subsection (a) of this section), including the
+  plan of such Administrator for implementing the program.
+SEC. 5. FORUM FOR QUALITY AND EFFECTIVENESS IN HEALTH CARE.
+  (a) REQUIREMENTS FOR GUIDELINES, STANDARDS, PERFORMANCE MEASURES, AND
+  REVIEW CRITERIA-
+  (1) ADDITIONAL REQUIREMENTS- Section 912(b) (42 U.S.C. 299b-1) is amended--
+  (A) in paragraph (2), by striking `and' after the semicolon at the end;
+  (B) in paragraph (3), by striking the period at the end and inserting `;
+  and'; and
+  (C) by adding at the end the following paragraphs:
+  `(4) include information on risks and benefits of alternative strategies
+  for prevention, diagnosis, treatment, and management of a given disease,
+  disorder, or other health condition; and
+  `(5) include information on the costs of alternative strategies for the
+  prevention, diagnosis, treatment, and management of a given disease,
+  disorder, or other health condition, where cost information is available
+  and reliable.'.
+  (2) STUDY-
+  (A) To assist in carrying out the requirements of section 912(b)(4) of the
+  Public Health Service Act, as added by paragraph (1) of this subsection, the
+  Administrator for Health Care Policy and Research shall conduct or support a
+  study to develop methods for collecting and analyzing primary and secondary
+  data to be used in generating cost estimates of alternative strategies for
+  the prevention, diagnosis, treatment, and management of a given disease,
+  disorder, or the health condition to be included in guideline documents.
+  (B) Not later than June 1, 1994, the Administrator for Health Care Policy and
+  Research shall submit to the Committee on Energy and Commerce of the House
+  of Representatives, and to the Committee on Labor and Human Resources of
+  the Senate, a report concerning the study conducted under subparagraph (A).
+  (b) ADMINISTRATION OF OFFICE- Section 911 (42 U.S.C. 299b) is amended by
+  adding at the end the following sentence: `The Administrator shall carry
+  out this part acting through the Director.'.
+  (c) CONFORMING AMENDMENTS- Part B of title IX (42 U.S.C. 299b et seq.) is
+  amended--
+  (1) in section 912--
+  (A) in subsection (a)--
+  (i) in the first sentence, by striking `The' and all that follows through
+  `shall' and inserting `The Administrator shall'; and
+  (ii) in the second sentence, by striking `Director' and inserting
+  `Administrator'; and
+  (B) in subsection (c), by striking `Director' and inserting `Administrator';
+  (2) in section 913--
+  (A) in subsection (a), in the matter preceding paragraph (1), by striking
+  `Director' and inserting `Administrator';
+  (B) in subsection (b), in the matter preceding paragraph (1), by striking
+  `Director' and inserting `Administrator'; and
+  (C) in subsection (c), by striking `Director' each place such term appears
+  and inserting `Administrator'; and
+  (3) in section 914--
+  (A) in subsection (b)--
+  (i) in paragraph (1), by striking `Director' and inserting `Administrator';
+  (ii) in paragraph (2), by striking `Director' and inserting `Administrator';
+  (iii) in paragraph (3), in the matter preceding subparagraph (A), by striking
+  `Director' and inserting `Administrator'; and
+  (iv) in paragraph (4), by striking `Director' and inserting `Administrator';
+  (B) in subsection (c), in the first sentence, by striking `Director'
+  and inserting `Administrator';
+  (C) in subsection (d), in the first sentence, by striking `Director'
+  and inserting `Administrator'; and
+  (D) in subsection (e), by striking `Director' and inserting `Administrator'.
+  (d) PEER REVIEW WITH RESPECT TO GRANTS AND CONTRACTS-
+  (1) ESTABLISHMENT OF PEER REVIEW GROUPS- Section 922(c)(2) (42
+  U.S.C. 299c-1(c)(2)) is amended--
+  (A) by striking `from among individuals' and all that follows through
+  `virtue' and inserting `from among individuals who by virtue'; and
+  (B) by adding at the end the following sentences: `Officers and employees
+  of the United States may not constitute more than 25 percent of the
+  membership of any such group. Such officers and employees may not receive
+  compensation for service on such groups in addition to the compensation
+  otherwise received for duties carried out as such officers and employees.'.
+  (2) CATEGORIES OF REVIEW- Section 922(d)(1) (42 U.S.C. 299c-1(d)(1))
+  is amended to read as follows:
+  `(1) IN GENERAL- With respect to technical and scientific peer review under
+  this section, there shall be two categories of peer review groups as follows:
+  `(A) One category of such groups shall, subject to subparagraph (B),
+  review applications with respect to research, demonstration projects,
+  or evaluations.
+  `(B) The other category of such groups shall review applications with
+  respect to dissemination activities or the development of research agendas
+  (including conferences, workshops, and meetings). If the purpose of a
+  proposal presented in an application is a matter described in the preceding
+  sentence, the application shall be reviewed by the groups referred to
+  in such sentence, notwithstanding that the proposal involves research,
+  demonstration projects, or evaluations.'.
+  (e) CERTAIN PROVISIONS WITH RESPECT TO DEVELOPMENT, COLLECTION, AND
+  DISSEMINATION OF DATA- Section 923 (42 U.S.C. 299c-2) is amended by adding
+  at the end the following subsection:
+  `(c) AUTHORITY REGARDING CERTAIN REQUESTS- Upon the request of a public
+  or nonprofit private entity, the Administrator may tabulate and analyze
+  statistics under arrangements under which such entity will pay the cost
+  of the service provided. Amounts appropriated to the Administrator from
+  payments made under such arrangements shall be available to the Administrator
+  for obligation until expended.'.
+  (f) PROCESS FOR DEVELOPMENT OF GUIDELINES AND STANDARDS-
+  (1) MEMBERSHIP OF PANELS-
+  (A) Section 913(c) (42 U.S.C. 299b-2(c)) is amended--
+  (i) by inserting after the subsection designation the following sentence:
+  `The Administrator shall select the chairpersons and the members of the
+  panels convened as well as other participants in the guideline process
+  under this section.'; and
+  (ii) by adding at the end the following sentences: `In making such
+  selections, the Administrator shall ensure that a balance is maintained
+  between individuals selected from academic settings and individuals selected
+  without full-time academic appointments. At least two other members of such
+  panels shall be individuals who do not derive their primary source of revenue
+  directly from the performance of procedures discussed in the guideline. The
+  Administrator shall ensure that at least one participant in the guideline
+  process shall have expertise in epidemiology as well as familiarity with
+  the clinical condition or treatment in question. The Administrator shall
+  also ensure that at least one participant in the guideline process shall
+  have expertise in health services research or health economics as well as
+  familiarity with the clinical condition or treatment in question.'.
+  (B) The amendments made by subparagraph (A) shall apply only with respect
+  to panels convened under section 913 of the Public Health Service Act on
+  or after the date of enactment of this Act.
+  (2) STUDY OF PROCESS-
+  (A) The Administrator for Health Care Policy and Research shall conduct or
+  support a study to evaluate the process described in section 913 of the
+  Public Health Service Act for the development of guidelines, standards,
+  and review criteria. The  evaluation shall address--
+  (i) the optimal methods for setting priorities for guideline topics;
+  (ii) the different methods for generating guidelines, comparing the cost
+  of producing the guidelines and the validity and utility of the guidelines
+  produced; and
+  (iii) the methods for assessing the quality of practice guidelines, including
+  an evaluation of the validity, reliability, and impact of the guidelines.
+  (B) Not later than June 1, 1995, the Administrator for Health Care Policy and
+  Research shall submit to the Committee on Energy and Commerce of the House
+  of Representatives, and to the Committee on Labor and Human Resources of
+  the Senate, a report concerning the study conducted under subparagraph (A).
+SEC. 6. PREVENTION.
+  (a) PROGRAM AGENDA- Section 914(a)(2)(A) (42 U.S.C. 299b-3(a)(2)(A))
+  is amended--
+  (1) by striking clause (i);
+  (2) by redesignating clauses (ii) and (iii) as clauses (iii) and (iv),
+  respectively; and
+  (3) by inserting before clause (iii) (as so redesignated) the following
+  clauses:
+  `(i) to improve methods for disease prevention;
+  `(ii) to improve methods of diagnosis, treatment, and clinical management
+  for the benefit of a significant number of individuals;'; and
+  (b) DUTIES- Section 912 (42 U.S.C. 299b-1) is amended by adding at the
+  end the following subsection:
+  `(f) DEVELOPMENT OF CERTAIN GUIDELINES AND STANDARDS- Not later than January
+  1, 1996, the Administrator shall ensure that a set of guidelines, standards,
+  performance measures, and review criteria, are developed under subsection
+  (a)(1) that address the prevention of not fewer than three conditions
+  that account for significant national health expenditures. In carrying
+  out this subsection the Administrator shall consult with the United States
+  Preventive Services Task Force and other recognized experts in the field
+  of disease prevention.'.
+SEC. 7. ADDITIONAL REQUIREMENTS.
+  Section 914 (42 U.S.C. 299b-3) is amended--
+  (1) in subsection (a)(2), by adding at the end the following subparagraph:
+  `(C) The Administrator shall develop and publish a methodology for
+  establishing priorities for guideline topics. Such methodology may include
+  the considerations described in section 904(c)(2) or 914(a)(2), and other
+  considerations determined by the Administrator to be appropriate.  Using such
+  methodology, the Administrator shall establish and publish annually in
+  the Federal Register a list of guideline topics under consideration.'; and
+  (2) in subsection (e), by adding at the end the following sentence:
+  `Evaluations shall be developed prior to the completion and release of the
+  guideline, so that baseline data concerning practice patterns and health
+  care costs may be obtained as part of the evaluation.'.
+SEC. 8. ADVISORY COUNCIL.
+  Section 921 (42 U.S.C. 299c) is amended--
+  (1) by striking subsection (d);
+  (2) by redesignating subsections (e) through (k) as subsections (d) through
+  (j), respectively; and
+  (3) in subsection (e) (as so redesignated), by striking `subsection (e)'
+  and inserting  `subsection (d)'.
+SEC. 9. FINANCIAL CONFLICTS OF INTEREST.
+  Section 924 (42 U.S.C. 299c-3) is amended--
+  (1) by redesignating subsections (a) through (c) as subsections (b) through
+  (d), respectively; and
+  (2) by inserting before subsection (b) (as so redesignated) the following
+  subsection:
+  `(a) FINANCIAL CONFLICTS OF INTEREST- With respect to projects for which
+  awards of grants, cooperative agreements, or contracts are authorized to
+  be made under this title, the Administrator shall by regulation define--
+  `(1) the specific circumstances that constitute financial interests in
+  such projects that will, or may be reasonably expected to, create a bias
+  in favor of obtaining results in the projects that are consistent with
+  such interests; and
+  `(2) the actions that will be taken by the Administrator in response to
+  any such interests identified by the Administrator.'.
+SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
+  Section 926 (42 U.S.C. 299c-5) is amended--
+  (1) in subsection (a), to read as follows:
+  `(a) AUTHORIZATION OF APPROPRIATIONS- For the purpose of carrying out this
+  title, there are authorized to be appropriated $115,000,000 for fiscal
+  year 1993, $145,000,000 for fiscal year 1994, and $175,000,000 for fiscal
+  year 1995.'; and
+  (2) by adding at the end the following subsections:
+  `(c) INFORMATION CENTER- For purposes of carrying out the activities
+  under section 903(e), there are authorized to be appropriated $3,000,000
+  for fiscal year 1993, and such sums as may be necessary for each of the
+  fiscal years 1994 and 1995.
+  `(d) HEALTH CARE TECHNOLOGY ASSESSMENT- For the purpose of carrying out
+  technology assessment activities under section 904(d), there are authorized
+  to be appropriated $2,000,000 for fiscal year 1993, and such sums as may
+  be necessary for each of the fiscal years 1994 and 1995.
+  `(e) PROGRAM OF INNOVATIVE ASSESSMENTS- For purposes of establishing
+  the program of innovative assessments under section 904(f), there are
+  authorized to be appropriated $2,000,000 for fiscal year 1993, and such
+  sums as may be necessary in each of the fiscal years 1994 and 1995.'.
+SEC. 11. EMERGENCY MEDICAL SERVICE FOR CHILDREN.
+  Section 1910 (42 U.S.C. 300w-9) is amended--
+  (1) in subsection (a), by striking `not more than four grants in any fiscal
+  year' and inserting  `grants'; and
+  (2) in subsection (d)--
+  (A) by striking `and $5,000,000' and inserting  `$5,000,000'; and
+  (B) by inserting before the period the following: `, and such sums as may
+  be necessary for each of the fiscal years 1993 through 1997'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

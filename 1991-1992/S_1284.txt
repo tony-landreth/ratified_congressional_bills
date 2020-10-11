@@ -1,0 +1,211 @@
+ 
+--S.1284--
+S.1284
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To make certain technical corrections in the Judicial Improvements Act of
+1990 and
+other provisions of law relating to the courts.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. JUDICIAL COUNCILS OF CIRCUITS.
+ Section 332(a)(1) of title 28, United States Code, as amended by section
+ 323 of the Judicial Improvements Act of 1990, is amended by--
+ (1) striking `such member' and inserting `such number'; and
+ (2) striking `services' and inserting `service'.
+SEC. 2. CIVIL JUSTICE EXPENSE AND DELAY REDUCTION PLANS.
+ Chapter 23 of title 28, United States Code, as added by section 103 of the
+ Judicial Improvements Act of 1990, is amended--
+ (1) in section 471 by striking `this title' and inserting `this chapter'; and
+ (2) in section 474(a)--
+ (A) in paragraph (1)--
+ (i) by striking `chief judges' and inserting `chief judge'; and
+ (ii) by striking `court of appeals for such'; and
+ (B) in paragraph (2)--
+ (i) by striking `a court of appeals' and inserting `a circuit may designate
+ another judge of the court of appeals of that circuit,'; and
+ (ii) by striking `court to perform the chief' and inserting `court, to
+ perform that chief'.
+SEC. 3. VENUE.
+ Section 1391(b) of title 28, United States Code, as amended by section 311
+ of the Judicial Improvements Act of 1990, is amended by striking `if (1)'
+ and inserting `in (1)'.
+SEC. 4. REMOVAL OF SEPARATE AND INDEPENDENT CLAIMS.
+ Section 1441(c) of title 28, United States Code, as amended by section 312
+ of the Judicial Improvements Act of 1990, is amended by--
+ (1) striking the comma after `title'; and
+ (2) striking `may may' and inserting `may'.
+SEC. 5. APPEAL OF ABSTENTION DETERMINATIONS UNDER TITLE 11 OF THE UNITED
+STATES CODE.
+ Section 305(c) of title 11, United States Code, as amended by section 309 of
+ the Judicial Improvements Act of 1990, is amended by striking `this title'
+ both places it appears and inserting `title 28'.
+SEC. 6. OUTSIDE EARNED INCOME LIMITATIONS.
+ Section 502(b) of the Ethics in Government Act of 1978 (5 U.S.C. App. 7
+ 502(b)), as amended by section 601(a) of the Ethics Reform Act of 1989 and
+ section 319 of the Judicial Improvements Act of 1990, is amended to read
+ as follows:
+ `(b) TEACHING COMPENSATION OF JUSTICES AND JUDGES RETIRED FROM REGULAR
+ ACTIVE SERVICE- For purposes of the limitation under section 501(a), any
+ compensation for teaching approved under subsection (a)(5) of this section
+ shall not be treated as outside earned income--
+ `(1) when received by a justice of the United States retired from regular
+ active service under section 371(b) of title 28, United States Code;
+ `(2) when received by a judge of the United States retired from regular
+ active service under section 371(b) of title 28, United States Code,
+ for teaching performed during any calendar year for which such judge has
+ met the requirements of subsection (f) of section 371 of title 28, United
+ States Code, as certified in accordance with such subsection; or
+ `(3) when received by a justice or judge of the United States retired from
+ regular active service under section 372(a) of title 28, United States Code.'.
+SEC. 7. RETIREMENT SYSTEM FOR CLAIMS COURT JUDGES.
+ (a) RETIREMENT OF JUDGES OF THE CLAIMS COURT- Section 178 of title 28,
+ United States Code, as added by section 306(a) of the Judicial Improvements
+ Act of 1990, is amended--
+ (1) in subsection (f)(2)(A) by inserting `(except for subchapters III and
+ VII)' after `chapter 84'; and
+ (2) in subsection (j)--
+ (A) in paragraph (1)--
+ (i) by striking `(2)' and inserting `(4)'; and
+ (ii) by striking `so practices law' and inserting `engages in any such
+ activity';
+ (B) in paragraph (2) by striking `If' and inserting `Subject to paragraph
+ (4), if'; and
+ (C) in paragraph (3) by inserting `for' after `(other than'.
+ (b) CIVIL SERVICE RETIREMENT SYSTEM- Section 8339(n) of title 5, United States
+ Code, as amended by section 306(c)(4) of the Judicial Improvements Act of
+ 1990, is amended by inserting a comma after `United States commissioner'.
+ (c) THRIFT SAVINGS PLAN- (1) The section 8440b of title 5, United States
+ Code, entitled `Claims Court Judges', as added by section 306(d) of the
+ Judicial Improvements Act of 1990, is amended--
+ (A) by redesignating such section as section 8440c; and
+ (B) in subsection (b)--
+ (i) in paragraph (4)(A) by striking `subsection (d)' and inserting `subsection
+ (c)';
+ (ii) by striking paragraph (7) and redesignating paragraph (8) as (7); and
+ (iii) by adding at the end the following:
+ `(8) Notwithstanding paragraph (4)(B), if any Claims Court judge who
+ elects to make contributions to the Thrift Savings Fund under subsection
+ (a) retires before becoming entitled to an annuity under section 178 of
+ title 28, and such judge's nonforfeitable account balance is $3,500 or less,
+ the Executive Director shall pay the nonforfeitable account balance to the
+ participant in a single payment unless the judge elects, at such time and
+ otherwise in such manner as the Executive Director prescribes, to have the
+ nonforfeitable account balance transferred to an eligible retirement plan
+ as provided in section 8433(e).
+ `(9) Notwithstanding paragraph (4)(A), if any Claims Court judge retires
+ under circumstances making such judge eligible to make an election under
+ section 8433(b), and such judge's nonforfeitable account balance is $3,500
+ or less, the Executive Director shall pay the nonforfeitable account balance
+ to the participant in a single payment unless the judge elects, at such
+ time and otherwise in such manner as the Executive Director prescribes,
+ one of the options available under section 8433(b).'.
+ (2) The table of sections at the beginning of chapter 84 of title 5, United
+ States Code, is amended by striking
+`8440b. Claims Court judges.'
+and inserting after the last item under subchapter III the following:
+`8440c. Claims Court judges.'
+ (3) Paragraphs (8) and (9) of section 8440c(b) of title 5, United States
+ Code (as added by paragraph (1)) shall be effective as of January 1, 1991,
+ and shall apply to any Claims Court judge retiring on or after such date.
+ (4)(A) The section 8440c of title 5, United States Code, entitled `Judges
+ of the United States Court of Veterans Appeals' is amended by redesignating
+ such section as section 2440d.
+ (B) The table of sections at the beginning of subchapter III of chapter 84
+ of title 5, United States Code, is amended by striking
+`8440c. Judges of the United States Court of Veterans Appeals.'
+and inserting
+`8440d. Judges of the United States Court of Veterans Appeals.'.
+ (C) Section 5(b) of Public Law 102-82 is amended--
+ (i) by striking `8440c' and inserting `8440d'; and
+ (ii) by striking `(as added by subsection (a))'.
+ (D) section 7296(f)(2)(A) of title 38, United States Code, as amended by
+ section 5(c)(1) of Public Law 102-82, is amended by striking `8440c' and
+ inserting `8440d'.
+ (E) section 7297(n) of title 38, United States Code, as amended by section
+ 5(c)(2) of Public Law 102-82, is amended by striking `8440c' and inserting
+ `8440d'.
+ (d) FEDERAL EMPLOYEES' RETIREMENT SYSTEM- Section 8402(g) of title 5, United
+ States Code, as added by section 306(e) of the Judicial Improvement Act of
+ 1990, is amended by inserting a comma after `such chapter'.
+SEC. 8. NATIONAL COMMISSION ON JUDICIAL DISCIPLINE AND REMOVAL.
+ (a) MEMBERSHIP- Section 411 of the National Commission on Judicial
+ Discipline and Removal Act (title IV of the Judicial Improvements Act of
+ 1990) (28 U.S.C. 372 note) is amended by striking subsections (e) and (f)
+ and redesignating subsections (g) through (h) as subsections (e) through
+ (f), respectively.
+ (b) CLERICAL AMENDMENTS- (1) The subtitle heading for subtitle II of the
+ Judicial Discipline and Removal Reform Act of 1990 is amended by striking
+ `Impeachment' and inserting `Discipline and Removal'.
+ (2) Section 409 of the National Commission on Judicial Discipline and
+ Removal Act (28 U.S.C. note) is amended by striking `hereafter' and inserting
+ `hereinafter'.
+SEC. 9. STUDY OF CRIMINAL JUSTICE ACT PROGRAM.
+ Section 318(c) of the Judicial Improvements Act of 1990 is amended by striking
+ `March 31, 1992' and inserting `March 31, 1993'.
+SEC. 10. OTHER TECHNICAL CORRECTIONS TO TITLE 28, UNITED STATES CODE.
+ (a) PROCEDURE FOR REMOVAL- Section 1446 of title 28, United States Code,
+ is amended--
+ (1) by striking `petition for' each place it appears and inserting
+ `notice of';
+ (2) in subsection (c)(3), by striking `petition is first denied' and inserting
+ `prosecution is first remanded';
+ (3) by striking paragraphs (4) and (5) of subsection (c) and inserting
+ the following:
+ `(4) The United States district court in which such notice is filed shall
+ examine the notice promptly. If it clearly appears on the face of the notice
+ and any exhibits annexed thereto that removal should not be permitted,
+ the court shall make an order for summary remand.
+ `(5) If the United States district court does not order the summary remand of
+ such prosecution, it shall order an evidentiary hearing to be held promptly
+ and after such hearing shall make such disposition of the prosecution as
+ justice shall require. If the United States district court determines that
+ removal shall be permitted, it shall so notify the State court in which
+ prosecution is pending, which shall proceed no further.';
+ (4) by striking `petition' each place it appears and inserting `notice'; and
+ (5) in subsection (d)--
+ (A) by striking `the removal' and inserting `removal'; and
+ (B) by striking out `and bond'.
+ (b) PROCEDURE AFTER REMOVAL GENERALLY- Section 1447(b) of title 28,
+ United States Code, is amended by striking `petitioner' and inserting
+ `removing party'.
+ (c) APPOINTMENT OF CIRCUIT JUDGES- Section 44(c) of title 28, United States
+ Code, is amended by striking `this Act' and inserting `the Federal Courts
+ Improvement Act of 1982'.
+SEC. 11. AMENDMENTS TO RULES OF CIVIL PROCEDURE.
+ (a) TECHNICAL AMENDMENT- Rule 15(c)(3) of the Federal Rules of Civil
+ Procedure for the United States Courts, as transmitted to the Congress by
+ the Supreme Court pursuant to section 2074 of title 28, United States Code,
+ to become effective on December 1, 1991, is amended by striking `Rule 4(m)'
+ and inserting `Rule 4(j)'.
+ (b) AMENDMENT TO FORMS- Form 1-A, Notice of Lawsuit and Request for Waiver of
+ Service of Summons, and Form 1-B, Waiver of Service of Summons, included in
+ the transmittal by the Supreme Court described in subsection (a), shall not
+ be effective and Form 18-A, Notice and Acknowledgment for Service by Mail,
+ abrogated by the Supreme Court in such transmittal, effective December 1,
+ 1991, shall continue in effect on or after that date.
+SEC. 12. CONFORMITY WITH RULES OF APPELLATE PROCEDURE.
+ Section 2107 of title 28, United States Code, is amended--
+ (1) by designating the first and second paragraphs as subsections (a) and
+ (b), respectively;
+ (2) by striking the third and fourth paragraphs;
+ (3) by designating the fifth paragraph as subsection (d); and
+ (4) by inserting after subsection (b), as so designated, the following:
+ `(c) The district court may, upon motion filed not later than 30 days after
+ the expiration of the time otherwise set for bringing appeal, extend the time
+ for appeal upon a showing of excusable neglect or good cause. In addition,
+ if the district court finds--
+ `(1) that a party entitled to notice of the entry of a judgment or order
+ did not receive such notice from the clerk or any party within 21 days of
+ its entry, and
+ `(2) that no party would be prejudiced,
+the district court may, upon motion filed within 180 days after entry of the
+judgment or order or within 7 days after receipt of such notice, whichever
+is earlier, reopen the time for appeal for a period of 14 days from the date
+of entry of the order reopening the time for appeal.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

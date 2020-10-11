@@ -1,0 +1,2257 @@
+ 
+--S.1824--
+S.1824
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Education of the Handicapped Act to revise and extend the programs
+established in parts C through G of such Act, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; REFERENCE.
+ (a) Short Title- This Act may be cited as the `Education of the Handicapped
+ Act Amendments of 1990'.
+ (b) REFERENCE- Except as otherwise provided in section 901, whenever in this
+ Act an amendment or repeal is expressed in terms of an amendment to, or repeal
+ of, a section or other provision, the reference shall be considered to be
+ made to a section or other provision of the Education of the Handicapped Act.
+TITLE I--GENERAL PROVISIONS
+SEC. 101. DEFINITIONS.
+ (a) HANDICAPPED CHILDREN- Section 602(a)(1) (20 U.S.C. 1401(a)(1)) is
+ amended to read as follows:
+ `(1) The term `children with disabilities' means children--
+ `(A) with mental retardation, hearing impairments including deafness,
+ speech or language impairments, visual impairments including blindness,
+ serious emotional disturbance, orthopedic impairments, autism, traumatic
+ brain injury, other health impairments, or specific learning disabilities; and
+ `(B) who, by reason thereof need special education and related services.'.
+ (b) SPECIAL EDUCATION- Section 602(a)(16) (20 U.S.C. 1401(a)(16)) is amended
+ by striking `including classroom instruction' and all that follows and
+ inserting the following: `including--
+ `(A) instruction conducted in the classroom, in the home, in hospitals and
+ institutions, and in other settings; and
+ `(B) instruction in physical education.'.
+ (c) RELATED SERVICES- Section 602(a)(17) (20 U.S.C. 1401(a)(17)) is amended--
+ (1) by striking `recreation,' and inserting `recreation, including therapeutic
+ recreation and social work services,'; and
+ (2) by inserting `, including rehabilitation counseling,' after `counseling
+ services,'.
+ (d) TRANSITION SERVICES- Section 602(a) (20 U.S.C. 1401(a)) is amended
+ by redesignating paragraphs (19) through (23) as paragraphs (20) through
+ (24), respectively, and by inserting after paragraph (18) the following
+ new paragraph:
+ `(19) The term `transition services' means a coordinated set of activities
+ for a student, designed within an outcome-oriented process, which promotes
+ movement from school to post-school activities, including post-secondary
+ education, vocational training, integrated employment (including supported
+ employment), continuing and adult education, adult services, independent
+ living, or community participation. The coordinated set of activities
+ shall be based upon the individual student's needs, taking into account
+ the student's preferences and interests, and shall include instruction,
+ community experiences, the development of employment and other post-school
+ adult living objectives, and, when appropriate, acquisition of daily living
+ skills and functional vocational evaluation.'.
+ (e) INDIVIDUALIZED EDUCATION PROGRAM- Section 602(a)(20), as redesignated
+ by subsection (d) of this section, is amended--
+ (1) by redesignating subparagraphs (D) and (E) as subparagraphs (E) and
+ (F), respectively, and by inserting after subparagraph (C) the following
+ new subparagraph:
+ `(D) a statement of the needed transition services for students beginning no
+ later than age 16 and annually thereafter (and, when determined appropriate
+ for the individual, beginning at age 14 or younger), including, when
+ appropriate, a statement of the interagency reponsibilities or linkages
+ (or both) before the student leaves the school setting,', and
+ (2) by inserting after subparagraph (F) (as so redesignated) the following:
+ `In the case where a participating agency, other than the educational
+ agency, fails to provide agreed upon services, the educational agency
+ shall reconvene the IEP team to identify alternative strategies to meet
+ the transition objectives.'.
+ (f) PUBLIC OR PRIVATE NONPROFIT AGENCY OR ORGANIZATION- Section 602(a)(24)(A),
+ as redesignated by subsection (d) of this section, is amended by inserting
+ before the period the following: `and the Bureau of Indian Affairs of the
+ Department of the Interior (when acting on behalf of schools operated by
+ the Bureau for children and students on Indian reservations) and tribally
+ controlled schools funded by the Department of the Interior'.
+ (g) ASSISTIVE TECHNOLOGY DEVICE- Section 602(a), as amended by subsection (d)
+ of this section, is amended by adding at the end the following new paragraph:
+ `(25) The term `assistive technology device' means any item, piece of
+ equipment, or product system, whether acquired commercially off the shelf,
+ modified, or customized, that is used to increase, maintain, or improve
+ functional capabilities of individuals with disabilities.'.
+ (h) ASSISTIVE TECHNOLOGY SERVICE- Section 602(a), as amended by subsection (g)
+ of this section, is amended by adding at the end the following new paragraph:
+ `(26) The term `assistive technology service' means any service that directly
+ assists an individual with a disability in the selection, acquisition,
+ or use of an assistive technology device. Such term includes--
+ `(A) the evaluation of the needs of an individual with a disability,
+ including a functional evaluation of the individual in the individual's
+ customary environment;
+ `(B) purchasing, leasing, or otherwise providing for the acquisition of
+ assistive technology devices by individuals with disabilities;
+ `(C) selecting, designing, fitting, customizing, adapting, applying,
+ maintaining, repairing, or replacing of assistive technology devices;
+ `(D) coordinating and using other therapies, interventions, or services
+ with assistive technology devices, such as those associated with existing
+ education and rehabilitation plans and programs;
+ `(E) training or technical assistance for an individual with disabilities,
+ or, where appropriate, the family of an individual with disabilities; and
+ `(F) training or technical assistance for professionals (including individuals
+ providing education and rehabilitation services), employers, or other
+ individuals who provide services to, employ, or are otherwise substantially
+ involved in the major life functions of individuals with disabilities.'.
+ (i) UNDERREPRESENTED- Section 602(a), as amended by subsection (h) of this
+ section, is amended by adding at the end the following new paragraph:
+ `(27) The term `underrepresented' means populations such as minorities,
+ the poor, the limited English proficient, and individuals with disabilities.'.
+SEC. 102. NOTICE OF INQUIRY.
+ (a) PUBLICATION- Not later than 30 days after the date of the enactment
+ of the Education of the Handicapped Act Amendments of 1990, the Secretary
+ shall publish a Notice of Inquiry in the Federal Register for the purpose
+ of soliciting public comments regarding the appropriate components of an
+ operational definition under such Act for the term `attention deficit
+ disorder' (hereinafter referred to in this section as the `disorder')
+ in accordance with subsection (b)(2).
+ (b) PUBLIC COMMENT-
+ (1) The Notice of Inquiry published under subsection (a) shall provide for
+ a 120-day period for public comment.
+ (2) The Notice of Inquiry shall request comments concerning the following
+ issues:
+ (A) How should the disorder be described operationally for purposes of
+ qualifying a child for special education and related services under part
+ B of the Education of the Handicapped Act.
+ (B) What criteria should be included in the definition to qualify children
+ with the disorder whose disability is comparable in severity to other children
+ with disabilities currently determined to be eligible for special education
+ and related services under part B of the Education of the Handicapped Act.
+ (C) What specific manifestations of the disorder, if any, should be included
+ in the definition.
+ (D) Whether the definition should include references to characteristics or
+ circumstances that produce transient inattentive behaviors that, in and
+ of themselves, would not make a child eligible for special education and
+ related services under the definition of the disorder.
+ (E) Whether the definition should address the concurrence of this disorder
+ with other disabilities such as specific learning disabilities or serious
+ emotional disturbance, and if so addressed, the manner in which such is to
+ be accomplished.
+ (F) Whether guidelines should be provided to State and local educational
+ agencies regarding their obligation to conduct an evaluation of a child
+ suspected of having this disorder, and a description of such guidelines.
+ (G) Who should be authorized to conduct an assessment of a child having
+ or suspected of having the disorder and whether the assessment should be
+ conducted by more than one individual (such as a teacher and a psychologist).
+ (H) What provisions should be included in the definition and what additional
+ steps, if any, not currently required by the regulations implementing part
+ B of the Education of the Handicapped Act, should be included to ensure
+ that racial, ethnic, and linguistic minorities are not misclassified under
+ this definition.
+ (c) REPORT TO COMMITTEES- Not later than 30 days after the close of
+ the comment period referred to in subsection (b)(1), the Secretary shall
+ transmit the public comments received in response to the Notice of Inquiry
+ in a usable form, accompanied by a document summarizing such comments, to
+ the Committee on Labor and Human Resources of the Senate and the Committee
+ on Education and Labor of the House of Representatives.
+SEC. 103. ABROGATION OF STATE SOVEREIGN IMMUNITY.
+ Part A (20 U.S.C. 1400 et seq.) is amended by inserting after section 603
+ the following new section:
+`ABROGATION OF STATE SOVEREIGN IMMUNITY
+ `SEC. 604. (a) A State shall not be immune under the eleventh amendment
+ to the Constitution of the United States from suit in Federal court for a
+ violation of this Act.
+ `(b) In a suit against a State for a violation of this Act, remedies
+ (including remedies both at law and in equity) are available for such a
+ violation to the same extent as such remedies are available for such a
+ violation in the suit against any public entity other than a State.
+ `(c) The provisions of subsections (a) and (b) shall take effect with
+ respect to violations that occur in whole or part after the date of the
+ enactment of the Education of the Handicapped Act Amendments of 1990.'.
+SEC. 104. REPORTS, EVALUATIONS, FINDINGS, AND OTHER PROVISIONS GENERALLY
+APPLICABLE TO PARTS C THROUGH G.
+ Part A (20 U.S.C. 1400 et seq.) is amended by adding at the end the following
+ new section:
+`ADMINISTRATIVE PROVISIONS APPLICABLE TO PARTS C THROUGH G AND SECTION 618
+ `SEC. 610. (a) The Secretary shall maintain a process for developing a
+ program plan for the implementation of each of the programs authorized
+ under section 618 and parts C through G. The plan shall include program
+ goals, objectives, strategies, and priorities. In conducting the process,
+ the Secretary shall involve individuals with disabilities, parents,
+ professionals, and representatives of State and local educational agencies,
+ private schools, institutions of higher education, and national organizations
+ who have interest and expertise in the program.
+ `(b) In awarding grants, contracts, and cooperative agreements under parts
+ C through G, the Secretary, where appropriate, shall require applicants to
+ demonstrate how they will address, in whole or in part, the needs of infants,
+ toddlers, children, and youth with disabilities from minority backgrounds.
+ `(c) In awarding grants, contracts, or cooperative agreements under parts
+ C through G the Secretary, where appropriate, may require applicants to
+ address the various transitions that a child with a disability may face
+ throughout such child's years in school, including--
+ `(1) the transition from medical care to special education for those
+ children with disabilities, including chronic health impairments, who may
+ require individualized health-related services to enable such children to
+ participate in, or benefit from, special education;
+ `(2) the transition between residential placement and community-based
+ special education services; and
+ `(3) the transition between a separate educational placement and the regular
+ classroom setting.
+ `(d) The Secretary shall conduct directly, or by contract or cooperative
+ agreement with appropriate entities, independent evaluations of the programs
+ authorized under section 618 and under parts C through G, and may for such
+ purpose use funds appropriated to carry out such provisions. The findings of
+ the evaluators shall be utilized in the planning process under subsection
+ (a) for the purpose of improving the programs. The evaluations shall
+ determine the degree to which the program is being conducted consistent
+ with the program plan and meeting its goals and objectives. The Secretary
+ shall submit to the appropriate committees of the Congress the results of
+ the evaluations required by this subsection.
+ `(e) The Secretary shall report on the program plans required in subsection
+ (a) and findings from the evaluations under subsection (d) in the annual
+ report to the Congress required under section 618.
+ `(f) The Secretary shall develop effective procedures for acquiring and
+ disseminating information derived from programs and projects funded under
+ parts C through G, as well as information generated from studies conducted
+ and data collected under section 618.
+ `(g) The Secretary shall, where appropriate, require recipients of all
+ grants, contracts, and cooperative agreements under parts C through G to
+ prepare reports describing their procedures, findings, and other relevant
+ information in a form that will maximize the dissemination and use of such
+ procedures, findings, and information. The Secretary shall require their
+ delivery, as appropriate, to the Regional and Federal Resource Centers,
+ the Clearinghouses, and the Technical Assistance to Parents Programs (TAPP)
+ assisted under parts C and D, as well as the National Diffusion Network,
+ the ERIC Clearinghouse on the Handicapped and Gifted, and the Child and
+ Adolescent Service Systems Program (CASSP) under the National Institute
+ of Mental Health, appropriate parent and professional organizations,
+ organizations representing individuals with disabilities, and such other
+ networks as the Secretary may determine to be appropriate.
+ `(h)(1) The Secretary shall convene, in accordance with paragraph (2), panels
+ of experts who are competent, by virtue of their training or experience,
+ to evaluate proposals under section 618 and parts C through G.
+ `(2) Panels under paragraph (1) shall be composed of individuals with
+ disabilities, parents of such individuals, individuals from the fields of
+ special education, related services, and other relevant disciplines.
+ `(3) The Secretary shall convene panels under paragraph (1) for any
+ application that includes a total funding request exceeding $60,000 and may
+ convene or otherwise appoint panels for applications that include funding
+ requests that are less than such amount.
+ `(4) Panels under paragraph (1) shall include a majority of non-Federal
+ members. Such non-Federal members shall be provided travel and per diem not
+ to exceed the rate provided to other educational consultants used by the
+ Department of Education and shall be provided consultant fees at such a rate.
+ `(5) The Secretary may use funds available under section 618 and parts C
+ through G to pay expenses and fees of non-Federal members of the panels.
+ `(i) The Secretary shall conduct at least 1 site visit for each grant,
+ contract, and cooperative agreement receiving $300,000 or more annually
+ under parts C through G.
+ `(j)(1) With respect to the discretionary programs authorized by parts C
+ through G, the Congress finds as follows:
+ `(A)(i) The Federal Government must be responsive to the growing needs
+ of an increasingly more diverse society. A more equitable allocation of
+ resources is essential for the Federal Government to meet its responsibility
+ to provide an equal educational opportunity for all individuals.
+ `(ii) America's racial profile is rapidly changing. While the rate of increase
+ for white Americans is 3.2 percent, the rate of increase for racial and
+ ethnic minorities is much higher: 38.6 percent for Hispanics, 14.6 percent
+ for African-Americans, and 40.1 percent for Asians and other ethnic groups.
+ `(iii) By the year 2000, this Nation will have 260,000,000 people,
+ one of every three of whom will be either African-American, Hispanic,
+ or Asian-American.
+ `(iv) Taken together as a group, it is a more frequent phenomenon for
+ minorities to comprise the majority of public school students. Large city
+ school populations are overwhelmingly minority, e.g., Miami, 71 percent;
+ Philadelphia, 73 percent; Baltimore, 80 percent.
+ `(v) Recruitment efforts within special education at the level of preservice,
+ continuing education, and practice must focus on bringing larger numbers of
+ minorities into the profession in order to provide appropriate practitioner
+ knowledge, role models, and sufficient manpower to address the clearly
+ changing demography of special education.
+ `(vi) The limited English proficient population is the fastest growing in
+ our Nation, and the growth is occurring in many parts of our Nation. In
+ the Nation's 2 largest school districts, limited-English students make up
+ almost half of all students initially entering school at the kindergarten
+ level. Studies have documented apparent discrepancies in the levels of
+ referral and placement of limited-English proficient children in special
+ education. The Department of Education has found that services provided to
+ limited-English proficient students often do not respond primarily to the
+ pupil's academic needs. These trends pose special challenges for special
+ education in the referral, assessment, and services for our Nation's students
+ from non-English language backgrounds.
+ `(B)(i) Greater efforts are needed to prevent the intensification of problems
+ connected with mislabeling and high dropout rates among minority children
+ with disabilities.
+ `(ii) More minority children continue to be served in special education
+ than would be expected from the percentage of minority students in the
+ general school population.
+ `(iii) Poor African-American children are 3.5 times more likely to be
+ identified by their teacher as mentally retarded than their white counterpart.
+ `(iv) Although African-Americans represent 12 percent of elementary and
+ secondary enrollments, they constitute 28 percent of total enrollments in
+ special education.
+ `(v) The drop out rate is 68 percent higher for minorities than for whites.
+ `(vi) More than 50 percent of minority students in large cities drop out
+ of school.
+ `(C)(i) The opportunity for full participation in awards for grants and
+ contracts; boards of organizations receiving funds under this Act; and
+ peer review panels; and training of professionals in the area of special
+ education by minority individuals, organizations, and historically Black
+ colleges and universities is essential if we are to obtain greater success
+ in the education of minority children with disabilities.
+ `(ii) In 1989, of the 661,000 college and university professors, 4.6
+ percent were African-American and 3.1 percent were Hispanic. Of the
+ 3,600,000 teachers, prekindergarten through high school, 9.4 percent were
+ African-American and 3.9 percent were Hispanic.
+ `(iii) Students from minority groups comprise more than 50 percent of K-12
+ public school enrollment in seven States yet minority enrollment in teacher
+ training programs is less than 15 percent in all but six States.
+ `(iv) As the number of African-American and Hispanic students in special
+ education increases, the number of minority teachers and related service
+ personnel produced in our colleges and universities continues to decrease.
+ `(v) Ten years ago, 12.5 percent of the United States teaching force
+ in public elementary and secondary schools were members of a minority
+ group. Minorities comprised 21.3 percent of the national population at that
+ time and were clearly underrepresented then among employed teachers. Today,
+ the elementary and secondary teaching force is 3 to 5 percent minority,
+ while one-third of the students in public schools are minority children.
+ `(vi) As recently as 1984-85, Historically Black Colleges and Universities
+ (HBCUs) supplied nearly half of the African-American teachers in the
+ Nation. However, in 1988, HBCUs received only 2 percent of the discretionary
+ funds for special education and related services personnel training.
+ `(vii) While African-American students constitute 28 percent of total
+ enrollment in special education, only 11.2 percent of individuals enrolled
+ in preservice training programs for special education are African-American.
+ `(viii) In 1986-87, of the degrees conferred in education at the B.A., M.A.,
+ and Ph.D levels, only 6, 8, and 8 percent, respectively, were awarded to
+ African-American or Hispanic students.
+ `(D) Minorities and underserved persons are socially disadvantaged because of
+ the lack of opportunities in training and educational programs, undergirded
+ by the practices in the private sector that impede their full participation
+ in the mainstream of society.
+ `(2) The Congress further finds that these conditions can be greatly improved
+ by providing opportunities for the full participation of minorities through
+ the implementation of the following recommendations:
+ `(A) Implementation of a policy to mobilize the Nation's resources to
+ prepare minorities for careers in special education and related services.
+ `(B) This policy should focus on--
+ `(i) the recruitment of minorities into teaching; and
+ `(ii) financially assisting HBCUs and other institutions of higher education
+ (whose minority student enrollment is at least 25 percent) to prepare
+ students for special education and related service careers.
+ `(C)(i) The Secretary shall develop a plan for providing outreach services to
+ the entities described in clause (ii) in order to increase the participation
+ of such entities in competitions for grants, contracts, and cooperative
+ agreements under any of parts C through G.
+ `(ii) The entities referred to in clause (i) are--
+ `(I) Historically Black Colleges and Universities and other institutions
+ of higher education whose minority student enrollment is at least 25 percent;
+ `(II) eligible institutions as defined in section 312 of the Higher Education
+ Act of 1965;
+ `(III) nonprofit and for-profit agencies at least 51 percent owned or
+ controlled by one or more minority individuals; and
+ `(IV) underrepresented populations.
+ `(iii) For the purpose of implementing the plan required in clause (i),
+ the Secretary shall, for each of the fiscal years 1991 through 1994,
+ expend 1 percent of the funds appropriated for the fiscal year involved
+ for carrying out parts C through G.
+ `(3) The Secretary shall exercise his/her utmost authority, resourcefulness,
+ and diligence to meet the requirements of this subsection.
+ `(4) Not later than January 31 of each year, starting with fiscal year 1991,
+ the Secretary shall submit to Congress a final report on the progress toward
+ meeting the goals of this subsection during the preceding fiscal year. The
+ report shall include--
+ `(i) a full explanation of any progress toward meeting the goals of this
+ subsection; and
+ `(ii) a plan to meet the goals, if necessary.'.
+TITLE II--ASSISTANCE FOR EDUCATION OF ALL HANDICAPPED INDIVIDUALS
+SEC. 201. SETTLEMENTS AND ALLOCATIONS.
+ Section 611(f) (20 U.S.C. 1411(f)) is amended--
+ (1) in paragraph (1), in the first sentence, by inserting `(A)' after
+ `reservations' and by inserting before the period the following: `, and
+ (B) for whom services were provided through contract with an Indian tribe
+ or organization prior to fiscal year 1989'; and
+ (2) by adding at the end the following new paragraph:
+ `(3) Before March 1, 1991, the Secretary of the Interior shall submit
+ to the appropriate Committees of the Congress a plan for the provision
+ of services under this Act to all children with disabilities residing on
+ reservations, whether or not such reservation is served by a B.I.A. funded
+ school. Such plan shall provide for the coordination of services benefiting
+ these children from whatever source, including Tribes, the State in which
+ the child resides and entities of such State, the Indian Health Service,
+ other B.I.A. divisions and other Federal agencies. In developing such a plan,
+ the Secretary shall consult with all interested and involved parties. Such a
+ plan may not be based upon a blanket assumption or interpretation that denies
+ Federal or Interior responsibility for any group or class of children or
+ settings, but shall be based upon the needs of the children and the system
+ best suited for meeting those needs, and may involve the establishment of
+ service agreements between the B.I.A. and other entities.'.
+SEC. 202. STATE PLANS.
+ Section 613(a)(3) (20 U.S.C. 1413(a)(3)) is amended to read as follows:
+ `(3) describe, consistent with the purposes of this Act, a comprehensive
+ system of personnel development that shall include--
+ `(A) a description of the procedures and activities the State will undertake
+ to ensure an adequate supply of qualified special education and related
+ services personnel, including--
+ `(i) the development and maintenance of a system for determining, on an
+ annual basis--
+ `(I) the number and type of personnel, including leadership personnel, that
+ are employed in the provision of special education and related services,
+ by area of specialization, including the number of such personnel who are
+ employed on an emergency, provisional, or other basis, who do not hold
+ appropriate State certification or licensure; and
+ `(II) the number and type of personnel, including leadership personnel,
+ needed, and a projection of the numbers of such personnel that will be needed
+ in five years, based on projections of individuals to be served, retirement
+ and other leaving of personnel from the field, and other relevant factors;
+ `(ii) the development and maintenance of a system for determining, on an
+ annual basis, the institutions of higher education within the State that
+ are preparing special education and related services personnel, including
+ leadership personnel, by area of specialization, including--
+ `(I) the numbers of students enrolled in such programs, and
+ `(II) the number who graduated with certification or licensure, or with
+ credentials to qualify for certification or licensure, during the past
+ year; and
+ `(iii) the development, updating, and implementation of a plan that--
+ `(I) will address current and projected special education and related
+ services personnel needs, including the need for leadership personnel; and
+ `(II) coordinates and facilitates efforts among State and local educational
+ agencies, institutions of higher education, and professional associations
+ to recruit, prepare, and retain qualified personnel, including personnel
+ from minority backgrounds, and personnel with disabilities; and
+ `(B) a description of the procedures and activities the State will
+ undertake to ensure that all personnel necessary to carry out this part
+ are appropriately and adequately prepared, including--
+ `(i) a system for the continuing education of regular and special education
+ and related services personnel;
+ `(ii) procedures for acquiring and disseminating to teachers, administrators,
+ and related services personnel significant knowledge derived from education
+ research and other sources; and
+ `(iii) procedures for adopting, where appropriate, promising practices,
+ materials, and technology.'.
+SEC. 203. EVALUATION.
+ Section 618 is amended to read as follows:
+`EVALUATION AND PROGRAM INFORMATION
+ `SEC. 618. (a) The Secretary shall, directly or by grant, contract, or
+ cooperative agreement, collect data and conduct studies, investigations,
+ analyses, and evaluations--
+ `(1) to assess progress in the implementation of this Act;
+ `(2) to assess the impact and effectiveness of State and local efforts,
+ and efforts by the Secretary of the Interior, to provide--
+ `(A) free appropriate public education to children and youth with
+ disabilities; and
+ `(B) early intervention services to infants and toddlers with disabilities;
+ and
+ `(3) to provide--
+ `(A) Congress with information relevant to policymaking; and
+ `(B) State, local, and Federal agencies, including the Department of the
+ Interior, with information relevant to program management, administration,
+ delivery, and effectiveness with respect to such education and early
+ intervention services.
+ `(b)(1) In carrying out subsection (a), the Secretary, on at least an annual
+ basis (except as provided in subparagraph (E)), shall obtain data concerning
+ programs and projects assisted under this Act and under other Federal laws
+ relating to infants, toddlers, children, and youth with disabilities, and
+ such additional information, from State and local educational agencies,
+ the Secretary of the Interior, and other appropriate sources, including
+ designated lead agencies under part H (except that during fiscal year 1992
+ such entities may not under this subsection be required to provide data
+ regarding traumatic brain injury or autism), including--
+ `(A) the number of infants, toddlers, children, and youth with disabilities
+ in each State receiving a free appropriate public education or early
+ intervention services--
+ `(i) in age groups 0-2 and 3-5, and
+ `(ii) in age groups 6-11, 12-17, and 18-21, by disability category;
+ `(B) the number of children and youth with disabilities in each State,
+ by disability category, who--
+ (i) are participating in regular educational programs (consistent with the
+ requirements of section 612(5)(B) and 614(a)(1)(C)(iv));
+ (ii) are in separate classes, separate schools or facilities, or public or
+ private residential facilities; or
+ (iii) have been otherwise removed from the regular education environment;
+ `(C) the number of children and youth with disabilities exiting the
+ educational system each year through program completion or otherwise,
+ by disability category, for each year of age from age 14 through 21;
+ `(D) the number and type of personnel that are employed in the provision of--
+ `(i) special education and related services to children and youth with
+ disabilities, by disability category served; and
+ `(ii) early intervention services to infants and toddlers with disabilities;
+ and
+ `(E) at least every three years, using the data collection method the
+ Secretary finds most appropriate, a description of the services expected
+ to be needed, by disability category, for youth with disabilities in age
+ groups 12-17 and 18-21 who have left the educational system.
+ `(2) Beginning with fiscal year 1993, the Secretary shall obtain and report
+ data from the States under section 613(a)(3)(A), including data addressing
+ current and projected special education and related services needs, and data
+ on the number of personnel who are employed on an emergency, provisional,
+ or other basis, who do not hold appropriate State certification or licensure,
+ and other data for the purpose of meeting the requirements of this subsection
+ pertaining to special education and related services personnel.
+ `(3) The Secretary shall provide, directly or by grant, contract, or
+ cooperative agreement, technical assistance to State agencies providing the
+ data described in paragraphs (1) and (2) to achieve accurate and comparable
+ information.
+ `(c)(1) The Secretary shall make grants to, or enter into contracts
+ or cooperative agreements with, State or local educational agencies,
+ institutions of higher education, public agencies, and private nonprofit
+ organizations, and, when necessary because of the unique nature of the study,
+ private-for-profit organizations, for the purpose of conducting studies,
+ analyses, syntheses, and investigations for improving program management,
+ administration, delivery, and effectiveness necessary to provide full
+ educational opportunities and early interventions for all children with
+ disabilities from birth through age 21. Such studies and investigations shall
+ gather information necessary for program and system improvements including--
+ `(A) developing effective, appropriate criteria and procedures to identify,
+ evaluate, and serve infants, toddlers, children, and youth with disabilities
+ from minority backgrounds for purposes of program eligibility, program
+ planning, delivery of services, program placement, and parental involvement;
+ `(B) planning and developing effective early intervention services, special
+ education, and related services to meet the complex and changing needs of
+ infants, toddlers, children, and youth with disabilities;
+ `(C) developing and implementing a comprehensive system of personnel
+ development needed to provide qualified personnel in sufficient number to
+ deliver special education, related services, and early intervention services;
+ `(D) developing the capacity to implement practices having the potential
+ to integrate children with disabilities, to the maximum extent appropriate,
+ with children who are not disabled;
+ `(E) effectively allocating and using human and fiscal resources for
+ providing early intervention, special education, and related services;
+ `(F) strengthening programs and services to improve the progress of children
+ and youth with disabilities while in special education, and to effect a
+ successful transition when such children and youth leave special education;
+ `(G) achieving interagency coordination to maximize resource utilization
+ and continuity in services provided to infants, toddlers, children, and
+ youth with disabilities;
+ `(H) strengthening parent-school communication and coordination to improve
+ the effectiveness of planning and delivery of interventions and instruction,
+ thereby enhancing development and educational progress; and
+ `(I) the identification of environmental, organizational, resource, and
+ other conditions necessary for effective professional practice.
+ `(2)(A) The studies and investigations authorized under this subsection
+ may be conducted through surveys, interviews, case studies, program
+ implementation studies, secondary data analyses and syntheses, and other
+ appropriate methodologies.
+ `(B) The studies and investigations conducted under this subsection shall
+ address the information needs of State and local educational agencies for
+ improving program management, administration, delivery, and effectiveness.
+ `(3) The Secretary shall develop and implement a process for the on-going
+ identification of national program information needed for improving the
+ management, administration, delivery, and effectiveness of programs and
+ services provided under this Act. The process shall identify implementation
+ issues, desired improvements, and information needed by State and local
+ agencies to achieve such improvements, and shall be conducted in cooperation
+ with State educational agencies that can ensure broad-based statewide
+ input from each cooperating State. The Secretary shall publish for public
+ comment in the Federal Register every 3 years a program information plan
+ describing such information needs. Such program information plan shall be
+ used to determine the priorities for, and activities carried out under,
+ this subsection to produce, organize, and increase utilization of program
+ information. Such program information plan shall be included in the annual
+ report submitted under section 618 every 3 years.
+ `(4) In providing funds under this subsection, the Secretary shall require
+ recipients to prepare their procedures, findings, and other relevant
+ information in a form that will maximize their dissemination and use,
+ especially through dissemination networks and mechanisms authorized by this
+ Act, and in a form for inclusion in the annual report to Congress authorized
+ under subsection (g).
+ `(d)(1) The Secretary shall enter into cooperative agreements with State
+ educational agencies and other State agencies to carry out studies to assess
+ the impact and effectiveness of programs, policies, and procedures assisted
+ under this Act.
+ `(2) The agreements referred to in paragraph (1) shall--
+ `(A) provide for the payment of not more than 60 percent of the total cost
+ of studies conducted by a participating State agency to assess the impact
+ and effectiveness of this Act; and
+ `(B) be developed in consultation with the State Advisory Panel established
+ under section 613(a)(12), local educational agencies, and others involved in,
+ or concerned with, the education of children and youth with disabilities
+ and the provision of early intervention services to infants and toddlers
+ with disabilities.
+ `(3) The Secretary shall provide technical assistance to participating
+ State agencies in the implementation of the study design, analysis, and
+ reporting procedures.
+ `(e)(1) The Secretary shall by grant, contract, or cooperative agreement,
+ provide for special studies to assess progress in the implementation of this
+ Act, and to assess the impact and effectiveness of State and local efforts and
+ efforts by the Secretary of the Interior to provide free appropriate public
+ education to children and youth with disabilities, and early intervention
+ services to infants and toddlers with disabilities. Reports from such
+ studies shall include recommendations for improving programs and services
+ to such individuals. The Secretary shall, beginning in fiscal year 1993
+ and for every third year thereafter, submit to the appropriate committees
+ of each House of the Congress and publish in the Federal Register proposed
+ priorities for review and comment.
+ `(2) In selecting priorities for fiscal years 1991 through 1994, the
+ Secretary may give first consideration to--
+ `(A) completing a longitudinal study of a sample of students with
+ disabilities, examining--
+ `(i) the full range of disabling conditions;
+ `(ii) the educational progress of students with disabilities while in
+ special education; and
+ `(iii) the occupational, educational, and independent living status of
+ students with disabilities after graduating from secondary school or
+ otherwise leaving special education.
+ `(B) conducting pursuant to this subsection a nationally representative
+ study focusing on the types, number, and intensity of related services
+ provided to children with disabilities by disability category.
+ `(C) conducting pursuant to this subsection a study that examines the degree
+ of disparity among States with regard to the placement in various educational
+ settings of children and youth with similar disabilities, especially those
+ with mental retardation, and, to the extent that such disparity exists, the
+ factors that lead such children and youth to be educated in significantly
+ different educational settings.
+ `(D) conducting pursuant to this subsection a study that examines the factors
+ that have contributed to the decline in the number of children classified
+ as mentally retarded since the implementation of this Act, and examines the
+ current disparity among States in the percentage of children so classified.
+ `(E) conducting pursuant to this subsection a study that examines the extent
+ to which out-of-community residential programs are used for children and
+ youth who are seriously emotionally disturbed, the factors that influence
+ the selection of such placements, the degree to which such individuals
+ transition back to education programs in their communities, and the factors
+ that facilitate or impede such transition.
+ `(F) conducting pursuant to this subsection a study that examines (i)
+ the factors that influence the referral and placement decisions and types
+ of placements, by disability category and English language proficiency,
+ of minority children relative to other children, (ii) the extent to which
+ these children are placed in regular education environments, (iii) the
+ extent to which the parents of these children are involved in placement
+ decisions and in the development and implementation of the individualized
+ education program and the results of such participation, and (iv) the type
+ of support provided to parents of these children that enable these parents
+ to understand and participate in the educational process.
+ `(f) The Secretary shall make grants to, or enter into contracts or
+ cooperative agreements with, State or local educational agencies,
+ institutions of higher education, other public agencies, and private
+ nonprofit organizations to support activities that organize, synthesize,
+ interpret, and integrate information obtained under subsections (c) and
+ (e) with relevant knowledge obtained from other sources. Such activities
+ shall include the selection and design of content, formats, and means
+ for communicating such information effectively to specific or general
+ audiences, in order to promote the use of such information in improving
+ program administration and management, and service delivery and effectiveness.
+ `(g)(1)(A) The Secretary is authorized to conduct activities, directly or
+ by grant, contract, or cooperative agreement, to prepare an annual report
+ on the progress being made toward the provision of--
+ `(i) a free appropriate public education to all children and youth with
+ disabilities; and
+ `(ii) early intervention services for infants and toddlers with disabilities.
+ `(B) Not later than 120 days after the close of each fiscal year, the
+ Secretary shall transmit a copy of the report authorized under subparagraph
+ (A) to the appropriate committees of each House of Congress. The annual
+ report shall be published and disseminated in sufficient quantities to the
+ education and disability communities and to other interested parties.
+ `(2) The Secretary shall include in each annual report under paragraph (1)--
+ `(A) a compilation and analysis of data gathered under subsection (b)
+ and under part H; and
+ `(B) a description of findings and determinations resulting from monitoring
+ reviews of State implementation of this part.
+ `(3) In the annual report under paragraph (1) for fiscal year 1991 (which
+ is published in 1992) and for every third year thereafter, the Secretary
+ shall include in the annual report--
+ `(A) an index of all current projects funded under parts C through G; and
+ `(B) data reported under sections 622 and 634.
+ `(4) The Secretary shall include in each annual report under paragraph (1)
+ the results of research and related activities conducted under part E that the
+ Secretary determines are relevant to the effective implementation of this Act.
+ `(5) The Secretary shall, in consultation with the National Council on
+ Disability and the Bureau of Indian Affairs Advisory Committee for Exceptional
+ Children, include a description of the status of early intervention services
+ for infants and toddlers with disabilities from birth through age 2, and
+ special education and related services to children with disabilities from
+ 3 through 5 years of age (including those receiving services through Head
+ Start, developmental disabilities programs, crippled children's services,
+ mental health/mental retardation agencies, and State child-development
+ centers and private agencies under contract with local schools).
+ `(h) There are authorized to be appropriated $12,000,000 for fiscal year
+ 1991 and such sums as may be necessary for fiscal years 1992 through 1994
+ to carry out the purposes of this section and not more than 30 percent may
+ be used to carry out the purposes of subsection (e) of this section.'.
+TITLE III--CENTERS AND SERVICES TO MEET SPECIAL NEEDS OF HANDICAPPED
+INDIVIDUALS
+SEC. 301. REGIONAL RESOURCE AND FEDERAL CENTERS.
+ (a) AMENDMENTS TO SUBSECTION (a)- Section 621(a) (20 U.S.C. 1421(a))
+ is amended--
+ (1) in the first sentence, by striking `regional resource centers.' and
+ inserting the following: `regional resource centers that focus on special
+ education and related services and early intervention services.';
+ (2) in the second sentence--
+ (A) by striking `training to State' and inserting `training, as requested,
+ to State'; and
+ (B) by inserting after `agencies providing' the following: `special education
+ and related services and';
+ (3) in the third sentence, by striking `center' the second place such term
+ appears and all that follows and inserting `center.'; and
+ (4) in paragraph (3), by striking `relevant projects conducted by' and
+ inserting `relevant programs and projects conducted under parts C through
+ G and by'.
+ (b) AMENDMENTS TO SUBSECTION (b)- Section 621(b) (20 U.S.C. 1421(b)) is
+ amended by striking `shall consider' and inserting `shall utilize criteria
+ for setting criteria that are consistent with the needs identified by States
+ within the region served by such center, consistent with requirements
+ established by the Secretary under subsection (f), and, to the extent
+ appropriate, consistent with requirements under section 610, and shall
+ consider'.
+ (c) AMENDMENTS TO SUBSECTION (d)- Section 621(d) (20 U.S.C. 1421(d))
+ is amended by inserting at the end thereof the following new sentence:
+ `Such coordinating technical assistance center is authorized to--
+ `(1) provide information to, and training for, agencies, institutions,
+ and organizations, regarding techniques and approaches for submitting
+ applications for grants, contracts, and cooperative agreements under this
+ part and parts D through G, and shall make such information available to
+ the regional resource centers on request;
+ `(2) give priority to providing technical assistance concerning the education
+ of children with disabilities from minority backgrounds;
+ `(3) exchange information with, and, where appropriate, cooperate with,
+ other centers addressing the needs of children with disabilities from
+ minority backgrounds; and
+ `(4) provide assistance to State educational agencies, through the regional
+ resource centers, for the training of hearing officers.'.
+ (d) NEW SUBSECTION- Section 621 (20 U.S.C. 1421) is amended by adding at
+ the end the following new subsection:
+ `(f)(1) The Secretary shall develop guidelines and criteria for the operation
+ of Regional and Federal Resource Centers. In developing such criteria and
+ guidelines, the Secretary shall establish a panel representing the Office
+ of Special Education Programs staff, State special education directors,
+ representatives of disability advocates, and, when appropriate, consult
+ with the regional resource center directors.
+ `(2) Such guidelines and criteria shall include--
+ `(A) a description of how the Federal and Regional Resource Centers Program
+ will be administered by the Secretary;
+ `(B) a description of the geographic region each Center is expected to serve;
+ `(C) a description of the role of a Center in terms of expected leadership
+ and dissemination efforts;
+ `(D) a description of expected relationships with State agencies, research
+ and demonstration centers, and with other entities deemed necessary;
+ `(E) a description of how a Center will be evaluated; and
+ `(F) other guidelines and criteria deemed necessary.
+ `(3) The Secretary shall publish in the Federal Register by July 1, 1991,
+ for review and comment, proposed and (then following such review and comment)
+ final guidelines developed by the panel.'.
+SEC. 302. SERVICES FOR DEAF-BLIND CHILDREN AND YOUTH.
+ (a) AMENDMENTS TO SUBSECTION (a)- Section 622(a) (20 U.S.C. 1422(a))
+ is amended--
+ (1) in paragraph (1)--
+ (A) in the matter preceding subparagraph (A), by inserting `local educational
+ agencies, and designated lead agencies under part H' after `State educational
+ agencies';
+ (B) in subparagraph (A) by--
+ (i) inserting `infants, toddlers,' before `children and youth'; and
+ (ii) striking `special education and related services' and inserting in
+ lieu thereof `special education, early intervention, and related services';
+ (C) in subparagraph (B), by amending such subparagraph to read as follows:
+ `(B) make available to deaf-blind youth (who are in the process of
+ transitioning into adult services) programs, services, and supports to
+ facilitate such transition, including assistance related to independent
+ living and competitive employment.';
+ (2) by redesignating paragraphs (2) through (4) as paragraphs (3) through
+ (5), respectively, and by inserting after paragraph (1) the following
+ new paragraph:
+ `(2) For purposes of this section, the term `deaf-blind', with respect
+ to children and youth, means having auditory and visual impairments,
+ the combination of which creates such severe communication and other
+ developmental and learning needs that they cannot be appropriately educated
+ in special education programs solely for children and youth with hearing
+ impairments, visual impairments, or severe disabilities, without supplementary
+ assistance to address their educational needs due to these dual, concurrent
+ disabilities.';
+ (3) by amending paragraph (3) (as redesignated by paragraph (2) of this
+ subsection) to read as follows:
+ `(3)(A) A grant, cooperative agreement, or contract may be made under
+ paragraph (1)(A) only for programs providing--
+ `(i) technical assistance to agencies, institutions, or organizations
+ providing educational or early intervention services to deaf-blind infants,
+ toddlers, children, or youth;
+ `(ii) preservice or inservice training to paraprofessionals, professionals,
+ or related services personnel preparing to serve, or serving, deaf-blind
+ infants, toddlers, children, or youth;
+ `(iii) replication of successful innovative approaches to providing
+ educational, early intervention, or related services to deaf-blind infants,
+ toddlers, children, and youth;
+ `(iv) pilot projects that are designed to--
+ `(I) expand local educational agency capabilities by providing services to
+ deaf-blind children and youth that supplement services already provided to
+ children and youth through State and local resources; and
+ `(II) encourage eventual assumption of funding responsibility by State and
+ local authorities;
+ `(v) the development, improvement, or demonstration of new or existing
+ methods, approaches, or techniques that contribute to the adjustment and
+ education of deaf-blind infants, toddlers, children, and youth; or
+ `(vi) facilitation of parental involvement in the education of their
+ deaf-blind infants, toddlers, children, and youth.
+ `(B) The programs described in subparagraph (A) may include--
+ `(i) the diagnosis and educational evaluation of infants, toddlers, children,
+ and youth who are likely to be diagnosed as deaf-blind;
+ `(ii) programs of adjustment, education, and orientation for deaf-blind
+ infants, toddlers, children, and youth; and
+ `(iii) consultative, counseling, and training services for the families of
+ deaf-blind infants, toddlers, children, and youth.';
+ (4) in paragraph (4) (as so redesignated)--
+ (A) in subparagraph (A), (i) by striking `organizations serving, or
+ proposing to serve,' and inserting the following: `organizations that
+ are preparing deaf-blind adolescents for adult placements, or that are
+ preparing to receive deaf-blind young adults into adult living and work
+ environments, or that serve, or propose to serve,', and (ii) by striking
+ `who have attained age twenty-two years'; and
+ (B) in subparagraph (C), by inserting `supervised,' after `rehabilitative,';
+ (5) in paragraph (5) (as so redesignated), by amending such paragraph to
+ read as follows:
+ `(5) In carrying out this subsection, the Secretary is authorized to enter
+ into a number of grants or cooperative agreements to establish and support
+ single and multi-State centers for the provision of technical assistance and
+ pilot supplementary services, for the purposes of program development and
+ expansion, for children and youth with deaf-blindness and their families.'.
+ (b) AMENDMENTS TO SUBSECTION (c)- Section 622(c)(1) (20 U.S.C. 1422(c)(1))
+ is amended--
+ (1) in clause (A), by inserting `sex,' after `severity,';
+ (2) in clause (C), by inserting before the period the following: `and the
+ setting in which the services are provided'; and
+ (3)(A) by striking `and' at the end of clause (B);
+ (B) by striking the period at the end of clause (C) and inserting `; and'; and
+ (C) by adding at the end the following new clause: `(D) student outcomes,
+ where appropriate.'.
+ (c) AMENDMENTS TO SUBSECTION (d)- Section 622(d) (20 U.S.C. 1422(d)) is
+ amended to read as follows:
+ `(d) The Secretary shall make a grant, or enter into a contract or
+ cooperative agreement, for a national clearinghouse for children and youth
+ with deaf-blindness--
+ `(1) to identify, coordinate, and disseminate information on deaf-blindness,
+ emphasizing information concerning effective practices in working with
+ deaf-blind infants, toddlers, children, and youth;
+ `(2) to interact with educators, professional groups, and parents to identify
+ areas for programming, materials development, training, and expansion of
+ specific services;
+ `(3) to maintain a computerized data base on local, regional, and national
+ resources; and
+ `(4) to respond to information requests from professionals, parents, and
+ members of the community.'.
+ (d) AMENDMENTS TO SUBSECTION (e)- Section 622(e) (20 U.S.C. 1422(e)) is
+ amended to read as follows:
+ `(e) In carrying out this section, the Secretary shall take into consideration
+ the availability and quality of existing services for deaf-blind infants,
+ toddlers, children, and youth in the country, and, to the extent practicable,
+ ensure that all parts of the country have an opportunity to receive assistance
+ under this section.';
+ (e) AMENDMENTS TO SUBSECTION (f)- Section 622(f) (20 U.S.C. 1422(f)) is
+ amended by striking `with,' and all that follows and inserting the following:
+ `with organizations or public or nonprofit private agencies, as determined
+ by the Secretary to be appropriate, to address the needs of children and
+ youth with deaf-blindness, for--
+ `(1) research to identify and meet the full range of special needs of such
+ children and youth; and
+ `(2) the development and demonstration of new, or improvements in existing
+ methods, approaches, or techniques that would contribute to the adjustment
+ and education of children and youth with deaf-blindness.'.
+SEC. 303. EARLY EDUCATION FOR HANDICAPPED CHILDREN.
+ (a) AMENDMENTS TO SUBSECTION (a)- Section 623(a)(1) (20 U.S.C. 1423(a)(1))
+ is amended--
+ (1) in the matter preceding subparagraph (A), in the first sentence,
+ by striking `problems of such children.' and inserting `needs of these
+ children.';
+ (2) in subparagraph (A), by inserting `or other communication mode and'
+ after `speech'; and
+ (3) in subparagraph (B), by inserting before `encourage' the following:
+ `provide family education and include a parent or their representative of
+ such child, as well as';
+ (4) in subparagraph (C), by striking `problems' and inserting `special needs';
+ (5) in subparagraph (D)--
+ (A) by inserting after `practices' the following: `, including
+ interdisciplinary models and practices,'; and
+ (B) by inserting before the comma the following: `and to the parents of
+ such children';
+ (6) in subparagraph (E), by inserting before the period the following:
+ `, including the involvement of adult role models with disabilities at all
+ levels of the program'; and
+ (7) by striking out `and' at the end of subparagraph (D), by striking out
+ the period at the end of subparagraph (E) and inserting in lieu thereof a
+ comma, and by adding after subparagraph (E) the following:
+ `(F) facilitate and improve the early identification of infants and
+ toddlers with disabilities or those infants and toddlers at risk of having
+ developmental disabilities,
+ `(G) facilitate the transition of infants with disabilities or infants at
+ risk of having developmental delays, from medical care to early intervention
+ services, and the transition from early intervention services to preschool
+ special education or regular education services (especially where the
+ lead agency for early intervention programs under part H is not the State
+ educational agency),
+ `(H) promote the use of assistive technology devices and assistive technology
+ services, where appropriate, to enhance the development of infants and
+ toddlers with disabilities, and
+ `(I) increase the understanding of, and address, the early intervention and
+ preschool needs of children exposed prenatally to maternal substance abuse.'.
+ (b) AMENDMENTS TO SUBSECTION (b)- Section 623(b) (20 U.S.C. 1423(b))
+ is amended by adding at the end the following: `This technical assistance
+ development system shall provide assistance to parents of and advocates for
+ infants, toddlers, and children with disabilities, as well as direct service
+ and administrative personnel involved with such children. Information from the
+ system should be aggressively disseminated through established information
+ networks and other mechanisms to ensure both an impact and benefits at the
+ community level. The Secretary shall ensure that the technical assistance
+ provided under this subsection includes assistance to part H State agencies
+ on procedures for use by primary referral sources in referring a child to the
+ appropriate agency within the system for evaluation, assessment, or service.'.
+ (c) AMENDMENTS TO SUBSECTION (c)- Section 623(c) (20 U.S.C. 1423(c))
+ is amended by adding at the end the following: `Such institutes shall
+ disseminate this information in the manner prescribed in section 610(g).'.
+ (d) AMENDMENTS TO SUBSECTION (d)- Section 623(d) (20 U.S.C. 1423(d)) is
+ amended by inserting before the period the following: `, including programs
+ to integrate children with disabilities into regular preschool programs'.
+ (e) AMENDMENTS TO SUBSECTION (f)- Section 623(f) (20 U.S.C. 1423(f)) is
+ amended by inserting before the period the following: `, including infants
+ and toddlers with disabilities'.
+ (f) NEW SUBSECTION (g)- Section 623 (20 U.S.C. 1423) is amended by adding
+ at the end the following:
+ `(g) The Secretary may make grants to, or enter into contracts or cooperative
+ agreements with, institutions of higher education and nonprofit private
+ organizations to synthesize the knowledge developed under this section and
+ organize, integrate, and present such knowledge so it can be incorporated
+ and imparted to parents, professionals, and others providing or preparing
+ to provide preschool or early intervention services and to persons designing
+ preschool or early intervention programs.'.
+SEC. 304. PROGRAMS FOR SEVERELY HANDICAPPED CHILDREN.
+ (a) AMENDMENT TO SECTION HEADING- The heading for section 624 (20 U.S.C. 1424)
+ is amended to read as follows:
+`PROGRAMS FOR CHILDREN WITH SEVERE DISABILITIES'.
+ (b) AMENDMENTS TO SUBSECTION (a)- Section 624(a) (20 U.S.C. 1424(a))
+ is amended--
+ (1) in the matter preceding paragraph (1), by amending such matter to read
+ as follows: `The Secretary may make grants to, or enter into contracts or
+ cooperative agreements with, appropriate public agencies and nonprofit
+ organizations to address the special education, related services, early
+ intervention, and integration needs of infants, toddlers, children, and
+ youth with severe disabilities through--';
+ (2) in paragraph (1), (A) by inserting after `special needs' the following:
+ `, including transportation to and from school', and (B) by inserting
+ `education, related services, and early intervention' after `special';
+ (3) in paragraph (3), (A) by inserting `special and regular education,
+ related services, and early intervention' before `personnel', (B) by
+ inserting `infants, toddlers,' after `such', and (C) by striking `youth,
+ and' and inserting the following: `youth, including training of regular
+ teachers, instructors, and administrators in strategies (the goal of which
+ is to serve infants, toddlers, children, and youth with disabilities) that
+ include integrated settings for educating such children along side their
+ nondisabled peers,';
+ (4) in paragraph (4), by striking `children and youth.' and inserting the
+ following: `children and youth by utilizing existing networks as prescribed
+ in section 610(g) and'; and
+ (5) by adding at the end the following new paragraph:
+ `(5) statewide projects, in conjunction with the State's plan under part
+ B, to improve the quality of special education and related services for
+ children and youth with severe disabilities, and to change the delivery of
+ those services from segregated to integrated environments.'.
+ (b) NEW SUBSECTION- Section 624 (20 U.S.C. 1424) is amended by redesignating
+ subsections (b) and (c) as subsections (c) and (d), respectively, and by
+ inserting after subsection (a) the following new subsection:
+ `(b) The Secretary is authorized to make grants to, or enter into contracts
+ or cooperative agreements with, public or private nonprofit private agencies,
+ institutions, or organizations for the development and operation of extended
+ school year demonstration programs for infants, toddlers, children, and
+ youth with severe disabilities.'.
+ (c) FURTHER NEW SUBSECTION- Section 624, as amended by subsection (b)
+ of this section, is amended by adding at the end the following new subsection:
+ `(e) In awarding such grants and contracts under this section, the Secretary
+ shall include a priority on programs that increase the likelihood that
+ these children and youth will be educated with their nondisabled peers.'.
+SEC. 305. POSTSECONDARY EDUCATION.
+ (a) AMENDMENTS TO SUBSECTION (a)- Section 625(a) (20 U.S.C. 1424a(a))
+ is amended--
+ (1) in paragraph (1), by adding at the end the following new sentence:
+ `Such model programs may include joint projects that coordinate with special
+ education and transition services.';
+ (2) in paragraph (2)--
+ (A) in subparagraph (A), by striking `and' after the semicolon;
+ (B) in subparagraph (B), by striking the period at the end and inserting
+ `; and'; and
+ (C) by adding at the end the following new subparagraph:
+ `(C) for outreach activities that include the provision of technical
+ assistance to strengthen efforts in the development, operation, and design
+ of model programs that are adapted to the special needs of individuals with
+ disabilities.'; and
+ (3) in paragraph (6), by striking `$2,000,000' and inserting `$4,000,000'.
+ (b) AMENDMENTS TO SUBSECTION (b)- Section 625(b) (20 U.S.C. 1424a(b))
+ is amended to read as follows:
+ `(b) For purposes of subsection (a), the term `individuals with disabilities'
+ means individuals--
+ `(1) with mental retardation, hearing impairments including deafness,
+ speech or language impairments, visual impairments including blindness,
+ serious emotional disturbance, orthopedic impairments, autism, traumatic
+ brain injury, other health impairments, or specific learning disabilities; and
+ `(2) who, by reason thereof, need special education and related services.'.
+SEC. 306. SECONDARY EDUCATION AND TRANSITIONAL SERVICES FOR YOUTH WITH
+DISABILITIES.
+ (a) AMENDMENTS TO SUBSECTION (a)- Section 626(a)(1) (20 U.S.C. 1425(a)(1))
+ is amended by inserting `independent and community living,' after `continuing
+ education,'.
+ (b) AMENDMENTS TO SUBSECTION (b)- Section 626(b) (20 U.S.C. 1425(b))
+ is amended--
+ (1) in paragraph (2), by inserting `independent living,' after `training,';
+ (2) in paragraph (8), by striking `handicapped youth' and all that follows
+ and inserting the following: `some youth with disabilities remain to complete
+ school programs while others drop out,';
+ (3) in paragraph (9), by striking `developing' and all that follows through
+ `techniques' and inserting `developing curriculum and instructional techniques
+ in special education and related services';
+ (4) in paragraph (10)--
+ (A) by inserting `or adapted' after `specially designed'; and
+ (B) by striking `to increase' and all that follows and inserting the
+ following: `to facilitate the full participation of youths with disabilities
+ in community programs.'; and
+ (5) by striking `and' at the end of paragraph (9), by striking the period
+ at the end of paragraph (10) and inserting in lieu thereof `, and', and by
+ adding after paragraph (10) the following:
+ `(11) developing and disseminating exemplary programs and practices that
+ meet the unique needs of students who utilize assistive technology devices
+ and assistive technology services as such students make the transition
+ to postsecondary education, vocational training, competitive employment
+ (including supported employment), and continuing education or adult
+ services.'.
+ (c) AMENDMENTS TO SUBSECTION (d)- Section 626(d)(3) (20 U.S.C. 1425(d)(3))
+ is amended by striking `to the extent appropriate,'.
+ (d) NEW SUBSECTION (e)- Section 626 (20 U.S.C. 1425) is amended by
+ redesignating subsections (e) and (f) as subsections (f) and (g),
+ respectively, and by inserting after subsection (d) the following new
+ subsection:
+ `(e)(1) The Secretary shall make one-time, 5-year grants, on a competitive
+ basis, to States in which the State vocational rehabilitation agency and
+ State educational agency submit a joint application to develop, implement,
+ and improve systems to provide transition services for youth with disabilities
+ from age 14 through the age they exit school.
+ `(2) In the case of a State whose vocational rehabilitation agency does
+ not participate regarding a joint application described in paragraph (1),
+ the Secretary may make a grant under such paragraph to the State if a joint
+ application for the grant is submitted by the State educational agency and
+ one other State agency that provides transition services to individuals
+ who are leaving programs under this Act.
+ `(3) States that receive grants shall use grant funds to:
+ `(A) Increase the availability, access, and quality of transition assistance
+ through the development and improvement of policies, procedures, systems,
+ and other mechanisms for youth with disabilities and their families as such
+ youth prepare for and enter adult life.
+ `(B) Improve the ability of professionals, parents, and advocates to work
+ with such youth in ways that promote the understanding of and the capability
+ to successfully make the transition from `student' to `adult'.
+ `(C) Improve working relationships among education personnel, both within
+ LEAs and in postsecondary training programs, relevant State agencies, the
+ private sector (especially employers), rehabilitation personnel, local and
+ State employment agencies, local Private Industry Councils (PICS) authorized
+ by the Job Training Partnership Act (JTPA), and families of students with
+ disabilities and their advocates to identify and achieve consensus on the
+ general nature and specific application of transition services to meet the
+ needs of youth with disabilities.
+ `(D) Create an incentive for accessing and using the expertise and resources
+ of programs, projects, and activities related to transition funded through
+ this section and with other sources.
+ `(4)(A) In order to receive funding under this subsection, a State vocational
+ rehabilitation agency and State educational agency shall describe in their
+ application how they will use the first year, if necessary, to plan how to
+ implement transition services, the second through fourth years to develop
+ and implement transition services, and the fifth year to evaluate transition
+ services. The application shall describe how the grant funds will be used
+ during the planning period and phased out during the evaluation period to
+ ensure the continuation of transition services. Such applications shall
+ also include--
+ `(i) a description of the current availability, access, and quality
+ of transition services for eligible youth and a description of how,
+ over 5 years, the State will improve and expand the availability, access,
+ and quality of transition services for youth with disabilities and their
+ families as such youth prepare for and enter adult life;
+ `(ii) a description of how the State will improve and increase the ability
+ of professionals, parents, and advocates to work with such youth in ways
+ that promote the understanding of and the capability to successfully make
+ the transition from `student' to `adult';
+ `(iii) a description of how the State will improve and increase working
+ relationships among education personnel, both within LEAs and in postsecondary
+ training programs, relevant State agencies, the private sector (especially
+ employers), rehabilitation personnel, local and State employment agencies,
+ local Private Industry Councils (PICS) authorized by the JTPA, and families
+ of students with disabilities and their advocates to identify and achieve
+ consensus on the general nature and specific application of transition
+ services to meet the needs of youth with disabilities; and
+ `(iv) a description of how the State will use grant funds as an incentive
+ for accessing and using the expertise and resources of programs, projects,
+ and activities related to transition funded through this section and with
+ other sources.
+ `(B) The Secretary shall give preference to those applications that, in
+ addition to clearly addressing the requirements under subparagraph (A),
+ describe how the State will--
+ `(i) target resources to school settings, such as providing access to
+ rehabilitation counselors for students with disabilities who are in school
+ settings;
+ `(ii) target a substantial amount of grant funds, received under this
+ subsection, to case management, program evaluation and documentation of,
+ and dissemination of information about, transition services;
+ `(iii) provide incentives for interagency and private sector resource pooling
+ and otherwise investing in transition services, especially in the form of
+ cooperative agreements, particularly with PICS authorized by the JTPA and
+ local branches of State employment agencies;
+ `(iv) provide for early, ongoing information and training for those involved
+ with or who could be involved with transition services--professionals,
+ parents, youth with disabilities, including self-advocacy training for such
+ youth, and advocates for such youth as well as PICS authorized by the JTPA
+ and local branches of State employment agencies;
+ `(v) provide for the early and direct involvement of all relevant parties,
+ including PICS authorized by the JTPA and local branches of State employment
+ agencies, in operating and planning improvements in transition services,
+ and the early and direct involvement of all relevant parties in planning
+ and implementing transition services for individual youth;
+ `(vi) provide access to training for eligible youth that matches labor
+ market needs in their communities;
+ `(vii) integrate transition services with relevant opportunities in
+ communities, including those sponsored by PICS authorized by the JTPA and
+ local employment agencies;
+ `(viii) use a transition services evaluation plan that is outcome oriented
+ and that focuses on individual youth-focused benefits; and
+ `(ix) ensure that, when appropriate and no later than age 22, eligible youth
+ who participate in transition services under this program would be served
+ as appropriate in the State section 110 and/or title VI, part C program
+ authorized under the Rehabilitation Act of 1973.'.
+ (e) AMENDMENTS TO FORMER SUBSECTION (e)- Section 626(f), as redesignated
+ by subsection (d) of this section, is amended--
+ (1)(A) by inserting `(1)' after the subsection designation; and
+ (B) by adding at the end of paragraph (1) (as so designated) the following
+ new sentence: `Such organizations and institutions shall disseminate such
+ materials and information as prescribed under section 610(g).';
+ (2) by adding after paragraph (1) (as so designated) the following new
+ paragraph:
+ `(2) The Secretary shall fund one or more demonstration models designed
+ to establish appropriate methods of providing, or continuing to provide,
+ assistive technology devices and services to secondary school students
+ as they make the transition to vocational rehabilitation, employment,
+ postsecondary education, or adult services. Such demonstration models shall
+ include, as appropriate--
+ `(A) cooperative agreements with the Rehabilitation Services Administration
+ and/or State vocational rehabilitation agencies that ensure continuity of
+ funding for assistive technology devices and services to such students; and
+ `(B) methods for dissemination of exemplary practices that can be adapted
+ or adopted by transitional programs for secondary school students with
+ disabilities.'; and
+ (3) by adding at the end the following new paragraph:
+ `(3)(A) The Secretary shall award one, five-year cooperative agreement through
+ a separate competition to an institution of higher education, or nonprofit
+ public or private organization. The purpose of this agreement will be to
+ evaluate and document the approaches and outcomes of the projects funded under
+ subsection (e). The results of this agreement shall be disseminated through
+ the appropriate clearinghouses, networks, and through direct communication
+ with Federal, State, and local agencies.
+ `(B) The evaluation carried out pursuant to subparagraph (A) of transition
+ services under subsection (e) shall include an evaluation of--
+ `(i) the outcomes of the transition services provided under such subsection,
+ including the effect of the services regarding postsecondary education,
+ job training, employment, and other appropriate matters;
+ `(ii) the impact of including in the individualized education program
+ a statement of needed transition services (as required under section
+ 602(a)(20)(D));
+ `(iii) the extent to which, in the provision of the transition services,
+ agencies are cooperating effectively, including evaluation of the extent
+ of coordination of the staff of the agencies, of procedures regarding
+ confidentiality, assessment of needs, and referrals, and coordination
+ regarding data bases and training;
+ `(iv) the extent to which obstacles exist regarding cooperation and
+ coordination among agencies in the provision of the transition services,
+ and the extent to which Federal law creates disincentives to such cooperation
+ and coordination; and
+ `(v) the extent to which the transition services have been provided in a
+ cost-effective manner.
+ `(C) The evaluation carried out pursuant to subparagraph (A) shall include
+ recommendations on the manner in which the program under subsection (e)
+ can be improved.
+ `(D) In the annual report required under section 618(g), the Secretary
+ shall include a report of the activities and results associated with the
+ agreement under subparagraph (A).'.
+ (f) AMENDMENTS TO FORMER SUBSECTION (f)- Section 626(g), as redesignated by
+ subsection (d) of this section, is amended by inserting before the period
+ the following: `, the Job Training Partnership Act (JTPA), and the Carl
+ D. Perkins Vocational and Applied Technology Education Act'.
+SEC. 307. PROGRAMS FOR CHILDREN AND YOUTH WITH SERIOUS EMOTIONAL DISTURBANCE.
+ Section 627 (20 U.S.C. 1426) is amended to read as follows:
+`PROGRAMS FOR CHILDREN AND YOUTH WITH SERIOUS EMOTIONAL DISTURBANCE
+ `SEC. 627. (a) The Secretary is authorized to make grants to, or enter into
+ contracts or cooperative agreements with, institutions of higher education,
+ State and local educational agencies, and other appropriate public and
+ private nonprofit institutions or agencies to establish projects for the
+ purpose of improving special education and related services to children
+ and youth with serious emotional disturbance. Such projects may include--
+ `(1) studies regarding the present state of special education and related
+ services to such children and youth and their families, including information
+ and data to enable assessments of the status of such services over time;
+ `(2) developing methodologies and curricula designed to improve special
+ education and related services for these children and youth;
+ `(3) developing and demonstrating strategies and approaches to reduce
+ the use of out-of-community residential programs and the increased use of
+ school district-based programs (which may include day treatment programs,
+ after-school programs, and summer programs);
+ `(4) developing the knowledge, skills, and strategies for effective
+ collaboration among special education, regular education, related services,
+ and other professionals and agencies; or
+ `(5) developing and demonstrating innovative approaches to assist and to
+ prevent children with emotional and behavioral problems from developing
+ serious emotional disturbances that require the provision of special
+ education and related services.
+ `(b)(1) The Secretary is authorized to make grants, on a competitive
+ basis, to local educational agencies in collaboration with mental health
+ entities to provide services for children and youth with serious emotional
+ disturbance. Such demonstration projects shall--
+ `(A) increase the availability, access, and quality of community services
+ for such children and youth and their families;
+ `(B) improve working relationships among education, school, and community
+ mental health and other relevant personnel, families of such children and
+ youth, and their advocates;
+ `(C) target resources to school settings, such as providing access to school
+ and/or community mental health professionals and other community resources
+ for students with serious emotional disturbance who are in community school
+ settings; and
+ `(D) take into account the needs of minority children and youth in all
+ phases of project activity.
+ `(2) Funds received under this subsection may also be used to facilitate
+ interagency and private sector resource pooling to improve services for
+ such children and youth and to provide information and training for those
+ involved with, or who could be involved with, such children and youth.
+ `(c) Each project assisted under this section shall--
+ `(1) apply existing research outcomes from multi-disciplinary fields;
+ `(2) use a grant evaluation plan that is outcome-oriented and that focuses
+ on the benefits to individual children and youth;
+ `(3) report on the effectiveness of such project; and
+ `(4) disseminate the findings of such project, where appropriate, in
+ accordance with section 610(g).'.
+SEC. 308. AUTHORIZATION OF APPROPRIATIONS.
+ Section 628 (20 U.S.C. 1427) is amended to read as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 628. (a) There are authorized to be appropriated to carry out section
+ 621 $8,525,000 for fiscal year 1991, $9,300,000 for fiscal year 1992,
+ $10,140,000 for fiscal year 1993, and $11,052,000 for fiscal year 1994.
+ `(b) There are authorized to be appropriated to carry out section 622
+ $21,900,000 for fiscal year 1991, $24,100,000 for fiscal year 1992,
+ $26,500,000 for fiscal year 1993, and $29,200,000 for fiscal year 1994.
+ `(c) There are authorized to be appropriated to carry out section 623
+ $31,400,000 for fiscal year 1991, $34,235,000 for fiscal year 1992,
+ $37,325,000 for fiscal year 1993, and $40,705,000 for fiscal year 1994.
+ `(d) There are authorized to be appropriated to carry out section
+ 624 $9,500,000 for fiscal year 1991, $10,500,000 for fiscal year 1992,
+ $11,600,000 for fiscal year 1993, and $12,700,000 for fiscal year 1994.
+ `(e) There are authorized to be appropriated to carry out section
+ 625 $9,470,000 for fiscal year 1991, $10,230,000 for fiscal year 1992,
+ $11,050,000 for fiscal year 1993, and $11,930,000 for fiscal year 1994.
+ `(f) There are authorized to be appropriated to carry out section 626 (except
+ subsection (e)) $9,800,000 for fiscal year 1991, $10,800,000 for fiscal year
+ 1992, $11,900,000 for fiscal year 1993, and $13,050,000 for fiscal year 1994.
+ `(g) There are authorized to be appropriated to carry out section 626(e)
+ $27,500,000 for fiscal year 1991, $30,250,000 for fiscal year 1992,
+ $33,275,000 for fiscal year 1993, and $36,602,000 for fiscal year 1994.
+ `(h) There are authorized to be appropriated to carry out section 627
+ $6,500,000 for fiscal year 1991, $8,000,000 for fiscal year 1992, $9,500,000
+ for fiscal year 1993, and $11,500,000 for fiscal year 1994.'.
+TITLE IV--TRAINING PERSONNEL FOR THE EDUCATION OF HANDICAPPED INDIVIDUALS
+SEC. 401. GRANTS FOR PERSONNEL TRAINING.
+ (a) AMENDMENTS TO SUBSECTION (a)(1)- Section 631(a)(1) (20 U.S.C. 1431(a)(1))
+ is amended--
+ (1) in subsection (a)(1), by striking `special education and early
+ intervention' and inserting `special education, related services, and
+ early intervention';
+ (2) in subparagraph (A), by striking `adaptive physical education' and
+ inserting `adapted physical education and instructional and assistive
+ technology services';
+ (3) in subparagraphs (B) through (D), by amending such subparagraphs to
+ read as follows:
+ `(B) related services to children and youth with disabilities in educational
+ settings, and other settings,
+  `(C) special education and other careers in preschool and early intervention
+  services for infants and toddlers with disabilities,
+ `(D) special education leadership, including supervision and administration
+ (at the advanced graduate, doctoral, and post-doctoral levels), special
+ education research, and special education personnel preparation (at the
+ doctoral and post-doctoral levels), and'.
+ (b) FURTHER AMENDMENTS TO SUBSECTION (a)- Section 631(a) (20 U.S.C. 1431(a))
+ is amended--
+ (1) in paragraph (2)(A), (A) by striking `for the personnel' and inserting
+ `for special education, related services, early intervention, and other
+ personnel', and (B) after `shortages' inserting `, including the need for
+ personnel in the provision of special education to children of limited
+ English proficiency';
+ (2) in paragraph (2)(B), by inserting before the period the following: `,
+ and that include in their applications a detailed description of strategies
+ that will be utilized to recruit and train members of minority groups and
+ persons with disabilities';
+ (3) in paragraph (3), by adding at the end the following new sentence:
+ `Such institutions shall give priority consideration in the selection
+ of qualified recipients of fellowships and traineeships to individuals
+ from disadvantaged backgrounds, including minorities and individuals with
+ disabilities who are underrepresented in the teaching profession or in the
+ specializations in which they are being trained.'.
+ (c) NEW PARAGRAPHS IN SUBSECTION (a)- Section 631(a) (20 U.S.C. 1431(a))
+ is amended by adding at the end the following new paragraphs:
+ `(5) In making grants under subsection (a)(1), the Secretary may determine
+ that a portion of training supported through such grants shall be conducted on
+ an interdisciplinary basis, and shall be designed to assist special educators
+ in properly coordinating service provision with related services personnel. To
+ the extent feasible, training programs funded under subsection (a)(1)(B)
+ and (a)(1)(E) shall require practica to demonstrate the delivery of related
+ services in an array of regular and special education and community settings.
+ `(6) Nothing in this subsection shall be construed to prevent regular
+ education or special education personnel from benefiting or participating
+ in training activities conducted under this subsection on a preservice or
+ inservice basis.
+ `(7) The Secretary, in carrying out paragraph (1), shall make grants to
+ Historically Black Colleges and Universities, and other institutions of
+ higher education whose minority student enrollment is at least 25 percent.'.
+ (d) AMENDMENTS TO SUBSECTION (b)- Section 631(b) (20 U.S.C. 1431(b))
+ is amended by striking `nonprofit agencies' and all that follows and
+ inserting the following: `nonprofit agencies and organizations to develop
+ and demonstrate effective ways for preservice training programs to prepare
+ regular educators to work with children and youth with disabilities and their
+ families; for training teachers to work in community and school settings
+ with school students with disabilities and their families; for inservice and
+ preservice training of personnel to work with infants, toddlers, children,
+ and youth with disabilities and their families; for inservice and preservice
+ training of personnel to work with minority infants, toddlers, children,
+ and youth with disabilities and their families; for preservice and inservice
+ training of special education and related services personnel in the use
+ of assistive and instructional technology to benefit infants, toddlers,
+ children, and youth with disabilities; and for the recruitment and retention
+ of special education, related services, and early intervention personnel. Both
+ preservice and inservice training shall include a component that addresses
+ the coordination among all service providers, including regular educators.'.
+ (e) AMENDMENT TO SUBSECTION (c)-
+ (1) Section 631(c)(2) (20 U.S.C. 1431(c)(2)) is amended--
+ (A) by amending subparagraph (A) to read as follows:
+ `(A) be governed by a board of directors of which a majority of the
+ members are parents of infants, toddlers, children, and youth with
+ disabilities, particularly minority parents, and that includes members
+ who are professionals, especially minority professionals, in the field of
+ special education, early intervention, and related services, and individuals
+ with disabilities, or, if the nonprofit private organization does not have
+ such a board, such organization shall have a membership that represents the
+ interests of individuals with disabilities, and shall establish a special
+ governing committee of which a majority of the members are parents of infants,
+ toddlers, children, and youth with disabilities, particularly parents
+ of minority children, and which includes members who are professionals,
+ especially minority professionals, in the field of special education, early
+ intervention, and related services, to operate the training and information
+ program under paragraph (1), and parent and professional membership of these
+ boards or special governing committees shall be broadly representative of
+ minority and other individuals and groups having an interest in special
+ education, early intervention, and related services;';
+ (B) in subparagraph (B)--
+ (i) by striking `children' and inserting `infants, toddlers, children,
+ and youth'; and
+ (ii) by striking `handicapping' and inserting `disabling'; and
+ (C) in subparagraph (C), by inserting before the period the following: `,
+ and, for purposes of paragraph (1), network with clearinghouses, including
+ those established under section 633 and other organizations and agencies,
+ and network with other established national, State, and local parent groups
+ representing the full range of parents of infants, toddlers, children,
+ and youth with disabilities, especially parents of minority children'.
+ (2) Section 631(c)(2) (20 U.S.C. 1431(c)(2)) is amended by adding after
+ subparagraph (C) the following: `Nothing in subparagraph (A) shall be
+ construed to authorize or permit the denial to any person of the due process
+ of law required by the United States Constitution.'.
+ (f) AMENDMENTS TO SUBSECTION (c)(4)- Section 631(c)(4) (20 U.S.C. 1431(c)(4))
+ is amended--
+ (1) by striking out `and' at the end of subparagraph (A);
+ (2) by striking the period at the end of subparagraph (B) and inserting a
+ comma; and
+ (3) by adding at the end the following new subparagraphs:
+ `(C) serve parents of minority children with disabilities representative
+ to the proportion of the minority population in the areas being served, and
+ `(D) be funded at a sufficient size, scope, and quality to ensure that the
+ program is adequate to serve the parents in the area.'.
+ (g) NEW PARAGRAPH IN SUBSECTION (c)- Section 631(c) (20 U.S.C. 1431(c))
+ is amended by adding at the end the following new paragraph:
+ `(9) After the establishment in each State of a parent training and
+ information center, the Secretary shall provide for the establishment of
+ 3 experimental centers to serve large numbers of parents of children with
+ disabilities located in high density areas that do not have such centers
+ and 2 such centers to serve large numbers of parents of children with
+ disabilities located in rural areas.
+ `(10) Effective for fiscal year 1991 and every year thereafter, the
+ Secretary shall obtain data concerning programs and centers assisted under
+ this subsection on--
+ `(A) the number of parents provided information and training by disability
+ category of their children,
+ `(B) the types and modes of information or training provided,
+ `(C) strategies used to reach and serve parents of minority infants,
+ toddlers, children, and youth with disabilities,
+ `(D) the number of parents served as a result of activities described under
+ subparagraph (C),
+ `(E) activities to network with other information clearinghouses and parent
+ groups as required in subsection (c)(2)(C), and
+ `(F) the number of agencies and organizations consulted with at the national,
+ State, regional, and local levels.
+The Secretary shall include a summary of this information in the annual
+report to Congress as required in section 618(g).'.
+ (h) FURTHER AMENDMENTS TO SUBSECTION (c)- Section 631(c) (20 U.S.C. 1431(c))
+ is amended--
+ (1) in paragraph (1), in the first and second sentences, by striking `parents
+ of handicapped children' each place such term appears and inserting `parents
+ of infants, toddlers, children, and youth with disabilities';
+ (2) in paragraph (5)--
+ (A) in subparagraph (E), by amending such subparagraph to read as follows:
+ `(E) obtain appropriate information about the range of options, programs,
+ services, and resources available at the national, State, and local levels
+ to assist infants, toddlers, children, and youth with disabilities and
+ their families, and'; and
+ (B) in subparagraph (F), by striking `handicapped' and all that follows
+ and inserting the following: `infants, toddlers, children, and youth with
+ disabilities under this Act.'; and
+ (3) in paragraph (7)--
+ (A) by striking `with appropriate agencies which' and inserting the following:
+ `and network with appropriate national, State, regional, and local agencies
+ and organizations, such as protection and advocacy agencies, that'; and
+ (B) by striking `handicapped children and youth' and inserting `infants,
+ toddlers, children, and youth with disabilities and their families'.
+SEC. 402. GRANTS TO STATE EDUCATIONAL AGENCIES AND INSTITUTIONS FOR
+TRAINEESHIPS.
+ Section 632 (20 U.S.C. 1432) is amended--
+ (1) in subsection (c) by--
+ (A) inserting `special and regular education, related services and early
+ intervention' after `prepare'; and
+ (B) by striking the period at the end thereof and inserting a comma and
+ `and to assist the State in developing and maintaining such systems and
+ conducting personnel recruitment and retention activities.'; and
+ (2) by inserting at the end thereof the following new subsection:
+ `(d) The Secretary is authorized to provide directly or by grant, contract,
+ or cooperative agreement, technical assistance to State educational agencies
+ on matters pertaining to the effective implementation of section 613(a)(3).'.
+SEC. 403. CLEARINGHOUSES.
+ Section 633 (20 U.S.C. 1433) is amended to read as follows:
+`CLEARINGHOUSES
+ `SEC. 633. (a) The Secretary is authorized to make grants to, or enter
+ into contracts or cooperative agreements with, public agencies or private
+ nonprofit organizations or institutions for the establishment of three
+ national clearinghouses: on children and youth with disabilities; on
+ postsecondary education for individuals with disabilities; and on careers
+ in special education, to--
+ `(1) collect, develop, and disseminate information,
+ `(2) provide technical assistance,
+ `(3) conduct coordinated outreach activities,
+ `(4) provide for the coordination and networking with other relevant national,
+ State, and local organizations and information and referral resources,
+ `(5) respond to individuals and organizations seeking information, and
+ `(6) provide for the synthesis of information for its effective utilization by
+ parents, professionals, individuals with disabilities, and other interested
+ parties.
+ `(b) The national clearinghouse for children and youth with disabilities
+ shall:
+ `(1) Collect and disseminate information (including the development of
+ materials) on characteristics of infants, toddlers, children, and youth
+ with disabilities and on programs, legislation, and services relating to
+ their education under this Act and other Federal laws.
+ `(2) Participate in programs and services related to disability issues for
+ providing outreach, technical assistance, collection, and dissemination
+ of information; and promoting networking of individuals with appropriate
+ national, State, and local agencies and organizations.
+ `(3) Establish a coordinated network and conduct outreach activities with
+ relevant Federal, State, and local organizations and other sources for
+ promoting public awareness of disability issues and the availability of
+ information, programs, and services.
+ `(4) Collect, disseminate, and develop information on current and future
+ national, Federal, regional, and State needs for providing information to
+ parents, professionals, individuals with disabilities, and other interested
+ parties relating to the education and related services of individuals
+ with disabilities.
+ `(5) Provide technical assistance to national, Federal, regional, State
+ and local agencies and organizations seeking to establish information and
+ referral services for individuals with disabilities and their families.
+ `(6) In carrying out the activities in this subsection, the clearinghouse
+ will include strategies to disseminate information to underrepresented
+ groups such as those with limited English proficiency.
+ `(c) The national clearinghouse on postsecondary education for individuals
+ with disabilities shall:
+ `(1) Collect and disseminate information nationally on characteristics of
+ individuals entering and participating in education and training programs
+ after high school; legislation affecting such individuals and such programs;
+ policies, procedures, and support services, as well as adaptations, and
+ other resources available or recommended to facilitate the education of
+ individuals with disabilities; available programs and services that include,
+ or can be adapted to include, individuals with disabilities; and sources of
+ financial aid for the education and training of individuals with disabilities.
+ `(2) Identify areas of need for additional information.
+ `(3) Develop new materials (in both print and nonprint form), especially
+ by synthesizing information from a variety of fields affecting disability
+ issues and the education, rehabilitation, and retraining of individuals
+ with disabilities.
+ `(4) Develop a coordinated network of professionals, related organizations
+ and associations, mass media, other clearinghouses, and governmental
+ agencies at the Federal, regional, State, and local level for the purposes
+ of disseminating information and promoting awareness of issues relevant
+ to the education of individuals with disabilities after high school and
+ referring individuals who request information to local resources.
+ `(5) Respond to requests from individuals with disabilities, their parents,
+ and professionals who work with them, for information that will enable them
+ to make appropriate decisions about postsecondary education and training.
+ `(d) The national clearinghouse designed to encourage students to seek
+ careers and professional personnel to seek employment in the various fields
+ relating to the education of children and youth with disabilities shall:
+ `(1) Collect and disseminate information on current and future national,
+ regional, and State needs for special education and related services
+ personnel.
+ `(2) Disseminate information to high school counselors and others concerning
+ current career opportunities in special education, location of programs,
+ and various forms of financial assistance (such as scholarships, stipends,
+ and allowances).
+ `(3) Identify training programs available around the country.
+ `(4) Establish a network among local and State educational agencies and
+ institutions of higher education concerning the supply of graduates and
+ available openings.
+ `(5) Provide technical assistance to institutions seeking to meet State
+ and professionally recognized standards.
+ `(e)(1) In awarding grants, contracts, and cooperative agreements under this
+ section, the Secretary shall give priority consideration to any applicant
+ with demonstrated, proven effectiveness (at the national level) in performing
+ the functions established in this section; and with the ability to conduct
+ such projects, communicate with intended consumers of information, and
+ maintain the necessary communication with national, regional, State, and
+ local agencies and organizations.
+ `(2) In awarding grants, contracts, and cooperative agreements under this
+ section, the Secretary shall give priority consideration to any applicant
+ with demonstrated, proven effectiveness (at the national level) in providing
+ informational services to minorities and minority organizations.
+ `(f)(1) Beginning in fiscal year 1991, and for each year thereafter, the
+ Secretary shall obtain information on each project assisted under this
+ section, including--
+ `(A) the number of individuals served by disability category, as appropriate,
+ including parents, professionals, students, and individuals with disabilities;
+ `(B) a description of responses utilized;
+ `(C) a listing of new products developed and disseminated; and
+ `(D) a description of strategies and activities utilized for outreach to urban
+ and rural areas with populations of minorities and underrepresented groups.
+ `(2) A summary of the data required by this subsection shall be included
+ in the annual report to Congress required under section 618.'.
+SEC. 404. REPORTS TO SECRETARY.
+ Section 634(a) (20 U.S.C. 1434(a)) is amended--
+ (1) in paragraph (1), by striking `and' at the end;
+ (2) in paragraph (2), by striking the period and inserting `; and'; and
+ (3) by adding at the end the following new paragraph:
+ `(3) information described in section 631(c)(9) and section 633(f)(1),
+ as applicable.'.
+SEC. 405. AUTHORIZATION OF APPROPRIATIONS.
+ Section 635(a) (20 U.S.C. 1435(a)) is amended to read as follows:
+ `(a)(1) There are authorized to be appropriated to carry out this part
+ (other than sections 631(a)(7), 631(c), and 633) $94,725,000 for fiscal year
+ 1991, $103,255,000 for fiscal year 1992, $113,580,000 for fiscal year 1993,
+ and $123,760,000 for fiscal year 1994.
+ `(2) There are authorized to be appropriated to carry out section 631(a)(7)
+ $19,250,000 for fiscal year 1991, $21,175,000 for fiscal year 1992,
+ $23,292,500 for fiscal year 1993, and $25,621,750 for fiscal year 1994.
+ `(3) There are authorized to be appropriated to carry out section 631(c)
+ $11,000,000 for fiscal year 1991, $12,100,000 for fiscal year 1992,
+ $13,300,000 for fiscal year 1993, and $14,600,000 for fiscal year 1994.
+ `(4) There are authorized to be appropriated to carry out section 633
+ $2,900,000 for fiscal year 1991, $2,465,000 for fiscal year 1992, $2,710,000
+ for fiscal year 1993, and $2,960,000 for fiscal year 1994.'.
+TITLE V--RESEARCH IN EDUCATION OF INDIVIDUALS WITH DISABILITIES
+SEC. 501. RESEARCH AND DEMONSTRATION PROJECTS IN EDUCATION OF CHILDREN
+WITH DISABILITIES.
+ Section 641 (20 U.S.C. 1441) is amended to read as follows:
+`RESEARCH AND RELATED ACTIVITIES
+ `SEC. 641. (a) The Secretary may make grants to, or enter into contracts
+ or cooperative agreements with, State and local educational agencies,
+ institutions of higher education, other public agencies and nonprofit private
+ organizations for the purpose of advancing and improving the knowledge base
+ and improving the practice of professionals, parents, and others providing
+ early intervention, special education, and related services, including
+ professionals who work with children and youth with disabilities in regular
+ education environments, to provide such children effective instruction
+ and enable them to successfully learn. The activities supported under
+ this section shall support innovation, development, exchange, and use of
+ such advancements in knowledge and practice designed to contribute to the
+ improvement of instruction and learning of infants, toddlers, children,
+ and youth with disabilities. In carrying out this section, the Secretary
+ may support a wide range of research and related activities designed to--
+ `(1) advance knowledge regarding the provision of instruction and other
+ interventions to infants, toddlers, children, and youth with disabilities
+ including--
+ `(A) the organization, synthesis, and interpretation of current knowledge
+ and the identification of knowledge gaps;
+ `(B) the identification of knowledge and skill competencies needed
+ by personnel providing special education, related services, and early
+ intervention services;
+ `(C) the improvement of knowledge regarding the developmental and learning
+ characteristics of infants, toddlers, children, and youth with disabilities
+ in order to improve the design and effectiveness of interventions and
+ instruction;
+ `(D) the evaluation of approaches and interventions;
+ `(E) the development of instructional strategies, techniques, and activities;
+ `(F) the improvement of curricula and instructional tools such as textbooks,
+ media, materials, and technology;
+ `(G) the development of assessment techniques, instruments (including tests,
+ inventories, and scales), and strategies for measurement of progress and the
+ identification, location, and evaluation of infants, toddlers, children,
+ and youth with disabilities for the purpose of determining eligibility,
+ program planning, and placement for special education, related services,
+ and early intervention services. Particular attention should be given to
+ the development of alternative assessment procedures and processes for
+ minority individuals and those with limited English proficiency;
+ `(H) the testing of research findings in practice settings to determine
+ the application, usability, effectiveness, and generalizability of such
+ research findings;
+ `(I) the improvement of knowledge regarding families, minorities, limited
+ English proficiency, and disabling conditions; and
+ `(J) the identification of environmental, organizational, resource, and
+ other conditions necessary for effective professional practice; and
+ `(2) advance the use of knowledge by personnel providing special education,
+ related services, and early intervention services including--
+ `(A) the improvement of knowledge regarding how such individuals learn
+ new knowledge and skills, and strategies for effectively facilitating such
+ learning in preservice, inservice, and continuing education;
+ `(B) the organization, integration, and presentation of knowledge so that
+ such knowledge can be incorporated and imparted in personnel preparation,
+ continuing education programs, and other relevant training and communication
+ vehicles; and
+ `(C) the expansion and improvement of networks that exchange knowledge and
+ practice information.
+ `(b) In carrying out subsection (a), the Secretary shall consider the special
+ education, related services, or early intervention and research experience
+ of applicants.
+ `(c) The Secretary shall publish proposed priorities under this part in
+ the Federal Register not later than 12 months preceding the fiscal year
+ for which they are being announced, and shall allow a period of 60 days for
+ public comments and suggestions. The Secretary shall, after analyzing and
+ considering the public comments, publish final priorities in the Federal
+ Register not later than 90 days after the close of the comment period.
+ `(d) The Secretary shall provide an index (including the title of each
+ project and the name and address of the funded organization) of all projects
+ conducted under this part in the prior fiscal year in the annual report
+ described under section 618.
+ `(e) The Secretary shall--
+ `(1) coordinate the priorities established under subsection (b) with
+ research priorities established by the National Institute for Disability and
+ Rehabilitation Research and other appropriate agencies conducting research
+ pertaining to the education of individuals with disabilities; and
+ `(2) provide information concerning priorities established under subsection
+ (b) to the National Council on Disability and to the Bureau of Indian
+ Affairs Advisory Committee for Exceptional Children.
+ `(f)(1) The Secretary shall make grants or enter into contracts or cooperative
+ agreements for the establishment of a center or centers designed to organize,
+ synthesize, and disseminate current knowledge relating to children with
+ attention deficit disorder with respect to the following:
+ `(A) Assessment techniques, instruments, and strategies used for
+ identification, location, evaluation and for measurement of progress.
+ `(B) Knowledge and skill competencies needed by professionals providing
+ special and regular education and related services.
+ `(C) Environmental, organizational, resource, and other conditions necessary
+ for effective professional practice.
+ `(D) Developmental and learning characteristics.
+ `(E) Instructional strategies, techniques, and activities.
+ `(F) Curricula and instructional tools such as textbooks, media, materials,
+ and technology.
+ `(G) Strategies, techniques, and activities related to involvement of
+ families.
+ `(2) In awarding grants, contracts, and cooperative agreements under paragraph
+ (1), the Secretary shall give priority consideration to applicants with--
+ `(A) demonstrated knowledge concerning the disorder;
+ `(B) proven effectiveness in performing the functions established in this
+ subsection; and
+ `(C) the ability to--
+ `(i) conduct such projects;
+ `(ii) communicate with intended consumers of information; and
+ `(iii) maintain the necessary communication with national, regional, State,
+ and local agencies.
+ `(g)(1) The Secretary shall make grants, or enter into contracts or
+ cooperative agreements, for the establishment of model demonstration programs,
+ of which some will be school-based models, that provide the services of an
+ ombudsman to assist in resolving problems that are barriers to appropriate
+ educational, related services, or other services for children and youth
+ with disabilities.
+ `(2) Programs under paragraph (1) shall provide or identify personnel to
+ assist children and youth with disabilities, their parents or guardians,
+ special and regular education teachers, State and local education
+ administrators, and related services personnel to resolve problems in a
+ timely manner through dispute mediation and other methods, notwithstanding
+ due process procedures, in order to further the delivery of appropriate
+ education and related services. Participation in this program does not
+ preclude or delay due process under part B of this Act.
+ `(3) Ombudsman services for programs under paragraph (1) shall be provided
+ by social workers, parent advocates, psychologists, and persons with similar
+ qualifications designated by the Secretary.'.
+SEC. 502. RESEARCH AND DEMONSTRATION PROJECTS IN PHYSICAL EDUCATION AND
+RECREATION FOR CHILDREN WITH DISABILITIES.
+ Section 642 (20 U.S.C. 1442) is amended by striking `recreation for
+ handicapped children' each place such term appears and inserting `recreation
+ for children with disabilities, including therapeutic recreation'.
+SEC. 503. PANELS OF EXPERTS.
+ Part E (20 U.S.C. 1441 et seq.) is amended by striking section 643 and by
+ redesignating section 644 as section 643.
+SEC. 504. AUTHORIZATION OF APPROPRIATIONS.
+ Section 643, as redesignated by section 503 of this Act, is amended to read
+ as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 643. For purposes of carrying out this part, there are authorized to
+ be appropriated $21,100,000 for fiscal year 1990, $24,650,000 for fiscal
+ year 1991, $27,400,000 for fiscal year 1992, $30,200,000 for fiscal year
+ 1993, and $33,200,000 for fiscal year 1994.'.
+TITLE VI--INSTRUCTIONAL MEDIA FOR INDIVIDUALS WITH DISABILITIES
+SEC. 601. PURPOSES.
+ Section 651 (20 U.S.C. 1451) is amended--
+ (1) by striking the subsection designation;
+ (2) in paragraph (1)--
+ (A) by inserting `and hard of hearing' after `deaf' each place it appears;
+ (B) in subparagraph (A), by inserting `and television programs' after
+ `those films'; and
+ (C) in subparagraph (B), by inserting `and television programs' after
+ `these films';
+ (2) in paragraph (2), by striking `and' after the semicolon at the end of
+ subparagraph (B), by striking out the period at the end of subparagraph
+ (C) and inserting in lieu thereof `; and', and by adding at the end the
+ following new subparagraph:
+ `(D) utilizing educational media to help eliminate illiteracy among
+ individuals with disabilities;'; and
+ (3) by striking the period at the end of paragraph (2) and inserting `;
+ and' and by adding at the end the following new paragraph:
+ `(3) the general welfare of visually impaired individuals by--
+ `(A) bringing to such individuals an understanding and appreciation of
+ textbooks, films, television programs, video material, and other educational
+ publications and materials that play such an important part in the general
+ and cultural advancement of visually unimpaired individuals; and
+ `(B) ensuring access to television programming and other video materials.'.
+SEC. 602. CAPTIONED FILMS AND EDUCATIONAL MEDIA FOR INDIVIDUALS WITH
+DISABILITIES.
+ Section 652 (20 U.S.C. 1452) is amended--
+ (1) in the heading for such section, by inserting `, TELEVISION, DESCRIPTIVE
+ VIDEO,' after `FILMS';
+ (2) in subsection (a), by inserting `, descriptive video,' after `captioned
+ films';
+ (3) in subsection (b)--
+ (A) in paragraph (3), by striking `captioning of films' and inserting
+ `captioning for deaf and hard of hearing individuals and video description
+ for the visually impaired, of films, television programs, and video
+ materials'; and
+ (B) in paragraph (4)--
+ (i) by striking `captioned films' and inserting `captioned and video-described
+ films, video materials,'; and
+ (ii) inserting `or entities' after `agencies';
+ (C) in paragraph (8), by inserting `and hard of hearing' after `deaf';
+ (4) in subsection (c), by--
+ (A) inserting `and other appropriate non-profit organizations' after
+ `Inc.'; and
+ (B) striking `theatrical' and inserting `cultural';
+ (5) in subsection (c)(1), by inserting `and hard of hearing' after `deaf';
+ (6) in subsection (c)(2), by inserting `and hard of hearing' after `deaf'; and
+ (7) in subsection (c)(3), (A) by inserting `and hard of hearing' after
+ `deaf', and (B) by inserting `, educational, and social' after `cultural'.
+ (8) by adding at the end the following new subsection:
+ `(d)(1) The Secretary is authorized to make a grant or enter into a contract
+ for the purpose of providing current, free textbooks and other educational
+ publications and materials to blind and other print-handicapped students
+ in elementary, secondary, postsecondary, and graduate schools and other
+ institutions of higher education through the medium of transcribed tapes
+ and cassettes.
+ `(2) For the purpose of this subsection, the term `print-handicapped' refers
+ to any individual who is blind or severely visually impaired, or who, by
+ reason of a physical or perceptual disability, is unable to read printed
+ material unassisted.'.
+SEC. 603. AUTHORIZATION OF APPROPRIATIONS.
+ Section 653 (20 U.S.C. 1454) is amended to read as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 653. For the purpose of carrying out section 652 there are authorized
+ to be appropriated $20,010,000 for fiscal year 1991, $22,010,000 for fiscal
+ year 1992, $24,200,000 for fiscal year 1993, and $26,600,000 for fiscal
+ year 1994.'.
+TITLE VII--TECHNOLOGY, EDUCATIONAL MEDIA, AND MATERIALS FOR INDIVIDUALS
+WITH DISABILITIES
+SEC. 701. FINANCIAL ASSISTANCE.
+ Section 661 (20 U.S.C. 1461) is amended--
+ (1) in the matter preceding paragraph (1), in the first sentence, by
+ striking `provision of early intervention' and inserting `provision of
+ related services and early intervention services';
+ (2) in paragraph (1)--
+ (A) by inserting `assistive technology,' after `technology,'; and
+ (B) by striking `more effectively' and inserting `most effectively,
+ efficiently, and appropriately';
+ (3) in paragraphs (2) through (4), by striking `new technology,' each place
+ such term appears and inserting `technology, assistive technology,';
+ (4) in paragraph (4), by inserting before the period at the end the following:
+ `, where appropriate, to entities described in section 610(g)';
+ (5)(A) by striking `and' at the end of paragraph (3);
+ (B) by striking the period at the end of paragraph (4) and inserting a
+ comma; and
+ (C) by adding at the end the following:
+ `(5) increasing access to and use of assistive technology devices and
+ assistive technology services in the education of infants, toddlers,
+ children, and youth with disabilities, and other activities authorized under
+ the Technology-Related Assistance for Individuals With Disabilities Act of
+ 1988, as such Act relates to the education of students with disabilities, and
+ `(6) examining how these purposes can address the problem of illiteracy
+ among individuals with disabilities.'; and
+ (6) by inserting `(a)' after the section designation and by adding at the
+ end the following new subsection:
+ `(b)(1) With respect to new technology, media, and materials utilized with
+ funds under this part to improve the education of students with disabilities,
+ the Secretary shall make efforts to ensure that such instructional materials
+ are closed captioned.
+ `(2) The Secretary may not award a grant, contract, or cooperative agreement
+ under paragraphs (1) through (4) of subsection (a) unless the applicant
+ for such assistance agrees that activities carried out with the assistance
+ will be coordinated, as appropriate, with the State entity receiving funds
+ under title I of Public Law 100-407.'.
+SEC. 702. AUTHORIZATION OF APPROPRIATIONS.
+ Section 662 (20 U.S.C. 1462) is amended to read as follows:
+`AUTHORIZATION OF APPROPRIATIONS
+ `SEC. 662. For the purpose of carrying out this part, there are authorized
+ to be appropriated $11,900,000 for fiscal year 1991, $12,860,000 for fiscal
+ year 1992, $13,890,000 for fiscal year 1993, and $15,000,000 for fiscal
+ year 1994.'.
+TITLE VIII--INFANTS AND TODDLERS WITH DISABILITIES
+SEC. 801. DEFINITIONS.
+ Section 672(2)(E) (20 U.S.C. 1472(2)(E)) is amended--
+ (1) by striking `and' after the comma at the end of clause (ix) and inserting
+ `and' after the comma at the end of clause (x); and
+ (2) by adding at the end the following new clause:
+ `(xi) social work services,'.
+SEC. 802. REQUIREMENTS FOR STATEWIDE SYSTEM.
+ Section 676(b) (20 U.S.C. 1476(b)) is amended--
+ (1) in paragraph (6), by inserting before the comma the following: `,
+ including the preparation and dissemination by the lead agency to all primary
+ referral sources of information materials for parents on the availability
+ of early intervention services, and procedures for determining the extent
+ to which primary referral sources, especially hospitals and physicians,
+ disseminate information on the availability of early intervention services
+ as required under this paragraph to parents of infants with disabilities'; and
+ (2) in paragraph (8), by inserting before the comma the following:
+ `, including training of primary referral sources respecting the basic
+ components of early intervention services available in the State'.
+TITLE IX--TECHNICAL AMENDMENTS
+SEC. 901. TERMINOLOGY AND TECHNICAL AMENDMENTS.
+ (a) REVISION IN SHORT TITLE-
+ (1) Section 601(a) (20 U.S.C. 1400(a)) is amended by striking `This title'
+ and all that follows and inserting in lieu thereof the following: `This
+ title may be cited as the `Individuals with Disabilities Education Act'.'.
+ (2) The following Acts are each amended by striking `Education of the
+ Handicapped Act' each place it occurs and inserting in lieu thereof
+ `Individuals with Disabilities Education Act': Carl D. Perkins Vocational
+ Education and Applied Technology Act; Comprehensive Alcohol Abuse, Drug
+ Abuse, and Mental Health Amendments Act of 1988; Department of Education
+ Organization Act; Developmental Disabilities Assistance and Bill of Rights
+ Act Amendments of 1987; Education for All Handicapped Children Act of 1975;
+ Education of the Deaf Act of 1986; Elementary and Secondary Education
+ Act of 1965; Medicare Catastrophic Coverage Act of 1988; Omnibus Trade
+ and Competitiveness Act of 1988; Rehabilitation, Comprehensive Services
+ and Developmental Disabilities Amendments of 1978; and Technology-Related
+ Assistance for Individuals With Disabilities Act of 1988.
+ (3) Any other Act and any regulation which refers to the Education of
+ the Handicapped Act shall be considered to refer to the Individuals with
+ Disabilities Education Act.
+ (b) TERMINOLOGY AMENDMENTS- The Education for the Handicapped Act is
+ amended in--
+ (1) section 601(b)(1) (20 U.S.C. 1400(b)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (2) section 601(b)(3) (20 U.S.C. 1400(b)(3)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (3) section 601(b)(4) (20 U.S.C. 1400(b)(4)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (4) section 601(b)(5) (20 U.S.C. 1400(b)(5)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (5) section 601(b)(5) (20 U.S.C. 1400(b)(5)) by striking `handicaps' each
+ place such term appears and inserting `disabilities';
+ (6) section 601(b)(7) (20 U.S.C. 1400(b)(7)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (7) section 601(b)(8) (20 U.S.C. 1400(b)(8)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (8) section 601(b)(9) (20 U.S.C. 1400(b)(9)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (9) section 601(c) (20 U.S.C. 1400(c)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (10) section 602(a)(1) (20 U.S.C. 1401(a)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (11) section 602(a)(13) (20 U.S.C. 1401(a)(13)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (12) section 602(a)(15) (20 U.S.C. 1401(a)(15)) by striking `handicaps'
+ each place such term appears and inserting `disabilities';
+ (13) section 602(a)(16) (20 U.S.C. 1401(a)(16)) by striking `handicapped
+ child' and inserting `child with a disability';
+ (14) section 602(a)(17) (20 U.S.C. 1401(a)(17)) by striking `handicapped
+ child' and inserting `child with a disability';
+ (15) section 602(a)(17) (20 U.S.C. 1401(a)(17)) by striking `handicapping'
+ and inserting `disabling';
+ (16) section 602(a)(19) (20 U.S.C. 1401(a)(19)) by striking `handicapped
+ child' and inserting `child with a disability';
+ (17) section 602(a)(19) (20 U.S.C. 1401(a)(19)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (18) section 602(a)(22) (20 U.S.C. 1401(a)(22)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (19) section 602(b) (20 U.S.C. 1401(b)) by striking `handicapped youth'
+ and inserting `youth with a disability';
+ (20) section 602(b) (20 U.S.C. 1401(b)) by striking `handicapped child'
+ and inserting `child with a disability';
+ (21) section 603(a) (20 U.S.C. 1402(a)) by striking `the handicapped'
+ and inserting `individuals with disabilities';
+ (22) the section heading to section 606 (20 U.S.C. 1405) by striking
+ `HANDICAPPED INDIVIDUALS' and inserting `INDIVIDUALS WITH DISABILITIES';
+ (23) section 606 (20 U.S.C. 1405) by striking `handicapped individuals'
+ and inserting `individuals with disabilities';
+ (24) section 608(b) (20 U.S.C. 1407(b)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (25) section 611(a)(1)(A) (20 U.S.C. 1411(a)(1)(A)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (26) section 611(a)(3) (20 U.S.C. 1411(a)(3)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (27) section 611(a)(5)(A)(i) (20 U.S.C. 1411(a)(5)(A)(i)) by striking
+ `handicapped children' each place such term appears and inserting `children
+ with disabilities';
+ (28) section 611(a)(5)(A)(ii) (20 U.S.C. 1411(a)(5)(A)(ii)) by striking
+ `handicapped children' each place such term appears and inserting `children
+ with disabilities';
+ (29) section 611(a)(5)(A)(iii) (20 U.S.C. 1411(a)(5)(A)(iii)) by striking
+ `handicapped children' and inserting `children with disabilities';
+ (30) section 611(c)(4)(B) (20 U.S.C. 1411(c)(4)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (31) section 611(d) (20 U.S.C. 1411(d)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (32) section 611(f) (20 U.S.C. 1411(f)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (33) section 612(1) (20 U.S.C. 1412(1)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (34) section 612(2)(A) (20 U.S.C. 1412(2)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (35) section 612(2)(B) (20 U.S.C. 1412(2)(B)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (36) section 612(2)(C) (20 U.S.C. 1412(2)(C)) by striking `handicapped,'
+ and inserting `disabled,';
+ (37) section 612(2)(C) (20 U.S.C. 1412(2)(C)) by striking `handicap,'
+ and inserting `disability,';
+ (38) section 612(3) (20 U.S.C. 1412(3)) by striking `handicapped children,'
+ each place such term appears and inserting `children with disabilities,';
+ (39) section 612(3) (20 U.S.C. 1412(3)) by striking `handicaps' and inserting
+ `disabilities';
+ (40) section 612(4) (20 U.S.C. 1412(4)) by striking `handicapped child,'
+ and inserting `child with a disability,';
+ (41) section 612(5) (20 U.S.C. 1412(5)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (42) section 612(5) (20 U.S.C. 1412(5)) by striking `handicapped,' and
+ inserting `disabled,';
+ (43) section 612(5) (20 U.S.C. 1412(5)) by striking `handicap' and inserting
+ `disability';
+ (44) section 612(6) (20 U.S.C. 1412(6)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (45) section 612(7) (20 U.S.C. 1412(7)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (46) section 612(7) (20 U.S.C. 1412(7)) by striking `handicapped individuals'
+ and inserting `individuals with disabilities';
+ (47) section 613(a)(2) (20 U.S.C. 1413(a)(2)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (48) section 613(a)(4)(A) (20 U.S.C. 1413(a)(4)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (49) section 613(a)(4)(B)(i) (20 U.S.C. 1413(a)(4)(B)(i)) by striking
+ `handicapped children' each place such term appears and inserting `children
+ with disabilities';
+ (50) section 613(a)(9)(B) (20 U.S.C. 1413(a)(9)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (51) section 613(a)(11) (20 U.S.C. 1413(a)(11)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (52) section 613(a)(12) (20 U.S.C. 1413(a)(12)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (53) section 613(a)(12) (20 U.S.C. 1413(a)(12)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (54) section 613(a)(13)(A) (20 U.S.C. 1413(a)(13)(A)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (55) section 613(b) (20 U.S.C. 1413(b)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (56) section 613(d)(1) (20 U.S.C. 1413(d)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (57) section 613(d)(2)(A) (20 U.S.C. 1413(d)(2)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (58) section 613(e) (20 U.S.C. 1413(e)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (59) section 614(a)(1)(A) (20 U.S.C. 1414(a)(1)(A)) by striking `handicapped'
+ and inserting `disabled';
+ (60) section 614(a)(1)(A) (20 U.S.C. 1414(a)(1)(A)) by striking `handicap'
+ and inserting `disability'.
+ (61) section 614(a)(1)(C) (20 U.S.C. 1414(a)(1)(C)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (62) section 614(a)(1)(C)(ii) (20 U.S.C. 1414(a)(1)(C)(ii)) by striking
+ `handicapped children' each place such term appears and inserting `children
+ with disabilities';
+ (63) section 614(a)(1)(C)(ii) (20 U.S.C. 1414(a)(1)(C)(ii)) by striking
+ `handicaps' and inserting `disabilities';
+ (64) section 614(a)(2)(B) (20 U.S.C. 1414(a)(2)(B)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (65) section 614(a)(3) (20 U.S.C. 1414(a)(3)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (66) section 614(a)(5) (20 U.S.C. 1414(a)(5)) by striking `handicapped child'
+ and inserting `child with a disability';
+ (67) section 614(c)(1) (20 U.S.C. 1414(c)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (68) section 614(d) (20 U.S.C. 1414(d)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (69) section 614(e) (20 U.S.C. 1414(e)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (70) section 614(f) (20 U.S.C. 1414(f)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (71) section 615(a) (20 U.S.C. 1415(a)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (72) section 615(b)(1)(A) (20 U.S.C. 1415(b)(1)(A)) by striking `handicapped
+ child' and inserting `child with a disability';
+ (73) section 615(d)(1) (20 U.S.C. 1415(d)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (74) section 615(e)(4)(B) (20 U.S.C. 1415(e)(4)(B)) by striking `handicapped
+ child or youth' and inserting `child or youth with a disability';
+ (75) section 615(f) (20 U.S.C. 1415(f)) by striking `handicapped children
+ and youth' and inserting `children and youth with disabilities';
+ (76) section 616(a)(2)(B) (20 U.S.C. 1416(a)(2)(B)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (77) section 617(a)(1)(A) (20 U.S.C. 1417(a)(1)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (78) section 617(a)(1)(D) (20 U.S.C. 1417(a)(1)(D)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (79) section 619(a)(1)(C) (20 U.S.C. 1419(a)(1)(C)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (80) section 619(a)(2)(A)(i) (20 U.S.C. 1419(a)(2)(A)(i)) by striking
+ `handicapped child' and inserting `child with a disability';
+ (81) section 619(a)(2)(A)(ii) (20 U.S.C. 1419(a)(2)(A)(ii)) by striking
+ `handicapped children' and inserting `children with disabilities';
+ (82) section 619(a)(2)(A)(ii)(I) (20 U.S.C. 1419(a)(2)(A)(ii)(I)) by striking
+ `handicapped child' and inserting `child with a disability';
+ (83) section 619(a)(2)(A)(ii)(II) (20 U.S.C. 1419(a)(2)(A)(ii)(II)) by
+ striking `handicapped children' and inserting `children with disabilities';
+ (84) section 619(a)(2)(D) (20 U.S.C. 1419(a)(2)(D)) by striking `handicapped
+ child' and inserting `child with a disability';
+ (85) section 619(a)(2)(F)(i) (20 U.S.C. 1419(a)(2)(F)(i)) by striking
+ `handicapped child' each place such term appears and inserting `child with
+ a disability';
+ (86) section 619(b)(1)(B) (20 U.S.C. 1419(b)(1)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (87) section 619(b)(3) (20 U.S.C. 1419(b)(3)) by striking `handicapped child'
+ and inserting `child with a disability';
+ (88) section 619(c)(1)(A) (20 U.S.C. 1419(c)(1)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (89) section 619(c)(1)(B) (20 U.S.C. 1419(c)(1)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (90) section 619(c)(2)(A) (20 U.S.C. 1419(c)(2)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (91) section 619(c)(2)(B) (20 U.S.C. 1419(c)(2)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (92) section 619(c)(3)(A) (20 U.S.C. 1419(c)(3)(A)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (93) section 619(c)(3)(B) (20 U.S.C. 1419(c)(3)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (94) the heading to part C by striking `HANDICAPPED INDIVIDUALS' and inserting
+ `INDIVIDUALS WITH DISABILITIES';
+ (95) section 621(a)(1) (20 U.S.C. 1421(a)(1)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (96) section 621(a)(1) (20 U.S.C. 1421(a)(1)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (97) section 621(a)(2) (20 U.S.C. 1421(a)(2)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (98) section 621(a)(2) (20 U.S.C. 1421(a)(2)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (99) section 621(a)(4) (20 U.S.C. 1421(a)(4)) by striking `handicapped
+ infants, toddlers, children, and youth' and inserting `infants, toddlers,
+ children, and youth with disabilities';
+ (100) the heading to section 623 (20 U.S.C. 1423) by striking `HANDICAPPED
+ CHILDREN' and inserting `CHILDREN WITH DISABILITIES';
+ (101) section 623(a)(1) (20 U.S.C. 1423(a)(1)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (102) section 623(a)(1)(D) (20 U.S.C. 1423(a)(1)(D)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (103) section 623(b) (20 U.S.C. 1423(b)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (104) section 623(c) (20 U.S.C. 1423(c)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (105) section 623(d) (20 U.S.C. 1423(d)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (106) section 623(f) (20 U.S.C. 1423(f)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (107) the heading to section 624 (20 U.S.C. 1424) by striking `SEVERELY
+ HANDICAPPED CHILDREN' and inserting `children with severe disabilities';
+ (108) section 624(a) (20 U.S.C. 1424(a)) by striking `severely handicapped
+ children and youth' and inserting `children and youth with severe
+ disabilities';
+ (109) section 624(a)(1) (20 U.S.C. 1424(a)(1)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (110) section 624(a)(2) (20 U.S.C. 1424(a)(2)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (111) section 625(a)(1) (20 U.S.C. 1425(a)(1)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (112) section 625(a)(2) (20 U.S.C. 1425(a)(2)) by striking `handicapping'
+ and inserting `disabling';
+ (113) section 625(a)(2)(A) (20 U.S.C. 1425(a)(2)(A)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (114) section 625(a)(2)(B) (20 U.S.C. 1425(a)(2)(B)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (115) section 625(a)(2)(B) (20 U.S.C. 1425(a)(2)(B)) by striking
+ `nonhandicapped' and inserting `nondisabled';
+ (116) section 625(a)(3) (20 U.S.C. 1425(a)(3)) by striking `handicapped
+ persons' and inserting `persons with disabilities';
+ (117) section 625(b) (20 U.S.C. 1425(b)) by striking `handicapped individuals'
+ and inserting `individuals with disabilities';
+ (118) section 625(b) (20 U.S.C. 1425(b)) by striking `visually handicapped'
+ and inserting `visually disabled';
+ (119) the heading to section 626 (20 U.S.C. 1426) by striking `HANDICAPPED
+ CHILDREN AND YOUTH' and inserting `CHILDREN AND YOUTH WITH DISABILITIES';
+ (120) section 626(a)(1) (20 U.S.C. 1426(a)(1)) by striking `handicapped
+ youth' and inserting `youth with disabilities';
+ (121) section 626(a)(3) (20 U.S.C. 1426(a)(3)) by striking `handicapped
+ students' and inserting `students with disabilities';
+ (122) section 626(b) (20 U.S.C. 1426(b)) by striking `handicapped youth'
+ each place such term appears and inserting `youth with disabilities';
+ (123) section 626(b) (20 U.S.C. 1426(b)) by striking `handicapping' each
+ place such term appears and inserting `disabling';
+ (124) section 626(b)(9) (20 U.S.C. 1426(b)(9)) by striking `handicapped
+ students' acquisition of the skills' and inserting `the acquisition of
+ skills by students with disabilities';
+ (125) section 626(d)(2) (20 U.S.C. 1426(d)(2)) by striking `handicapped
+ youth' and inserting `youth with disabilities';
+ (126) section 626(d)(3) (20 U.S.C. 1426(d)(3)) by striking `handicapped
+ students' each place such term appears and inserting `students with
+ disabilities';
+ (127) section 626(e) (20 U.S.C. 1426(e)) by striking `handicapped children
+ and youth' and inserting `children and youth with disabilities';
+ (128) the heading to part D by striking `HANDICAPPED INDIVIDUALS' and
+ inserting `INDIVIDUALS WITH DISABILITIES';
+ (129) section 631(a)(1)(B) (20 U.S.C. 1431(a)(1)(B)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (130) section 631(b) (20 U.S.C. 1431(b)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (131) section 631(c)(1) (20 U.S.C. 1431(c)(1)) by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities';
+ (132) section 631(c)(2)(A) (20 U.S.C. 1431(c)(2)(A)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (133) section 631(c)(2)(A) (20 U.S.C. 1431(c)(2)(A)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (134) section 631(c)(2)(A) (20 U.S.C. 1431(c)(2)(A)) by striking
+ `handicapping' and inserting `disabling';
+ (135) section 631(c)(2)(B) (20 U.S.C. 1431(c)(2)(B)) by striking
+ `handicapping' and inserting `disabling';
+ (136) section 631(c)(4)(B) (20 U.S.C. 1431(c)(4)(B)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (137) section 631(c)(5)(A) (20 U.S.C. 1431(c)(5)(A)) by striking
+ `handicapping' and inserting `disabling';
+ (138) section 631(c)(5)(B) (20 U.S.C. 1431(c)(5)(B)) by striking `handicapped
+ children's educational programs' and inserting `educational programs of
+ children with disabilities';
+ (139) section 631(c)(5)(D) (20 U.S.C. 1431(c)(5)(D)) by striking `handicapped
+ child's individualized educational program' and inserting `the individualized
+ educational program of a child with a disability';
+ (140) section 631(c)(5)(E) (20 U.S.C. 1431(c)(5)(E)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (141) section 631(c)(5)(F) (20 U.S.C. 1431(c)(5)(F)) by striking `handicapped
+ children' and inserting `children with disabilities';
+ (142) section 631(c)(7) (20 U.S.C. 1431(c)(7)) by striking `handicapped
+ children and youth' and inserting `children and youth with disabilities';
+ (143) section 632(c) (20 U.S.C. 1432(c)) by striking `handicapped infants,
+ toddlers, children, and youth' and inserting `infants, toddlers, children,
+ and youth with disabilities';
+ (144) section 633(c) (20 U.S.C. 1433(c)) by striking `handicapped children
+ and youth' and inserting `children and youth with disabilities';
+ (145) the heading to section 643 (20 U.S.C. 1443) by striking `HANDICAPPED
+ CHILDREN' and inserting `CHILDREN WITH DISABILITIES';
+ (146) section 643 (20 U.S.C. 1443) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (147) section 644(a)(1) (20 U.S.C. 1444(a)(1)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (148) section 644(a)(2) (20 U.S.C. 1444(a)(2)) by striking `handicapped
+ individuals' each place such term appears and inserting `individuals with
+ disabilities';
+ (149) the heading to part F by striking `HANDICAPPED INDIVIDUALS' and
+ inserting `INDIVIDUALS WITH DISABILITIES';
+ (150) section 651(a)(2) (20 U.S.C. 1451(a)(2)) by striking `handicapped
+ individuals' each place such term appears and inserting `individuals with
+ disabilities';
+ (151) section 652(a) (20 U.S.C. 1452(a)) by striking `handicapped individuals'
+ each place such term appears and inserting `individuals with disabilities';
+ (152) section 652(b)(5) (20 U.S.C. 1452(b)(5)) by striking `handicapped
+ individuals' each place such term appears and inserting `individuals with
+ disabilities';
+ (153) the heading to part G by striking `HANDICAPPED INDIVIDUALS' and
+ inserting `INDIVIDUALS WITH DISABILITIES';
+ (154) section 661 (20 U.S.C. 1461) by striking `handicapped students'
+ each place such term appears and inserting `students with disabilities';
+ (155) section 661 (20 U.S.C. 1461) by striking `handicapped infants and
+ toddlers' and inserting `infants and toddlers with disabilities';
+ (156) section 661 (20 U.S.C. 1461) by striking `handicapped individuals'
+ each place such term appears and inserting `individuals with disabilities';
+ (157) the heading to part H by striking `HANDICAPPED INFANTS AND TODDLERS'
+ and inserting `INFANTS AND TODDLERS WITH DISABILITIES';
+ (158) section 671(a) (20 U.S.C. 1471(a)) by striking `handicapped infants and
+ toddlers' each place such term appears and inserting `infants and toddlers
+ with disabilities';
+ (159) section 671(a)(3) (20 U.S.C. 1471(a)(3)) by striking `handicapped
+ individuals' and inserting `individuals with disabilities';
+ (160) section 671(b)(1) (20 U.S.C. 1471(b)(1)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (161) section 671(b)(3) (20 U.S.C. 1471(b)(3)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (162) section 672(1) (20 U.S.C. 1472(1)) by striking `handicapped infants
+ and toddlers' and inserting `infants and toddlers with disabilities';
+ (163) section 672(2) (20 U.S.C. 1472(2)) by striking `a handicapped infant's
+ or toddler's developmental needs' and inserting `the developmental needs
+ of an infant or toddler with a disability';
+ (164) section 673 (20 U.S.C. 1473) by striking `handicapped infants and
+ toddlers' and inserting `infants and toddlers with disabilities';
+ (165) section 675(d) (20 U.S.C. 1475(d)) by striking `handicapped children'
+ and inserting `children with disabilities';
+ (166) section 676(a) (20 U.S.C. 1476(a)) by striking `handicapped infants
+ and toddlers' and inserting `infants and toddlers with disabilities';
+ (167) section 676(b)(2) (20 U.S.C. 1476(b)(2)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (168) section 676(b)(3) (20 U.S.C. 1476(b)(3)) by striking `handicapped
+ infant and toddler' and inserting `infant and toddler with a disability';
+ (169) section 676(b)(3) (20 U.S.C. 1476(b)(3)) by striking `handicapped
+ infant or toddler' and inserting `infant or toddler with a disability';
+ (170) section 676(b)(4) (20 U.S.C. 1476(b)(4)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (171) section 676(b)(6) (20 U.S.C. 1476(b)(6)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (172) section 676(b)(9)(D) (20 U.S.C. 1476(b)(9)(D)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (173) section 676(b)(14) (20 U.S.C. 1476(b)(14)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (174) section 677(a) (20 U.S.C. 1477(a)) by striking `handicapped infant
+ or toddler' and inserting `infant or toddler with a disability';
+ (175) section 677(d)(2) (20 U.S.C. 1477(d)(2)) by striking `handicapped
+ infant or toddler' and inserting `infant or toddler with a disability';
+ (176) section 677(d)(7) (20 U.S.C. 1477(d)(7)) by striking `handicapped
+ toddler' and inserting `toddler with a disability';
+ (177) section 678(b)(5) (20 U.S.C. 1478(b)(5)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities';
+ (178) section 679 (20 U.S.C. 1479) by striking `handicapped infants and
+ toddlers' each place such term appears and inserting `infants and toddlers
+ with disabilities';
+ (179) section 680(4) (20 U.S.C. 1480(4)) by striking `handicapped infant
+ or toddler' and inserting `infant or toddler with a disability';
+ (180) section 680(5) (20 U.S.C. 1480(5)) by striking `handicapped infant
+ or toddler' each place such term appears and inserting `infant or toddler
+ with a disability';
+ (181) section 681(b) (20 U.S.C. 1481(b)) by striking `handicapped infants
+ and toddlers' and inserting `infants or toddlers with disabilities';
+ (182) section 682(e)(3) (20 U.S.C. 1482(e)(3)) by striking `handicapped
+ infants and toddlers' and inserting `infants or toddlers with disabilities';
+ (183) section 683(2) (20 U.S.C. 1483(2)) by striking `handicapped children'
+ each place such term appears and inserting `children with disabilities';
+ (184) section 683(2) (20 U.S.C. 1483(2)) by striking `handicapped infants
+ and toddlers' and inserting `infants and toddlers with disabilities'; and
+ (185) section 684(b)(1) (20 U.S.C. 1484(b)(1)) by striking `handicapped
+ infants and toddlers' and inserting `infants and toddlers with disabilities'.
+ (c) TECHNICAL AMENDMENT- Section 612(3) (20 U.S.C. 1412(3)) is amended by
+ inserting `category' after `disability'.
+ (d) HEAD START ACT- Section 640(d) of the Head Start Act (42 U.S.C. 9835(d))
+ is amended by--
+ (1) striking `handicapped children' and inserting `children with
+ disabilities'; and
+ (2) striking `handicapping' and inserting `disabling'.
+ (e) HIGHER EDUCATION ACT OF 1965- Section 465(a)(2) of the Higher Education
+ Act of 1965 (20 U.S.C. 1087ee(a)(2)) is amended by striking `handicapped
+ children' each place such term appears and inserting `children with
+ disabilities'.
+ (f) IMPACT AID- Public Law 81-874 (20 U.S.C. 258) is amended in--
+ (1) section 3(d)(2)(C), by striking `handicapped children' each place such
+ term appears and inserting `children with disabilities'; and
+ (2) section 403(10), by striking `handicapped' and inserting `disabled'.
+ (g) TEMPORARY CHILD CARE FOR HANDICAPPED CHILDREN AND CRISIS NURSERIES
+ ACT OF 1986- Section 205(d)(2) of the Temporary Child Care for Handicapped
+ Children and Crisis Nurseries Act of 1986 (42 U.S.C. 5117c(d)(2)) is amended
+ by striking `handicapped children' and inserting `children with disabilities'.
+TITLE X--GENERAL PROVISION
+SEC. 1001. EFFECTIVE DATE.
+ The amendments made by this Act shall take effect October 1, 1990.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

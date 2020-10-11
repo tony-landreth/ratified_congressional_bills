@@ -1,0 +1,383 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4278 Enrolled Bill (ENR)]
+
+        H.R.4278
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To make improvements in the old-age, survivors, and disability 
+insurance program under title II of the Social Security Act.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Social Security Domestic Employment 
+Reform Act of 1994''.
+SEC. 2. SIMPLIFICATION OF EMPLOYMENT TAXES ON DOMESTIC SERVICES.
+    (a) Threshold Requirement for Social Security Taxes.--
+        (1) Amendments of internal revenue code.--
+            (A) General rule.--Subparagraph (B) of section 3121(a)(7) 
+        of the Internal Revenue Code of 1986 (defining wages) is 
+        amended to read as follows:
+            ``(B) cash remuneration paid by an employer in any calendar 
+        year to an employee for domestic service in a private home of 
+        the employer (including domestic service described in 
+        subsection (g)(5)), if the cash remuneration paid in such year 
+        by the employer to the employee for such service is less than 
+        the applicable dollar threshold (as defined in subsection (x)) 
+        for such year;''.
+            (B) Applicable dollar threshold.--Section 3121 of such Code 
+        is amended by adding at the end thereof the following new 
+        subsection:
+    ``(x) Applicable Dollar Threshold.--For purposes of subsection 
+(a)(7)(B), the term `applicable dollar threshold' means $1,000. In the 
+case of calendar years after 1995, the Commissioner of Social Security 
+shall adjust such $1,000 amount at the same time and in the same manner 
+as under section 215(a)(1)(B)(ii) of the Social Security Act with 
+respect to the amounts referred to in section 215(a)(1)(B)(i) of such 
+Act, except that, for purposes of this paragraph, 1993 shall be 
+substituted for the calendar year referred to in section 
+215(a)(1)(B)(ii)(II) of such Act. If any amount as adjusted under the 
+preceding sentence is not a multiple of $100, such amount shall be 
+rounded to the next lowest multiple of $100.''.
+            (C) Employment of domestic employees under age 18 excluded 
+        from coverage.--Section 3121(b) of such Code (defining 
+        employment) is amended--
+                (i) by striking ``or'' at the end of paragraph (19),
+                (ii) by striking the period at the end of paragraph 
+            (20) and inserting ``; or'', and
+                (iii) by adding at the end the following new paragraph:
+        ``(21) domestic service in a private home of the employer 
+    which--
+            ``(A) is performed in any year by an individual under the 
+        age of 18 during any portion of such year; and
+            ``(B) is not the principal occupation of such employee.''.
+            (D) Conforming amendments.--The second sentence of section 
+        3102(a) of such Code is amended--
+                (i) by striking ``calendar quarter'' each place it 
+            appears and inserting ``calendar year'', and
+                (ii) by striking ``$50'' and inserting ``the applicable 
+            dollar threshold (as defined in section 3121(x)) for such 
+            year''.
+        (2) Amendment of social security act.--
+            (A) General rule.--Subparagraph (B) of section 209(a)(6) of 
+        the Social Security Act (42 U.S.C. 409(a)(6)(B)) is amended to 
+        read as follows:
+        ``(B) Cash remuneration paid by an employer in any calendar 
+    year to an employee for domestic service in a private home of the 
+    employer (including domestic service described in section 
+    210(f)(5)), if the cash remuneration paid in such year by the 
+    employer to the employee for such service is less than the 
+    applicable dollar threshold (as defined in section 3121(x) of the 
+    Internal Revenue Code of 1986) for such year;''.
+            (B) Employment of domestic employees under age 18 excluded 
+        from coverage.--Section 210(a) of such Act (42 U.S.C. 410(a)) 
+        is amended--
+                (i) by striking ``or'' at the end of paragraph (19),
+                (ii) by striking the period at the end of paragraph 
+            (20) and inserting ``; or'', and
+                (iii) by adding at the end the following new paragraph:
+        ``(21) Domestic service in a private home of the employer 
+    which--
+            ``(A) is performed in any year by an individual under the 
+        age of 18 during any portion of such year; and
+            ``(B) is not the principal occupation of such employee.''.
+        (3) Effective dates.--
+            (A) In general.--Except as provided in subparagraph (B), 
+        the amendments made by this subsection shall apply to 
+        remuneration paid after December 31, 1993.
+            (B) Excluded employment.--The amendments made by paragraphs 
+        (1)(C) and (2)(B) shall apply to services performed after 
+        December 31, 1994.
+        (4) No loss of social security coverage for 1994; continuation 
+    of w-2 filing requirement.--Notwithstanding the amendments made by 
+    this subsection, if the wages (as defined in section 3121(a) of the 
+    Internal Revenue Code of 1986) paid during 1994 to an employee for 
+    domestic service in a private home of the employer are less than 
+    $1,000--
+            (A) the employer shall file any return or statement 
+        required under section 6051 of such Code with respect to such 
+        wages (determined without regard to such amendments), and
+            (B) the employee shall be entitled to credit under section 
+        209 of the Social Security Act with respect to any such wages 
+        required to be included on any such return or statement.
+    (b) Coordination of Collection of Domestic Service Employment Taxes 
+With Collection of Income Taxes.--
+        (1) In general.--Chapter 25 of the Internal Revenue Code of 
+    1986 (relating to general provisions relating to employment taxes) 
+    is amended by adding at the end thereof the following new section:
+``SEC. 3510. COORDINATION OF COLLECTION OF DOMESTIC SERVICE EMPLOYMENT 
+TAXES WITH COLLECTION OF INCOME TAXES.
+    ``(a) General Rule.--Except as otherwise provided in this section--
+        ``(1) returns with respect to domestic service employment taxes 
+    shall be made on a calendar year basis,
+        ``(2) any such return for any calendar year shall be filed on 
+    or before the 15th day of the fourth month following the close of 
+    the employer's taxable year which begins in such calendar year, and
+        ``(3) no requirement to make deposits (or to pay installments 
+    under section 6157) shall apply with respect to such taxes.
+    ``(b) Domestic Service Employment Taxes Subject to Estimated Tax 
+Provisions.--
+        ``(1) In general.--Solely for purposes of section 6654, 
+    domestic service employment taxes imposed with respect to any 
+    calendar year shall be treated as a tax imposed by chapter 2 for 
+    the taxable year of the employer which begins in such calendar 
+    year.
+        ``(2) Employers not otherwise required to make estimated 
+    payments.--Paragraph (1) shall not apply to any employer for any 
+    calendar year if--
+            ``(A) no credit for wage withholding is allowed under 
+        section 31 to such employer for the taxable year of the 
+        employer which begins in such calendar year, and
+            ``(B) no addition to tax would (but for this section) be 
+        imposed under section 6654 for such taxable year by reason of 
+        section 6654(e).
+        ``(3) Annualization.--Under regulations prescribed by the 
+    Secretary, appropriate adjustments shall be made in the application 
+    of section 6654(d)(2) in respect of the amount treated as tax under 
+    paragraph (1).
+        ``(4) Transitional rule.--In the case of any taxable year 
+    beginning before January 1, 1998, no addition to tax shall be made 
+    under section 6654 with respect to any underpayment to the extent 
+    such underpayment was created or increased by this section.
+    ``(c) Domestic Service Employment Taxes.--For purposes of this 
+section, the term `domestic service employment taxes' means--
+        ``(1) any taxes imposed by chapter 21 or 23 on remuneration 
+    paid for domestic service in a private home of the employer, and
+        ``(2) any amount withheld from such remuneration pursuant to an 
+    agreement under section 3402(p).
+For purposes of this subsection, the term `domestic service in a 
+private home of the employer' includes domestic service described in 
+section 3121(g)(5).
+    ``(d) Exception Where Employer Liable for Other Employment Taxes.--
+To the extent provided in regulations prescribed by the Secretary, this 
+section shall not apply to any employer for any calendar year if such 
+employer is liable for any tax under this subtitle with respect to 
+remuneration for services other than domestic service in a private home 
+of the employer.
+    ``(e) General Regulatory Authority.--The Secretary shall prescribe 
+such regulations as may be necessary or appropriate to carry out the 
+purposes of this section. Such regulations may treat domestic service 
+employment taxes as taxes imposed by chapter 1 for purposes of 
+coordinating the assessment and collection of such employment taxes 
+with the assessment and collection of domestic employers' income taxes.
+    ``(f) Authority To Enter Into Agreements To Collect State 
+Unemployment Taxes.--
+        ``(1) In general.--The Secretary is hereby authorized to enter 
+    into an agreement with any State to collect, as the agent of such 
+    State, such State's unemployment taxes imposed on remuneration paid 
+    for domestic service in a private home of the employer. Any taxes 
+    to be collected by the Secretary pursuant to such an agreement 
+    shall be treated as domestic service employment taxes for purposes 
+    of this section.
+        ``(2) Transfers to state account.--Any amount collected under 
+    an agreement referred to in paragraph (1) shall be transferred by 
+    the Secretary to the account of the State in the Unemployment Trust 
+    Fund.
+        ``(3) Subtitle f made applicable.--For purposes of subtitle F, 
+    any amount required to be collected under an agreement under 
+    paragraph (1) shall be treated as a tax imposed by chapter 23.
+        ``(4) State.--For purposes of this subsection, the term `State' 
+    has the meaning given such term by section 3306(j)(1).''.
+        (2) Clerical amendment.--The table of sections for chapter 25 
+    of such Code is amended by adding at the end thereof the following:
+
+        ``Sec. 3510. Coordination of collection of domestic service 
+                  employment taxes with collection of income taxes.''.
+
+        (3) Effective date.--The amendments made by this subsection 
+    shall apply to remuneration paid in calendar years beginning after 
+    December 31, 1994.
+        (4) Expanded information to employers.--The Secretary of the 
+    Treasury or the Secretary's delegate shall prepare and make 
+    available information on the Federal tax obligations of employers 
+    with respect to employees performing domestic service in a private 
+    home of the employer. Such information shall also include a 
+    statement that such employers may have obligations with respect to 
+    such employees under State laws relating to unemployment insurance 
+    and workers compensation.
+SEC. 3. ALLOCATIONS TO FEDERAL DISABILITY INSURANCE TRUST FUND.
+    (a) Allocation With Respect to Wages.--Section 201(b)(1) of the 
+Social Security Act (42 U.S.C. 401(b)(1)) is amended by striking ``(O) 
+1.20 per centum'' and all that follows through ``December 31, 1999, and 
+so reported,'' and inserting ``(O) 1.20 per centum of the wages (as so 
+defined) paid after December 31, 1989, and before January 1, 1994, and 
+so reported, (P) 1.88 per centum of the wages (as so defined) paid 
+after December 31, 1993, and before January 1, 1997, and so reported, 
+(Q) 1.70 per centum of the wages (as so defined) paid after December 
+31, 1996, and before January 1, 2000, and so reported, and (R) 1.80 per 
+centum of the wages (as so defined) paid after December 31, 1999, and 
+so reported,''.
+    (b) Allocation With Respect to Self-Employment Income.--Section 
+201(b)(2) of such Act (42 U.S.C. 401(b)(2)) is amended by striking 
+``(O) 1.20 per centum'' and all that follows through ``December 31, 
+1999,'' and inserting ``(O) 1.20 per centum of the amount of self-
+employment income (as so defined) so reported for any taxable year 
+beginning after December 31, 1989, and before January 1, 1994, (P) 1.88 
+per centum of the amount of self-employment income (as so defined) so 
+reported for any taxable year beginning after December 31, 1993, and 
+before January 1, 1997, (Q) 1.70 per centum of the amount of self-
+employment income (as so defined) so reported for any taxable year 
+beginning after December 31, 1996, and before January 1, 2000, and (R) 
+1.80 per centum of the amount of self-employment income (as so defined) 
+so reported for any taxable year beginning after December 31, 1999,''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to wages paid after December 31, 1993, and self-
+employment income for taxable years beginning after such date.
+    (d) Study on Rising Costs of Disability Benefits.--
+        (1) In general.--As soon as practicable after the date of the 
+    enactment of this Act, the Commissioner of Social Security shall 
+    conduct a comprehensive study of the reasons for rising costs 
+    payable from the Federal Disability Insurance Trust Fund.
+        (2) Matters to be included in study.--In conducting the study 
+    under this subsection, the Commissioner of Social Security shall--
+            (A) determine the relative importance of the following 
+        factors in increasing the costs payable from the Trust Fund:
+                (i) increased numbers of applications for benefits;
+                (ii) higher rates of benefit allowances; and
+                (iii) decreased rates of benefit terminations; and
+            (B) identify, to the extent possible, underlying social, 
+        economic, demographic, programmatic, and other trends 
+        responsible for changes in disability benefit applications, 
+        allowances, and terminations.
+        (3) Report.--Not later than October 1, 1995, the Commissioner 
+    of Social Security shall transmit a report to the Committee on Ways 
+    and Means of the House of Representatives and the Committee on 
+    Finance of the Senate setting forth the results of the study 
+    conducted under this subsection, together with any recommendations 
+    for legislative changes which the Commissioner determines 
+    appropriate.
+SEC. 4. NONPAYMENT OF BENEFITS TO INCARCERATED INDIVIDUALS AND 
+INDIVIDUALS CONFINED IN CRIMINAL CASES PURSUANT TO CONVICTION OR BY 
+COURT ORDER BASED ON FINDINGS OF INSANITY.
+    (a) In General.--Section 202(x) of the Social Security Act (42 
+U.S.C. 402(x)) is amended--
+        (1) in the heading, by inserting ``and Certain Other Inmates of 
+    Publicly Funded Institutions'' after ``Prisoners'';
+        (2) by striking ``(x)(1) Notwithstanding'' and all that follows 
+    through the end of paragraph (1) and inserting the following:
+    ``(x)(1)(A) Notwithstanding any other provision of this title, no 
+monthly benefits shall be paid under this section or under section 223 
+to any individual for any month during which such individual--
+        ``(i) is confined in a jail, prison, or other penal institution 
+    or correctional facility pursuant to his conviction of an offense 
+    punishable by imprisonment for more than 1 year (regardless of the 
+    actual sentence imposed), or
+        ``(ii) is confined by court order in an institution at public 
+    expense in connection with--
+            ``(I) a verdict or finding that the individual is guilty 
+        but insane, with respect to an offense punishable by 
+        imprisonment for more than 1 year,
+            ``(II) a verdict or finding that the individual is not 
+        guilty of such an offense by reason of insanity,
+            ``(III) a finding that such individual is incompetent to 
+        stand trial under an allegation of such an offense, or
+            ``(IV) a similar verdict or finding with respect to such an 
+        offense based on similar factors (such as a mental disease, a 
+        mental defect, or mental incompetence).
+    ``(B)(i) For purposes of clause (i) of subparagraph (A), an 
+individual shall not be considered confined in an institution 
+comprising a jail, prison, or other penal institution or correctional 
+facility during any month throughout which such individual is residing 
+outside such institution at no expense (other than the cost of 
+monitoring) to such institution or the penal system or to any agency to 
+which the penal system has transferred jurisdiction over the 
+individual.
+    ``(ii) For purposes of clause (ii) of subparagraph (A), an 
+individual confined in an institution as described in such clause (ii) 
+shall be treated as remaining so confined until--
+        ``(I) he or she is released from the care and supervision of 
+    such institution, and
+        ``(II) such institution ceases to meet the individual's basic 
+    living needs.'';
+    and
+        (3) in paragraph (3), by striking ``any individual'' and all 
+    that follows and inserting ``any individual who is confined as 
+    described in paragraph (1) if the confinement is under the 
+    jurisdiction of such agency and the Commissioner of Social Security 
+    requires such information to carry out the provisions of this 
+    section.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply with respect to benefits for months commencing after 90 days 
+after the date of the enactment of this Act.
+
+SEC. 5. ADDITIONAL DEBT COLLECTION PRACTICES.
+
+    (a) In General.--Section 204 of the Social Security Act (42 U.S.C. 
+404) is amended by adding at the end the following new subsection:
+    ``(f)(1) With respect to any delinquent amount, the Commissioner of 
+Social Security may use the collection practices described in sections 
+3711(f), 3716, and 3718 of title 31, United States Code, as in effect 
+on October 1, 1994.
+    ``(2) For purposes of paragraph (1), the term `delinquent amount' 
+means an amount--
+        ``(A) in excess of the correct amount of payment under this 
+    title;
+        ``(B) paid to a person after such person has attained 18 years 
+    of age; and
+        ``(C) determined by the Commissioner of Social Security, under 
+    regulations, to be otherwise unrecoverable under this section after 
+    such person ceases to be a beneficiary under this title.''.
+    (b) Conforming Amendment.--Section 3701(d) of title 31, United 
+States Code, is amended by inserting ``, except to the extent provided 
+under section 204(f) of such Act (42 U.S.C. 404(f)),'' after ``the 
+Social Security Act (42 U.S.C. 301 et seq.)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to collection activities begun on or after the date of the 
+enactment of this Act and before October 1, 1999.
+SEC. 6. NURSING HOMES REQUIRED TO REPORT ADMISSIONS OF SSI RECIPIENTS.
+    (a) In General.--Section 1631(e)(1) of the Social Security Act (42 
+U.S.C. 1383(e)(1)) is amended by adding at the end the following new 
+subparagraph:
+    ``(C) For purposes of making determinations under section 1611(e), 
+the requirements prescribed by the Commissioner of Social Security 
+pursuant to subparagraph (A) of this paragraph shall require each 
+administrator of a nursing home, extended care facility, or 
+intermediate care facility, within 2 weeks after the admission of any 
+eligible individual or eligible spouse receiving benefits under this 
+title, to transmit to the Commissioner a report of the admission.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to admissions occurring on or after October 1, 1995.
+
+SEC. 7. RULE OF CONSTRUCTION.
+
+    Until March 31, 1995, any reference in this Act (other than section 
+3(d)) or any amendment made by this Act to the Commissioner of Social 
+Security shall be deemed a reference to the Secretary of Health and 
+Human Services.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

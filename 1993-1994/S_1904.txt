@@ -1,0 +1,260 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1904 Enrolled Bill (ENR)]
+
+<DOC>
+
+        S.1904
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend title 38, United States Code, to improve the organization and 
+procedures
+
+
+                   of the Board of Veterans' Appeals.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Board of Veterans' Appeals 
+Administrative Procedures Improvement Act of 1994''.
+
+SEC. 2. NUMBER OF MEMBERS OF BOARD OF VETERANS' APPEALS.
+
+    Section 7101(a) of title 38, United States Code, is amended by 
+striking out ``(not more than 65)''.
+
+SEC. 3. ETHICAL AND LEGAL LIMITATIONS ON CHAIRMAN.
+
+    Section 7101(b)(1) of title 38, United States Code, is amended by 
+inserting after the first sentence the following new sentence: ``The 
+Chairman shall be subject to the same ethical and legal limitations and 
+restrictions concerning involvement in political activities as apply to 
+judges of the United States Court of Veterans Appeals.''.
+
+SEC. 4. ACTING AND TEMPORARY MEMBERS OF BOARD OF VETERANS' APPEALS.
+
+    (a) In General.--Subsection (c) of section 7101 of title 38, United 
+States Code, is amended--
+        (1) by striking out paragraph (1) and inserting in lieu thereof 
+    the following:
+    ``(1)(A) The Chairman may from time to time designate one or more 
+employees of the Department to serve as acting members of the Board. 
+Except as provided in subparagraph (B), any such designation shall be 
+for a period not to exceed 90 days, as determined by the Chairman.
+    ``(B) An individual designated as an acting member of the Board may 
+continue to serve as an acting member of the Board in the making of any 
+determination on a proceeding for which the individual was designated 
+as an acting member of the Board, notwithstanding the termination of 
+the period of designation of the individual as an acting member of the 
+Board under subparagraph (A) or (C).
+    ``(C) An individual may not serve as an acting member of the Board 
+for more than 270 days during any one-year period.
+    ``(D) At no time may the number of acting members exceed 20 percent 
+of the total of the number of Board members and acting Board members 
+combined.'';
+        (2) by striking out paragraph (2);
+        (3) by redesignating paragraph (3) as paragraph (2); and
+        (4) in paragraph (2), as so redesignated, by striking out ``the 
+    number of temporary Board members'' and all that follows through 
+    the period at the end and inserting in lieu thereof ``the number of 
+    acting members of the Board designated under such paragraph (1) 
+    during the year for which the report is made.''.
+    (b) Conforming Amendments.--(1) Subsection (e) of such section is 
+amended by striking out ``a temporary or'' and inserting in lieu 
+thereof ``an''.
+    (2) Subsection (d)(3)(B) of such section is amended by striking 
+``section 7103(d)'' and inserting in lieu thereof ``section 7101(a)''.
+
+SEC. 5. CHAIRMAN'S ANNUAL REPORT ON BOARD ACTIVITIES.
+
+    Section 7101(d)(2) of title 38, United States Code, is amended--
+        (1) by striking out ``and'' at the end of subparagraph (D);
+        (2) by striking out the period at the end of subparagraph (E) 
+    and inserting in lieu thereof ``; and''; and
+        (3) by adding at the end the following new subparagraph:
+        ``(F) the number of employees of the Department designated 
+    under subsection (c)(1) to serve as acting members of the Board 
+    during that year and the number of cases in which each such member 
+    participated during that year.''.
+
+SEC. 6. DECISIONS BY THE BOARD.
+
+    (a) Action By BVA.--Sections 7102 and 7103 of title 38, United 
+States Code, are amended to read as follows:
+
+``Sec. 7102. Assignment of members of Board
+
+    ``(a) A proceeding instituted before the Board may be assigned to 
+an individual member of the Board or to a panel of not less than three 
+members of the Board. A member or panel assigned a proceeding shall 
+make a determination thereon, including any motion filed in connection 
+therewith. The member or panel, as the case may be, shall make a report 
+under section 7104(d) of this title on any such determination, which 
+report shall constitute the final disposition of the proceeding by the 
+member or panel.
+    ``(b) A proceeding may not be assigned to the Chairman as an 
+individual member. The Chairman may participate in a proceeding 
+assigned to a panel or in a reconsideration assigned to a panel of 
+members.
+
+``Sec. 7103. Reconsideration; correction of obvious errors
+
+    ``(a) The decision of the Board determining a matter under section 
+7102 of this title is final unless the Chairman orders reconsideration 
+of the decision in accordance with subsection (b). Such an order may be 
+made on the Chairman's initiative or upon motion of the claimant.
+    ``(b)(1) Upon the order of the Chairman for reconsideration of the 
+decision in a case, the case shall be referred--
+        ``(A) in the case of a matter originally heard by a single 
+    member of the Board, to a panel of not less than three members of 
+    the Board; or
+        ``(B) in the case of a matter originally heard by a panel of 
+    members of the Board, to an enlarged panel of the Board.
+    ``(2) A panel referred to in paragraph (1) may not include the 
+member, or any member of the panel, that made the decision subject to 
+reconsideration.
+    ``(3) A panel reconsidering a case under this subsection shall 
+render its decision after reviewing the entire record before the Board. 
+The decision of the panel shall be made by a majority vote of the 
+members of the panel. The decision of the panel shall constitute the 
+final decision of the Board.
+    ``(c) The Board on its own motion may correct an obvious error in 
+the record, without regard to whether there has been a motion or order 
+for reconsideration.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 71 of such title is amended by striking out the item relating 
+to section 7103 and inserting in lieu thereof the following:
+``7103. Reconsideration; correction of obvious errors.''.
+
+SEC. 7. PROCEDURES RELATING TO APPEALS.
+
+    (a) In General.--(1) Section 7107 of title 38, United States Code, 
+is amended to read as follows:
+
+``Sec. 7107. Appeals: dockets; hearings
+
+    ``(a)(1) Each case received pursuant to application for review on 
+appeal shall be considered and decided in regular order according to 
+its place upon the docket.
+    ``(2) A case referred to in paragraph (1) may, for cause shown, be 
+advanced on motion for earlier consideration and determination. Any 
+such motion shall set forth succinctly the grounds upon which it is 
+based and may not be granted unless the case involves interpretation of 
+law of general application affecting other claims or for other 
+sufficient cause shown.
+    ``(b) The Board shall decide any appeal only after affording the 
+appellant an opportunity for a hearing.
+    ``(c) A hearing docket shall be maintained and formal recorded 
+hearings shall be held by such member or members of the Board as the 
+Chairman may designate. Such member or members designated by the 
+Chairman to conduct the hearing shall, except in the case of a 
+reconsideration of a decision under section 7103 of this title, 
+participate in making the final determination of the claim.
+    ``(d)(1) An appellant may request that a hearing before the Board 
+be held at its principal location or at a facility of the Department 
+located within the area served by a regional office of the Department.
+    ``(2) A hearing to be held within an area served by a regional 
+office of the Department shall (except as provided in paragraph (3)) be 
+scheduled to be held in the order in which requests for hearings within 
+that area are received by the Department.
+    ``(3) In a case in which the Secretary is aware that the appellant 
+is seriously ill or is under severe financial hardship, a hearing may 
+be scheduled at a time earlier than would be provided for under 
+paragraph (2).
+    ``(e)(1) At the request of the Chairman, the Secretary may provide 
+suitable facilities and equipment to the Board or other components of 
+the Department to enable an appellant located at a facility within the 
+area served by a regional office to participate, through voice 
+transmission or through picture and voice transmission, by electronic 
+or other means, in a hearing with a Board member or members sitting at 
+the Board's principal location.
+    ``(2) When such facilities and equipment are available, the 
+Chairman may afford the appellant an opportunity to participate in a 
+hearing before the Board through the use of such facilities and 
+equipment in lieu of a hearing held by personally appearing before a 
+Board member or panel as provided in subsection (d). Any such hearing 
+shall be conducted in the same manner as, and shall be considered the 
+equivalent of, a personal hearing. If the appellant declines to 
+participate in a hearing through the use of such facilities and 
+equipment, the opportunity of the appellant to a hearing as provided in 
+such subsection (d) shall not be affected.''.
+    (2) The item relating to section 7107 in the table of sections at 
+the beginning of chapter 71 of such title is amended to read as 
+follows:
+``7107. Appeals: dockets; hearings.''.
+
+    (b) Conforming Amendments.--(1) Section 7104(a) of such title is 
+amended by striking out the third sentence.
+    (2) Section 7110 of such title is repealed.
+    (3) The table of sections at the beginning of chapter 71 of such 
+title is amended by striking out the item relating to section 7110.
+
+SEC. 8. CROSS-REFERENCE CORRECTION.
+
+    Section 7104(a) of title 38, United States Code, is amended by 
+striking out ``211(a)'' and inserting in lieu thereof ``511(a)''.
+
+SEC. 9. REVISION TO INCOME VERIFICATION REQUIREMENTS.
+
+    (a) Parents DIC.--Section 1315(e) of title 38, United States Code, 
+is amended--
+        (1) in the first sentence--
+            (A) by striking out ``shall'' and inserting in lieu thereof 
+        ``may''; and
+            (B) by striking out ``each year'' and inserting in lieu 
+        thereof ``for a calendar year''; and
+        (2) in the second sentence--
+            (A) by striking out ``file with the Secretary a revised 
+        report'' and inserting in lieu thereof ``notify the 
+        Secretary''; and
+            (B) by striking out ``the estimated''.
+    (b) Pension.--Section 1506 of such title is amended--
+        (1) in paragraph (2)--
+            (A) by striking out ``shall'' and inserting in lieu thereof 
+        ``may''; and
+            (B) by striking out ``each year'' and inserting in lieu 
+        thereof ``for a calendar year''; and
+        (2) in paragraph (3)--
+            (A) by striking out ``file a revised report'' and inserting 
+        in lieu thereof ``notify the Secretary'';
+            (B) by striking out ``estimated'' each place it appears; 
+        and
+            (C) by striking out ``such applicant's or recipient's 
+        estimate of''.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.

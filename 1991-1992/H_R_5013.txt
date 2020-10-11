@@ -1,0 +1,555 @@
+ 
+--H.R.5013--
+H.R.5013
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To promote the conservation of wild exotic birds, to provide for the Great
+Lakes Fish and Wildlife Tissue Bank, to reauthorize the Fish and Wildlife
+Conservation Act of 1980, to reauthorize the African Elephant Conservation
+Act, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+TITLE I--WILD EXOTIC BIRD CONSERVATION
+SEC. 101. SHORT TITLE.
+  This title may be cited as the `Wild Bird Conservation Act of 1992'.
+SEC. 102. FINDINGS.
+  The Congress finds the following:
+  (1) In addition to habitat loss and local use, the international pet trade
+  in wild-caught exotic birds is contributing to the decline of species in the
+  wild, and the mortality associated with the trade remains unacceptably high.
+  (2) The United States, as the world's largest importer of exotic birds and
+  as a Party to the Convention, should play a substantial role in finding
+  effective solutions to these problems, including assisting countries of
+  origin in implementing programs of wild bird conservation, and ensuring
+  that the market in the United States for exotic birds does not operate to
+  the detriment of the survival of species in the wild.
+  (3) Sustainable utilization of exotic birds has the potential to create
+  economic value in them and their habitats, which will contribute to their
+  conservation and promote the maintenance of biological diversity generally.
+  (4) Utilization of exotic birds that is not sustainable should not be
+  allowed.
+  (5) Broad international attention has focused on the serious conservation
+  and welfare problems which currently exist in the trade in wild-caught
+  animals, including exotic birds.
+  (6) Many countries have chosen not to export their wild birds for the
+  pet trade. Their decisions should be respected and their efforts should
+  be supported.
+  (7) Several countries that allow for the export of their wild birds often
+  lack the means to develop or effectively implement scientifically based
+  management plans, and these countries should be assisted in developing
+  and implementing management plans to enable them to ensure that their wild
+  bird trade is conducted humanely and at sustainable levels.
+  (8) The major exotic bird exporting countries are Parties to the Convention.
+  (9) The Convention recognizes that trade in species that are threatened with
+  extinction, or that may become so, should be subject to strict regulation.
+  (10) The necessary population assessments, monitoring programs, and
+  appropriate remedial measures for species listed in Appendix II of the
+  Convention are not always being undertaken in order to maintain species
+  at levels above which they might become eligible for inclusion in Appendix
+  I of the Convention.
+  (11) Resolutions adopted pursuant to the Convention recommend that the
+  Parties to the Convention take appropriate measures regarding trade in
+  species of exotic birds that have significantly high mortality rates in
+  transport, including suspension of trade for commercial purposes between
+  Parties when appropriate.
+  (12) Article XIV provides that the Convention in no way affects the right
+  of any Party to the Convention to adopt stricter domestic measures for the
+  regulation of trade in all species, whether or not listed in an Appendix
+  to the Convention.
+  (13) The United States prohibits the export of all birds native to the
+  United States that are caught in the wild.
+  (14) This title provides a series of nondiscriminatory measures that are
+  necessary for the conservation of exotic birds, and furthers the obligations
+  of the United States under the Convention.
+SEC. 103. STATEMENT OF PURPOSE.
+  The purpose of this title is to promote the conservation of exotic birds by--
+  (1) assisting wild bird conservation and management programs in the
+  countries of origin of wild birds;
+  (2) ensuring that all trade in species of exotic birds involving the United
+  States is biologically sustainable and is not detrimental to the species;
+  (3) limiting or prohibiting imports of exotic birds when necessary to
+  ensure that--
+  (A) wild exotic bird populations are not harmed by removal of exotic birds
+  from the wild for the trade; or
+  (B) exotic birds in trade are not subject to inhumane treatment; and
+  (4) encouraging and supporting effective implementation of the Convention.
+SEC. 104. DEFINITIONS.
+  In this title--
+  (1) The term `Convention' means the Convention on International Trade in
+  Endangered Species of Wild Fauna and Flora, as amended, signed in Washington
+  on March 3, 1973, and the Appendices thereto.
+  (2) The term `exotic bird'--
+  (A) means any live or dead member of the class Aves that is not indigenous
+  to the 50 States or the District of Columbia, including any egg or offspring
+  thereof; and
+  (B) does not include--
+  (i) domestic poultry, dead sport-hunted birds, dead museum specimens,
+  dead scientific specimens, or products manufactured from such birds; or
+  (ii) birds in the following families: Phasianidae, Numididae, Cracidae,
+  Meleagrididae, Megapodiidae, Anatidae, Struthionidae, Rheidae, Dromaiinae,
+  and Gruidae.
+  (3) Each of the terms `import' and `importation' means to land on, bring
+  into, or introduce into, or attempt to land on, bring into, or introduce
+  into, any place subject to the jurisdiction of the United States.
+  (4) The term `person' means an individual, corporation, partnership, trust,
+  association, or any other private entity; or any officer, employee, agent,
+  department, or instrumentality of the Federal Government, of any State,
+  municipality, or political subdivision of a State, or of any foreign
+  government; any State, municipality, or political subdivision of a State;
+  or any other entity subject to the jurisdiction of the United States.
+  (5) The term `qualifying facility' means an exotic bird breeding facility
+  that is included in a list published by the Secretary under section 107.
+  (6) The term `Secretary' means the Secretary of the Interior or a designee
+  of the Secretary of the Interior.
+  (7) The term `species'--
+  (A) means any species, any subspecies, or any distinct population segment
+  of a species or subspecies; and
+  (B) includes hybrids of any species or subspecies.
+  (8) The term `United States' means the 50 States, the District of Columbia,
+  the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam,
+  the Commonwealth of the Northern Mariana Islands, and the Trust Territory
+  of the Pacific Islands.
+SEC. 105. MORATORIA ON IMPORTS OF EXOTIC BIRDS COVERED BY CONVENTION.
+  (a) IMMEDIATE MORATORIUM-
+  (1) ESTABLISHMENT OF MORATORIUM- The importation of any exotic bird of a
+  species identified as a category B species in the report entitled `Report
+  of the Animals Committee', adopted by the 8th meeting of the Conference
+  of the Parties to the Convention, is prohibited.
+  (2) TERMINATION OF MORATORIUM- A species of exotic birds shall be subject
+  to the prohibition on importation established by paragraph (1) until the
+  Secretary, after notice and an opportunity for public comment--
+  (A) determines that appropriate remedial measures have been taken in the
+  countries of origin for that species, so as to eliminate the threat of
+  trade to the conservation of the species; and
+  (B) makes the findings described in section 106(c) for the species and
+  includes the species in the list published under section 106(a).
+  (b) EMERGENCY AUTHORITY TO SUSPEND IMPORTS OF LISTED SPECIES-
+  (1) AUTHORITY TO SUSPEND IMPORTS- The Secretary is authorized to suspend
+  the importation of exotic birds of any species that is listed in any
+  Appendix to the Convention, and if applicable remove the species from the
+  list under section 106(a), if the Secretary determines that--
+  (A)(i) trade in that species is detrimental to the species,
+  (ii) there is not sufficient information available on which to base a
+  judgment that the species is not detrimentally affected by trade in that
+  species, or
+  (iii) remedial measures have been recommended by the Standing Committee
+  of the Convention that have not been implemented; and
+  (B) the suspension might be necessary for the conservation of the species.
+  (2) TERMINATION OF SUSPENSION- A species of exotic birds shall be subject
+  to a suspension of importation under paragraph (1) until the Secretary,
+  after notice and an opportunity for public comment, makes the findings
+  described in section 106(c) and includes the species in the list published
+  under section 106(a).
+  (c) MORATORIUM AFTER ONE YEAR FOR OTHER SPECIES LISTED IN APPENDICES-
+  Effective on the date that is one year after the date of the enactment of
+  this Act, the importation of any exotic bird of a species that is listed
+  in any Appendix to the Convention is prohibited unless the Secretary makes
+  the findings described in section 106(c) and includes the species in the
+  list published under section 106(a).
+  (d) LIMITATION ON NUMBER IMPORTED DURING FIRST YEAR- Notwithstanding any
+  other provision of this Act, the Secretary shall prohibit the importation,
+  during the 1-year period beginning on the date of the enactment of this
+  Act, of exotic birds of each species that is listed under any Appendix to
+  the Convention in excess of the number of that species that were imported
+  during the most recent year for which the Secretary has complete import data.
+SEC. 106. LIST OF APPROVED SPECIES.
+  (a) LISTING-
+  (1) IN GENERAL- One year after the date of enactment of this Act
+  and periodically thereafter, the Secretary shall, after notice and an
+  opportunity for public comment, publish in the Federal Register a list of
+  species of exotic birds that are listed in an Appendix to the Convention
+  and that are not subject to a prohibition or suspension of importation
+  otherwise applicable under section 105 (a), (b), or (c).
+  (2) MANNER OF LISTING- The Secretary shall list a species under paragraph
+  (1) with respect to--
+  (A) the countries of origin from which the species may be imported; and
+  (B) if appropriate, the qualifying facilities in those countries from
+  which the species may be imported.
+  (3) BASES FOR DETERMINATIONS- In making a determination required under
+  this subsection, the Secretary shall--
+  (A) use the best scientific information available; and
+  (B) consider the adequacy of regulatory and enforcement mechanisms in all
+  countries of origin for the species, including such mechanisms for control
+  of illegal trade.
+  (b) CAPTIVE BRED SPECIES- The Secretary shall include a species of exotic
+  birds in the list under subsection (a) if the Secretary determines that--
+  (1) the species is regularly bred in captivity and no wild-caught birds
+  of the species are in trade; or
+  (2) the species is bred in a qualifying facility.
+  (c) NON-CAPTIVE BRED SPECIES- The Secretary shall include in the list under
+  subsection (a) a species of exotic birds that is listed in an Appendix to
+  the Convention if the Secretary finds the Convention is being effectively
+  implemented with respect to that species because of each of the following:
+  (1) Each country of origin for which the species is listed is effectively
+  implementing the Convention, particularly with respect to--
+  (A) the establishment of a scientific authority or other equivalent
+  authority;
+  (B) the requirements of Article IV of the Convention with respect to that
+  species; and
+  (C) remedial measures recommended by the Parties to the Convention with
+  respect to that species.
+  (2) A scientifically-based management plan for the species has been
+  developed which--
+  (A) provides for the conservation of the species and its habitat and
+  includes incentives for conservation;
+  (B) ensures that the use of the species is biologically sustainable and
+  maintained throughout the range of the species in the country to which the
+  plan applies at a level that is consistent with the role of the species
+  in the ecosystem and is well above the level at which the species might
+  become threatened with extinction; and
+  (C) addresses factors relevant to the conservation of the species, including
+  illegal trade, domestic trade, subsistence use, disease, and habitat loss.
+  (3) The management plan is implemented and enforced.
+  (4) The methods of capture, transport, and maintenance of the species
+  minimizes the risk of injury or damage to health, including inhumane
+  treatment.
+SEC. 107. QUALIFYING FACILITIES.
+  (a) DETERMINATION- Upon submission of a petition under section 110 by
+  any person, the Secretary shall determine whether an exotic bird breeding
+  facility is a qualifying facility. Such determination shall be effective
+  for a period specified by the Secretary, which may not exceed 3 years. The
+  Secretary shall, from time to time, publish a list of qualifying facilities
+  in the Federal Register.
+  (b) CRITERIA- The Secretary shall determine under subsection (a) that a
+  facility is a qualifying facility for a species of exotic birds if the
+  Secretary finds each of the following:
+  (1) The facility has demonstrated the capability of producing captive bred
+  birds of the species in the numbers to be imported into the United States
+  from that facility.
+  (2) The facility is operated in a manner that is not detrimental to the
+  survival of the species in the wild.
+  (3) The facility is operated in a humane manner.
+  (4) The appropriate governmental authority of the country in which the
+  facility is located has certified in writing, and the Secretary is satisfied,
+  that the facility has the capability of breeding the species in captivity.
+  (5) The country in which the facility is located is a Party to the
+  Convention.
+  (6) All birds exported from the facility are bred at the facility.
+SEC. 108. MORATORIA FOR SPECIES NOT COVERED BY CONVENTION.
+  (a) IN GENERAL- The Secretary shall--
+  (1) review periodically the trade in species of exotic birds that are not
+  listed in any Appendix to the Convention; and
+  (2) after notice and an opportunity for public comment, establish a
+  moratorium or quota on--
+  (A) importation of any species of exotic birds from one or more countries
+  of origin for the species, if the Secretary determines that--
+  (i) the findings described in section 106(c) (2), (3), and (4) cannot be
+  made with respect to the species; and
+  (ii) the moratorium or quota is necessary for the conservation of the
+  species or is otherwise consistent with the purpose of this title; or
+  (B) the importation of all species of exotic birds from a particular
+  country, if--
+  (i) the country has not developed and implemented a management program
+  for exotic birds in trade generally, that ensures both the conservation
+  and the humane treatment of exotic birds during capture, transport, and
+  maintenance; and
+  (ii) the Secretary finds that the moratorium or quota is necessary for the
+  conservation of the species or is otherwise consistent with the purpose
+  of this title.
+  (b) TERMINATION OF QUOTA OR MORATORIUM- The Secretary shall terminate a
+  quota or moratorium established under subsection (a) if the Secretary finds
+  that the reasons for establishing the quota or moratorium no longer exist.
+SEC. 109. CALL FOR INFORMATION.
+  Within one month after the date of the enactment of this Act, the Secretary
+  shall issue a call for information on the wild bird conservation program
+  of each country that exports exotic birds, by--
+  (1) publishing a notice in the Federal Register requesting submission of
+  such information to the Secretary by all interested persons; and
+  (2) submitting a written request for such information through the Secretary
+  of State to each country that exports exotic birds.
+SEC. 110. PETITIONS.
+  (a) IN GENERAL- Any person may at any time submit to the Secretary a
+  petition in writing requesting that the Secretary exercise authority of
+  the Secretary under this title to--
+  (1) establish, modify, or terminate any prohibition, suspension, or quota
+  under this title on importation of any species of exotic bird;
+  (2) add a species of exotic bird to, or remove such a species from, a list
+  under section 106; or
+  (3) determine under section 107 whether an exotic bird breeding facility
+  is a qualifying facility.
+  (b) CONSIDERATION AND RULING- For each petition submitted to the Secretary
+  in accordance with subsection (a), the Secretary shall--
+  (1) within 90 days after receiving the petition, issue and publish in
+  the Federal Register a preliminary ruling regarding whether the petition
+  presents sufficient information indicating that the action requested in
+  the petition might be warranted; and
+  (2) for each petition determined to present such sufficient information--
+  (A) provide an opportunity for the submission of public comment on the
+  petition; and
+  (B) issue and publish in the Federal Register a final ruling on the petition,
+  by not later than 90 days after the end of the period for public comment.
+SEC. 111. PROHIBITED ACTS.
+  (a) PROHIBITIONS-
+  (1) IN GENERAL- Subject to paragraph (2), it is unlawful for any person to--
+  (A) import any exotic bird in violation of any prohibition, suspension,
+  or quota on importation under section 105 or 108;
+  (B) import an exotic bird of a species that pursuant to section 106(a)(2)(B)
+  is included in a list under section 106, if the bird was not captive bred
+  at a qualifying facility; or
+  (C) violate any regulation promulgated by the Secretary pursuant to
+  authority provided by this title.
+  (2) LIMITATION- Paragraph (1) (A) and (B) does not apply to importations
+  made incident to the transit of exotic birds through the United States to
+  foreign countries if the applicable requirements of the Convention have
+  been satisfied with respect to the trade in those exotic birds.
+  (b) BURDEN OF PROOF FOR EXEMPTIONS- Any person claiming the benefit of any
+  exemption or permit under this title shall have the burden of proving that
+  the exemption or permit is applicable or has been granted, and was valid
+  and in force at the time of the alleged violation.
+SEC. 112. EXEMPTIONS.
+  Notwithstanding any prohibition, suspension, or quota under this title on
+  the importation of a species of exotic bird, the Secretary may, through
+  the issuance of import permits, authorize the importation of a  bird
+  of the species if the Secretary determines that such importation is not
+  detrimental to the survival of the species and the bird is being imported
+  exclusively for any of the following purposes:
+  (1) Scientific research.
+  (2) As a personally owned pet of an individual who is returning to the
+  United States after being continuously out of the country for a minimum
+  of one year, except that an individual may not import more than 2 exotic
+  birds under this paragraph in any year.
+  (3) Zoological breeding or display programs.
+  (4) Cooperative breeding programs that are--
+  (A) designed to promote the conservation of the species and maintain
+  the species in the wild by enhancing the propagation and survival of the
+  species; and
+  (B) developed and administered by, or in conjunction with, an avicultural,
+  conservation, or zoological organization that meets standards developed
+  by the Secretary.
+SEC. 113. PENALTIES AND REGULATIONS.
+  (a) PENALTIES-
+  (1) CIVIL PENALTIES-
+  (A) Any person who knowingly violates, and any person engaged in business
+  as an importer of exotic birds who violates, section 111(a) (1) or (2)
+  or any permit issued under section 112 may be assessed a civil penalty by
+  the Secretary of not more than $25,000 for each violation.
+  (B) Any person who knowingly violates, and any person engaged in business
+  as an importer of exotic birds who violates, section 111(a)(3) may be
+  assessed a civil penalty by the Secretary of not more than $12,000 for
+  each such violation.
+  (C) Any person who otherwise violates section 111(a) or any permit issued
+  under section 112 may be assessed a civil penalty by the Secretary of not
+  more than $500 for each such violation.
+  (D) A civil penalty under this section shall be assessed, and may be
+  collected, in the manner in which a civil penalty under the Act of December
+  28, 1973 (Public Law 93-205), may be assessed and  collected under section
+  111(a) of that Act.
+  (2) CRIMINAL PENALTIES-
+  (A) Any person who knowingly violates, and any person engaged in business
+  as an importer of exotic birds who violates, section 111(a) (1) or (2)
+  or any permit issued under section 112 shall be fined under title 18,
+  United States Code, or imprisoned for not more than 2 years, or both.
+  (B) Any person who knowingly violates section 111(a)(3) shall be fined under
+  title 18, United States Code, imprisoned not more than 6 months, or both.
+  (b) DISTRICT COURT JURISDICTION- The several district courts of the United
+  States, including the courts enumerated in section 460 of title 28, United
+  States Code, shall have jurisdiction over any action arising under this
+  title. For the purposes of this title, American Samoa shall be included
+  in the Judicial District of the District Court of the United States for
+  the District of Hawaii, and the Trust Territory of Palau and the Northern
+  Marianas shall be included in the Judicial District of the District Court
+  of the United States for the District of Guam.
+  (c) OTHER ENFORCEMENT- The importation of an exotic bird is deemed to be
+  transportation of wildlife for purposes of section 3(a) of the Lacey Act
+  Amendments of 1981 (16 U.S.C. 3372(a)).
+  (d) REGULATIONS- The Secretary shall prescribe regulations that are
+  necessary and appropriate to carry out the purposes of this title.
+  (e) SAVINGS PROVISIONS- The authority of the Secretary under this title is
+  in addition to and shall not affect the authority of the Secretary under
+  the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or diminish
+  the authority of the Secretary under the Lacey Act Amendments of 1981
+  (16 U.S.C. 3371 et seq.). Nothing in this title shall be construed as
+  repealing, superseding, or modifying any provision of Federal law.
+SEC. 114. EXOTIC BIRD CONSERVATION ASSISTANCE.
+  (a) ASSISTANCE- The Secretary, subject to the availability of appropriations,
+  shall use amounts in the Exotic Bird Conservation Fund established by
+  subsection (b) to provide financial and technical assistance for projects
+  to conserve exotic birds in their native countries. In selecting projects
+  for assistance, the Secretary shall give particular attention to species
+  that are subject to an import moratorium or quota under this title, in
+  order to assist those countries in the development and implementation of
+  conservation management programs, or law enforcement, or both.
+  (b) FUND-
+  (1) ESTABLISHMENT- There is established in the Treasury a separate account,
+  which shall be known as the  `Exotic Bird Conservation Fund'.
+  (2) CONTENTS- The Fund shall consist of--
+  (A) all amounts received by the United States in the form of penalties,
+  fines, or forfeiture of property collected under this title in excess of
+  the cost of paying rewards under section 113(c);
+  (B) donations received by the Secretary for exotic bird conservation; and
+  (C) such amounts as are appropriated to the Secretary for conserving
+  exotic birds.
+  (c) REVIEW AND REPORT ON OTHER CONSERVATION OPPORTUNITIES- The Secretary, in
+  consultation with appropriate representatives of industry, the conservation
+  community, the Secretariat of the Convention, and other national and
+  international bodies, shall--
+  (1) review opportunities for a voluntary program of labeling exotic birds,
+  certification of exotic bird breeding facilities and retail outlets, and
+  provision of privately organized or funded technical assistance to other
+  nations; and
+  (2) report to the Congress the results of this review within 2 years after
+  the date of enactment of this Act.
+SEC. 115. MARKING AND RECORDKEEPING.
+  (a) IN GENERAL- The Secretary is authorized to promulgate regulations
+  to require marking or recordkeeping that the Secretary determines will
+  contribute significantly to the ability of the Secretary to ensure compliance
+  with the prohibitions of section 111, for--
+  (1) any exotic bird that is imported after the date of enactment of this
+  Act; or
+  (2) any other exotic bird that is--
+  (A) hatched after the date of the enactment of this Act;
+  (B) offered for sale; and
+  (C) of a species--
+  (i) the export of which from any country of origin is prohibited; and
+  (ii) that is subject to a high level of illegal trade.
+  (b) AVOIDING DETERRENCE OF BREEDING- The Secretary shall seek to ensure
+  that regulations promulgated under this section will not have the effect
+  of deterring captive breeding of exotic birds.
+SEC. 116. AUTHORIZATION OF APPROPRIATIONS.
+  There are authorized to be appropriated to the Secretary $5,000,000 for
+  each of the fiscal years 1993, 1994, and 1995 to carry out this title,
+  to remain available until expended.
+SEC. 117. RELATIONSHIP TO STATE LAW.
+  Nothing in this title may be construed as precluding the regulation under
+  State law of the sale, transfer, or possession of exotic birds if such
+  regulation--
+  (1) does not authorize any sale, transfer, or possession of exotic birds
+  that is prohibited under this title; and
+  (2) is consistent with the international obligations of the United States.
+TITLE II--GREAT LAKES FISH AND WILDLIFE TISSUE BANK
+SEC. 201. SHORT TITLE.
+  This title may be cited as `The Great Lakes Fish and Wildlife Tissue
+  Bank Act'.
+SEC. 202. TISSUE BANK.
+  (a) IN GENERAL- The Secretary shall coordinate existing facilities for the
+  storage, preparation, examination, and archiving of tissues from selected
+  Great Lakes fish and wildlife, which shall be known as the `Great Lakes
+  Fish and Wildlife Tissue Bank'.
+  (b) GUIDANCE- The Secretary shall, in consultation with appropriate Federal
+  and State agencies and the Council of Great Lakes Research Managers,
+  issue guidance, after an opportunity for public review and comment, for
+  Great Lakes fish and wildlife tissue collection, preparation, archiving,
+  quality control procedures, and access that will ensure--
+  (1) appropriate uniform methods and standards for those activities to provide
+  confidence in Great Lakes fish and wildlife tissue samples used for research;
+  (2) documentation of procedures used for collecting, preparing, and
+  archiving those samples; and
+  (3) appropriate scientific use of the tissues in the Great Lakes Fish and
+  Wildlife Tissue Bank.
+SEC. 203. DATA BASE.
+  (a) MAINTENANCE- The Secretary shall maintain a central data base which
+  provides an effective means for tracking and assessing relevant reference
+  data on Great Lakes fish and wildlife, including data on tissues collected
+  for and maintained in the Great Lakes Fish and Wildlife Tissue Bank.
+  (b) ACCESS- The Secretary shall establish criteria, after an opportunity
+  for public review and comment, for access to the data base which provides
+  for appropriate use of the information by the public.
+SEC. 204. DEFINITIONS.
+  In this title--
+  (1) `Secretary' means the Secretary of the Interior, acting through the
+  Director of the United States Fish and Wildlife Service.
+  (2) `Great Lakes fish and wildlife' means fauna, fish, and invertebrates
+  dependent on Great Lakes resources, and located within the Great Lakes Basin.
+SEC. 205. AUTHORIZATION OF APPROPRIATIONS.
+  There is authorized to be appropriated to the Secretary, $250,000 for each
+  of fiscal years 1993 and 1994 to carry out this title.
+TITLE III--MISCELLANEOUS
+SEC. 301. REAUTHORIZATION OF FISH AND WILDLIFE CONSERVATION ACT OF 1980.
+  Section 11 of the Fish and Wildlife Conservation Act of 1980 (16 U.S.C. 2910)
+  is amended by striking `fiscal years' and all that follows through the
+  end of the sentence and inserting `fiscal years 1992, 1993, 1994, 1995,
+  1996, and 1997.'.
+SEC. 302. REAUTHORIZATION OF AFRICAN ELEPHANT CONSERVATION ACT.
+  Section 2306 of the African Elephant Conservation Act (16 U.S.C. 4245)
+  is amended by striking `fiscal years' and all that follows through `1993'
+  and inserting `fiscal years 1992, 1993, 1994, 1995, 1996, 1997, and 1998'.
+SEC. 303. TECHNICAL REVISIONS TO MAPS.
+  (a) IN GENERAL- The Secretary of the Interior shall, before the end of
+  the 30-day period beginning on the date of the enactment of this Act,
+  make such technical revisions to the maps described in subsection (b)
+  as are necessary to ensure that--
+  (1) on the maps referred to in subsection (b)(2) (A) and (B), depictions of
+  areas as `otherwise protected areas' do not include any area that is not
+  an otherwise protected area within the meaning of that term under section
+  12 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note);
+  (2) on the map referred to in subsection (b)(2)(C), depictions of areas as
+  `otherwise protected areas' identified as `VA-60P' do not include--
+  (A) any area that is located south of the north bank of the Salt Ponds
+  Inlet in Hampton, Virginia; and
+  (B) the area that is located north of the line described in subsection
+  (c), other than any part of that area which is an otherwise protected area
+  within the meaning of that term under section 12 of the Coastal Barrier
+  Improvement Act of 1990 (16 U.S.C. 3503 note);
+  (3) on the map referred to in subsection (b)(2)(A), the area: consisting
+  of approximately 5,221 acres and owned by the National Audubon Society
+  as of September 28, 1992 (known as the `Audubon Sanctuary'), along with
+  the associated aquatic habitat of Pine Island Bay and Goat Island Bay,
+  shall be designated and depicted as NC-01, a unit of the Coastal Barrier
+  Resources System by the Secretary in accordance with paragraph (5) of this
+  subsection; and
+  (4) on the map referred to in subsection (b)(2)(C) areas designated as
+  `otherwise protected areas' identified as `VA-60P' that are:
+  (A) north of the north bank of Salt Ponds Inlet in Hampton, Virginia; and
+  (B) south of the line described in subsection (c) of this section shall
+  be designated and depicted on the map as VA-60, a unit of the Coastal
+  Barrier Resources System by the Secretary in accordance with paragraph
+  (5) of this subsection.
+In designating the units in accordance with paragraphs (3) and (4) above,
+the Secretary is authorized to make any minor and technical modifications to
+the boundaries of such unit as may be necessary to correct existing clerical
+and typographical errors in the map: Provided, That the local government in
+which is located such unit may recommend any such corrections be considered
+by the Secretary.
+  (b) MAPS DESCRIBED- The maps referred to in subsection (a) are--
+  (1) included in a set of maps entitled `Coastal Barrier Resources System',
+  dated October 24, 1990; and
+  (2) entitled, respectively--
+  (A) `Pine Island Bay Unit, NC-01P',
+  (B) `Roosevelt Natural Area Unit, NC-05P', and
+  (C) `Plum Island Unit VA-59P Long Creek Unit VA-60P'.
+  (c) LINE DESCRIBED- The line referred to in subsection (a)(2)(B) is a line
+  described as follows:
+  Beginning at an iron pipe in the low water line of Chesapeake Bay; said
+  iron pipe being located 265.00 feet in a southerly direction from the south
+  eastern corner of Fox Hill Shores Subdivision (as shown in Plat Book 9,
+  page 161 as recorded in the Circuit Court for the City of Hampton, Virginia)
+  and from this TRUE POINT OF BEGINNING running thence North 66 degrees 47
+  minutes 46 seconds West 995.79 feet to a found iron pipe; thence South
+  15 degrees 47 minutes 20 seconds East 270.65 feet to a found iron pipe;
+  thence South 73 degrees 59 minutes 57 seconds West 836.68 feet to a point
+  marking the low water line of Long Creek; being known as the southerly
+  property line of Riley's Way.
+SEC. 304. NATIONAL FISH AND WILDLIFE FOUNDATION.
+  Beginning in fiscal year 1993 and hereafter, the National Fish and Wildlife
+  Foundation may continue to draw down Federal funds when matching requirements
+  have been met: Provided, That interest earned by the Foundation and its
+  subgrantees on funds drawn down to date, but not immediately disbursed,
+  shall be used to fund all activities as approved by the Board of Directors:
+  Provided further, That the Foundation's subgrantees shall be exempt from
+  the audit reporting and compliance requirements of OMB Circular A-133,
+  for all grants of $100,000 or less. The Foundation shall amend its grant
+  contracts to ensure that its subgrantees are advised and certify that they
+  will comply with all applicable Federal laws and regulations imposed on
+  individuals or organizations receiving Federal funds.
+SEC. 305. WETLANDS MAPPING.
+  Section 401(a) of Public Law 99-645, the Emergency Wetlands Resources Act
+  of 1986 (16 U.S.C. 3931(a)), as amended by Public Law 101-233 is further
+  amended--
+  (1) in paragraph (3), by striking `as soon as practicable' and inserting
+  in lieu thereof `by September 30, 2000';
+  (2) in paragraph (4), by striking `. And' at the end of the paragraph and
+  inserting in lieu thereof a semicolon;
+  (3) in paragraph (5)(B), by striking the period and inserting in lieu
+  thereof a semicolon;
+  (4) by adding the following new paragraphs at the end thereof:
+  `(6) produce, by September 30, 2004, a digital wetlands data base for
+  the United States based on the final wetlands maps produced under this
+  section; and
+  `(7) archive and make available for dissemination wetlands data and maps
+  digitized under this section as such data and maps become available.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

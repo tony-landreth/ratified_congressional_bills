@@ -1,0 +1,319 @@
+ 
+--H.R.3531--
+H.R.3531
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To authorize appropriations for the Patent and Trademark Office in the
+Department
+of Commerce for fiscal year 1992, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Patent and Trademark Office Authorization
+ Act of 1991'.
+SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+ (a) AUTHORIZATION- There are authorized to be appropriated to the Patent
+ and Trademark Office for fiscal year 1992--
+ (1) $95,000,000 for salaries and necessary expenses, which shall be
+ derived from deposits in the Patent and Trademark Office Fee Surcharge Fund
+ established under section 10101 of the Omnibus Budget Reconciliation Act
+ of 1990 (Public Law 101-508);
+ (2) such sums as are equal to the amount collected during that year from
+ fees under title 35, United States Code, and the Trademark Act of 1946
+ (15 U.S.C. 1051 and following); and
+ (3) $24,000,000 for administrative, capital, or other expenditures not
+ provided for under paragraphs (1) and (2).
+ (b) AMENDMENTS TO BUDGET RECONCILIATION ACT- Section 10101 of the Omnibus
+ Budget Reconciliation Act of 1990 (Public Law 101-508) is amended as follows:
+ (1) Subsection (a) is amended--
+ (A) by striking `of 69 percent, rounded by standard arithmetic rules,'; and
+ (B) by inserting before the period `, in order to ensure that the amounts
+ specified in subsection (c) are collected'.
+ (2) Subsection (b)(1)(B) is amended by inserting `of these surcharges,'
+ after `(B)'.
+ (3) Subsection (c) is amended--
+ (A) by striking `REVISIONS' and inserting `ESTABLISHMENT OF SURCHARGES'; and
+ (B) by striking `surcharges' and all that follows through `Trademarks'
+ and inserting `the Commissioner of Patents and Trademarks shall establish
+ surcharges under subsection (a)'.
+ (c) WAIVER OF CERTAIN RESTRICTIONS- Surcharges established for fiscal year
+ 1992 under section 10101(c) of the Omnibus Budget Reconciliation Act of
+ 1990 may take effect on or after 1 day after such surcharges are published
+ in the Federal Register. Section 553 of title 5, United States Code, shall
+ not apply to the establishment of such surcharges for fiscal year 1992.
+SEC. 3. APPROPRIATIONS AUTHORIZED TO BE CARRIED OVER.
+ Amounts appropriated under this Act may remain available until expended.
+SEC. 4. OVERSIGHT OF PATENT AND TRADEMARK FEES.
+ Section 42 of title 35, United States Code, is amended by adding at the
+ end the following:
+ `(e) The Secretary of Commerce shall, on the day each year on which
+ the President submits the annual budget to the Congress, provide to the
+ Committees on the Judiciary of the Senate and the House of Representatives--
+ `(1) a list of patent and trademark fee collections by the Patent and
+ Trademark Office during the preceding fiscal year;
+ `(2) a list of activities of the Patent and Trademark Office during the
+ preceding fiscal year which were supported by patent fee expenditures,
+ trademark fee expenditures, and appropriations;
+ `(3) budget plans for significant programs, projects, and activities of
+ the Office, including out-year funding estimates;
+ `(4) any proposed disposition of surplus fees by the Office; and
+ `(5) such other information as the committees consider necessary.'.
+SEC. 5. PATENT AND TRADEMARK FEES.
+ `(a) FEE SCHEDULES- (1) Section 41(a) of title 35, United States Code,
+ is amended to read as follows:
+ `(a) The Commissioner shall charge the following fees:
+ `(1)(A) On filing each application for an original patent, except in design
+ or plant cases, $500.
+ `(B) In addition, on filing or on presentation at any other time, $52 for
+ each claim in independent form which is in excess of 3, $14 for each claim
+ (whether independent or dependent) which is in excess of 20, and $160 for
+ each application containing a multiple dependent claim.
+ `(2) For issuing each original or reissue patent, except in design or plant
+ cases, $820.
+ `(3) In design and plant cases--
+ `(A) on filing each design application, $200;
+ `(B) on filing each plant application, $330;
+ `(C) on issuing each design patent, $290; and
+ `(D) on issuing each plant patent, $410.
+ `(4)(A) On filing each application for the reissue of a patent, $500.
+ `(B) In addition, on filing or on presentation at any other time, $52
+ for each claim in independent form which is in excess of the number of
+ independent claims of the original patent, and $14 for each claim (whether
+ independent or dependent) which is in excess of 20 and also in excess of
+ the number of claims of the original patent.
+ `(5) On filing each disclaimer, $78.
+ `(6)(A) On filing an appeal from the examiner to the Board of Patent Appeals
+ and Interferences, $190.
+ `(B) In addition, on filing a brief in support of the appeal, $190, and on
+ requesting an oral hearing in the appeal before the Board of Patent Appeals
+ and Interferences, $160.
+ `(7) On filing each petition for the revival of an unintentionally abandoned
+ application for a patent or for the unintentionally delayed payment of
+ the fee for issuing each patent, $820, unless the petition is filed under
+ section 133 or 151 of this title, in which case the fee shall be $78.
+ `(8) For petitions for 1-month extensions of time to take actions required
+ by the Commissioner in an application--
+ `(A) On filing a first petition, $78;
+ `(B) on filing a second petition, $172; and
+ `(C) on filing a third petition or subsequent petition, $340.
+ `(9) Basic national fee for an international application where the Patent
+ and Trademark Office was the International Preliminary Examining Authority
+ and the International Searching Authority, $450.
+ `(10) Basic national fee for an international application where the Patent
+ and Trademark Office was the International Searching Authority but not the
+ International Preliminary Examining Authority, $500.
+ `(11) Basic national fee for an international application where the Patent
+ and Trademark Office was neither the International Searching Authority nor
+ the International Preliminary Examining Authority, $670.
+ `(12) Basic national fee for an international application where the
+ international preliminary examination has been paid to the Patent and
+ Trademark Office, and the international preliminary examination report
+ states that the provisions of Article 33 (2), (3), and (4) of the Patent
+ Cooperation Treaty have been satisfied for all claims in the application
+ entering the national stage, $66.
+ `(13) For filing or later presentation of each independent claim in the
+ national stage of an international application in excess of 3, $52.
+ `(14) For filing or later presentation of each claim (whether independent
+ or dependent) in a national stage of an international application in excess
+ of 20, $14.
+ `(15) For each national stage of an international application containing
+ a multiple dependent claim, $160.
+For the purpose of computing fees, a multiple dependent claim as referred
+to in section 112 of this title or any claim depending therefrom shall be
+considered as separate dependent claims in accordance with the number of
+claims to which reference is made. Errors in payment of the additional fees
+may be rectified in accordance with regulations of the Commissioner.'.
+ (2) Subsection (b) of section 41 of title 35, United States Code, is amended
+ by striking `a patent in force' and all that follows through the end of
+ paragraph 3. and inserting the following: `in force all patents based on
+ applications filed on or after December 12, 1980:
+ `(1) 3 years and 6 months after grant, $650.
+ `(2) 7 years and 6 months after grant, $1,310.
+ `(3) 11 years and 6 months after grant, $1,980.'.
+ (3) Subsection (d) of section 41 of title 35, United States Code, is amended
+ to read as follows:
+ `(d) The Commissioner shall establish fees for all other processing,
+ services, or materials relating to patents not specified in this section
+ to recover the estimated average cost to the Office of such processing,
+ services, or materials, except that the Commissioner shall charge the
+ following fees for the following services:
+ `(1) For recording a document affecting title, $40 per property.
+ `(2) For each photocopy, $.25 per page.
+ `(3) For each black and white copy of a patent, $3.
+The yearly fee for providing a library specified in section 13 of this title
+with uncertified printed copies of the specifications and drawings for all
+patents in that year shall be $50.'.
+ (b) AUTHORITY TO INCREASE FEES- Section 41(f) of title 35, United States Code,
+ is amended by striking `on October 1, 1985, and every third year thereafter,
+ to reflect any fluctuations occurring during the previous three years'
+ and inserting `on October 1, 1992, and every year thereafter, to reflect
+ any fluctuations occurring during the previous 12 months'.
+ (c) NOTICE OF FEES- (1) Section 41(g) of title 35, United States Code,
+ is amended to read as follows:
+ `(g) No fee established by the Commissioner under this section shall take
+ effect until at least 30 days after notice of the fee has been published
+ in the Federal Register and in the Official Gazette of the Patent and
+ Trademark Office.'.
+ (2) Fees established by the Commissioner of Patents and Trademarks under
+ section 41(d) of title 35, United States Code, during fiscal year 1992 may
+ take effect on or after 1 day after such fees are published in the Federal
+ Register. Section 41(g) of title 35, United States Code, and section 553
+ of title 5, United States Code, shall not apply to the establishment of
+ such fees during fiscal year 1992.
+ (d) PATENT AND TRADEMARK COLLECTIONS; PUBLIC ACCESS- (1) Section 41 of
+ title 35, United States Code, is amended by adding at the end the following
+ new subsection:
+ `(i)(1) The Commissioner shall maintain, for use by the public, paper or
+ microform collections of United States patents, foreign patent documents,
+ and United States trademark registrations arranged to permit search for and
+ retrieval of information. The Commissioner may not impose fees directly
+ for the use of such collections, or for the use of the public patent or
+ trademark search rooms or libraries.
+ `(2) The Commissioner shall provide for the full deployment of the automated
+ search systems of the Patent and Trademark Office so that such systems
+ are available for use by the public, and shall assure full access by the
+ public to, and dissemination of, patent and trademark information, using
+ a variety of automated methods, including electronic bulletin boards and
+ remote access by users to mass storage and retrieval systems.
+ `(3) The Commissioner may establish reasonable fees for access by the public
+ to the automated search systems of the Patent and Trademark Office. If
+ such fees are established, a limited amount of free access shall be made
+ available to users of the systems for purposes of education and training. The
+ Commissioner may waive the payment by an individual of fees authorized by
+ this subsection upon a showing of need or hardship, and if such a waiver
+ is in the public interest.
+ `(4) The Commissioner shall submit to the Congress an annual report on the
+ automated search systems of the Patent and Trademark Office and the access by
+ the public to such systems. The Commissioner shall also publish such report
+ in the Federal Register. The Commissioner shall provide an opportunity for
+ the submission of comments by interested persons on each such report.'.
+ (2)(A) The section heading for section 41 of title 35, United States Code,
+ is amended to read as follows:
+`Sec. 41. Patent fees; patent and trademark search systems'.
+ (B) The items in the table of sections at the beginning of chapter 4 of
+ title 35, United States Code, are amended to read as follows:
+`41. Patent fees; patent and trademark search systems.
+42. Patent and Trademark Office funding.'.
+ (C) The chapter heading for chapter 4 of title 35, United States Code,
+ is amended to read as follows:
+`CHAPTER 4--PATENT FEES; FUNDING; SEARCH SYSTEMS'.
+ (D) The items relating to chapters 3 and 4 in the table of chapters for
+ part I of title 35, United States Code, are amended to read as follows:
+31
+41'.
+ (e) USE OF FEES- Subsection 42(c) of title 35, United States Code is amended
+ to read as follows:
+ `(c) Revenues from fees shall be available to the Commissioner to carry out,
+ to the extent provided in appropriation Acts, the activities of the Patent
+ and Trademark Office. Fees available to the Commissioner under section 31 of
+ the Trademark Act of 1946 may be used only for the processing of trademark
+ registrations and for other activities, services, and materials relating to
+ trademarks and to cover a proportionate share of the administrative costs
+ of the Patent and Trademark Office.'.
+ (f) TRADEMARK FEES- (1) Section 31(a) of the Trademark Act of 1946 (15
+ U.S.C. 1113(a)) is amended to read as follows:
+ `(a) The Commissioner shall establish fees for the filing and processing of
+ an application for the registration of a trademark or other mark and for
+ all other services performed by and materials furnished by the Patent and
+ Trademark Office related to trademarks and other marks. Fees established
+ under this subsection may be adjusted by the Commissioner once each year
+ to reflect, in the aggregate, any fluctuations during the preceding 12
+ months in the Consumer Price Index, as determined by the Secretary of
+ Labor. Changes of less than 1 percent may be ignored. No fee established
+ under this section shall take effect until at least 30 days after notice
+ of the fee has been published in the Federal Register and in the Official
+ Gazette of the Patent and Trademark Office.'.
+ (2) Fees established by the Commissioner of Patents and Trademarks under
+ section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) during fiscal
+ year 1992--
+ (A) may, notwithstanding the second sentence of such section 31(a), reflect
+ fluctuations during the preceding 3 years in the Consumer Price Index; and
+ (B) may take effect on or after 1 day after such fees are published in the
+ Federal Register.
+The last sentence of section 31(a) of the Trademark Act of 1946 and section
+553 of title 5, United States Code, shall not apply to the establishment of
+such fees during fiscal year 1992.
+ (g) INTERNATIONAL APPLICATION FEES- (1) Section 376 of title 35, United
+ States Code, is amended--
+ (A) in subsection (a)--
+ (i) in the second sentence by inserting after `Office' the following:
+ `shall charge a national fee as provided in section 41(a), and'; and
+ (ii) by striking paragraph (4) and redesignating paragraphs (5) and (6)
+ as paragraphs (4) and (5), respectively; and
+ (B) in subsection (b) in the last sentence by striking `the preliminary
+ examination fee' and inserting `the national fee, the preliminary examination
+ fee,'.
+ (2) Section 371(c)(1) of title 35, United States Code, is amended by striking
+ `prescribed under section 376(a)(4) of this part' and inserting `provided
+ in section 41(a) of this title'.
+SEC. 6. USE OF EXCHANGE AGREEMENTS RELATING TO AUTOMATIC DATA PROCESSING
+RESOURCES PROHIBITED.
+ The Commissioner of Patents and Trademarks may not, during fiscal year 1992,
+ enter into any agreement for the exchange of items or services (as authorized
+ under section 6(a) of title 35, United States Code) relating to automatic
+ data processing resources (including hardware, software and related services,
+ and machine readable data). The preceding sentence shall not apply to an
+ agreement relating to data for automation programs which is entered into with
+ a foreign government or with an international intergovernmental organization.
+SEC. 7. INDEMNIFICATION OF EMPLOYEES.
+ The Commissioner of Patents and Trademarks is authorized to indemnify any
+ officer or employee of the Patent and Trademark Office who participated
+ in the Law School Tuition Assistance Program of the Patent and Trademark
+ Office, against tax liability incurred as a result of payments made to law
+ schools under that program in tax years 1988, 1989, and 1990.
+SEC. 8. DUTIES OF COMMISSIONER.
+ Section 6(a) of title 35, United States Code, is amended by striking `;
+ and shall have' and inserting `, including programs to recognize, identify,
+ assess and forecast the technology of patented inventions and their utility
+ to industry; and shall have'.
+SEC. 9. REPEAL OF PRIOR AUTHORIZATION ACTS.
+ Subsections (b) and (c) of section 104 of Public Law 100-703 are repealed.
+SEC. 10. GAO REPORTING REQUIREMENT.
+ Section 202(b)(3) of title 35, United States Code, is amended by striking
+ `each year' and inserting `every 5 years'.
+SEC. 11. PATENT INFORMATION DISSEMINATION.
+ (a) DEFINITIONS- For purposes of this section--
+ (1) the term `CD-ROMs' means compact discs formatted with read-only memory,
+ including such discs that make use of advanced optical storage technology;
+ (2) the term `classified patent information' means patent information
+ organized by the subject matter of the claimed invention according to the
+ United States Patent Classification System or the classification system
+ used by the country or authority that issues a patent;
+ (3) the term `Commissioner' means the Assistant Secretary of Commerce and
+ Commissioner of Patents and Trademarks; and
+ (4) the term `patent information' means a complete and exact facsimile of
+ a patent or patent application, including the text and all images contained
+ therein (such as drawings, diagrams, formulas, and tables).
+ (b) INFORMATION DISSEMINATION PROGRAM- No later than January 1, 1992, the
+ Commissioner shall establish a demonstration program which shall make patent
+ information available in accordance with the provisions of this section,
+ through October 1, 1992. The Commissioner shall produce master CD-ROMs
+ containing classified patent information and provide copies of them to the
+ public for purchase.
+ (c) INFORMATION TO BE DISSEMINATED- The patent information that shall
+ be disseminated pursuant to this section shall be patent information in
+ the possession of the Commissioner in computer readable form, including
+ information on selected subclasses of United States patents, as determined
+ by the Commissioner.
+ (d) FEES- The Commissioner shall establish fees for the purchase of CD-ROMs,
+ at a rate sufficient to recover the estimated average marginal cost of
+ producing and processing purchase orders for copies of master CD-ROMs.
+ (e) REPORT- On the date that is 1 year after the date of the enactment
+ of this Act the Commissioner shall submit to Congress a report on the
+ implementation of this section.
+SEC. 12. DEFINITION.
+ For purposes of this Act, the `Trademark Act of 1946' refers to the
+ Act entitled `An Act to provide for the registration and protection
+ of trademarks used in commerce, to carry out the provision of certain
+ international conventions, and for other purposes', approved July 5, 1946
+ (15 U.S.C. 1051 and following).
+SEC. 13. EFFECTIVE DATE.
+ This Act takes effect on the date of the enactment of this Act, except that
+ the fees established by the amendment made by section 5(a) shall take effect
+ on or after 1 day after such fees are published in the Federal Register.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

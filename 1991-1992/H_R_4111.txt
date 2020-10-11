@@ -1,0 +1,1546 @@
+ 
+--H.R.4111--
+H.R.4111
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Small Business Act and related Acts to provide loan assistance
+to small business concerns, to extend certain demonstration programs relating
+to small business participation in Federal procurement, to modify certain
+Small Business Administration programs, to assist small firms to adjust to
+reductions in Defense-related business, to improve the management of certain
+program activities of the Small Business Administration, to provide for the
+undertaking of certain studies, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+ (a) SHORT TITLE- This Act may be cited as the `Small Business Credit and
+ Business Opportunity Enhancement Act of 1992'.
+ (b) TABLE OF CONTENTS- The table of contents for this Act shall be as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--IMPROVED ACCESS TO CREDIT
+Subtitle A--Section 7(a) Guaranteed Loan Program
+Sec. 101. Short title.
+Sec. 102. Authorizations.
+Sec. 103. Buy American preference.
+Sec. 104. State limitations on interest rates.
+Subtitle B--Microloan Demonstration Program Amendments
+Sec. 111. Short title.
+Sec. 112. Findings.
+Sec. 113. Microloan demonstration program amendments.
+Sec. 114. Regulations.
+Sec. 115. Authorization of appropriations.
+TITLE II--AMENDMENTS TO THE SMALL BUSINESS ACT AND RELATED ACTS
+Subtitle A--Small Business Competitiveness Demonstration Program
+Sec. 201. Extension of demonstration programs.
+Sec. 202. Management improvements to the small business competitiveness
+demonstration program.
+Sec. 203. Amendments to the dredging demonstration program.
+Subtitle B--Defense Economic Transition Assistance
+Sec. 211. Section 7(a) loan program.
+Sec. 212. Small business development center program.
+Subtitle C--Small Business Administration Management
+Sec. 221. Disadvantaged small business status decisions.
+Sec. 222. Establishment of size standards.
+Sec. 223. Management of Small Business Development Center Program.
+Sec. 224. National Seminar on Small Business Exports.
+Sec. 225. Co-sponsored training.
+Sec. 226. Viability of secondary markets.
+Subtitle D--Technical Amendments and Repealers
+Sec. 231. Commission on minority business development.
+TITLE III--STUDIES AND RESOLUTIONS
+Subtitle A--Access to Surety Bonding
+Sec. 301. Short title.
+Sec. 302. Survey.
+Sec. 303. Report.
+Sec. 304. Definitions.
+Subtitle B--Small Business Loan Secondary Market Study
+Sec. 311. Secondary market for loans to small businesses.
+Subtitle C--Contract Bundling Study
+Sec. 321. Contract bundling study.
+Subtitle D--Resolution Regarding Small Business Access to Capital
+Sec. 331. Sense of the Congress.
+TITLE IV--SMALL BUSINESS INVESTMENT ACT AMENDMENTS
+Sec. 401. Short title.
+Sec. 402. Leverage (matching funds) formula.
+Sec. 403. Participating securities.
+Sec. 404. Pooling.
+Sec. 405. Authorizations.
+Sec. 406. Safety and soundness.
+Sec. 407. Examinations.
+Sec. 408. Non-financed SBICs.
+Sec. 409. Minimum capital.
+Sec. 410. Definitions.
+Sec. 411. Interest rate ceiling.
+Sec. 412. Preferred partnership interests.
+Sec. 413. Indirect funds from State or local governments.
+Sec. 414. SBIC approvals.
+Sec. 415. Implementation.
+Sec. 416. Buy America.
+Sec. 417. Studies and reports.
+Sec. 418. No effect on securities laws.
+TITLE I--IMPROVED ACCESS TO CREDIT
+Subtitle A--Section 7(a) Guaranteed Loan Program
+SEC. 101. SHORT TITLE.
+ This subtitle may be cited as the `Small Business Credit Crunch Relief Act
+ of 1992'.
+SEC. 102. AUTHORIZATIONS.
+ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended--
+ (1) in subsection (a), by adding at the end the following new paragraph:
+ `(4) Except as may be otherwise specifically provided by law, the amount
+ of deferred participation loans authorized in this section--
+ `(A) shall mean the net amount of the loan principal guaranteed by the
+ Small Business Administration (and does not include any amount which is
+ not guaranteed); and
+ `(B) shall be available for a national program, except that the Administration
+ may use not more than an amount equal to 10 percent of the amount authorized
+ each year for any special or pilot program directed to identified sectors
+ of the small business community or to specific geographic regions of the
+ United States.';
+ (2) by amending subsection (e)(2) to read as follows:
+ `(2) For the programs authorized by this Act, the Admin-istration is
+ authorized to make $5,978,000,000 in deferred participation loans and other
+ financing. Of such sum, the Administration is authorized to make--
+ `(A) $5,200,000,000 in general business loans, as provided in section 7(a);
+ `(B) $53,000,000 in loans, as provided in section 7(a)(12)(B); and
+ `(C) $725,000,000 in financings, as provided in section 7(a)(13) and section
+ 504 of the Small Business Investment Act of 1958.';
+ (3) amending subsection (g)(2) to read as follows:
+ `(2) For the programs authorized by this Act, the Administration is
+ authorized to make $7,030,000,000 in deferred participation loans and other
+ financings. Of such sum, the Administration is authorized to make--
+ `(A) $6,200,000,000 in general business loans as provided in section 7(a);
+ `(B) $55,000,000 in loans, as provided in section 7(a)(12)(B); and
+ `(C) $775,000,000 in financings, as provided in section 7(a)(13) and section
+ 504 of the Small Business Investment Act of 1958.'; and
+ (4) by amending subsection (i)(2) to read as follows:
+ `(2) For the programs authorized by this Act, the Admin-istration is
+ authorized to make $8,083,000,000 in deferred participation loans and other
+ financings. Of such sum, the Administration is authorized to make--
+ `(A) $7,200,000,000 in general business loans, as provided in section 7(a);
+ `(B) $58,000,000 in loans, as provided in section 7(a)(12)(B); and
+ `(C) $825,000,000 in financings, as provided in section 7(a)(13) and section
+ 504 of the Small Business Investment Act of 1958.'.
+SEC. 103. BUY AMERICAN PREFERENCE.
+ In providing financial assistance with amounts appropriated pursuant to
+ the amendments made by this Act, the Administrator of the Small Business
+ Administration shall, when practicable, accord preference to small business
+ concerns which use or purchase equipment and supplies produced in the United
+ States. The Administrator shall also encourage small business concerns
+ receiving such assistance to purchase such equipment and supplies.
+SEC. 104. STATE LIMITATIONS ON INTEREST RATES.
+ Section 7(a)(4) of the Small Business Act (15 U.S.C. 636(a)(4)) is amended by
+ striking `The rate of interest on financings made on a deferred basis shall
+ be legal and reasonable but' and inserting the following: `Notwithstanding
+ the provisions of the constitution of any State or the laws of any State
+ limiting the rate or amount of interest which may be charged, taken,
+ received, or reserved, the maximum legal rate of interest on any financing
+ made on a deferred basis pursuant to this subsection'.
+Subtitle B--Microloan Demonstration Program Amendments
+SEC. 111. SHORT TITLE.
+ This subtitle may be cited as the `Microlending Expansion Act of 1992'.
+SEC. 112. FINDINGS.
+ The Congress finds that--
+ (1) nationwide, there are many individuals who possess skills that, with
+ certain short-term assistance, could enable them to become successfully
+ self-employed;
+ (2) many talented and skilled individuals who are employed in low-wage
+ occupations could, with sufficient opportunity, start their own small business
+ concerns, which could provide them with an improved standard of living;
+ (3) most such individuals have little or no savings, a nonexistent or poor
+ credit history, and no access to credit or capital with which to start a
+ business venture;
+ (4) women, minorities, and individuals residing in areas of high unemployment
+ and high levels of poverty have particular difficulty obtaining access to
+ credit or capital;
+ (5) providing such individuals with small-scale, short-term financial
+ assistance in the form of microloans, together with intensive marketing,
+ management, and technical assistance, could enable them to start or maintain
+ small businesses, to become self-sufficient, and to raise their standard
+ of living;
+ (6) banking institutions are reluctant to provide such assistance because
+ of the administrative costs associated with processing and servicing the
+ loans and because they lack experience in providing the type of marketing,
+ management, and technical assistance needed by such borrowers;
+ (7) many organizations that have had successful experiences in providing
+ microloans and marketing, management, and technical assistance to such
+ borrowers exist throughout the Nation; and
+ (8) loans from the Federal Government to intermediaries for the purpose
+ of relending to start-up, newly established and growing small business
+ concerns are an important catalyst to attract private sector participation
+ in microlending.
+SEC. 113. MICROLOAN DEMONSTRATION PROGRAM AMENDMENTS.
+ (a) IN GENERAL- Section 7(m) of the Small Business Act (15 U.S.C. 636(m))
+ is amended--
+ (1) in paragraph (1)(A)--
+ (A) by amending clause (i) to read as follows:
+ `(i) to assist women, low-income, and minority entrepreneurs and business
+ owners and other such individuals possessing the capability to operate
+ successful business concerns; and
+ (B) in clause (iii)(I), by inserting `, particularly loans in amounts
+ averaging not more than $7,500,' after `small-scale loans';
+ (2) in paragraph (3)(A)--
+ (A) by striking `As part of' and inserting the following:
+ `(i) IN GENERAL- As part of';
+ (B) by redesignating clauses (i) through (viii) as subclauses (I) through
+ (VIII), respectively;
+ (C) in subclause (III), as redesignated, by striking `economic and
+ unemployment' and inserting `economic, poverty, and unemployment';
+ (D) by amending subclause (VIII), as redesignated, to read as follows:
+ `(VIII) any plan to involve other technical assistance providers (such as
+ counselors from the Service Corps of Retired Executives or small business
+ development centers) or private sector lenders in assisting selected business
+ concerns.'; and
+ (E) by adding at the end the following:
+ `(ii) SELECTION OF INTERMEDIARIES- In selecting intermediaries to participate
+ in the program established under this subsection, the Administration shall
+ give priority to those applicants that provide loans in amounts averaging
+ not more than $7,500.';
+ (3) by amending paragraph (3)(F) to read as follows:
+ `(F) LOAN DURATION; INTEREST RATES-
+ `(i) LOAN DURATION- Loans made by the Administration under this subsection
+ shall be for a term of 10 years.
+ `(ii) APPLICABLE INTEREST RATES- Except as provided in clause (iii), loans
+ made by the Administration under this subsection to an intermediary shall bear
+ an interest rate equal to 1.25 percentage points below the rate determined
+ by the Secretary of the Treasury for obligations of the United States with
+ a period of maturity of 5 years, adjusted to the nearest one-eighth of
+ 1 percent.
+ `(iii) RATES APPLICABLE TO CERTAIN SMALL LOANS- Loans made by the
+ Administration to an intermediary that makes loans to small business concerns
+ and entrepreneurs averaging not more than $7,500, shall bear an interest rate
+ that is 2 percentage points below the rate determined by the Secretary of
+ the Treasury for obligations of the United States with a period of maturity
+ of 5 years, adjusted to the nearest one-eighth of 1 percent.
+ `(iv) RATES APPLICABLE TO MULTIPLE SITES OR OFFICES- The interest rate
+ prescribed in clause (ii) or (iii) shall apply to each separate loan-making
+ site or office of 1 intermediary only if such site or office meets the
+ requirements of that clause.
+ `(v) RATE BASIS- The applicable rate of interest under this paragraph shall--
+ `(I) be applied retroactively for the first year of an intermediary's
+ participation in the program, based upon the actual lending practices of
+ the intermediary as determined by the Administration prior to the end of
+ such year; and
+ `(II) be based in the second and subsequent years of an intermediary's
+ participation in the program, upon the actual lending practices of the
+ intermediary during the term of the intermediary's participation in the
+ program.
+ `(vii) COVERED INTERMEDIARIES- The interest rates prescribed in this
+ subparagraph shall apply to all loans made to intermediaries under this
+ subsection on or after October 28, 1991.';
+ (4) in paragraph (4)--
+ (A) in subparagraph (A), by striking `Subject to' and inserting `Except as
+ otherwise provided in subparagraph (C) and subject to'; and
+ (B) by striking subparagraph (A) and inserting in lieu thereof:
+ `(A) GRANT AMOUNTS- Except as otherwise provided in subparagraph (C) and
+ subject to subparagraph (B), each intermediary that receives a loan under
+ subparagraph (B)(i) of paragraph (1) shall be eligible to receive a grant to
+ provide marketing, management, and technical assistance to small business
+ concerns that are borrowers under this subsection. Except as provided in
+ subparagraph (C), each intermediary meeting the requirements of subparagraph
+ (B) may receive a grant of not more than 25 percent of the total outstanding
+ balance of loans made to it under this subsection.';
+ (C) in subparagraph (B), by striking `an amount equal to one-half of the
+ amount of the grant' and inserting in lieu thereof `an amount equal to 25
+ percent of the amount of the grant';
+ (D) by adding at the end the following:
+ `(C) Additional technical assistance grants for making certain loans-
+ `(i) IN GENERAL- Each intermediary that has a portfolio of loans made under
+ this subsection that averages not more than $7,500 during the period of the
+ intermediary's participation in the program shall be eligible to receive a
+ grant equal to 5 percent of the total outstanding balance of loans made to
+ the intermediary under this subsection, in addition to grants made under
+ subparagraph (A).
+ `(ii) PURPOSES- A grant awarded under clause (i) may be used to provide
+ marketing, management, and technical assistance to small business concerns
+ that are borrowers under this subsection.
+ `(iii) CONTRIBUTION EXCEPTION- The contribution requirements in subparagraph
+ (B) do not apply to grants made under this subparagraph.
+ `(D) ELIGIBILITY FOR MULTIPLE SITES OR OFFICES- The eligibility for a grant
+ described in subparagraph (A) or (C) shall be determined separately for
+ each loan-making site or office of 1 intermediary.';
+ (5) in paragraph (5)(A), by striking `2 grants' and inserting `6 grants';
+ (6) in paragraph (6), by amending subparagraph (C) to read as follows:
+ `(C) INTEREST LIMIT- Notwithstanding any provision of the laws of any
+ State or the constitution of any State pertaining to the rate or amount
+ of interest that may be charged, taken, received, or reserved on a loan,
+ the maximum rate of interest to be charged on a microloan funded under this
+ subsection shall not exceed the rate of interest applicable to a loan made
+ to an intermediary by the Administration--
+ `(i) in the case of a loan of more than $7,500 made by the intermediary
+ to a small business concern or entrepreneur by more than 7.75 percentage
+ points; and
+ `(ii) in the case of a loan of not more than $7,500 made by the intermediary
+ to a small business concern or entrepreneur by more than 8.5 percentage
+ points.';
+ (7) in paragraph (7)--
+ (A) in subparagraph (A), by striking `35 microloan programs' and inserting
+ `60 microloan programs';
+ (B) in subparagraph (B), by striking `25 additional' and inserting `50
+ additional';
+ (C) by amending subparagraph (C)(i) to read as follows:
+ `(i) be awarded more than 4 microloan programs in the first 2 years of
+ the demonstration program nor more than 2 microloan programs in any year
+ thereafter;';
+ (D) in subparagraph (C)(ii), by striking `$1,000,000' and inserting
+ `$1,500,000'; and
+ (E) in subparagraph (C)(iii), by striking `$1,500,000' and inserting
+ `$2,500,000';
+ (8) by redesignating paragraphs (9) and (10) as paragraphs (10) and (11),
+ respectively;
+ (9) by inserting after paragraph (8) the following:
+ `(9) TECHNICAL ASSISTANCE FOR INTERMEDIARIES-
+ `(A) IN GENERAL- The Administration may procure technical assistance for
+ intermediaries participating in the Microloan Demonstration Program to ensure
+ that such intermediaries have the knowledge, skills, and understanding of
+ microlending practices necessary to operate successful microloan programs.
+ `(B) ASSISTANCE AMOUNT- The Administration shall transfer 3 percent of its
+ annual appropriation for loans under this subsection to the Administration's
+ Salaries and Expense Account for the specific purpose of providing 1 or
+ more technical assistance grants to experienced microlending organizations
+ to achieve the purpose set forth in subparagraph (A).'; and
+ (10) in paragraph (11), as redesignated--
+ (A) by amending subparagraph (A) to read as follows:
+ `(A) the term `intermediary' means--
+ `(i) a private, nonprofit entity;
+ `(ii) a nonprofit community development corporation;
+ `(iii) a consortium of private, nonprofit organizations or nonprofit
+ community development corporations; or
+ `(iv) a quasi-governmental economic development entity (such as a planning
+ and development district), other than a State, county, municipal government,
+ or any agency thereof, if--
+ `(I) no application is received from an eligible nonprofit organization; or
+ `(II) the Administration determines that the needs of a region or geographic
+ area are not adequately served by an existing, eligible nonprofit organization
+ that has submitted an application,
+that seeks to borrow or has borrowed funds from the Administration to make
+microloans to small business concerns under this subsection;'.
+ (b) EFFECTIVE DATES- The amendments made by paragraphs (4) and (5) of
+ subsection (a) shall become effective on October 1, 1992.
+SEC. 114. REGULATIONS.
+ Not later than 45 days after the date of enactment of this Act, the Small
+ Business Administration shall promulgate interim final regulations to
+ implement the amendments made by this subtitle.
+SEC. 115. AUTHORIZATION OF APPROPRIATIONS.
+ (a) AUTHORIZATION OF APPROPRIATIONS- Section 20 of the Small Business Act (15
+ U.S.C. 631 note) is amended by adding at the end the following new subsection:
+ `(k) AUTHORIZATION OF APPROPRIATIONS- To carry out the program established
+ under section 7(m), there are authorized to be appropriated to the Small
+ Business Administration--
+ `(1) for fiscal year 1992--
+ `(A) $45,000,000, to be used for the provision of loans; and
+ `(B) $10,000,000, to be used for the provision of grants;
+ `(2) for fiscal year 1993--
+ `(A) $80,000,000, to be used for the provision of loans; and
+ `(B) $25,000,000, to be used for the provision of grants; and
+ `(3) for fiscal year 1994--
+ `(A) $60,000,000, to be used for the provision of loans; and
+ `(B) $35,000,000, to be used for the provision of grants.'.
+ (b) REPEAL OF EXISTING PROVISION- Section 609 of Public Law 102-140 (105
+ Stat. 831) is amended by striking subsection (l).
+TITLE II--AMENDMENTS TO THE SMALL BUSINESS ACT AND RELATED ACTS
+Subtitle A--Small Business Competitiveness Demonstration Program
+SEC. 201. EXTENSION OF DEMONSTRATION PROGRAMS.
+ (a) SMALL BUSINESS COMPETITIVENESS DEMONSTRATION PROGRAM- Section 711(c)
+ of the Small Business Competitiveness Demonstration Program Act of 1988
+ (15 U.S.C. 644 note, 102 Stat. 3889) is amended to read as follows:
+ `(c) PROGRAM TERM- The Program shall commence on January 1, 1989, and
+ terminate on September 30, 1996.'.
+ (b) ALTERNATIVE PROGRAM FOR CLOTHING AND TEXTILES- Section 721(c) of
+ the Small Business Competitiveness Demonstration Program Act of 1988 (15
+ U.S.C. 644 note, 102 Stat. 3895) is amended by striking `September 30,
+ 1992' and inserting `September 30, 1996'.
+ (c) EXPANDING SMALL BUSINESS PARTICIPATION IN DREDGING- Section 722(a)
+ of the Small Business Competitiveness Demonstration Program Act of 1988
+ (15 U.S.C. 644 note) is amended--
+ (1) by striking `During fiscal years 1989, 1990, 1991, and 1992, the'
+ and inserting `The'; and
+ (2) by inserting before the period at the end `, commencing on October 1,
+ 1989 and terminating on September 30, 1996'.
+SEC. 202. MANAGEMENT IMPROVEMENTS TO THE SMALL BUSINESS COMPETITIVENESS
+DEMONSTRATION PROGRAM.
+ (a) IMPLEMENTATION ON A FISCAL YEAR BASIS- Section 712(d) of the Small
+ Business Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644
+ note, 102  Stat. 3890)  is amended--
+ (1) in paragraph (1), by striking `4 quarters' in the third sentence and
+ inserting `4 fiscal year quarters'; and
+ (2) in paragraph (3), by inserting `fiscal year' before `quarter'.
+ (b) TARGETED APPLICATION OF REMEDIAL MEASURES- Section 713(b) of the Small
+ Business Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644
+ note, 102 Stat. 3892) is amended--
+ (1) in the first sentence, by striking `to the extent necessary for such
+ agency to attain its goal' and inserting `only at those buying activities
+ of the participating agency that failed to attain the small business
+ participation goal required by section 712(a)';
+ (2) by striking the third sentence; and
+ (3) by inserting after the first sentence, the following new sentence: `Upon
+ determining that its contract awards to small business concerns again meet
+ the goals required by section 712(a), a participating agency shall promptly
+ resume the use of unrestricted solicitations pursuant to subsection (a).'.
+ (c) RELATIONSHIP TO RELATED LAW- Section 713 of the Small Business
+ Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644 note, 102
+ Stat. 3892), as amended by subsection (b), is further amended by adding at
+ the end the following new subsection:
+ `(d) RELATIONSHIP TO OTHER APPLICABLE LAW- Solicitations for the award of
+ contracts for architectural and engineering services (including surveying
+ and mapping) issued by a Military Department or a Defense agency shall
+ comply with the requirements of subsections (a) and (b) of section 2855 of
+ title 10, United States Code.'.
+ (d) SUBCONTRACTING ACTIVITY- Section 714 of the Small Business Competitiveness
+ Demonstration Program Act of 1988 (15 U.S.C. 644 note, 102 Stat. 3892)
+ is amended--
+ (1) by redesignating subsection (b) as subsection (c); and
+ (2) by inserting after subsection (a) the following new subsection:
+ `(b) SUBCONTRACTING ACTIVITY-
+ `(1) SIMPLIFIED DATA COLLECTION SYSTEM- The Administrator for Federal
+ Procurement Policy shall develop and implement a simplified system to
+ collect data on the participation of small business concerns (including
+ small business concerns owned and controlled by socially and economically
+ disadvantaged individuals) as other than prime contractors.
+ `(2) PARTICIPATING INDUSTRIES- The system established under paragraph (1)
+ shall be used to collect data regarding contracts for architectural and
+ engineering services (including surveying and mapping).  The Administrator
+ for Federal Procurement Policy may expand such system to collect data
+ regarding such other designated industry groups as deemed appropriate.
+ `(3) PARTICIPATING AGENCIES- As part of the system established under paragraph
+ (1) data shall be collected from--
+ `(A) the Environmental Protection Agency;
+ `(B) the National Aeronautics and Space Administration;
+ `(C) the United States Army Corps of Engineers (Civil Works); and
+ `(D) the Department of Energy.
+The Administrator for Federal Procurement Policy may require the participation
+of additional departments or agencies from the list of participating agencies
+designated in section 718.
+ `(4) DETERMINING SMALL BUSINESS PARTICIPATION RATES- The value of other than
+ prime contract awards to small business concerns furnishing architectural and
+ engineering services (including surveying and mapping) (or other services
+ provided by small business concerns in other designated industry groups
+ as may be designated for participation by the Administrator for Federal
+ Procurement) shall be counted towards determining whether the small business
+ participation goal required by section 712(a) has been attained.
+ `(5) DURATION- The system described in subsection (a) shall be established
+ not later than October 1, 1992 (or as soon as practicable thereafter on the
+ first day of a subsequent quarter of fiscal year 1993), and shall terminate
+ on September 30, 1996.'.
+ (e) STATUS OF SMALL BUSINESS CONCERNS- Section 714(c) of the Small Business
+ Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644 note,
+ 102 Stat. 3892) (as redesignated by subsection (d)) is amended--
+ (1) in the subsection heading, by inserting `AND STATUS' after `SIZE';
+ (2) by inserting `and the status of the small business concern (as a
+ small business concern owned and controlled by socially and economically
+ disadvantaged individuals)' after `size of the small business concern'.
+ (f) REPORTS TO CONGRESS- Section 716 of the Small Business Competitiveness
+ Demonstration Program Act of 1988 (15 U.S.C. 644 note, 102 Stat. 3893)
+ is amended--
+ (1) in the section heading, by striking `report' and inserting `reports';
+ (2) in the first sentence of subsection (a), by striking `fiscal year 1991
+ data is' and inserting `data for fiscal year 1991 and 1995 are'; and
+ (3) in subsection (c), by striking `report' and inserting `report to be
+ submitted during calendar year 1996'.
+ (g) IMPROVING ACCURACY OF DATA PERTAINING TO A-E SERVICES- Section 717(d)
+ of the Small Business Competitiveness Demonstration Program Act of 1988
+ (15 U.S.C. 644 note, 102 Stat. 3894) is amended by inserting before the
+ period at the end the following: `, and such contract was awarded under the
+ qualification-based selection procedures required by title IX of the Federal
+ Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)'.
+ (h) PROCUREMENT PROCEDURES- Restricted competitions pursuant to section
+ 713(b) of the Small Business Competitiveness Demonstration Program Act
+ of 1988 (15 U.S.C. 644 note, 102 Stat. 3892) shall not be imposed with
+ respect to the designated industry group of architectural and engineering
+ services if the rate of small business participation exceeds 35 percent,
+ until the improvements to the collection of data regarding prime contract
+ awards (as required by subsection (g)) and the system for collecting data
+ regarding other than prime contract awards (as required by subsection
+ (d)) have been implemented, as determined by the Administrator for Federal
+ Procurement Policy.
+ (i) TEST PLAN AND POLICY DIRECTION- The Administrator for Federal Procurement
+ Policy shall issue appropriate modifications to the test plan and policy
+ direction issued pursuant to section 715 of the Small Business Competitiveness
+ Demonstration Program Act of 1988, to conform to the amendments made by
+ this section and section 201(a).
+SEC. 203. AMENDMENTS TO THE DREDGING DEMONSTRATION PROGRAM.
+ (a) MODIFICATION OF THE SMALL BUSINESS PARTICIPATION GOALS- The first
+ sentence of section 722(b) of the Small Business Competitiveness Demonstration
+ Program Act of 1988 (15 U.S.C. 644 note, 102 Stat. 3895) is amended--
+ (1) by striking `and' at the end of paragraph (3);
+ (2) by striking the period at the end of paragraph (4) and inserting `;
+ and'; and
+ (3) by adding at the end the following new paragraph:
+ `(5) not less than 20 percent during fiscal year 1993, and each subsequent
+ year during the term of the program, including not less than 5 percent of
+ the dollar value of suitable contracts that shall be reserved for emerging
+ small business concerns.'.
+ (b) EXCLUSION OF CERTAIN CONTRACTS- Section 722(b) of the Small Business
+ Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644 note,
+ 102 Stat. 3896) is further amended--
+ (1) by striking `total dollar value of contracts' and inserting `aggregate
+ value of all suitable contracts'; and
+ (2) by striking the last sentence and inserting the following: `The
+ total value of contracts to be performed exclusively through the use
+ of so-called dustpan dredges or seagoing hopper dredges is deemed to be
+ generally unsuitable for performance by small business concerns and is to
+ be excluded in calculating whether the rates of small business participation
+ specified in subsection (b) have been attained.'.
+ (c) QUALIFIED SMALL BUSINESS COMPETITORS- Section 722(c) of the Small
+ Business Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644
+ note, 102 Stat. 3896) is amended--
+ (1) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4),
+ respectively; and
+ (2) by inserting after paragraph (1) the following new paragraph:
+ `(2) Prior to making a determination to restrict a solicitation for the
+ performance of a dredging contract for exclusive competition among 2 or
+ more eligible small business concerns in accordance with section 19.5 of
+ the Governmentwide Federal Procurement Regulation (48 C.F.R. 19.5, or any
+ successor thereto), the contracting officer shall make a determination that
+ each anticipated offeror is a responsible source (as defined under section
+ 4(7) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(7)) and
+ has (or can demonstrate the capability to obtain) the specialized dredging
+ equipment deemed necessary to perform the work to be required in accordance
+ with the schedule to be specified in the solicitation.'.
+ (d) CONTRACT AWARD PROCEDURES- Section 722(c) of the Small Business
+ Competitiveness Demonstration Program Act of 1988 (15 U.S.C. 644 note,
+ 102 Stat. 3896) is further amended--
+ (1) in the first sentence of paragraph (1), by striking `in paragraphs (2)
+ and (3)' and inserting `in paragraphs (3) and (4)'; and
+ (2) in paragraph (4) (as redesignated by subsection (c)), by striking
+ `attaining' and inserting `exceeding'.
+ (e) REPORTS- Section 722(f) of the Small Business Competitiveness
+ Demonstration Program Act of 1988 (15 U.S.C. 644 note, 102 Stat. 3896)
+ is amended--
+ (1) in paragraph (1), by striking `September 30, 1992' and inserting
+ `September 30, 1995'; and
+ (2) in paragraph (2), by striking `of the fiscal years 1989, 1990, and 1991'
+ and inserting `fiscal year during the term of the program established under
+ subsection (a)'.
+Subtitle B--Defense Economic Transition Assistance
+SEC. 211. SECTION 7(a) LOAN PROGRAM.
+ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by
+ adding at the end the following new paragraph:
+ `(21)(A) The Administration may make loans under the authority of this
+ subsection--
+ `(i) to a small business concern that has been (or can reasonably be expected
+ to be) detrimentally affected by--
+ `(I) the closure (or substantial reduction) of a Department of Defense
+ installation; or
+ `(II) the termination (or substantial reduction) of a Department of Defense
+ program on which such small business was a prime contractor or subcontractor
+ (or supplier) at any tier; or
+ `(ii) to a qualified individual seeking to establish (or acquire) and
+ operate a small business concern.
+ `(B) Recognizing that greater risk may be associated with a loan to a
+ small business concern described in subparagraph (A)(i), any reasonable
+ doubts concerning the firm's proposed business plan for transition to
+ nondefense-related markets shall be resolved in favor of the loan applicant
+ when making any determination regarding the sound value of the proposed
+ loan in accordance with paragraph (6).
+ `(C) Loans pursuant to this paragraph shall be authorized in such amounts
+ as provided in advance in appropriation Acts for the purposes of loans
+ under this paragraph.
+ `(D) For purposes of this paragraph a qualified individual is--
+ `(i) a member of the Armed Forces of the United States, honorably discharged
+ from active duty involuntarily or pursuant to a program providing bonuses
+ or other inducements to encourage voluntary separation or early retirement;
+ `(ii) a civilian employee of the Department of Defense involuntarily
+ separated from Federal service or retired pursuant to a program offering
+ inducements to encourage early retirement; or
+ `(iii) an employee of a prime contractor, subcontractor, or supplier at any
+ tier of a Department of Defense program whose employment is involuntarily
+ terminated (or voluntarily terminated pursuant to a program offering
+ inducements to encourage voluntary separation or early retirement) due to the
+ termination (or substantial reduction) of a Department of Defense program.'.
+SEC. 212. SMALL BUSINESS DEVELOPMENT CENTER PROGRAM.
+ Section 21(c)(3) of the Small Business Act (15 U.S.C. 648(c)(3)) is amended--
+ (1) by striking subparagraph (D);
+ (2) by redesignating subparagraphs (E), (F), and (G) as subparagraphs (D),
+ (E), and (F), respectively; and
+ (3) by inserting before subparagraph (H) the following new subparagraph:
+ `(G) assisting small businesses to develop and implement strategic
+ business plans to timely and effectively respond to the planned closure
+ (or reduction) of a Department of Defense facility within the community,
+ or actual or projected reductions in such firms' business base due to the
+ actual or projected termination (or reduction) of a Department of Defense
+ program or a contract in support of such program--
+ `(i) by developing broad economic assessments of the adverse impacts of--
+ `(I) the closure (or reduction) of the Department of Defense facility on
+ the small business concerns providing goods or services to such facility
+ or to the military and civilian personnel currently stationed or working
+ at such facility; and
+ `(II) the termination (or reduction) of a Department of Defense program (or
+ contracts under such program) on the small business concerns participating
+ in such program as a prime contractor, subcontractor or supplier at any tier;
+ `(ii) by developing, in conjunction with appropriate Federal, State,
+ and local governmental entities and other private sector organizations,
+ the parameters of a transition adjustment program adaptable to the needs
+ of individual small business concerns;
+ `(iii) by conducting appropriate programs to inform the affected small
+ business community regarding the anticipated adverse impacts identified under
+ clause (i) and the economic adjustment assistance available to such firms; and
+ `(iv) by assisting small business concerns to develop and implement an
+ individualized transition business plan.'.
+Subtitle C--Small Business Administration Management
+SEC. 221. DISADVANTAGED SMALL BUSINESS STATUS DECISIONS.
+ (a) PUBLICATION OF DECISIONS- A decision issued pursuant to section
+ 7(j)(11)(F)(vii) of the Small Business Act (15 U.S.C. 636(j)(11)(F)(vii))
+ shall--
+ (1) be made available to the protestor, the protested party, the contracting
+ officer (if not the protestor), and all other parties to the proceeding,
+ and published in full text; and
+ (2) include findings of fact and conclusions of law, with specific reasons
+ supporting such findings or conclusions, upon each material issue of fact
+ and law of decisional significance regarding the disposition of the protest.
+ (b) PRECEDENTIAL VALUE OF PRIOR DECISIONS- A decision issued under section
+ 7(j)(11)(F)(vii) of the Small Business Act that is issued prior to the date
+ of enactment of this Act shall not have value as precedent in deciding any
+ subsequent protest until such time as the decision is published in full text.
+SEC. 222. ESTABLISHMENT OF SIZE STANDARDS.
+ (a) IN GENERAL- Section 3(a) of the Small Business Act (15 U.S.C. 632(a))
+ is amended by striking `In addition' and all that follows through the end
+ period and by adding at the end the following new paragraphs:
+ `(2) In addition to the criteria specified in paragraph (1), the Administrator
+ may specify detailed definitions or standards (by number of employees or
+ dollar volume of business) by which a business concern is to be recognized
+ as a small business concern for the purposes of this Act or any other Act.
+ Unless specifically authorized by statute, the Secretary of a department
+ or the head of a Federal agency may not prescribe for the use of such
+ department or agency a size standard for categorizing a business concern
+ as a small business concern, unless such proposed size standard--
+ `(A) is being proposed after an opportunity for public notice and comment;
+ `(B) provides for determining, over a period of not less than 3 years--
+ `(i) the size of a manufacturing concern on the basis of the number of its
+ employees during that period; and
+ `(ii) the size of a concern providing services on basis of the average
+ gross receipts of the concern during that period; and
+ `(C) is approved by the Administrator.
+ `(3) When establishing or approving any size standard pursuant to paragraph
+ (2), the Administrator shall ensure that the size standard varies from
+ industry to industry to the extent necessary to reflect the differing
+ characteristics of the various industries and consider other factors deemed
+ to be relevant by the Administrator.'.
+ (b) REGULATIONS-
+ (1) IN GENERAL- Not later than 180 days after the date of enactment of this
+ Act, the Administrator of the Small Business Administration shall issue
+ proposed regulations to implement the amendments made by subsection (a).
+ Final regulations shall be issued not later than 270 days after such date
+ of enactment.
+ (2) LISTING OF ADDITIONAL SIZE STANDARDS- The regulations required by
+ paragraph (1) shall include a listing of all small business size standards
+ prescribed by statute or by individual Federal departments and agencies,
+ identifying the programs or purposes to which such size standards apply.
+SEC. 223. MANAGEMENT OF SMALL BUSINESS DEVELOPMENT CENTER PROGRAM.
+ (a) Section 21(a)(3) of the Small Business Act (15 U.S.C. 648) is amended
+ by adding the following at the end thereof:
+ `(A) Small business development centers are authorized to form an association
+ to pursue matters of common concern. If more than a majority of the small
+ business development centers which are operating pursuant to agreements with
+ the Administration are members of such an association, the Administration
+ is authorized and directed to recognize the existence and activities
+ of such an association and to consult with it and develop documents (i)
+ announcing the annual scope of activities pursuant to this section, (ii)
+ requesting proposals to deliver assistance as provided in this section and
+ (iii) governing the general operations and administration of the Small
+ Business Development Center Program, specifically including the development
+ of regulations and a uniform negotiated cooperative agreement for use on
+ an annual basis when entering into individual negotiated agreements with
+ small business development centers.
+ `(B) Provisions governing audits, cost principles and administrative
+ requirements for Federal grants, contracts and cooperative agreements which
+ are included in uniform requirements of Office of Management and Budget
+ (OMB) Circulars shall be incorporated by reference and shall not be set
+ forth in summary or other form in regulations.'.
+ (b) Not later than 180 days after the date of enactment of this Act,
+ the Administrator of the Small Business Administration shall submit to
+ the Committees on Small Business and the Committees on Appropriations of
+ the Senate and the House of Representatives, proposed regulations for the
+ Small Business Development Center Program authorized by section 21 of the
+ Small Business Act (15 U.S.C. 648). Such proposed regulations shall not be
+ published in the Federal Register.
+SEC. 224. NATIONAL SEMINAR ON SMALL BUSINESS EXPORTS.
+ (a) SEMINAR- The Administration shall conduct a National Seminar on Small
+ Business Exports in Buffalo, New York, in connection with the World University
+ Games Buffalo '93 during July, 1993, in order to develop recommendations
+ designed to stimulate exports from small companies. The Seminar shall build
+ upon the information collected by the Administration through previously
+ conducted regional small business trade conferences and the prior conference
+ in the State of Washington.
+ (b) ASSISTANCE BY EXPERTS- For the purpose of ascertaining facts and
+ developing policy recommendations concerning the expansion of United States
+ exports from small companies, the Seminar shall bring together individuals
+ who are experts in the fields of international trade and small business
+ development and representatives of small businesses, associations, the labor
+ community, academic institutions, and Federal, State and local governments.
+ (c) RECOMMENDATIONS CONCERNING UTILITY OF INTERNATIONAL CONFERENCE- The
+ Seminar shall specifically consider the utility of, and make recommendations
+ regarding, a subsequent International Conference on Small Business and
+ Trade that would--
+ (1) help establish linkages between United States small business owners
+ and small business owners in foreign countries;
+ (2) enable United States small business owners to learn how others organize
+ themselves for exporting; and
+ (3) foster greater consideration of small business concerns in the GATT
+ and other international trade agreements to which the United States is
+ a signatory.
+SEC. 225. CO-SPONSORED TRAINING.
+ Section 7(b) of the Small Business Computer Security and Education Act of
+ 1984 (15 U.S.C. 633 note) is amended by striking `October 1, 1992' in the
+ first sentence and inserting in lieu thereof `October 1, 1994'.
+SEC. 226. VIABILITY OF SECONDARY MARKETS.
+ The Administrator of the Small Business Administration is authorized and
+ directed to take such actions in the awarding of contracts as is deemed
+ necessary to assure the continued long-term viability of the secondary markets
+ in loans, debentures or other securities guaranteed by the Administration.
+Subtitle D--Technical Amendments
+SEC. 231. COMMISSION ON MINORITY BUSINESS DEVELOPMENT.
+ (a) TERMINATION- Section 505(f) of the Business Opportunity Development Reform
+ Act of 1988 (15 U.S.C. 636 note; 102 Stat. 3887) is amended by inserting
+ before the period at the end `or September 30, 1992, whichever is later'.
+ (b) EFFECTIVE DATE- The amendment made by subsection (a) shall apply as if
+ it were included in the Business Opportunity Development Reform Act of 1988
+ (15 U.S.C. 636 note).
+SEC. 232. TECHNICAL CORRECTIONS.
+ (a) AMENDMENTS TO SECTION 8- Section 8 of the Small Business Act (15
+ U.S.C. 837) is amended--
+ (1) in subsection (a)(1)(B), by striking the period and inserting a semicolon;
+ (2) in subsection (a)(1)(C), by striking the period and inserting `; and';
+ (3) in subsection (a)(6)(C)(i), by striking `to (A)' and inserting `to
+ subparagraph (A)';
+ (4) in subsection (a)(6)(C)(ii), by striking `7(j)(10)(H)' and inserting
+ `7(j)(10)(G)';
+ (5) in subsection (a)(12)(E), by striking `to (D)' and inserting `to
+ subparagraph (D)';
+ (6) by redesignating subsections (c) through (i) as subsections (d) through
+ (j), respectively;
+ (7) by inserting after subsection (b) the following:
+ `(c) [Reserved].';
+ (8) in subsection (d)(4)(F)(ii) (as redesignated by paragraph (6) of this
+ subsection), by striking `impositon' and inserting `imposition'; and
+ (9) in subsection (h)(2) (as redesignated by paragraph (6) of this
+ subsection), by striking `Administration' and inserting `Administrative'.
+ (b) AMENDMENTS TO SECTION  15- Section 15 of the Small Business Act (15
+ U.S.C. 644) is amended--
+ (1) in subsection (c)(2)(B), by striking `Blindmade' and inserting
+ `Blind-made';
+ (2) in paragraphs (3) and (5) of subsection (k), by striking the semicolon
+ and inserting a comma;
+ (3) in subsection (l)(6), by adding a period at the end; and
+ (4) in subsection (m)(2)(B), by striking `requirement' and inserting
+ `requirements'.
+TITLE III--STUDIES AND RESOLUTIONS
+Subtitle A--Access to Surety Bonding
+SEC. 301. SHORT TITLE.
+ This subtitle may be cited as the `Small Business Access to Surety Bonding
+ Survey Act of 1992'.
+SEC. 302. SURVEY.
+ (a) IN GENERAL- The Comptroller General shall conduct a comprehensive survey
+ of business firms, including using a questionnaire described in subsection
+ (b), to obtain data on the experiences of such firms, and especially the
+ experiences of small business concerns, in obtaining surety bonds from
+ corporate surety firms.
+ (b) CONTENT OF SURVEY QUESTIONNAIRE- In addition to such other questions as
+ the Comptroller General deems appropriate to ensure a comprehensive survey
+ under subsection (a), the questionnaire used by the Comptroller General
+ shall include questions to obtain information from a surveyed business on--
+ (1) the frequency with which the firm was requested to provide a corporate
+ surety bond in fiscal year 1992;
+ (2) whether the frequency with which the firm was requested to provide a
+ corporate surety bond increased or decreased in fiscal years 1990, 1991,
+ and 1992 and the reason for any increase or decrease, if known;
+ (3) the frequency with which the firm provided a corporate surety bond in
+ fiscal year 1992;
+ (4) whether the frequency with which the firm provided a corporate surety
+ bond increased or decreased in fiscal years 1990, 1991, and 1992 and the
+ reason for any increase or decrease, if known;
+ (5) the average size of corporate surety bonds provided by the firm in
+ fiscal year 1992;
+ (6) whether the average size of the corporate surety bonds provided by the
+ firm increased or decreased during fiscal years 1990, 1991, and 1992 and
+ the reason for any increase or decrease, if known;
+ (7) the dollar amount of the largest corporate surety bond provided by the
+ firm in fiscal year 1992;
+ (8) whether the dollar amount of the largest corporate surety bond provided
+ by the firm increased or decreased in fiscal years 1990, 1991, and 1992
+ and the reason for any increase or decrease, if known;
+ (9) the dollar amount of work performed by the firm by type of construction
+ owner, including the Federal Government, State and local governments, other
+ public entities, and private entities, in each of fiscal years 1990, 1991,
+ and 1992;
+ (10) the dollar amount of such work bonded by a corporate surety company
+ for the firm by type of construction owner, including construction owners
+ referred to in paragraph (9), for each of fiscal years 1990, 1991, and 1992;
+ (11) whether the firm purchased its corporate surety bonds through an
+ insurance agent or directly from a surety company;
+ (12) the means used by the firm to identify its source for the purchase of
+ corporate surety bonds;
+ (13) the average corporate surety bond premium (expressed as a percentage
+ of contract amount) paid by the firm in fiscal year 1992;
+ (14) any increase or decrease in the average corporate surety bond premium
+ (expressed as a percentage of the contract amount) paid by the firm in fiscal
+ years 1990, 1991, and 1992 and the reason for any increase or decrease,
+ if known;
+ (15) whether or not the underwriting requirements (including state of accounts
+ receivable, financial procedures, need for personal indemnification, and
+ requirements for collateral) changed in fiscal year 1990, 1991, or 1992;
+ (16) the nature of any changes in underwriting requirements experienced by
+ the firm in fiscal years 1990, 1991, and 1992 and the reason for any such
+ changes, if known;
+ (17) whether or not the source of surety bonds (a surety agent or company)
+ provided reasons for such changes in underwriting requirements and whether
+ these reasons were provided orally or in writing;
+ (18) whether or not the bonding capacity (total dollar amount and number
+ of bonds) for the firm changed in fiscal year 1990, 1991, or 1992;
+ (19) whether or not the source of surety bonds (a surety agent or company)
+ provided reasons for any changes in bonding capacity and whether these
+ reasons were provided orally or in writing;
+ (20) the services provided and advice given by the firm's source of corporate
+ surety bonds in fiscal years 1990, 1991, and 1992;
+ (21) whether or not the firm obtained a corporate surety bond with the
+ assistance of a Federal program (such as the surety bond guarantee program
+ of the Small Business Administration and the bonding assistance program
+ of the Department of Transportation) or a State or local program in fiscal
+ year 1990, 1991, or 1992;
+ (22) whether or not the firm used any alternative to corporate surety bonds
+ (such as individual surety bonds, letters of credit, certificates of deposit,
+ and government securities) in fiscal year 1990, 1991, or 1992;
+ (23) if the firm has not provided any corporate surety bonds in fiscal year
+ 1990, 1991, or 1992, the reasons the firm has not done so;
+ (24) the number of times the firm has had an application for a corporate
+ surety bond denied in fiscal years 1990, 1991, and 1992, and the reason
+ for any such denial, if known;
+ (25) whether or not the proposed source for the corporate surety bond
+ (a surety agent or company) provided the reasons for its denial of that
+ application and whether that explanation was provided orally or in writing;
+ (26) the length of time the firm has been in business;
+ (27) the number of years of construction experience of the firm's officers
+ (if a corporation), partners, or  owner (if a sole proprietorship), and those
+ responsible for managing the execution of the firm's construction operations,
+ and how many years of such experience is in the type  of construction that
+ provides the majority of the firm's annual sales volume;
+ (28) the approximate annual sales volume of the firm in fiscal years 1990,
+ 1991, and 1992;
+ (29) the net worth (total assets less total liabilities) of the firm at
+ the close of the firm's most recent fiscal year;
+ (30) the working capital (current assets less current liabilities) of the
+ firm at the close of the firm's most recent fiscal year;
+ (31) the average age of the firm's accounts receivable (the average number
+ of days required to collect payments due);
+ (32) whether the firm made a profit in fiscal year 1990, 1991, or 1992;
+ (33) the form and frequency of such firm's financial statements (statements
+ audited and certified by an independent certified public accountant,
+ statements reviewed by such a certified public accountant, compilation
+ financial statements, or other forms of financial statements), and whether
+ such statements were furnished with applications for bonding, if requested;
+ and
+ (34) the 4-digit standard industrial classification code in which the firm
+ performs the majority of its work.
+ (c) FIRMS TO BE SURVEYED- The Comptroller General shall develop a
+ statistically valid sample of business firms from the most recent list of
+ construction firms maintained by the Dun and Bradstreet Company (identified as
+ the `DUN Market Identifier' file) for which data regarding sales is available.
+SEC. 303. REPORT.
+ (a) IN GENERAL- Not later than 18 months after the date of enactment of
+ this Act, the Comptroller General, in consultation with the Small Business
+ Administration, shall conduct an assessment of the data obtained in the
+ survey conducted pursuant to section 302 and submit to the Committees on
+ Small Business of the Senate and the House of Representatives a report on
+ the results of such assessment.
+ (b) CONTENTS OF THE REPORT-
+ (1) IN GENERAL- The report required by subsection (a) shall contain--
+ (A) a summary of responses of business firms to the survey conducted pursuant
+ to section 302; and
+ (B) a description of any trends found by the Comptroller General in such
+ responses.
+ (2) INFORMATION ON SMALL BUSINESS CONCERNS- In presenting summaries
+ of responses and descriptions of trends pursuant to paragraph (1), the
+ Comptroller General shall provide specific information on the responses
+ and trends of small business concerns, small business concerns owned and
+ controlled by women, and small business concerns owned and controlled by
+ socially and economically disadvantaged individuals.
+SEC. 304. DEFINITIONS.
+ For purposes of this subtitle--
+ (1) the term `fiscal year' means the fiscal year of the business firm
+ being surveyed;
+ (2) the term `small business concern' has the same meaning as in section
+ 3 of the Small Business Act (15 U.S.C. 632);
+ (3) the term `small business concern owned and controlled by socially
+ and economically disadvantaged individuals' has the same meaning as in
+ section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C))
+ (as redesignated by section 232(a)(6) of this Act); and
+ (4) the term `small business concern owned and controlled by women' has
+ the same meaning as in section 127(d) of the Small Business Administration
+ Reauthorization and Amendment Act of 1988 (15 U.S.C. 637 note).
+Subtitle B--Small Business Loan Secondary Market Study
+SEC. 311. SECONDARY MARKET FOR LOANS TO SMALL BUSINESSES.
+ (a) STUDY- The Secretary of the Treasury, the Director of the Congressional
+ Budget Office, and the Chairman of the Securities and Exchange Commission,
+ in consultation with the Administrator of the Small Business Administration,
+ shall conduct a study of the potential benefits of, and legal, regulatory,
+ and market-based barriers to, developing a secondary market for loans to
+ small businesses. The study shall include consideration of--
+ (1) market perceptions and the reasons for the slow development of a
+ secondary market for loans to small businesses;
+ (2) any means to standardize loan documents and underwriting for loans to
+ small businesses relating to retail and office space;
+ (3) the probable effects of the development of a secondary market for loans
+ to small businesses on financial institutions and intermediaries, borrowers,
+ lenders, real estate markets, and the credit markets generally;
+ (4) legal and regulatory barriers that may be impeding the development of
+ a secondary market for loans to small businesses; and
+ (5) the risks posed by investments in loans to small businesses.
+ (b) REPORT- Not later than 1 year after the date of enactment of this Act,
+ the Secretary of the Treasury, the Director of the Congressional Budget
+ Office, and the Chairman of the Securities and Exchange Commission shall
+ transmit to the Congress a report on the results of the study under paragraph
+ (1). The report shall include recommendations for legislation to facilitate
+ the development of a secondary market for loans to small businesses.
+Subtitle C--Contract Bundling Study
+SEC. 321. CONTRACT BUNDLING STUDY.
+ (a) IN GENERAL- The Administrator of the Small Business Administration,
+ acting through the Associate Administrator for Procurement Assistance, shall
+ conduct a study regarding the impact of the practice known as `contract
+ bundling' on the participation of small business concerns in the Federal
+ procurement process.
+ (b) PURPOSE- In addition to such other matters as the Associate Administrator
+ for Procurement Assistance deems appropriate to assure the conduct of
+ a comprehensive study and the development of practical recommendations,
+ the study required by subsection (a) shall--
+ (1) identify the benefits and adverse effects of contract bundling to the
+ procuring agencies;
+ (2) identify the benefits and adverse effects of contract bundling on small
+ business concerns;
+ (3) examine the adequacy of the policy direction to agency procurement
+ officials regarding the bundling of contract requirements;
+ (4) examine the extent to which agencies have been combining their
+ requirements for the procurement of goods and services (including
+ construction) into solicitations requiring an offeror to be able to perform
+ increasingly larger contracts covering multiple and diverse elements of
+ performance;
+ (5) consider the appropriateness of the explanatory statements submitted
+ by the procuring agencies pursuant to section 15(a) of the Small Business
+ Act regarding bundling of contract requirements; and
+ (6) determine whether procurement center representatives, small business
+ specialists, or other agency procurement officials can, under existing
+ guidance and authority, have the necessary policy direction and effective
+ authority to make an independent assessment regarding a proposed bundling
+ of contract requirements.
+ (c) PARTICIPATION-
+ (1) IN GENERAL- In conducting the study described in subsection (b),
+ the Associate Administrator for Procurement Assistance shall provide for
+ participation by representatives of--
+ (A) the Office of the Chief Counsel for Advocacy;
+ (B) the Office of Federal Procurement Policy; and
+ (C) the 10 Federal departments or agencies having the greatest dollar value
+ of procurement awards during fiscal year 1991.
+ (2) ADDITIONAL CONSULTATION- In conducting the study, the Associate
+ Administrator for Procurement Assistance shall consult with representatives
+ of organizations representing small business government contractors and
+ such other public and private entities as may be appropriate.
+ (d) SCHEDULE- Not later than 90 days after the date of enactment of this
+ Act, the Associate Administrator for Procurement Assistance shall publish
+ in the Federal Register a plan for the study required by this section.
+ The study shall be completed not later than March 31, 1993.
+ (e) REPORT- Not later than May 15, 1993, the Administrator of the Small
+ Business Administration shall submit a report to the Committees on Small
+ Business of the Senate and the House of Representatives.  The report shall
+ contain the results of the study required by subsection (a), together
+ with recommendations for legislative and regulatory changes to maintain
+ small business participation in the Federal procurement process, as the
+ Administrator deems appropriate.
+ (f) DEFINITION- For purposes of this section, the term `contracting bundling'
+ or `bundling of contract requirements' refers to the practice of consolidating
+ into a single large contract solicitation multiple procurement requirements
+ that were previously solicited and awarded as separate smaller contracts,
+ generally resulting in a contract opportunity unsuitable for award to a
+ small business concern due to the diversity and size of the elements of
+ performance specified and the aggregate dollar value of the anticipated award.
+Subtitle D--Resolution Regarding Small Business Access to Capital
+SEC. 331. SENSE OF THE CONGRESS.
+ (a) FINDINGS- The Congress finds that--
+ (1) small business concerns remain a thriving and vital part of the economy,
+ accounting for the majority of new jobs, new products, and new services
+ created in the United States;
+ (2) adequate access to either debt or equity capital is a critical component
+ of small business formation, expansion, and success;
+ (3) small business concerns, which represent higher degrees of risk in
+ financial markets than do large businesses, are experiencing increased
+ difficulties in obtaining credit;
+ (4) minority-owned business enterprises have found extraordinary difficulties
+ in obtaining credit; and
+ (5) demand for credit under the loan guarantee program contained in section
+ 7(a) of the Small Business Act is insufficient to meet current demands.
+ (b) SENSE OF THE CONGRESS- It is the sense of the Congress that--
+ (1) financial institutions should expand their efforts to provide credit
+ to small business concerns, with special emphasis on minority-owned small
+ business concerns;
+ (2) legislation and regulations considered by the Congress should be carefully
+ examined to ensure that small business concerns are not negatively impacted;
+ and
+ (3) legislation and regulations that enhance the viability of small business
+ concerns, including changes in tax and health care policy, should be given
+ a priority for passage by the Congress.
+TITLE IV--SMALL BUSINESS INVESTMENT ACT AMENDMENTS
+SECTION 401. SHORT TITLE.
+ This Act may be cited as the `Small Business Equity Enhancement Act of 1992'.
+SEC. 402. LEVERAGE (MATCHING FUNDS) FORMULA.
+ Section 303 of the Small Business Investment Act of 1958 (15 U.S.C. 683)
+ is amended--
+ (1) by inserting after the word `debentures' in the first and sixth sentences
+ of subsection (b) the following: `or participating securities';
+ (2) by striking paragraphs (1) through (3) of subsection (b) and inserting
+ in lieu thereof the following:
+ `(1) The total amount of debentures and participating securities that may
+ be guaranteed by the Administration and outstanding from a company licensed
+ under section 301(c) of this Act shall not exceed 300 per centum of the
+ private capital of such company: Provided, That nothing in this paragraph
+ shall require any such company that on March 31, 1993, has outstanding
+ debentures in excess of 300 per centum of its private capital to prepay
+ such excess: And provided further, That any such company may apply for an
+ additional debenture guarantee or participating security guarantee with the
+ proceeds to be used solely to pay the amount due on such maturing debenture,
+ but the maturity of the new debenture or security shall be not later than
+ September 30, 2002.
+ `(2) After March 31, 1993, the maximum amount of outstanding leverage made
+ available to a company licensed under section 301(c) of this Act shall be
+ determined by the amount of such company's private capital--
+ `(A) if the company has private capital of not more than $15,000,000, the
+ total amount of leverage shall not exceed 300 per centum of private capital;
+ `(B) if the company has private capital of more than $15,000,000 but not more
+ than $30,000,000, the total amount of leverage shall not exceed $45,000,000
+ plus 200 per centum of the amount of private capital over $15,000,000; and
+ `(C) if the company has private capital of more than $30,000,000, the total
+ amount of leverage shall not exceed $75,000,000 plus 100 per centum of the
+ amount of private capital over $30,000,000 but not to exceed an additional
+ $15,000,000.
+ `(3) Subject to the foregoing dollar and percentage limits, a company
+ licensed under section 301(c) of this Act may issue and have outstanding
+ both guaranteed debentures and participating securities: Provided, That
+ the total amount of participating securities outstanding shall not exceed
+ 200 per centum of private capital.
+ `(4) In no event shall the aggregate amount of outstanding leverage of any
+ such company or companies which are commonly controlled as determined by the
+ Administration exceed $90,000,000, unless the Administration determines on
+ a case by case basis to permit a higher amount for companies under common
+ control and imposes such additional terms and conditions as it determines
+ appropriate to minimize the risk of loss to the Administration in the event
+ of default.';
+ (3) by inserting before the period at the end of subsection (c)(6) the
+ following: `, except as provided in paragraph (7)'; and
+ (4) by adding the following at the end of subsection (c):
+ `(7) The Administration may guarantee debentures or may guarantee the payment
+ of the redemption price and prioritized payments on participating securities
+ under subsection (g) from a company operating under section 301(d) of this
+ Act in amounts above $35,000,000 but not to exceed the maximum amounts
+ specified in section 303(b) subject to the following:
+ `(A) The interest rate on debentures and the rate of prioritized payments
+ on participating securities shall be that specified in subsection 303(g)(2)
+ without any reductions.
+ `(B) Any outstanding assistance under paragraphs (1) to (6) of this
+ subsection shall be subtracted from such company's eligibility under section
+ 303(b)(2)(A).'.
+SEC. 403. PARTICIPATING SECURITIES.
+ Section 303 of the Small Business Investment Act of 1958 (15 U.S.C. 683)
+ is further amended by adding the following new subsections:
+ `(g) In order to encourage small business investment companies to provide
+ equity capital to small businesses, the Administration is authorized to
+ guarantee the payment of the redemption price and prioritized payments on
+ participating securities issued by such companies which are licensed pursuant
+ to section 301(c) of this Act, and a trust or a pool acting on behalf of the
+ Administration is authorized to purchase such securities. Such guarantees and
+ purchases shall be made on such terms and conditions as the Administration
+ shall establish by regulation. For purposes of this section, (A) the term
+ `participating securities' includes preferred stock, a preferred limited
+ partnership interest or a similar instrument, including debentures under
+ the terms of which interest is payable only to the extent of earnings and
+ (B) the term `prioritized payments' includes dividends on stock, interest on
+ qualifying debentures, or priority returns on preferred limited partnership
+ interests which are paid only to the extent of earnings. Participating
+ securities guaranteed under this subsection shall be subject to the following
+ restrictions and limitations, in addition to such other restrictions and
+ limitations as the Administration may determine:
+ `(1) Participating securities shall be redeemed not later than 15 years after
+ their date of issuance for an amount equal to 100 per centum of the original
+ issue price plus the amount of any accrued prioritized payment: Provided,
+ That if, at the time the securities are redeemed, whether as scheduled or
+ in advance, the issuing company (A) has not paid all accrued prioritized
+ payments in full as provided in paragraph (2) below and (B) has not sold
+ or otherwise disposed of all investments subject to profit distributions
+ pursuant to paragraph (11), the company's obligation to pay accrued and
+ unpaid prioritized payments shall continue and payment shall be made from
+ the realized gain, if any, on the disposition of such investments, but if
+ on disposition there is no realized gain, the obligation to pay accrued
+ and unpaid prioritized payments shall be extinguished: Provided further,
+ That in the interim, the company shall not make any in-kind distributions
+ of such investments unless it pays to the Administration such sums, up to
+ the amount of the unrealized appreciation on such investments, as may be
+ necessary to pay in full the accrued prioritized payments.
+ `(2) Prioritized payments on participating securities shall be preferred
+ and cumulative and payable out of the retained earnings available for
+ distribution, as defined by the Administration, of the issuing company at a
+ rate determined by the Secretary of the Treasury taking into consideration
+ the current average market yield on outstanding marketable obligations of the
+ United States with remaining periods to maturity comparable to the average
+ maturities on such securities, adjusted to the nearest one-eighth of 1 per
+ centum, plus, at the time the guarantee is issued, such additional charge,
+ if any, toward covering other costs of the program as the Administration may
+ determine to be consistent with its purposes, but not to exceed 2 per centum.
+ `(3) In the event of liquidation of the company, participating securities
+ shall be senior in priority for all purposes to all other equity interests
+ in the issuing company, whenever created.
+ `(4) Any company issuing a participating security under this subsection
+ shall commit to invest or shall invest and maintain an amount equal to the
+ outstanding face value of such security solely in equity capital. As used
+ in this subsection, `equity capital' means common or preferred stock or a
+ similar instrument, including subordinated debt with equity features which
+ is not amortized and which provides for interest payments contingent upon
+ and limited to the extent of earnings.
+ `(5) The only debt (other than leverage obtained in accordance with this
+ title) which any company issuing a participating security under this
+ subsection may have outstanding shall be temporary debt in amounts limited
+ to not more than 50 per centum of private capital.
+ `(6) The Administration may permit the proceeds of a participating security to
+ be used to pay the principal amount due on outstanding debentures guaranteed
+ by the Administration, if (A) the company has outstanding equity capital
+ invested in an amount equal to the amount of the debentures being refinanced
+ and (B) the Administration receives profit participation on such terms and
+ conditions as it may determine, but not to exceed the per centums specified
+ in paragraph (11).
+ `(7) For purposes of computing profit participation under paragraph (11),
+ except as otherwise determined by the Administration, the management
+ expenses of any company which issues participating securities shall not
+ be greater than 2.5 per centum per annum of the combined capital of the
+ company, plus $125,000 if the company's combined capital is less than
+ $20,000,000. For purposes of this paragraph, (A) the term `combined capital'
+ means the aggregate amount of private capital and outstanding leverage and
+ (B) the term `management expenses' includes salaries, office expenses,
+ travel, business development, office and equipment rental, bookkeeping and
+ the development, investigation and monitoring of investments, but does not
+ include the cost of services provided by specialized outside consultants,
+ outside lawyers and outside auditors, who perform services not generally
+ expected of a venture capital company nor does such term include the cost
+ of services provided by any affiliate of the company which are not part of
+ the normal process of making and monitoring venture capital investments.
+ `(8) Notwithstanding paragraph (9), if a company is operating as a limited
+ partnership or as a subchapter s corporation or an equivalent pass-through
+ entity for tax purposes and if there are no accumulated and unpaid prioritized
+ payments, the company may make annual distributions to the partners or
+ shareholders in amounts not greater than each partner's or shareholder's
+ maximum tax liability.  For purposes of this paragraph, the term `maximum
+ tax liability' means the amount of income allocated to each partner or
+ shareholder (including an allocation to the Administration as if it were a
+ taxpayer) for Federal income tax purposes in the income tax return filed or
+ to be filed by the company with respect to the fiscal year of the company
+ immediately preceding such distribution, multiplied by the highest combined
+ marginal Federal and State income tax rates for corporations or individuals,
+ whichever is higher, on each type of income included in such return. For
+ purposes of this paragraph, the term `State income tax' means the income
+ tax of the State where the company's principal place of business is located.
+ `(9) After making any distributions as provided in paragraph (8), a company
+ with participating securities outstanding may distribute the balance of
+ income to its investors, specifically including the Administration, in the per
+ centums specified in paragraph (11), if there are no accumulated and unpaid
+ prioritized payments and if all amounts due the Administration pursuant to
+ paragraph (11) have been paid in full, subject to the following conditions:
+ `(A) As of the date of the proposed distribution, if the amount of leverage
+ outstanding is more than 200 per centum of the amount of private capital,
+ any amounts distributed shall be made to private investors and to the
+ Administration in the ratio of leverage to private capital.
+ `(B) As of the date of the proposed distribution, if the amount of leverage
+ outstanding is more than 100 per centum but not more than 200 per centum
+ of the amount of private capital, 50 per centum of any amounts distributed
+ shall be made to the Administration and 50 per centum shall be made to the
+ private investors.
+ `(C) If the amount of leverage outstanding is 100 per centum, or less, of
+ the amount of private capital, the ratio shall be that for distribution of
+ profits as provided in paragraph (11).
+ `(D) Any amounts received by the Administration under subparagraph (A) or
+ (B) shall be applied first as profit participation as provided in paragraph
+ (11) and any remainder shall be applied as a prepayment of the principal
+ amount of the participating securities or debentures.
+ `(10) After making any distributions pursuant to paragraph (8), a company with
+ participating securities outstanding may return capital to its investors,
+ specifically including the Administration, if there are no accumulated
+ and unpaid prioritized payments and if all amounts due the Administration
+ pursuant to paragraph (11) have been paid in full. Any distributions under
+ this paragraph shall be made to private investors and to the Administration
+ in the ratio of private capital to leverage as of the date of the proposed
+ distribution: Provided, That if the amount of leverage outstanding is
+ less than 50 per centum of the amount of private capital or $10,000,000,
+ whichever is less, no distribution shall be required to be made to the
+ Administration unless the Administration determines, on a case by case
+ basis, to require distributions to the Administration to reduce the amount
+ of outstanding leverage to an amount less than $10,000,000.
+ `(11)(A) A company which issues participating securities shall agree to
+ allocate to the Administration a share of its profits determined by the
+ relationship of its private capital to the amount of participating securities
+ guaranteed by the Administration in accordance with the following:
+ `(i) If the total amount of participating securities is 100 per centum of
+ private capital or less, the company shall allocate to the Administration a
+ per centum share computed as follows: the amount of participating securities
+ divided by private capital times 9 per centum.
+ `(ii) If the total amount of participating securities is more than 100 per
+ centum but not greater than 200 per centum of private capital, the company
+ shall allocate to the Administration a per centum share computed as follows:
+ `(I) 9 per centum, plus
+ `(II) 3 per centum of the amount of participating securities minus private
+ capital divided by private capital.
+ `(B) Notwithstanding any other provision of this paragraph--
+ `(i) in no event shall the total per centum required by this paragraph exceed
+ 12 per centum, unless required pursuant to the provisions of (ii) below,
+ `(ii) if, on the date the participating securities are marketed, the interest
+ rate on Treasury bonds with a maturity of 10 years is a rate other than 8 per
+ centum, the Administration shall adjust the rate specified in paragraph (A)
+ above, either higher or lower, by the same per centum by which the Treasury
+ bond rate is higher or lower than 8 per centum, and
+ `(iii) this paragraph shall not be construed to create any ownership interest
+ of the Administration in the company.
+ `(12) A company may elect to make an in-kind distribution of securities only
+ if such securities are publicly traded and marketable. The company shall
+ deposit the Administration's share of such securities for disposition with
+ a trustee designated by the Administration or, at its option and with the
+ agreement of the company, the Administration may direct the company to retain
+ the Administration's share. If the company retains the Administration's share,
+ it shall sell the Administration's share and promptly remit the proceeds to
+ the Administration. As used in this paragraph, the term `trustee' means a
+ person who is knowledgeable about and proficient in the marketing of thinly
+ traded securities.
+ `(h) The computation of amounts due the Administration under participating
+ securities shall be subject to the following terms and conditions:
+ `(1) The formula in subsection (g)(11) shall be computed annually and the
+ Administration shall receive distributions of its profit participation at
+ the same time as other investors in the company.
+ `(2) The formula shall not be modified due to an increase in the private
+ capital unless the increase is provided for in a proposed business plan
+ submitted to and approved by the Administration.
+ `(3) After distributions have been made, the Administration's share of such
+ distributions shall not be recomputed or reduced.
+ `(4) If the company prepays or repays the participating securities,
+ the Administration shall receive the requisite participation upon the
+ distribution of profits due to any investments held by the company on the
+ date of the repayment or prepayment.
+ `(5) If a company is licensed on or before March 31, 1993, it may elect to
+ exclude from profit participation all investments held on that date and in
+ such case the Administration shall determine the amount of the future expenses
+ attributable to such prior investment: Provided, That if the company issues
+ participating securities to refinance debentures as authorized in subsection
+ (g)(6), it may not elect to exclude profits on existing investments under
+ this paragraph.'.
+SEC. 404. POOLING.
+ Section 321 of the Small Business Investment Act of 1958 (15 U.S.C. 687l)
+ is amended to read as follows:
+`SEC. 321. ISSUANCE AND GUARANTEE OF TRUST CERTIFICATES.
+ `(a) The Administration is authorized to issue trust certificates
+ representing ownership of all or a fractional part of debentures issued by
+ small business investment companies, including companies operating under
+ the authority of section 301(d), and guaranteed by the Administration under
+ this Act, or participating securities which are issued by such companies
+ and purchased and guaranteed pursuant to section 303(g): Provided, That
+ such trust certificates shall be based on and backed by a trust or pool
+ approved by the Administration and composed solely of guaranteed debentures
+ or guaranteed participating securities.
+ `(b) The Administration is authorized, upon such terms and conditions as are
+ deemed appropriate, to guarantee the timely payment of the principal of and
+ interest on trust certificates issued by the Administration or its agent for
+ purposes of this section. Such guarantee shall be limited to the extent of
+ principal and interest on the guaranteed debentures or the redemption price
+ of and priority payments on the participating securities, which compose
+ the trust or pool. In the event that a debenture in such trust or pool is
+ prepaid, or participating securities are redeemed, either voluntarily or
+ involuntarily, or in the event of default of a debenture or voluntary or
+ involuntary redemption of a participating security, the guarantee of timely
+ payment of principal and interest on the trust certificates shall be reduced
+ in proportion to the amount of principal and interest such prepaid debenture
+ or redeemed participating security and priority payments represent in the
+ trust or pool. Interest on prepaid or defaulted debentures, or priority
+ payments on participating securities, shall accrue and be guaranteed by the
+ Administration only through the date of payment on the guarantee. During
+ the term of the trust certificate, it may be called for redemption due to
+ prepayment or default of all debentures or redemption, whether voluntary
+ or involuntary, of all participating securities residing in the pool.
+ `(c) The full faith and credit of the United States is pledged to the payment
+ of all amounts which may be required to be paid under any guarantee of such
+ trust certificates issued by the Administration or its agent pursuant to
+ this section.
+ `(d) The Administration shall not collect a fee for any guarantee under
+ this section: Provided, That nothing herein shall preclude any agent of
+ the Administration from collecting a fee approved by the Administration
+ for the functions described in subsection (f)(2) of this section.
+ `(e)(1) In the event the Administration pays a claim under a guarantee
+ issued under this section, it shall be subrogated fully to the rights
+ satisfied by such payment.
+ `(2) No State or local law, and no Federal law, shall preclude or limit the
+ exercise by the Administration of its ownership rights in the debentures
+ or participating securities residing in a trust or pool against which trust
+ certificates are issued.
+ `(f)(1) The Administration shall provide for a central registration of all
+ trust certificates sold pursuant to this section. Such central registration
+ shall include with respect to each sale--
+ `(A) identification of each small business investment company;
+ `(B) the interest rate or prioritized payment rate paid by the small business
+ investment company;
+ `(C) commissions, fees, or discounts paid to brokers and dealers in trust
+ certificates;
+ `(D) identification of each purchaser of the trust certificate;
+ `(E) the price paid by the purchaser for the trust certificate;
+ `(F) the interest rate on the trust certificate;
+ `(G) the fee of any agent for carrying out the functions described in
+ paragraph (2); and
+ `(H) such other information as the Administration deems appropriate.
+ `(2) The Administrator shall contract with an agent or agents to carry out
+ on behalf of the Administration the pooling and the central registration
+ functions of this section including, notwithstanding any other provision of
+ law, maintenance on behalf of and under the direction of the Administration,
+ such commercial bank accounts as may be necessary to facilitate trusts
+ or pools backed by debentures or participating securities guaranteed
+ under this Act, and the issuance of trust certificates to facilitate such
+ poolings. Such agent or agents shall provide a fidelity bond or insurance
+ in such amounts as the Administration determines to be necessary to fully
+ protect the interests of the Government.
+ `(3) Prior to any sale, the Administrator shall require the seller to
+ disclose to a purchaser of a trust certificate issued pursuant to this
+ section, information on the terms, conditions, and yield of such instrument.
+ `(4) The Administrator is authorized to regulate brokers and dealers in
+ trust certificates sold pursuant to this section.'.
+SEC. 405. AUTHORIZATIONS.
+ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended--
+ (1) by striking in subsection (g)(3) `stock and $221,000,000 in guarantees
+ of debentures' and inserting in lieu thereof the following: `securities,
+ $221,000,000 in guarantees of debentures, of which $40,000,000 is authorized
+ in guarantees of debentures from companies operating pursuant to section
+ 301(d) of such Act, and $100,000,000 in guarantees of participating
+ securities';
+ (2) by striking in subsection (i)(3) `stock and $232,000,000 in guarantees
+ of debentures' and inserting in lieu thereof the following: `securities,
+ $232,000,000 in guarantees of debentures, of which $42,000,000 is authorized
+ in guarantees of debentures from companies operating pursuant to section
+ 301(d) of such Act, and $250,000,000 in guarantees of participating
+ securities'; and
+ (3) by adding the following new subsections at the end thereof:
+ `(k) The following program levels are authorized for fiscal year 1995:
+ `(1) For the programs authorized by title III of the Small Business Investment
+ Act of 1958, the Administration is authorized to make $23,000,000 in purchases
+ of preferred securities, $244,000,000 in guarantees of debentures, of which
+ $44,000,000 is authorized in guarantees of debentures from companies operating
+ pursuant to section 301(d) of such Act, and $400,000,000 in guarantees of
+ participating securities.
+ `(l) There are authorized to be appropriated to the Administration for
+ fiscal year 1995 such sums as may be necessary to carry out subsection (k),
+ including salaries and expenses of the Administration.
+ `(m) The following program levels are authorized for fiscal year 1996:
+ `(1) For the programs authorized by title III of the Small Business Investment
+ Act of 1958, the Administration is authorized to make $24,000,000 in purchases
+ of preferred securities, $256,000,000 in guarantees of debentures, of which
+ $46,000,000 is authorized in guarantees of debentures from companies operating
+ pursuant to section 301(d) of such Act, and $550,000,000 in guarantees of
+ participating securities.
+ `(n) There are authorized to be appropriated to the Administration for
+ fiscal year 1996 such sums as may be necessary to carry out subsection (m),
+ including salaries and expenses of the Administration.
+ `(o) The following program levels are authorized for fiscal year 1997:
+ `(1) For the programs authorized by title III of the Small Business Investment
+ Act of 1958, the Administration is authorized to make $25,000,000 in purchases
+ of preferred securities, $268,000,000 in guarantees of debentures, of which
+ $48,000,000 is authorized in guarantees of debentures from companies operating
+ pursuant to section 301(d) of such Act, and $700,000,000 in guarantees of
+ participating securities.
+ `(p) There are authorized to be appropriated to the Administration for
+ fiscal year 1997 such sums as may be necessary to carry out subsection (o),
+ including salaries and expenses of the Administration.'.
+SEC. 406. SAFETY AND SOUNDNESS.
+ (a) FINANCIAL VIABILITY DETERMINED- Section 302 of the Small Business
+ Investment Act of 1958 (15 U.S.C. 682) is amended by adding the following
+ at the end of subsection (a): `The Administration shall also determine the
+ ability of the company, both prior to licensing and prior to approving any
+ request for financing, to make periodic payments on any debt of the company
+ which is interest bearing and shall take into consideration the income which
+ the company anticipates on its contemplated investments, the experience of
+ the company's owners and managers, the history of the company as an entity,
+ if any, and the company's financial resources.'.
+ (b) VALUATION GUIDELINES AND RESPONSIBILITY- Section 310 of the Small
+ Business Investment Act of 1958 (15 U.S.C. 687b) is amended by adding at
+ the end thereof the following new subsection:
+ `(d) Each small business investment company shall adopt written guidelines
+ for determination of the value of investments made by such company. The board
+ of directors of corporations and the general partners of partnerships shall
+ have the sole responsibility for making a good faith determination of the fair
+ market value of the investments made by such company. Determinations shall be
+ made and reported to the Administration not less than semiannually or at more
+ frequent intervals as the Administration determines appropriate: Provided,
+ That any company which does not have outstanding financial assistance under
+ the provisions of this title shall be required to make such determinations
+ and reports to the Administration annually, unless the Administration,
+ in its discretion, determines otherwise.'.
+SEC. 407. EXAMINATIONS.
+ (a) EXAMINATION BY INVESTMENT DIVISION- Section 310 of the Small Business
+ Investment Act of 1958 (15 U.S.C. 687b) is amended by striking from subsection
+ (b) `Administration by examiners selected or approved by' and by inserting
+ in lieu thereof the following: `Investment Division of'.
+ (b) TRANSFER OF RESOURCES- Effective October 1, 1992, the personnel,
+ assets, liabilities, contracts, property, records, and unexpended balances
+ of appropriations, authorizations, and other funds employed, held, used,
+ arising from, available or to be made available, which are related to
+ the examination function provided by section 310 of the Small Business
+ Investment Act of 1958 shall be transferred by the Inspector General of
+ the Small Business Administration to the Investment Division of the Small
+ Business Administration.
+SEC. 408. NON-FINANCED SBICS.
+ (a) INVESTMENT LIMITATION- Section 306(a) of the Small Business Investment
+ Act of 1958 (15 U.S.C. 686(a)) is amended to read as follows:
+ `(a) If any small business investment company has obtained financing from
+ the Administration and such financing remains outstanding, the aggregate
+ amount of obligations and securities acquired and for which commitments
+ may be issued by such company under the provisions of this title for any
+ single enterprise shall not exceed 20 per centum of the private capital of
+ such company, without the approval of the Administration.'.
+ (b) CONFORMING AMENDMENT- Section 310 of the Small Business Investment Act
+ of 1958 (15 U.S.C. 687b) is amended by inserting before the semicolon at the
+ end of subsection (c)(5) the following: `, if such restriction is applicable'.
+ (c) TEMPORARY INVESTMENT OF FUNDS- Section 308(b) of the Small  Business
+ Investment  Act  of  1958  (15  U.S.C.  687(b)) is amended by inserting after
+ `Such companies' in the third sentence the following: `with outstanding
+ financings'.
+ (d) REGULATORY REVIEW- Not later than 90 days after the effective date
+ of this Act, the Small Business Administration shall complete a review
+ of those regulations intended to provide for the safety and soundness of
+ those small business investment companies which obtain financing from the
+ Administration under the provisions of the Small Business Investment Act
+ of 1958. The Administration is directed to exempt from such regulations,
+ or to separately regulate, those companies which do not obtain financing
+ from the Administration.
+ (e) REPORT TO CONGRESS- The Administration, within 180 days after the
+ effective date of this Act, shall report on actions taken pursuant to section
+ 8(d) of this Act to the Committees on Small Business of the Senate and the
+ House of Representatives, including the rationale for its actions.
+SEC. 409. MINIMUM CAPITAL.
+ Section 302 of the Small Business Investment Act of 1958 (15 U.S.C. 682)
+ is amended by striking from subsection (a) `1979 pursuant to sections 301(c)
+ and (d) of this Act shall be not less than $500,000' and inserting in lieu
+ thereof the following: `1992 pursuant to section 301(c) of this title shall
+ be not less than $2,500,000 and pursuant to section 301(d) of this title
+ shall be not less than $1,500,000'.
+SEC. 410. DEFINITIONS.
+ Section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662)
+ is amended as follows:
+ (1) by striking `and' at the end of paragraph (7);
+ (2) by striking the period at the end of paragraph (8) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end the following new paragraphs:
+ `(9) notwithstanding any other provision of law, the term `private capital'
+ means the private paid-in capital and paid-in surplus of a corporate licensee,
+ or the private partnership capital of an unincorporate licensee, inclusive
+ of (A) any funds invested in the licensee by a public or private pension
+ fund, (B) any funds invested in the licensee by State or local government
+ entities, to the extent that such investment does not exceed 33 percent of
+ a licensee's total private capital and otherwise meets criteria established
+ by the Administration, and (C) unfunded commitments from institutional
+ investors that meet criteria established by the Administration, but it
+ excludes any funds which are borrowed by the licensee from any source or
+ which are obtained or derived, directly or indirectly, from any Federal
+ source, including the Administration: Provided, That no unfunded commitment
+ from an institutional investor may be used for the purpose of meeting the
+ minimum amount of private capital required by this Act or as the basis for
+ the Administration to issue obligations to provide financing; and
+ `(10) the term `leverage' includes debentures purchased or guaranteed by
+ the Administration, participating securities purchased or guaranteed by
+ the Administration, or preferred securities issued by companies licensed
+ under section 301(d) of this Act and which have been purchased by the
+ Administration.'.
+SEC. 411. INTEREST RATE CEILING.
+ Section 305 of the Small Business Investment Act of 1958 (15 U.S.C. 685) is
+ amended by striking the period at the end of subsection (c) and by inserting
+ in lieu thereof the following: `: Provided, That the Administration also
+ shall permit those companies which have issued debentures pursuant to this
+ Act to charge a maximum rate of interest based upon the coupon rate of
+ interest on the outstanding debentures, determined on an annual basis, plus
+ such other expenses of the company as may be approved by the Administration.'.
+SEC. 412. PREFERRED PARTNERSHIP INTERESTS.
+ Section 303(c) of the Small Business Investment Act of 1958 (15 U.S.C. 683(c))
+ is amended--
+ (1) by striking from the first sentence the word `preferred';
+ (2) by inserting after the second sentence the following: `As used in this
+ subsection, the term `securities' means shares of nonvoting stock or other
+ corporate securities or limited partnership interests which have similar
+ characteristics.'; and
+ (3) by striking from paragraph (1) `shares of nonvoting stock (or other
+ corporate securities having similar characteristics)' and inserting in lieu
+ thereof `such securities'.
+SEC. 413. INDIRECT FUNDS FROM STATE OR LOCAL GOVERNMENTS.
+ Section 303(e) of the Small Business Investment Act of 1958 (15 U.S.C. 683(e))
+ is amended--
+ (1) by inserting after the word `company' the following: `licensed under
+ section 301(d) and notwithstanding section 103(9)'; and
+ (2) by striking `prior' and all that follows through the period at the
+ end and inserting `to November 21, 1989: Provided, That such companies may
+ include in private capital for any purpose funds indirectly obtained from
+ State or local governments. As used in this subsection, the term `capital
+ indirectly obtained' includes income generated by a State financing authority
+ or similar State institution or agency or from the investment of State or
+ local money or amounts originally provided to nonprofit institutions or
+ corporations which such institutions or corporations, in their discretion,
+ determine to invest in a company licensed under section 301(d).'.
+SEC. 414. SBIC APPROVALS.
+ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by
+ adding the following at the end of subsection (a)(2): `Subject to approval in
+ appropriations Acts, amounts authorized for preferred securities, debentures
+ or participating securities under title III of the Small Business Investment
+ Act of 1958 may be obligated in one fiscal year and disbursed or guaranteed
+ in the following fiscal year.'.
+SEC. 415. IMPLEMENTATION.
+ Notwithstanding any law, rule, regulation or administrative moratorium,
+ except as otherwise expressly provided in this Act, the Small Business
+ Administration shall--
+ (1) within 90 days after the date of enactment of this Act, publish in the
+ Federal Register proposed rules and regulations implementing this Act and
+ the amendments made by this Act; and
+ (2) within 180 days after the date of enactment of this Act, publish in
+ the Federal Register final rules and regulations implementing this Act,
+ and enter such contracts as are necessary to implement this Act and the
+ amendments made by this Act.
+SEC. 416. BUY AMERICA.
+ Section 102 of the Small Business Investment Act of 1958 (15 U.S.C. 1661)
+ is amended by adding at the end the following: `It is the intention of the
+ Congress that in the award of financial assistance under this Act, when
+ practicable, priority be accorded to small business concerns which lease
+ or purchase equipment and supplies which are produced in the United States
+ and that small business concerns receiving such assistance be encouraged
+ to continue to lease or purchase such equipment and supplies.'.
+SEC. 417. STUDIES AND REPORTS.
+ (a) SBA ANNUAL REPORT- Section 308(g) of the Small Business Investment Act
+ of 1958 (12 U.S.C. 687(g)) is amended by adding at the end the following
+ new paragraph:
+ `(3) In its annual report for the year ending on December 31, 1993, and
+ in each succeeding annual report made pursuant to section 10(a) of the
+ Small Business Act, the Administration shall include a full and detailed
+ description or account relating to--
+ `(A) the number of small business investment companies the Administration
+ licensed, the number of licensees that have been placed in liquidation,
+ and the number of licensees that have surrendered their licenses in the
+ previous year, identifying the amount of government leverage each has
+ received and the type of leverage instruments each has used;
+ `(B) the amount of government leverage that each licensee received in the
+ previous year and the types of leverage instruments each licensee used;
+ `(C) for each type of financing instrument, the sizes, geographic locations,
+ and other characteristics of the small business investment companies using
+ them, including the extent to which the investment companies have used
+ the leverage from each instrument to make small business loans, equity
+ investments, or both; and
+ `(D) the frequency with which each type of investment instrument has been
+ used in the current year and a comparison of the current year with previous
+ years.'.
+ (b) REPORT OF THE COMPTROLLER GENERAL- Not later than 4 years after the date
+ of enactment of this Act, the Comptroller General of the United States shall
+ transmit to the Committees on Small Business of the House of Representatives
+ and the Senate a report that reviews the Small Business Investment Company
+ program (established under the Small Business Investment Act of 1958) for
+ the 3-year period following the date of enactment of this Act, with respect
+ to each item listed in section 308(g)(3) of the Small Business Investment
+ Act of 1958, as amended by subsection (a).
+SEC. 418. NO EFFECT ON SECURITIES LAWS.
+ Nothing in this Act (and  no amendment made by this Act) shall be construed
+ to affect the applicability of the securities laws, as that term is defined
+ in section  3(a)(47) of the Securities Exchange Act of 1934, or any of
+ the rules and regulations thereunder, or otherwise supersede or limit the
+ jurisdiction of the Securities and Exchange Commission or the authority at
+ any time conferred under the securities laws.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

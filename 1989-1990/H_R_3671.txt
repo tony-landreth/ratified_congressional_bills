@@ -1,0 +1,84 @@
+ 
+--H.R.3671--
+H.R.3671
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To amend the Federal Aviation Act of 1958 to extend the civil penalty
+assessment
+demonstration program.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. AMENDMENTS TO FEDERAL AVIATION ACT.
+ EXTENSION OF PROGRAM- Section 905(d)(4)) of the Federal Aviation Act of 1958
+ (49 U.S.C. App. 1475(d)(4) is amended by striking `2-year' and inserting
+ `28 month'.
+SEC. 2. INSTALLATION AND EVALUATION OF COLLISION AVOIDANCE SYSTEMS.
+ Section 601(f)) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421(f),
+ is amended--
+ (1) by redesignating paragraph (3) as paragraph (6); and
+ (2) by inserting immediately after paragraph (2) the following new paragraphs:
+ `(3) OPERATIONAL EVALUATION- The Administrator shall institute, for a
+ 1-year period beginning not later than December 30, 1990, a program for
+ the operational evaluation of the collision avoidance system known as
+ TCAS-II, in order to collect and assess safety and operational data from
+ the civil aircraft equipped with such system. In conducting the program,
+ the Administrator shall encourage the participation of foreign air carriers
+ which operate civil aircraft equipped with such system.
+ `(4) EXTENSION OF TIME- If the Administrator determines that extending the
+ deadline contained in paragraph (2) is necessary--
+ `(A) to promote a safe and orderly transition to operation of a fleet
+ of civil aircraft described in paragraph (2) which is equipped with the
+ collision avoidance system known as TCAS-II, or
+ `(B) to promote other safety objectives,
+the Administrator may extend such deadline for a period not to exceed 2 years.
+ `(5) COMPATABILITY OF WINDSHEAR EQUIPMENT INSTALLATION SCHEDULE- The
+ Administrator shall consider the feasibility and desirability of amending the
+ schedule for the installation of airborne low-altitude windshear equipment in
+ order to make such schedule compatible with the schedule for the installation
+ of the collision avoidance system known as TCAS-II.'.
+SEC. 3. PENINSULA AIRPORT CONVEYANCE.
+ Subsection (b) of the first section of the Act entitled `An Act to authorize
+ the Secretary of Transportation to release restrictions on the use of
+ certain property conveyed to the Peninsula Airport Commission, Virginia,
+ for airport purposes', approved November 6, 1986 (Public Law 99-618; 100
+ Stat. 3490), is amended--
+ (1) in paragraph (3) by striking `7.5 acres' and inserting in lieu thereof
+ `20.5 acres'; and
+ (2) by striking paragraph (4).
+SEC. 4. EXCESS LAND DISPOSAL.
+ Paragraph 14 of section 511(a) of the Airport and Airway Improvement Act
+ of 1982 (49 U.S.C. App. 2210(a)) is amended to read as follows:
+ `(14) if the airport operator or owner receives a grant before, on, or after
+ December 31, 1987, for the purchase of land for airport development purposes
+ (other than noise compatibility purposes)--
+ `(A) the owner or operator will, when the land is no longer needed for airport
+ purposes, dispose of such land at fair market value or make available to
+ the Secretary an amount equal to the United States proportionate share of
+ the fair market value of the land;
+ `(B) such disposition will be subject to the retention or reservation of
+ any interest or right therein necessary to ensure that such land will only
+ be used for purposes which are compatible with noise levels associated with
+ the operation of the airport;
+ `(C) that portion of the proceeds of such disposition which is proportionate
+ to the United States share of the cost of acquisition of such land will--
+ `(i) upon application to the Secretary, be reinvested in another eligible
+ airport improvement project or projects approved by the Secretary at that
+ airport or within the national airport system; or
+ `(ii) be paid to the Secretary for deposit in the Trust Fund if no such
+ eligible project exists;
+subject to the requirement that land shall be considered to be needed for
+airport purposes under this paragraph if (I) it may be needed for aeronautical
+purposes (including runway protection zone) or serves as noise buffer land and
+(II) the revenue from interim uses of such land contributes to the financial
+self-sufficiency of the airport, and subject to the further requirement that
+land purchased with a grant received by an airport operator or owner before
+December 31, 1987, will be considered to be needed for airport purposes if
+the Secretary or the Federal agency making such grant before December 31,
+1987, was notified by the operator or owner of the use of such land, did
+not object to such use, and the land continues to be used for that purpose;'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

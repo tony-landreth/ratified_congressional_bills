@@ -1,0 +1,147 @@
+ 
+--S.2783--
+S.2783
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Federal Food, Drug, and Cosmetic Act with respect to medical
+devices and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE AND REFERENCE.
+ (a) SHORT TITLE- This Act may be cited as the `Medical Device Amendments
+ of 1992'.
+ (b) REFERENCE- Whenever in this Act an amendment or repeal is expressed in
+ terms of an amendment to, or repeal of, a section or other provision, the
+ reference shall be considered to be made to a section or other provision
+ of the Federal Food, Drug, and Cosmetic Act.
+SEC. 2. EFFECTIVE DATE AND REGULATIONS TO IMPLEMENT DEVICE TRACKING.
+ (a) AMENDMENT- Section 3 of the Safe Medical Devices Act of 1990 (21
+ U.S.C. 360i note) is amended--
+ (1) in subsection (b)(3), by striking out `upon the effective date'
+ and inserting in lieu thereof `upon the expiration of 9 months after the
+ issuance';
+ (2) in subsection (c)(2)--
+ (A) by striking out `and 519(e)' the first place it occurs; and
+ (B) by striking out `and 519(e) of such Act are' and inserting in lieu
+ thereof `of such Act is'; and
+ (3) by adding at the end of subsection (c) the following:
+ `(3) Not later than November 28, 1992, the Secretary shall issue final
+ regulations to implement section 519(e) of the Federal Food, Drug, and
+ Cosmetic Act. If the Secretary does not promulgate such final regulations
+ by November 28, 1992, the Congress finds that there is good cause for
+ the proposed regulations to be considered as the final regulations without
+ response to comment because the implementation of section 519(e) of such Act
+ is essential to protect the health of patients who use devices. In such event,
+ the proposed regulations issued under paragraph (1) shall become the issued
+ final regulations on November 29, 1992. There shall be promptly published in
+ the Federal Register notice of the new status of the proposed regulations.'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall take effect as
+ of May 27, 1992 and any rule to implement section 519(e) of the Federal Food,
+ Drug, and Cosmetic Act proposed under section 3(c)(2) of the Safe Medical
+ Devices Act of 1990 shall revert to its proposed status as of such date.
+SEC. 3. POSTMARKET SURVEILLANCE.
+ (a) PROHIBITED ACT-
+ (1) IN GENERAL- Section 301(q)(1) (21 U.S.C. 331(q)(1)) is amended--
+ (A) by striking out `or (B)' and inserting in lieu thereof `(B)'; and
+ (B) by inserting before the period a comma and `or (C) comply with a
+ requirement under section 522'.
+ (2) MISBRANDED DEVICES- Section 502(t) (21 U.S.C. 352(t)) is amended--
+ (A) by striking out `or (2)' and inserting in lieu thereof `(2)'; and
+ (B) by inserting before the period a comma and `or (3) to comply with a
+ requirement under section 522'.
+ (b) APPROVAL- Section 522(b) (21 U.S.C. 360l(b)) is amended--
+ (1) by striking out `(a)' and inserting in lieu thereof `(a)(1)';
+ (2) by inserting a comma after `commerce'; and
+ (3) by adding after the first sentence the following: `Each manufacturer
+ required to conduct a surveillance of a device under subsection (a)(2) shall,
+ within 30 days after receiving notice that the manufacturer is required
+ to conduct such surveillance, submit, for the approval of the Secretary,
+ a protocol for the required surveillance.'.
+SEC. 4. REPAIR, REPLACEMENT, OR REFUND.
+ Section 518(b)(1)(A)(ii) (21 U.S.C. 360h(b)(1)(A)(ii)) is amended by striking
+ out `and' each place it occurs and inserting in lieu thereof `or'.
+SEC. 5. REPORTING.
+ (a) AMENDMENTS- Section 519 (21 U.S.C. 360i) is amended--
+ (1) by redesignating paragraphs (1) through (6) of subsection (a) as
+ paragraphs (4) through (9), respectively, and by inserting before paragraph
+ (4) (as so redesignated) the following:
+ `(1) shall require a device manufacturer or importer to report to the
+ Secretary whenever the manufacturer or importer receives or otherwise
+ becomes aware of information that reasonably suggests that one of its
+ marketed devices--
+ `(A) may have caused or contributed to a death or serious injury, or
+ `(B) has malfunctioned and that such device or a similar device marketed
+ by the manufacturer or importer would be likely to cause or contribute to
+ a death or serious injury if the malfunction were to recur;
+ `(2) shall define the term `serious injury' to mean an injury that--
+ `(A) is life threatening,
+ `(B) results in permanent impairment of a body function or permanent damage
+ to a body structure, or
+ `(C) necessitates medical or surgical intervention to preclude permanent
+ impairment of a body function or permanent damage to a body structure;
+ `(3) shall require reporting of other significant adverse device experiences
+ as determined by the Secretary to be necessary to be reported;'; and
+ (2) in subsection (b)--
+ (A) in paragraph (1), by striking out `there is a probability that a device
+ has' each place it occurs and inserting in lieu thereof `a device has or
+ may have';
+ (B) in paragraph (1)(B)--
+ (i) by striking out `aware of information' and inserting in lieu thereof
+ `aware of--
+ `(i) information'; and
+ (ii) by striking out `facility, the facility' and inserting in lieu thereof:
+ `facility, or
+ `(ii) other significant adverse device experiences as determined by the
+ Secretary by regulation to be necessary to be reported,
+the facility';
+and
+ (C) in paragraph (5)(B)(iii), by striking out `immediate'.
+ (b) EFFECTIVE DATE- The amendments made by subsection (a) shall take effect--
+ (1) 1 year after the date of the enactment of this Act; or
+ (2) on the effective date of regulations of the Secretary to implement
+ such amendments,
+whichever occurs first.
+SEC. 6. TECHNICALS.
+ (a) SECTION 201- Section 201 (21 U.S.C. 321) is amended--
+ (1) in subsection (h), by striking out `any of its principal' and inserting
+ in lieu thereof `its primary'; and
+ (2) by adding at the end the following:
+ `(ff) The term `Commissioner' means the Commissioner of Food and Drugs.'.
+ (b) REFERENCE-
+ (1) Subsections (c) and (d) of sections 201, subsections (a), (d), (h), (i),
+ (l), (m), and (o) of section 408, subsections (a) and (b) of section 536,
+ section 701(b), and subsections (a) and (b) of section 801 (21 U.S.C. 321
+ (c) and (d), 346a (a), (d), (h), (i), (l), (m), and (o), 360mm (a) and
+ (b), 371(b), and 381 (a) and (b)) and section 351(c) of the Public Health
+ Service Act (42 U.S.C. 262(c)) are each amended by striking out `Health,
+ Education, and Welfare' each place it appears and inserting in lieu thereof
+ `Health and Human Services'.
+ (2) Section 201(y), section 506(a), section 507(a), section 702(c), section
+ 702A, and section 706(b)(5)(C)(i) (21 U.S.C. 321(y), 356(a), 357(a), 372(c),
+ 372a, and 376(b)(5)(C)(i)) are each amended  by striking out `of Health,
+ Education, and Welfare' each place it appears.
+ (c) SECTION 304- Section 304(d)(1) (21 U.S.C. 334(d)(1)) is amended--
+ (1) by striking out `801(d)' each place it occurs and inserting in lieu
+ thereof `801(e)'; and
+ (2) by striking out `clauses' and inserting in lieu thereof `paragraphs'.
+ (d) SECTION 503- Section 503(g)(3) (21 U.S.C. 353(g)(3)) is amended by
+ striking out `approval' and inserting in lieu thereof `clearance'.
+ (e) SECTION 513- Section 513(f)(3) (21 U.S.C. 360c(f)(3)) is amended by
+ redesignating clauses (i), (ii), and (iii) as subparagraphs (A), (B), and
+ (C), respectively, and by striking out `the 510(k)' and inserting in lieu
+ thereof `the section 510(k)'.
+ (f) SECTION 517- Section 517(a)(10) (21 U.S.C. 360g(a)(10)) is amended by
+ striking out `520(c)(4)(B)' and inserting in lieu thereof `520(h)(4)(B)'.
+ (g) SAFE MEDICAL DEVICES ACT OF 1990- Section 18(b) of the Safe Medical
+ Devices Act of 1990 is amended--
+ (1) by striking out `(b)(4)(B)' and inserting in lieu thereof `(b)';
+ (2) in paragraph (1), by striking out `(3)' and inserting in lieu thereof
+ `(4)'; and
+ (3) in paragraph (2), by striking out `(4)' and inserting in lieu thereof
+ `(5)'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

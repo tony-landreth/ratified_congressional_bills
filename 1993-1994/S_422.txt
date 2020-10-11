@@ -1,0 +1,1306 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 422 Enrolled Bill (ENR)]
+
+        S.422
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To extend and revise rulemaking authority with respect to government 
+securities
+
+       under the Federal securities laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Government 
+Securities Act Amendments of 1993''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+Sec. 1. Short title; table of contents.
+
+       TITLE I--AMENDMENTS TO THE SECURITIES EXCHANGE ACT OF 1934
+
+Sec. 101. Findings.
+Sec. 102. Extension of government securities rulemaking authority.
+Sec. 103. Transaction records.
+Sec. 104. Large position reporting.
+Sec. 105. Authority of the Commission to regulate transactions in 
+          exempted securities.
+Sec. 106. Sales practice rulemaking authority.
+Sec. 107. Market information.
+Sec. 108. Disclosure by government securities brokers and government 
+          securities dealers whose accounts are not insured by the 
+          Securities Investor Protection Corporation.
+Sec. 109. Technical amendments.
+Sec. 110. Offerings of certain government securities.
+Sec. 111. Rule of construction.
+Sec. 112. Study of regulatory system for government securities.
+
+                    TITLE II--REPORTS ON PUBLIC DEBT
+
+Sec. 201. Annual report on public debt.
+Sec. 202. Treasury auction reforms.
+Sec. 203. Notice on Treasury modifications to auction process.
+
+                 TITLE III--LIMITED PARTNERSHIP ROLLUPS
+
+Sec. 301. Short title.
+Sec. 302. Revision of proxy solicitation rules with respect to limited 
+          partnership rollup transactions.
+Sec. 303. Rules of fair practice in rollup transactions.
+Sec. 304. Effective date; effect on existing authority.
+       TITLE I--AMENDMENTS TO THE SECURITIES EXCHANGE ACT OF 1934
+
+SEC. 101. FINDINGS.
+
+    The Congress finds that--
+        (1) the liquid and efficient operation of the government 
+    securities market is essential to facilitate government borrowing at 
+    the lowest possible cost to taxpayers;
+        (2) the fair and honest treatment of investors will strengthen 
+    the integrity and liquidity of the government securities market;
+        (3) rules promulgated by the Secretary of the Treasury pursuant 
+    to the Government Securities Act of 1986 have worked well to protect 
+    investors from unregulated dealers and maintain the efficiency of 
+    the government securities market; and
+        (4) extending the authority of the Secretary and providing new 
+    authority will ensure the continued strength of the government 
+    securities market.
+
+SEC. 102. EXTENSION OF GOVERNMENT SECURITIES RULEMAKING AUTHORITY.
+
+    Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o-5) 
+is amended by striking subsection (g).
+
+SEC. 103. TRANSACTION RECORDS.
+
+    (a) Amendment.--Section 15C(d) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78o-5(d)) is amended by adding at the end the following 
+new paragraph:
+    ``(3) Government Securities Trade Reconstruction.--
+        ``(A) Furnishing records.--Every government securities broker 
+    and government securities dealer shall furnish to the Commission on 
+    request such records of government securities transactions, 
+    including records of the date and time of execution of trades, as 
+    the Commission may require to reconstruct trading in the course of a 
+    particular inquiry or investigation being conducted by the 
+    Commission for enforcement or surveillance purposes. In requiring 
+    information pursuant to this paragraph, the Commission shall specify 
+    the information required, the period for which it is required, the 
+    time and date on which the information must be furnished, and 
+    whether the information is to be furnished directly to the 
+    Commission, to the Federal Reserve Bank of New York, or to an 
+    appropriate regulatory agency or self-regulatory organization with 
+    responsibility for examining the government securities broker or 
+    government securities dealer. The Commission may require that such 
+    information be furnished in machine readable form notwithstanding 
+    any limitation in subparagraph (B). In utilizing its authority to 
+    require information in machine readable form, the Commission shall 
+    minimize the burden such requirement may place on small government 
+    securities brokers and dealers.
+        ``(B) Limitation; construction.--The Commission shall not 
+    utilize its authority under this paragraph to develop regular 
+    reporting requirements, except that the Commission may require 
+    information to be furnished under this paragraph as frequently as 
+    necessary for particular inquiries or investigations for enforcement 
+    or surveillance purposes. This paragraph shall not be construed as 
+    requiring, or as authorizing the Commission to require, any 
+    government securities broker or government securities dealer to 
+    obtain or maintain any information for purposes of this paragraph 
+    which is not otherwise maintained by such broker or dealer in 
+    accordance with any other provision of law or usual and customary 
+    business practice. The Commission shall, where feasible, avoid 
+    requiring any information to be furnished under this paragraph that 
+    the Commission may obtain from the Federal Reserve Bank of New York.
+        ``(C) Procedures for requiring information.--At the time the 
+    Commission requests any information pursuant to subparagraph (A) 
+    with respect to any government securities broker or government 
+    securities dealer for which the Commission is not the appropriate 
+    regulatory agency, the Commission shall notify the appropriate 
+    regulatory agency for such government securities broker or 
+    government securities dealer and, upon request, furnish to the 
+    appropriate regulatory agency any information supplied to the 
+    Commission.
+        ``(D) Consultation.--Within 90 days after the date of enactment 
+    of this paragraph, and annually thereafter, or upon the request of 
+    any other appropriate regulatory agency, the Commission shall 
+    consult with the other appropriate regulatory agencies to determine 
+    the availability of records that may be required to be furnished 
+    under this paragraph and, for those records available directly from 
+    the other appropriate regulatory agencies, to develop a procedure 
+    for furnishing such records expeditiously upon the Commission's 
+    request.
+        ``(E) Exclusion for examination reports.--Nothing in this 
+    paragraph shall be construed so as to permit the Commission to 
+    require any government securities broker or government securities 
+    dealer to obtain, maintain, or furnish any examination report of any 
+    appropriate regulatory agency other than the Commission or any 
+    supervisory recommendations or analysis contained in any such 
+    examination report.
+        ``(F) Authority to limit disclosure of information.--
+    Notwithstanding any other provision of law, the Commission and the 
+    appropriate regulatory agencies shall not be compelled to disclose 
+    any information required or obtained under this paragraph. Nothing 
+    in this paragraph shall authorize the Commission or any appropriate 
+    regulatory agency to withhold information from Congress, or prevent 
+    the Commission or any appropriate regulatory agency from complying 
+    with a request for information from any other Federal department or 
+    agency requesting information for purposes within the scope of its 
+    jurisdiction, or from complying with an order of a court of the 
+    United States in an action brought by the United States, the 
+    Commission, or the appropriate regulatory agency. For purposes of 
+    section 552 of title 5, United States Code, this subparagraph shall 
+    be considered a statute described in subsection (b)(3)(B) of such 
+    section 552.''.
+    (b) Conforming Amendments.--(1) Section 15C(a)(4) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o-5(a)(4)) is amended by inserting ``, 
+other than subsection (d)(3),'' after ``subsection (a), (b), or (d) of 
+this section''.
+    (2) Section 15C(f)(2) of such Act is amended--
+        (A) in the first sentence, by inserting ``, other than 
+    subsection (d)(3)'', after ``threatened violation of the provisions 
+    of this section''; and
+        (B) in the second sentence, by inserting ``(except subsection 
+    (d)(3))'' after ``other than this section''.
+
+SEC. 104. LARGE POSITION REPORTING.
+
+    Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o-5) 
+is amended--
+        (1) by redesignating subsection (f) as subsection (g); and
+        (2) by inserting after subsection (e) the following new 
+    subsection:
+    ``(f) Large Position Reporting.--
+        ``(1) Reporting requirements.--The Secretary may adopt rules to 
+    require specified persons holding, maintaining, or controlling large 
+    positions in to-be-issued or recently issued Treasury securities to 
+    file such reports regarding such positions as the Secretary 
+    determines to be necessary and appropriate for the purpose of 
+    monitoring the impact in the Treasury securities market of 
+    concentrations of positions in Treasury securities and for the 
+    purpose of otherwise assisting the Commission in the enforcement of 
+    this title, taking into account any impact of such rules on the 
+    efficiency and liquidity of the Treasury securities market and the 
+    cost to taxpayers of funding the Federal debt. Unless otherwise 
+    specified by the Secretary, reports required under this subsection 
+    shall be filed with the Federal Reserve Bank of New York, acting as 
+    agent for the Secretary. Such reports shall, on a timely basis, be 
+    provided directly to the Commission by the person with whom they are 
+    filed.
+        ``(2) Recordkeeping requirements.--Rules under this subsection 
+    may require persons holding, maintaining, or controlling large 
+    positions in Treasury securities to make and keep for prescribed 
+    periods such records as the Secretary determines are necessary or 
+    appropriate to ensure that such persons can comply with reporting 
+    requirements under this subsection.
+        ``(3) Aggregation rules.--Rules under this subsection--
+            ``(A) may prescribe the manner in which positions and 
+        accounts shall be aggregated for the purpose of this subsection, 
+        including aggregation on the basis of common ownership or 
+        control; and
+            ``(B) may define which persons (individually or as a group) 
+        hold, maintain, or control large positions.
+        ``(4) Definitional authority; determination of reporting 
+    threshold.--
+            ``(A) In prescribing rules under this subsection, the 
+        Secretary may, consistent with the purpose of this subsection, 
+        define terms used in this subsection that are not otherwise 
+        defined in section 3 of this title.
+            ``(B) Rules under this subsection shall specify--
+                ``(i) the minimum size of positions subject to reporting 
+            under this subsection, which shall be no less than the size 
+            that provides the potential for manipulation or control of 
+            the supply or price, or the cost of financing arrangements, 
+            of an issue or the portion thereof that is available for 
+            trading;
+                ``(ii) the types of positions (which may include 
+            financing arrangements) to be reported;
+                ``(iii) the securities to be covered; and
+                ``(iv) the form and manner in which reports shall be 
+            transmitted, which may include transmission in machine 
+            readable form.
+        ``(5) Exemptions.--Consistent with the public interest and the 
+    protection of investors, the Secretary by rule or order may exempt 
+    in whole or in part, conditionally or unconditionally, any person or 
+    class or persons, or any transaction or class of transactions, from 
+    the requirements of this subsection.
+        ``(6) Limitation on disclosure of information.--Notwithstanding 
+    any other provision of law, the Secretary and the Commission shall 
+    not be compelled to disclose any information required to be kept or 
+    reported under this subsection. Nothing in this subsection shall 
+    authorize the Secretary or the Commission to withhold information 
+    from Congress, or prevent the Secretary or the Commission from 
+    complying with a request for information from any other Federal 
+    department or agency requesting information for purposes within the 
+    scope of its jurisdiction, or from complying with an order of a 
+    court of the United States in an action brought by the United 
+    States, the Secretary, or the Commission. For purposes of section 
+    552 of title 5, United States Code, this paragraph shall be 
+    considered a statute described in subsection (b)(3)(B) of such 
+    section 552.''.
+
+SEC. 105. AUTHORITY OF THE COMMISSION TO REGULATE TRANSACTIONS IN 
+              EXEMPTED SECURITIES.
+
+    (a) Prevention of Fraudulent and Manipulative Acts and Practices.--
+Section 15(c)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(c)(2)) is amended--
+        (1) by inserting ``(A)'' after ``(2)'';
+        (2) by striking ``fictitious quotation, and no municipal 
+    securities dealer'' and inserting the following:
+``fictitious quotation.
+    ``(B) No municipal securities dealer'';
+        (3) by striking ``fictitious quotation. The Commission shall'' 
+    and inserting the following:
+``fictitious quotation.
+    ``(C) No government securities broker or government securities 
+dealer shall make use of the mails or any means or instrumentality of 
+interstate commerce to effect any transaction in, or induce or attempt 
+to induce the purchase or sale of, any government security in connection 
+with which such government securities broker or government securities 
+dealer engages in any fraudulent, deceptive, or manipulative act or 
+practice, or makes any fictitious quotation.
+    ``(D) The Commission shall''; and
+        (4) by adding at the end the following:
+    ``(E) The Commission shall, prior to adopting any rule or regulation 
+under subparagraph (C), consult with and consider the views of the 
+Secretary of the Treasury and each appropriate regulatory agency. If the 
+Secretary of the Treasury or any appropriate regulatory agency comments 
+in writing on a proposed rule or regulation of the Commission under such 
+subparagraph (C) that has been published for comment, the Commission 
+shall respond in writing to such written comment before adopting the 
+proposed rule. If the Secretary of the Treasury determines, and notifies 
+the Commission, that such rule or regulation, if implemented, would, or 
+as applied does (i) adversely affect the liquidity or efficiency of the 
+market for government securities; or (ii) impose any burden on 
+competition not necessary or appropriate in furtherance of the purposes 
+of this section, the Commission shall, prior to adopting the proposed 
+rule or regulation, find that such rule or regulation is necessary and 
+appropriate in furtherance of the purposes of this section 
+notwithstanding the Secretary's determination.''.
+    (b) Fraudulent and Manipulative Devices and Contrivances.--Section 
+15(c)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(c)(1)) is 
+amended--
+        (1) by inserting ``(A)'' after ``(c)(1)'';
+        (2) by striking ``contrivance, and no municipal securities 
+    dealer'' and inserting the following:
+``contrivance.
+    ``(B) No municipal securities dealer'';
+        (3) by striking ``contrivance. The Commission shall'' and 
+    inserting the following:
+``contrivance.
+    ``(C) No government securities broker or government securities 
+dealer shall make use of the mails or any means or instrumentality of 
+interstate commerce to effect any transaction in, or to induce or 
+attempt to induce the purchase or sale of, any government security by 
+means of any manipulative, deceptive, or other fraudulent device or 
+contrivance.
+    ``(D) The Commission shall''; and
+        (4) by adding at the end the following:
+    ``(E) The Commission shall, prior to adopting any rule or regulation 
+under subparagraph (C), consult with and consider the views of the 
+Secretary of the Treasury and each appropriate regulatory agency. If the 
+Secretary of the Treasury or any appropriate regulatory agency comments 
+in writing on a proposed rule or regulation of the Commission under such 
+subparagraph (C) that has been published for comment, the Commission 
+shall respond in writing to such written comment before adopting the 
+proposed rule. If the Secretary of the Treasury determines, and notifies 
+the Commission, that such rule or regulation, if implemented, would, or 
+as applied does (i) adversely affect the liquidity or efficiency of the 
+market for government securities; or (ii) impose any burden on 
+competition not necessary or appropriate in furtherance of the purposes 
+of this section, the Commission shall, prior to adopting the proposed 
+rule or regulation, find that such rule or regulation is necessary and 
+appropriate in furtherance of the purposes of this section 
+notwithstanding the Secretary's determination.''.
+
+SEC. 106. SALES PRACTICE RULEMAKING AUTHORITY.
+
+    (a) Rules for Financial Institutions.--Section 15C(b) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o-5(b)) is amended--
+        (1) by redesignating paragraphs (3), (4), (5), and (6) as 
+    paragraphs (4), (5), (6), and (7), respectively; and
+        (2) by inserting after paragraph (2) the following new 
+    paragraph:
+    ``(3)(A) With respect to any financial institution that has filed 
+notice as a government securities broker or government securities dealer 
+or that is required to file notice under subsection (a)(1)(B), the 
+appropriate regulatory agency for such government securities broker or 
+government securities dealer may issue such rules and regulations with 
+respect to transactions in government securities as may be necessary to 
+prevent fraudulent and manipulative acts and practices and to promote 
+just and equitable principles of trade. If the Secretary of the Treasury 
+determines, and notifies the appropriate regulatory agency, that such 
+rule or regulation, if implemented, would, or as applied does (i) 
+adversely affect the liquidity or efficiency of the market for 
+government securities; or (ii) impose any burden on competition not 
+necessary or appropriate in furtherance of the purposes of this section, 
+the appropriate regulatory agency shall, prior to adopting the proposed 
+rule or regulation, find that such rule or regulation is necessary and 
+appropriate in furtherance of the purposes of this section 
+notwithstanding the Secretary's determination.
+    ``(B) The appropriate regulatory agency shall consult with and 
+consider the views of the Secretary prior to approving or amending a 
+rule or regulation under this paragraph, except where the appropriate 
+regulatory agency determines that an emergency exists requiring 
+expeditious and summary action and publishes its reasons therefor. If 
+the Secretary comments in writing to the appropriate regulatory agency 
+on a proposed rule or regulation that has been published for comment, 
+the appropriate regulatory agency shall respond in writing to such 
+written comment before approving the proposed rule or regulation.
+    ``(C) In promulgating rules under this section, the appropriate 
+regulatory agency shall consider the sufficiency and appropriateness of 
+then existing laws and rules applicable to government securities 
+brokers, government securities dealers, and persons associated with 
+government securities brokers and government securities dealers.''.
+    (b) Rules by Registered Securities Associations.--
+        (1) Removal of limitations on authority.--(A) Section 15A of the 
+    Securities Exchange Act of 1934 (15 U.S.C. 78o-3) is amended--
+            (i) by striking subsections (f)(1) and (f)(2); and
+            (ii) by redesignating subsection (f)(3) as subsection (f).
+        (B) Section 15A(g) of such Act is amended--
+            (i) by striking ``exempted securities'' in paragraph (3)(D) 
+        and inserting ``municipal securities'';
+            (ii) by striking paragraph (4); and
+            (iii) by redesignating paragraph (5) as paragraph (4).
+        (2) Conforming amendment.--
+            (A) Section 3(a)(12)(B)(ii) of such Act (15 U.S.C. 
+        78c(a)(12)(B)(ii)) is amended by striking ``15, 15A (other than 
+        subsection (g)(3)), and 17A'' and inserting ``15 and 17A''.
+            (B) Section 15(b)(7) of such Act (15 U.S.C. 78o(b)(7)) is 
+        amended by inserting ``or government securities broker or 
+        government securities dealer registered (or required to 
+        register) under section 15C(a)(1)(A)'' after ``No registered 
+        broker or dealer''.
+    (c) Oversight of Registered Securities Associations.--Section 19 of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78s) is amended--
+        (1) in subsection (b), by adding at the end the following new 
+    paragraphs:
+    ``(5) The Commission shall consult with and consider the views of 
+the Secretary of the Treasury prior to approving a proposed rule filed 
+by a registered securities association that primarily concerns conduct 
+related to transactions in government securities, except where the 
+Commission determines that an emergency exists requiring expeditious or 
+summary action and publishes its reasons therefor. If the Secretary of 
+the Treasury comments in writing to the Commission on a proposed rule 
+that has been published for comment, the Commission shall respond in 
+writing to such written comment before approving the proposed rule. If 
+the Secretary of the Treasury determines, and notifies the Commission, 
+that such rule, if implemented, would, or as applied does (i) adversely 
+affect the liquidity or efficiency of the market for government 
+securities; or (ii) impose any burden on competition not necessary or 
+appropriate in furtherance of the purposes of this section, the 
+Commission shall, prior to adopting the proposed rule, find that such 
+rule is necessary and appropriate in furtherance of the purposes of this 
+section notwithstanding the Secretary's determination.
+    ``(6) In approving rules described in paragraph (5), the Commission 
+shall consider the sufficiency and appropriateness of then existing laws 
+and rules applicable to government securities brokers, government 
+securities dealers, and persons associated with government securities 
+brokers and government securities dealers.''; and
+        (2) in subsection (c), by adding at the end the following new 
+    paragraph:
+    ``(5) With respect to rules described in subsection (b)(5), the 
+Commission shall consult with and consider the views of the Secretary of 
+the Treasury before abrogating, adding to, and deleting from such rules, 
+except where the Commission determines that an emergency exists 
+requiring expeditious or summary action and publishes its reasons 
+therefor.''.
+
+SEC. 107. MARKET INFORMATION.
+
+    Section 23(b)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78w) is amended--
+        (1) by striking subparagraphs (C), (D), and (H);
+        (2) by redesignating subparagraphs (E), (F), and (G) as 
+    subparagraphs (C), (D), and (E), respectively;
+        (3) by redesignating subparagraphs (I), (J), and (K) as 
+    subparagraphs (F), (G), and (H), respectively;
+        (4) by striking ``and'' at the end of such redesignated 
+    subparagraph (G);
+        (5) by striking the period at the end of such redesignated 
+    subparagraph (H) and inserting ``; and''; and
+        (6) by inserting after such redesignated subparagraph (H) the 
+    following new subparagraph:
+        ``(I) the steps that have been taken and the progress that has 
+    been made in promoting the timely public dissemination and 
+    availability for analytical purposes (on a fair, reasonable, and 
+    nondiscriminatory basis) of information concerning government 
+    securities transactions and quotations, and its recommendations, if 
+    any, for legislation to assure timely dissemination of (i) 
+    information on transactions in regularly traded government 
+    securities sufficient to permit the determination of the prevailing 
+    market price for such securities, and (ii) reports of the highest 
+    published bids and lowest published offers for government securities 
+    (including the size at which persons are willing to trade with 
+    respect to such bids and offers).''.
+
+SEC. 108. DISCLOSURE BY GOVERNMENT SECURITIES BROKERS AND GOVERNMENT 
+              SECURITIES DEALERS WHOSE ACCOUNTS ARE NOT INSURED BY THE 
+              SECURITIES INVESTOR PROTECTION CORPORATION.
+
+    Section 15C(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-5(a)) is amended--
+        (1) by redesignating paragraph (4) as paragraph (5); and
+        (2) by inserting after paragraph (3) the following:
+    ``(4) No government securities broker or government securities 
+dealer that is required to register under paragraph (1)(A) and that is 
+not a member of the Securities Investor Protection Corporation shall 
+effect any transaction in any security in contravention of such rules as 
+the Commission shall prescribe pursuant to this subsection to assure 
+that its customers receive complete, accurate, and timely disclosure of 
+the inapplicability of Securities Investor Protection Corporation 
+coverage to their accounts.''.
+
+SEC. 109. TECHNICAL AMENDMENTS.
+
+    (a) Amendments to Definitions.--Section 3(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended--
+        (1) in paragraph (34)(G) (relating to the definition of 
+    appropriate regulatory agency), by amending clauses (ii), (iii), and 
+    (iv) to read as follows:
+                ``(ii) the Board of Governors of the Federal Reserve 
+            System, in the case of a State member bank of the Federal 
+            Reserve System, a foreign bank, an uninsured State branch or 
+            State agency of a foreign bank, a commercial lending company 
+            owned or controlled by a foreign bank (as such terms are 
+            used in the International Banking Act of 1978), or a 
+            corporation organized or having an agreement with the Board 
+            of Governors of the Federal Reserve System pursuant to 
+            section 25 or section 25A of the Federal Reserve Act;
+                ``(iii) the Federal Deposit Insurance Corporation, in 
+            the case of a bank insured by the Federal Deposit Insurance 
+            Corporation (other than a member of the Federal Reserve 
+            System or a Federal savings bank) or an insured State branch 
+            of a foreign bank (as such terms are used in the 
+            International Banking Act of 1978);
+                ``(iv) the Director of the Office of Thrift Supervision, 
+            in the case of a savings association (as defined in section 
+            3(b) of the Federal Deposit Insurance Act) the deposits of 
+            which are insured by the Federal Deposit Insurance 
+            Corporation;'';
+        (2) by amending paragraph (46) (relating to the definition of 
+    financial institution) to read as follows:
+        ``(46) The term `financial institution' means--
+            ``(A) a bank (as defined in paragraph (6) of this 
+        subsection);
+            ``(B) a foreign bank (as such term is used in the 
+        International Banking Act of 1978); and
+            ``(C) a savings association (as defined in section 3(b) of 
+        the Federal Deposit Insurance Act) the deposits of which are 
+        insured by the Federal Deposit Insurance Corporation.''; and
+        (3) by redesignating paragraph (51) (as added by section 204 of 
+    the International Securities Enforcement Cooperation Act of 1990) as 
+    paragraph (52).
+    (b) Effective Date of Broker/Dealer Registration.--
+        (1) Government securities brokers and dealers.--Section 
+    15C(a)(2)(ii) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+    5(a)(2)(ii)) is amended by inserting before ``The Commission may 
+    extend'' the following: ``The order granting registration shall not 
+    be effective until such government securities broker or government 
+    securities dealer has become a member of a national securities 
+    exchange registered under section 6 of this title, or a securities 
+    association registered under section 15A of this title, unless the 
+    Commission has exempted such government securities broker or 
+    government securities dealer, by rule or order, from such 
+    membership.''.
+        (2) Other brokers and dealers.--Section 15(b)(1)(B) of such Act 
+    (15 U.S.C. 78o(b)(1)(B)) is amended by inserting before ``The 
+    Commission may extend'' the following: ``The order granting 
+    registration shall not be effective until such broker or dealer has 
+    become a member of a registered securities association, or until 
+    such broker or dealer has become a member of a national securities 
+    exchange if such broker or dealer effects transactions solely on 
+    that exchange, unless the Commission has exempted such broker or 
+    dealer, by rule or order, from such membership.''.
+    (c) Information Sharing.--Section 15C(d)(2) of such Act is amended 
+to read as follows:
+    ``(2) Information received by an appropriate regulatory agency, the 
+Secretary, or the Commission from or with respect to any government 
+securities broker, government securities dealer, any person associated 
+with a government securities broker or government securities dealer, or 
+any other person subject to this section or rules promulgated 
+thereunder, may be made available by the Secretary or the recipient 
+agency to the Commission, the Secretary, the Department of Justice, the 
+Commodity Futures Trading Commission, any appropriate regulatory agency, 
+any self-regulatory organization, or any Federal Reserve Bank.''.
+
+SEC. 110. OFFERINGS OF CERTAIN GOVERNMENT SECURITIES.
+
+    Section 15(c) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(c)) is amended by adding at the end the following new paragraph:
+    ``(7) In connection with any bid for or purchase of a government 
+security related to an offering of government securities by or on behalf 
+of an issuer, no government securities broker, government securities 
+dealer, or bidder for or purchaser of securities in such offering shall 
+knowingly or willfully make any false or misleading written statement or 
+omit any fact necessary to make any written statement made not 
+misleading.''.
+
+SEC. 111. RULE OF CONSTRUCTION.
+
+    (a) In General.--No provision of, or amendment made by, this title 
+may be construed--
+        (1) to govern the initial issuance of any public debt 
+    obligation, or
+        (2) to grant any authority to (or extend any authority of) the 
+    Securities and Exchange Commission, any appropriate regulatory 
+    agency, or a self-regulatory organization--
+            (A) to prescribe any procedure, term, or condition of such 
+        initial issuance,
+            (B) to promulgate any rule or regulation governing such 
+        initial issuance, or
+            (C) to otherwise regulate in any manner such initial 
+        issuance.
+    (b) Exception.--Subsection (a) of this section shall not apply to 
+the amendment made by section 110 of this Act.
+    (c) Public Debt Obligation.--For purposes of this section, the term 
+``public debt obligation'' means an obligation subject to the public 
+debt limit established in section 3101 of title 31, United States Code.
+
+SEC. 112. STUDY OF REGULATORY SYSTEM FOR GOVERNMENT SECURITIES.
+
+    (a) Joint Study.--The Secretary of the Treasury, the Securities and 
+Exchange Commission, and the Board of Governors of the Federal Reserve 
+System shall--
+        (1) with respect to any rules promulgated or amended after 
+    October 1, 1991, pursuant to section 15C of the Securities Exchange 
+    Act of 1934 or any amendment made by this title, and any national 
+    securities association rule changes applicable principally to 
+    government securities transactions approved after October 1, 1991--
+            (A) evaluate the effectiveness of such rules in carrying out 
+        the purposes of such Act; and
+            (B) evaluate the impact of any such rules on the efficiency 
+        and liquidity of the government securities market and the cost 
+        of funding the Federal debt;
+        (2) evaluate the effectiveness of surveillance and enforcement 
+    with respect to government securities, and the impact on such 
+    surveillance and enforcement of the availability of automated, time-
+    sequenced records of essential information pertaining to trades in 
+    such securities; and
+        (3) submit to the Congress, not later than March 31, 1998, any 
+    recommendations they may consider appropriate concerning--
+            (A) the regulation of government securities brokers and 
+        government securities dealers;
+            (B) the dissemination of information concerning quotations 
+        for and transactions in government securities;
+            (C) the prevention of sales practice abuses in connection 
+        with transactions in government securities; and
+            (D) such other matters as they consider appropriate.
+    (b) Treasury Study.--The Secretary of the Treasury, in consultation 
+with the Securities and Exchange Commission, shall--
+        (1) conduct a study of--
+            (A) the identity and nature of the business of government 
+        securities brokers and government securities dealers that are 
+        registered with the Securities and Exchange Commission under 
+        section 15C of the Securities Exchange Act of 1934; and
+            (B) the continuing need for, and regulatory and financial 
+        consequences of, a separate regulatory system for such 
+        government securities brokers and government securities dealers; 
+        and
+        (2) submit to the Congress, not later than 18 months after the 
+    date of enactment of this Act, the Secretary's recommendations for 
+    change, if any, or such other recommendations as the Secretary 
+    considers appropriate.
+                    TITLE II--REPORTS ON PUBLIC DEBT
+
+SEC. 201. ANNUAL REPORT ON PUBLIC DEBT.
+
+    (a) General Rule.--Subchapter II of chapter 31 of title 31, United 
+States Code, is amended by adding at the end the following new section:
+
+``§3130. Annual public debt report
+
+    ``(a) General Rule.--On or before June 1 of each calendar year after 
+1993, the Secretary of the Treasury shall submit a report to the 
+Committee on Ways and Means of the House of Representatives and the 
+Committee on Finance of the Senate on--
+        ``(1) the Treasury's public debt activities, and
+        ``(2) the operations of the Federal Financing Bank.
+    ``(b) Required Information on Public Debt Activities.--Each report 
+submitted under subsection (a) shall include the following information:
+        ``(1) A table showing the following information with respect to 
+    the total public debt:
+            ``(A) The past levels of such debt and the projected levels 
+        of such debt as of the close of the current fiscal year and as 
+        of the close of the next 5 fiscal years under the most recent 
+        current services baseline projection of the executive branch.
+            ``(B) The past debt to GDP ratios and the projected debt to 
+        GDP ratios as of the close of the current fiscal year and as of 
+        the close of the next 5 fiscal years under such most recent 
+        current services baseline projection.
+        ``(2) A table showing the following information with respect to 
+    the net public debt:
+            ``(A) The past levels of such debt and the projected levels 
+        of such debt as of the close of the current fiscal year and as 
+        of the close of the next 5 fiscal years under the most recent 
+        current services baseline projection of the executive branch.
+            ``(B) The past debt to GDP ratios and the projected debt to 
+        GDP ratios as of the close of the current fiscal year and as of 
+        the close of the next 5 fiscal years under such most recent 
+        current services baseline projection.
+            ``(C) The interest cost on such debt for prior fiscal years 
+        and the projected interest cost on such debt for the current 
+        fiscal year and for the next 5 fiscal years under such most 
+        recent current services baseline projection.
+            ``(D) The interest cost to outlay ratios for prior fiscal 
+        years and the projected interest cost to outlay ratios for the 
+        current fiscal year and for the next 5 fiscal years under such 
+        most recent current services baseline projection.
+        ``(3) A table showing the maturity distribution of the net 
+    public debt as of the time the report is submitted and for prior 
+    years, and an explanation of the overall financing strategy used in 
+    determining the distribution of maturities when issuing public debt 
+    obligations, including a discussion of the projections and 
+    assumptions with respect to the structure of interest rates for the 
+    current fiscal year and for the succeeding 5 fiscal years.
+        ``(4) A table showing the following information as of the time 
+    the report is submitted and for prior years:
+            ``(A) A description of the various categories of the holders 
+        of public debt obligations.
+            ``(B) The portions of the total public debt held by each of 
+        such categories.
+        ``(5) A table showing the relationship of federally assisted 
+    borrowing to total Federal borrowing as of the time the report is 
+    submitted and for prior years.
+        ``(6) A table showing the annual principal and interest payments 
+    which would be required to amortize in equal annual payments the 
+    level (as of the time the report is submitted) of the net public 
+    debt over the longest remaining term to maturity of any obligation 
+    which is a part of such debt.
+    ``(c) Required Information on Federal Financing Bank.--Each report 
+submitted under subsection (a) shall include (but not be limited to) 
+information on the financial operations of the Federal Financing Bank, 
+including loan payments and prepayments, and on the levels and 
+categories of the lending activities of the Federal Financing Bank, for 
+the current fiscal year and for prior fiscal years.
+    ``(d) Recommendations.--The Secretary of the Treasury may include in 
+any report submitted under subsection (a) such recommendations to 
+improve the issuance and sale of public debt obligations (and with 
+respect to other matters) as he may deem advisable.
+    ``(e) Definitions.--For purposes of this section--
+        ``(1) Current fiscal year.--The term `current fiscal year' means 
+    the fiscal year ending in the calendar year in which the report is 
+    submitted.
+        ``(2) Total public debt.--The term `total public debt' means the 
+    total amount of the obligations subject to the public debt limit 
+    established in section 3101 of this title.
+        ``(3) Net public debt.--The term `net public debt' means the 
+    portion of the total public debt which is held by the public.
+        ``(4) Debt to gdp ratio.--The term `debt to GDP ratio' means the 
+    percentage obtained by dividing the level of the total public debt 
+    or net public debt, as the case may be, by the gross domestic 
+    product.
+        ``(5) Interest cost to outlay ratio.--The term `interest cost to 
+    outlay ratio' means, with respect to any fiscal year, the percentage 
+    obtained by dividing the interest cost for such fiscal year on the 
+    net public debt by the total amount of Federal outlays for such 
+    fiscal year.''.
+    (b) Clerical Amendment.--The analysis for subchapter II of chapter 
+31 of title 31, United States Code, is amended by adding at the end the 
+following new item:
+``3130. Annual public debt report.''.
+
+SEC. 202. TREASURY AUCTION REFORMS.
+
+    (a) Ability to Submit Computer Tenders in Treasury Auctions.--By the 
+end of 1995, any bidder shall be permitted to submit a computer-
+generated tender to any automated auction system established by the 
+Secretary of the Treasury for the sale upon issuance of securities 
+issued by the Secretary if the bidder--
+        (1) meets the minimum creditworthiness standard established by 
+    the Secretary; and
+        (2) agrees to comply with regulations and procedures applicable 
+    to the automated system and the sale upon issuance of securities 
+    issued by the Secretary.
+    (b) Prohibition on Favored Players.--
+        (1) In general.--No government securities broker or government 
+    securities dealer may receive any advantage, favorable treatment, or 
+    other benefit, in connection with the purchase upon issuance of 
+    securities issued by the Secretary of the Treasury, which is not 
+    generally available to other government securities brokers or 
+    government securities dealers under the regulations governing the 
+    sale upon issuance of securities issued by the Secretary of the 
+    Treasury.
+        (2) Exception.--
+            (A) In general.--The Secretary of the Treasury may grant an 
+        exception to the application of paragraph (1) if--
+                (i) the Secretary determines that any advantage, 
+            favorable treatment, or other benefit referred to in such 
+            paragraph is necessary and appropriate and in the public 
+            interest; and
+                (ii) the grant of the exception is designed to minimize 
+            any anticompetitive effect.
+            (B) Annual report.--The Secretary of the Treasury shall 
+        submit an annual report to the Congress describing any exception 
+        granted by the Secretary under subparagraph (A) during the year 
+        covered by the report and the basis upon which the exception was 
+        granted.
+    (c) Meetings of Treasury Borrowing Advisory Committee.--
+        (1) Open meetings.--
+            (A) In general.--Except as provided in subparagraph (B), any 
+        meeting of the Treasury Borrowing Advisory Committee of the 
+        Public Securities Association (hereafter in this subsection 
+        referred to as the ``advisory committee''), or any successor to 
+        the advisory committee, shall be open to the public.
+            (B) Exception.--Subparagraph (A) shall not apply with 
+        respect to any part of any meeting of the advisory committee in 
+        which the advisory committee--
+                (i) discusses and debates the issues presented to the 
+            advisory committee by the Secretary of the Treasury; or
+                (ii) makes recommendations to the Secretary.
+        (2) Minutes of each meeting.--The detailed minutes required to 
+    be maintained under section 10(c) of the Federal Advisory Committee 
+    Act for any meeting by the advisory committee shall be made 
+    available to the public within 3 business days of the date of the 
+    meeting.
+        (3) Prohibition on receipt of gratuities or expenses by any 
+    officer or employee of the board or department.--In connection with 
+    any meeting of the advisory committee, no officer or employee of the 
+    Department of the Treasury, the Board of Governors of the Federal 
+    Reserve System, or any Federal reserve bank may accept any gratuity, 
+    consideration, expense of any sort, or any other thing of value from 
+    any advisory committee described in subsection (c), any member of 
+    such committee, or any other person.
+        (4) Prohibition on outside discussions.--
+            (A) In general.--Subject to subparagraph (B), a member of 
+        the advisory committee may not discuss any part of any 
+        discussion, debate, or recommendation at a meeting of the 
+        advisory committee which occurs while such meeting is closed to 
+        the public (in accordance with paragraph (1)(B)) with, or 
+        disclose the contents of such discussion, debate, or 
+        recommendation to, anyone other than--
+                (i) another member of the advisory committee who is 
+            present at the meeting; or
+                (ii) an officer or employee of the Department of the 
+            Treasury.
+            (B) Applicable period of prohibition.--The prohibition 
+        contained in subparagraph (A) on discussions and disclosures of 
+        any discussion, debate, or recommendation at a meeting of the 
+        advisory committee shall cease to apply--
+                (i) with respect to any discussion, debate, or 
+            recommendation which relates to the securities to be 
+            auctioned in a midquarter refunding by the Secretary of the 
+            Treasury, at the time the Secretary makes a public 
+            announcement of the refunding; and
+                (ii) with respect to any other discussion, debate, or 
+            recommendation at the meeting, at the time the Secretary 
+            releases the minutes of the meeting in accordance with 
+            paragraph (2).
+            (C) Removal from advisory committee for violations of this 
+        paragraph.--In addition to any penalty or enforcement action to 
+        which a person who violates a provision of this paragraph may be 
+        subject under any other provision of law, the Secretary of the 
+        Treasury shall--
+                (i) remove a member of the advisory committee who 
+            violates a provision of this paragraph from the advisory 
+            committee and permanently bar such person from serving as a 
+            member of the advisory committee; and
+                (ii) prohibit any director, officer, or employee of the 
+            firm of which the member referred to in clause (i) is a 
+            director, officer, or employee (at the time the member is 
+            removed from the advisory committee) from serving as a 
+            member of the advisory committee at any time during the 5-
+            year period beginning on the date of such removal.
+    (d) Report to Congress.--
+        (1) Report required.--The Secretary of the Treasury shall submit 
+    an annual report to the Congress containing the following 
+    information with respect to material violations or suspected 
+    material violations of regulations of the Secretary relating to 
+    auctions and other offerings of securities upon the issuance of such 
+    securities by the Secretary:
+            (A) The number of inquiries begun by the Secretary during 
+        the year covered by the report regarding such material 
+        violations or suspected material violations by any participant 
+        in the auction system or any director, officer, or employee of 
+        any such participant and the number of inquiries regarding any 
+        such violations or suspected violations which remained open at 
+        the end of such year.
+            (B) A brief description of the nature of the violations.
+            (C) A brief description of any action taken by the Secretary 
+        during such year with respect to any such violation, including 
+        any referrals made to the Attorney General, the Securities and 
+        Exchange Commission, any other law enforcement agency, and any 
+        Federal banking agency (as defined in section 3 of the Federal 
+        Deposit Insurance Act).
+        (2) Delay in disclosure of information in certain cases.--The 
+    Secretary of the Treasury shall not be required to include in a 
+    report under paragraph (1) any information the disclosure of which 
+    could jeopardize an investigation by an agency described in 
+    paragraph (1)(C) for so long as such disclosure could jeopardize the 
+    investigation.
+
+SEC. 203. NOTICE ON TREASURY MODIFICATIONS TO AUCTION PROCESS.
+
+    The Secretary of the Treasury shall notify the Congress of any 
+significant modifications to the auction process for issuing United 
+States Treasury obligations at the time such modifications are 
+implemented.
+                 TITLE III--LIMITED PARTNERSHIP ROLLUPS
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Limited Partnership Rollup Reform 
+Act of 1993''.
+
+SEC. 302. REVISION OF PROXY SOLICITATION RULES WITH RESPECT TO LIMITED 
+              PARTNERSHIP ROLLUP TRANSACTIONS.
+
+    (a) Amendment.--Section 14 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78n) is amended by adding at the end the following new 
+subsection:
+    ``(h) Proxy Solicitations and Tender Offers in Connection With 
+Limited Partnership Rollup Transactions.--
+        ``(1) Proxy rules to contain special provisions.--It shall be 
+    unlawful for any person to solicit any proxy, consent, or 
+    authorization concerning a limited partnership rollup transaction, 
+    or to make any tender offer in furtherance of a limited partnership 
+    rollup transaction, unless such transaction is conducted in 
+    accordance with rules prescribed by the Commission under subsections 
+    (a) and (d) as required by this subsection. Such rules shall--
+            ``(A) permit any holder of a security that is the subject of 
+        the proposed limited partnership rollup transaction to engage in 
+        preliminary communications for the purpose of determining 
+        whether to solicit proxies, consents, or authorizations in 
+        opposition to the proposed limited partnership rollup 
+        transaction, without regard to whether any such communication 
+        would otherwise be considered a solicitation of proxies, and 
+        without being required to file soliciting material with the 
+        Commission prior to making that determination, except that--
+                ``(i) nothing in this subparagraph shall be construed to 
+            limit the application of any provision of this title 
+            prohibiting, or reasonably designed to prevent, fraudulent, 
+            deceptive, or manipulative acts or practices under this 
+            title; and
+                ``(ii) any holder of not less than 5 percent of the 
+            outstanding securities that are the subject of the proposed 
+            limited partnership rollup transaction who engages in the 
+            business of buying and selling limited partnership interests 
+            in the secondary market shall be required to disclose such 
+            ownership interests and any potential conflicts of interests 
+            in such preliminary communications;
+            ``(B) require the issuer to provide to holders of the 
+        securities that are the subject of the limited partnership 
+        rollup transaction such list of the holders of the issuer's 
+        securities as the Commission may determine in such form and 
+        subject to such terms and conditions as the Commission may 
+        specify;
+            ``(C) prohibit compensating any person soliciting proxies, 
+        consents, or authorizations directly from security holders 
+        concerning such a limited partnership rollup transaction--
+                ``(i) on the basis of whether the solicited proxy, 
+            consent, or authorization either approves or disapproves the 
+            proposed limited partnership rollup transaction; or
+                ``(ii) contingent on the approval, disapproval, or 
+            completion of the limited partnership rollup transaction;
+            ``(D) set forth disclosure requirements for soliciting 
+        material distributed in connection with a limited partnership 
+        rollup transaction, including requirements for clear, concise, 
+        and comprehensible disclosure with respect to--
+                ``(i) any changes in the business plan, voting rights, 
+            form of ownership interest, or the compensation of the 
+            general partner in the proposed limited partnership rollup 
+            transaction from each of the original limited partnerships;
+                ``(ii) the conflicts of interest, if any, of the general 
+            partner;
+                ``(iii) whether it is expected that there will be a 
+            significant difference between the exchange values of the 
+            limited partnerships and the trading price of the securities 
+            to be issued in the limited partnership rollup transaction;
+                ``(iv) the valuation of the limited partnerships and the 
+            method used to determine the value of the interests of the 
+            limited partners to be exchanged for the securities in the 
+            limited partnership rollup transaction;
+                ``(v) the differing risks and effects of the limited 
+            partnership rollup transaction for investors in different 
+            limited partnerships proposed to be included, and the risks 
+            and effects of completing the limited partnership rollup 
+            transaction with less than all limited partnerships;
+                ``(vi) the statement by the general partner required 
+            under subparagraph (E);
+                ``(vii) such other matters deemed necessary or 
+            appropriate by the Commission;
+            ``(E) require a statement by the general partner as to 
+        whether the proposed limited partnership rollup transaction is 
+        fair or unfair to investors in each limited partnership, a 
+        discussion of the basis for that conclusion, and an evaluation 
+        and a description by the general partner of alternatives to the 
+        limited partnership rollup transaction, such as liquidation;
+            ``(F) provide that, if the general partner or sponsor has 
+        obtained any opinion (other than an opinion of counsel), 
+        appraisal, or report that is prepared by an outside party and 
+        that is materially related to the limited partnership rollup 
+        transaction, such soliciting materials shall contain or be 
+        accompanied by clear, concise, and comprehensible disclosure 
+        with respect to--
+                ``(i) the analysis of the transaction, scope of review, 
+            preparation of the opinion, and basis for and methods of 
+            arriving at conclusions, and any representations and 
+            undertakings with respect thereto;
+                ``(ii) the identity and qualifications of the person who 
+            prepared the opinion, the method of selection of such 
+            person, and any material past, existing, or contemplated 
+            relationships between the person or any of its affiliates 
+            and the general partner, sponsor, successor, or any other 
+            affiliate;
+                ``(iii) any compensation of the preparer of such 
+            opinion, appraisal, or report that is contingent on the 
+            transaction's approval or completion; and
+                ``(iv) any limitations imposed by the issuer on the 
+            access afforded to such preparer to the issuer's personnel, 
+            premises, and relevant books and records;
+            ``(G) provide that, if the general partner or sponsor has 
+        obtained any opinion, appraisal, or report as described in 
+        subparagraph (F) from any person whose compensation is 
+        contingent on the transaction's approval or completion or who 
+        has not been given access by the issuer to its personnel and 
+        premises and relevant books and records, the general partner or 
+        sponsor shall state the reasons therefor;
+            ``(H) provide that, if the general partner or sponsor has 
+        not obtained any opinion on the fairness of the proposed limited 
+        partnership rollup transaction to investors in each of the 
+        affected partnerships, such soliciting materials shall contain 
+        or be accompanied by a statement of such partner's or sponsor's 
+        reasons for concluding that such an opinion is not necessary in 
+        order to permit the limited partners to make an informed 
+        decision on the proposed transaction;
+            ``(I) require that the soliciting material include a clear, 
+        concise, and comprehensible summary of the limited partnership 
+        rollup transaction (including a summary of the matters referred 
+        to in clauses (i) through (vii) of subparagraph (D) and a 
+        summary of the matter referred to in subparagraphs (F), (G), and 
+        (H)), with the risks of the limited partnership rollup 
+        transaction set forth prominently in the fore part thereof;
+            ``(J) provide that any solicitation or offering period with 
+        respect to any proxy solicitation, tender offer, or information 
+        statement in a limited partnership rollup transaction shall be 
+        for not less than the lesser of 60 calendar days or the maximum 
+        number of days permitted under applicable State law; and
+            ``(K) contain such other provisions as the Commission 
+        determines to be necessary or appropriate for the protection of 
+        investors in limited partnership rollup transactions.
+        ``(2) Exemptions.--The Commission may, consistent with the 
+    public interest, the protection of investors, and the purposes of 
+    this title, exempt by rule or order any security or class of 
+    securities, any transaction or class of transactions, or any person 
+    or class of persons, in whole or in part, conditionally or 
+    unconditionally, from the requirements imposed pursuant to paragraph 
+    (1) or from the definition contained in paragraph (4).
+        ``(3) Effect on commission authority.--Nothing in this 
+    subsection limits the authority of the Commission under subsection 
+    (a) or (d) or any other provision of this title or precludes the 
+    Commission from imposing, under subsection (a) or (d) or any other 
+    provision of this title, a remedy or procedure required to be 
+    imposed under this subsection.
+        ``(4) Definition of limited partnership rollup transaction.--
+    Except as provided in paragraph (5), as used in this subsection, the 
+    term `limited partnership rollup transaction' means a transaction 
+    involving the combination or reorganization of one or more limited 
+    partnerships, directly or indirectly, in which--
+            ``(A) some or all of the investors in any of such limited 
+        partnerships will receive new securities, or securities in 
+        another entity, that will be reported under a transaction 
+        reporting plan declared effective before the date of enactment 
+        of this subsection by the Commission under section 11A;
+            ``(B) any of the investors' limited partnership securities 
+        are not, as of the date of filing, reported under a transaction 
+        reporting plan declared effective before the date of enactment 
+        of this subsection by the Commission under section 11A;
+            ``(C) investors in any of the limited partnerships involved 
+        in the transaction are subject to a significant adverse change 
+        with respect to voting rights, the term of existence of the 
+        entity, management compensation, or investment objectives; and
+            ``(D) any of such investors are not provided an option to 
+        receive or retain a security under substantially the same terms 
+        and conditions as the original issue.
+        ``(5) Exclusions from definition.--Notwithstanding paragraph 
+    (4), the term `limited partnership rollup transaction' does not 
+    include--
+            ``(A) a transaction that involves only a limited partnership 
+        or partnerships having an operating policy or practice of 
+        retaining cash available for distribution and reinvesting 
+        proceeds from the sale, financing, or refinancing of assets in 
+        accordance with such criteria as the Commission determines 
+        appropriate;
+            ``(B) a transaction involving only limited partnerships 
+        wherein the interests of the limited partners are repurchased, 
+        recalled, or exchanged in accordance with the terms of the 
+        preexisting limited partnership agreements for securities in an 
+        operating company specifically identified at the time of the 
+        formation of the original limited partnership;
+            ``(C) a transaction in which the securities to be issued or 
+        exchanged are not required to be and are not registered under 
+        the Securities Act of 1933;
+            ``(D) a transaction that involves only issuers that are not 
+        required to register or report under section 12, both before and 
+        after the transaction;
+            ``(E) a transaction, except as the Commission may otherwise 
+        provide by rule for the protection of investors, involving the 
+        combination or reorganization of one or more limited 
+        partnerships in which a non-affiliated party succeeds to the 
+        interests of a general partner or sponsor, if--
+                ``(i) such action is approved by not less than 66\2/3\ 
+            percent of the outstanding units of each of the 
+            participating limited partnerships; and
+                ``(ii) as a result of the transaction, the existing 
+            general partners will receive only compensation to which 
+            they are entitled as expressly provided for in the 
+            preexisting limited partnership agreements; or
+            ``(F) a transaction, except as the Commission may otherwise 
+        provide by rule for the protection of investors, in which the 
+        securities offered to investors are securities of another entity 
+        that are reported under a transaction reporting plan declared 
+        effective before the date of enactment of this subsection by the 
+        Commission under section 11A, if--
+                ``(i) such other entity was formed, and such class of 
+            securities was reported and regularly traded, not less than 
+            12 months before the date on which soliciting material is 
+            mailed to investors; and
+                ``(ii) the securities of that entity issued to investors 
+            in the transaction do not exceed 20 percent of the total 
+            outstanding securities of the entity, exclusive of any 
+            securities of such class held by or for the account of the 
+            entity or a subsidiary of the entity.''.
+    (b) Schedule for Regulations.--The Securities and Exchange 
+Commission shall conduct rulemaking proceedings and prescribe final 
+regulations under the Securities Act of 1933 and the Securities Exchange 
+Act of 1934 to implement the requirements of section 14(h) of the 
+Securities Exchange Act of 1934, as amended by subsection (a), and such 
+regulations shall become effective not later than 12 months after the 
+date of enactment of this Act.
+    (c) Evaluation of Fairness Opinion Preparation, Disclosure, and 
+Use.--
+        (1) Evaluation required.--The Comptroller General of the United 
+    States shall, within 18 months after the date of enactment of this 
+    Act, conduct a study of--
+            (A) the use of fairness opinions in limited partnership 
+        rollup transactions;
+            (B) the standards which preparers use in making 
+        determinations of fairness;
+            (C) the scope of review, quality of analysis, qualifications 
+        and methods of selection of preparers, costs of preparation, and 
+        any limitations imposed by issuers on such preparers;
+            (D) the nature and quality of disclosures provided with 
+        respect to such opinions;
+            (E) any conflicts of interest with respect to the 
+        preparation of such opinions; and
+            (F) the usefulness of such opinions to limited partners.
+        (2) Report required.--Not later than the end of the 18-month 
+    period referred to in paragraph (1), the Comptroller General of the 
+    United States shall submit to the Congress a report on the 
+    evaluation required by paragraph (1).
+
+SEC. 303. RULES OF FAIR PRACTICE IN ROLLUP TRANSACTIONS.
+
+    (a) Registered Securities Association Rule.--Section 15A(b) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o-3(b)) is amended by 
+adding at the end the following new paragraph:
+        ``(12) The rules of the association to promote just and 
+    equitable principles of trade, as required by paragraph (6), include 
+    rules to prevent members of the association from participating in 
+    any limited partnership rollup transaction (as such term is defined 
+    in paragraphs (4) and (5) of section 14(h)) unless such transaction 
+    was conducted in accordance with procedures designed to protect the 
+    rights of limited partners, including--
+            ``(A) the right of dissenting limited partners to one of the 
+        following:
+                ``(i) an appraisal and compensation;
+                ``(ii) retention of a security under substantially the 
+            same terms and conditions as the original issue;
+                ``(iii) approval of the limited partnership rollup 
+            transaction by not less than 75 percent of the outstanding 
+            securities of each of the participating limited 
+            partnerships;
+                ``(iv) the use of a committee that is independent, as 
+            determined in accordance with rules prescribed by the 
+            association, of the general partner or sponsor, that has 
+            been approved by a majority of the outstanding securities of 
+            each of the participating partnerships, and that has such 
+            authority as is necessary to protect the interest of limited 
+            partners, including the authority to hire independent 
+            advisors, to negotiate with the general partner or sponsor 
+            on behalf of the limited partners, and to make a 
+            recommendation to the limited partners with respect to the 
+            proposed transaction; or
+                ``(v) other comparable rights that are prescribed by 
+            rule by the association and that are designed to protect 
+            dissenting limited partners;
+            ``(B) the right not to have their voting power unfairly 
+        reduced or abridged;
+            ``(C) the right not to bear an unfair portion of the costs 
+        of a proposed limited partnership rollup transaction that is 
+        rejected; and
+            ``(D) restrictions on the conversion of contingent interests 
+        or fees into non-contingent interests or fees and restrictions 
+        on the receipt of a non-contingent equity interest in exchange 
+        for fees for services which have not yet been provided.
+    As used in this paragraph, the term `dissenting limited partner' 
+    means a person who, on the date on which soliciting material is 
+    mailed to investors, is a holder of a beneficial interest in a 
+    limited partnership that is the subject of a limited partnership 
+    rollup transaction, and who casts a vote against the transaction and 
+    complies with procedures established by the association, except that 
+    for purposes of an exchange or tender offer, such person shall file 
+    an objection in writing under the rules of the association during 
+    the period in which the offer is outstanding.''.
+    (b) Listing Standards of National Securities Exchanges.--Section 
+6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(b)) is 
+amended by adding at the end the following:
+        ``(9) The rules of the exchange prohibit the listing of any 
+    security issued in a limited partnership rollup transaction (as such 
+    term is defined in paragraphs (4) and (5) of section 14(h)), unless 
+    such transaction was conducted in accordance with procedures 
+    designed to protect the rights of limited partners, including--
+            ``(A) the right of dissenting limited partners to one of the 
+        following:
+                ``(i) an appraisal and compensation;
+                ``(ii) retention of a security under substantially the 
+            same terms and conditions as the original issue;
+                ``(iii) approval of the limited partnership rollup 
+            transaction by not less than 75 percent of the outstanding 
+            securities of each of the participating limited 
+            partnerships;
+                ``(iv) the use of a committee of limited partners that 
+            is independent, as determined in accordance with rules 
+            prescribed by the exchange, of the general partner or 
+            sponsor, that has been approved by a majority of the 
+            outstanding units of each of the participating limited 
+            partnerships, and that has such authority as is necessary to 
+            protect the interest of limited partners, including the 
+            authority to hire independent advisors, to negotiate with 
+            the general partner or sponsor on behalf of the limited 
+            partners, and to make a recommendation to the limited 
+            partners with respect to the proposed transaction; or
+                ``(v) other comparable rights that are prescribed by 
+            rule by the exchange and that are designed to protect 
+            dissenting limited partners;
+            ``(B) the right not to have their voting power unfairly 
+        reduced or abridged;
+            ``(C) the right not to bear an unfair portion of the costs 
+        of a proposed limited partnership rollup transaction that is 
+        rejected; and
+            ``(D) restrictions on the conversion of contingent interests 
+        or fees into non-contingent interests or fees and restrictions 
+        on the receipt of a non-contingent equity interest in exchange 
+        for fees for services which have not yet been provided.
+    As used in this paragraph, the term `dissenting limited partner' 
+    means a person who, on the date on which soliciting material is 
+    mailed to investors, is a holder of a beneficial interest in a 
+    limited partnership that is the subject of a limited partnership 
+    rollup transaction, and who casts a vote against the transaction and 
+    complies with procedures established by the exchange, except that 
+    for purposes of an exchange or tender offer, such person shall file 
+    an objection in writing under the rules of the exchange during the 
+    period during which the offer is outstanding.''.
+    (c) Standards for Automated Quotation Systems.--Section 15A(b) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78o-3(b)) is amended by 
+adding at the end the following new paragraph:
+        ``(13) The rules of the association prohibit the authorization 
+    for quotation on an automated interdealer quotation system sponsored 
+    by the association of any security designated by the Commission as a 
+    national market system security resulting from a limited partnership 
+    rollup transaction (as such term is defined in paragraphs (4) and 
+    (5) of section 14(h)), unless such transaction was conducted in 
+    accordance with procedures designed to protect the rights of limited 
+    partners, including--
+            ``(A) the right of dissenting limited partners to one of the 
+        following:
+                ``(i) an appraisal and compensation;
+                ``(ii) retention of a security under substantially the 
+            same terms and conditions as the original issue;
+                ``(iii) approval of the limited partnership rollup 
+            transaction by not less than 75 percent of the outstanding 
+            securities of each of the participating limited 
+            partnerships;
+                ``(iv) the use of a committee that is independent, as 
+            determined in accordance with rules prescribed by the 
+            association, of the general partner or sponsor, that has 
+            been approved by a majority of the outstanding securities of 
+            each of the participating partnerships, and that has such 
+            authority as is necessary to protect the interest of limited 
+            partners, including the authority to hire independent 
+            advisors, to negotiate with the general partner or sponsor 
+            on behalf of the limited partners, and to make a 
+            recommendation to the limited partners with respect to the 
+            proposed transaction; or
+                ``(v) other comparable rights that are prescribed by 
+            rule by the association and that are designed to protect 
+            dissenting limited partners;
+            ``(B) the right not to have their voting power unfairly 
+        reduced or abridged;
+            ``(C) the right not to bear an unfair portion of the costs 
+        of a proposed limited partnership rollup transaction that is 
+        rejected; and
+            ``(D) restrictions on the conversion of contingent interests 
+        or fees into non-contingent interests or fees and restrictions 
+        on the receipt of a non-contingent equity interest in exchange 
+        for fees for services which have not yet been provided.
+    As used in this paragraph, the term `dissenting limited partner' 
+    means a person who, on the date on which soliciting material is 
+    mailed to investors, is a holder of a beneficial interest in a 
+    limited partnership that is the subject of a limited partnership 
+    rollup transaction, and who casts a vote against the transaction and 
+    complies with procedures established by the association, except that 
+    for purposes of an exchange or tender offer, such person shall file 
+    an objection in writing under the rules of the association during 
+    the period during which the offer is outstanding.''.
+
+SEC. 304. EFFECTIVE DATE; EFFECT ON EXISTING AUTHORITY.
+
+    (a) Effective Date.--
+        (1) In general.--The amendments made by section 303 shall become 
+    effective 12 months after the date of enactment of this Act.
+        (2) Rulemaking authority.--Notwithstanding paragraph (1), the 
+    authority of the Securities and Exchange Commission, a registered 
+    securities association, and a national securities exchange to 
+    commence rulemaking proceedings for the purpose of issuing rules 
+    pursuant to the amendments made by section 303 is effective on the 
+    date of enactment of this Act.
+        (3) Review of filings prior to effective date.--Prior to the 
+    effective date of regulations promulgated pursuant to this title, 
+    the Securities and Exchange Commission shall continue to review and 
+    declare effective registration statements and amendments thereto 
+    relating to limited partnership rollup transactions in accordance 
+    with applicable regulations then in effect.
+    (b) Effect on Existing Authority.--The amendments made by this title 
+shall not limit the authority of the Securities and Exchange Commission, 
+a registered securities association, or a national securities exchange 
+under any provision of the Securities Exchange Act of 1934, or preclude 
+the Commission or such association or exchange from imposing, under any 
+other such provision, a remedy or procedure required to be imposed under 
+such amendments.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

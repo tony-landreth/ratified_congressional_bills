@@ -1,0 +1,253 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1274 Enrolled Bill (ENR)]
+
+        S.1274
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+  the fifth day of January, one thousand nine hundred and ninety-three
+
+
+                                 An Act
+
+  
+ 
+  To reduce the subsidy cost for the Guaranteed Business Loan Program of 
+the
+
+         Small Business Administration, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Small Business 
+Guaranteed Credit Enhancement Act of 1993''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. General authorizations.
+Sec. 3. Authority to impose secondary market fees.
+Sec. 4. Penalties.
+Sec. 5. Authority to reduce loan guarantee percentages.
+Sec. 6. Study and report.
+Sec. 7. Repealer.
+Sec. 8. Microloan program amendments.
+Sec. 9. Small Business Development Center Program.
+Sec. 10. White House Conference on Small Business.
+Sec. 11. National Women's Business Council.
+
+SEC. 2. GENERAL AUTHORIZATIONS.
+
+    Section 20 of the Small Business Act (15 U.S.C. 631 note) is 
+amended--
+        (1) in subsection (g)(2) by striking ``$7,030,000,000'' and by 
+    inserting in lieu thereof ``$7,155,000,000'';
+        (2) in subsection (g)(2) by striking ``$775,000,000'' and by 
+    inserting in lieu thereof ``$900,000,000'';
+        (3) in subsection (i)(2) by striking ``$8,083,000,000'' and by 
+    inserting in lieu thereof ``$8,458,000,000''; and
+        (4) in subsection (i)(2) by striking ``$825,000,000'' and by 
+    inserting in lieu thereof ``$1,200,000,000''.
+
+SEC. 3. AUTHORITY TO IMPOSE SECONDARY MARKET FEES.
+
+    (a) Additional Guarantee Fees.--Section 5(g) of the Small Business 
+Act (15 U.S.C. 634) is amended by striking paragraph (4) and by 
+inserting in lieu thereof the following:
+        ``(4)(A) The Administration may collect the following fees for 
+    loan guarantees sold into the secondary market pursuant to the 
+    provisions of subsection (f): an amount equal to (A)
+    not more than \4/10\ of one percent per year of the outstanding 
+    principal amount of the portion of such loan guaranteed by the 
+    Administration, and (B) not more than 50 percent of the portion of 
+    the sale price which is in excess of 110 percent of the outstanding 
+    principal amount of the portion of such loan guaranteed by the 
+    Administration. Any such fees imposed by the Administration shall be 
+    collected by the Administration or by the agent which carries out on 
+    behalf of the Administration the central registration functions 
+    required by subsection (h) of this section and shall be paid to the 
+    Administration and used solely to reduce the subsidy on loans 
+    guaranteed under section 7(a) of this Act: Provided, That such fees 
+    shall not be charged to the borrower whose loan is guaranteed: and, 
+    Provided further, That nothing herein shall preclude any agent of 
+    the Administration from collecting a fee approved by the 
+    Administration for the functions described in subsection (h)(2).
+        ``(B) The Administration is authorized to impose and collect, 
+    either directly or through a fiscal and transfer agent, a reasonable 
+    penalty on late payments of the fee authorized under subparagraph 
+    (A) in an amount not to exceed 5 percent of such fee per month plus 
+    interest.''.
+    (b) Any new fees imposed by the Administration pursuant to the 
+authority conferred by subsection (a) shall be applicable only to loans 
+initially sold in the secondary market pursuant to the provisions of 
+section 5(f) of the Small Business Act after August 31, 1993.
+
+SEC. 4. PENALTIES.
+
+    Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended 
+by adding at the end the following new paragraph:
+        ``(22) The Administration is authorized to permit participating 
+    lenders to impose and collect a reasonable penalty fee on late 
+    payments of loans guaranteed under this subsection in an amount not 
+    to exceed 5 percent of the monthly loan payment per month plus 
+    interest.''.
+
+SEC. 5. AUTHORITY TO REDUCE LOAN GUARANTEE PERCENTAGES.
+
+    (a) Guarantee Percentages.--Section 7(a)(2) of the Small Business 
+Act (15 U.S.C. 636) is amended--
+        (1) by striking from the end of clause (B)(i) the word ``and'' 
+    and by redesignating clause (B)(ii) as (B)(iv) and by inserting the 
+    following after clause (B)(i):
+            ``(ii) not less than 75 percent of the financing outstanding 
+        at the time of disbursement, if such financing is more than 
+        $155,000 and the period of maturity of such financing is more 
+        than 10 years, except that the participation by the 
+        Administration may be reduced below 75 percent upon request of 
+        the participating lender;
+            ``(iii) not less than 85 percent of the financing 
+        outstanding at the time of disbursement, if such financing is 
+        more than $155,000 and the period of maturity of such financing 
+        is 10 years or less, except that the participation by the 
+        Administration may be reduced below 85 percent upon request of 
+        the participating lender; and'';
+        (2) by striking the words ``85 percent under subparagraph (B)'' 
+    and by inserting in lieu thereof the following: ``the above 
+    specified percentums'';
+        (3) by striking from paragraph (B) the words ``not less than 80 
+    percent, except upon'' and by inserting in lieu thereof the 
+    following: ``not less than 70 percent, unless a lesser percent is 
+    required by clause (B)(ii) or upon the''; and
+        (4) by inserting after the third sentence the following: ``The 
+    maximum interest rate for a loan guaranteed under the Preferred 
+    Lenders Program shall not exceed the maximum interest rate, as 
+    determined by the Administration, which is made applicable to other 
+    loan guarantees under section 7(a).''.
+    (b) Application.--Notwithstanding any other provision of law, the 
+amendments made by subsection (a) shall be effective September 1, 1993, 
+but shall not be applicable to loan guarantee applications received by 
+the Administration prior to August 21, 1993. In order to determine the 
+percent of the loan to be guaranteed pursuant to the amendments made by 
+subsection (a), the Administration shall aggregate the outstanding 
+guaranteed principal of multiple loan guarantees issued on behalf of the 
+same borrower.
+
+SEC. 6. STUDY AND REPORT.
+
+    The Administration shall study, monitor and evaluate the impact of 
+the amendments made by sections 3 and 5 of this Act on the ability of 
+small business concerns and small business concerns owned and controlled 
+by minorities and women, to obtain financing and the impact of such 
+sections on the effectiveness, viability and growth of the secondary 
+market authorized by section 5(f) of the Small Business Act. Not later 
+than 16 months after the date of enactment, and annually thereafter, the 
+Administration shall submit to the Committees on Small Business of the 
+Senate and the House of Representatives a report containing the 
+Administration's findings and recommendations on such impact, 
+specifically including changes in the interest rates on financings 
+provided to small business concerns and small business concerns owned 
+and controlled by minorities and women, through the use of the secondary 
+market. The Administration shall segregate such findings and 
+recommendations in the study according to the ethnic and gender 
+components in these categories. Solely for the purposes of the study 
+authorized herein, the term ``small business concerns owned and 
+controlled by minorities'', includes businesses owned and controlled by 
+individuals belonging to one of the designated groups listed in section 
+8(d)(3)(C) of the Small Business Act.
+
+SEC. 7. REPEALER.
+
+    Sections 3 and 5 of this Act are hereby repealed on September 30, 
+1996.
+
+SEC. 8. MICROLOAN PROGRAM AMENDMENTS.
+
+    Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is 
+amended--
+        (1) in paragraph (1)(B)(iii), by striking ``$15,000'' and 
+    inserting ``$25,000'';
+        (2) in paragraph (5)(A), by striking ``6 grants'' and inserting 
+    ``25 grants for terms of up to 5 years''; and
+        (3) in paragraph (9)(B) by striking ``3 percent'' and inserting 
+    ``7 percent''.
+
+SEC. 9. SMALL BUSINESS DEVELOPMENT CENTER PROGRAM.
+
+    (a) Clearinghouse.--Section 21(c)(7) of the Small Business Act (15 
+U.S.C. 648) is amended by striking ``system which will'' and by 
+inserting in lieu thereof the following: ``system. Subject to amounts 
+approved in advance in appropriations Acts, the Administration may make 
+grants or enter cooperative agreements with one or more centers to carry 
+out the provisions of this paragraph. Said grants or cooperative 
+agreements shall be awarded for periods of no more than five years 
+duration. The matching funds provisions of subsection (a) shall not be 
+applicable to grants or cooperative agreements under this paragraph. The 
+system shall''.
+    (b) Authorization.--Section 25(i) of the Small Business Act (15 
+U.S.C. 652) is amended by striking ``$8,000,000 for fiscal year 1993'' 
+and by inserting in lieu thereof ``$2,000,000 for each of fiscal years 
+1993 and 1994''.
+    (c) Regulations.--Section 223 of the Small Business Credit and 
+Business Opportunity Enhancement Act of 1992 (15 U.S.C. 631 note) is 
+amended by striking the last sentence of subsection (b).
+
+SEC. 10. WHITE HOUSE CONFERENCE ON SMALL BUSINESS.
+
+    The White House Conference on Small Business Authorization Act (15 
+U.S.C. 631 note) is amended--
+        (1) in section 2 by striking from subsection (a) ``not earlier 
+    than January 1, 1994, and not later than April 1, 1994'' and by 
+    inserting in lieu thereof ``not earlier than May 1, 1995, and not 
+    later than September 30, 1995'';
+        (2) in section 2 by striking from subsection (a) ``December 1, 
+    1992'' and by inserting in lieu thereof ``March 1, 1994''; and
+        (3) in section 5 by striking the second sentence of subsection 
+    (a) and by inserting in lieu thereof the following: ``Subsequent to 
+    the date of enactment of this Act, but not later than 30 days after 
+    the date of enactment of this Act, the President shall select and 
+    appoint eleven individuals to the Commission.''.
+
+SEC. 11. NATIONAL WOMEN'S BUSINESS COUNCIL.
+
+    Section 407 of the Women's Business Ownership Act of 1988 (15 U.S.C. 
+631 note) is amended to read as follows:
+
+``SEC. 407. AUTHORIZATION.
+
+    ``(a) In General.--There are authorized to be appropriated to carry 
+out this title--
+        ``(1) $500,000 for fiscal year 1993; and
+        ``(2) $500,000 for fiscal year 1994.
+    ``(b) Limitation on Authority.--New spending authority or authority 
+to enter into contracts as authorized in this Act shall be effective 
+only to such extent and in such amounts as are provided in advance in 
+appropriation Acts.
+    ``(c) Sunset.--This section shall cease to be effective on November 
+30, 1995.''.
+
+
+
+
+
+
+
+                                Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                             Vice President of the United States and    
+                                                President of the Senate.

@@ -1,0 +1,2853 @@
+ 
+--H.R.4151--
+H.R.4151
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations for fiscal years 1991 through 1994 to carry out
+the Head Start Act, the Follow Through Act, and the Community Services Block
+Grant Act; and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) SHORT TITLE- This Act may be cited as the `Augustus F. Hawkins Human
+Services Reauthorization Act of 1990'.
+(b) TABLE OF CONTENTS- The table of contents is as follows:
+Section 1. Short title; table of contents.
+TITLE I--HEAD START
+Subtitle A--Amendments to the Head Start Act
+Sec. 101. Short title.
+Sec. 102. Statement of purpose and policy.
+Sec. 103. Authorization of appropriations.
+Sec. 104. Reservation of funds.
+Sec. 105. Guidelines for local service delivery models; maintenance of
+current services.
+Sec. 106. Comprehensive Head Start report.
+Sec. 107. Conditions on renewed funding of grantees.
+Sec. 108. Designation of Head Start agencies.
+Sec. 109. Powers and functions of Head Start agencies.
+Sec. 110. Technical amendments.
+Sec. 111. Administrative costs.
+Sec. 112. Neutrality.
+Sec. 113. Participation in Head Start programs.
+Sec. 114. Authority of Secretary.
+Sec. 115. Notice and hearing.
+Sec. 116. Staff qualifications.
+Sec. 117. Requirements applicable to the Secretary.
+Sec. 118. Cooperative research.
+Sec. 119. Report on status of children.
+Sec. 120. Study of Head Start participants.
+Sec. 121. Poverty line.
+Sec. 122. Comparability of wages.
+Sec. 123. Extended Head Start services.
+Subtitle B--Head Start Transition Project
+Sec. 131. Short title.
+Sec. 132. Definitions.
+Sec. 133. Head Start transition grants.
+Sec. 134. Eligibility.
+Sec. 135. Requirements.
+Sec. 136. Application.
+Sec. 137. Evaluation and report.
+Sec. 138. Payments; Federal share.
+Sec. 139. Coordination with Follow Through.
+Sec. 140. Availability of funds.
+TITLE II--AMENDMENTS TO THE FOLLOW THROUGH ACT
+Sec. 201. Technical amendments.
+Sec. 202. Financial assistance for Follow Through programs.
+Sec. 203. Applications and funding.
+Sec. 204. Program improvement.
+Sec. 205. Research and evaluation contracts.
+Sec. 206. Evaluation.
+Sec. 207. General and administrative provisions.
+Sec. 208. Participation in other educational activities.
+Sec. 209. Technical amendment.
+TITLE III--AMENDMENTS TO THE STATE DEPENDENT CARE DEVELOPMENT GRANTS ACT
+Sec. 301. Amendments to the State Dependent Care Development Grants Act.
+Sec. 302. Waiver of existing percentage setaside of allotments.
+Sec. 303. Operation costs of after school care programs authorized.
+Sec. 304. Report by grant recipients.
+Sec. 305. Technical amendments.
+TITLE IV--AMENDMENTS TO THE COMMUNITY SERVICES BLOCK GRANT ACT
+Sec. 401. Authorization of appropriations.
+Sec. 402. Eligible entities.
+Sec. 403. State allocations.
+Sec. 404. Applications and requirements.
+Sec. 405. Discretionary authority of Secretary.
+Sec. 406. Community food and nutrition.
+Sec. 407. Annual report.
+Sec. 408. Technical amendment.
+TITLE V--AMENDMENTS TO THE CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE
+ACT OF 1985
+Sec. 501. Adequacy of scholarships.
+Sec. 502. Definitions.
+Sec. 503. Authorization of appropriations.
+TITLE VI--AMENDMENTS RELATING TO DEMONSTRATION PARTNERSHIP AGREEMENTS
+ADDRESSING THE NEEDS OF THE POOR
+Sec. 601. Programs for special populations.
+Sec. 602. Authorization of appropriations.
+TITLE VII--AMENDMENTS TO THE LOW-INCOME HOME ENERGY ASSISTANCE ACT OF 1981
+Sec. 701. Forward funding of LIHEAP.
+Sec. 702. Reauthorization.
+Sec. 703. State allotments.
+Sec. 704. Application.
+Sec. 705. Authority to use funds for weatherization.
+Sec. 706. Authority to carry funds over.
+Sec. 707. Leveraging incentive program.
+Sec. 708. Withholding of funds.
+TITLE VIII--AMENDMENTS TO THE COMPREHENSIVE CHILD DEVELOPMENT CENTERS ACT
+Sec. 801. Authorization of appropriations.
+TITLE IX--COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES
+Sec. 901. Short title.
+Sec. 902. Findings.
+Sec. 903. Definitions.
+Subtitle A--Establishment of Administration and Awarding of Grants for Programs
+CHAPTER 1--ADMINISTRATION ON CHILDREN, YOUTH, AND FAMILIES
+Sec. 915. Establishment of the Administration on Children, Youth, and Families.
+Sec. 916. Functions of the Commissioner.
+Sec. 917. Federal agency consultations.
+Sec. 918. Federal Council on Children, Youth, and Families.
+Sec. 919. Administration.
+CHAPTER 2--GRANTS FOR STATE AND COMMUNITY PROGRAMS FOR CHILDREN, YOUTH,
+AND FAMILIES
+Sec. 925. Purpose.
+Sec. 926. Definitions.
+Sec. 927. Establishment of programs.
+Sec. 928. Administration.
+Sec. 929. State plan.
+Sec. 930. Independent State body.
+Sec. 931. State coordination of services.
+Sec. 932. Supportive services.
+Sec. 933. Family resource and support program grants.
+Sec. 934. Authorization of appropriation and allotment.
+CHAPTER 3--NATIONAL CLEARINGHOUSE
+Sec. 955. Short title.
+Sec. 956. Findings and purpose.
+Sec. 957. Definition.
+Sec. 958. Establishment of National Center on Family Resource and Support
+Programs.
+Sec. 959. Evaluation.
+Sec. 960. Authorization of appropriations.
+Subtitle B--White House Conference on Children, Youth, and Families
+Sec. 981. Short title.
+Sec. 982. Findings.
+Sec. 983. Authority of the President and Secretary; final report.
+Sec. 984. Conference administration.
+Sec. 985. Conference committees.
+Sec. 986. Report of the conference.
+Sec. 987. Definitions.
+Sec. 988. Authorization of appropriations.
+TITLE X--EFFECTIVE DATES
+Sec. 1001. Effective dates.
+TITLE I--HEAD START
+Subtitle A--Amendments to the Head Start Act
+SEC. 101. SHORT TITLE.
+This subtitle may be cited as the `Head Start Expansion and Quality
+Improvement Act'.
+SEC. 102. STATEMENT OF PURPOSE AND POLICY.
+Section 636(b) of the Head Start Act (42 U.S.C. 9831(b)) is amended by
+inserting `, non-English language background,' after `migrant'.
+SEC. 103. AUTHORIZATION OF APPROPRIATIONS.
+Section 639 of the Head Start Act (42 U.S.C. 9834) is amended--
+ (1) by striking `$1,198,000,000' and all that follows through `1989, and', and
+ (2) by inserting after `1990' the following: `, $2,386,000,000 for fiscal
+ year 1991, $4,273,000,000 for fiscal year 1992, $5,924,000,000 for fiscal
+ year 1993, and $7,660,000,000 for fiscal year 1994'.
+SEC. 104. RESERVATION OF FUNDS.
+(a) RESERVATION OF FUNDS- Section 640(a) of the Head Start Act (42
+U.S.C. 9835(a)) is amended--
+ (1) in paragraph (1) by striking `and (3)' and inserting `through (5)',
+ (2) in paragraph (2)--
+ (A) in subparagraph (A) by striking `children, except that there shall be
+ made available for use by Indian' and all that follows through `1985' and
+ inserting `, except that there shall be made available for each fiscal year
+ for use by Indian and migrant Head Start programs, on a nationwide basis,
+ not less than the amount that was obligated for use by Indian and migrant
+ Head Start programs for fiscal year 1990',
+ (B) in subparagraph (B) by striking `the Trust Territory of the Pacific
+ Islands' and inserting `the Federated States of Micronesia, the Republic
+ of the Marshall Islands, Palau, the Commonwealth of',
+ (C) in subparagraph (C) by striking `the amount expended' and all that
+ follows through `1982' and inserting `2 percent of the amount appropriated
+ for any such fiscal year',
+ (D) by striking the penultimate sentence, and
+ (E) in the last sentence by inserting `or paragraph (3)' after `this
+ paragraph',
+ (3) in paragraph (3) by striking `87 percent of the',
+ (4) by redesignating paragraphs (3) and (4) as paragraphs (5) and (6),
+ respectively,
+ (5) by inserting after paragraph  (2) the following:
+`(3)(A) For any fiscal year for which the amount appropriated under section
+639(a) exceeds the adjusted appropriation, the Secretary shall reserve
+the quality improvement funds for such fiscal year, for one or more of the
+following quality improvement activities:
+ `(i)(I) Not less than one-half of the amount reserved under this subparagraph,
+ to improve the compensation (including benefits) of staff of Head Start
+ agencies and thereby enhance recruitment and retention of such staff. The
+ expenditure of funds under this clause shall be subject to section 653.
+ `(II) If a Head Start agency certifies to the Secretary for such fiscal
+ year that part of the funds set aside under subclause (I) to improve wages
+ cannot be expended by such agency to improve wages because of the operation
+ of section 653, then such agency may expend such part for any of the uses
+ specified in the subparagraph (other than wages).
+ `(ii) To pay transportation costs incurred by Head Start agencies to enable
+ eligible children to participate in a Head Start program.
+ `(iii) To employ additional Head Start staff, including staff  necessary
+ to reduce the child-staff ratio and staff necessary to coordinate a Head
+ Start program with other services available to children participating in
+ such program and to their families.
+ `(iv) To pay costs incurred by Head Start agencies to purchase insurance
+ (other than employee benefits) and thereby maintain or expand Head Start
+ services.
+ `(v) To make nonstructural and minor structural changes, and to acquire
+ and install equipment, for the purpose of improving facilities necessary
+ to expand the availability, or enhance the quality, of Head Start programs.
+ `(vi) To supplement amounts provided under section 640(a)(2)(C) to provide
+ training necessary to improve the qualifications of the staff of the Head
+ Start agencies, and to support staff training, child counseling, and other
+ services necessary to address the problems of children participating in Head
+ Start programs, including children from dysfunctional families, children
+ who experience chronic violence in their communities, and children who
+ experience substance abuse in their families.
+`(B)(i) Funds reserved under subparagraph (A) for the first and second fiscal
+years for which funds are so reserved shall be allotted by the Secretary
+as follows:
+ `(I) 80 percent of such funds shall be allotted among the States in the same
+ proportion as the Secretary allots funds among the States under paragraph
+ (5) for the respective fiscal year.
+ `(II) 20 percent of such funds shall be allotted among the States, and used
+ to make grants to Head Start agencies, at the discretion of the Secretary.
+`(ii) Funds reserved under subparagraph (A) for any fiscal year subsequent to
+the second fiscal year for which funds are so reserved shall be allotted by the
+Secretary among the States in the same proportion as the Secretary allots funds
+among the States under paragraph (5) for the respective subsequent fiscal year.
+`(iii) To be expended for the activities specified in subparagraph (A)
+in the first fiscal and second fiscal years for which funds are required
+by such subparagraph to be reserved, funds allotted under clause (i)(I)
+shall be used by the Secretary to make a grant to each Head Start agency that
+receives a grant from funds allotted under paragraph (5) for such fiscal year,
+in the amount that bears the same ratio to the amount allotted under clause
+(i)(I) for such fiscal year for the State in which such agency is located
+as the number of children participating in the Head Start program of such
+agency in such fiscal year bears to the number of children participating in
+all Head Start programs in such State in such fiscal year.
+`(iv) To be expended for the activities specified in subparagraph (A) in each
+subsequent fiscal year for which funds are required by such subparagraph to
+be reserved, funds allotted under clause (ii) shall be used by the Secretary
+to make grants to Head Start agencies that receive grants from funds allotted
+under paragraph (5) for such fiscal year, in such amounts as the Secretary
+considers to be appropriate. The aggregate amount of grants made under this
+clause to Head Start agencies in a State for a fiscal year may not exceed
+the amount allotted under clause (ii) for such State for such fiscal year.
+`(v) If a Head Start agency certifies for such fiscal year to the Secretary
+that it does not need any funds under subparagraph (A), or does not need
+part of such funds it would otherwise receive under clause (iii) or (iv),
+then unneeded funds shall be used by the Secretary to make grants under this
+subparagraph without regard to such agency.
+`(vi) Funds received under this subparagraph shall be used to supplement,
+not to supplant, funds received under paragraphs (2), (4), and (5).
+`(4)(A)(i) If the amount appropriated under section 639(a) for fiscal
+year 1991 exceeds the adjusted appropriation, the Secretary shall reserve
+$30,000,000 for fiscal year 1991, to make grants to Head Start agencies to
+carry out early childhood intervention programs, to be known as `Parent-Child
+Centers', within Head Start programs.
+`(ii) The Secretary shall reserve $31,200,000 for fiscal year 1992, $32,448,000
+for fiscal year 1993, and $33,745,920 for fiscal year 1994 to make grants
+to Head Start agencies to carry out such early childhood intervention programs.
+`(B)(i) Such early childhood intervention programs shall be designed--
+ `(I) to enhance the development of children who are less than 3 years of
+ age; and
+ `(II) to strengthen the family unit by providing opportunities for increasing
+ the child development skills and knowledge of their parents.
+`(ii) Such early childhood intervention programs shall provide comprehensive
+services (such as social, health, and educational services) to low-income
+families with children who are less than 3 years of age. Such programs may
+provide such services to any eligible family during any period of time and
+may be center-based, home-based, or a combination of both.
+`(C) Funds reserved under subparagraph (A) for a fiscal year shall be allotted
+as follows:
+ `(i) For Indian and migrant early childhood intervention programs, the
+ Secretary shall allot the amount that represents the same proportion as such
+ programs collectively received of the funds appropriated under section 639
+ for fiscal year 1990.
+ `(ii)(I) Subject to subclause (II) and after making the allotment under
+ clause (i), the Secretary shall allot the remainder of such funds among the
+ States in the same proportion as funds are allotted among the States under
+ paragraph (5), except that the amount allotted for each State shall not be
+ less than $200,000 or the amount that represents the same proportion of the
+ funds appropriated under section 639 for fiscal year 1990 that were allotted
+ for such State and used to carry out early childhood intervention programs,
+ whichever is greater.
+ `(II) In any fiscal year for which such remainder is insufficient to allot
+ the minimum amount required by subclause (I), the Secretary shall reduce
+ ratably the minimum allotment required by such subclause.
+`(D) The Secretary may not make a grant under this paragraph to a Head Start
+agency for a fiscal year unless--
+ `(i) such agency certifies that carrying out the early childhood intervention
+ program for which such grant is requested will not reduce services provided
+ by such agency to children who participate in other programs provided by
+ such agency under this subchapter; and
+ `(ii) such agency certifies that to the maximum extent practicable, it
+ will provide continuous service to children who receive services under this
+ paragraph through compulsory school age, either through the early childhood
+ intervention programs authorized by this paragraph or through other Head
+ Start programs.
+`(E) For purposes of this paragraph, the term `low-income family' means a
+family that satisfies the eligibility requirements applicable under section
+645(a).', and
+ (6) in paragraph (6), as so redesignated by paragraph (4)--
+ (A) by inserting `the Commonwealth of' before `the Northern Mariana', and
+ (B) by striking `or the Trust Territory of the Pacific Islands' and inserting
+ `the Federated States of Micronesia, the Republic of the Marshall Islands,
+ and Palau'.
+(b) DEFINITIONS- Section 637 of the Head Start Act (42 U.S.C. 9832)
+is amended--
+ (1) in paragraph (2) by striking `the Trust Territory of the Pacific Islands'
+ and inserting `the Federated States of Micronesia, the Republic of the
+ Marshall Islands, Palau', and
+ (2) by adding at the end the following:
+ `(4) The term `adjusted appropriation' means--
+ `(A) with respect to the first fiscal year for which funds are required by
+ section 640(a)(3)(A) to be reserved, the sum of--
+ `(i) $35,000,000; and
+ `(ii) 110 percent of the amount appropriated under section 639(a) for the
+ preceding fiscal year, adjusted to reflect the percentage change in the
+ Consumer Price Index For All Urban Consumers (issued by the Bureau of Labor
+ Statistics) occurring in the 1-year period ending immediately before the
+ fiscal year with respect to which a determination is made under section
+ 640(a)(3)(A); and
+ `(B) with respect to each subsequent fiscal year for which funds are
+ required by section 640(a)(3)(A) to be reserved, the amount appropriated
+ under section 639(a) for the preceding fiscal year adjusted to reflect the
+ percentage change in the Consumer Price Index For All Urban Consumers (issued
+ by the Bureau of Labor Statistics) occurring in the 1-year period ending
+ immediately before the fiscal year with respect to which a determination
+ is made under section 640(a)(3)(A).
+ `(5) The term `quality improvement funds' means--
+ `(A) with respect to the first fiscal year for which funds are required by
+ section 640(a)(3)(A) to be reserved, 10 percent of the amount appropriated
+ under section 639(a) for such fiscal year; and
+ `(B) with respect to each subsequent fiscal year for which funds are required
+ by section 640(a)(3)(A) to be reserved, 25 percent of the portion of the
+ amount appropriated under section 639(a) for such fiscal year that exceeds
+ the adjusted appropriation for such fiscal year.'.
+SEC. 105. GUIDELINES FOR LOCAL SERVICE DELIVERY MODELS; MAINTENANCE OF
+CURRENT SERVICES.
+Section 640 of the Head Start Act (42 U.S.C. 9835) is amended--
+ (1) in subsection (d) by striking the last sentence, and
+ (2) by adding at the end the following:
+`(f) The Secretary shall establish procedures to enable Head Start agencies
+to develop locally designed or specialized service delivery models to address
+local community needs.
+`(g) If in any fiscal year, the amounts appropriated to carry out the program
+under this subchapter exceed the amount appropriated in the prior fiscal
+year, the Secretary shall, prior to using such additional funds to serve an
+increased number of children, allocate such funds in a manner that makes
+available the funds necessary to maintain the level of services provided
+during the prior year, taking into consideration the percentage change in
+the Consumer Price Index for all Urban Consumers, as published by the Bureau
+of Labor Statistics.'.
+SEC. 106. COMPREHENSIVE HEAD START REPORT.
+The Head Start Act (42 U.S.C. 9801 et seq.) is amended by inserting after
+section 640 the following:
+`COMPREHENSIVE REPORT
+`SEC. 640A. (a) The Secretary shall prepare, through the Assistant Secretary
+for Planning and Evaluation, and shall submit to the Committee on Education
+and Labor of the House of Representatives and the Committee on Labor and
+Human Resources of the Senate--
+ `(1) not later than July 1, 1993, an interim comprehensive report; and
+ `(2) not later than Janaury 1, 1994, a final comprehensive report;
+in accordance with this section.
+`(b) The reports required by subsection (a) shall contain--
+ `(1) information concerning transportation, facilities, and methods for
+ identifying and locating eligible children in both urban and rural areas,
+ including cost, problems encountered, and innovative solution to such
+ problems;
+ `(2) a description of the effect of the 1990 Decennial Census on the
+ allotment of funds under this subchapter;
+ `(3) a description of the extent to which Head Start programs coordinate
+ their respective activities with other programs serving young children,
+ including local educational agencies;
+ `(4) separate descriptions of how this subchapter is administered by the
+ headquarters of the Department of Health and Human Services and by its
+ regional offices, including an analysis of the negotiations that occur
+ between such regional offices and applicants for grants under this subchapter;
+ `(5) summaries of evaluations and studies of Head Start programs, conducted
+ during the period covered by such report;
+ `(6) a description of the impact of expending funds under section 640(a)(3)
+ on staff qualifications, staff wages, and staff turnover of Head Start
+ agencies; and
+ `(7) information concerning the parents of children participating in programs
+ receiving Head Start funding, including the--
+ `(i) employment status of such parents (including any change that occurred
+ while the child was enrolled in Head Start);
+ `(ii) education level of such parents;
+ `(iii) the training or education that such parents received while their
+ children were enrolled in Head Start programs; and
+ `(iv) the impact of parents' schedules on their ability to access Head
+ Start services and participate in the program.
+`(c) The Secretary shall meet periodically with the Committee on Education
+and Labor of the House of Representatives and the Committee on Labor and
+Human Resources of the Senate to inform the committees of the progress made
+in preparing the reports required by subsection (a).'.
+SEC. 107. CONDITIONS ON RENEWED FUNDING OF GRANTEES.
+(a) IN GENERAL- Section 641(c) of the Head Start Act (42 U.S.C. 9836(c))
+is amended--
+ (1) by redesignating paragraph (1) as subparagraph (A),
+ (2) by inserting `(1)' after `(c)', and
+ (3) by striking paragraph (2) and the matter following such paragraph and
+ inserting the following:
+ `(B) except that, if there is no agency of the type referred to in
+ subparagraph (A) because of any change in the assistance furnished to
+ programs for economically disadvantaged persons, the Secretary shall give
+ priority in the designation of Head Start agencies to any successor agency
+ that is operating a Head Start program in substantially the same manner as
+ the predecessor agency that did receive funds in the fiscal year preceding
+ the fiscal year for which the determination is made.
+`(2) The Secretary shall conduct a full review of each designated Head Start
+agency at least once during each 3-year period, and shall determine whether
+each agency meets program and fiscal requirements established by the Secretary.
+`(3) In carrying out a review of each Head Start agency under paragraph (2),
+the Secretary shall--
+ `(A) to the maximum extent practicable, carry out such review by using
+ employees of the Department of Health and Human Services who are knowledgeable
+ about Head Start programs;
+ `(B) ensure that an employee of the Department of Health and Human Services
+ who is knowledgeable about Head Start programs supervises such review at
+ the site of such agency;
+ `(C) measure the compliance of the programs of such agency with the
+ performance standards in effect under section 651(b); and
+ `(D) identify the types and conditions of facilities in which such programs
+ are located.
+`(4) The results of a review conducted under this subsection shall not be
+sufficient alone for the purpose of determining whether to continue, or to
+discontinue, providing funds to a particular Head Start agency.'.
+SEC. 108. DESIGNATION OF HEAD START AGENCIES.
+Section 641(d) of the Head Start Act (42 U.S.C. 9836(d)) is amended by adding
+at the end the following: `In selecting from among qualified applicants for
+designation as a Head Start agency and subject to the preceding sentence,
+the Secretary shall consider the effectiveness of each such applicant to
+provide Head Start services, based on--
+ `(1) any past performance of such applicant in providing services comparable
+ to Head Start services, including how effectively such applicant provided
+ such comparable services;
+ `(2) the plan of such applicant to provide comprehensive health, nutritional,
+ educational, social, and other services needed to aid participating children
+ in attaining their full potential;
+ `(3) the plan of such applicant to coordinate the Head Start program it
+ proposes to carry out, with other preschool programs and with the educational
+ programs such children will enter at the age of compulsory school attendance;
+ `(4) the plan of such applicant to involve parents of children who will
+ participate in the proposed Head Start program in appropriate educational
+ services (in accordance with the performance standards in effect under
+ section 651(b) or through referral of such parents to educational services
+ available in the community) in order to aid their children to attain their
+ full potential;
+ `(5) the ability of such applicant to carry out the plans described in
+ paragraphs (2), (3), and (4);
+ `(6) other factors related to the requirements of this subchapter; and
+ `(7) the plan of such applicant to meet the needs of non-English language
+ children in the community.'.
+SEC. 109. POWERS AND FUNCTIONS OF HEAD START AGENCIES.
+Section 642 of the Head Start Act (42 U.S.C. 9837) is amended--
+ (1) in subsection (b) by striking `and (4)' and inserting the following:
+ `(4) involve parents of children participating in its Head Start program
+ in appropriate educational services (in accordance with the performance
+ standards in effect upon section 651(b) or through referral of such parents
+ to educational services available in the community) in order to aid their
+ children to attain their full potential; and (5)', and
+ (2) in subsection (c) by striking `with other State' and all that follows
+ through the end and inserting `with schools that will subsequently
+ serve children in Head Start programs, the State agency responsible for
+ administering section 402(g) of the Social Security Act, and other programs
+ serving the children and families served by the Head Start agency to carry
+ out the provisions of this subtitle.'.
+SEC. 110. TECHNICAL AMENDMENTS.
+Section 643 of the Head Start Act (42 U.S.C. 9838) is amended--
+ (1) by striking `Governor' the first place it appears and inserting `chief
+ executive officer', and
+ (2) by striking `Governor' the second and third places it appears and
+ inserting `such officer'.
+SEC. 111. ADMINISTRATIVE COSTS.
+The first sentence of section 644(b) of the Head Start Act (42 U.S.C. 9839(b))
+is amended by inserting `the required' after `including'.
+SEC. 112. NEUTRALITY.
+Section 644 of the Head Start Act (42 U.S.C. 9839) is amended by adding at
+the end the following:
+`(e) Funds appropriated to carry out this subchapter shall not be used to
+assist, promote, or deter union organizing.'.
+SEC. 113. PARTICIPATION IN HEAD START PROGRAMS.
+The last sentence of section 645(a)(2) of the Head Start Act (42
+U.S.C. 9840(a)(2)) is amended by striking `1990' and inserting `1994'.
+SEC. 114. AUTHORITY OF SECRETARY.
+Section 645(c) of the Head Start Act (42 U.S.C. 9840(c)) is amended by
+adding at the end the following: `The Secretary may not issue or enforce any
+rule (as defined in section 551(4) of title 5 of the United States Code)
+or guideline that forbids any Head Start agency to carry out a Head Start
+program in accordance with the authority described in the preceding sentence.'.
+SEC. 115. NOTICE AND HEARING.
+Section 646 of the Head Start Act (42 U.S.C. 9841) is amended--
+ (1) by inserting `(a)' after `SEC. 646.',
+ (2) in paragraph (3) by inserting `or reduced' after `terminated', and
+ (3) by adding at the end the following:
+`(b) The Secretary may not prescribe any procedure that would modify the
+operation of section 1303.21 or 1303.33, or any of subdivisions (a) through
+(f) of section 1303.35, of title 45 of the Code of Federal Regulations as
+in effect on April 1, 1990.'.
+SEC. 116. STAFF QUALIFICATIONS.
+(a) IN GENERAL- Section 648 of the Head Start Act (42 U.S.C. 9843) is amended--
+ (1) by striking the section heading and inserting the following:
+`TECHNICAL ASSISTANCE, TRAINING, AND STAFF QUALIFICATIONS',
+ (2) by inserting `(a)' before `The Secretary shall',
+ (3) by inserting `training for personnel providing services to non-English
+ language background children,' after `such personnel,', and
+ (4) by adding at the end the following:
+`(b)(1) The Secretary shall ensure that not later than September 30, 1994,
+each Head Start classroom in a center-based program is assigned one teacher
+who has--
+ `(A) a child development associate (CDA) credential that is appropriate to
+ the age of the children being served in center-based programs;
+ `(B) a State awarded certificate for preschool teachers that meets or
+ exceeds the requirements for a child development associate credential;
+ `(C) an associate, baccalaureate, or advanced degree in early childhood
+ education; or
+ `(D) a degree in a field related to early childhood education with experience
+ in teaching preschool children and a State awarded certificate to teach in
+ a preschool program.
+`(2) On request, the Secretary shall grant a 180-day waiver of the
+applicability of paragraph (1) with respect to an individual who--
+ `(A) is first employed after September 30, 1994, by a Head Start agency as
+ a teacher for a Head Start classroom;
+ `(B) is enrolled in a program that grants a child development credential
+ (CDA); and
+ `(C) will receive such credential under the terms of such program not later
+ than 180 days after beginning employment as a teacher with such agency.
+The Secretary may not grant more than one such waiver with respect to such
+individual.'.
+(b) DEFINITION- Section 637 of such Act (42 U.S.C. 9832), as amended by
+section 104(b), is amended by adding at the end the following:
+ `(6) The term `Head Start classroom' means a group of children supervised
+ and taught by two paid staff members (a teacher and a teacher's aide or
+ two teachers) and, where possible, a volunteer.'.
+SEC. 117. REQUIREMENTS APPLICABLE TO THE SECRETARY.
+(a) IN GENERAL- Section 649 of the Head Start Act (42 U.S.C. 9844) is amended--
+ (1) in the section heading by striking `AND PILOT PROJECTS' and inserting
+ `PILOT PROJECTS, STUDIES, AND REPORTS', and
+ (2) by adding at the end the following:
+`(d) Subject to subsections (a) through (c), the Secretary shall conduct,
+through grants or contracts made or entered into with qualified persons, a
+study of various approaches to providing early, continuous, and comprehensive
+intervention to low-income or at-risk children from birth to age 3 and to
+the families of such children. Such study shall describe and assess a variety
+of approaches to providing such services, including--
+ `(1) programs funded under the Comprehensive Child Development Act; and
+ `(2) Parent-Child Centers, home-based Head Start programs, Head Start family
+ day care, and center-based Head Start (including migrant and nonmigrant
+ programs), that are in compliance with the performance standards under
+ section 651(b).
+Such study shall assess such approaches based on their appropriateness for
+specific populations of children, including those from dysfunctional families,
+children of substance abusers, and children who experience chronic violence
+in their communities.
+`(e) The Secretary shall conduct, through grants or contracts made or entered
+into with qualified persons, a study of Head Start family day care that
+is in compliance with the performance standards under section 651(b). Such
+study shall consider the effectiveness of providing Head Start services in
+a family day care setting and assess the program characteristics that are
+necessary to ensure the programs are effective.
+`(f) Not later than October 1, 1993, the Secretary shall submit to the
+Committee on Education and Labor of the House of Representatives and the
+Committee on Labor and Human Resources of the Senate a report summarizing
+the results of the studies conducted under subsections (d) and (e).'.
+(b) DEFINITIONS- Section 637 of the Head Start Act (42 U.S.C. 9832), as amended
+by sections 104(b) and 116(b), is amended by adding at the end the following:
+ `(7) The term `Head Start family day care' means Head Start services
+ provided in a private residence other than the residence of the child
+ receiving such services.
+ `(8) The term `home-based Head Start program' means a Head Start program
+ that provides Head Start services in the private residence of the child
+ receiving such services.'.
+(c) CONFORMING AMENDMENTS- Section 650 of the Head Start Act (42 U.S.C. 9845)
+is amended--
+ (1) by striking the section heading and inserting the following:
+`ANNOUNCEMENT OF RESEARCH, DEMONSTRATION, PILOT PROJECTS, STUDIES, AND
+REPORT CONTRACTS',
+ (2) in subsection (a)(1) by striking `or pilot project' and inserting
+ `pilot project, study, or report', and
+ (3) in subsection (c) by inserting `reports,' after `studies,'.
+SEC. 118. COOPERATIVE RESEARCH.
+Section 651(c)(2) of the Head Start Act (42 U.S.C. 9846(c)(2)) is amended
+by adding at the end the following: `The Secretary is encouraged to provide
+funds for community-based cooperative research efforts to enable Head Start
+directors to conduct evaluations of their programs with the assistance of
+qualified researchers not directly involved in the administration of the
+program or project operation.'.
+SEC. 119. REPORT ON STATUS OF CHILDREN.
+Section 651 of the Head Start Act (42 U.S.C. 9846) is amended by adding at
+the end the following:
+`(g)(1) At least once during every 2-year period, the Secretary shall
+prepare and submit, to the Committee on Education and Labor of the House of
+Representatives and the Committee on Labor and Human Resources of the Senate,
+a report concerning the status of children (including disabled and non-English
+language background children) in Head Start programs, including the number
+of children and the services being provided to such children. Such report
+shall include--
+ `(1) a statement for the then most recently concluded fiscal year specifying--
+ `(A) the amount of funds received by Head Start agencies designated under
+ section 641 to provide Head Start services in a period before such fiscal
+ year; and
+ `(B) the amount of funds received by Head Start agencies newly designated
+ under section 641 to provide such services in such fiscal year;
+ `(2) a description of the distribution of Head Start services relative to
+ the distribution of children who are eligible to participate in Head Start
+ programs, including geographic distribution within States;
+ `(3) a statement identifying how funds expended under section 640(a)(2),
+ and funds allotted under section 640(a)(3), were distributed and used at
+ national, regional, and local levels;
+ `(4) a statement specifying the amount of funds provided by the State,
+ and by local sources, to carry out Head Start programs;
+ `(5) cost per child and how such cost varies by region;
+ `(6) a description of the level and nature of participation of parents in
+ Head Start programs as volunteers and in other capacities;
+ `(7) information concerning Head Start staff, including salaries, education,
+ training, experience, and staff turnover;
+ `(8) information concerning children participating in programs that receive
+ Head Start funding, including information on family income, racial and
+ ethnic background, disability, and receipt of benefits under part A of
+ title IV of the Social Security Act;
+ `(9) the use and source of funds to extend Head Start services to operate
+ full-day and year round;
+ `(10) using data from the evaluations conducted under section 641(c)(2)--
+ `(A) a description of the extent to which programs funded under this
+ subchapter comply with performance standards and regulations in effect
+ under this subchapter;
+ `(B) a description of the types and condition of facilities in which such
+ programs are located;
+ `(C) the types of organizations that receive Head Start funds under such
+ programs; and
+ `(D) the number of children served under each program option;
+ `(11) the information contained in the documents entitled `Program Information
+ Report' and `Head Start Cost Analyses System' (or any document similar to
+ either), prepared with respect to Head Start programs; and
+ `(12) a description of the types of services provided to children and their
+ families, both on-site and through referrals, including health, mental health,
+ dental care, parenting education, physicial fitness, and literacy training.
+Promptly after submitting such report to the Committee on Education and Labor
+of the House of Representatives and the Committee on Labor and Human Resources
+of the Senate, the Secretary shall publish in the Federal Register a notice
+indicating that such report is available to the public and specifying how
+such report may be obtained.'.
+SEC. 120. STUDY OF HEAD START PARTICIPANTS.
+(a) LONGITUDINAL STUDY REQUIRED- The Head Start Act is amended by inserting
+after section 651 (42 U.S.C. 9846) the following:
+`SEC. 651A. LONGITUDINAL STUDY OF HEAD START PARTICIPANTS.
+`(a) IN GENERAL- The Secretary shall conduct, through grants or contracts
+made or entered into with persons that have the qualifications specified
+in paragraphs (1) and (2) of subsection (b), a longitudinal study of the
+effects that the participation in Head Start programs has on the development
+of participants and their families and the manner in which such effects
+are achieved.
+`(b) ADVISORY PANEL- In carrying out the study required by subsection (a),
+the Secretary shall establish an advisory panel to provide advice and guidance
+to the Secretary, and to the individuals who carry out such study, concerning
+the design and execution of such study. Such panel shall be composed of--
+ `(1) individuals who have--
+ `(A) expertise in the current operation of Head Start programs;
+ `(B) professional backgrounds in child development and related fields; and
+ `(C) experience in the evaluation of Head Start programs or comparable
+ programs; and
+ `(2) individuals who have expertise in designing and executing large-scale
+ longitudinal studies.
+`(c) CHILDREN AND FAMILIES TO BE STUDIED- The study required by subsection
+(a) shall follow the progress of children and their families--
+ `(1) who have attended Head Start programs (including Parent-Child Centers)
+ that are in compliance with Head Start Performance Objectives;
+ `(2) who represent specific subpopulations, including children from
+ dysfunctional families; and
+ `(3) who have attended Head Start programs that represent the various
+ program options and that are located in both urban and rural areas.
+`(d) SUBCONTRACTING- Persons selected to conduct the study required by
+subsection (a) may subcontract elements of the study to other persons with the
+approval of the Secretary. Such study may be carried out through a series of
+several small studies focused on specific program options and subpopulations.
+`(e) FOCUS- The study required under subsection (a) shall consider the degree
+to which social, physical, and academic development, including grade retention,
+motivation to achieve, special education placement, health (including long-
+and short-term health), secondary school graduation, delinquency, substance
+abuse, teenage pregnancy, literacy, college attendance, employment, and
+welfare participation of children and the parenting skills, employment,
+literacy, education level, motivation to achieve, and welfare participation
+of parents are affected by--
+ `(1) the program options selected by the Head Start program;
+ `(2) the number and configuration of hours, days, and years the child
+ participates in Head Start;
+ `(3) the Head Start program quality, including training and experience of
+ Head Start teachers and teacher aides, staff to child ratios, and group size;
+ `(4) the level of parental involvement in the Head Start program;
+ `(5) the supportive services provided to children and their parents through
+ the Head Start program;
+ `(6) the Head Start curriculum;
+ `(7) the characteristics of a subsequent schooling of the child and
+ family characteristics and behaviors that affect social, physical, health
+ (including long- and short-term health), and academic development as such
+ children move through the primary grades; and
+ `(8) other factors identified by the advisory panel, including the variables
+ that sustain gains as such children move through the primary grades.
+`(f) COMPARISION- To the maximum extent feasible, the study required under
+subsection (a) shall provide for comparisons with appropriate groups composed
+of individuals who do not participate in Head Start programs.
+`(g) COORDINATION- The study required under subsection (a) shall be
+coordinated with the National Longitudinal Study conducted under chapter 1
+that is administered by the Department of Education.
+`(h) INTERIM REPORT- Not later than January 1, 1994, the Secretary shall
+prepare and submit, to the Committee on Education and Labor of the House of
+Representatives and the Committee on Labor and Human Resources of the Senate,
+an interim report concerning the design and progress of the study conducted
+under this section, including interim results of such study.'.
+(b) AUTHORIZATION OF APPROPRIATIONS- Section 639 of the Head Start Act
+(42 U.S.C. 9834) is amended--
+ (1) by inserting `(a)' after `SEC. 639.',
+ (2) by inserting `(other than section 651A)' after `subchapter', and
+ (3) by adding at the end the following:
+`(b) There are authorized to be appropriated to carry out section 651A,
+such sums as may be necessary for fiscal years 1991 through 1996.'.
+SEC. 121. POVERTY LINE.
+(a) ISSUANCE OF POVERTY LINE- Subsection (a) of section 652 of the Head
+Start Act (42 U.S.C. 9847(a)) is amended to read as follows:
+`(a) The Secretary shall issue annually (or at any shorter interval the
+Secretary considers to be feasible and desirable) a poverty line which, except
+as provided in section 645, shall be used as a criterion of eligibility for
+participation in Head Start programs.'.
+(b) DEFINITION- Section 637 of the Head Start Act (42 U.S.C. 9832), as
+amended by sections 104(b), 116(b), and 117(b), is amended by adding at the
+end the following:
+ `(9) The term `poverty line' means--
+ `(A) the official poverty line (as defined by the Office of Management and
+ Budget) adjusted to reflect the percentage change in the Consumer Price
+ Index For All Urban Consumers, issued by the Bureau of Labor Statistics,
+ occurring in the 1-year period or other interval immediately preceding the
+ date such adjustment is made; or
+ `(B) the poverty line (including any revision thereof) applicable to this
+ subchapter for fiscal year 1990, adjusted to reflect the percentage change
+ in the Consumer Price Index For All Urban Consumers, issued by the Bureau
+ of Labor Statistics, occurring in the period beginning October 1, 1989,
+ and ending immediately before the date such adjustment is made;
+whichever is greater.'.
+(c) TECHNICAL AMENDMENTS- Section 652 of the Head Start Act (42 U.S.C. 9847)
+is amended--
+ (1) by striking subsection (b), and
+ (2) in subsection (c) by striking `(c) Revisions required by subsection
+ (a) shall be made and issued' and inserting `(b) The poverty line shall be
+ determined by the Secretary'.
+SEC. 122. COMPARABILITY OF WAGES.
+Section 653 of the Head Start Act (42 U.S.C. 9848) is amended by adding at
+the end the following: `The Secretary shall encourage Head Start agencies to
+provide compensation according to salary scales that are based on training
+and experience.'.
+SEC. 123. EXTENDED HEAD START SERVICES.
+ (a) DEFINITIONS.Section 637 of the Head Start Act (42 U.S.C. 9832),
+ as amended by sections 104(b), 116(b), 117(b), and 121(b), is amended by
+ adding at the end the following:
+ `(10) The term `full calendar year' means all days of the year other than
+ Saturday, Sunday, and a legal public holiday.
+ `(11) The term `full-working-day' means not less than 10 hours per day.'.
+ (b) EXTENDED HEAD START SERVICES- Section 640 of the Head Start Act (42
+ U.S.C. 9835) is amended by adding at the end the following:
+ `(h) Each Head Start program may provide full-working-day Head Start services
+ to any eligible child throughout the full calendar year.'.
+Subtitle B--Head Start Transition Project
+SEC. 131. SHORT TITLE.
+This subtitle may be cited as the `Head Start Transition Project Act'.
+SEC. 132. DEFINITIONS.
+As used in this subtitle:
+ (1) DEVELOPMENTALLY APPROPRIATE CURRICULUM- The term `developmentally
+ appropriate curriculum' means a curriculum that is appropriate for the
+ child's age and all areas of the individual child's development, including
+ educational, physical, emotional, social, cognitive, and communication.
+ (2) FAMILY SERVICES COORDINATOR- The term `family services coordinator'
+ means an individual who is trained to assist families in obtaining supportive
+ services. Such individual may be an existing employee of the local educational
+ agency or Head Start agency.
+ (3) HEAD START AGENCY- The term `Head Start agency' means any agency
+ designated as a Head Start agency under the Head Start Act.
+ (4) LOCAL EDUCATIONAL AGENCY- The term `local educational agency' has the
+ same meaning given such term in section 1471(12) of the Elementary and
+ Secondary Education Act of 1965.
+ (5) SECRETARY- The term `Secretary' means the Secretary of the Department
+ of Health and Human Services.
+ (6) SUPPORTIVE SERVICE- The term `supportive service' means service that
+ will enhance the physical, social, emotional, and intellectual development
+ of low-income children, including providing necessary support to the parents
+ of such children and other family members.
+SEC. 133. HEAD START TRANSITION GRANTS.
+(a) IN GENERAL- With funds made available under section 639(c) of the Head
+Start Act to carry out this subtitle, the Secretary may make demonstration
+grants to Head Start agencies and local educational agencies to develop and
+operate programs that assist low-income elementary school students grades
+kindergarten through 3 (giving priority to students entering their first
+year of elementary school) and their families in--
+ (1) obtaining supportive services that build on the strength of families,
+ including health, immunization, mental health, nutrition, parenting education,
+ literacy, and social services (including substance abuse treatment, education,
+ and prevention services); and
+ (2) supporting the active involvement of parents in the education of their
+ children.
+(b) TERM OF GRANT- Each grant awarded under this subtitle shall be for a
+period of 3 years and shall be not less than $200,000.
+SEC. 134. ELIGIBILITY.
+(a) HEAD START AGENCY- A Head Start agency shall be eligible for a grant
+under this subtitle if such Head Start agency has formed a consortium with
+one or more local educational agencies that received funds under part A of
+chapter 1 of title I of the Elementary and Secondary Education Act of 1965
+and that serves children who have been served by such Head Start agency.
+(b) LOCAL EDUCATIONAL AGENCY- A local educational agency shall be eligible
+for a grant under this subtitle if such agency receives funds under part
+A of chapter 1 of title I of the Elementary and Secondary Education Act of
+1965 and has formed a consortium with one or more Head Start agencies serving
+children who will enroll in any elementary school located within the school
+district of such local educational agency.
+(c) COOPERATING AGENCY- A nonprofit agency or institution of higher education
+with experience in child development may participate in any consortium formed
+under subsection (a) or (b) in developing, operating, and evaluating programs
+assisted under this subtitle.
+(d) FOLLOW THROUGH GRANTEES- A local educational agency that is receiving
+assistance through a program under the Follow Through Act shall also be
+eligible for a grant under this subtitle if such agency meets the requirements
+of subsection (b).
+SEC. 135. REQUIREMENTS.
+(a) IN GENERAL- The Secretary shall award grants under this subtitle to Head
+Start agencies and local educational agencies in both rural and urban areas.
+(b) SPECIAL RULE- The Secretary shall award at least one grant to one eligible
+applicant in each State before the Secretary may award a second grant within
+any one State.
+(c) CONSIDERATION- In awarding grants under this subtitle, the Secretary
+shall consider--
+ (1) the commitment of the Head Start agency and local educational agency
+ to the program for which assistance under this subtitle is requested;
+ (2) the quality of the Head Start program operated by a Head Start agency
+ desiring financial assistance under this subtitle, as measured by compliance
+ with Head Start program performance standards;
+ (3) the proportion of low-income children in the school attendance area
+ where the program assisted under this subtitle will be located;
+ (4) the suitability of the proposed program for replication in other
+ locations;
+ (5) the quality of information and plans in the application; and
+ (6) the commitment of the community to the proposed program, as evidenced
+ by additional resources, in cash and in kind, available to the applicant
+ to support the program.
+(d) PRIORITY- The Secretary shall give priority to applicants that will operate
+a program under this subtitle at a school designated for a schoolwide project
+under section 1015(a) of the Elementary and Secondary Education Act of 1965.
+SEC. 136. APPLICATION.
+(a) IN GENERAL- Each Head Start agency or local educational agency desiring
+a grant under this subtitle shall submit an application to the Secretary
+at such time, in such manner, and accompanied by such information as the
+Secretary may reasonably require. Each such application shall include--
+ (1) a description of the activities and services for which assistance
+ is sought;
+ (2) a description of members of the consortium established in accordance
+ with section 134, including any cooperating agency;
+ (3) a self-assessment of the Head Start agency's and local educational
+ agency's programs to address the health, immunization, mental health,
+ nutrition, parenting education, literacy, social service (including
+ substance abuse treatment, education, and prevention), and educational
+ needs of low-income students and their families, including the use of a
+ developmentally appropriate curriculum such as a model approach under the
+ Follow Through Act;
+ (4) a plan for the development of a supportive services team of family
+ service coordinators to--
+ (A) assist families, administrators and teachers to respond to health,
+ immunization, mental health, nutrition, social service and educational
+ needs of students;
+ (B) conduct home visits and help students and their families to obtain health,
+ immunization, mental health, nutrition, parenting education, literacy,
+ education (including tutoring and remedial services), and social services
+ (including substance abuse treatment, education and prevention), for which
+ such students and their families are eligible;
+ (C) coordinate a family outreach and support program, including a plan
+ for involving parents in the management of the program assisted under
+ this subtitle, in cooperation with parental involvement efforts undertaken
+ pursuant to the Follow Through Act, chapter 1 of title I of the Elementary
+ and Secondary Education Act of 1965, the Head Start Act, part B of chapter
+ 1 of title I of the Elementary and Secondary Education Act of 1965 (Even
+ Start), and the Education of the Handicapped Act of 1975;
+ (D) assist families, administrators, and teachers in enhancing developmental
+ continuity between the programs assisted under the Head Start Act and
+ elementary school classes; and
+ (E) prepare a plan for the transition of each child from Head Start or
+ comparable programs to kindergarten, including--
+ (i) a meeting of the early childhood development program teacher with the
+ kindergarten teacher and the child's parents to discuss the transition of
+ each child and to address any particular educational needs of such child; and
+ (ii) the transfer of knowledge about the child, including the transfer (with
+ parental consent) of written records from the early childhood development
+ program teacher to the kindergarten teacher to become part of the school
+ record of the child;
+ (5) the designation of a member of the supportive services team described
+ in paragraph (4) who will serve as the supervisor of such supportive
+ services team;
+ (6) assurances that State agencies, local agencies, and community-based
+ organizations that provide supportive services to low-income students served
+ by such Head Start agency or local educational agency have been consulted
+ in the preparation of the plan described in paragraph (4);
+ (7) assurances that State agencies, local agencies, and community-based
+ organizations that provide supportive services to low-income students
+ served by such Head Start agency or local educational agency will designate
+ an individual who will act as a liaison to the supportive services team
+ described in paragraph (4);
+ (8) a description of the target population to be served by the supportive
+ services team described in paragraph (4) including families previously
+ served under the Head Start Act, part B of chapter 1 of title I of the
+ Elementary and Secondary Education Act of 1965 (Even Start), or comparable
+ early childhood development programs;
+ (9) a description of the supportive services to be provided, directly or
+ through referral;
+ (10) a plan to ensure the smooth transition of children served under the Head
+ Start Act, part B of chapter 1 of title I of the Elementary and Secondary
+ Education Act of 1965 (Even Start), Education of the Handicapped Act of 1975,
+ and comparable early childhood development programs to elementary schools;
+ (11) assurances that, and a plan describing how, families will be involved
+ in the design and operation of the program assisted under this subtitle;
+ (12) a description of the Federal and non-Federal resources that will be
+ used to carry out the program;
+ (13) if the applicant has applied for, or is receiving, assistance through
+ a program under the Follow Through Act--
+ (A) a description of the activities that will be funded under this subtitle
+ and the activities that will be funded with assistance provided under the
+ Follow Through Act; and
+ (B) a description of the manner in which activities funded under this
+ subtitle and activities funded with assistance provided under the Follow
+ Through Act will be coordinated within the elementary school;
+ (14) assurances that the supportive services team described in paragraph
+ (4) will be equipped to assist children and families with limited English
+ proficiency and disabilities, if appropriate;
+ (15) a plan describing how the program assisted under this subtitle will be
+ sustained, with chapter 1 funding or other Federal and non-Federal funding
+ sources, after the grant has expired;
+ (16) program goals; and
+ (17) such other information as the Secretary may reasonably require.
+(b) SPECIAL RULE- Each supportive services team developed pursuant to paragraph
+(4) of subsection (a) shall include at least 1 family service coordinator
+for every 35 children to be served.
+SEC. 137. EVALUATION AND REPORT.
+(a) EVALUATION- The Secretary shall, through grants, contracts or cooperative
+agreements, provide for the continuing evaluation of the programs assisted
+under this subtitle in order to determine the effectiveness of such programs
+in achieving stated goals, the impact of such programs on related programs,
+and the implications of the design and operation of such programs for the
+effective delivery of services.
+(b) LOCAL EVALUATION AND INFORMATION-
+ (1) REQUIREMENT- Each Head Start agency or local educational agency receiving
+ a grant under this subtitle shall carry out an evaluation of the program
+ assisted under this subtitle in order to determine the effectiveness of the
+ program in achieving stated goals, the impact of the program on the families
+ served and the community, the problems encountered in the design and operation
+ of the program and ways in which such problems were addressed, and the
+ impact of the program on the Head Start agency and local educational agency.
+ (2) INFORMATION- Each Head Start agency or local educational agency receiving
+ a grant under this subtitle shall furnish to the Secretary any information
+ the Secretary shall request in order to carry out the evaluation described
+ in subsection (a).
+(c) REPORT- Not later than September 30, 1993, the Secretary shall,
+prepare and submit, to the Committee on Education and Labor of the House of
+Representatives and the Committee on Labor and Human Resources of the Senate,
+a report concerning evaluations conducted pursuant to subsections (a) and
+(b), including the strengths and weaknesses in the design and operation of
+programs assisted under this subtitle and the effectiveness of such programs
+in achieving stated goals.
+SEC. 138. PAYMENTS; FEDERAL SHARE.
+(a) PAYMENTS- The Secretary shall make a grant to each Head Start agency
+or local educational agency having an application approved under section
+136, to pay the Federal share of the cost of the activities described in
+the application.
+(b) FEDERAL SHARE-
+ (1) IN GENERAL- The Federal share shall be 80 percent of the cost of the
+ activities described in the approved application.
+ (2) NON-FEDERAL SHARE- The non-Federal share of such cost may be in cash
+ or in kind fairly evaluated, including planned equipment or services.
+(c) SUPPLEMENTATION OF FUNDING-
+ (1) IN GENERAL- All Federal funds and funds paid as a part of the non-Federal
+ share under this subtitle shall be used to supplement the level of State
+ and local public funds expended for services assisted under this subtitle
+ in the previous fiscal year.
+ (2) SATISFACTION OF REQUIREMENT- The supplementation requirement of this
+ subsection shall be satisfied with respect to a particular program if the
+ aggregate expenditure in the program for the fiscal year in which services
+ are to be provided will not be less than the aggregate expenditure in
+ the program in the previous year, excluding Federal and non-Federal funds
+ provided under this subtitle.
+SEC. 139. COORDINATION WITH FOLLOW THROUGH.
+The Secretary shall arrange with the Secretary of Education to coordinate
+the programs established under this subtitle with the programs established
+under the Follow Through Act to enable local educational agencies to submit
+a single application for funding under both such programs, and shall, to the
+extent practicable, coordinate the promulgation of regulations that apply
+to such programs.
+SEC. 140. AVAILABILITY OF FUNDS.
+Section 639 of the Head Start Act, as amended by section 120(b), is amended
+by adding at the end the following:
+ `(c)(1) If the amount appropriated under subsection (a) for fiscal year 1991
+ exceeds the adjusted appropriation, the Secretary shall make available not
+ less than $20,000,000 to carry out the Head Start Transition Project Act.
+`(2) The Secretary shall make available not less than $20,000,000 for each of
+the fiscal years 1992, 1993, and 1994 to carry out the Head Start Transition
+Project Act.'.
+TITLE II--AMENDMENTS TO THE FOLLOW THROUGH ACT
+SEC. 201. TECHNICAL AMENDMENTS.
+The Follow Through Act (42 U.S.C. 9861-9877) is amended--
+ (1) by inserting after section 661 the following: `PART I--DIRECT SERVICES',
+ and
+ (2) in section 668--
+ (A) by striking `this subchapter' each place it appears and inserting
+ `part I', and
+ (B) in subsection (a) by inserting `programs and' after `participating in'.
+SEC. 202. FINANCIAL ASSISTANCE FOR FOLLOW THROUGH PROGRAMS.
+(a) PRIORITY- Section 662(a) of the Follow Through Act (42 U.S.C. 9861(a))
+is amended by adding at the end the following: `For the purpose of making
+grants under this section, the Secretary shall give priority to any local
+educational agency that requests the grant for purposes of carrying out a
+Follow Through program in a school that--
+ `(1) is designated as a schoolwide project under section 1015(a) of the
+ Elementary and Secondary Education Act of 1965; and
+ `(2) has a high concentration of children described in the first sentence
+ of this subsection.'.
+(b) PROVISION OF ASSISTANCE- Section 662 of the Follow Through Act (42
+U.S.C. 9861) is amended--
+ (1) in the first sentence of subsection (a) by inserting `quality pre-school'
+ after `similar',
+ (2) in subsection (c)--
+ (A) in the first sentence by striking `this section shall provide such'
+ and inserting `this part shall use model Follow Through approaches for
+ which financial assistance is provided under section 664A and shall provide
+ directly, through referral or a program established under the Head Start
+ Transition Project Act, or by using any combination of these methods,',
+ (B) in the second sentence by striking `projects' and inserting `programs',
+ and
+ (C) in the last sentence by striking `project' and inserting `program', and
+ (3) by adding at the end the following:
+`(d) The Secretary may not refuse to provide financial assistance under
+subsection (a) to an applicant solely because such applicant proposes to
+carry out a Follow Through program during a period in which school is not
+in regular session, at more than one site, or both.
+`(e)(1) In making grants under subsection (a), the Secretary shall provide
+sufficient funds to enable programs to meet the requirements of subsection (c).
+`(2) If the aggregate amount appropriated for a fiscal year to carry out
+this subchapter exceeds $15,000,000, the amount of each such grant shall be
+not less than $200,000.
+`(f) Notwithstanding subsection (c), any local educational agency that
+receives a grant under subsection (a) for purposes of carrying out a Follow
+Through program in an elementary school that--
+ `(A) receives funds under part A of chapter 1 of title I of the Elementary
+ and Secondary Education Act of 1965; and
+ `(B) is designated as a schoolwide project under section 1015(a) of such Act;
+may use such grant to serve all children attending such school in kindergarten
+through grade 3.'.
+(c) TECHNICAL AMENDMENT- Section 662(c) of the Follow Through Act (42
+U.S.C. 9861(c)) is amended by striking `projects' and inserting `programs'.
+SEC. 203. APPLICATIONS AND FUNDING.
+The Follow Through Act (42 U.S.C. 9861-9877) is amended by striking section
+663 and inserting the following:
+`CONSIDERATION OF APPLICATIONS
+`SEC. 663. (a) IN GENERAL- A grant under this part may be made only to
+an applicant that submits an application to the Secretary containing such
+information as may be required by the Secretary by rule.
+`(b) CONTENTS OF APPLICATION- Each application for a grant under this
+part shall--
+ `(1) provide that the program for which assistance is requested will be
+ administered by or under the supervison of the applicant;
+ `(2) contain an assurance that the applicant will prepare, and submit to
+ the Secretary, regular evaluations of and reports concerning such program;
+ `(3) estimate the number of children who are eligible for Follow Through
+ services in the geographical area served by such program and the approximate
+ number to be served by such program;
+ `(4) describe which model Follow Through approach the applicant intends to
+ use, and the manner in which the applicant will implement such approach;
+ `(5) provide evidence that the applicant has made a formal arrangement to
+ receive technical assistance and training relative to such approach from
+ an appropriate agency, institution, or organization that receives funds
+ under section 664A;
+ `(6) provide an assurance that the instructional program, including textbooks
+ and other materials provided by the applicant, is appropriate to the ages
+ and developmental needs of the children to be served by such program and
+ to the model Follow Through approach selected;
+ `(7) specify the manner in which the applicant will provide comprehensive
+ services, including through agreements with public or private entities to
+ provide, make referrals to, or coordinate the provision of such services to
+ children and their families through the program established under subchapter
+ B, the Head Start Transition Project Act, or another comprehensive program;
+ `(8) provide for direct participation of parents, as provided in section
+ 662(c), and include a cerification that such application has been approved
+ by a committee (established in accordance with rules issued by the Secretary)
+ that represents parents of children who participate, and parents of children
+ who are likely to participate, in such program;
+ `(9) describe how the applicant proposes to coordinate services under this
+ part with services under chapter 1 of title I of the Elementary and Secondary
+ Education Act of 1965, the Bilingual Education Act, and the Education of
+ the Handicapped Act of 1975;
+ `(10) demonstrate that--
+ `(A) the applicant has entered into a formal arrangement with local Head Start
+ programs and other preschool programs for such cooperation and activities
+ as are necessary to ensure an effective transition of eligible children
+ entering the Follow Through program carried out by such applicant; and
+ `(B) the Follow Through activities to be provided by the applicant have been
+ specifically designed to coordinate with, and build on, those activities
+ provided to participants in local Head Start or other similar preschool
+ programs;
+ `(11) describe the expected or, if possible, actual impact of such program
+ on the applicant's regular school program; and
+ `(12) contain--
+ `(A) a certification that the applicant submitted such application to the
+ State educational agency (as defined in section 1471(23) of the Elementary
+ and Secondary Education Act of 1965) for a reasonable period for comment
+ before submitting such application to the Secretary; and
+ `(B) any comments received from such agency during such period.'.
+SEC. 204. PROGRAM IMPROVEMENT.
+(a) RESEARCH, EVALUATION, AND RELATED MATTERS- The Follow Through Act
+(42 U.S.C. 9861-9877) is amended by striking section 664 and inserting
+the following:
+`Part II--Program Improvement
+`RESEARCH
+`SEC. 664. The Secretary may provide financial assistance, through grants
+and contracts, to public and private nonprofit agencies, institutions,
+and organizations to conduct research--
+ `(1) to improve Follow Through approaches;
+ `(2) to develop model Follow Through approaches; and
+ `(3) to meet the special needs of children who are eligible to participate
+ in Follow Through programs.
+`TECHNICAL ASSISTANCE AND TRAINING
+`SEC. 664A. (a) The Secretary shall make grants to public and private
+nonprofit agencies, institutions, and organizations--
+ `(1) to provide technical assistance to assist in the development,
+ implementation, and expanded use of model Follow Through approaches; and
+ `(2) to provide training in conjunction with the operation of Follow Through
+ programs or other programs that adopt such approaches.
+`(b)(1) Technical assistance with respect to a particular model Follow Through
+approach may not be provided under subsection (a)(1) in more than 5 fiscal
+years to a particular recipient of financial assistance under section 662(a).
+`(2) In the case of a recipient of financial assistance under section 662(a)
+that has received technical assistance prior to the date of enactment of
+this part, the Secretary may limit the provision of technical assistance
+with respect to a particular Follow Through approach under subsection (a)(1)
+to 3 fiscal years.
+`RESOURCE AND EXPANSION
+`SEC. 664B. The Secretary may make grants to entities which operate, or
+previously operated, Follow Through programs that the Secretary finds to
+be effective--
+ `(1) to act as Follow Through resources to develop and provide information
+ on the operation of their respective programs;
+ `(2) to promote the adoption of similar programs by local educational
+ agencies; and
+ `(3) to assist agencies, institutions, and organizations that receive funds
+ under section 664A, in providing technical assistance and training.
+`NATIONAL CLEARINGHOUSE
+`SEC. 664C. (a) If the amount appropriated to carry out this subchapter
+is not less than $30,000,000, then the Secretary shall make a grant to an
+organization that represents entities referred to in sections 662, 664A,
+and 664B to establish a national clearinghouse on Follow Through programs
+(hereinafter in this section referred to as the clearinghouse), which
+shall provide information, without charge or at such reasonable cost as the
+Secretary may determine, to the public concerning--
+ `(1) programs that receive financial assistance under section 662;
+ `(2) model Follow Through approaches;
+ `(3) the kinds of technical assistance and training available under
+ section 664A;
+ `(4) the procedure to obtain technical assistance and training available
+ under section 664A; and
+ `(5) Follow Through research and evaluations.
+`(b) The Secretary shall make available to the clearinghouse all research
+and evaluations that relate to Follow Through programs and for which the
+Secretary provides, or has ever provided, funds.
+`(c)(1) The Secretary shall promote the awareness and use of model Follow
+Through approaches by--
+ `(A) providing information to recipients of grants and contracts under
+ section 1562 of the Elementary and Secondary Education Act of 1965 concerning
+ programs and activities that receive assistance under this title; and
+ `(B) making information concerning such programs and activities available
+ to such recipients without charge.
+ `(2) From amounts appropriated for each fiscal year to carry out this part,
+ the Secretary shall expend--
+ `(A) not less than $100,000 to pay for the costs incurred by such recipients
+ to disseminate information relating to programs and activities funded under
+ this part; and
+ `(B) not less than $300,000 to carry out subsection (a).'.
+(b) CONFORMING AMENDMENT- The Follow Through Act (42 U.S.C. 9861-9877)
+is amended by striking section 667.
+SEC. 205. RESEARCH AND EVALUATION CONTRACTS.
+Section 665 of the Follow Through Act (42 U.S.C. 9864) is amended--
+ (1) in the heading of such section by striking `, DEMONSTRATION, AND PILOT
+ PROJECT' and inserting `AND EVALUATION', and
+ (2) in subsection (a)(1) by striking `, demonstration, or pilot project'
+ and inserting `or evaluation'.
+SEC. 206. EVALUATION.
+Section 666(a) of the Follow Through Act (42 U.S.C. 9865(a)) is amended--
+ (1) by striking the last sentence and inserting `Such continuing evaluation
+ shall measure the impact of such programs on participating parents and on
+ entire schools and school districts in which such programs are carried out.',
+ (2) by inserting `(1)' after `(a)', and
+ (3) by adding at the end the following:
+`(2) The evaluation required by paragraph (1) shall include evaluations of
+local educational agencies that receive Follow Through grants for use in
+a school that is designated as a schoolwide project under section 1015(a)
+of the Elementary and Secondary Education Act of 1965. Such evaluation shall
+compare children who only receive services under a grant under chapter 1 of
+title I of the Elementary and Secondary Education Act of 1965 with children
+who receive services under such a grant and under a Follow Through grant for
+the purposes of determining whether the comprehensive services provided to
+the latter children through the model Follow Through approach had a positive
+effect on their educational progress and overall developmental progress. To
+the extent practicable, such comparison shall be made on the basis of results
+of evaluations conducted under such chapter and evaluations conducted under
+this subsection, and shall take into account the amount of funds provided
+to the project.'.
+SEC. 207. GENERAL AND ADMINISTRATIVE PROVISIONS.
+(a) AUTHORIZATION OF APPROPRIATIONS- The Follow Through Act (42
+U.S.C. 9861-9877) is amended by inserting after section 666 the following:
+`Part III--General and Administrative Provisions
+`AUTHORIZATION OF APPROPRIATIONS
+`SEC. 667. (a) There are authorized to be appropriated to carry out this
+subchapter $20,000,000 for fiscal year 1991, and such sums as may be necessary
+for each of the fiscal years 1992, 1993, and 1994.
+`(b) Of the amount appropriated for each fiscal year to carry out this
+subchapter--
+ `(1) 70 percent shall be available to carry out part I; and
+ `(2) 30 percent shall be available to carry out part II.
+`(c)(1) Except as provided in paragraph (4), financial assistance provided
+under part I for a Follow Through program shall not exceed 80 percent of
+the approved costs of the program assisted, except that the Secretary may
+approve assistance in excess of such percentage if the Secretary determines,
+in accordance with rules establishing objective criteria, that such action
+is required to carry out such part.
+`(2) Non-Federal contributions may be in cash or in kind, fairly evaluated,
+including plant, equipment, and services.
+`(3) The Secretary may not require non-Federal contributions in excess of
+20 percent of the approved costs of the Follow Through program assisted.
+`(4) Financial assistance provided under part I for a Follow Through program
+carried out in an elementary school that--
+ `(A) receives funds under part A of chapter 1 of title I of the Elementary
+ and Secondary Education Act of 1965; and
+ `(B) is designated as a schoolwide project under section 1015(a) of such Act;
+may be expended to pay 100 percent of the approved costs of the program
+assisted.
+`(d) An application for assistance under this subchapter may not be approved
+unless the Secretary is satisfied that the services to be provided under this
+chapter by such applicant will be in addition to, and not in substitution for,
+services previously provided without Federal assistance. The requirement
+imposed by the preceding sentence shall be subject to such rules as the
+Secretary may issue.'.
+(b) CONFORMING AMENDMENT- Section 670 of the Follow Through Act (42 U.S.C. 9861
+note) is repealed.
+SEC. 208. PARTICIPATION IN OTHER EDUCATIONAL ACTIVITIES.
+The Follow Through Act (42 U.S.C. 9861-9877) is amended by inserting after
+section 669 the following:
+`PARTICIPATION IN OTHER EDUCATIONAL ACTIVITIES
+`SEC. 669A. (a) The Secretary shall facilitate the participation of
+entities that receive funds under sections 664A and 664B in training and
+technical assistance activities carried out under other Federal programs
+that provide assistance to children in elementary schools, including programs
+and activities carried out under chapter 1 of title I of the Elementary and
+Secondary Education Act of 1965.
+`(b) The Secretary shall consult with the Secretary of Health and Human
+Services in the coordination of the program established under this Act
+with the programs established under the Head Start Transition Project Act
+to enable local educational agencies to submit a single application for
+funding under both such programs and shall, to the extent practicable,
+coordinate the issuance of regulations governing such programs.'.
+SEC. 209. TECHNICAL AMENDMENT.
+Section 668(a) of the Follow Through Act (42 U.S.C. 9867(a)) is amended by
+inserting `programs and' before `projects'.
+TITLE III--AMENDMENTS TO THE STATE DEPENDENT CARE DEVELOPMENT GRANTS ACT
+SEC. 301. AMENDMENTS TO THE STATE DEPENDENT CARE DEVELOPMENT GRANTS ACT.
+Section 670A of the State Dependent Care Development Grants Act (42
+U.S.C. 9871) is amended--
+ (1) by striking `is authorized' and inserting `are authorized',
+ (2) by striking `1987, 1988, 1989, and', and
+ (3) by inserting after `1990' the following: `and 1991, and such sums as
+ may be necessary for fiscal years 1992, 1993, and 1994'.
+SEC. 302. WAIVER OF EXISTING PERCENTAGE SETASIDE OF ALLOTMENTS.
+Section 670D(c) of the State Dependent Care Development Grants Act (42
+U.S.C. 9874(c)) is amended--
+ (1) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B),
+ respectively,
+ (2) by striking `Of' and inserting `(1) Except as provided in paragraph
+ (2), of', and
+ (3) by adding at the end the following:
+ `(2) For any fiscal year the Secretary may waive the percentage requirements
+ specified in paragraph (1) on the request of a State if such State
+ demonstrates to the satisfaction of the Secretary--
+ `(A) that the amount of funds available as a result of one of such percentage
+ requirements is not needed in such fiscal year for the activities for which
+ such amount is so made available; and
+ `(B) the adequacy of the alternative percentages, relative to need, the
+ State specifies the State will apply with respect to all of the activities
+ referred to in paragraph (1) if such waiver is granted.'.
+SEC. 303. OPERATION COSTS OF AFTER SCHOOL CARE PROGRAMS AUTHORIZED.
+(a) Use of Allotments-
+ (1) IN GENERAL- Section 670D(a)(1) of the State Dependent Care Development
+ Grants Act (42 U.S.C. 9874(a)(1)) is amended by inserting `operation,'
+ after `establishment,'.
+ (2) OPERATION AND SITES- Section 670D(b)(1) of the State Dependent Care
+ Development Grants Act (42 U.S.C. 9874(b)(1)) is amended--
+ (A) by inserting `operation,' after `establishment,', and
+ (B) by striking `in public' and all that follows through `communities'.
+ (3) PARTICIPATION OF CERTAIN CHILDREN- Section 670D(b)(1) of the State
+ Dependent Care Development Grants Act (42 U.S.C. 9874(b)(1)) is amended
+ by adding at the end the following: `Amounts so paid to a State and used
+ for the operation of such child care services shall be designed to enable
+ children, whose families lack adequate financial resources, to participate
+ in before or after school child care programs.'.
+ (4) RESOURCE AND REFERRAL SYSTEM- Section 670D(f) of the State Dependent
+ Care Development Grants Act (42 U.S.C. 9871(f)) is amended by inserting
+ `operate,' after `expand,'.
+(b) LIMITATIONS- Section 670D(d) of the State Dependent Care Development
+Grants Act (42 U.S.C. 9874(d)) is amended--
+ (1) by striking paragraph (1),
+ (2) by redesignating paragraph (2) as paragraph (1),
+ (3) by striking paragraph (3), and
+ (4) by redesignating paragraphs (4) and (5) as paragraphs (2) and (3),
+ respectively.
+SEC. 304. REPORT BY GRANT RECIPIENTS.
+(a) IN GENERAL- Section 670E(c) of the State Dependent Care Development
+Grants Act (42 U.S.C. 9875(c)) is amended--
+ (1) by inserting `(1)' after `(c)', and
+ (2) by adding at the end the following:
+`(2) The chief executive officer of each State shall include in such a
+description of--
+ `(A) the number of children who participated in before and after school
+ child care programs assisted under this subchapter;
+ `(B) the characteristics of the children so served including age levels,
+ handicapped condition, income level of families in such programs;
+ `(C) the salary level and benefits paid to employees in such child care
+ programs; and
+ `(D) the number of clients served in resource and referral systems assisted
+ under this subchapter, and the types of assistance they requested.'.
+(b) DATE OF REVISION- Subsection (c)(1) of section 670E of the State Dependent
+Care Development Grants Act (42 U.S.C. 9875(c)), as so redesignated by
+subsection (a), is amended by striking out `September 30, 1987' and inserting
+`September 30, 1991'.
+SEC. 305. TECHNICAL AMENDMENTS.
+(a) USE OF ALLOTMENTS- Section 670D of the State Dependent Care Development
+Grants Act (42 U.S.C. 9874) is amended--
+ (1) in the first sentence of subsection (a)(1) by striking `for fiscal year
+ 1985 and fiscal year 1986',
+ (2) in the first sentence of subsection (b)(1) by striking `for fiscal year
+ 1985 and fiscal year 1986',
+ (3) in subsection (b)(2)--
+ (A) in subparagraph (D)--
+ (i) by inserting `school-age children,' after `diverse', and
+ (ii) by inserting a comma after `children' the last place it appears, and
+ (B) in subparagraph (F)--
+ (i) by striking `Governor' and inserting `chief executive officer of the
+ State', and
+ (ii) by striking `the provisions of',
+ (4) in subsection (d)(1) by striking `subsection (a)' and inserting
+ `subsections (a) and (b)',
+ (5) in subsection (f) by striking `, which prior to the date of enactment
+ of this subchapter, are provided' and inserting `which are provided before
+ the date of the enactment of this subchapter,', and
+ (6) in subsection (g) by striking `operating activities to be carried out'
+ and inserting `carrying out activities'.
+(b) APPLICATION AND DESCRIPTION OF ACTIVITIES- The last sentence of section
+670E(c) of the State Dependent Care Development Grants Act (42 U.S.C. 9875(c))
+is amended by striking `until September 30, 1987,'.
+(c) DEFINITIONS- Section 670G of the State Dependent Care Development Grants
+Act (42 U.S.C. 9877), is amended--
+ (1) in paragraph (2)(C) by striking `a person' and inserting `an individual',
+ (2) in paragraph (7) by inserting `in' after `State' the first place it
+ appears, and
+ (3) in paragraph (10) by striking `Trust Territory of the Pacific Islands,'
+ and inserting `Federated States of Micronesia, the Republic of the Marshall
+ Islands, Palau,'.
+TITLE IV--AMENDMENTS TO THE COMMUNITY SERVICES BLOCK GRANT ACT
+SEC. 401. AUTHORIZATION OF APPROPRIATIONS.
+(a) GENERAL AUTHORIZATION OF APPROPRIATIONS- Section 672(b) of the Community
+Services Block Grant Act (42 U.S.C. 9901(b)) is amended--
+ (1) by striking `is authorized' and all that follows through `1989, and',
+ and inserting `are authorized to be appropriated',
+ (2) by inserting after `1990,' the following: `$451,500,000 for fiscal year
+ 1991, $460,000,000 for fiscal year 1992, $480,000,000 for fiscal year 1993,
+ and $500,000,000 for fiscal year 1994', and
+ (3) by inserting `(other than section 681A)' after `subtitle'.
+(b) AUTHORIZATION OF APPRORPRIATIONS FOR COMMUNITY FOOD AND NUTRITION PROGRAMS-
+Section 681A(c) of the Community Services Block Grant Act (42 U.S.C. 9910a(c))
+is amended--
+ (1) by striking `each of the fiscal years 1987, 1988, 1989, and' and inserting
+ `fiscal year', and
+ (2) by inserting after `1990' the following: `, $10,000,000 for fiscal year
+ 1991, $15,000,000 for fiscal year 1992, $20,000,000 for fiscal year 1993,
+ and $25,000,000 for fiscal year 1994'.
+SEC. 402. ELIGIBLE ENTITIES.
+The third sentence of section 673(1) of the Community Services Block Grant
+Act (42 U.S.C. 9902(1)) is amended--
+ (1) by striking `In' and inserting `If',
+ (2) by striking `not presently' and inserting `is not, or ceases to be,',
+ (3) by striking `Governor' and inserting `chief executive officer',
+ (4) in subparagraph (C) by inserting after `new area.' the following:
+ `In making a designation under this subparagraph, such chief executive
+ officer shall give priority to such organization.', and
+ (5) by striking `The Governor's' and inserting `Such officer's'.
+SEC. 403. STATE ALLOCATIONS.
+Section 674(a) of the Community Services Block Grant Act (42 U.S.C. 9903(a))
+is amended--
+ (1) by redesignating paragraph (2) as paragraph (3), and
+ (2) by inserting after paragraph (1) the following:
+`(2)(A) Subject to subparagraphs (B) and (C), if the amount appropriated
+under section 672 for each fiscal year which remains after--
+ `(i) the Secretary makes the apportionment required in subsection (b)(1); and
+ `(ii) the Secretary determines the amount necessary for the purposes of
+ section 681(c);
+exceeds $345,000,000, the Secretary shall allot to each State not less than
+one-half of 1 percent of the amount appropriated under section 672 for such
+fiscal year.
+`(B) Subparagraph (A) shall not apply with respect to a fiscal year if the
+amount allotted under paragraph (1) to any State is less than the amount
+allotted under such paragraph to such State for fiscal year 1990.
+`(C) The amount allotted under subparagraph (A) to a State shall be reduced,
+if necessary, so that the aggregate amount allotted to such State under such
+subparagraph and paragraph (1) does not exceed 140 percent of the aggregate
+amount so allotted to such State for the fiscal year preceding the fiscal
+year for which a determination is made under this paragraph.'.
+SEC. 404. APPLICATIONS AND REQUIREMENTS.
+(a) ASSURANCE BY STATE- Section 675(c)(11) of the Community Services Block
+Grant Act (42 U.S.C. 9904(c)(11)) is amended--
+ (1) by inserting `, or reduced below the proportional share of funding
+ it received in the previous fiscal year,' after `under this Act' the last
+ place it appears,
+ (2) by inserting `or such reduction' after `such termination', and
+ (3) by adding at the end the following:
+`For purposes of making a determination with respect to a funding reduction,
+the term `cause' includes--
+ `(A) a statewide redistribution of funds under this subtitle to respond to--
+ `(i) the results of the most recently available census or other appropriate
+ data;
+ `(ii) the establishment of a new eligible entity;
+ `(iii) severe economic dislocation; and
+ `(B) the failure of an eligible entity to comply with the terms of its
+ agreement to provide services under this subtitle.'.
+(b) OPPORTUNITY FOR COMMENT- Section 675(c) of the Community Services Block
+Grant Act (42 U.S.C. 9904(c)) is amended--
+ (1) in paragraph (10) by striking `and' at the end,
+ (2) in paragraph (11) by striking the period at the end and inserting `;
+ and', and
+ (3) by inserting after paragraph (11) the following:
+ `(12) in the case of a State which applied for and received a waiver from
+ the Secretary under Public Law 98-139, provide assurances that funds will
+ not be provided under this subtitle by such State to an organization to
+ which such State made a grant under this subtitle in fiscal year 1984
+ unless such organization allows, before expending such funds, low-income
+ individuals to comment on the uses for which such organization proposes to
+ expend such funds.'.
+(c) PROCEDURES FOR REVIEW OF REDUCTION OF FUNDING- Section 676A of the
+Community Services Block Grant Act (42 U.S.C. 9906) is amended--
+ (1) in the heading by inserting `OR REDUCTION' after `TERMINATION',
+ (2) in the first sentence of subsection (a) by inserting `or reduces' after
+ `terminates', and
+ (3) in the first sentence of subsection (b) by inserting `or reduction'
+ after `termination'.
+SEC. 405. DISCRETIONARY AUTHORITY OF SECRETARY.
+(a) PLANNING AND DEVELOPMENT OF RURAL RENTAL HOUSING- Section 681(a)(2)(D)
+of the Community Services Block Grant Act (42 U.S.C. 9910(a)(2)(D)) is
+amended by striking `rural housing and community facilities development'
+and inserting `the planning and development of rural housing (including
+rental housing for low-income individuals) and community facilities'.
+(b) ACTIVITIES FOR LOW-INCOME YOUTH- Section 681 of the Community Services
+Block Grant Act (42 U.S.C. 9910) is amended--
+ (1) in subsection (a)(2)(F) by striking `recreational activities' and
+ inserting `instructional activities described in subsection (b)',
+ (2) by redesignating subsections (b) and (c) as subsections (c) and (d),
+ respectively, and
+ (3) by inserting after subsection (a) the following:
+`(b) Any instructional activity carried out under subsection (a)(2)(F) shall
+be carried out on the campus of an institution of higher education (as defined
+in section 1201(a) of the Higher Education Act of 1965) and shall include--
+ `(1) access to the facilities and resources of such institution;
+ `(2) an initial medical examination and follow-up referral or treatment,
+ without charge, for youth during their participation in such activity;
+ `(3) at least one nutritious meal daily, without charge, for participating
+ youth during each day of participation;
+ `(4) high quality instruction in a variety of sports (that shall include
+ swimming and that may include dance and any other high quality recreational
+ activity) provided by coaches and teachers from institutions of higher
+ education and from elementary and secondary schools (as defined in sections
+ 1471(8) and 1471(21) of the Elementary and Secondary Education Act of
+ 1965); and
+ `(5) enrichment instruction and information on matters relating to the
+ well-being of youth, such as educational opportunities and study practices,
+ the prevention of drug and alcohol abuse, health and nutrition, career
+ opportunities, and job responsibilities.'.
+SEC. 406. COMMUNITY FOOD AND NUTRITION.
+(a) CONFORMING AMENDMENT- Section 681A(a) of the Community Services Block
+Grant Act (42 U.S.C. 9910a) is amended by striking `local, and statewide'
+and inserting `local, Statewide, and national'.
+(b) AMOUNT OF GRANTS- Section 681A of the Community Services Block Grant Act
+(42 U.S.C. 9910a) is amended--
+ (1) by striking subsection (b),
+ (2) by redesignating subsection (c) as subsection (d); and
+ (3) by inserting after subsection (a) the following:
+`(b)(1) Of the amount appropriated for a fiscal year to carry out this section,
+the Secretary shall allot funds for grants under subsection (a) as follows:
+ `(A) From 60 percent of such amount (but not to exceed $3,600,000), the
+ Secretary shall allot for grants to eligible agencies for statewide programs
+ in each State the amount that bears the same ratio to 60 percent of the
+ amount appropriated for such fiscal year as the low-income and unemployed
+ population of such State bear to the low-income and unemployed populations
+ of all the States.
+ `(B) From 40 percent of such amount (but not to exceed $2,400,000), the
+ Secretary shall allot for grants on a competitive basis to eligible agencies
+ for local and statewide programs.
+`(2) Any amounts appropriated for a fiscal year to carry out this section
+in excess of $6,000,000 shall be allotted as follows:
+ `(A) The Secretary shall use 40 percent of such excess to make allotments
+ for grants under subsection (a) to eligible agencies for statewide programs
+ in each State in an aggregate amount that bears the same ratio to 40 percent
+ of such excess as the low-income and unemployed populations of such State
+ bears to the low-income and unemployed populations of all States.
+ `(B) The Secretary shall use 40 percent of such excess to award grants
+ under subsection (a) on a competitive basis to eligible agencies for local
+ and statewide programs.
+ `(C) The Secretary shall use the remaining 20 percent of such excess
+ to award grants under subsection (a) on a competitive basis to eligible
+ agencies for nationwide programs, including programs benefiting Native
+ Americans and migrant farm workers. In any fiscal year, the Secretary may
+ not make grants under this subparagraph to a particular eligible agency in
+ an aggregate amount exceeding $300,000.
+`(3) For purposes of paragraphs (1)(A) and (2)(A), an eligible agency shall
+demonstrate that the proposed program is statewide in scope and represents
+a comprehensive and coordinated effort to alleviate hunger within the State.
+`(4) From the amounts allocated under paragraphs (1)(A) and (2)(A), the
+minimum total allotment for each State for each fiscal year shall be--
+ `(A) $15,000 if the total amount appropriated to carry out this section is
+ not less than $7,000,000 but less than $10,000,000;
+ `(B) $20,000 if the total amount appropriated to carry out this section is
+ not less than $10,000,000 but less than $15,000,000; or
+ `(C) $30,000 if the total amount appropriated to carry out this section is
+ not less than $15,000,000.
+For purposes of this paragraph, the term `State' does not include Guam,
+American Samoa, the Virgin Islands, the Northern Mariana Islands, and the
+Trust Territory of the Pacific Islands.
+`(5) From funds allotted under paragraphs (1)(B) and (2)(B) in any fiscal
+year, the Secretary may not make grants under subsection (a) to an eligible
+agency in an aggregate amount exceeding $50,000.'.
+(c) REPORTS- Section 681A of the Community Services Block Grant Act (42
+U.S.C. 9910a) is amended--
+ (1) by redesignating subsection (c) as subsection (d), and
+ (2) by inserting after subsection (b) the following:
+`(c) For each fiscal year, the Secretary shall prepare and submit, to the
+Committee on Education and Labor of the House of Representatives and the
+Committee on Labor and Human Resources of the Senate, a report concerning
+the grants awarded under this section. Such report shall include--
+ `(1) a list of grantees;
+ `(2) the amount of funding awarded to each grantee; and
+ `(3) a summary of the activities performed by grantees with funds awarded
+ under this section and a description of the manner in which such activities
+ meet the objectives described in subsection (a).'.
+SEC. 407. ANNUAL REPORT.
+(a) REPORT REQUIRED- The Community Services Block Grant Act (42
+U.S.C. 9901-9912) is amended by striking section 682 and inserting the
+following:
+`ANNUAL REPORT
+`SEC. 682. (a)(1) For each fiscal year beginning after September 30, 1991,
+the Secretary shall, by contract with an entity that is knowledgeable about
+programs and projects assisted under this subtitle, prepare a report containing
+the following information:
+ `(A) The identity of each eligible entity, agency, organization, and person
+ that receives, directly or indirectly, funds to carry out this subtitle in
+ such fiscal year.
+ `(B) With respect to each particular purpose or activity referred to in
+ section 675(c)(1)--
+ `(i) the aggregate amount of such funds expended in such fiscal year to
+ achieve such purpose or carry out such activity; and
+ `(ii) the number of individuals who directly benefited from the amount
+ so expended.
+`(2) For any fiscal year beginning after September 30, 1991, the Secretary
+may, by contract, include in such report any additional information the
+Secretary considers to be appropriate to carry out this subtitle, except that
+the Secretary may not require a State to provide such additional information
+until the expiration of the 1-year period beginning on the date the Secretary
+notifies such State that such additional information will be required to be
+provided by such State.
+`(3) The Secretary may not carry out this subsection by entering into a
+contract with any State, eligible entity, agency, organization, or person
+that receives, directly or indirectly, funds to carry out this subtitle.
+`(b) Not later than 180 days after the end of the fiscal year for which
+a report is required by subsection (a) to be prepared, the Secretary
+shall transmit to the Committee on Education and Labor of the House of
+Representatives and the Committee on Labor and Human Resources of the Senate--
+ `(1) such report in the form in which it was received by the Secretary; and
+ `(2) any comments the Secretary may have with respect to such report.
+`(c) Of the funds made available under section 681(d), not more than $250,000
+shall be available to carry out this section.'.
+(b) CONFORMING AMENDMENT- Section 681(d) of the Community Services Block
+Grant Act (42 U.S.C. 9910), as so redesignated by section 405(b)(2), is
+amended by inserting `, section 682,' after `this section'.
+SEC. 408. TECHNICAL AMENDMENT.
+Section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2))
+is amended by striking `for all Urban' and inserting `For All Urban'.
+TITLE V--AMENDMENTS TO THE CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE
+ACT OF 1985
+SEC. 501. ADEQUACY OF SCHOLARSHIPS.
+(a) TRAINING ASSISTANCE- Section 603(b)(1)(C) of the Child Development
+Associate Scholarship Assistance Act of 1985 (42 U.S.C. 10902(b)(1)(C)) is
+amended by inserting `(including, at the option of the State, any training
+necessary for credentialing)' after `credentialing'.
+(b) LIMITATION- Section 603(b) of the Child Development Associate Scholarship
+Assistance Act of 1985 (42 U.S.C. 10902(b)) is amended--
+ (1) in paragraph (1)(C) by striking `and' at the end,
+ (2) by redesignating paragraph (2) as paragraph (3), and
+ (3) by inserting after paragraph (1) the following:
+ `(2) not more than 35 percent of the funds received under this title by
+ a State may be used to provide scholarship assistance under paragraph (1)
+ to cover the cost of training described in paragraph (1)(C); and'.
+SEC. 502. DEFINITIONS.
+Section 604 of the Child Development Associate Scholarship Assistance Act
+of 1985 (42 U.S.C. 10903) is amended--
+ (1) in paragraph (1) by striking `poverty line, as defined in section 673(2)
+ of the Community Services Block Grant Act (42 U.S.C. 9902(2))' and inserting
+ `130 percent of the lower living standard income level',
+ (2) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4),
+ respectively, and
+ (3) by inserting after paragraph (1) the following:
+ `(2) the term `lower living standard income level' means that income level
+ (adjusted for regional, metropolitan, urban, and rural differences and
+ family size) determined annually by the Secretary of Labor and based on
+ the most recent lower living family budget issued by the Secretary of Labor;'.
+SEC. 503. AUTHORIZATION OF APPROPRIATIONS.
+Section 606 of the Child Development Associate Scholarship Assistance Act
+of 1985 (42 U.S.C. 10904) is amended--
+ (1) by striking `is authorized' and inserting `are authorized',
+ (2) by striking `each of the fiscal years 1987, 1988, and 1989, and' and
+ inserting `fiscal year', and
+ (3) by inserting after `1990' the following: `, $3,000,000 for fiscal
+ year 1991, and such sums as may be necessary for fiscal years 1992, 1993,
+ and 1994'.
+TITLE VI--AMENDMENTS RELATING TO DEMONSTRATION PARTNERSHIP AGREE- MENTS
+ADDRESSING THE NEEDS OF THE POOR
+SEC. 601. PROGRAMS FOR SPECIAL POPULATIONS.
+Section 408 of the Human Services Reauthorization Act of 1986 (42 U.S.C. 9910b)
+is amended--
+ (1) in subsection (e)--
+ (A) in paragraph (2) by striking `subsection (c)' and inserting `subsection
+ (d)', and
+ (B) in paragraph (4) by striking `subsection (d)(2)' each place it appears
+ and inserting `subsection (e)(2)',
+ (2) by redesignating subsections (c), (d), (e), (f), and (g) as subsections
+ (d), (e), (f), (g), and (h), respectively, and
+ (3) by inserting after subsection (b) the following:
+`(c) PROGRAMS DIRECTED TO SPECIAL POPULATIONS- (1) In addition to the
+grant programs described in subsection (a), the Secretary shall make grants
+to eligible entities for the purpose of demonstrating new and innovative
+approaches to addressing the problems of, and providing opportunities for
+leadership development, community involvement, and educational success
+to, disadvantaged persons between the ages of 14 and 25 from populations
+experiencing conditions such as a high poverty rate, high unemployment,
+high dropout rate, low labor force participation, low enrollment in college
+or participation in other post high school training classes, high incidence
+of involvement in violence, and a high rate of incarceration. Services
+provided through approaches funded by such grants may include assessment
+and development of employability plans, remedial education, motivational
+activities, life skills instruction, community service, mentoring, access
+to information on available financial aid, campus visits, career education,
+cultural enrichment, and employment training, placement, and follow-up.
+`(2) Such grants may be made only with respect to applications that--
+ `(A) identify and describe the population to be served, the problems to be
+ addressed, the overall approach and methods of outreach and recruitment to
+ be used, and the services to be provided;
+ `(B) describe how the approach to be used differs from other approaches
+ used for the population to be served by the project;
+ `(C) describe the objectives of the project and contain a plan for measuring
+ progress toward meeting those objectives; and
+ `(D) contain assurances that the grantee will report on the progress
+ and results of the demonstration at such times and in such manner as the
+ Secretary shall require.
+`(3) Notwithstanding subsection (b), such grants shall not exceed 80 percent
+of the cost of such programs.
+`(4) Such grants shall be made annually on such terms and conditions as the
+Secretary shall specify to eligible entities that serve the populations
+described in paragraph (1) and that are located within those areas where
+such populations are concentrated.'.
+SEC. 602. AUTHORIZATION OF APPROPRIATIONS.
+Section 408(h) of the Human Services Reauthorization Act of 1986 (42
+U.S.C. 9910b(g)), as so redesignated by section 601, is amended--
+ (1) by inserting `(1)' after `(h)',
+ (2) by striking `$5,000,000' and all that follows through `1990', and
+ inserting `$10,000,000 for fiscal year 1991, and such sums as may be
+ necessary for each of the fiscal years 1992, 1993, and 1994',
+ (3) by inserting `(other than subsection (c))' before the period, and
+ (4) by adding at the end the following:
+`(2) There are authorized to be appropriated $10,000,000 for fiscal year
+1991 and such sums as may be necessary in each of the fiscal years 1992
+through 1994, to carry out subsection (c).'.
+TITLE VII--AMENDMENTS TO THE LOW-INCOME HOME ENERGY ASSISTANCE ACT OF 1981
+SEC. 701. FORWARD FUNDING OF LIHEAP.
+Section 2602 of the Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8621) is amended by adding at the end the following:
+`(c)(1) In fiscal year 1993 and each fiscal year thereafter, amounts
+appropriated under this section for any fiscal year for programs and activities
+under this Act shall be made available for obligation only on the basis of
+a program year. The program year shall begin on July 1 of the fiscal year
+for which the appropriation is made.
+`(2) Amounts appropriated for fiscal year 1993 shall be available both to
+fund activities for the period between October 1, 1992, and July 1, 1993,
+and for the program year beginning July 1, 1993.
+`(3) There are authorized to be appropriated such additional sums as may be
+necessary for the transition to carry out this subsection.'.
+SEC. 702. REAUTHORIZATION.
+Section 2602(b) of the Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8621(b)) is amended--
+ (1) by striking `$2,050,000,000' and all that follows through `1989, and', and
+ (2) by inserting after `1990' the following: `, $2,150,000,000 for fiscal
+ year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be
+ necessary for each of the fiscal years 1993 and 1994. The authorizations
+ of appropriations contained in this subsection are subject to the program
+ year provisions of subsection (c).'.
+SEC. 703. STATE ALLOTMENTS.
+Section 2604(f) of the Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8623(f)) is amended--
+ (1) by redesignating paragraphs (1), (2), and (3) as subparagraphs (A),
+ (B), and (C), respectively,
+ (2) by inserting `(1)' after `(f)',
+ (3) in the matter preceding subparagraph (A), as so redesignated by paragraph
+ (1), by striking `up to 10 percent' and inserting `in accordance with
+ paragraph (2) a percentage',
+ (4) in the matter following subparagraph (C), as so redesignated by paragraph
+ (1)--
+ (A) by striking `any' the first place it appears and inserting `a', and
+ (B) by striking `paragraphs (1), (2), and (3)' and inserting `subparagraphs
+ (A), (B), and (C)', and
+ (5) by adding at the end the following:
+`(2)(A) Not to exceed 10 percent of the funds payable to a State under this
+section for each of the fiscal years 1991 through 1993 may be transferred
+under paragraph (1).
+`(B) Beginning in fiscal year 1994, no funds payable to a State under this
+section shall be transferred under paragraph (1).'.
+SEC. 704. APPLICATION.
+(a) CERTIFICATIONS- Section 2605(b) of the Low-Income Home Energy Assistance
+Act of 1981 (42 U.S.C. 8624(b)) is amended--
+ (1) in paragraph (12) by inserting `timely and meaningful' after `provide
+ for',
+ (2) in paragraph (13) by striking `and' at the end,
+ (3) in paragraph (14) by striking the period and inserting `; and', and
+ (4) by adding at the end the following:
+ `(15) beginning in fiscal year 1992, provide, in addition to such services
+ as may be offered by State Departments of Public Welfare at the local level,
+ outreach and intake functions for crisis situations and heating and cooling
+ assistance that is administered by additional State and local governmental
+ entities or community-based organizations (such as community action agencies,
+ area agencies on aging, and not-for-profit neighborhood-based organizations),
+ and in States where such organizations do not administer intake functions
+ as of September 30, 1991, preference in awarding grants or contracts for
+ intake services shall be provided to those agencies that administer the
+ low-income weatherization or energy crisis intervention programs.'.
+(b) STATE PLAN- Section 2605(c)(2) of the Low-Income Home Energy Assistance Act
+of 1981 (42 U.S.C. 8624(c)(2)) is amended by inserting `timely and meaningful'
+after `will facilitate'.
+SEC. 705. AUTHORITY TO USE FUNDS FOR WEATHERIZATION.
+Section 2605(k) of the Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8624(k)) is amended--
+ (1) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B),
+ (2) by striking `Not' and inserting `(1) Except as provided in paragraph
+ (2), not', and
+ (3) by adding at the end the following:
+`(2)(A) If a State receives a waiver granted under subparagraph (B) for a
+fiscal year, the State may use not more than the greater of 25 percent of--
+ `(i) the funds allotted to a State under this title for such fiscal year; or
+ `(ii) the funds available to such State under this title for such fiscal year;
+for residential weatherization or other energy-related home repair for
+low-income households.
+`(B) For purposes of subparagraph (A), the Secretary may grant a waiver
+to a State for a fiscal year if the State submits a written request to the
+Secretary after March 31 of such fiscal year and if the Secretary determines,
+after reviewing such request and any public comments, that--
+ `(i)(I) the number of households in the State that will receive benefits,
+ other than weatherization and energy-related home repair, under this title
+ in such fiscal year will not be fewer than the number of households in the
+ State that received benefits, other than weatherization and energy-related
+ home repair, under this title in the preceding fiscal year;
+ `(II) the aggregate amounts of benefits that will be received under this
+ title by all households in the State in such fiscal year will not be less
+ than the aggregate amount of such benefits that were received under this
+ title by all households in the State in the preceding fiscal year; and
+ `(III) such weatherization activities have been demonstrated to produce
+ measurable savings in energy expenditures by low-income households; or
+ `(ii) in accordance with rules issued by the Secretary, the State demonstrates
+ good cause for failing to satisfy the requirements specified in clause (i).'.
+SEC. 706. AUTHORITY TO CARRY FUNDS OVER.
+Section 2607(b)(2)(B) of the Low-Income Home Energy Assistance Act of 1981
+(42 U.S.C. 8626(b)(2)(B)) is amended by striking `15 percent' and inserting
+`10 percent'.
+SEC. 707. LEVERAGING INCENTIVE PROGRAM.
+(a) ESTABLISHMENT- The Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8621-8629) is amended by inserting after section 2607 the following:
+`INCENTIVE PROGRAM FOR LEVERAGING NON-FEDERAL RESOURCES
+`SEC. 2607A. (a) Beginning in fiscal year 1992, the Secretary may allocate
+amounts appropriated under section 2602(d) to provide supplementary funds
+to States that have acquired non-Federal leveraged resources for the program
+established under this title.
+`(b) For purposes of this section, the term `leveraged resources' means the
+benefits made available to the low-income home energy assistance program of
+the State, or to federally qualified low-income households, that--
+ `(1) represent a net addition to the total energy resources available to
+ State and federally qualified households in excess of the amount of such
+ resources that could be acquired by such households through the purchase
+ of energy at commonly available household rates; and
+ `(2)(A) result from the acquisition or development by the State program
+ of quantifiable benefits that are obtained from energy vendors through
+ negotiation, regulation or competitive bid; or
+ `(B) are appropriated or mandated by the State for distribution--
+ `(i) through the State program; or
+ `(ii) under the plan referred to in section 2605(c)(1)(A) to federally
+ qualified low-income households and such benefits are determined by the
+ Secretary to be integrated with the State program.
+`(c)(1) Distribution of amounts made available under this section shall be
+based on a formula developed by the Secretary that is designed to take into
+account the success in leveraging existing appropriations in the preceding
+fiscal year as measured under subsection (d). Such formula shall take into
+account the size of the allocation of the State under this title and the
+ratio of leveraged resources to such allocation.
+`(2) A State may expend funds allocated under this title as are necessary,
+not to exceed .0008 percent of such allocation or $35,000 each fiscal year,
+whichever is greater, to identify, develop, and demonstrate leveraging
+programs. Funds allocated under this section shall only be used for increasing
+or maintaining benefits to households.
+`(d) Each State shall quantify the dollar value of leveraged resources
+received or acquired by such State under this section by using the best
+available data to calculate such leveraged resources less the sum of any
+costs incurred by the State to leverage such resources and any cost imposed
+on the federally eligible low-income households in such State.
+`(e) Not later than July 31, of each year, each State shall prepare and
+submit, to the Secretary, a report that quantifies the leveraged resources
+of such State in order to qualify for assistance under this section for the
+following fiscal year.
+`(f) The Secretary shall determine the share of each State of the amounts
+made available under this section based on the formula described in subsection
+(c) and the State reports. The Secretary shall promulgate regulations for the
+calculation of the leveraged resources of the State and for the submission of
+supporting documentation. The Secretary may request any documentation that
+the Secretary determines necessary for the verification of the application
+of the State for assistance under this section.'.
+(b) AUTHORIZATION OF APPROPRIATIONS- Section 2602 of the Low-Income Home
+Energy Assistance Act of 1981 (42 U.S.C. 8621), as amended by section 701,
+is amended--
+ (1) by inserting `(other than section 2607A)' after `title', and
+ (2) by adding at the end the following:
+`(d) There are authorized to be appropriated to carry out section 2607A,
+$25,000,000 in fiscal year 1992, and $50,000,000 in each of the fiscal years
+1993 and 1994.'.
+SEC. 708. WITHHOLDING OF FUNDS.
+Section 2608(a)(2) of the Low-Income Home Energy Assistance Act of 1981 (42
+U.S.C. 8626(a)(2)) is amended by striking `in an expeditious and speedy manner
+to' and inserting `in writing in no more than 60 days to matters raised in'.
+TITLE VIII--AMENDMENTS TO THE COMPREHENSIVE CHILD DEVELOPMENT CENTERS ACT
+SEC. 801. AUTHORIZATION OF APPROPRIATIONS.
+Section 670T(a) of the Comprehensive Child Development Act (42 U.S.C. 9887)
+is amended by striking `appropriated' and all that follows through `1993',
+and inserting `appropriated, $50,000,000 for each of the fiscal years 1991,
+1992, 1993, and 1994'.
+TITLE IX--COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES
+SEC. 901. SHORT TITLE.
+This title may be cited as the `Claude Pepper Young Americans Act of 1990'.
+SEC. 902. FINDINGS.
+Congress finds that--
+ (1) children and youth are inherently the most valuable resource of the
+ United States;
+ (2) the welfare, protection, healthy development, and positive role of
+ children and youth in society are essential to the United States;
+ (3) children and youth deserve love, respect, and guidance, as well as
+ good health, shelter, food, education, productive employment opportunities,
+ and preparation for responsible participation in community life;
+ (4) children and youth have increasing opportunities to participate in the
+ decisions that affect their lives;
+ (5) the family is the primary caregiver and source of social learning and
+ must be supported and strengthened;
+ (6) when a family is unable to ensure the satisfaction of basic needs
+ of children and youth it is the responsibility of society to assist such
+ family; and
+ (7) it is the joint and several responsibility of the Federal Government,
+ each State, and the political subdivisions of each State to assist children
+ and youth to secure, to the maximum extent practicable, equal opportunity
+ to full and free access to--
+ (A) the best possible physical and mental health;
+ (B) adequate and safe physical shelter;
+ (C) a high level of educational opportunity;
+ (D) effective training, apprenticeships, opportunities for community service,
+ and productive employment and participation in decisions affecting their
+ lives;
+ (E) a wide range of civic, cultural, and recreational activities that
+ recognize young Americans as resources and promote self-esteem and a stake
+ in the communities of such Americans; and
+ (F) comprehensive community services that are efficient, coordinated,
+ readily available, and involve families of young individuals.
+SEC. 903. DEFINITIONS.
+As used in this title:
+ (1) COMMISSIONER- The term `Commissioner' means the Commissioner of the
+ Administration on Children, Youth, and Families, as established under
+ section 915.
+ (2) COUNCIL- The term `Council' means the Federal Council on Children,
+ Youth, and Families, as established under section 918(a).
+ (3) NONPROFIT- The term `nonprofit', as applied to any agency, institution,
+ or organization, means an agency, institution, or organization that is,
+ or is owned and operated by, one or more corporations or associations,
+ no part of the net earnings of which may lawfully inure to the benefit of
+ any private shareholder or individual.
+ (4) SECRETARY- The term `Secretary' means the Secretary of Health and
+ Human Services.
+ (5) STATE- The term `State' includes the District of Columbia, the Virgin
+ Islands, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern
+ Mariana Islands, and the Trust Territory of the Pacific Islands.
+ (6) YOUNG INDIVIDUAL- The term `young individual' means any child or youth
+ from birth to 21 years of age.
+Subtitle A--Establishment of Administration and Awarding of Grants for Programs
+CHAPTER 1--ADMINISTRATION ON CHILDREN, YOUTH, AND FAMILIES
+SEC. 915. ESTABLISHMENT OF THE ADMINISTRATION ON CHILDREN, YOUTH, AND FAMILIES.
+(a) IN GENERAL- There is established within the Department of Health and
+Human Services an Administration on Children, Youth, and Families.
+(b) COMMISSIONER-
+ (1) ESTABLISHMENT-
+ (A) IN GENERAL- The Administration on Children, Youth, and Families, as
+ established under subsection (a), shall be headed by a Commissioner on
+ Children, Youth, and Families.
+ (B) COMPENSATION- Section 5316 of title 5, United States Code, is amended
+ by adding at the end thereof the following new item:
+ `Commissioner, Administration on Children, Youth, and Families.'.
+ (2) APPOINTMENT- The President, by and with the advice and consent of the
+ Senate, shall appoint the Commissioner.
+SEC. 916. FUNCTIONS OF THE COMMISSIONER.
+(a) IN GENERAL- The Commissioner shall--
+ (1) serve as the effective and visible advocate for children, youth, and
+ families within the Department of Health and Human Services and with other
+ departments, agencies, and instrumentalities of the Federal Government by
+ maintaining active review and commenting responsibilities, as appropriate,
+ concerning Federal policies affecting young individuals, and the families
+ of young individuals;
+ (2) collect and disseminate information related to the problems of young
+ individuals and the families of such individuals;
+ (3) assist the Secretary in appropriate matters pertaining to young
+ individuals, and the families of such individuals;
+ (4) administer the grants authorized under this subtitle;
+ (5) develop plans and conduct research in the field of young individuals,
+ and the families of such individuals;
+ (6) assist, to the maximum extent practicable, in the establishment and
+ implementation of programs designed to meet the needs of young individuals
+ for supportive services including--
+ (A) health and mental health services;
+ (B) housing and shelter assistance;
+ (C) education and training services;
+ (D) protective services;
+ (E) foster care;
+ (F) teen parenting support;
+ (G) child care;
+ (H) family support and preservation;
+ (I) teen pregnancy prevention and counseling;
+ (J) counseling on the effects of violence in the communities of such
+ individuals and their families;
+ (K) recreational and volunteer opportunities; and
+ (L) comprehensive early childhood development;
+ (7) provide technical assistance and consultation to States and the political
+ subdivisions of such States with respect to programs for young individuals;
+ (8) prepare, publish, and disseminate educational materials concerning the
+ welfare of young individuals;
+ (9) gather statistics concerning young individuals, and the families of
+ such individuals, that other Federal agencies are not collecting;
+ (10) to the maximum extent practicable coordinate activities carried out or
+ assisted by all departments, agencies, and instrumentalities of the Federal
+ Government with respect to the collection, preparation, and dissemination
+ of information relevant to young individuals and the families of such
+ individuals;
+ (11) stimulate more effective uses of existing resources and available
+ services for young individuals and the families of such individuals;
+ (12) develop basic policies and set priorities with respect to the development
+ and operation of programs and activities conducted under this title;
+ (13) convene conferences of authorities and officials of organizations,
+ including Federal, State, and local agencies, and nonprofit private
+ organizations, of programs for children, youth and their families for the
+ development and implementation of policies related to the priorities and
+ purposes of this title, including topics such as the establishment of a
+ nationwide network of comprehensive, coordinated services and opportunities
+ for such individuals;
+ (14) conduct periodic evaluations of the programs and activities related
+ to the purposes of this title; and
+ (15) develop, in coordination with other agencies, methods to ensure adequate
+ training for personnel concerning children, youth and families and to ensure
+ the adequate dissemination of such information to appropriate State and
+ community agencies.
+(b) ENCOURAGEMENT OF VOLUNTEERISM- In executing the duties and functions of
+the Administration under this subtitle and in carrying out the programs and
+activities authorized under this title, the Commissioner, in consultation with
+the Director of the ACTION Agency, shall take necessary steps to coordinate
+with and seek the advice of voluntary agencies and organizations that provide
+services related to the purposes of this title.
+SEC. 917. FEDERAL AGENCY CONSULTATIONS.
+(a) IN GENERAL- The Commissioner shall consult and cooperate with the heads
+of all appropriate Federal agencies or departments administering programs
+or services that are substantially related to the purposes of this title.
+(b) INTERAGENCY AGREEMENTS- To the extent practicable, the Commissioner shall
+facilitate cooperation through the entering into of interagency agreements.
+SEC. 918, FEDERAL COUNCIL ON CHILDREN, YOUTH, AND FAMILIES.
+(a) ESTABLISHMENT- There is established a Federal Council on Children, Youth,
+and Families.
+(b) NUMBER OF MEMBERS- The Council shall be composed of 18 members to be
+appointed in accordance with subsection (d).
+(c) TERM OF MEMBERSHIP- Each member of the Council shall serve for a 3-year
+term without regard to title 5, United States Code.
+(d) Appointment of Members-
+ (1) IN GENERAL- The Council shall be composed of--
+ (A) six members who posess such skills and qualifications so as to be
+ representative of--
+ (i) rural and urban populations; and
+ (ii) national organizations with an interest in young individuals, families,
+ early childhood development, elementary and secondary education, business,
+ labor, minorities, and the general public;
+ (B) six members who are representatives of public, State or local agencies
+ that serve children, youth and their families and include representatives
+ of child welfare and child mental health agencies; and
+ (C) six members who are cabinet-level representatives of Federal agencies that
+ have responsibility for programs relating to children, youth and families.
+ (2) AGE OF MEMBERS- At least one of the individuals appointed to the Council
+ under paragraph (1)(A) shall be under the age of 21 at the time of such
+ appointment.
+ (3) APPOINTING AUTHORITY- Of the members of the Council who are appointed
+ under paragraph (1)--
+ (A) six of the members described under subparagraphs (A) and (B) shall be
+ appointed by the President pro tempore of the Senate on the recommendation
+ of the Majority and Minority Leaders of the Senate;
+ (B) six of the members described under subparagraphs (A) and (B) shall be
+ appointed by the Speaker of the House of Representatives on the recommendation
+ of the Majority and Minority Leaders of the House of Representatives; and
+ (C) the members described under subparagraph (C) shall be appointed by
+ the President.
+(e) VACANCY-
+ (1) FILLING VACANCY- A vacancy on the Council shall be filled in the same
+ manner in which the original appointment was made.
+ (2) POWERS OF BOARD- A vacancy on the Council shall not affect the powers
+ of the Council.
+ (3) TERM OF APPOINTMENT- A member of the Council who is appointed to fill
+ a vacancy occurring prior to the expiration of the term for which the
+ predecessor of such member was appointed shall be appointed only for the
+ remainder of such term.
+(f) REAPPOINTMENT- Each member of the Council shall be eligible for
+reappointment to the Council.
+(g) EXPIRATION OF TERM- Each member of the Council may serve after the
+expiration of the term of membership until the successor of such member has
+taken office.
+(h) TRAVEL EXPENSES- Each member of the Council, while serving on business of
+the Council away from the home or regular place of business of such member,
+may be allowed subsistence in the same manner as the expenses authorized by
+section 5703 of title 5, United States Code, for individuals in the Government
+service employed intermittently.
+(i) CHAIRPERSON- The President shall designate the Secretary of Health and
+Human Services to serve as the Chairperson of the Council. In the event that
+the Secretary chooses to designate the functions of Chairperson under this
+subsection, such designation may only be made to the Commissioner.
+(j) MEETINGS- Not less than once during each 6-month period, the Chairperson
+of the Council shall call a meeting of the Council.
+(k) DUTIES OF THE COUNCIL- The Council shall--
+ (1) advise and assist the President on matters relating to the special
+ needs of young individuals;
+ (2) review, evaluate, and inventory on a continuing basis Federal policies,
+ programs and other activities affecting young individuals that are conducted
+ or assisted by all Federal departments and agencies for the purpose
+ of appraising the value and the impact of such policies, programs, and
+ activities on the lives of young individuals, and of identifying duplication
+ of services for young individuals and the families of such individuals;
+ (3) make recommendations to the President, the Secretary, the Commissioner,
+ the Committee on Education and Labor of the House of Representatives and the
+ Committee on Labor and Human Resources of the Senate concerning changes in
+ such policies and programs that can streamline services, reduce duplication
+ of services and encourage the coordination of services provided to young
+ individuals and the families of such individuals at the State and local
+ level; and
+ (4) provide public forums, including public hearings, conferences, workshops,
+ and other meetings, for discussing and publicizing the problems and needs
+ of young individuals and obtaining information relating to such individuals.
+(l) STAFF- The Chairperson shall appoint staff personnel to assist the
+Chairperson in carrying out the duties required under subsection (k).
+(m) INFORMATION AND ASSISTANCE- The head of each Federal department and
+agency shall make available to the Chairperson such information and other
+assistance as the Chairperson may require to carry out the duties required
+under subsection (k).
+(n) Reports-
+ (1) SUBMISSION TO THE PRESIDENT- In fiscal year 1992 and each fiscal year
+ thereafter, the Chairperson shall prepare and submit--
+ (A) interim reports as the Chairperson considers to be appropriate; and
+ (B) an annual report of the findings and recommendations of the Council
+ concerning the matters described in paragraphs (2) and (3) of subsection (k);
+to the President not later than March 31 of each year.
+ (2) REVIEW AND SUBMISSION TO CONGRESS-
+ (A) COMMENTS AND RECOMMENDATIONS- The President may make comments and
+ recommendations concerning reports submitted under paragraph (1).
+ (B) SUBMISSION TO CONGRESS- The President shall submit such comments,
+ recommendations, and reports to the Committee on Education and Labor of the
+ House of Representatives and the Committee on Labor and Human Resources of
+ the Senate.
+(o) AUTHORIZATION OF APPROPRIATION- There are authorized to be appropriated to
+carry out this section $200,000 for each of the fiscal years 1991 through 1994.
+(p) TERMINATION- The Council shall terminate on September 30, 1995.
+SEC. 919. ADMINISTRATION.
+(a) DUTIES OF COMMISSIONER- In carrying out this subtitle, the Commissioner
+is authorized to--
+ (1) provide consultative services, technical assistance, and short-term
+ training to the independent State bodies;
+ (2) conduct research and demonstrations;
+ (3) collect, prepare, publish, and disseminate special educational or
+ informational materials, including reports of the projects for which funds
+ are provided under this subtitle;
+ (4) provide staff and other technical assistance to the Council;
+ (5) evaluate the effectiveness of programs authorized under this subtitle
+ and periodically publish analyses of the results of such evaluations; and
+ (6) not later than 180 days after the end of each fiscal year, prepare and
+ submit, to the President and the chairman of the Committee on Education and
+ Labor of the House of Representatives and the chairman of the Committee on
+ Labor and Human Resources of the Senate, a report concerning the activities
+ carried out under this subtitle and concerning such other activities as
+ the Secretary determines appropriate.
+(b) Utilization of Services and Facilities-
+ (1) IN GENERAL- Subject to agreements made between the Commissioner and the
+ head of such agency or organization, in carrying out the duties referred to
+ in subsection (a) the Commissioner may utilize the services and facilities
+ of any agency of the Federal Government and of any other public or nonprofit
+ agency or organizations.
+ (2) PAYMENT- The Commissioner may pay for such services and facilities,
+ in advance or by way of reimbursement, as may be provided in such agreement.
+(c) RESERVATION OF FUNDS- Of the aggregate amount appropriated to carry out
+this title in any fiscal year, the Secretary may reserve not more than 10
+percent for salaries and expenses of the Administration on Children, Youth,
+and Families related to the administration of this title.
+CHAPTER 2--GRANTS FOR STATE AND COMMUNITY PROGRAMS FOR CHILDREN, YOUTH,
+AND FAMILIES
+SEC. 925. PURPOSE.
+It is the purpose of this chapter to encourage and assist State and local
+agencies to coordinate resources, reduce barriers to services, and develop
+new capacities to ensure that State and community services designed to serve
+children, youth, and families are more effective and comprehensive.
+SEC. 926. DEFINITIONS.
+As used in this chapter:
+ (1) COMMUNITY REFERRAL SERVICES- The term `community referral services'
+ means services to assist families in obtaining community resources, including
+ health care, mental health care, employability development and job training,
+ and other social services.
+ (2) CORE SERVICES- The term `core services' means--
+ (A) educational and support services provided to assist parents in
+ acquiring parenting skills, learning about child development, and responding
+ appropriately to the behavior of their children; and
+ (B) the early developmental screening of children to assess any needs of
+ such children and to identify specific types of support that may be provided;
+ (C) outreach services;
+ (D) community referral services; and
+ (E) follow up services.
+ (3) FOLLOW UP SERVICES- The term `follow up services' means services provided
+ to ensure that necessary services are received by families and are effective
+ in meeting their needs.
+ (4) INDEPENDENT STATE BODY- The term `independent State body' means the
+ entity established under section 930.
+ (5) LEAD AGENCY- The term `lead agency' means an existing State agency, or
+ other public or nonprofit private entity designated by the chief executive
+ officer of the State as the agency responsible for the development and
+ implementation of local family resource and support programs. Such agency
+ shall have demonstrated ability to work with other State and community based
+ agencies, to provide training and technical assistance, and shall also have
+ a commitment to parental participation in the design and administration of
+ family resource and support programs.
+ (6) OTHER SERVICES- The term `other services' and `other support services'
+ includes--
+ (A) child care, early childhood development and intervention programs;
+ (B) employability development services (including skill training);
+ (C) educational services, such as scholastic tutoring, literacy training,
+ and General Educational Degree (GED) services;
+ (D) nutritional education;
+ (E) life management skills training;
+ (F) peer counseling and crisis intervention, family violence counseling
+ and referrals for such services;
+ (G) referral for substance abuse counseling and treatment referral; and
+ (H) referral for primary health and mental health services.
+ (7) OUTREACH SERVICES- The term `outreach services' means services provided
+ to ensure (through home visits or other methods) that parents are aware of
+ and able to participate in family resource and support program activities.
+SEC. 927. ESTABLISHMENT OF PROGRAMS.
+The Commissioner shall make grants--
+ (1) in each State under section 931 to improve State planning and coordination
+ of services, and under section 932 to expand supportive services, in order
+ to promote the availability of developmental, preventive, and remedial
+ services to children, youth and their families that are designed to ensure--
+ (A) adequate and safe physical shelter whether in their own homes or,
+ if necessary, in out-of-home programs;
+ (B) high quality physical and mental health care;
+ (C) the enhancement of the development of children to ensure that children
+ enter school prepared and ready to learn;
+ (D) highest quality educational opportunity;
+ (E) effective training and apprenticeships to increase the likelihood
+ of employment;
+ (F) opportunities for community service and productive employment, and for
+ participation by children and youth in decisions affecting the lives of
+ such children and youth; and
+ (G) a wide range of civic, cultural, and recreational activities that
+ recognize young individuals as resources and promote self-esteem and a
+ sense of community; and
+ (2) to States on a competitive basis under section 933 to establish family
+ resource programs (including family support centers) in order to enhance the
+ ability of families to remain together and to thrive through the provision
+ of community based services that--
+ (A) promote and build family and parenting skills;
+ (B) promote and assist families in the use of formal and informal family
+ support services;
+ (C) create a support network to strengthen and reinforce good parenting; and
+ (D) are closely linked with, but not duplicative of, other community
+ resources.
+SEC. 928. ADMINISTRATION.
+(a) IN GENERAL- The Commissioner shall administer programs under this chapter
+through the Administration on Children, Youth, and Families.
+(b) TECHNICAL ASSISTANCE- In carrying out this chapter, the Commissioner
+may request the technical assistance and cooperation of the Secretary of
+Education, the Secretary of Labor, the Attorney General, the Secretary of
+Housing and Urban Development, the Secretary of Transportation, the Director
+of the Office of Community Services, and such other agencies and departments
+of the Federal Government as may be appropriate.
+SEC. 929. STATE PLAN.
+(a) SUBMISSION OF PLAN- The chief executive officer of a State, in order to
+be eligible for grants from an allotment under section 931, 932, or 933 for
+any fiscal year, shall prepare and submit to the Commissioner a State plan
+for a 3-year period.
+(b) REVISIONS OF PLAN- Each chief executive officer of a State may make
+annual revisions of the State plan referred to in subsection (a).
+(c) CONTENT OF PLAN- The chief executive officer of a State shall include
+within the State plan of that State assurances as required under sections
+931, 932, or 933, and a description of the proposed multi-year plans of the
+State for program development and implementation.
+(d) TYPE OF APPLICATION- A State may apply for funds under one or more of
+the following categories:
+ (1) section 931;
+ (2) sections 931 and 932 jointly; or
+ (3) section 933.
+In the case of each category, the State application and plan shall comply
+only with the requirements of the appropriate section.
+(e) APPROVAL OF PLAN-
+ (1) IN GENERAL- The Commissioner shall approve any State plan under sections
+ 931 and 932 that the Commissioner determines meets the requirements of
+ such sections.
+ (2) NOTICE AND OPPORTUNITY TO CORRECT DEFICIENCIES- The Commissioner shall
+ not make a final determination disapproving any State plan, modifying such
+ plan, or declaring a State to be ineligible to receive funds under sections
+ 931 and 932 without previously affording such State reasonable notice and
+ opportunity to correct deficiencies in its application.
+SEC. 930. INDEPENDENT STATE BODY.
+(a) DESIGNATION- A State shall not be eligible to receive a grant from an
+allotment under section 931 or 932 unless--
+ (1) the chief executive officer of such State designates an independent
+ State body that is composed of--
+ (A) cabinet level representatives from each agency of such State that has
+ responsibilities for programs affecting young individuals who shall comprise
+ a majority of the independent State body; and
+ (B) individuals appointed from among--
+ (i) private nonprofit providers of services to young individuals;
+ (ii) advocacy and citizens groups concerned with young individuals;
+ (iii) committees of the legislature of such State that have responsibility
+ for young individuals;
+ (iv) leaders who are young individuals, including such leaders who are
+ recipients of services provided under this subtitle;
+ (v) representatives of the business community;
+ (vi) representatives of employees of providers of services to young
+ individuals;
+ (vii) representatives of general purpose local government; and
+ (viii) such staff as shall be necessary to--
+ (I) develop a State plan to be submitted to the Commissioner for approval
+ under section 931;
+ (II) administer and monitor the State plan within such State;
+ (III) assist in the coordination of all State activities related to the
+ purpose of the title;
+ (IV) serve as an effective and visible advocate for young individuals by
+ reviewing and commenting on all State plans, budgets, and policies that
+ affect such individuals and the families of such individuals by providing
+ technical assistance to any agency, organization, association, or individual
+ representing the needs of young individuals; and
+ (2) the independent State body designated under paragraph (1)--
+ (A) develops a system for the distribution within the State of funds received
+ under sections 931 and 932 by the chief executive officer;
+ (B) submits a description of such system to the Commissioner for review
+ and comment; and
+ (C) ensures that preference will be given in such distribution of funds to
+ developing or supporting local service delivery systems that--
+ (i) provide a range of services organized to tailor responses to needs
+ rather than a predetermined array of services;
+ (ii) are rooted in and part of the communities that such systems are designed
+ to serve as measured by the degree to which public and private community
+ leaders and young individuals participate in the planning of such systems; and
+ (iii) demonstrate an ability to develop systematic collaboration among
+ service providers on behalf of children, youth and families, including
+ joint planning, joint financing, joint service delivery, common intake
+ and assessment, and other arrangements that promote more effective service
+ systems for such individuals.
+(b) EXISTING ENTITY- The Commissioner may approve a State plan in which the
+chief executive officer of the State designates as the independent State
+body an existing State entity that is comprised of the parties described in
+subsection (a) and that is authorized to conduct the same range of interagency
+planning and coordination activities.
+SEC. 931. STATE COORDINATION OF SERVICES.
+(a) AUTHORITY- The Commissioner shall make grants under this section to
+States on a formula basis for the purpose of improving the coordination of
+services provided to children, youth, and families.
+(b) APPLICATION- To be eligible to receive a grant under this section,
+the chief executive officer of a State shall prepare and submit to the
+Commissioner an application containing a plan providing assurances that--
+ (1) the independent State body is committed to interagency planning that
+ results in statewide policies promoting systematic collaboration among
+ agencies on behalf of young individuals as demonstrated by joint planning,
+ joint financing, joint service delivery, common intake and assessment,
+ and other arrangements that reduce barriers to services and promote more
+ effective local service delivery systems for young individuals;
+ (2) such plan will be based on needs as identified through an analysis
+ of updated reports (such as `State of the Child' reports) prepared by the
+ State, including detailed information gathered by the State, to the extent
+ practicable, on young individuals and the families of such individuals
+ concerning--
+ (A) age, sex, race, and ethnicity;
+ (B) the residences of such individuals;
+ (C) the incidence of homelessness among such individuals;
+ (D) the composition of families of such individuals;
+ (E) the economic situations of such individuals;
+ (F) the incidence of poverty among such individuals;
+ (G) experiences in the care of such individuals away from home;
+ (H) the health of such individuals;
+ (I) violence in the homes or communities of such individuals;
+ (J) the nature of the attachment of such individuals to school and work;
+ (K) dropout rates of such individuals from school; and
+ (L) the character of the communities in which such individuals reside;
+ (3) the system to be used for the distribution of funds within the State
+ will require that--
+ (A) each area have an equal opportunity to apply for or receive funds under
+ this chapter; and
+ (B) the public be given an opportunity to express views concerning the
+ development and administration of such plan;
+ (4) the independent State body will provide an inventory of existing public
+ and private services for children, youth and their families and will evaluate
+ the need for supportive services within the State to address the purposes
+ of this title and determine the extent to which existing public and private
+ programs meet such need;
+ (5) the independent State body will make such reports, in such form, and
+ containing such information, as the Commissioner may require;
+ (6) such fiscal control and fund accounting procedures will be adopted
+ as may be necessary to ensure proper disbursement of, and accounting for,
+ Federal funds paid under this chapter to the chief executive officer of the
+ State, including any such funds paid to the recipients of a grant or contract;
+ (7) the independent State body will conduct periodic evaluations of activities
+ and projects carried out pursuant to sections 931 and 932 and will report
+ the results and recommendations to the chief executive officer of the State
+ and the State legislature;
+ (8) the chief executive officer of the State will provide technical assistance
+ or in-service training opportunities for personnel responsible for carrying
+ out the purposes of sections 931 and 932; and
+ (9) the chief executive officer of each State will provide for the
+ implementation of the requirements of section 932, relating to supportive
+ services.
+(c) USE OF GRANTS TO STATES- Notwithstanding section 934(g), the amounts made
+available to each State under section 934(a) may be used to make grants to a
+State to enable such State to pay such percentages as the independent State
+body of such State determines to be appropriate, of the cost of administering
+the State plan of such State including--
+ (1) the costs of the preparation of such plan and the provision of technical
+ assistance to local areas;
+ (2) the costs of the evaluation of activities carried out under such plan;
+ (3) the costs of the collection of data and the carrying out of analyses
+ related to the need for supportive services within the State;
+ (4) the costs of the dissemination of information obtained under paragraph
+ (3); and
+ (5) the costs of the provision of short-term training to personnel of public
+ or nonprofit private agencies and organizations engaged in the operation
+ of programs authorized by this chapter.
+(e) SUPPLEMENT NOT SUPPLANT- Amounts received by a State under sections 931
+and 932 shall be used only to supplement, not to supplant, the amount of
+Federal, State, and local funds expended for the purposes for which grants
+are made under sections 931 and 932. In no event shall such expenditures be
+used to satisfy the matching requirements of any other Federal program.
+(f) RELATIONSHIP TO FAMILY RESOURCE AND SUPPORT PROGRAM GRANTS- If a State
+intends to apply for a grant under section 933 to be used for the same
+calendar year as the grant under this section, such State shall include in
+the application for a grant under this section a description of plans for
+family resource and support programs and for the coordination of the use of
+all funds received under this chapter.
+SEC. 932. SUPPORTIVE SERVICES.
+(a) AUTHORITY- The Commissioner shall carry out a program for making grants
+to a State, that has designated an independent State body under section 930
+and provided for coordinated services under section 931, for distribution by
+the chief executive officer under a State plan approved under section 931 to
+demonstrate successful program approaches to fill service gaps identified
+through State planning and advocacy efforts for any of the areas specified
+in paragraph (2).
+(b) ELIGIBLE SERVICES- The services eligible to be provided under subsection
+(a) are services--
+ (1) that are designed to facilitate the provision of comprehensive community
+ based services that are efficient, coordinated, and readily available through
+ such activities as case planning, case management, intake and assessment,
+ and information and referral; and
+ (2) that serve any of the following purposes--
+ (A) provide adequate and safe physical shelter to young individuals and
+ the families of such individuals, especially in emergency circumstances;
+ (B) provide transitional living services to young individuals who are
+ homeless;
+ (C) enable young individuals to attain and maintain physical and mental
+ well-being;
+ (D) provide health screening to detect or prevent illnesses, or both, that
+ occur most frequently in young individuals as well as better treatment
+ and counseling;
+ (E) enhance the development of children to ensure that such children enter
+ school prepared and ready to learn;
+ (F) promote the highest quality of educational opportunity, especially
+ through drop-out prevention programs, remediation for young individuals
+ who have dropped out of school, and vocational education;
+ (G) provide effective training apprenticeships and employment opportunities;
+ (H) promote participation in community service and civic, cultural, and
+ recreational activities that value young individuals as resources and
+ promote self-esteem and a stake in the community;
+ (I) promote the participation of young individuals in decisions concerning
+ planning and managing the lives of such individuals;
+ (J) encourage young individuals and the families of such individuals to use
+ any community facilities and services that are available to such individuals;
+ (K) ensure that young individuals who are unable to live with the biological
+ families of such individuals have a safe place to live until such individuals
+ can return home or move into independent adult life; and
+ (L) prevent the abuse, neglect, or exploitation of young individuals.
+SEC. 933. FAMILY RESOURCE AND SUPPORT PROGRAM GRANTS.
+(a) AUTHORITY- The Commissioner shall make grants under this section to
+States on a competitive basis, for the purpose of developing, expanding,
+and operating a network of local family resource and support programs in
+collaboration with existing health, mental health, education, employment and
+training, child welfare, and other social services agencies within the State.
+(b) AMOUNT OF GRANT- The amount of a grant awarded under this section for the
+first year in which a program is operated or expanded under this section shall
+not exceed $6,000,000 nor be less than $1,500,000 based on an assessment by
+the Commissioner of the application submitted by the State under subsection
+(d), the scope of the proposed program to be operated or expanded, and the
+population to be served by the program.
+(c) Duration-
+ (1) IN GENERAL- A grant awarded under this section shall be for a term of
+ 3 years.
+ (2) Limitation-
+ (A) USE- During the 12-month period immediately after the date on which the
+ grant is awarded to a State under this section, the State may use the funds
+ received under such grant exclusively for program development. Subsequent
+ to such period grant funds shall be used for program implementation and
+ operation unless the Commissioner grants a waiver from this limitation.
+ (B) REPORTING REQUIREMENTS- To receive funds after the period referred to
+ in subparagraph (A) and after the 12-month period immediately following
+ such initial period, the State shall report to the Commissioner concerning
+ the plans of the State for--
+ (i) the establishment and expansion of a network of family resource and
+ support programs in the State;
+ (ii) the number of family resource and support programs that have been
+ expanded or newly established with grant funds under this section;
+ (iii) the nature of those programs, including the populations served and
+ services provided; and
+ (iv) the extent of local community and parental participation in the
+ development, operation, and governance of the programs.
+(d) APPLICATION- To be eligible to receive a grant under this section a State
+shall prepare and submit, to the Commissioner, an application at such time,
+in such form, and containing such information as the Commissioner shall
+require, including--
+ (1) an assurance that the chief executive officer of the State will designate
+ a lead agency to assume responsibility for the development and implementation
+ of family resource and support programs;
+ (2) an assurance that the State has a process for effective program
+ development that--
+ (A) does not duplicate current processes or programs;
+ (B) makes publicly available a written plan for the establishment of a
+ network of local family resource and support programs; and
+ (C) involves appropriate personnel in the development process, including--
+ (i) parents and prospective participants in family resource and support
+ programs;
+ (ii) staff of existing family resource and support programs;
+ (iii) representatives of State and local government social service, health,
+ mental health, education, employment, and economic development agencies;
+ (iv) representatives of the business community;
+ (v) representatives of general purpose local government;
+ (vi) representatives of local communities in which family resource and
+ support programs are likely to be located; and
+ (vii) other individuals with expertise in the services that the family
+ resource and support programs of the State intend to offer;
+ (3) a description of the current family support programs in the State,
+ the current unmet need for such services, and the intended scope of the
+ State family resource and support program, the population to be served,
+ the manner in which the program will be operated, and the manner in which
+ such program will relate to other community services and public agencies;
+ (4) a description of the projected level of financial commitment by the
+ State to developing a family resource and support program;
+ (5) a description of the core services, as required under this chapter,
+ and other support services to be provided by the program and the manner in
+ which such services will be provided;
+ (6) assurances that the State program will maintain cultural diversity;
+ (7) a description of the guidelines for requiring parental involvement
+ in State and local program development, policy design, and governance and
+ the process for assessing and demonstrating that parental involvement in
+ program development, operation, and governance occurs;
+ (8) an assurance that, in awarding local grants, priority will be given to
+ programs serving low-income communities and programs serving young parents;
+ (9) a description of the local interagency planning process to be utilized
+ to develop and implement local family resource and support programs;
+ (10) a description of the criteria that the State will utilize for awarding
+ grants for local programs so that they meet the requirements of subsection
+ (f);
+ (11) a plan for providing training, technical assistance, and other assistance
+ to local communities in program development;
+ (12) a description of the methods to be utilized to evaluate the
+ implementation and effectiveness of the family resource and support programs
+ within the State; and
+ (13) a description of proposed actions by the State that will reduce
+ practical and regulatory barriers to the provision of comprehensive services
+ to families, including family resource and support programs.
+(e) CRITERIA- In determining whether to award a grant to a State under this
+section the Commissioner shall consider--
+ (1) the plans for program development, expansion, and operation by the State,
+ including the amount of training, technical assistance and other support
+ that the State will provide to local communities in the development and
+ operation of their programs;
+ (2) the established guidelines for requiring and assessing parental
+ involvement in local program development, policy design, and goverance;
+ (3) the budget of the State for the expenditure of Federal and State funds
+ and the ability of the program to secure financial commitments from a
+ variety of sources, including public and private entities; and
+ (4) any other factors determined appropriate by the Commissioner.
+(f) LOCAL PROGRAM REQUIREMENTS- A State that receives a grant under such
+section shall use such grant to establish local family resource and support
+programs that--
+ (1) implement a community planning process involving parents, local public
+ and private non-profit agencies responsible for providing health, education,
+ employment training, Head Start and other early childhood, child welfare,
+ and other social services to determine local family needs, and identify
+ appropriate community agencies to administer such programs locally;
+ (2) provide core services, and other services directly or through contracts
+ or agreements with other local agencies; and
+ (3) involve parents in the development, operation, and governance of the
+ program.
+SEC. 934. AUTHORIZATION OF APPROPRIATION AND ALLOTMENT.
+(a) ADMINISTRATION ON CHILDREN, YOUTH, AND FAMILIES; STATE COORDINATION;
+SUPPORTIVE SERVICES-
+ (1) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out sections 919, 931, and 932 of this title, $30,000,000 for fiscal
+ year 1991 and such sums as may be necessary for fiscal years 1992, 1993,
+ and 1994. Funds appropriated under this paragraph shall remain available
+ for expenditure in the fiscal year succeeding the fiscal year for which
+ such funds are appropriated.
+ (2) AVAILABILITY OF APPROPRIATION- Of the amount appropriated under paragraph
+ (1) for any fiscal year--
+ (A) not more than 10 percent shall be available to carry out section 919; and
+ (B) not less than 90 percent shall be available to carry out sections 931
+ and 932.
+ (3) ALLOTMENT FORMULA- Except as provided in paragraph (4), from the amount
+ available under paragraph (2)(B) for each fiscal year, a State shall be
+ allotted an amount that bears the same ratio to the amount appropriated
+ for such fiscal year as the population of the State that is under the age
+ of 21 bears to the population of all States that is under the age of 21.
+ (4) EXCEPTIONS-
+ (A) IN GENERAL- Except as provided in subparagraph (B) and subject to
+ the availability of appropriations under paragraph (1), no State shall be
+ allotted less than $300,000 under the formula established under paragraph (3).
+ (B) LIMITATION ON ALLOTMENT- Notwithstanding subparagraph (A), Guam, the
+ Virgin Islands, the Trust Territory of the Pacific Islands, American Samoa,
+ and the Commonwealth of the Northern Mariana Islands shall each be allotted
+ not less than $75,000 under the formula established under paragraph (2).
+(b) DETERMINATION OF AGE- The number of individuals under the age of 21 in
+each State shall be determined by the Commissioner on the basis of the most
+recent data available to the Commissioner.
+(c) TRANSFER OF ALLOTTED FUNDS- Whenever the Commissioner determines that--
+ (1) any amount allotted to a State for a fiscal year under section 931 or
+ 932 will not be used by such State for carrying out the purpose for which
+ such allotment was made; or
+ (2) a State has failed to qualify under the State plan required under
+ section 929;
+the Commissioner shall make such allotment available for carrying out such
+purposes to other participating States in a proportional manner based on
+the relative population of the State of individuals under the age of 21.
+(d) FAMILY RESOURCE AND SUPPORT PROGRAMS- There are authorized to be
+appropriated to carry out section 933, $30,000,000 for fiscal year 1991, and
+such sums as may be necessary for each of the fiscal years 1992 through 1994.
+(e) LIMITATION- A State shall not use in excess of 10 percent of a grant
+awarded under section 932 or 933 for administrative activities at the
+State level.
+(f) GRANTS FOR INDIANS- The Commissioner shall use 1 percent of the amount
+appropriated under this section for each fiscal year to make allotments to
+Indian tribes and tribal organizations (such terms having the same meaning
+given to such terms in section 4(b) and 4(c) of the Indian Self-Determination
+and Education Assistance Act (25 U.S.C. 450b (b) and (c))) that submit to
+the Commissioner a plan that meets criteria consistent with the provisions
+of this chapter and that comply with other requirements established by the
+Commissioner.
+(g) LIMITATION- Grants made under this subtitle may be used to pay not more
+than 80 percent of the cost of--
+ (1) the preparation, administration, and evaluation of State plans under
+ section 931;
+ (2) the development of comprehensive, efficient, coordinated supportive
+ services under section 932; and
+ (3) the development, expansion, and operation of local family support and
+ resource programs under section 933.
+The remaining 20 percent of such cost shall be paid by the State with funds
+from non-Federal sources.
+CHAPTER 3--NATIONAL CLEARINGHOUSE
+SEC. 955. SHORT TITLE.
+This chapter may be cited as the `Family Resource Act'.
+SEC. 956. FINDINGS AND PURPOSE.
+(a) FINDINGS- Congress finds that--
+ (1) fundamental changes in the demographics and economics of family life
+ in the United States over the past 20 years have had a profound effect on
+ children and their parents;
+ (2) since 1966, the number of women working outside the home has increased
+ by 92 percent and the number of two earner families has increased by over
+ 50 percent;
+ (3) 61 percent of the children born today will live in a single-parent
+ family before reaching the age of 20, with one out of every three single
+ female heads of households living on income below the Federal poverty level;
+ (4) one out of every four children under the age of 6 in the United States
+ currently lives below the Federal poverty level;
+ (5) over the past 10 years, parents have increasingly come together with
+ other parents to organize family resource and support programs that promote
+ healthy child development and increase parental competency, particularly
+ families at risk; and
+ (6) Federal investment in promoting the development of family resource and
+ support programs will reap long-term benefits for individual families and
+ the nation as a whole.
+(b) PURPOSE- It is the purpose of this Act to--
+ (1) stimulate the development and expansion of family resource and support
+ programs that are prevention oriented;
+ (2) encourage early intervention of such programs with families to ameliorate
+ problem situations before such situations become crises; and
+ (3) assist parents in enhancing their children's development to ensure that
+ their children enter school prepared and ready to learn.
+SEC. 957. DEFINITION.
+As used in this chapter, the term `family resource and support programs'
+means community-based services that offer sustained assistance to families
+at various stages in their development. Such services shall promote parental
+competencies and behaviors that will lead to the healthy and positive personal
+development of parents and children through--
+ (1) the provision of assistance to build family skills and assist parents
+ in improving their capacities to be supportive and nurturing parents;
+ (2) the provision of assistance to families to enable such families to use
+ other formal and informal resources and opportunities for assistance that
+ are available within the communities of such families; and
+ (3) the creation of supportive networks to enhance the childrearing capacity
+ of parents and assist in compensating for the increased social isolation
+ and vulnerability of families.
+SEC. 958. ESTABLISHMENT OF NATIONAL CENTER ON FAMILY RESOURCE AND SUPPORT
+PROGRAMS.
+(a) ESTABLISHMENT- The Commissioner shall establish, through grant or contract,
+a national center for the collection and provision of programmatic information
+and technical assistance that relates to all types of family resource and
+support programs, to be known as the `National Center on Family Resource
+and Support Programs'.
+(b) FUNCTIONS- The national center established under subsection (a) shall
+serve as a national information and data clearinghouse, training, technical
+assistance, and material development source for family resource and support
+programs. Such center shall--
+ (1) develop and maintain a system for disseminating information on all
+ types of family resource and support programs and on the state of family
+ resource and support program development, including information concerning
+ the most effective model programs;
+ (2) develop and sponsor a variety of training institutes and curricula for
+ family resource and support program staff;
+ (3) identify several model programs representing the various types of family
+ resource and support programs to develop technical assistance materials
+ and activities to assist other agencies in establishing family resource
+ and support programs; and
+ (4) develop State-wide networks of family resource and support programs
+ for the purpose of sharing and disseminating information.
+SEC. 959. EVALUATION.
+The Commissioner shall, through grants or contracts awarded or entered
+into with independent auditors, conduct evaluations and related activities,
+of family resource and support programs, including--
+ (1) evaluations of on-going programs;
+ (2) process evaluations focusing on implementation strategies; and
+ (3) the development of simple evaluation models for use by local family
+ resource and support programs.
+SEC. 960. AUTHORIZATION OF APPROPRIATIONS.
+(a) ESTABLISHMENT OF CENTER- To carry out section 958, there are authorized
+to be appropriated $2,300,000 for fiscal year 1991, and such sums as may be
+necessary for each of the fiscal years 1992 through 1994.
+(b) EVALUATION- To carry out section 959, there are authorized to be
+appropriated $700,000 for fiscal year 1991, and such sums as may be necessary
+for each of the fiscal years 1992 through 1994.
+Subtitle B--White House Conference on Children, Youth, and Families
+SEC. 981. SHORT TITLE.
+This subtitle may be cited as the `1993 White House Conference on Children,
+Youth, and Families'.
+SEC. 982. FINDINGS.
+(a) FINDINGS- The Congress finds that--
+ (1) children and youth are inherently our most valuable resource and their
+ welfare, protection, healthy development, and positive role in society are
+ essential to the Nation;
+ (2) children and youth deserve love, respect, and guidance, as well as
+ good health, shelter, food, education, productive work, and preparation
+ for responsible participation in community life;
+ (3) an increasing opportunity for children and youth to participate in the
+ decisions that affect their lives is essential;
+ (4) the family is the primary caregiver and the source of social learning
+ which must be supported and strengthened, but when families are unable to
+ ensure the satisfaction of the needs of children and youth, it is society's
+ responsibility to assist them;
+ (5) at a minimum, all children and youth need and deserve access to--
+ (A) the best possible physical and mental health;
+ (B) adequate and safe physical shelter;
+ (C) the highest quality of educational opportunity;
+ (D) effective training, apprenticeships, opportunities for community service,
+ and productive employment;
+ (E) the widest range of civic, cultural, and recreational activities which
+ recognize young Americans as resources and promote self-esteem and a stake
+ in their communities;
+ (F) comprehensive community services which are efficient, coordinated,
+ and readily available; and
+ (G) genuine participation in decisions concerning the planning and managing
+ of their lives; and
+ (6) there is a great need for a comprehensive national policy with respect
+ to young individuals, designed to engage Federal, State, and local government
+ agencies, youth organizations, and other voluntary organizations.
+(b) STATEMENT OF POLICY- It is the policy of the Congress that the Federal
+Government should work jointly with the States and their citizens to develop
+recommendations and plans for action to meet the challenge and needs of
+young individuals.
+SEC. 983. AUTHORITY OF THE PRESIDENT AND SECRETARY; FINAL REPORT.
+(a) CALLING OF THE CONFERENCE- The President shall call a White House
+Conference on Children, Youth, and Families in 1993 in order to develop
+recommendations for further action in the field of children, youth, and
+families which will further the policy set forth in section 982(b). The
+Conference shall be planned and conducted under the direction of the Secretary
+in cooperation with the Commissioner and with the heads of such other Federal
+departments and agencies as are appropriate. Such assistance may include
+the assignment of personnel.
+(b) PURPOSES OF THE CONFERENCE- The purposes of the Conference shall be--
+ (1) to increase the public awareness of the value and needs of young
+ individuals;
+ (2) to examine the well-being of young individuals as well as the problems
+ which they face;
+ (3) to describe the extent to which young individuals with identified needs
+ do not receive services to meet such needs;
+ (4) to determine the reasons why young individuals are not receiving needed
+ services; and
+ (5) to develop such specific and comprehensive recommendations for executive
+ and legislative action as may be appropriate to improve the well-being of
+ youth and their families.
+(c) Conference Participants and Delegates-
+ (1) PARTICIPANTS- In order to carry out the purposes of the Conference,
+ the Conference shall bring together--
+ (A) representatives of Federal, State, and local governments, including
+ representatives of the General Accounting Office;
+ (B) professionals who are working in the field of children, youth, and
+ families; and
+ (C) representatives of the general public, particularly young individuals.
+ (2) SELECTION OF DELEGATES- The delegates to attend the Conference shall be
+ selected without regard to political affiliation or past partisan activity and
+ shall, to the best of the appointing authority's ability, be representative
+ of the spectrum of thought in the field of children, youth, and families.
+SEC. 984. CONFERENCE ADMINISTRATION.
+(a) ADMINISTRATION- For purposes of carrying out this subtitle, the Secretary
+shall--
+ (1) request the cooperation and assistance of the heads of such other
+ Federal departments and agencies as may be appropriate;
+ (2) furnish all reasonable assistance to State agencies administering
+ programs related to children, youth and families, and to other appropriate
+ organizations, to enable them to organize and conduct conferences in
+ conjunction with the Conference;
+ (3) prepare and make available for public comment a proposed agenda for
+ the Conference which reflects, to the greatest extent possible, the major
+ issues facing children, youth, and families consistent with subsection (a);
+ (4) prepare and make available background materials which the Secretary
+ deems necessary for the use of delegates to the Conference; and
+ (5) engage such additional personnel as may be necessary to carry out
+ this section without regard to provisions of title 5, United States Code,
+ governing appointments in the competitive service, and without regard
+ to chapter 51 and subchapter III of chapter 53 of such title relating to
+ classification and General Schedule pay rates.
+(b) DUTIES- The Secretary shall, in carrying out the Secretary's
+responsibilities and functions under this section, ensure that--
+ (1) the conferences under subsection (a)(2) will be conducted so as to
+ ensure broad participation of young individuals;
+ (2) the proposed agenda for the Conference under subsection (a)(3)
+ is published in the Federal Register not less than 180 days before the
+ beginning of the Conference and the proposed agenda is open for public
+ comment for a period of not less than 60 days;
+ (3) the final agenda for the Conference, taking into consideration the
+ comments received under paragraph (2), is published in the Federal Register
+ and transmitted to the chief executive officers of the States not later
+ than 30 days after the close of the public comment period provided for
+ under paragraph (2);
+ (4) the personnel engaged under subsection (a)(5) shall be fairly balanced
+ in terms of points of views represented and shall be appointed without
+ regard to political affiliation or previous partisan activities;
+ (5) the recommendations of the Conference are not inappropriately influenced
+ by any appointing authority or by any special interest, but will instead
+ be the result of the independent judgment of the Conference; and
+ (6) to the extent practicable, current and adequate statistical data
+ (including decennial census data) and other information on the well-being
+ of young individuals in the United States are readily available, in advance
+ of the Conference, to the delegates of the Conference, together with such
+ information as may be necessary to evaluate Federal programs and policies
+ relating to children and youth. In carrying out this subparagraph, the
+ Secretary may make grants to, and enter into contracts with, public agencies
+ and nonprofit private organizations.
+SEC. 985. CONFERENCE COMMITTEES.
+(a) ADVISORY COMMITTEE- The Secretary shall establish an advisory committee to
+the Conference which shall include representatives from the Federal Council
+on Children, Youth, and Families, public agencies and nonprofit private
+organizations as appropriate.
+(b) OTHER COMMITTEES- The Secretary may establish such other committees,
+including technical committees, as may be necessary to assist in the planning,
+conducting, and reviewing of the Conference.
+(c) COMPOSITION OF COMMITTEES- Each committee established under this section
+shall be composed of professionals and public members, and shall include
+individuals from low-income families and from minority groups.
+(d) COMPENSATION- Members of any committee established under this section
+(other than any officers or employees of the Federal Government), while
+attending conferences or meetings of the committee or otherwise serving at
+the request of the Secretary, shall be entitled to receive compensation
+at a rate to be fixed by the Secretary, but not to exceed the daily rate
+payable for GS-18 of the General Schedule under section 5332 of title 5,
+United States Code (including travel time). While away from their homes
+or regular places of business, such members may be allowed travel expenses,
+including per diem in lieu of subsistence, as authorized under section 5703 of
+such title for persons employed intermittently in Federal Government service.
+SEC. 986. REPORT OF THE CONFERENCE.
+(a) PROPOSED REPORT- A proposed report of the Conference which shall include
+a statement of comprehensive coherent national policy on children, youth,
+and families together with recommendations for the implementation of such
+policy, shall be published and submitted to the chief executive officers of
+the States not later than 180 days following the date on which the Conference
+is adjourned. The findings and recommendations included in the published
+proposed report shall be available immediately to the public.
+(b) RESPONSE TO PROPOSED REPORT- The chief executive officers of the States,
+after reviewing and soliciting recommendations and comments on the proposed
+report of the Conference, shall submit to the Secretary, not later than
+180 days after receiving such report, their views and findings on the
+recommendations of the Conference.
+(c) FINAL REPORT- Not later than 180 days after submission of the views and
+comments of the chief executive officers of the States, the Secretary shall--
+ (1) prepare a final report on the conference, which shall include--
+ (A) a statement of the policy and recommendations of the Conference;
+ (B) the views and comments of the chief executive officers of the States; and
+ (C) the recommendations of the Secretary, after taking into consideration
+ the views and comments of such officers, for administrative and legislative
+ action necessary to implement the recommendations of the Conference; and
+ (2) publish and transmit such report to the President and the chairman of
+ the Committee on Education and Labor of the House of Representatives and
+ chairman of the Committee on Labor and Human Resources of the Senate.
+SEC. 987. DEFINITIONS.
+For purposes of this subtitle--
+ (1) the term `Conference' means the 1993 White House Conference on Children,
+ Youth, and Families; and
+ (2) the terms `child', `youth', and `young individual' means an individual
+ who is less than 21 years of age.
+SEC. 988. AUTHORIZATION OF APPROPRIATIONS.
+(a) AUTHORIZATION- There are authorized to be appropriated such sums as
+may be necessary, for each of the fiscal years 1993 and 1994, to carry
+out this subtitle. Sums appropriated under this subsection shall remain
+available until the expiration of the 1-year period beginning on the date
+the Conference is adjourned. New spending authority or authority to enter
+into contracts as provided in this subtitle shall be effective only to the
+extent and in such amounts as are provided in advance in appropriations Acts.
+(b) RETURN OF UNEXPENDED FUNDS- Any funds remaining upon the expiration of
+the 1-year period referred to in subsection (a) shall be returned to the
+Treasury of the United States and credited as miscellaneous receipts.
+TITLE X--EFFECTIVE DATES
+SEC. 1001. EFFECTIVE DATES.
+(a) GENERAL EFFECTIVE DATE- Except as provided in subsection (b), this Act
+and the amendments made by this Act shall take effect on October 1, 1990.
+(b) SPECIAL EFFECTIVE DATES- (1) The amendment made by section 207(b) shall
+take effect immediately before October 1, 1990.
+(2) Section 646(b) of the Head Start Act, as added by section 115, shall
+take effect on April 1, 1990.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

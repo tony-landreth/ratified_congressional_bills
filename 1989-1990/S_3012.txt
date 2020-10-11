@@ -1,0 +1,212 @@
+ 
+--S.3012--
+S.3012
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Independent Safety Board Act of 1974 to authorize appropriations
+for
+fiscal years 1991, 1992, and 1993, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SHORT TITLE
+ SECTION 1. This Act may be cited as the `Independent Safety Board Act
+ Amendments of 1990'.
+AUTHORIZATION OF APPROPRIATIONS
+ SEC. 2. Section 309(a) of the Independent Safety Board Act of 1974 (49
+ App. U.S.C. 1907(a)) is amended by adding at the end the following: `There
+ are authorized to be appropriated for the purposes of this Act not to exceed
+ $32,000,000 for the fiscal year ending September 30, 1991; $38,600,000 for
+ the fiscal year ending September 30, 1992; and $38,800,000 for the fiscal year
+ ending September 30, 1993, such sums to remain available until expended.'.
+EXAMINATION AND TESTING
+ SEC. 3. (a) Section 304(b)(2) of the Independent Safety Board Act of 1974
+ (49 App. U.S.C. 1903(b)(2)) is amended by inserting `vessel,' immediately
+ before `vehicle' each place it appears.
+ (b) Section 304(b)(2) of the Independent Safety Board Act of 1974 (49
+ App. U.S.C. 1903(b)(2)) is amended by adding at the end the following new
+ sentences: `The Board shall have sole authority to determine the manner in
+ which testing will be carried out under this paragraph and under section
+ 701(c) of the Federal Aviation Act of 1958, including determining the persons
+ who will conduct the test, the type of test which will be conducted, and
+ the persons who will witness the test. Such determinations are committed
+ to the discretion of the Board and shall be made on the basis of the needs
+ of the investigation being conducted by the Board and, where applicable,
+ the provisions of this paragraph.'.
+COCKPIT VOICE RECORDER RECORDINGS AND TRANSCRIPTIONS
+ SEC. 4. Section 306 of the Independent Safety Board Act of 1974 (49
+ App. U.S.C. 1905) is amended by striking subsection (c) and inserting in
+ lieu thereof the following:
+ `(c) PUBLIC DISCLOSURE OF COCKPIT VOICE RECORDER RECORDINGS AND
+ TRANSCRIPTIONS- (1) Notwithstanding any other provision of law, the Board
+ shall withhold from public disclosure cockpit voice recorder recordings and
+ transcriptions, in whole or in part, of oral communications by and between
+ flight crew members and ground stations, that are associated with accidents
+ or incidents investigated by the Board.
+ `(2) Portions of a transcription of oral communications described in
+ paragraph (1) which the Board determines relevant and pertinent to the
+ accident or incident under investigation shall be made available to the
+ public by the Board--
+ `(A) if the Board conducts a public hearing with respect to such accident
+ or incident, at the time of such hearing; and
+ `(B) if the Board does not conduct such a public hearing, at the time when
+ a majority of other factual reports regarding the accident or incident is
+ placed in the public docket.
+ `(3) Nothing in this section shall restrict the Board at any time
+ from referring to cockpit voice recorder information in making safety
+ recommendations.
+ `(d) USE OF COCKPIT VOICE RECORDER RECORDINGS AND TRANSCRIPTIONS IN JUDICIAL
+ PROCEEDINGS- (1) Except as provided in this subsection, in a judicial
+ proceeding, there shall not be discovery by a party--
+ `(A) of portions of cockpit voice recorder transcriptions other than
+ such portions made available to the public by the Board under subsection
+ (c)(2); and
+ `(B) of cockpit voice recorder recordings.
+ `(2) Subject to paragraph (4), a court may permit discovery of cockpit voice
+ recorder transcriptions by a party if the court, after an in camera review
+ of such transcriptions, finds that--
+ `(A) the portions of the transcriptions made available to the public under
+ subsection (c) do not provide the party with sufficient information for
+ the party to receive a fair trial; and
+ `(B) discovery of additional portions of transcriptions is necessary to
+ provide the party with sufficient information for the party to receive a
+ fair trial.
+No cockpit voice recorder transcriptions prepared by or under the direction of
+the Board, other than portions made available by the Board under subsection
+(c), shall be required to be produced for an in camera review, or shall
+be subject to discovery, unless the cockpit voice recorder recordings are
+not available.
+ `(3) Subject to paragraph (4), a court may permit discovery of cockpit voice
+ recorder recordings by a party if the court, after an in camera review of
+ such recordings, finds that--
+ `(A) the portions of transcriptions made available to the public under
+ subsection (c) and to the party through discovery under paragraph (2) do
+ not provide the party with sufficient information for the party to receive
+ a fair trial; and
+ `(B) discovery of cockpit voice recorder recordings is necessary to provide
+ the party with sufficient information for the party to receive a fair trial.
+ `(4) If, under paragraph (2) or (3), there is discovery in a judicial
+ proceeding of a cockpit voice recorder recording or any portion of a cockpit
+ voice recorder transcription not made available to the public under subsection
+ (c)(2), the court shall issue a protective order to limit the use of such
+ recording or portion to the judicial proceeding and to prohibit dissemination
+ of such recording or portion to any person who does not need access to such
+ recording or portion for such proceeding.
+ `(5) A court may permit admission of a cockpit voice recorder recording or any
+ portion of a cockpit voice recorder transcription not made available to the
+ public under subsection (c)(2) into evidence in a judicial proceeding, only
+ if the court places such recording or portion under seal to preclude the use
+ of such recording or portion for purposes other than for such proceeding.'.
+TOXICOLOGICAL TESTING OF TRANSPORTATION DEPARTMENT EMPLOYEES
+ SEC. 5. (a) When the Department of Transportation, including any of its
+ agencies, conducts post-accident or post-incident toxicological testing of
+ an employee of the Department, specimen collection shall be accomplished
+ as soon as practicable after the accident or incident, and the Department
+ shall endeavor when feasible to complete such collection within four hours
+ after the accident or incident.
+ (b) The head of each agency within the Department of Transportation shall
+ send to the Office of the Secretary of Transportation a report on the
+ circumstances concerning the amount of time required to complete specimen
+ collection related to a toxicological test which is conducted on an employee
+ within that agency who is reasonably associated with the circumstances of an
+ accident or incident within the investigative jurisdiction of the National
+ Transportation Safety Board.
+ (c) Any failure to comply with the requirements of this section may not
+ be asserted, by the subject of such testing, as a claim, cause of action,
+ or defense in any administrative or judicial proceeding.
+BOARD ACCESS TO TOXICOLOGICAL TESTING RECORDS
+ SEC. 6. Section 304(b) of the Independent Safety Board Act of 1974
+ (49 App. U.S.C. 1903(b)), is amended by redesignating paragraph (11)
+ as paragraph (12) and by inserting immediately after paragraph (10) the
+ following new paragraph:
+ `(11)(A) Notwithstanding section 503(e) of the Act entitled `An Act making
+ supplemental appropriations for the fiscal year ending September 30, 1987,
+ and for other purposes', approved July 11, 1987 (5 U.S.C. 7301 note),
+ the Board is authorized to obtain from the Secretary of Transportation,
+ by written request, and shall be furnished--
+ `(i) any report of a confirmed positive toxicological test, verified as
+ positive by a medical review officer, which is conducted on an employee of
+ the Department of Transportation, including any of its agencies, pursuant
+ to post-accident, unsafe practice, or reasonable suspicion toxicological
+ testing requirements of the Department, when that employee is reasonably
+ associated with the circumstances of an accident or incident within the
+ investigative jurisdiction of the Board; and
+ `(ii) any laboratory record providing documentation that such test is
+ confirmed positive.
+ `(B) Except as provided in subparagraph (C), the Board shall maintain in
+ confidence and exempt from public disclosure in accordance with section
+ 552(b)(3) of title 5, United States Code--
+ `(i) any laboratory record, made available under subparagraph (A), of a
+ confirmed and verified toxicological test which reveals medical use of a
+ drug permitted under applicable regulations; and
+ `(ii) any medical information provided by the tested employee in connection
+ with such test or in connection with a review of such test.
+ `(C) The Board may use such a laboratory record for development of any
+ evidentiary record in an investigation by the Board of an accident or
+ incident if--
+ `(i) the fitness of the employee who is the subject of the toxicological
+ testing is at issue in the investigation; and
+ `(ii) the use of that record is necessary in the development of such
+ evidentiary record.'.
+ODOMETER MILEAGE DISCLOSURE
+ SEC. 7. (a) Section 408(d)(2)(C) of the Motor Vehicle Information and Cost
+ Savings Act (15  U.S.C. 1988(d)(2)(C)) is amended by striking the third
+ sentence and inserting in lieu thereof the following: `The rule, consistent
+ with the purposes of this Act and the need to facilitate enforcement thereof,
+ shall prescribe that the form be issued by the State to the transferee in
+ accordance with paragraph (2)(A)(i), shall prescribe that the person granted
+ such power of attorney shall retain a copy of such power of attorney and shall
+ submit the original back to the State with a copy of the title showing the
+ restatement of the mileage, and may prescribe that the State retain the power
+ of attorney and the copy of the title for an appropriate period or that the
+ State adopt alternative measures consistent with the purposes of this title,
+ taking into consideration costs to the State. The rule shall not require that
+ a vehicle be titled in the State in which the power of attorney was issued.'.
+ (b) The amendment made by subsection (a) shall be effective on the date of
+ enactment of this Act and the Secretary of Transportation shall implement
+ the amended section by promulgating a revision of existing regulations
+ within six months after such effective date. Such rule shall consider the
+ need to facilitate normal commercial transactions in the sale or exchange
+ of motor vehicles.
+REPORT ON LOW-LEVEL RADIOACTIVE WASTE TRANSPORTATION
+ SEC. 8. Within twelve months after the date of enactment of this Act, the
+ Secretary of Transportation shall conduct and complete a thorough study
+ of and prepare a report to Congress on the transportation of low-level
+ radioactive waste, specifically including--
+ (1) an evaluation of the feasibility of requiring States that transport waste
+ to a regional disposal facility established and operated under an interstate
+ compact pursuant to section 4 of the Low-Level Radioactive Waste Policy Act
+ (42  U.S.C. 2021d) to use, to the maximum extent practicable, routes which are
+ within the geographic borders of the States that are parties to the compact;
+ (2) factual information on the volume of low-level radioactive waste being
+ shipped currently and estimates of such shipments for the calendar years
+ 1991 through 1995;
+ (3) a list of the routes proposed to be used for shipment of such waste to
+ the disposal facilities operated under such an interstate compact;
+ (4) a review of the process for determining and approving such routes;
+ (5) a review of the processes for resolving any disputes that may arise,
+ between States and between Commissions created by such interstate compacts,
+ regarding such routes; and
+ (6) identification of the public safety risks associated with possible
+ accidents in transporting such waste and of the response plans to be employed
+ in the event of a transportation accident.
+intercity rail passenger service
+ SEC. 9. (a) Section 402(d)(1) of Rail Passenger Service Act (45
+ U.S.C. 562(d)(1)) is amended by adding at the end the following new sentence:
+ `The Corporation may subsequently convey title or other interest in such
+ property to a third party, if such reconveyance is found by the Commission
+ to further the purposes of this Act.'.
+ (b) The amendment made by subsection (a) shall apply to any proceeding
+ instituted before, on, or after the date of enactment of this Act
+ (including any such proceeding pending before any Federal court on such
+ date of enactment).
+COMMUTER RAIL SERVICE
+ SEC. 10. Notwithstanding any other provision of law, the National Railroad
+ Passenger Corporation shall not discontinue commuter rail service between
+ Valparaiso, Indiana and Chicago, Illinois, before May 6, 1991.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,1073 @@
+ 
+--H.R.232--
+H.R.232
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To amend title 38, United States Code, with respect to veterans programs
+for housing
+and memorial affairs, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. NOTIFICATION REQUIREMENT.
+ Section 1832(a)(4) of title 38, United States Code, is amended by striking
+ out subparagraph (C).
+SEC. 2. PROPERTY MANAGEMENT.
+ (a) VENDEE LOANS- Section 1833(a) of title 38, United States Code, is amended
+ by striking out paragraphs (2) and (3) and inserting in lieu thereof the
+ following:
+ `(2) After September 30, 1990, the percentage limitations described in
+ paragraph (1) of this subsection shall have no effect.
+ `(3) The Secretary may, beginning on October 1, 1990, sell any note evidencing
+ a loan referred to in paragraph (1)--
+ `(A) with recourse; or
+ `(B) without recourse, but only if the amount received is equal to an amount
+ which is not less than the unpaid balance of such loan.'.
+ (b) REPEAL OF TERMINATION DATE- Section 1833(a) of such title is amended--
+ (1) by striking out paragraph (6); and
+ (2) by redesignating paragraph (7) as paragraph (6).
+SEC. 3. EXTENSIONS OF PROVISIONS RELATING TO DEFAULT PROCEDURES AND APPRAISALS.
+ (a) DEFAULT PROCEDURES- Section 1832(c)(11) of title 38, United States Code,
+ is amended by striking out `October 1, 1991' and inserting in lieu thereof
+ `December 31, 1992'.
+ (b) APPRAISALS- Section 1831(f)(3) of such title is amended by striking out
+ `October 1, 1990' and inserting in lieu thereof `December 31, 1992'.
+ (c) REPORT RELATING TO APPRAISAL REVIEW- Section 1831(f) of such title is
+ further amended by adding at the end the following new paragraphs:
+ `(4) Not later than April 30 of each year following a year in which the
+ Secretary authorizes lenders to determine reasonable value of property under
+ this subsection, the Secretary shall submit to the Committees on Veterans'
+ Affairs of the Senate and the House of Representatives a report relating
+ to the exercise of that authority during the year in which the authority
+ was exercised.
+ `(5) A report submitted pursuant to paragraph (4) of this subsection shall
+ include, for the period covered by each report--
+ `(A) the number and value of loans made by lenders exercising the authority
+ of this subsection;
+ `(B) the number and value of such loans reviewed by the appraisal-review
+ monitors referred to in paragraph (2) of this subsection;
+ `(C) the number and value of loans made under this subsection of which the
+ Secretary received notification of default;
+ `(D) the amount of guaranty paid by the Secretary to such lenders by reason
+ of defaults on loans as to which reasonable value was determined under this
+ subsection; and
+ `(E) such recommendations as the Secretary considers appropriate to improve
+ the exercise of the authority provided for in this subsection and to protect
+ the interests of the United States.'.
+SEC. 4. ADMINISTRATION.
+ (a) CERTIFICATION- Section 1820 of title 38, United States Code, is amended
+ by adding at the end the following:
+ `(g) The Secretary shall, at the request of the Secretary of Housing and
+ Urban Development and without reimbursement, certify to such Secretary
+ whether an applicant for assistance under any law administered by the
+ Department of Housing and Urban Development is a veteran.'.
+ (b) APPLICATION REQUIREMENTS- Section 1803 of such title is amended by
+ adding at the end the following:
+ `(f) The application for or obtaining of a loan made, insured, or guaranteed
+ under this chapter shall not be subject to reporting requirements applicable
+ to requests for, or receipts of, Federal contracts, grants, loans, loan
+ guarantees, loan insurance, or cooperative agreements except to the extent
+ that such requirements are provided for in, or by the Secretary pursuant to,
+ this title.'.
+SEC. 5. WAIVER OF INDEBTEDNESS.
+ Section 3102 of title 38, United States Code, is amended--
+ (1) in subsection (a), by adding at the end the following new sentence: `The
+ Secretary shall include in the notification to the payee a statement of the
+ right of the payee to submit an application for a waiver under this subsection
+ and a description of the procedures for submitting the application.'; and
+ (2) in subsection (b)--
+ (A) by striking out `101 and 1801' and inserting in lieu thereof, `101,
+ 1801, and 1802(a)(2)(C)(ii) of this title'; and
+ (B) by adding at the end the following: `An application for relief under this
+ subsection must be made within one year after the date on which the veteran
+ receives notice by certified mail from the Secretary of the indebtedness. The
+ Secretary shall include in the notification a statement of the right of the
+ veteran to submit an application for a waiver under this subsection and a
+ description of the procedures for submitting the application.'.
+SEC. 6. ENTITLEMENT AMOUNT.
+ Section 1803(a)(1)(A)(i) of title 38, United States Code, is amended--
+ (1) in subclause (III)--
+ (A) by inserting `except as provided in subclause (IV) of this clause,'
+ after `(III)'; and
+ (B) by striking out `but not more than $144,000,'; and
+ (2) in subclause (IV), by striking out `or (6)' and inserting in lieu thereof
+ `(6), or (8)'.
+SEC. 7. DEMONSTRATION PROGRAM OF COMPENSATED WORK THERAPY AND THERAPEUTIC
+TRANSITIONAL HOUSING.
+ (a) DEMONSTRATION PROGRAM- During fiscal years 1992 through 1994, the
+ Secretary of Veterans Affairs may carry out a compensated work therapy and
+ therapeutic transitional housing demonstration program. The demonstration
+ program shall have two components, as follows:
+ (1) A component, under subsection (c), which provides for direct operation
+ of therapeutic transitional housing in conjunction with the furnishing of
+ compensated work therapy.
+ (2) A component, under subsection (d), which provides for the contracting
+ with nonprofit corporations to furnish compensated work therapy in conjunction
+ with the operation of the therapeutic transitional housing.
+ (b) ELIGIBLE VETERANS- The veterans for whom therapeutic transitional
+ housing may be provided under this section are veterans--
+ (1) who are furnishing services to the Department of Veterans Affairs under
+ subsection (a) of section 618 of title 38, United States Code; or
+ (2) who are furnished therapeutic work pursuant to subsection (b) of that
+ section.
+ (c) AUTHORITY TO OPERATE RESIDENCES AS THERAPEUTIC TRANSITIONAL HOUSING-
+ Under the demonstration program, the Secretary, in connection with the
+ conduct of compensated work therapy programs, may operate residences as
+ therapeutic transitional housing solely for veterans described in subsection
+ (b) of this section. The Secretary may operate no more than 50 residences
+ as therapeutic transitional housing under this subsection.
+ (d) CONTRACT AUTHORITY- (1) Under the demonstration program, the Secretary
+ may contract with nonprofit corporations to conduct compensated work therapy
+ programs under the demonstration program.
+ (2) The Secretary may enter into a contract with a nonprofit corporation
+ under the demonstration program only if the corporation provides assurances
+ satisfactory to the Secretary that it will operate therapeutic transitional
+ housing for eligible veterans in conjunction with an existing compensated work
+ therapy program at a medical center. The contract may remain in effect only
+ as long as the corporation operates the therapeutic transitional housing
+ for eligible veterans in connection with the demonstration program.
+ (3) A contract with a nonprofit corporation under this subsection may provide
+ for the Secretary to furnish the corporation (with or without consideration)
+ in-kind services, including--
+ (A) technical and clinical advice;
+ (B) supervision of the activities of compensated work therapy participants in
+ the rehabilitation of any property for use as therapeutic transitional housing
+ under the contract and for possible later sale as a private residence; and
+ (C) minor maintenance of and minor repairs to such property.
+ (e) PROCUREMENT PROCEDURES- The Secretary may use such procurement
+ procedures for the purchase, lease, or other acquisition of residential
+ housing for purposes of this section as the Secretary considers appropriate
+ to expedite the opening and operation of transitional housing and to protect
+ the interests of the United States.
+ (f) CONDITIONS- A residence may be operated as transitional housing for
+ veterans described in subsection (b) under the following conditions:
+ (1) Only veterans described in such subsection and a house manager may
+ reside in the residence.
+ (2) Each resident, other than the house manager, shall pay rent for the
+ period of residence in such housing.
+ (3) In the establishment and operation of housing under this section, the
+ Secretary shall consult with appropriate representatives of the community in
+ which the housing is established and shall comply with zoning requirements,
+ building permit requirements, and other similar requirements applicable to
+ other real property used for similar purposes in the community.
+ (4) The residence shall meet State and community fire and safety requirements
+ applicable to other real property used for similar purposes in the community
+ in which the transitional housing is located, but fire and safety requirements
+ applicable to buildings of the Federal Government shall not apply to such
+ property.
+ (g) HOUSE MANAGERS- The Secretary shall prescribe the qualifications for house
+ managers for transitional housing units operated under this section. The
+ Secretary may provide for free room and subsistence for house managers in
+ addition to, or instead of payment of, a fee for such services.
+ (h) SOURCES OF HOUSING- (1) The Secretary may operate as transitional
+ housing under this section--
+ (A) any suitable residential property acquired by the Secretary as the
+ result of a default on a loan made, guaranteed, or insured under chapter
+ 37 of title 38, United States Code; and
+ (B) any other suitable residential property purchased, leased, or otherwise
+ acquired by the Secretary.
+ (2) In the case of any property referred to in paragraph (1)(A), the
+ Secretary shall--
+ (A) transfer administrative jurisdiction over such property within the
+ Department from the Veterans Benefits Administration to the Veterans Health
+ Services and Research Administration; and
+ (B) transfer from the General Post Fund of the Department of Veterans
+ Affairs to the Loan Guaranty Revolving Fund under chapter 37 of title 38,
+ United States Code, an amount, not to exceed the amount the Secretary paid
+ for the property, representing the amount the Secretary considers could be
+ obtained by sale of such property to a nonprofit organization or a State
+ for use as a shelter for homeless veterans.
+ (3) In the case of any residential property obtained by the Secretary
+ from the Department of Housing and Urban Development under this section,
+ the amount paid by the Secretary to that Department for that property may
+ not exceed the amount that the Secretary of Housing and Urban Development
+ would charge for the sale of that property to a nonprofit organization or
+ a State for use as a shelter for homeless persons. Funds for such charge
+ shall be derived from the General Post Fund.
+ (i) RENT AND LENGTH OF RESIDENCE- The Secretary shall prescribe--
+ (1) a procedure for establishing reasonable rental rates for persons residing
+ in transitional housing; and
+ (2) appropriate limits on the period for which such persons may reside in
+ transitional housing.
+ (j) DISPOSAL OF PROPERTY- The Secretary may dispose of any property acquired
+ for the purpose of this section. The proceeds of any such disposal shall
+ be credited to the General Post Fund of the Department of Veterans Affairs.
+ (k) AVAILABILITY OF GENERAL POST FUND- Funds received by the Department under
+ this section shall be deposited in the General Post Fund. The Secretary may
+ distribute out of the fund such amounts as necessary for the acquisition,
+ management, maintenance, and disposition of real property for the purpose
+ of carrying out such program. The operation of the demonstration program
+ and funds received shall be separately accounted for, and shall be stated
+ in the documents accompanying the President's budget for each fiscal year.
+ (l) REPORT- After a demonstration program under this section has been
+ in effect for two years, the Secretary shall submit to the Committees on
+ Veterans' Affairs of the Senate and House of Representatives a report on
+ the operation of the program. The Secretary shall include in the report
+ such recommendations with regard to the program as the Secretary considers
+ appropriate.
+SEC. 8. LOANS TO ORGANIZATIONS PROVIDING TRANSITIONAL HOUSING FOR SUBSTANCE
+ABUSERS.
+ (a) LOAN PROGRAM- The Secretary of Veterans Affairs may make loans in
+ accordance with this section to assist in the provision of transitional
+ housing exclusively to veterans who are in (or who recently have been in)
+ a program for the treatment of substance abuse.
+ (b) LOAN RECIPIENTS- A loan under this section may only be made to a nonprofit
+ organization under selection criteria promulgated by the Secretary and only
+ to assist that organization in leasing housing units for use as a group
+ residence for the purposes described in subsection (a). The amount of such
+ a loan that is used with respect to any single residential unit may not
+ exceed $4,500. In making loans under this subsection, the Secretary shall,
+ except to the extent that the Secretary determines that it is infeasible
+ to do so, ensure that--
+ (1) each loan is repaid within two years after the date on which the loan
+ is made;
+ (2) each loan is repaid through monthly installments and that a reasonable
+ penalty is assessed for each failure to pay an installment by the date
+ specified in the loan agreement involved; and
+ (3) each loan is made only to a nonprofit private entity which agrees that, in
+ the operation of each residence established with the assistance of the loan--
+ (A) the use of alcohol or any illegal drug in the residence will be
+ prohibited;
+ (B) any resident who violates the prohibition in subclause (A) of this
+ clause will be expelled from the residence;
+ (C) the costs of maintaining the residence, including fees for rent and
+ utilities, will be paid by the residents;
+ (D) the residents will, through a majority vote of the residents, otherwise
+ establish policies governing the conditions of residence, including the
+ manner in which applications for residence are approved; and
+ (E) the residence will be operated solely as a residence for not less than
+ six veterans.
+ (c) FUNDING- Loans under this section shall be made from the special account
+ of the General Post Fund of the Department of Veterans Affairs established
+ for purposes of this section. The amount of such loans outstanding at any
+ time may not exceed $100,000. Amounts received as payment of principal and
+ interest on such loans shall be deposited in that account. The operation
+ of the loan program under this section shall be separately accounted for,
+ and shall be separately stated in the documents accompanying the President's
+ budget for each fiscal year.
+ (d) TERMS AND CONDITIONS- Loans under this section shall be made on such
+ terms and conditions, including interest, as the Secretary prescribes.
+ (e) REPORT- After the end of the 15-month period beginning on the date
+ the first loan is extended under this section, the Secretary shall issue a
+ report on the Department's experience under the section. The report shall
+ include the following information:
+ (1) The default rate on loans extended under this section.
+ (2) The manner in which loan payments are collected.
+ (3) The number of facilities at which loans have been extended.
+ (4) The adequacy of the amount of funds in the special account referred to
+ in subsection (c).
+SEC. 9. HOUSING PROGRAMS FOR HOMELESS VETERANS.
+ (a) IN GENERAL- Subchapter III of chapter 37 of title 38, United States Code,
+ is amended by adding at the end the following new section:
+`Sec. 1835. Housing assistance for homeless veterans
+ `(a)(1) To assist homeless veterans and their families in acquiring shelter,
+ the Secretary may enter into agreements described in paragraph (2) with--
+ `(A) nonprofit organizations, with preference being given to any organization
+ named in, or approved by the Secretary under, section 3402 of this title; or
+ `(B) any State or any political subdivision thereof.
+ `(2) To carry out paragraph (1), the Secretary may enter into agreements
+ to sell real property, and improvements thereon, acquired by the Secretary
+ as the result of a default on a loan made, insured, or guaranteed under this
+ chapter. Such sale shall be for such consideration as the Secretary determines
+ is in the best interests of homeless veterans and the Federal Government.
+ `(3) The Secretary may enter into an agreement under paragraph (1) of this
+ subsection only if--
+ `(A) the Secretary determines that such an action will not adversely affect
+ the ability of the Department--
+ `(i) to fulfill its statutory missions with respect to the Department loan
+ guaranty program and the short- and long-term solvency of the Loan Guaranty
+ Revolving Fund and the Guaranty and Indemnity Fund under this chapter; or
+ `(ii) to carry out other functions and administer other programs authorized
+ by law;
+ `(B) the entity to which the property is sold agrees to--
+ `(i) utilize the property solely as a shelter primarily for homeless veterans
+ and their families,
+ `(ii) comply with all zoning laws relating to the property,
+ `(iii) make no use of the property that is not compatible with the area
+ where the property is located, and
+ `(iv) take such other actions as the Secretary determines are necessary
+ or appropriate in the best interests of homeless veterans and the Federal
+ Government; and
+ `(C) the Secretary determines that there is no significant likelihood of
+ the property being sold for a price sufficient to reduce the liability of
+ the Department or the veteran who defaulted on the loan.
+ `(4) Any agreement, deed, or other instrument executed by the Secretary
+ under this subsection shall be on such terms and conditions as the Secretary
+ determines to be appropriate and necessary to carry out the purpose of
+ such agreement.
+ `(b) The Secretary may not enter into agreements under subsection (a)
+ after September 30, 1993.'.
+ (b) CLERICAL AMENDMENT- The table of sections at the beginning of such
+ chapter is amended by adding at the end of the items relating to subchapter
+ III the following new item:
+`1835. Housing assistance for homeless veterans.'.
+SEC. 10. AUTHORIZED SOURCES FOR PROVISION OF THERAPEUTIC WORK IN COMPENSATED
+WORK THERAPY PROGRAM.
+ (a) AUTHORIZED SOURCES- Subsection (b)(1) of section 618 of title 38,
+ United States Code, is amended by striking out `contractual arrangements
+ with private industry or other sources outside the Veterans' Administration'
+ and inserting in lieu thereof `a contract or other arrangement with any
+ appropriate source (whether or not an element of the Department of Veterans
+ Affairs or of any other Federal entity)'.
+ (b) CONFORMING AMENDMENT- Subsection (c)(1) of such section is amended by
+ striking out `carrying out the provisions of' and inserting in lieu thereof
+ `furnishing rehabilitative services authorized in'.
+SEC. 11. FLORIDA NATIONAL CEMETERY.
+ Notwithstanding section 1004(c)(2) of title 38, United States Code, the
+ Secretary may provide for flat grave markers in that section of the Florida
+ National Cemetery in which preplaced grave liners were installed before
+ July 30, 1988.
+SEC. 12. AUTHORITY OF THE SECRETARY OF VETERANS AFFAIRS TO CARRY OUT SPECIFIED
+ADMINISTRATIVE REORGANIZATION.
+ (a) AUTHORITY FOR ADMINISTRATIVE REORGANIZATION- The Secretary of Veterans
+ Affairs may carry out the administrative reorganization described in
+ subsection (b) without regard to section 210(b)(2) of title 38, United
+ States Code.
+ (b) SPECIFIED REORGANIZATION- Subsection (a) applies to the organizational
+ realignment of management responsibility for the Department of Veterans
+ Affairs Data Processing Centers, together with the corresponding
+ organizational realignment of associated Information Resources Management
+ operational components and functions within the Department of Veterans
+ Affairs central office, as such realignment was described in the detailed
+ plan and justification submitted by the Secretary of Veterans Affairs in
+ January 4, 1991, letters to the Chairmen of the Committees on Veterans'
+ Affairs of the Senate and the House of Representatives.
+SEC. 13. AMENDMENTS TO LAWS TO REFLECT THE CONVERSION OF THE VETERANS'
+ADMINISTRATION TO THE DEPARTMENT OF VETERANS AFFAIRS.
+ (a) LAWS CODIFIED IN TITLE 2, U.S.C- Section 255 of the Balanced Budget and
+ Emergency Deficit Control Act of 1985 (2 U.S.C. 905) is amended by striking
+ out the last two items in subsection (g)(2) and inserting in lieu thereof
+ the following:
+ `Department of Veterans Affairs, Loan guaranty revolving fund
+ (36-4025-0-3-704); and
+ `Department of Veterans Affairs, Servicemen's group life insurance fund
+ (36-4009-0-3-701).'.
+ (b) TITLE 5, U.S.C-
+ (1) The following sections of title 5, United States Code, are amended by
+ striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs': sections 2108(2), 5102(c)(14),
+ 5342(a)(2)(C), 7103(a)(3), 8101(20), 8116(a)(3), 8311(2)(A), and 8311(3)(A).
+ (2) The following sections of such title are amended by striking out
+ `Department of Medicine and Surgery, Veterans' Administration' and inserting
+ in lieu thereof `Veterans Health Administration of the Department of Veterans
+ Affairs': sections 4301(2)(C), 5102(c)(3), and 6301(2)(B)(v).
+ (3) Section 5355 of such title is amended by striking out `Administrator
+ of Veterans' Affairs' and inserting in lieu thereof `Secretary of Veterans
+ Affairs'.
+ (4) Section 8339(g) of such title is amended by striking out `Veterans'
+ Administration pension or compensation' in the second and third sentences
+ and inserting in lieu thereof `pension or compensation from the Department
+ of Veterans Affairs'.
+ (5) Section 8347(m)(2) of such title is amended by striking out
+ `Administrator' and inserting in lieu thereof `Secretary'.
+ (6) Section 503 of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301
+ note), is amended by striking out `Veterans' Administration' in subsection
+ (a)(2)(I) and inserting in lieu thereof `Department of Veterans Affairs'.
+ (c) LAWS CODIFIED IN TITLE 7, U.S.C- Section 202 of the Agricultural Act of
+ 1949 (7 U.S.C. 1446a) is amended by striking out `Administrator of Veterans'
+ Affairs' in the matter preceding subsection (a), in subsection (a), and in
+ subsection (c) and inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (d) LAWS CODIFIED IN TITLE 12, U.S.C-
+ (1) Section 912 of the Housing and Urban Development Act of 1970 (12
+ U.S.C. 1709-2) is amended by striking out `Veterans' Administration'
+ both places it appears in paragraph (1) and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (2) The National Housing Act (12 U.S.C. 1701 et seq.) is amended--
+ (A) by striking out `Veterans' Administration' in subsection (c)(2)(D)
+ of section 302 (12 U.S.C. 1717) and inserting in lieu thereof `Department
+ of Veterans Affairs'; and
+ (B) by striking out `Administrator of Veterans' Affairs' in section 512 (12
+ U.S.C. 1731a) and inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (3) Section 107 of the Housing and Urban Development Act of 1965 (12
+ U.S.C. 1735g) is amended--
+ (A) by striking out `Administrator of Veterans' Affairs' in subsection
+ (a)(2)(B) and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (B) by striking out `Administrator of Veterans' Affairs' both places it
+ appears in subsection (e) and inserting in lieu thereof `Secretary of
+ Veterans Affairs'.
+ (4) Section 8 of the Real Estate Settlement Procedures Act of 1974
+ (12 U.S.C. 2607) is amended by striking out `Administrator of Veterans'
+ Affairs' in subsection (c)(5) and inserting in lieu thereof `Secretary of
+ Veterans Affairs'.
+ (e) LAWS CODIFIED IN TITLE 15, U.S.C- Section 718 of the Business Opportunity
+ Development Reform Act of 1988 (Public Law 100-656; 15 U.S.C. 644 note)
+ is amended by striking out `Veterans Administration' in subsection (b)(10)
+ and inserting in lieu thereof `Department of Veterans Affairs'.
+ (f) TITLE 18, U.S.C-
+ (1) Section 289 of title 18, United States Code, is amended by striking
+ out `Administrator of Veterans' Affairs' and inserting in lieu thereof
+ `Secretary of Veterans Affairs'.
+ (2) Section 1114 of such title is amended by striking out `Veterans'
+ Administration' and inserting in lieu thereof `Department of Veterans
+ Affairs'.
+ (g) LAWS CODIFIED IN TITLE 20, U.S.C- The Higher Education Act of 1965
+ (20 U.S.C. 1001 et seq.) is amended as follows:
+ (1) The following provisions are amended by striking out `Veterans'
+ Administration' and inserting in lieu thereof `Department of Veterans
+ Affairs':
+ (A) Subsection (a)(1)(E) of section 131 (20 U.S.C. 1017).
+ (B) Subsection (d)(1)(C) of section 411B (20 U.S.C. 1070a-2).
+ (C) Subsection (c)(1)(C) of section 411C (20 U.S.C. 1070a-3).
+ (D) Subsection (c)(1)(C) of section 411D (20 U.S.C. 1070a-4).
+ (2) Section 420A (20 U.S.C. 1070e-1) is amended--
+ (A) in subsection (b)(2)(B), by striking out `Administrator of Veterans'
+ Affairs' and inserting in lieu thereof `Secretary of Veterans Affairs';
+ (B) in subsection (c)(2)--
+ (i) by striking out `Administrator of Veterans' Affairs (hereinafter referred
+ to as the `Administrator')' and inserting in lieu thereof `Secretary of
+ Veterans Affairs'; and
+ (ii) by striking out `Administrator' each of the three succeeding places
+ in which it appears and inserting in lieu thereof `Secretary of Veterans
+ Affairs'; and
+ (C) in subsection (d), by striking out `Veterans' Administration' and `the
+ Administrator' and inserting in lieu thereof `Secretary of Veterans Affairs'
+ in both instances.
+ (h) REFERENCES IN TITLE 22, U.S.C-
+ (1) LAWS CODIFIED IN TITLE 22- Section 106 of the Mutual Educational and
+ Cultural Exchange Act of 1961 (22 U.S.C. 2456) is amended by striking out
+ `Veterans' Administration' in subsection (a)(1) and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (2) REFERENCE PURSUANT TO LAW CODIFIED IN TITLE 22- Any reference to the
+ Veterans' Administration in any regulation prescribed or Executive order
+ issued pursuant to section 827(a) of the Foreign Service Act of 1980 (22
+ U.S.C. 4067(a)) shall be deemed to be a reference to the Department of
+ Veterans Affairs.
+ (i) LAWS CODIFIED IN TITLE 24, U.S.C-
+ (1) The Naval Appropriation Act, 1946 (59 Stat. 201 et seq.), is amended
+ in the first proviso in the fourth paragraph under the heading `BUREAU
+ OF SUPPLIES AND ACCOUNTS' (24 U.S.C. 16a; 59 Stat. 208) by striking out
+ `United States Veterans Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (2) Section 2 of the Act of March 22, 1906 (24 U.S.C. 152), is amended--
+ (A) by striking out `Board of Managers of the National Home for Disabled
+ Volunteer Soldiers' and inserting in lieu thereof `Secretary of Veterans
+ Affairs'; and
+ (B) by striking out `as they may deem necessary' and inserting in lieu
+ thereof `as the Secretary may consider necessary'.
+ (j) LAWS CODIFIED IN TITLE 25,  U.S.C-
+ (1) The Act of February 25, 1933 (25 U.S.C. 14), is amended--
+ (A) by striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs'; and
+ (B) by striking out `Administrator of Veterans' Affairs' and inserting in
+ lieu thereof `Secretary of Veterans Affairs'.
+ (2) Section 716 of the Indian Health Care Improvement Act (25 U.S.C. 1680f)
+ is amended--
+ (A) by striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs' in each of the following subsections:
+ subsections (a), (b)(3), (b)(4), (b)(6), (c)(1)(A), and (c)(1)(B);
+ (B) in subsection (c)(1), by striking out `Within 30 days' and all that
+ follows through `directed to' and inserting in lieu thereof `Not later
+ than December 23, 1988, the Director of the Indian Health Service and the
+ Secretary of Veterans Affairs shall'; and
+ (C) in subsection (c)(2), by striking out `Not later than' and all that
+ follows through `shall' and inserting in lieu thereof `Not later than
+ November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall'.
+ (k) LAWS CODIFIED IN TITLE 29,  U.S.C-
+ (1) The Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) is amended--
+ (A) by striking out `Veterans' Administration' in the following provisions
+ and inserting in lieu thereof `Department of Veterans Affairs': subsection
+ (a)(11) of section 101 (29 U.S.C. 721), subsection (i)(2) of section 202 (29
+ U.S.C. 761a), and subsection (a)(1)(B)(ix) of section 502 (29 U.S.C. 792); and
+ (B) by striking out `Administrator of Veterans' Affairs' in the following
+ provisions and inserting in lieu thereof `Secretary of Veterans Affairs':
+ subsection (a)(1) of section 203 (29 U.S.C. 761b) and subsection (a) of
+ section 501 (29 U.S.C. 791).
+ (2) The Job Training Partnership Act (29 U.S.C. 1501 et seq.) is amended--
+ (A) by striking out `Veterans' Administration' in paragraph (27)(B) of
+ section 4 (29 U.S.C. 1503) and inserting in lieu thereof `Secretary of
+ Veterans Affairs';
+ (B) by striking out `Veterans' Administration programs' in subsection
+ (c)(10) of section 121 (29 U.S.C. 1531) and inserting in lieu thereof
+ `programs of the Department of Veterans Affairs'; and
+ (C) by striking out `Administrator of Veterans' Affairs' in subsection
+ (b)(2)(B) of section 441 (29 U.S.C. 1721) and inserting in lieu thereof
+ `Secretary of Veterans Affairs'.
+ (l) TITLE 31,  U.S.C- Title 31, United States Code, is amended as follows:
+ (1) Paragraphs (45), (74), (82), and (83) of section 1321(a) are amended
+ by striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (2) Section 3329(c)(1) is amended--
+ (A) by striking out `Administrator of Veterans' Affairs' and inserting in
+ lieu thereof `Secretary of Veterans Affairs'; and
+ (B) by striking out `laws carried out by the Administrator' and inserting
+ in lieu thereof `laws administered by the Secretary of Veterans Affairs'.
+ (3) Section 3330 is amended--
+ (A) by striking out `Administrator of Veterans' Affairs'in subsection
+ (a)(1)(B) and inserting in lieu thereof `Secretary of Veterans Affairs';
+ (B) by striking out `Administrator' in subsections (a)(2), (a)(3), and
+ (d)(1)(A) and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (C) by striking out `laws carried out by the Administrator' in subsections
+ (b) and (c) and inserting in lieu thereof `laws administered by the Secretary
+ of Veterans Affairs'.
+ (4)(A) The heading of section 3330 is amended to read as follows:
+` 3330. Payment of Department of Veterans Affairs checks for the benefit of
+individuals in foreign countries'.
+ (B) The item relating to section 3330 in the table of sections at the
+ beginning of chapter 33 is amended to read as follows:
+`3330. Payment of Department of Veterans Affairs checks for the benefit of
+individuals in foreign countries.'.
+ (m) LAWS CODIFIED IN TITLE 33, U.S.C-
+ (1) Section 9 of the Coast and Geodetic Survey Commissioned Officers' Act of
+ 1948 (33 U.S.C. 853h) is amended by striking out `Veterans' Administration'
+ in subsection (e)(2) and inserting in lieu thereof `Secretary of Veterans
+ Affairs'.
+ (2) The second sentence of the second paragraph of section 16 of the Act
+ of May 22, 1917 (33 U.S.C. 857) is amended by striking out `Veterans'
+ Administration' and inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (3) Section 3 of Public Law 91-621 (33 U.S.C. 857-3) is amended by striking
+ out `Veterans' Administration' in subsection (a)(1) and inserting in lieu
+ thereof `Secretary of Veterans Affairs'.
+ (n) LAWS CODIFIED IN TITLE 36, U.S.C-
+ (1) The Act of July 23, 1947 (36 U.S.C. 67 et seq.) is amended by striking
+ out `Veterans' Administration' in section 3(2) (36 U.S.C. 67b(2)) and in
+ section 9 (36 U.S.C. 67h) and inserting in lieu thereof `Department of
+ Veterans Affairs'.
+ (2) Section 3 of the Act of June 17, 1932 (36 U.S.C. 90c) is amended by
+ striking out `United States Veterans' Administration' and inserting in lieu
+ thereof `Department of Veterans Affairs'.
+ (3) Section 3 of Public Law 85-761 (36 U.S.C. 823) is amended by striking
+ out `Veterans' Administration' in subsection (b)(5) and inserting in lieu
+ thereof `Department of Veterans Affairs'.
+ (4) Section 15 of Public Law 85-769 (36 U.S.C. 865) is amended by striking
+ out `Veterans' Administration' and inserting in lieu thereof `Department
+ of Veterans Affairs'.
+ (5) Section 9 of Public Law 92-93 (36 U.S.C. 1159) is amended by striking
+ out `Veterans' Administration' and inserting in lieu thereof `Department
+ of Veterans Affairs'.
+ (6) Section 3(d) of Public Law 98-314 (36 U.S.C. 2403(d)) is amended by
+ striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (7) Section 3 of Public Law 98-584 (36 U.S.C. 3103) is amended by striking
+ out `Veterans' Administration Hospitals' in paragraph (3) and inserting in
+ lieu thereof `medical facilities of the Department of Veterans Affairs'.
+ (8) Section 3 of Public Law 99-172 (36 U.S.C. 3703) is amended by striking
+ out `Veterans' Administration' in paragraph (5) and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (o) LAWS CODIFIED IN TITLE 40, U.S.C- Section 13 of the Public Buildings
+ Act of 1959 (40 U.S.C. 612) is amended by striking out `Veterans'
+ Administration installations' in paragraph (1)(H) and inserting in lieu
+ thereof `installations of the Department of Veterans Affairs'.
+ (p) LAWS CODIFIED IN TITLE 41, U.S.C- The first section of the Act of June
+ 25, 1938 (41 U.S.C. 46), commonly referred to as the `Wagner-O'Day Act',
+ is amended by striking out `Veterans' Administration' in subsection (a)(1)
+ and inserting in lieu thereof `Department of Veterans Affairs'.
+ (q) LAWS CODIFIED IN TITLE 42, U.S.C-
+ (1) PUBLIC HEALTH SERVICE ACT- The Public Health Service Act (42 U.S.C. 201
+ et seq.) is amended as follows:
+ (A) The following provisions are amended by striking out `Veterans'
+ Administration' and inserting in lieu thereof `Department of Veterans
+ Affairs':
+ (i) Subsection (k)(4)(C) of section 306 (42 U.S.C. 242k).
+ (ii) Subsection (e)(1) of section 544 (42 U.S.C. 290dd-3).
+ (iii) Subsection (e)(1) of section 548 (42 U.S.C. 290ee-3).
+ (B) The following provisions are amended by striking out `Administrator
+ of Veterans' Affairs' and inserting in lieu thereof `Secretary of Veterans
+ Affairs':
+ (i) Subsection (c) of section 341 (42 U.S.C. 257).
+ (ii) Subsection (g) of section 548 (42 U.S.C. 290ee-3).
+ (C) Section 212 (42 U.S.C. 213) is amended by striking out `Veterans'
+ Administration' in subsection (d) and inserting in lieu thereof `Secretary
+ of Veterans Affairs'.
+ (D) Subsection (a)(2)(B) of section 314 (42 U.S.C. 246) is amended--
+ (i) by striking out `Veterans' Administration' and inserting in lieu thereof
+ `Department of Veterans Affairs';
+ (ii) by striking out `Administrator of Veterans' Affairs' and inserting in
+ lieu thereof `Secretary of Veterans Affairs'; and
+ (iii) by striking out `such Administration' and inserting in lieu thereof
+ `such Department'.
+ (E) Section 485 (42 U.S.C. 287c-2) is amended by striking out `Chief Nursing
+ Officer of the Veterans' Administration' in subsection (b)(2)(A) and inserting
+ in lieu thereof `chief nursing officer of the Department of Veterans Affairs'.
+ (2) SAFE DRINKING WATER ACT AMENDMENTS OF 1986- Section 109(c) of the Safe
+ Drinking Water Act Amendments of 1986 (42 U.S.C. 300g-6 note) is amended
+ by striking out `the Administrator of the Veterans' Administration' and
+ inserting in lieu thereof `the Secretary of Veterans Affairs'.
+ (3) SOCIAL SECURITY ACT- The Social Security Act (42 U.S.C. 301 et seq.) is
+ amended as follows:
+ (A) The following provisions are amended by striking out `Veterans'
+ Administration' and inserting in lieu thereof `Department of Veterans
+ Affairs':
+ (i) Subsections (a)(1)(B) and (e)(1)(B) of section 217 (42 U.S.C. 417).
+ (ii) Subsection (b)(5)(A) of section 1128 (42 U.S.C. 1320a-7).
+ (iii) Subsection (h)(1) of section 1814 (42 U.S.C. 1395f).
+ (iv) The heading of subsection (h) of section 1814.
+ (v) Subsection (a)(5)(F) of section 1928 (42 U.S.C. 1396s).
+ (B) The following provisions are amended by striking out `Veterans'
+ Administration' each place it appears and inserting in lieu thereof
+ `Secretary of Veterans Affairs':
+ (i) Subsection (h)(2) of section 228 (42 U.S.C. 428).
+ (ii) Subsection (f)(2) of section 462 (42 U.S.C. 662).
+ (iii) Subsection (a)(1) of section 1133 (42 U.S.C. 1320b-3).
+ (iv) Subsection (h)(2) of section 1814 (42 U.S.C. 1395f).
+ (C) Subparagraph (D) of section 202(t)(4) (42 U.S.C. 402(t)(4)) is amended--
+ (i) by striking out `Administrator of Veterans' Affairs' and inserting in
+ lieu thereof `Secretary of Veterans Affairs'; and
+ (ii) by striking out `if the Administrator' both places it appears and
+ inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (D) Subsection (b)(1) of section 217 (42 U.S.C. 417) is amended by striking
+ out `Veterans' Administration to be payable by it' and inserting in lieu
+ thereof `Secretary of Veterans Affairs to be payable by him'.
+ (E) Subsection (b)(2) of section 217 (42 U.S.C. 417) is amended--
+ (i) in the first sentence--
+ (I) by striking out `Veterans' Administration' the first place it appears
+ and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (II) by striking out `the Veterans' Administration' the second place it
+ appears and inserting in lieu thereof `that Secretary';
+ (ii) in the second sentence, by striking out `Veterans' Administration'
+ and inserting in lieu thereof `Secretary of Veterans Affairs';
+ (iii) in the third sentence--
+ (I) by striking out `If the Veterans' Administration' and inserting in lieu
+ thereof `If the Secretary of Veterans Affairs'; and
+ (II) by striking out `it shall' and inserting in lieu thereof `the Secretary
+ of Veterans Affairs shall';
+ (iv) in the fourth sentence--
+ (I) by striking out `Veterans' Administration' and inserting in lieu thereof
+ `Secretary of Veterans Affairs'; and
+ (II) by striking out `such Administration' and inserting in lieu thereof
+ `that Secretary'; and
+ (v) in the fifth sentence, by striking out `Veterans' Administration'
+ and inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (F) Subsection (a)(1)(L) of section 1866 (42 U.S.C. 1395cc) is amended by
+ striking out `Administrator of Veterans' Affairs' and inserting in lieu
+ thereof `Secretary of Veterans Affairs'.
+ (4) OMNIBUS RECONCILIATION ACT OF 1980- Section 966 of the Omnibus
+ Reconciliation Act of 1980 (42 U.S.C. 632a) is amended--
+ (A) in subsection (c)(6)--
+ (i) by striking out `Veterans' Administration' both places it appears and
+ inserting in lieu thereof `Department of Veterans Affairs'; and
+ (ii) by striking out `Administrator of Veterans' Affairs' and inserting in
+ lieu thereof `Secretary of Veterans Affairs'; and
+ (B) in subsection (e)(1), by striking out `Veterans' Administration' and
+ inserting in lieu thereof `Secretary of Veterans Affairs'.
+ (5) HOUSING ACT OF 1949- Section 535 of the Housing Act of 1949 (42
+ U.S.C. 1490o) is amended--
+ (A) in subsections (a) and (b), by striking out `Administrator of Veterans'
+ Affairs' and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (B) in subsection (c), by striking out `Veterans' Administration' and
+ inserting in lieu thereof `Department of Veterans Affairs'.
+ (6) LANHAM PUBLIC WAR HOUSING ACT- The Act of October 14, 1940 (42 U.S.C. 1501
+ et seq.), popularly known as the `Lanham Public War Housing Act', is amended
+ as follows:
+ (A) Section 601 (42 U.S.C. 1581) is amended by striking out `Veterans'
+ Administration' each place it appears in subsection (d)(1) and inserting
+ in lieu thereof `Secretary of Veterans Affairs'.
+ (B) Section 607 (42 U.S.C. 1587) is amended by striking out `Veterans'
+ Administration' in subsection (b) and inserting in lieu thereof `Secretary
+ of Veterans Affairs'.
+ (7) DEFENSE HOUSING AND COMMUNITY FACILITIES AND SERVICES ACT OF 1951-
+ The Defense Housing and Community Facilities and Services Act of 1951 is
+ amended as follows:
+ (A) Section 302 (42 U.S.C. 1592a) is amended by striking out `Veterans'
+ Administration' in subsections (a) and (c) and inserting in lieu thereof
+ `Secretary of Veterans Affairs'.
+ (B) Section 315(h) (42 U.S.C. 1592n(h)) is amended by striking out `Veterans'
+ Administration' in the last sentence and inserting in lieu thereof `Secretary
+ of Veterans Affairs'.
+ (8) PUBLIC LAW 87-693- The first section of Public Law 87-693 (42 U.S.C. 2651)
+ is amended by striking out `Veterans' Administration' in subsection (c)
+ and inserting in lieu thereof `Department of Veterans Affairs'.
+ (9) OLDER AMERICANS ACT OF 1965- The Older Americans Act of 1965 (42
+ U.S.C. 3001 et seq.) is amended as follows:
+ (A) Section 207 (42 U.S.C. 3018) is amended by striking out `Administrator
+ of the Veterans' Administration' in subsection (b)(3)(D) and inserting in
+ lieu thereof `Secretary of Veterans Affairs'.
+ (B) Section 301 (42 U.S.C. 3021) is amended by striking out `Veterans'
+ Administration' in subsection (b)(2) and inserting in lieu thereof `Department
+ of Veterans Affairs'.
+ (C) Section 402 (42 U.S.C. 3030bb) is amended by striking out `Veterans'
+ Administration' in subsection (b) and inserting in lieu thereof `Department
+ of Veterans Affairs'.
+ (10) HOUSING AND COMMUNITY DEVELOPMENT AMENDMENTS OF 1978- Section 905 of
+ the Housing and Community Development Amendments of 1978 (42 U.S.C. 3541)
+ is amended by striking out `Administrator of Veterans' Affairs' each place
+ it appears in subsection (b) and inserting in lieu thereof `Secretary of
+ Veterans Affairs'.
+ (11) NATIONAL SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION, AND PRIORITIES
+ ACT OF 1976- Section 401 of the National Science and Technology Policy,
+ Organization, and Priorities Act of 1976 (42 U.S.C. 6651) is amended by
+ striking out `Veterans' Administration' in subsection (b) and inserting in
+ lieu thereof `Department of Veterans Affairs'.
+ (12) NATIONAL ENERGY CONSERVATION POLICY ACT- Section 253 of the National
+ Energy Conservation Policy Act (42 U.S.C. 8232) is amended by striking out
+ `Administrator of Veterans' Affairs' in subsection (a) and inserting in
+ lieu thereof `Secretary of Veterans Affairs'.
+ (13) CONSUMER-PATIENT RADIATION HEALTH AND SAFETY ACT OF 1981- The
+ Consumer-Patient Radiation Health and Safety Act of 1981 (42 U.S.C. 10001
+ et seq.) is amended as follows:
+ (A) Section 979 (42 U.S.C. 10004) is amended by striking out `Administrator of
+ Veterans' Affairs' in subsections (a) and (b) and inserting in lieu thereof
+ `Secretary of Veterans Affairs'.
+ (B) Section 982 (42 U.S.C. 10007) is amended by striking out `Administrator
+ of Veterans' Affairs' and inserting in lieu thereof `Secretary of Veterans
+ Affairs'.
+ (C) Section 983(b) (42 U.S.C. 10008(b))--
+ (i) by striking out `(1) The Administrator of Veterans' Affairs' and all that
+ follows through `subtitle 38' and inserting in lieu thereof `The Secretary
+ of Veterans Affairs, through the Chief Medical Director of the Department of
+ Veterans Affairs, shall, to the maximum extent feasible consistent with the
+ responsibilities of such Secretary and Chief Medical Director under title 38';
+ (ii) by striking out `over which the Administrator' and inserting in lieu
+ thereof `over which that Secretary';
+ (iii) by striking out `Administrator' both places it appears in the second
+ sentence and inserting in lieu thereof `Secretary of Veterans Affairs'; and
+ (iv) by striking out paragraphs (2) and (3).
+ (14) ALZHEIMERS'S DISEASE AND RELATED DEMENTIAS SERVICES RESEARCH ACT OF
+ 1986- The Alzheimers's Disease and Related Dementias Services Research Act
+ of 1986 (42 U.S.C. 11201 et seq.) is amended as follows:
+ (A) Section 911 (42 U.S.C. 11211) is amended by striking out `Administrator
+ of Veterans' Affairs (or the designee of such Administrator)' in subsection
+ (a)(11) and inserting in lieu thereof `Secretary of Veterans Affairs (or
+ the designee of such Secretary)'.
+ (B) Section 934 (42 U.S.C. 11261) is amended by striking out `Veterans'
+ Administration' in subsection (b)(1)(A) and inserting in lieu thereof
+ `Department of Veterans Affairs'.
+ (r) TITLE 44, U.S.C- The text of section 503 of title 44, United States Code,
+ is amended to read as follows:
+ `(a) Notwithstanding section 501 of this title, the Secretary of Veterans
+ Affairs may use the equipment described in subsection (b) for printing and
+ binding that the Secretary finds advisable for the use of the Department
+ of Veterans Affairs.
+ `(b) The equipment referred to in subsection (a) is the printing and binding
+ equipment that the various hospitals and homes of the Department of Veterans
+ Affairs use for occupational therapy.'.
+ (s) TITLE 49, U.S.C- Section 10723 of title 49, United States Code, is
+ amended by striking out `Veterans' Administration facility' in subsection
+ (a)(1)(B)(i) and inserting in lieu thereof `facility of the Department of
+ Veterans Affairs'.
+ (t) LAWS CODIFIED IN TITLE 50, U.S.C. APPENDIX- Section 11 of the Military
+ Selective Service Act (50 U.S.C. App. 461) is amended by striking out
+ `Administrator of Veterans' Affairs' and inserting in lieu thereof `Secretary
+ of Veterans Affairs'.
+SEC. 14. TECHNICAL AMENDMENTS TO TITLE 38, UNITED STATES CODE.
+ (a) CHAPTERS 1 AND 3 OF TITLE 38- Part I of title 38, United States Code,
+ is amended as follows:
+ (1) Section 101(21)(C) is amended by redesignating subclauses (a), (b),
+ and (c) of clause (ii) as subclauses (I), (II), and (III), respectively.
+ (2) Section 102 is amended by striking out `(C)' before `For the purposes
+ of' and inserting in lieu thereof `(c)'.
+ (b) CHAPTERS 11 THROUGH 24 OF TITLE 38- Part II of such title is amended
+ as follows:
+ (1) Section 354 is amended--
+ (A) by inserting a comma in the section heading after `place'; and
+ (B) by inserting `(Public Law 98-542; 98 Stat. 2727)' in subsection (a)
+ before the period at the end.
+ (2) Section 402(d) is amended by striking out `Secretary of the Department'
+ and inserting in lieu thereof `Secretary of the department'.
+ (3) Section 412(a) is amended by striking out `201' and inserting in lieu
+ thereof `401'.
+ (4) Section 423 is amended--
+ (A) by striking out `or section 321(b) of title 32,' in the first sentence;
+ and
+ (B) by striking out `1476(a) or 321(b)' in the second sentence.
+ (5) Section 503(a) is amended--
+ (A) in paragraph (8), by striking out `per centum' and inserting in lieu
+ thereof `percent'; and
+ (B) in paragraph (10)(A)--
+ (i) by striking out `Internal Revenue Code of 1954 (26 U.S.C. 6012(a))'
+ and inserting in lieu thereof `Internal Revenue Code of 1986'; and
+ (ii) by striking out `section 143' and inserting in lieu thereof `section
+ 7703'.
+ (6) Section 508(b) is amended by striking out `per centum' and inserting
+ in lieu thereof `percent'.
+ (7) Sections 532(a) and 534(a) are amended--
+ (A) by striking out the semicolon at the end of paragraph (2) and inserting
+ in lieu thereof a period; and
+ (B) by striking out the matter following paragraph (2).
+ (8) Section 601 is amended--
+ (A) in paragraph (2), by striking out `any veteran of the Indian Wars, or';
+ (B) by striking out paragraph (3);
+ (C) by redesignating paragraph (4) as paragraph (3);
+ (D) in paragraph (6)--
+ (i) by striking out `section 612(f)(1)(A)(i)' in subparagraph (A)(i) and
+ inserting in lieu thereof `section 612(a)(5)(A)'; and
+ (ii) by striking out `section 612(f)(1)(A)(ii)' in subparagraph (B)(i)(II)
+ and inserting in lieu thereof `section 612(a)(5)(B)'; and
+ (E) by transferring paragraph (9) within such section so as to appear before
+ paragraph (5) and redesignating such paragraph as paragraph (4).
+ (9) Section 603 is amended--
+ (A) by striking out `section' before `paragraph' in subsection (a)(2)(B);
+ (B) by striking out `section 612(b)(1)(G)' in subsection (a)(7) and inserting
+ in lieu thereof `section 612(b)(1)(F)'; and
+ (C) by inserting `(Public Law 100-322; 102 Stat. 501)' in subsection (c)
+ before the period at the end.
+ (10) Section 610(a)(1)(H) is amended by striking out `the Spanish-American
+ War, the Mexican border period,' and inserting in lieu thereof `the Mexican
+ border period'.
+ (11) Section 612A(b)(1) is amended by striking out `paragraph (1)(A)(ii)
+ of section 612(f)' and inserting in lieu thereof `section 612(a)(5)(B)'.
+ (12) Section 618(c)(3) is amended by inserting `and' after `productivity'.
+ (13) Section 620A(f)(1) is amended by striking out `during the period'
+ before `beginning on'.
+ (14) Section 628(a)(2)(D) is amended by striking out `is (i)' and inserting
+ in lieu thereof `(i) is'.
+ (15) Section 630(a) is amended--
+ (A) by striking out `(1)' after `(a)'; and
+ (B) by redesignating subparagraph (A), clause (i), clause (ii), and
+ subparagraph (B) as paragraph (1), subparagraph (A), subparagraph (B),
+ and paragraph (2), respectively.
+ (16) Section 765 is amended--
+ (A) in paragraph (4), by redesignating clauses (i) and (ii) as clauses (A)
+ and (B), respectively; and
+ (B) in each of paragraphs (8) and (9), by redesignating clauses (a), (b),
+ (c), (d), and (e) as clauses (A), (B), (C), (D), and (E), respectively.
+ (17) Section 770(g) is amended by striking out `the Internal Revenue Code
+ of 1954' in clause (2) of the second sentence and inserting in lieu thereof
+ `the Internal Revenue Code of 1986'.
+ (18) The text of section 774 is amended to read as follows:
+ `(a) There is an Advisory Council on Servicemen's Group Life Insurance. The
+ council consists of--
+ `(1) the Secretary of the Treasury, who is the chairman of the council;
+ `(2) the Secretary of Defense;
+ `(3) the Secretary of Commerce;
+ `(4) the Secretary of Health and Human Services;
+ `(5) the Secretary of Transportation; and
+ `(6) the Director of the Office of Management and Budget.
+Members of the council shall serve without additional compensation.
+ `(b) The council shall meet at least once a year, or more often at the call of
+ the Secretary of Veterans Affairs. The council shall review the operations of
+ the Department under this subchapter and shall advise the Secretary on matters
+ of policy relating to the Secretary's activities under this subchapter.'.
+ (19) Section 783 is amended by striking out `section 14 of title 25,'
+ and inserting in lieu thereof `the Act of February 25, 1933 (25 U.S.C. 14),'.
+ (20) Section 901(d) is amended--
+ (A) by striking out `deems' and inserting in lieu thereof `considers';
+ (B) by striking out the comma after `this section'; and
+ (C) by striking out `, United States Code'.
+ (21) Section 1004(c)(2)(B) is amended by striking out `the date of the
+ enactment of the Veterans' Benefits Improvement and Health-Care Authorization
+ Act of 1986' and inserting in lieu thereof `October 28, 1986'.
+ (22) Section 1010(b) is amended by striking out `the military departments'
+ and inserting in lieu thereof `each military department'.
+ (c) CHAPTERS 30 THROUGH 43 OF TITLE 38- Part III of such title is amended
+ as follows:
+ (1) Section 1415(c) is amended by striking out `the date of the enactment
+ of the National Defense Authorization Act for Fiscal Years 1990 and 1991,'
+ and inserting in lieu thereof `November 29, 1989,'.
+ (2) The item relating to section 1423 in the table of sections at the
+ beginning of chapter 30 is amended by striking out `chapter' and inserting
+ in lieu thereof `subchapter'.
+ (3) Section 1504(b) is amended by striking out `(29 U.S.C. 796)' and
+ inserting in lieu thereof `(29 U.S.C. 796a)'.
+ (4) Section 1517(a) is amended--
+ (A) by inserting `(29 U.S.C. 701 et seq.)' in paragraph (1) after `the
+ Rehabilitation Act of 1973'; and
+ (B) by striking out the second period at the end of paragraph (2)(C).
+ (5) Section 1521(a)(3) is amended by inserting `and Training' after
+ `Veterans' Employment'.
+ (6) Section 1602(1)(A) is amended by inserting a comma after `January 1,
+ 1977' the last place it appears.
+ (7) Section 1792(a) is amended by inserting `and Training' after `Veterans'
+ Employment'.
+ (8) Section 1812 is amended--
+ (A) in subsection (c)(5), by striking out `under this section' and inserting
+ in lieu thereof `for purposes specified in this section'; and
+ (B) in subsection (l), by striking out `, beginning 12 months following
+ October 23, 1970,'.
+ (9) Section 2011(2)(B) is amended by inserting a comma before `except for'.
+ (10) Section 2013 is amended by striking out `the Comprehensive Employment
+ and Training Act' and inserting in lieu thereof `the Job Training Partnership
+ Act (29 U.S.C. 1501 et seq.)'.
+ (d) CHAPTERS 51 THROUGH 61 OF TITLE 38- Part IV of such title (as in effect
+ immediately before the enactment of the Department of Veterans Affairs
+ Health-Care Personnel Act of 1991) is amended as follows:
+ (1) Section 3004 is amended--
+ (A) by striking out `(1)' after `(a)';
+ (B) by striking out `(2)' and inserting in lieu thereof `(b)';
+ (C) by striking out `paragraph (1) of this subsection' and inserting in
+ lieu thereof `subsection (a)'; and
+ (D) by striking out `(A)' and `(B)' and inserting in lieu thereof `(1)'
+ and `(2)', respectively.
+ (2) Section 3101(d) is amended by striking out `the Internal Revenue Code
+ of 1954' and inserting in lieu thereof `the Internal Revenue Code of 1986'.
+ (3) Section 3116 is amended--
+ (A) by striking out `Within ninety days after the date of the enactment of
+ this section, the' in subsection (a)(1) and inserting in lieu thereof `The';
+ (B) by striking out subsection (b); and
+ (C) by redesignating subsection (c) as subsection (b).
+ (4) Section 3305 is amended--
+ (A) in subsection (c), by striking out `the date of the enactment of this
+ section,' in paragraphs (1) and (2) and inserting in lieu thereof `October 7,
+ 1980,'; and
+ (B) in subsection (d)--
+ (i) in the first sentence of paragraph (1), by striking out `Not later
+ than 180 days after the date of the enactment of this section, the' and
+ inserting in lieu thereof `The';
+ (ii) in the second sentence of paragraph (1), by striking out `such enactment
+ date' and inserting in lieu thereof `October 7, 1980,';
+ (iii) in the third sentence of paragraph (1)--
+ (I) by striking out `existing'; and
+ (II) by inserting `in existence on October 7, 1980' after `such programs'; and
+ (iv) in paragraph (2), by striking out `After the date on which such
+ regulations are first prescribed, no activity shall be considered' and
+ inserting in lieu thereof `An activity may not be considered'.
+ (5)(A) Section 3311 is amended to read as follows:
+` 3311. Authority to issue subpoenas
+ `(a) For the purposes of the laws administered by the Secretary, the
+ Secretary, and those employees to whom the Secretary may delegate such
+ authority, to the extent of the authority so delegated, shall have the
+ power to--
+ `(1) issue subpoenas for and compel the attendance of witnesses within a
+ radius of 100 miles from the place of hearing;
+ `(2) require the production of books, papers, documents, and other evidence;
+ `(3) take affidavits and administer oaths and affirmations;
+ `(4) aid claimants in the preparation and presentation of claims; and
+ `(5) make investigations and examine witnesses upon any matter within the
+ jurisdiction of the Department.
+ `(b) Any person required by such subpoena to attend as a witness shall be
+ allowed and paid the same fees and mileage as are paid witnesses in the
+ district courts of the United States.'.
+ (B) The item relating to such section in the table of sections at the
+ beginning of chapter 57 is amended to read as follows:
+`3311. Authority to issue subpoenas.'.
+ (6)(A) Section 3313 is amended by striking out `subpena' both places it
+ appears in the text and inserting in lieu `subpoena'.
+ (B) The heading of such section is amended to read as follows:
+` 3313. Disobedience to subpoena'.
+ (C) The item relating to such section in the table of sections at the
+ beginning of chapter 57 is amended to read as follows:
+`3313. Disobedience to subpoena.'.
+ (7) Sections 3501(a), 3502(a), and 3502(b) are amended by striking out `not
+ more than $2,000' and inserting in lieu thereof `in accordance with title 18'.
+ (8) Section 3503 is amended--
+ (A) by adding at the end of subsection (b) the following: `An apportionment
+ award under this subsection may not be made in any case after September 1,
+ 1959.'; and
+ (B) by striking out subsection (e).
+ (9) Section 3505(c) is amended--
+ (A) by striking out `clauses (1),' and inserting in lieu thereof `clauses
+ (2),';
+ (B) by striking out `Secretary of the Treasury, as may be' and inserting
+ in lieu thereof `Secretary of Transportation, as'; and
+ (C) by striking out `clause (2) of subsection (b) of this section' and
+ inserting in lieu thereof `clause (1) of that subsection'.
+ (e) CHAPTERS 71 THROUGH 76 OF TITLE 38- Part V of such title (as in effect
+ immediately before the enactment of the Department of Veterans Affairs
+ Health-Care Personnel Act of 1991) is amended as follows:
+ (1) The tables of chapters before part I and at the beginning of part V are
+ each amended by inserting `United States' before `Court of Veterans Appeals'.
+ (2) Section 4001(a) is amended--
+ (A) by striking out `There shall be' and inserting in lieu thereof `There is';
+ (B) by inserting a period after `Board')'; and
+ (C) by striking out `under the' and inserting in lieu thereof `The Board
+ is under the'.
+ (3) Sections 4052(a) and 4061(c) are amended by striking out `court' and
+ inserting in lieu thereof `Court'.
+ (4) Section 4054 is amended by redesignating the second subsection (d)
+ as subsection (e).
+ (5) Section 4092(c) is amended by striking out `United States Courts'
+ and inserting in lieu thereof `United States Court'.
+ (6) Section 4097(h)(1)(A)(i) is amended by striking out `subsection (1)'
+ and inserting in lieu thereof `subsection (l)'.
+ (7) Section 4202 is amended by striking out `section 5 of title 41' in
+ paragraph (6) and inserting in lieu thereof `section 3709 of the Revised
+ Statutes (41 U.S.C. 5)'.
+ (8) Section 4209 is amended by striking out `child care' each place it
+ appears and inserting in lieu thereof `child-care'.
+ (9) Section 4322(d) is amended by inserting an open parenthesis before
+ `adjusted in'.
+ (10) Section 4331(b)(4) is amended by striking out `chapter 51' and inserting
+ in lieu thereof `chapter 53'.
+ (f) CHAPTERS 81 THROUGH 85 OF TITLE 38- Part VI of such title (as in effect
+ immediately before the enactment of the Department of Veterans Affairs
+ Health-Care Personnel Act of 1991) is amended as follows:
+ (1) The table of sections at the beginning of chapter 81 is amended--
+ (A) by transferring the item relating to section 5016 (as added by section
+ 205(b) of Public Law 100-322) so as to appear immediately after the item
+ relating to section 5015; and
+ (B) by revising the item relating to section 5035 so that the initial letter
+ of the last word is lower case.
+ (2) Section 5002(d) is amended by striking out `section 5001' and inserting
+ in lieu thereof `section 5011'.
+ (3) Section 5007(a)(2)(B) is amended by striking out the second comma before
+ `are most in need of'.
+ (4) Section 5011A is amended--
+ (A) by striking out `or (g)' in subsection (b)(2)(A); and
+ (B) by striking out subsection (d) and inserting in lieu thereof the
+ following:
+ `(d)(1) The Secretary of Veterans Affairs and the Secretary of Defense shall
+ jointly review plans for the implementation of this section not less often
+ than annually.
+ `(2) Whenever a modification to such plans is agreed to, the Secretaries
+ shall jointly submit to the Committees on Veterans' Affairs of the Senate
+ and House of Representatives a report on such modification. Any such report
+ shall be submitted within 30 days after the modification is agreed to.'.
+ (5) Section 5022(a)(3)(A) is amended--
+ (A) by striking out `State home' and inserting in lieu thereof `State'; and
+ (B) by striking out `the paragraph' and inserting in lieu thereof `this
+ paragraph'.
+ (6) Section 5034 is amended--
+ (A) by inserting `(a)' before `Within six months';
+ (B) by striking out `this section or any amendment to it' and inserting in
+ lieu thereof `any amendment to this section'; and
+ (C) by designating the sentence at the end of paragraph (3) as subsection
+ (b), realigning such sentence so as to appear full measure and indented,
+ and striking out `such standards' at the end of such sentence and inserting
+ in lieu thereof `the standards prescribed under subsection (a)(3)'.
+ (7) Section 5035(a) is amended by striking out `After regulations' and all
+ that follows through `any State' in the first sentence and inserting in
+ lieu thereof `Any State'.
+ (8) Section 5052 is amended--
+ (A) by redesignating paragraphs (a), (b), and (c) as paragraphs (1), (2),
+ and (3), respectively; and
+ (B) by realigning those paragraphs to be indented two ems.
+ (9) Section 5053 is amended  by striking out `hereunder' at the end of
+ subsection (c) and inserting in lieu thereof `under this section'.
+ (10) Section 5070(e) is amended by striking out `section 5012(a)' and
+ inserting in lieu thereof `section 5022(a)'.
+ (11) Section 5202(b) is amended by inserting a comma in the second sentence
+ before `namely,'.
+ (g) TECHNICAL AMENDMENTS TO OTHER VETERANS STATUTES-
+ (1) Effective as of May 20, 1988, section 415(b)(5)(C) of Public Law 100-322
+ (102 Stat. 551) is amended by striking out `paragraph (4)' and inserting
+ in lieu thereof `paragraph (1)(D)'.
+ (2) Effective as of November 18, 1988, the first quoted matter in section
+ 101(b) of Public Law 100-687 (102 Stat. 4106) is amended by inserting `the'
+ after `benefits under'.
+ (3) Section 502 of Public Law 96-128 (93 Stat. 987) is amended by striking out
+ `Internal Revenue Code of 1954' in the first sentence and the last sentence
+ and inserting in lieu thereof `Internal Revenue Code of 1986'.
+SEC. 15. OTHER TECHNICAL CORRECTIONS TO TITLE 38, UNITED STATES CODE.
+ (a) AMENDMENTS- Title 38, United States Code, is amended as follows:
+ (1) Section 1805(a) is amended--
+ (A) by striking out `approved' in the first sentence and inserting in lieu
+ thereof `appraised'; and
+ (B) by striking out `approval)' in the second and inserting in lieu thereof
+ `appraisal)'.
+ (2) Section 1825(c) is amended--
+ (A) in paragraph (2), by striking out `There' and inserting in lieu thereof
+ `Except as provided in paragraph (3) of this subsection, there'; and
+ (B) by adding at the end the following new paragraph:
+ `(3) In the case of a loan described in clause (C) of section 1829(a)(2)
+ of this title, there shall be credited to the Guaranty and Indemnity Fund,
+ in lieu of any amount that would otherwise be credited for such a loan
+ under subparagraph (A) or (B) of paragraph (2) of this subsection--
+ `(A) for each loan closed during fiscal year 1990, an amount equal to 0.25
+ percent of the original amount of the loan for each of the fiscal years
+ 1991 and 1992;
+ `(B) for each loan closed after fiscal year 1990, an amount equal to 0.25
+ percent of the original amount of the loan for the fiscal year in which
+ the loan is closed and for the following fiscal year.'.
+ (3) Section 1829(a) is amended by striking out paragraphs (3) and (4)
+ and redesignating paragraph (5) as paragraph (3).
+ (4) Section 1829(c)(2) is amended by striking out `section 1825(c)(2) (A)
+ or (B) of this title and subsection (a)(3) of this section' and inserting
+ in lieu thereof `clause (A) or (B) of paragraph (2) of section 1825(c)
+ of this title or paragraph (3) of that section'.
+ (5) Section 1833 is amended by striking out the subsection (e) that was
+ added by section 5003(a) of Public Law 101-239.
+ (b) RATIFICATION- (1) Any action of the Secretary of Veterans Affairs or
+ the Secretary of the Treasury--
+ (A) that was taken during the period beginning on October 1, 1990, and
+ ending on the date of the enactment of this Act; and
+ (B) that would have been an action carried out under section 1825(c)(3)
+ of title 38, United States Code, if the amendment made by paragraph (2)
+ of subsection (a) of this section had been made before October 1, 1990,
+is hereby ratified.
+ (2) Any failure to act by the Secretary of Veterans Affairs or the Secretary
+ of the Treasury during such period under section 1829(a)(3) of such title
+ is hereby ratified.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

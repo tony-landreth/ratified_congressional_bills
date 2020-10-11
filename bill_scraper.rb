@@ -8,7 +8,7 @@ require 'nokogiri'
 base_url = "https://www.congress.gov/search?searchResultViewType=expanded&q={%22source%22:%22legislation%22,%22bill-status%22:%22law%22}&pageSize=250&page="
 browser = Watir::Browser.new :firefox
 
-pg_num = 2
+pg_num = 7
 50.times do
   url =  base_url + pg_num.to_s
   browser.goto url
@@ -21,9 +21,12 @@ pg_num = 2
     years = li.text.split("Congress")[1].split("\n")[0].gsub(" (", "").gsub(")","")
     file_name = li.links.first.text.gsub(".", "_")
     path = "./" + years + "/" + file_name + ".txt"
+    next if File.file?(path)
 
     lis << [link_to_txt, path, years]
   end
+
+  puts "********* #{lis.count} to gather from this page ************"
 
   lis.each do |li|
     link_to_txt = li[0]
@@ -32,8 +35,9 @@ pg_num = 2
     puts "Pg num: #{pg_num}  Working on #{path}"
 
     browser.goto link_to_txt
-    sleep(1)
+    sleep(3)
     browser.element(tag_name: "nav", id: "tabs").links[1].click
+    sleep(1)
 
     bill_text_container = browser.element(tag_name: "pre", id: "billTextContainer")
     if bill_text_container.present?

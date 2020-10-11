@@ -1,0 +1,612 @@
+ 
+--H.R.2607--
+H.R.2607
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To authorize activities under the Federal Railroad Safety Act of 1970
+for fiscal
+years 1992 through 1994, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Rail Safety Enforcement and Review Act'.
+SEC. 2. ISSUANCE OF REGULATIONS.
+ Section 202 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431)
+ is amended--
+ (1) in subsection (i)(1), by striking `such rules, regulations, orders,
+ and standards as may be necessary' and inserting in lieu thereof `rules,
+ regulations, orders, and standards';
+ (2) in subsection (n)--
+ (A) by striking `such rules, regulations, orders, and standards as may
+ be necessary' and inserting in lieu thereof `rules, regulations, orders,
+ and standards';
+ (B) by striking `, including' and inserting in lieu thereof `on railroad
+ bridges. At a minimum, the Secretary shall provide';
+ (C) by striking `such as' and inserting in lieu thereof `including'; and
+ (D) by striking `relating to instances when boats shall be used' and
+ inserting in lieu thereof `for the use of boats when work is performed on
+ bridges located over bodies of water';
+ (3) in subsection (o)(1), by striking `such rules, regulations, orders,
+ and standards as may be necessary' and inserting in lieu thereof `rules,
+ regulations, orders, and standards'; and
+ (4) in subsection (q), by striking `such rules, regulations, orders,
+ and standards as may be necessary' and inserting in lieu thereof `rules,
+ regulations, orders, and standards'.
+SEC. 3. REMEDIAL ACTIONS.
+ (a) REGULATIONS- The Secretary of Transportation (hereafter in this
+ Act referred to as the `Secretary') shall issue regulations to require
+ that any railroad notified by the Secretary that assessment of a civil
+ penalty will be recommended for a failure to comply with a provision of
+ the Federal railroad safety laws, as such term is defined in section 212(e)
+ of the Federal Railroad Safety Act of 1970 (45 U.S.C. 441(e)), or any rule,
+ regulation, order, or standard issued under such provision, shall report
+ to the Secretary, within 30 days after the end of the month in which such
+ notification is received, actions taken to remedy that failure.
+ (b) EXPLANATION OF DELAY- Regulations issued under subsection (a) shall
+ provide that, if appropriate remedial actions cannot be taken by a railroad
+ within such 30-day period, such railroad shall submit to the Secretary an
+ explanation of the reasons for any delay.
+ (c) SCHEDULE FOR REGULATIONS- The Secretary shall--
+ (1) within 9 months after the date of enactment of this Act, issue a notice
+ of proposed rulemaking for regulations to implement this section; and
+ (2) within 2 years after the date of enactment of this Act, issue final
+ regulations to implement this section.
+SEC. 4. ENFORCEMENT.
+ (a) MINIMUM AND MAXIMUM PENALTIES- (1) Section 209(b) of the Federal Railroad
+ Safety Act of 1970 (45 U.S.C. 438(b)), section 6 of the Act of March 2, 1893,
+ and section 4 of the Act of April 14, 1910 (45 U.S.C. 6 and 13; commonly
+ referred to as the `Safety Appliance Acts'), section 7 of the Act of May 6,
+ 1910 (45 U.S.C. 43; commonly referred to as the `Accident Reports Act'),
+ section 25(h) of the Interstate Commerce Act (49 U.S.C. App. 26; commonly
+ referred to as the `Signal Inspection Act'), and section 9 of the Act of
+ February 17, 1911 (45 U.S.C. 34; commonly referred to as the `Locomotive
+ Inspection Act') are each amended by striking `$250' and inserting in lieu
+ thereof `$500'.
+ (2) Section 5(a)(1) of the Act of March 4, 1907 (45 U.S.C. 64a(a)(1);
+ commonly referred to as the `Hours of Service Act') is amended by striking
+ `penalty of up to $1,000 per violation, as the Secretary of Transportation
+ deems reasonable,' and inserting in lieu thereof `civil penalty, as the
+ Secretary of Transportation deems reasonable, in an amount not less than
+ $500 nor more than $10,000, except that where a grossly negligent violation
+ or a pattern of repeated violations has created an imminent hazard of death
+ or injury to persons, or has caused death or injury, a penalty of not to
+ exceed $20,000 may be assessed, and'.
+ (3) Section 2 of the Act of May 6, 1910 (45 U.S.C. 39; commonly referred to
+ as the `Accident Reports Act') is amended by striking `one hundred dollars'
+ and inserting in lieu thereof `$500'.
+ (4) Section 3711(c)(2) of title 31, United States Code, is amended by striking
+ `$250' and inserting in lieu thereof `$500'.
+ (b) REGIONAL ENFORCEMENT PILOT PROJECT- (1) The Secretary shall establish a
+ pilot project in more than one region of the Federal Railroad Administration
+ to demonstrate the benefits that may accrue to the Federal railroad safety
+ program from assigning an attorney, who is a Federal employee within the
+ Department of Transportation, to regional offices of the Federal Railroad
+ Administration to perform initial case review, assess penalties, settle
+ cases, and provide legal advice to Federal Railroad Administration regional
+ personnel on enforcement and other issues, as compared to performing such
+ functions at the headquarters level.
+ (2) The pilot program shall be completed within 18 months after the date
+ of enactment of this Act.
+ (3) Within 2 years after the date of enactment of this Act, the Secretary
+ shall submit a report to the Congress describing the results of the pilot
+ program. Factors to be considered in the report shall include--
+ (A) the speed, volume, and effectiveness of civil penalty actions;
+ (B) the efficiency of the delivery of legal advice on safety issues;
+ (C) the financial and other costs of assigning attorneys in each region;
+ (D) the effects on uniformity of enforcement resulting from performing in
+ the regions of the Federal Railroad Administration the functions described
+ in paragraph (1); and
+ (E) the advisability of assigning attorneys to some or all of the regions
+ of the Federal Railroad Administration.
+ (c) CONSIDERATIONS FOR COMPROMISE OF CIVIL PENALTIES- (1) Section 209(c)
+ of the Federal Railroad Safety Act of 1970 (45 U.S.C. 438(c)) is amended
+ by inserting `In compromising a civil penalty assessed under this section,
+ the Secretary shall take into account the nature, circumstances, extent,
+ and gravity of the violation committed, and, with respect to the person found
+ to have committed such violation, the degree of culpability, any history of
+ prior or subsequent offenses, ability to pay, effect on ability to continue
+ to do business, and such other matters as justice may require.' after
+ `referral to the Attorney General.'.
+ (2) Section 5(a)(1) of the Act of March 4, 1907 (45 U.S.C. 64a(a)(1); commonly
+ referred to as the `Hours of Service Act') is amended by adding at the end
+ the following sentence: `In compromising a civil penalty assessed under this
+ section, the Secretary shall take into account the nature, circumstances,
+ extent, and gravity of the violation committed, and, with respect to the
+ person found to have committed such violation, the degree of culpability,
+ any history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+ (3) Section 6 of the Act of March 2, 1893 (45 U.S.C. 6; commonly referred
+ to as the `Safety Appliance Acts') is amended by adding at the end the
+ following sentence: `In compromising a civil penalty assessed under this
+ section, the Secretary shall take into account the nature, circumstances,
+ extent, and gravity of the violation committed, and, with respect to the
+ person found to have committed such violation, the degree of culpability,
+ any history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+ (4) Section 4 of the Act of April 14, 1910 (45 U.S.C. 13; commonly referred
+ to as the `Safety Appliance Acts') is amended by adding at the end the
+ following sentence: `In compromising a civil penalty assessed under this
+ section, the Secretary shall take into account the nature, circumstances,
+ extent, and gravity of the violation committed, and, with respect to the
+ person found to have committed such violation, the degree of culpability,
+ any history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+ (5) Section 7 of the Act of May 6, 1910 (45 U.S.C. 43; commonly referred to
+ as the `Accident Reports Act') is amended by adding at the end the following
+ sentence: `In compromising a civil penalty assessed under this section,
+ the Secretary shall take into account the nature, circumstances, extent,
+ and gravity of the violation committed, and, with respect to the person
+ found to have committed such violation, the degree of culpability, any
+ history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+ (6) Section 25(h) of the Interstate Commerce Act (49 U.S.C. App. 26; commonly
+ referred to as the `Signal Inspection Act') is amended by adding at the end
+ the following sentence: `In compromising a civil penalty assessed under this
+ section, the Secretary shall take into account the nature, circumstances,
+ extent, and gravity of the violation committed, and, with respect to the
+ person found to have committed such violation, the degree of culpability,
+ any history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+ (7) Section 9 of the Act of February 17, 1911 (45 U.S.C. 34; commonly referred
+ to as the `Locomotive Inspection Act') is amended by adding at the end the
+ following sentence: `In compromising a civil penalty assessed under this
+ section, the Secretary shall take into account the nature, circumstances,
+ extent, and gravity of the violation committed, and, with respect to the
+ person found to have committed such violation, the degree of culpability,
+ any history of prior or subsequent offenses, ability to pay, effect on ability
+ to continue to do business, and such other matters as justice may require.'.
+SEC. 5. REVIEW OF AGENCY ACTION.
+ (a) IN GENERAL- (1) Section 202(f) of the Federal Railroad Safety Act of 1970
+ (45 U.S.C. 431(f)) is amended to read as follows:
+ `(f) Any final agency action taken by the Secretary under this title or
+ under any of the other Federal railroad safety laws, as defined in section
+ 212(e) of this title, is subject to judicial review as provided in chapter
+ 7 of title 5, United States Code. Except as provided in section 203(e)
+ of this title, any proceeding to review such final agency action shall
+ be brought in the appropriate court of appeals as provided by and in the
+ manner prescribed in chapter 158 of title 28, United States Code.'.
+ (2) The amendment made by subsection (a) shall apply to final agency actions
+ of the Secretary whenever taken, except that the amendment shall not apply
+ in a case where a civil action has been brought before the date of enactment
+ of this Act.
+ (b) FEDERAL RAILROAD SAFETY LAWS- Section 212(e) of the Federal Railroad
+ Safety Act of 1970 (45 U.S.C. 441(e)) is amended by inserting `the Sanitary
+ Food Transportation Act of 1990 (49 U.S.C. App. 2801 note),' before `and
+ those laws transferred'.
+ (c) TECHNICAL AMENDMENTS- (1) Section 2341(3)(B) of title 28, United States
+ Code, is amended by inserting `or the Secretary of Transportation' after
+ `Secretary of Agriculture'.
+ (2) Section 2342 of title 28, United States Code, is amended--
+ (A) by striking `and' at the end of paragraph (5);
+ (B) by striking the period at the end of paragraph (6) and inserting in
+ lieu thereof `; and'; and
+ (C) by adding at the end the following new paragraph:
+ `(7) all final agency actions described in section 202(f) of the Federal
+ Railroad Safety Act of 1970.'.
+SEC. 6. PROTECTION OF RAILROAD SAFETY ENFORCEMENT PERSONNEL.
+ Section 1114 of title 18, United States Code, is amended by inserting
+ `any officer or employee of the Federal Railroad Administration assigned
+ to perform investigative, inspection, or law enforcement functions,'
+ after `any employee of the Coast Guard assigned to perform investigative,
+ inspection or law enforcement functions,'.
+SEC. 7. POWER BRAKE SAFETY.
+ Section 202 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431)
+ is amended by adding at the end the following new subsection:
+ `(r) POWER BRAKE SAFETY- (1) The Secretary shall conduct a review of the
+ Department of Transportation's rules with respect to railroad power brakes,
+ and, not later than December 31, 1993, shall revise such rules based on
+ such safety data as may be presented during that review.
+ `(2) In carrying out paragraph (1), the Secretary shall, where applicable,
+ prescribe standards regarding dynamic braking equipment.
+ `(3)(A) The Secretary shall require 2-way end of train devices (or devices
+ able to perform the same function) on road trains other than locals, road
+ switchers, or work trains to enable the initiation of emergency braking
+ from the rear of a train. The Secretary shall promulgate rules as soon as
+ possible, but not later than December 31, 1993, requiring such 2-way end
+ of train devices. Such rules shall, at a minimum--
+ `(i) set standards for such devices based on performance;
+ `(ii) prohibit any railroad, on or after the date that is one year after
+ promulgation of such rules, from acquiring any end of train device for use on
+ trains which is not a 2-way device meeting the standards set under clause (i);
+ `(iii) require that such trains be equipped with 2-way end of train devices
+ meeting such standards not later than 4 years after promulgation of such
+ rules; and
+ `(iv) provide that any 2-way end of train device acquired for use on trains
+ before such promulgation shall be deemed to meet such standards.
+ `(B) The Secretary may consider petitions to amend the rules promulgated
+ under subparagraph (A) to allow the use of alternative technologies which
+ meet the same basic performance requirements established by such rules.
+ `(C) In developing the rules required by subparagraph (A), the Secretary
+ shall consider data presented under paragraph (1).
+ `(4) The Secretary may exclude from the rules required by paragraphs (1),
+ (2), and (3) any category of trains or rail operations if the Secretary
+ determines that such an exclusion is in the public interest and is consistent
+ with railroad safety. The Secretary shall make public the reasons for
+ granting any such exclusion. The Secretary shall at a minimum exclude from
+ the requirements of paragraph (3)--
+ `(A) trains that have manned cabooses;
+ `(B) passenger trains with emergency brakes;
+ `(C) trains that operate exclusively on track that is not part of the
+ general railroad system;
+ `(D) trains that do not exceed 30 miles per hour and do not operate on heavy
+ grades, except for any categories of such trains specifically designated
+ by the Secretary; and
+ `(E) trains that operate in a push mode.'.
+SEC. 8. TRACK SAFETY.
+ Section 202 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431), as
+ amended by this Act, is further amended by adding at the end the following
+ new subsection:
+ `(s) TRACK SAFETY- (1) The Secretary shall, within 6 months after the date
+ of enactment of this subsection, initiate a review of the Department of
+ Transportation's standards relating to track safety. Within 2 years after
+ the date of enactment of this subsection, the Secretary shall issue rules,
+ regulations, orders, or standards to revise such track safety standards,
+ considering such safety data as may be presented during that review and
+ the General Accounting Office report submitted under paragraph (3).
+ `(2) The review required under paragraph (1) shall, at a minimum, include--
+ `(A) an evaluation of procedures associated with maintaining and installing
+ continuous welded rail and its attendant structure;
+ `(B) an evaluation of the need for revisions to rules with respect to track
+ subject to exception from track safety standards; and
+ `(C) an evaluation of employee safety.
+ `(3) The General Accounting Office shall conduct a study of the effectiveness
+ of the Secretary's enforcement of track safety standards, with particular
+ attention to recent relevant railroad accident experience and data. Within one
+ year after the date of enactment of this subsection, the General Accounting
+ Office shall submit to the Secretary and Congress a report on the results
+ of such study, together with recommendations for improving such enforcement.'.
+SEC. 9. APPLICABILITY OF RULES, REGULATIONS, ORDERS, AND STANDARDS.
+ (a) AMENDMENT- (1) Section 209(a) of the Federal Railroad Safety Act of
+ 1970 (45 U.S.C. 438(a)) is amended by striking the parenthetical clause and
+ inserting in lieu thereof the following: `(including but not limited to a
+ railroad; any manager, supervisor, official, or other employee or agent of a
+ railroad; any owner, manufacturer, lessor, or lessee of railroad equipment,
+ track, or facilities; any independent contractor providing goods or services
+ to a railroad; and any employee of such owner, manufacturer, lessor, lessee,
+ or independent contractor)'.
+ (2) Section 5(a)(1) of the Act of March 4, 1907 (45 U.S.C. 64a(a)(1);
+ commonly referred to as the `Hours of Service Act') is amended by striking
+ the parenthetical clause and inserting in lieu thereof the following:
+ `(including but not limited to a railroad; any manager, supervisor, official,
+ or other employee or agent of a railroad; any owner, manufacturer, lessor,
+ or lessee of railroad equipment, track, or facilities; any independent
+ contractor providing goods or services to a railroad; and any employee of
+ such owner, manufacturer, lessor, lessee, or independent contractor)'.
+ (3) Section 6 of the Act of March 2, 1893 (45 U.S.C. 6; commonly
+ referred to as the `Safety Appliance Acts') is amended by striking the
+ first parenthetical clause and inserting in lieu thereof the following:
+ `(including but not limited to a railroad; any manager, supervisor, official,
+ or other employee or agent of a railroad; any owner, manufacturer, lessor,
+ or lessee of railroad equipment, track, or facilities; any independent
+ contractor providing goods or services to a railroad; and any employee of
+ such owner, manufacturer, lessor, lessee, or independent contractor)'.
+ (4) Section 3 of the Act of March 2, 1903 (45 U.S.C. 10; commonly referred
+ to as the `Safety Appliance Acts') is amended by striking the parenthetical
+ clause and inserting in lieu thereof the following: `(including but not
+ limited to a railroad; any manager, supervisor, official, or other employee or
+ agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad
+ equipment, track, or facilities; any independent contractor providing goods
+ or services to a railroad; and any employee of such owner, manufacturer,
+ lessor, lessee, or independent contractor)'.
+ (5) Section 4 of the Act of April 14, 1910 (45 U.S.C. 13; commonly
+ referred to as the `Safety Appliance Acts') is amended by striking the
+ first parenthetical clause and inserting in lieu thereof the following:
+ `(including but not limited to a railroad; any manager, supervisor, official,
+ or other employee or agent of a railroad; any owner, manufacturer, lessor,
+ or lessee of railroad equipment, track, or facilities; any independent
+ contractor providing goods or services to a railroad; and any employee of
+ such owner, manufacturer, lessor, lessee, or independent contractor)'.
+ (6) Section 7 of the Act of May 6, 1910 (45 U.S.C. 43; commonly referred to as
+ the `Accident Reports Act') is amended by striking the first parenthetical
+ clause and inserting in lieu thereof the following: `(including but not
+ limited to a railroad; any manager, supervisor, official, or other employee or
+ agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad
+ equipment, track, or facilities; any independent contractor providing goods
+ or services to a railroad; and any employee of such owner, manufacturer,
+ lessor, lessee, or independent contractor)'.
+ (7) Section 25(h) of the Interstate Commerce Act (49 U.S.C. App. 26;
+ commonly referred to as the `Signal Inspection Act') is amended by striking
+ the first parenthetical clause and inserting in lieu thereof the following:
+ `(including but not limited to a railroad; any manager, supervisor, official,
+ or other employee or agent of a railroad; any owner, manufacturer, lessor,
+ or lessee of railroad equipment, track, or facilities; any independent
+ contractor providing goods or services to a railroad; and any employee of
+ such owner, manufacturer, lessor, lessee, or independent contractor)'.
+ (8) Section 9 of the Act of February 17, 1911 (45 U.S.C. 34; commonly
+ referred to as the `Locomotive Inspection Act') is amended by striking
+ the first parenthetical clause and inserting in lieu thereof the following:
+ `(including but not limited to a railroad; any manager, supervisor, official,
+ or other employee or agent of a railroad; any owner, manufacturer, lessor,
+ or lessee of railroad equipment, track, or facilities; any independent
+ contractor providing goods or services to a railroad; and any employee of
+ such owner, manufacturer, lessor, lessee, or independent contractor)'.
+ (b) EFFECT ON OTHER LAW- Nothing in the amendment made by subsection (a)
+ shall affect the authority or responsibilities of the Secretary of Labor
+ under the Occupational Safety and Health Act of 1970.
+SEC. 10. LOCOMOTIVE CRASHWORTHINESS AND WORKING CONDITIONS.
+ Section 202 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 431), as
+ amended by this Act, is further amended by adding at the end the following
+ new subsection:
+ `(t) LOCOMOTIVE CRASHWORTHINESS AND WORKING CONDITIONS- (1) The Secretary
+ shall, within 30 months after the date of enactment of this subsection,
+ complete a rulemaking proceeding to consider prescribing regulations to
+ improve the safety and working conditions of locomotive cabs. Such proceeding
+ shall assess--
+ `(A) the adequacy of Locomotive Crashworthiness Requirements Standard S-580,
+ or any successor standard thereto, adopted by the Association of American
+ Railroads in 1989, in improving the safety of locomotive cabs; and
+ `(B) the extent to which environmental, sanitary, and other working
+ conditions in locomotive cabs affect productivity, health, and the safe
+ operation of locomotives.
+ `(2) In support of the proceeding required under paragraph (1), the
+ Secretary shall conduct research and analysis, including computer modeling
+ and full-scale crash testing, as appropriate, to consider--
+ `(A) the costs and benefits associated with equipping locomotives with--
+ `(i) braced collision posts;
+ `(ii) rollover protection devices;
+ `(iii) deflection plates;
+ `(iv) shatterproof windows;
+ `(v) readily accessible crash refuges;
+ `(vi) uniform sill heights;
+ `(vii) anticlimbers, or other equipment designed to prevent overrides
+ resulting from head-on locomotive collisions;
+ `(viii) equipment to deter post-collision entry of flammable liquids into
+ locomotive cabs;
+ `(ix) any other devices intended to provide crash protection for occupants
+ of locomotive cabs; and
+ `(x) functioning and regularly maintained sanitary facilities; and
+ `(B) the effects on train crews of the presence of asbestos in locomotive
+ components.
+ `(3) If on the basis of the proceeding required under paragraph (1) the
+ Secretary determines not to prescribe regulations, the Secretary shall
+ report to Congress on the reasons for that determination.'.
+SEC. 11. RAILROAD RADIO COMMUNICATIONS.
+ (a) SAFETY INQUIRY- The Secretary shall, within 18 months after the date of
+ enactment of this Act and in consultation with the National Railroad Passenger
+ Corporation, freight and commuter railroads, rail equipment manufacturers,
+ and railroad employees, conduct a safety inquiry regarding the Department
+ of Transportation's railroad radio standards and procedures. At a minimum,
+ such inquiry shall include assessment of--
+ (1) the advantages and disadvantages of requiring that every locomotive
+ (and every caboose, where applicable) be equipped with a railroad voice
+ communications system capable of permitting a person in the locomotive (or
+ caboose) to engage in clear two-way communications with persons on following
+ and leading trains and with train dispatchers located at railroad stations;
+ (2) a requirement that replacement radios be made available at intermediate
+ terminals;
+ (3) the effectiveness of radios in ensuring timely emergency response;
+ (4) the effect of interference and other disruptions of radio communications
+ on safe railroad operation;
+ (5) how advanced communications technologies such as digital radio can be
+ implemented to best enhance the safety of railroad operations;
+ (6) the status of advanced train control systems that are being developed, and
+ the implications of such systems for effective railroad communications; and
+ (7) the need for minimum Federal standards to ensure that such systems
+ provide for positive train separation and are compatible nationwide.
+ (b) REPORT TO CONGRESS- The Secretary shall submit to Congress within 4
+ months after the completion of such inquiry a report on the results of the
+ inquiry along with an identification of appropriate regulatory action and
+ specific plans for taking such action.
+SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
+ Section 214(a) of the Federal Railroad Safety Act of 1970 (45 U.S.C. 444(a))
+ is amended to read as follows:
+ `(a) There are authorized to be appropriated to carry out this Act not to
+ exceed $54,352,000 for fiscal year 1992, $68,283,000 for fiscal year 1993,
+ and $71,690,000 for fiscal year 1994. The Secretary is authorized to request,
+ receive, and use payments from non-Federal sources for expenses incurred in
+ training safety employees of private industry, State and local authorities,
+ or other public authorities, other than State rail safety inspectors
+ participating in training pursuant to section 206 of this title.'.
+SEC. 13. TOTAL QUALITY MANAGEMENT IN SAFETY ASSESSMENTS.
+ In all comprehensive, multidiscipline safety assessments of railroads, the
+ conduct of which is initiated by the Secretary between the date of enactment
+ of this Act and the end of fiscal year 1993, the Secretary shall evaluate
+ the use and effectiveness of total quality management techniques, if any,
+ on the safety practices of the railroad being assessed. The Secretary
+ shall include findings and conclusions based on such evaluation in each
+ such safety assessment report.
+SEC. 14. LOCAL RAIL FREIGHT ASSISTANCE PROGRAM.
+ Section 5(q) of the Department of Transportation Act (49 U.S.C. App. 1654(q))
+ is amended--
+ (1) by inserting `There are authorized to be appropriated to the Secretary
+ for the purposes of this section not to exceed $16,000,000 for fiscal year
+ 1992, $25,000,000 for fiscal year 1993, and $30,000,000 for fiscal year
+ 1994.' after `fiscal year 1991.'; and
+ (2) by striking `any period after September 30, 1991' and inserting in lieu
+ thereof `any period after September 30, 1994'.
+SEC. 15. PROCEDURE FOR DETERMINING ACCIDENT REPORTING THRESHOLD.
+ (a) GENERAL RULE- In establishing or modifying a monetary damage threshold
+ for the reporting of railroad accidents, the Secretary shall base damage
+ cost calculations only on publicly available data--
+ (1) obtained from the Bureau of Labor Statistics; or
+ (2) otherwise obtained from an agency of the Federal Government which has
+ been collected through objective, statistically sound survey methods or
+ which has been previously subject to a public notice and comment process
+ in a Federal agency proceeding.
+ (b) EXCEPTION- If any data necessary for establishing or modifying a threshold
+ described in subsection (a) is not available as provided in subsection (a)
+ (1) or (2), the Secretary may use any other source to obtain such data, but
+ the use of such data shall be subject to public notice and the opportunity
+ for written comment.
+ (c) EFFECTIVE DATE- This section shall apply only to the establishment or
+ modification of a monetary damage threshold occurring after the date of
+ enactment of this Act.
+SEC. 16. REPORT ON THE SAFETY OF HAZARDOUS MATERIALS TRANSPORTATION BY RAIL.
+ Within one year after the date of enactment of this Act, the Secretary
+ shall report to the Committee on Commerce, Science, and Transportation
+ of the Senate and the Committee on Energy and Commerce of the House of
+ Representatives regarding issues presented by the transportation by rail
+ of hazardous materials. The report shall include the following information:
+ (1) For the years 1989, 1990, 1991, and, to the extent available, 1992,
+ relevant data concerning each unintentional release of hazardous materials
+ resulting from rail transportation accidents, including the location of
+ each such release, the probable cause or causes of each such release,
+ and the effects of each such release.
+ (2) For the years 1989, 1990, 1991, and, to the extent available, 1992,
+ a summary of relevant data concerning unintentional releases of hazardous
+ materials resulting from rail transportation incidents.
+ (3) A description of current regulations governing hazardous materials rail
+ car placement (including buffer cars), and an evaluation of their adequacy
+ in light of experience and emerging traffic and commodity patterns.
+ (4) An assessment of regulations, rules, orders, or standards that address
+ rail operations or procedures associated with carrying hazardous materials
+ on rights-of-way having significant grades or high degrees of curvature.
+ (5) An assessment of the effectiveness and associated costs of requiring
+ deployment of wayside bearing failure detectors for trains carrying hazardous
+ materials.
+ (6) An assessment of rail tank car rules, regulations, orders, or standards
+ affecting hazardous materials transportation.
+ (7) The status of all planned or pending regulatory activities of the
+ Secretary (including the status of all regulations required by statute)
+ that seek to address the safe transportation of hazardous materials by rail,
+ and the status of rail hazardous materials enforcement activities.
+ (8) Such other information as the Secretary determines relevant to the safe
+ transportation of hazardous materials by rail.
+SEC. 17. REPORT ON TRAIN DISPATCHING OFFICES.
+ Not later than 18 months after the date of enactment of this Act, the
+ Secretary shall transmit to the Committee on Commerce, Science, and
+ Transportation of the Senate and the Committee on Energy and Commerce of
+ the House of Representatives a report concerning any action that has been
+ taken by the Secretary and the railroad industry to rectify any continuing
+ problems associated with unsatisfactory workplace environments in certain
+ train dispatching offices identified in the National Train Dispatcher Safety
+ Assessment for 1987-1988, published by the Federal Railroad Administration
+ in July 1990. The report shall include recommendations for legislative or
+ regulatory action to ameliorate any such problems that affect safety in
+ train operations.
+SEC. 18. NORTHEAST CORRIDOR SAFETY COMMITTEE.
+ (a) MEETINGS- Section 11(c) of the Rail Safety Improvement Act of 1988
+ (45 U.S.C. 431 note) is amended to read as follows:
+ `(c) The Northeast Corridor Safety Committee shall meet at least once
+ every 2 years to consider matters involving safety on the main line of the
+ Northeast Corridor.'.
+ (b) REPORT- Section 11(d) of the Rail Safety Improvement Act of 1988 (45
+ U.S.C. 431 note) is amended--
+ (1) by striking `Within one year after the date of enactment of this Act'
+ and inserting in lieu thereof `At the beginning of the first session of
+ the 103rd Congress, and biennially thereafter,'; and
+ (2) by adding at the end the following new sentence: `The report shall contain
+ the safety recommendations of the Northeast Corridor Safety Committee and
+ the comments of the Secretary on those recommendations.'.
+ (c) TERMINATION DATE- Section 11 of the Rail Safety Improvement Act of
+ 1988 (45 U.S.C. 431 note) is amended by adding at the end the following
+ new subsection:
+ `(e) The Northeast Corridor Safety Committee shall cease to exist on January
+ 1, 1999, or on such date as the Secretary determines to be appropriate. The
+ Secretary shall notify the Congress in writing of any such determination.'.
+SEC. 19. AIRPORT LEASES.
+ (a) FINDINGS- Congress finds that--
+ (1) there are major airports served by an air carrier that has leased a
+ substantial majority of the airport's gates;
+ (2) the commerce in the region served by such a major airport can be
+ disrupted if the air carrier that leases most of its gates enters bankruptcy
+ and either discontinues or materially reduces service; and
+ (3) it is important that such airports be empowered to continue service in
+ the event of such a disruption.
+ (b) BANKRUPTCY RULES REGARDING UNEXPIRED LEASES- Section 365(d) of title
+ 11, United States Code, is amended by adding at the end the following
+ new paragraphs:
+ `(5) Notwithstanding paragraphs (1) and (4) of this subsection, in a case
+ under any chapter of this title, if the trustee does not assume or reject
+ an unexpired lease of nonresidential real property under which the debtor
+ is an affected air carrier that is the lessee of an aircraft terminal or
+ aircraft gate before the occurrence of a termination event, then (unless the
+ court orders the trustee to assume such unexpired leases within 5 days after
+ the termination event), at the option of the airport operator, such lease
+ is deemed rejected 5 days after the occurrence of a termination event and
+ the trustee shall immediately surrender possession of the premises to the
+ airport operator; except that the lease shall not be deemed to be rejected
+ unless the airport operator first waives the right to damages related to
+ the rejection. In the event that the lease is deemed to be rejected under
+ this paragraph, the airport operator shall provide the affected air carrier
+ adequate opportunity after the surrender of the premises to remove the
+ fixtures and equipment installed by the affected air carrier.
+ `(6) For the purpose of paragraph (5) of this subsection and paragraph
+ (f)(1) of this section, the occurrence of a termination event means, with
+ respect to a debtor which is an affected air carrier that is the lessee of
+ an aircraft terminal or aircraft gate--
+ `(A) the entry under section 301 or 302 of this title of an order for relief
+ under chapter 7 of this title;
+ `(B) the conversion of a case under any chapter of this title to a case
+ under chapter 7 of this title; or
+ `(C) the granting of relief from the stay provided under section 362(a) of
+ this title with respect to aircraft, aircraft engines, propellers, appliances,
+ or spare parts, as defined in section 101 of the Federal Aviation Act of
+ 1958 (49 App. U.S.C. 1301), except for property of the debtor found by the
+ court not to be necessary to an effective reorganization.
+ `(7) Any order entered by the court pursuant to paragraph (4) extending the
+ period within which the trustee of an affected air carrier must assume or
+ reject an unexpired lease of nonresidential real property shall be without
+ prejudice to--
+ `(A) the right of the trustee to seek further extensions within such
+ additional time period granted by the court pursuant to paragraph (4); and
+ `(B) the right of any lessor or any other party in interest to request, at
+ any time, a shortening or termination of the period within which the trustee
+ must assume or reject an unexpired lease of nonresidential real property.
+ `(8) The burden of proof for establishing cause for an extension by an
+ affected air carrier under paragraph (4) or the maintenance of a previously
+ granted extension under paragraph (7) (A) and (B) shall at all times remain
+ with the trustee.
+ `(9) For purposes of determining cause under paragraph (7) with respect to an
+ unexpired lease of nonresidential real property between the debtor that is an
+ affected air carrier and an airport operator under which such debtor is the
+ lessee of an airport terminal or an airport gate, the court shall consider,
+ among other relevant factors, whether substantial harm will result to the
+ airport operator or airline passengers as a result of the extension or the
+ maintenance of a previously granted extension. In making the determination
+ of substantial harm, the court shall consider, among other relevant factors,
+ the level of actual use of the terminals or gates which are the subject of
+ the lease, the public interest in actual use of such terminals or gates,
+ the existence of competing demands for the use of such terminals or gates,
+ the effect of the court's extension or termination of the period of time
+ to assume or reject the lease on such debtor's ability to successfully
+ reorganize under chapter 11 of this title, and whether the trustee of the
+ affected air carrier is capable of continuing to comply with its obligations
+ under section 365(d)(3) of this title.'.
+ (c) PARTIAL ASSIGNMENTS OR ASSUMPTIONS OF LEASES- Section 365(c) of title
+ 11, United States Code, is amended--
+ (1) by striking `or' at the end of paragraph (2);
+ (2) by striking the period at the end of paragraph (3) and inserting in
+ lieu thereof `; or'; and
+ (3) by adding at the end the following new paragraph:
+ `(4) such lease is of nonresidential real property under which the debtor is
+ the lessee of an aircraft terminal or aircraft gate at an airport at which
+ the debtor is the lessee under one or more additional nonresidential leases
+ of an aircraft terminal or aircraft gate and the trustee, in connection with
+ such assumption or assignment, does not assume all such leases or does not
+ assume and assign all of such leases to the same person, except that the
+ trustee may assume or assign less than all of such leases with the airport
+ operator's written consent.'.
+ (d) PROHIBITION OF LEASE ASSIGNMENTS AFTER TERMINATION EVENT- Section
+ 365(f)(1) of title 11, United States Code, is amended by striking the
+ period at the end and inserting in lieu thereof the following: `; except
+ that the trustee may not assign an unexpired lease of nonresidential real
+ property under which the debtor is an affected air carrier that is the
+ lessee of an aircraft terminal or aircraft gate if there has occurred a
+ termination event.'.
+ (e) AFFECTED AIR CARRIER DEFINED- Section 365 of title 11, United States
+ Code, is amended by adding at the end the following new subsection:
+ `(p) In this section, `affected air carrier' means an air carrier, as
+ defined in section 101(3) of the Federal Aviation Act of 1958, that holds
+ 65 percent or more in number of the aircraft gates at an airport--
+ `(1) which is a Large Air Traffic Hub as defined by the Federal Aviation
+ Administration in Report FAA-AP 92-1, February 1992; and
+ `(2) all of whose remaining aircraft gates are leased or under contract on
+ the date of enactment of this subsection.'.
+ (f) APPLICABILITY- The amendments made by this section shall be in effect
+ for the 12-month period that begins on the date of enactment of this
+ Act and shall apply in all proceedings involving an affected air carrier
+ (as defined in section 365(p) of title 11, United States Code, as amended
+ by this section) that are pending during such 12-month period. Not later
+ than 9 months after the date of enactment, the Administrator of the Federal
+ Aviation Administration shall report to the Committee on Commerce, Science,
+ and Transportation and Committee on the Judiciary of the Senate and the
+ Committee on the Judiciary and Committee on Public Works and Transportation
+ of the House of Representatives on whether this section shall apply to
+ proceedings that are commenced after such 12-month period.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

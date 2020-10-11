@@ -1,0 +1,684 @@
+ 
+--H.R.1988--
+H.R.1988
+One Hundred Second Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and ninety-one
+An Act
+To authorize appropriations to the National Aeronautics and Space
+Administration for research and development, space flight, control, and data
+communications, construction of facilities, research and program management,
+and Inspector General, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `National Aeronautics and Space Administration
+ Authorization Act, Fiscal Year 1992'.
+SEC. 2. FINDINGS.
+ Congress finds that--
+ (1) the report of the Advisory Committee on the Future of the United States
+ Space Program has provided a framework within which a consensus on the
+ goals of the space program can be developed;
+ (2) a balanced civil space science program should be funded at a level of
+ at least 20 percent of the aggregate amount in the budget of the National
+ Aeronautics and Space Administration for `Research and development' and
+ `Space flight, control, and data communications';
+ (3) development of an adequate data base for life sciences in space will
+ be greatly enhanced through closer scientific cooperation with the Soviet
+ Union, including active use of manned Soviet space stations;
+ (4) the space program can make substantial contributions to health-related
+ research and should be an integral part of the Nation's health research
+ and development program;
+ (5) Landsat data and the continuation of the Landsat system beyond Landsat 6
+ are essential to the Mission to Planet Earth and other long-term environmental
+ research programs;
+ (6) increased use of defense-related remote sensing data and data technology
+ by civilian agencies and the scientific community can benefit national
+ environmental study and monitoring programs;
+ (7) the generation of trained scientists and engineers through educational
+ initiatives and academic research programs outside of the National Aeronautics
+ and Space Administration is essential to the future of the United States
+ civil space program;
+ (8) the strengthening and expansion of the Nation's space transportation
+ infrastructure, including the enhancement of launch sites and launch site
+ support facilities, are essential to support the full range of the Nation's
+ space-related activities;
+ (9) the aeronautical program contributes to the Nation's technological
+ competitive advantage, and it has been a key factor in maintaining preeminence
+ in aviation over many decades; and
+ (10) the National Aero Space Plane program can have benefits to the military
+ and civilian aviation programs from the new and innovative technologies
+ developed in propulsion systems, aerodynamics, and control systems that
+ could be enormous, especially for high-speed aeronautical and space flight.
+SEC. 3. POLICY.
+ It is the policy of the United States that--
+ (1) the Administrator of the National Aeronautics and Space Administration
+ (hereinafter referred to as the `Administrator'), in planning for national
+ programs in environmental study and human space flight and exploration,
+ should ensure the resiliency of the space infrastructure;
+ (2) a stable and balanced program of civil space science should be planned
+ to minimize future year funding requirements in order to accommodate a
+ steady stream of new initiatives;
+ (3) any new launch system undertaken or jointly undertaken by the National
+ Aeronautics and Space Administration should be based on defined mission
+ and program requirements or national policies established by Congress;
+ (4) in fulfilling the mission of the National Aeronautics and Space
+ Administration to improve the usefulness, performance, speed, safety,
+ and efficiency of space vehicles, the Administrator should establish a
+ program of research and development to enhance the competitiveness and cost
+ effectiveness of commercial expendable launch vehicles; and
+ (5) the National Aeronautics and Space Administration should promote and
+ support efforts to advance scientific understanding by conducting or otherwise
+ providing for research on environmental problems, including global change,
+ ozone depletion, acid precipitation, deforestation, and smog.
+SEC. 4. AUTHORIZATION OF APPROPRIATIONS FOR NASA.
+ (a) RESEARCH AND DEVELOPMENT- There is authorized to be appropriated to the
+ National Aeronautics and Space Administration to become available October 1,
+ 1991, for `Research and development', for the following programs:
+ (1) United States International Space Station Freedom, $2,028,900,000 for
+ fiscal year 1992, of which $18,000,000 is authorized for the design and
+ development of an Assured Crew Return Vehicle.
+ (2) Space transportation capability development, $679,800,000, of which
+ $40,000,000 is authorized for propulsion technology development, and
+ $10,000,000 is authorized for launch vehicle design studies, including
+ single-stage-to-orbit vehicles.
+ (3) Physics and astronomy, $1,104,600,000, of which $3,000,000 is authorized
+ for carrying out scientific programs which have otherwise been eliminated
+ from the Space Station.
+ (4) Life sciences, $163,900,000.
+ (5) Planetary exploration, $299,300,000.
+ (6) Earth science and applications, $756,600,000, of which--
+ (A) $5,000,000 is authorized for the purchase of Landsat data at cost for
+ global change research;
+ (B) $5,000,000 is authorized for the purchase of long-lead parts for a
+ follow-on to Landsat 6;
+ (C) $1,000,000 is authorized for remote sensing data conversion;
+ (D) $3,000,000 is authorized for a pilot study and prototype demonstration
+ to convert remotely-sensed aircraft and satellite data into machine readable
+ form for global change research; and
+ (E) $2,000,000 is authorized for converting Landsat data collected prior
+ to the date of enactment of this Act into a more durable archive medium.
+ (7) Materials processing in space, $120,800,000.
+ (8) Communications, $39,400,000.
+ (9) Information systems, $42,000,000.
+ (10) Technology utilization, $32,000,000.
+ (11) Commercial use of space, $107,000,000.
+ (12) Aeronautical research and technology, $591,200,000.
+ (13) Transatmospheric research and technology, $72,000,000.
+ (14) Space research and technology, $324,800,000, of which $10,000,000 is
+ authorized for a solar dynamics power research and technology development
+ program, including a ground test of the technology, and $10,000,000 for a
+ program of component technology development, validation, and demonstration
+ directed at commercial launch competitiveness.
+ (15) Exploration activities, $34,500,000.
+ (16) Safety, reliability, and quality assurance, $33,600,000.
+ (17) Tracking and data advanced systems, $22,000,000.
+ (18) Academic programs, $64,600,000.
+ (b) SPACE FLIGHT, CONTROL, AND DATA COMMUNICATIONS- There is authorized
+ to be appropriated to the National Aeronautics and Space Administration
+ to become available October 1, 1991, for `Space flight, control, and data
+ communications', for the following programs:
+ (1) Space shuttle production and operational capability, $1,328,900,000, of
+ which $375,000,000 is authorized for the Advanced Solid Rocket Motor program.
+ (2) Space shuttle operations, $2,970,600,000.
+ (3) Launch services, $291,900,000, amounts of which may be expended for
+ the Mobile Satellite launch if--
+ (A) the Administrator, in consultation with the Chairman of the Federal
+ Communications Commission, determines that uncertainties with respect to
+ the status of the American Mobile Satellite Corporation as the sole Federal
+ Communications Commission license holder for mobile satellite services have
+ been resolved; and
+ (B) at least 30 days prior to the obligation of any funds for the Mobile
+ Satellite launch, the Administrator submits to the Committee on Commerce,
+ Science, and Transportation of the Senate and the Committee on Science,
+ Space, and Technology of the House of Representatives a report detailing
+ plans for reimbursement to the National Aeronautics and Space Administration
+ for its portion of launch costs of the Mobile Satellite.
+ (4) Space and ground network, communications, and data systems, $920,900,000.
+ (c) CONSTRUCTION OF FACILITIES- There is authorized to be appropriated to the
+ National Aeronautics and Space Administration to become available October
+ 1, 1991, for `Construction of facilities', including land acquisition,
+ as follows:
+ (1) Construction of Space Station Processing Facility, Kennedy Space Center,
+ $35,000,000.
+ (2) Modification for Earthquake Protection, Downey/Palmdale, California,
+ Johnson Space Center, $4,400,000.
+ (3) Modifications for Safe Haven, Vehicle Assembly Building, High-Bay 2,
+ Kennedy Space Center, $7,500,000.
+ (4) Rehabilitation of Crawlerway, Kennedy Space Center, $3,000,000.
+ (5) Restoration of Shuttle Landing Facility Shoulders, Kennedy Space Center,
+ $4,000,000.
+ (6) Restoration of the High Pressure Gas Facility, Stennis Space Center,
+ $6,500,000.
+ (7) Construction of Addition for Flight Training and Operations, Johnson
+ Space Center, $13,000,000.
+ (8) Construction of Advanced Solid Rocket Motor Program Facilities (various
+ locations), $100,000,000.
+ (9) Modernization of Industrial Area Chilled Water System, Kennedy Space
+ Center, $4,000,000.
+ (10) Rehabilitation and Expansion of Communications Duct Banks, Kennedy
+ Space Center, $1,400,000.
+ (11) Replacement of 15 KV Load Break Switches, Kennedy Space Center,
+ $1,300,000.
+ (12) Repair of Site Water System, White Sands Test Facility, $1,300,000.
+ (13) Replacement of Central Plant Chillers and Boiler, Johnson Space Center,
+ $5,700,000.
+ (14) Modifications to X-Ray Calibration Facility (XRCF), Marshall Space
+ Flight Center, $5,200,000.
+ (15) Restoration and Modernization of High Voltage Distribution System,
+ Goddard Space Flight Center, $7,000,000.
+ (16) Construction of Earth Observing System Data Information System Facility,
+ Goddard Space Flight Center, $17,000,000.
+ (17) Modernization of Main Electrical Substation, Jet Propulsion Laboratory,
+ $5,500,000.
+ (18) Restoration of Utilities, Wallops Flight Facility, $3,500,000.
+ (19) Repair and Modernization of the 12-foot Pressure Wind Tunnel, Ames
+ Research Center, $25,000,000.
+ (20) Upgrade of Outdoor Aerodynamic Research Facility, Ames Research Center,
+ $3,300,000.
+ (21) Modernization of 16-foot Transonic Tunnel, Langley Research Center,
+ $3,400,000.
+ (22) Modifications to the High Pressure Air System, Langley Research Center,
+ $11,700,000.
+ (23) Rehabilitation of Central Air System, Lewis Research Center, $5,600,000.
+ (24) Rehabilitation of Icing Research Tunnel, Lewis Research Center,
+ $2,600,000.
+ (25) Construction of Data Interface Facility, White Sands Test Facility,
+ $4,000,000.
+ (26) Rehabilitation of Tracking and Data Relay Satellite System (TDRSS)
+ Ground Terminal, White Sands Test Facility, $5,700,000.
+ (27) Repair of facilities at various locations, not in excess of $1,000,000
+ per project, $31,700,000.
+ (28) Rehabilitation and modification of facilities at various locations,
+ not in excess of $1,000,000 per project, $34,800,000.
+ (29) Minor construction of new facilities and additions to existing facilities
+ at various locations, not in excess of $750,000 per project, $12,900,000.
+ (30) Environmental compliance and restoration, $36,000,000.
+ (31) Facility planning and design, not otherwise provided for, $34,000,000.
+Notwithstanding the amounts authorized in paragraphs (1) through (31),
+the total amount authorized by this subsection shall not exceed $430,300,000.
+ (d) RESEARCH AND PROGRAM MANAGEMENT- There is authorized to be appropriated
+ to the National Aeronautics and Space Administration to become available
+ October 1, 1991, for `Research and program management', $2,422,300,000.
+ (e) INSPECTOR GENERAL- There is authorized to be appropriated to the National
+ Aeronautics and Space Administration to become available October 1, 1991,
+ for `Inspector General', $14,600,000.
+ (f) USE OF FUNDS FOR CERTAIN CAPITAL ITEMS AND GRANTS- (1) Notwithstanding
+ the provisions of subsection (i), appropriations authorized in this
+ Act for `Research and development' and `Space flight, control, and data
+ communications' may be used--
+ (A) for any items of a capital nature (other than acquisition of land)
+ which may be required at locations other than installations of the National
+ Aeronautics and Space Administration for the performance of research and
+ development contracts; and
+ (B) for grants to nonprofit institutions of higher education, or to nonprofit
+ organizations whose primary purpose is the conduct of scientific research,
+ for purchase or construction of additional research facilities.
+ (2) Title to facilities described in paragraph (1)(B) shall be vested in the
+ United States unless the Administrator determines that the national program
+ of aeronautical and space activities will best be served by vesting title in
+ the grantee institution or organization. Each grant under paragraph (1)(B)
+ shall be made under such conditions as the Administrator shall determine
+ to be required to ensure that the United States will receive therefrom
+ benefits adequate to justify the making of that grant.
+ (3) None of the funds appropriated for `Research and development' and `Space
+ flight, control, and data communications' pursuant to this Act may be used
+ in accordance with this subsection for the construction of any facility, the
+ estimated cost of which, including collateral equipment, exceeds $750,000,
+ unless the Administrator has notified the Committee on Commerce, Science,
+ and Transportation of the Senate and the Committee on Science, Space,
+ and Technology of the House of Representatives of the nature, location,
+ and estimated cost of such facility.
+ (g) AVAILABILITY OF APPROPRIATED AMOUNTS- Appropriations authorized under
+ this section for `Research and development', for `Space flight, control,
+ and data communications', or for `Construction of facilities' may remain
+ available until expended. Appropriations authorized under this section for
+ `Research and program management' for maintenance and operation of facilities
+ and for other services shall remain available through the next fiscal year
+ following the fiscal year for which such amount is appropriated.
+ (h) USE OF FUNDS FOR SCIENTIFIC CONSULTATIONS AND EXTRAORDINARY EXPENSES-
+ Appropriations made pursuant to subsection (d) may be used, but not to
+ exceed $35,000, for scientific consultations or extraordinary expenses upon
+ the approval or authority of the Administrator, and the Administrator's
+ determination shall be final and conclusive upon the accounting officers
+ of the Government.
+ (i) USE OF FUNDS FOR FACILITIES- (1) Except as provided in subsection (f),
+ funds appropriated pursuant to subsections (a), (b), and (d) may be used for
+ the construction of new facilities and additions to, repair of, rehabilitation
+ of, or modification of existing facilities, but only if the cost of each
+ such project, including collateral equipment, does not exceed $200,000.
+ (2) Except as provided in subsection (f), funds appropriated pursuant to
+ subsections (a) and (b) may be used for unforeseen programmatic facility
+ project needs, but only if the cost of each such project, including collateral
+ equipment, does not exceed $750,000.
+ (3) Funds appropriated pursuant to subsection (d) may be used for repair,
+ rehabilitation, or modification of facilities controlled by the General
+ Services Administration, but only if the cost of each project, including
+ collateral equipment, does not exceed $500,000.
+ (j) CRAF/CASSINI MISSION- Section 103(a)(1)(S) of the National Aeronautics
+ and Space Administration Authorization Act, Fiscal Year 1991 (Public Law
+ 101-611; 104 Stat. 3192), is amended--
+ (1) by striking `$1,600,000,000' and inserting in lieu thereof
+ `$1,900,000,000';
+ (2) in clause (i), by striking the semicolon at the end and inserting in
+ lieu thereof `, of which not more than $263,000,000 shall be available for
+ fiscal year 1992;'; and
+ (3) in clause (iii), by striking `$640,000,000' and inserting in lieu thereof
+ `$940,000,000'.
+ (k) TOTAL AUTHORIZATIONS FOR FISCAL YEARS 1993 AND 1994- There is authorized
+ to be appropriated to the National Aeronautics and Space Administration for
+ `Research and development', `Space flight, control, and data communications',
+ `Construction of facilities', `Research and program management', and
+ `Inspector General' a total amount of $15,601,000,000 for fiscal year 1993,
+ and $16,959,000,000, for fiscal year 1994, to remain available until expended.
+ (l) REPROGRAMMING FOR TRANSATMOSPHERIC RESEARCH AND TECHNOLOGY- The
+ Administrator may reprogram up to $67,000,000 of the amount authorized for
+ `Research and development' for fiscal year 1992 to use for the purposes
+ described in subsection (a)(13). No such funds may be obligated until
+ a period of 30 days has passed after the Administrator has notified the
+ Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ of such transfer.
+SEC. 5. CONSTRUCTION OF FACILITIES REPROGRAMMING.
+ Appropriations authorized under section 4(c) (1) through (31)--
+ (1) in the discretion of the Administrator or the Administrator's designee,
+ may be varied upward by 10 percent; or
+ (2) following a report by the Administrator or the Administrator's designee to
+ the Committee on Commerce, Science, and Transportation of the Senate and the
+ Committee on Science, Space, and Technology of the House of Representatives
+ on the circumstances of such action, may be varied upward by 25 percent,
+ to meet unusual cost variations.
+The total amount authorized to be appropriated under section 4(c) (1) through
+(31) shall not be increased as a result of actions authorized under paragraphs
+(1) and (2).
+SEC. 6. SPECIAL REPROGRAMMING AUTHORITY FOR CONSTRUCTION OF FACILITIES.
+ Where the Administrator determines that new developments or scientific
+ or engineering changes in the national program of aeronautical and
+ space activities have occurred; and that such changes require the use
+ of additional funds for the purposes of construction, expansion, or
+ modification of facilities at any location; and that deferral of such action
+ until the enactment of the next authorization Act would be inconsistent
+ with the interest of the Nation in aeronautical and space activities;
+ the Administrator may transfer not to exceed one-half of 1 percent of the
+ funds appropriated pursuant to section 4 (a) and (b) to the `Construction
+ of facilities' appropriation for such purposes. The Administrator may
+ also use up to $10,000,000 of the amounts authorized under section 4(c)
+ for such purposes. The funds so made available pursuant to this section
+ may be expended to acquire, construct, convert, rehabilitate, or install
+ permanent or temporary public works, including land acquisition, site
+ preparation, appurtenances, utilities, and equipment. No such funds may be
+ obligated until a period of 30 days has passed after the Administrator or
+ the Administrator's designee has transmitted to the Committee on Commerce,
+ Science, and Transportation of the Senate and the Committee on Science,
+ Space, and Technology of the House of Representatives a written report
+ describing the nature of the construction, its cost, and the reasons therefor.
+SEC. 7. CONSIDERATION BY COMMITTEES.
+ Notwithstanding any other provision of this Act--
+ (1) no amount appropriated pursuant to this Act may be used for any program
+ deleted by Congress from requests as originally made to either the Committee
+ on Commerce, Science, and Transportation of the Senate or the Committee on
+ Science, Space, and Technology of the House of Representatives;
+ (2) no amount appropriated pursuant to this Act may be used for any program
+ in excess of the amount actually authorized for that particular program by
+ section 4 (a), (b), and (d); and
+ (3) no amount appropriated pursuant to this Act may be used for any program
+ which has not been presented to either such committee,
+unless a period of 30 days has passed after the receipt, by each such
+committee, of notice given by the Administrator or the Administrator's
+designee containing a full and complete statement of the action proposed
+to be taken and the facts and circumstances relied upon in support of
+such proposed action. The National Aeronautics and Space Administration
+shall keep the Committee on Commerce, Science, and Transportation of the
+Senate and the Committee on Science, Space, and Technology of the House of
+Representatives fully and currently informed with respect to all activities
+and responsibilities within the jurisdiction of those committees. Any Federal
+department, agency, or independent establishment shall furnish any information
+requested by either committee relating to any such activity or responsibility.
+SEC. 8. FACILITY MAINTENANCE OFFICE.
+ The Administrator shall create a Facility Maintenance Office within the
+ Office of Management Systems and Facilities which shall plan and direct
+ facilities maintenance management for all National Aeronautics and Space
+ Administration sites.
+SEC. 9. GEOGRAPHICAL DISTRIBUTION.
+ It is the sense of Congress that it is in the national interest that
+ consideration be given to geographical distribution of Federal research funds
+ whenever feasible, and that the National Aeronautics and Space Administration
+ should explore ways and means of distributing its research and development
+ funds whenever feasible.
+SEC. 10. PEACEFUL USES OF SPACE STATION.
+ No civil space station authorized under section 4(a)(1) of this Act may
+ be used to carry or place in orbit any nuclear weapon or any other weapon
+ of mass destruction, to install any such weapon on any celestial body, or
+ to station any such weapon in space in any other manner. This civil space
+ station may be used only for peaceful purposes.
+SEC. 11. TRANSMISSION OF BUDGET ESTIMATES.
+ The Administrator shall, at the time of submission of the President's annual
+ budget, transmit to Congress--
+ (1) a 5-year budget detailing the estimated development costs for each
+ individual program under the jurisdiction of the National Aeronautics and
+ Space Administration for which development costs are expected to exceed
+ $200,000,000; and
+ (2) an estimate of the life-cycle costs associated with each such program.
+SEC. 12. NATIONAL SCHOLARS PROGRAM FEASIBILITY STUDY.
+ (a) STUDY- The Administrator shall conduct a study to evaluate the feasibility
+ of initiating a National Scholars Program, as described under subsection
+ (b), under which a select group of students would receive Federal support
+ for education in mathematics, science, and related disciplines. The purpose
+ of the National Scholars Program would be to help increase the number of
+ Ph.D. recipients in mathematics, science, and related disciplines among
+ the Nation's economically disadvantaged.
+ (b) DESCRIPTION OF NATIONAL SCHOLARS PROGRAM- Under the National Scholars
+ Program referred to in subsection (a), the Administrator would--
+ (1) select economically disadvantaged high school students for participation
+ in science programs supported by the National Aeronautics and Space
+ Administration or other institutions where they would receive specialized
+ instruction in mathematics and science and would learn about practical
+ applications of mathematics and science in the programs and activities of
+ the National Aeronautics and Space Administration; and
+ (2) select economically disadvantaged undergraduate and graduate students
+ as recipients of Federal financial support for predoctoral and doctoral
+ studies in mathematics, science, and related disciplines.
+ (c) CONTENTS OF STUDY- The study required by subsection (a) shall address,
+ among other matters--
+ (1) whether the National Aeronautics and Space Administration could adequately
+ implement the National Scholars Program;
+ (2) different options for structuring the National Scholars Program,
+ including its establishment as a pilot program;
+ (3) the cost of the Program, with annual cost estimates for the first 10
+ years of the Program;
+ (4) alternative funding sources for the Program;
+ (5) the criteria for selecting students for participation in the Program;
+ (6) the appropriate number of students for annual participation in the
+ Program;
+ (7) the organizational location within the National Aeronautics and Space
+ Administration at which the Program and its activities would be administered;
+ (8) the management of the Program;
+ (9) the possible ways in which the Program or its concepts can be extended
+ to other Federal agencies, State agencies, educational institutions, and
+ private organizations;
+ (10) the existence of any current public or private sector programs which
+ are similar to the Program, the benefits and disadvantages of those similar
+ programs, and whether a new program would unnecessarily duplicate current
+ efforts; and
+ (11) the extent to which existing Federal, State, and other science education
+ programs and activities could be used to complement or supplement the Program.
+ (d) REPORT- Within 6 months after the date of enactment of this Act,
+ the Administrator shall submit to the Committee on Commerce, Science,
+ and Transportation of the Senate and the Committee on Science, Space, and
+ Technology of the House of Representatives a report on the results of the
+ study required by subsection (a).
+SEC. 13. COMMERCIAL SPACE LAUNCH ACT AUTHORIZATION.
+ Section 24 of the Commercial Space Launch Act (49 App. U.S.C. 2623) is
+ amended to read as follows:
+`AUTHORIZED APPROPRIATIONS
+ `SEC. 24. There is authorized to be appropriated to the Secretary for fiscal
+ year 1992--
+ `(1) $5,104,000 to carry out this Act; and
+ `(2) $20,000,000 for a program to ensure the resiliency of the Nation's
+ space launch infrastructure, only if a statute is enacted into law to
+ establish that program within the Department of Transportation.'.
+SEC. 14. NATIONAL SPACE COUNCIL AUTHORIZATION.
+ (a) AUTHORIZATION OF APPROPRIATIONS- There are authorized to be appropriated
+ to carry out the activities of the National Space Council established by
+ section 501 of the National Aeronautics and Space Administration Authorization
+ Act, Fiscal Year 1989 (42 U.S.C. 2471), $1,491,000 for fiscal year 1992,
+ of which not more than $1,000 shall be available for official reception and
+ representation expenses. The National Space Council shall reimburse other
+ agencies for not less than one-half of the personnel compensation costs of
+ individuals detailed to it.
+ (b) LANDSAT DATA CONTINUITY- It is the sense of Congress that the National
+ Space Council, in coordination with the Committee on Earth and Environmental
+ Sciences, should establish policy recommendations for carrying out the
+ President's commitment to maintaining the continuity of Landsat data,
+ including plans and programs for a successor to Landsat 6, organizational
+ options and recommendations for acquiring Landsat data for global change
+ research, national security, environmental management, and other governmental
+ purposes, and options and recommendations for encouraging the use of Landsat
+ data by commercial firms and development of the commercial market for such
+ data. Such policy recommendations shall be transmitted in writing to Congress
+ at the time of submission of the President's fiscal year 1993 budget.
+SEC. 15. OFFICE OF SPACE COMMERCE AUTHORIZATION.
+ There are authorized to be appropriated to the Secretary of Commerce for
+ the Office of Space Commerce $491,000 for fiscal year 1992.
+SEC. 16. AMENDMENT OF PUBLIC LAW 100-147.
+ Section 107(a) of the National Aeronautics and Space Administration
+ Authorization Act of 1988 (Public Law 100-147; 101 Stat. 864) is amended--
+ (1) by inserting `, in both then year and constant dollars,' immediately
+ after `estimated cost';
+ (2) by inserting `assembly (including related costs);' immediately after
+ `construction of facilities;'; and
+ (3) by adding at the end the following new sentence: `Each such plan shall
+ also include the estimated cost, in both then year and constant dollars,
+ of operations for at least the first full year of steady operations of the
+ space station.'.
+SEC. 17. MULTIYEAR CONTRACTING.
+ Along with submission to Congress of the National Aeronautics and Space
+ Administration fiscal year 1993 budget request, the Administrator shall--
+ (1) present a study which assesses the usefulness of granting similar
+ authority as under section 2306(h) of title 10, United States Code, to the
+ National Aeronautics and Space Administration; and
+ (2) recommend no less than five candidate programs to be considered by
+ Congress for multiyear contracting.
+SEC. 18. USE OF DOMESTIC PRODUCTS.
+ (a) PROHIBITION AGAINST FRAUDULENT USE OF `MADE IN AMERICA' LABELS- (1) A
+ person shall not intentionally affix a label bearing the inscription `Made
+ in America', or any inscription with that meaning, to any product sold in
+ or shipped to the United States, if that product is not a domestic product.
+ (2) A person who violates paragraph (1) shall not be eligible for any
+ contract for a procurement carried out with amounts authorized under this
+ Act, including any subcontract under such a contract.
+ (b) COMPLIANCE WITH BUY AMERICAN ACT- (1) Except as provided in paragraph
+ (2), the head of each agency which conducts procurements shall ensure that
+ such procurements are conducted in compliance with sections 2 through 4 of
+ the Act of March 3, 1933 (41 U.S.C. 10a through 10c, popularly known as the
+ `Buy American Act').
+ (2) This subsection shall apply only to procurements made for which--
+ (A) amounts are authorized by this Act to be made available; and
+ (B) solicitations for bids are issued after the date of enactment of this Act.
+ (3) The Administrator, before January 1, 1994, shall report to the Congress
+ on procurements covered under this subsection of products that are not
+ domestic products.
+ (c) DEFINITIONS- For the purposes of this section, the term `domestic product'
+ means a product--
+ (1) that is manufactured or produced in the United States; and
+ (2) at least 50 percent of the cost of the articles, materials, or supplies
+ of which are mined, produced, or manufactured in the United States.
+SEC. 19. QUALITY ASSURANCE PERSONNEL.
+ (a) EXCLUSION OF NASA PERSONNEL- A person providing articles to the National
+ Aeronautics and Space Administration under a contract entered into after
+ the date of enactment of this Act may not exclude National Aeronautics and
+ Space Administration quality assurance personnel from work sites except as
+ provided in a contract provision described in subsection (b).
+ (b) CONTRACT PROVISIONS- The National Aeronautics and Space Administration
+ shall not enter into any contract which permits the exclusion of National
+ Aeronautics and Space Administration quality assurance personnel from
+ work sites unless the Administrator has submitted a copy of the provision
+ permitting such exclusion to the Congress at least 60 days before entering
+ into such contract.
+SEC. 20. NATIONAL AERONAUTICS AND SPACE ADMINISTRATION ENDEAVOR TEACHER
+FELLOWSHIP TRUST FUND.
+ (a) ESTABLISHMENT- There is established in the Treasury of the United States,
+ in tribute to the dedicated crew of the Space Shuttle Challenger, a trust fund
+ to be known as the `National Aeronautics and Space Administration Endeavor
+ Teacher Fellowship Trust Fund' (hereafter in this section referred to as the
+ `Trust Fund'). The Trust Fund shall consist of gifts and donations accepted
+ by the National Aeronautics and Space Administration pursuant to section
+ 208 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2476b),
+ as well as other amounts which may from time to time, at the discretion of
+ the Administrator, be transferred from the National Aeronautics and Space
+ Administration Gifts and Donations Trust Fund.
+ (b) INVESTMENT OF TRUST FUND- The Administrator shall direct the Secretary
+ of the Treasury to invest and reinvest funds in the Trust Fund in public
+ debt securities with maturities suitable for the needs of the Trust Fund,
+ and bearing interest at rates determined by the Secretary of the Treasury,
+ taking into consideration the current average market yield on outstanding
+ marketable obligations of the United States of comparable maturities. Interest
+ earned shall be credited to the Trust Fund.
+ (c) PURPOSE- Income accruing from the Trust Fund principal shall be used to
+ create the National Aeronautics and Space Administration Endeavor Teacher
+ Fellowship Program, to the extent provided in advance in appropriation
+ Acts. The Administrator is authorized to use such funds to award fellowships
+ to selected United States nationals who are undergraduate students pursuing
+ a course of study leading to certified teaching degrees in elementary
+ education or in secondary education in mathematics, science, or technology
+ disciplines. Awards shall be made pursuant to standards established for
+ the fellowship program by the Administrator.
+SEC. 21. DRUG AND ALCOHOL TESTING.
+ (a) SHORT TITLE- This section may be cited as the `Civil Space Employee
+ Testing Act of 1991'.
+ (b) FINDINGS- The Congress finds that--
+ (1) alcohol abuse and illegal drug use pose significant dangers to the
+ safety and welfare of the Nation;
+ (2) the success of the United States civil space program is contingent
+ upon the safe and successful development and deployment of the many varied
+ components of that program;
+ (3) the greatest efforts must be expended to eliminate the abuse of alcohol
+ and use of illegal drugs, whether on duty or off duty, by those individuals
+ who are involved in the positions affecting safety, security, and national
+ security;
+ (4) the use of alcohol and illegal drugs has been demonstrated to adversely
+ affect the performance of individuals, and has been proven to have been a
+ critical factor in accidents in the workplace;
+ (5) the testing of uniformed personnel of the Armed Forces has shown that
+ the most effective deterrent to abuse of alcohol and use of illegal drugs
+ is increased testing, including random testing;
+ (6) adequate safeguards can be implemented to ensure that testing for abuse
+ of alcohol or use of illegal drugs is performed in a manner which protects an
+ individual's right of privacy, ensures that no individual is harassed by being
+ treated differently from other individuals, and ensures that no individual's
+ reputation or career development is unduly threatened or harmed; and
+ (7) rehabilitation is a critical component of any testing program for
+ abuse of alcohol or use of illegal drugs, and should be made available to
+ individuals, as appropriate.
+ (c) TESTING PROGRAM- (1) The Administrator shall establish a
+ program applicable to employees of the National Aeronautics and Space
+ Administration whose duties include responsibility for safety-sensitive,
+ security, or national security functions. Such program shall provide for
+ preemployment, reasonable suspicion, random, and post-accident testing for
+ use, in violation of applicable law or Federal regulation, of alcohol or a
+ controlled substance. The Administrator may also prescribe regulations, as
+ the Administrator considers appropriate in the interest of safety, security,
+ and national security, for the conduct of periodic recurring testing of such
+ employees for such use in violation of applicable law or Federal regulation.
+ (2) The Administrator shall, in the interest of safety, security,
+ and national security, prescribe regulations within 18 months after the
+ date of enactment of this Act. Such regulations shall establish a program
+ which requires  National Aeronautics and Space Administration contractors
+ to conduct preemployment, reasonable suspicion, random, and post-accident
+ testing of contractor employees responsible for safety-sensitive, security,
+ or national security functions (as determined by the Administrator) for
+ use, in violation of applicable law or Federal regulation, of alcohol or a
+ controlled substance. The Administrator may also prescribe regulations, as
+ the Administrator considers appropriate in the interest of safety, security,
+ and national security, for the conduct of periodic recurring testing of such
+ employees for such use in violation of applicable law or Federal regulation.
+ (3) In prescribing regulations under the programs required by this subsection,
+ the Administrator shall require, as the Administrator considers appropriate,
+ the suspension, disqualification, or dismissal of any employee to which
+ paragraph (1) or (2) applies, in accordance with the provisions of this
+ section, in any instance where a test conducted and confirmed under this
+ section indicates that such employee has used, in violation of applicable
+ law or Federal regulation, alcohol or a controlled substance.
+ (d) PROHIBITION ON SERVICE- (1) No individual who is determined by the
+ Administrator under this section to have used, in violation of applicable
+ law or Federal regulation, alcohol or a controlled substance after the date
+ of enactment of this Act shall serve as a National Aeronautics and Space
+ Administration employee with responsibility for safety-sensitive, security,
+ or national security functions (as determined by the Administrator), or as
+ a National Aeronautics and Space Administration contractor employee with
+ such responsibility, unless such individual has completed a program of
+ rehabilitation described in subsection (e).
+ (2) Any such individual determined by the Administrator under this section
+ to have used, in violation of applicable law or Federal regulation, alcohol
+ or a controlled substance after the date of enactment of this Act who--
+ (A) engaged in such use while on duty;
+ (B) prior to such use had undertaken or completed a rehabilitation program
+ described in subsection (e);
+ (C) following such determination refuses to undertake such a rehabilitation
+ program; or
+ (D) following such determination fails to complete such a rehabilitation
+ program,
+shall not be permitted to perform the duties which such individual performed
+prior to the date of such determination.
+ (e) PROGRAM FOR REHABILITATION- (1) The Administrator shall prescribe
+ regulations setting forth requirements for rehabilitation programs which at
+ a minimum provide for the identification and opportunity for treatment of
+ employees referred to in subsection (c) in need of assistance in resolving
+ problems with the use, in violation of applicable law or Federal regulation,
+ of alcohol or a controlled substance. Each contractor is encouraged
+ to make such a program available to all of its employees in addition to
+ those employees referred to in subsection (c)(2). The Administrator shall
+ determine the circumstances under which such employees shall be required to
+ participate in such a program. Nothing in this subsection shall preclude any
+ National Aeronautics and Space Administration contractor from establishing
+ a program under this subsection in cooperation with any other such contractor.
+ (2) The Administrator shall establish and maintain a rehabilitation
+ program which at a minimum provides for the identification and opportunity
+ for treatment of those employees of the National Aeronautics and Space
+ Administration whose duties include responsibility for safety-sensitive,
+ security, or national security functions who are in need of assistance in
+ resolving problems with the use of alcohol or controlled substances.
+ (f) PROCEDURES FOR TESTING- In establishing the programs required under
+ subsection (c), the Administrator shall develop requirements which shall--
+ (1) promote, to the maximum extent practicable, individual privacy in the
+ collection of specimen samples;
+ (2) with respect to laboratories and testing procedures for controlled
+ substances, incorporate the Department of Health and Human Services scientific
+ and technical guidelines dated April 11, 1988, and any subsequent amendments
+ thereto, including mandatory guidelines which--
+ (A) establish comprehensive standards for all aspects of laboratory
+ controlled substances testing and laboratory procedures to be applied in
+ carrying out this section, including standards which require the use of the
+ best available technology for ensuring the full reliability and accuracy
+ of controlled substances tests and strict procedures governing the chain
+ of custody of specimen samples collected for controlled substances testing;
+ (B) establish the minimum list of controlled substances for which individuals
+ may be tested; and
+ (C) establish appropriate standards and procedures for periodic review of
+ laboratories and criteria for certification and revocation of certification
+ of laboratories to perform controlled substances testing in carrying out
+ this section;
+ (3) require that all laboratories involved in the controlled substances
+ testing of any individual under this section shall have the capability and
+ facility, at such laboratory, of performing screening and confirmation tests;
+ (4) provide that all tests which indicate the use, in violation of applicable
+ law or Federal regulation, of alcohol or a controlled substance by any
+ individual shall be confirmed by a scientifically recognized method of
+ testing capable of providing quantitative data regarding alcohol or a
+ controlled substance;
+ (5) provide that each specimen sample be subdivided, secured, and labelled
+ in the presence of the tested individual and that a portion thereof be
+ retained in a secure manner to prevent the possibility of tampering, so
+ that in the event the individual's confirmation test results are positive
+ the individual has an opportunity to have the retained portion assayed by
+ a confirmation test done independently at a second certified laboratory
+ if the individual requests the independent test within 3 days after being
+ advised of the results of the initial confirmation test;
+ (6) ensure appropriate safeguards for testing to detect and quantify alcohol
+ in breath and body fluid samples, including urine and blood, through the
+ development of regulations as may be necessary and in consultation with
+ the Department of Health and Human Services;
+ (7) provide for the confidentiality of test results and medical information
+ of employees; and
+ (8) ensure that employees are selected for tests by nondiscriminatory
+ and impartial methods, so that no employee is harassed by being treated
+ differently from other employees in similar circumstances.
+ (g) EFFECT ON OTHER LAWS AND REGULATIONS- (1) No State or local government
+ shall adopt or have in effect any law, rule, regulation, ordinance, standard,
+ or order that is inconsistent with the regulations promulgated under this
+ section.
+ (2) Nothing in this section shall be construed to restrict the discretion
+ of the Administrator to continue in force, amend, or further supplement any
+ regulations issued before the date of enactment of this Act that govern the
+ use of alcohol and controlled substances by National Aeronautics and Space
+ Administration employees with responsibility for safety-sensitive, security,
+ and national security functions (as determined by the Administrator), or
+ by National Aeronautics and Space Administration contractor employees with
+ such responsibility.
+ (h) DEFINITION- For the purposes of this section, the term `controlled
+ substance' means any substance under section 102(6) of the Controlled
+ Substances Act (21 U.S.C. 802(6)) specified by the Administrator.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

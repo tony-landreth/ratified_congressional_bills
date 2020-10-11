@@ -1,0 +1,923 @@
+ 
+--S.2287--
+S.2287
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To authorize appropriations to the National Aeronautics and Space
+Administration for research and development, space flight, control and
+data communications, construction of facilities, and research and program
+management, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the  United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `National Aeronautics and Space Administration
+ Authorization Act, Fiscal Year 1991'.
+TITLE I--NATIONAL AERONAUTICS AND SPACE ADMINISTRATION AUTHORIZATIONS
+SEC. 101. FINDINGS.
+ The Congress finds that--
+ (1) over the next decade, the United States aeronautics and space program will
+ be directed toward major national priorities of understanding, preserving,
+ and enhancing our global environment, hypersonic transportation, human
+ exploration, and emerging technology commercialization;
+ (2) the United States aeronautics and space program is supported by an
+ overwhelming majority of the American people;
+ (3) the United States aeronautics and space program genuinely reflects
+ our Nation's pioneer heritage and demonstrates our quest for leadership,
+ economic growth, and human understanding;
+ (4) the United States space program is based on a solid record of achievement
+ and continues to promote the objective of international cooperation in the
+ exploration of the planets and the universe;
+ (5) the United States aeronautics and space program generates critical
+ technology breakthroughs that benefit our economy through new products and
+ processes that significantly improve our standard of living;
+ (6) the United States aeronautics and space program excites the imagination
+ of every generation and can stimulate the youth of our Nation toward the
+ pursuit of excellence in the fields of science, engineering, and mathematics;
+ (7) the United States aeronautics and space program contributes to the
+ Nation's technological competitive advantage;
+ (8) the United States aeronautics and space program requires a sustained
+ commitment of financial and human resources as a share of the Nation's
+ Gross National Product;
+ (9) the United States space transportation system will depend upon a robust
+ fleet of space shuttle orbiters and expendable and reusable launch vehicles
+ and services;
+ (10) the United States space program will be advanced with an assured
+ funding stream for the development of a permanently manned space station
+ with research, experimentation, observation, servicing, manufacturing,
+ and staging capabilities for lunar and Mars missions;
+ (11) the United States aeronautics program has been a key factor in
+ maintaining preeminence in aviation over many decades;
+ (12) the United States needs to maintain a strong program with respect to
+ transatmospheric research and technology by developing and demonstrating
+ National Aero-Space Plane technology by a mid-decade date certain;
+ (13) the National Aeronautics and Space Administration is primarily
+ responsible for formulating and implementing policy that supports and
+ encourages civil aeronautics and space activities in the United States; and
+ (14) commercial activities of the private sector will substantially and
+ increasingly contribute to the strength of both the United States space
+ program and the national economy.
+SEC. 102. POLICY.
+ It is declared to be national policy that the United States should--
+ (1) rededicate itself to the goal of leadership in critical areas of space
+ science, space exploration, and space commercialization;
+ (2) increase its commitment of budgetary resources for the space program
+ to reverse the dramatic decline in real spending for such program since
+ the achievements of the Apollo moon program;
+ (3) ensure that the long-range environmental impact of all activities
+ carried out under this title are fully understood and considered;
+ (4) promote and support efforts to advance scientific understanding by
+ conducting or otherwise providing for research on environmental problems,
+ including global change, ozone depletion, acid precipitation, deforestation,
+ and smog;
+ (5) forge a robust national space program that maintains a healthy balance
+ between manned and unmanned space activities and recognizes the mutually
+ reinforcing benefits of both;
+ (6) maintain an active fleet of space shuttle orbiters, including an
+ adequate provision of structural spare parts, and evolve the orbiter design
+ to improve safety and performance, and reduce operational costs;
+ (7) sustain a mixed fleet by utilizing commercial expendable launch vehicle
+ services to the fullest extent practicable;
+ (8) support an aggressive program of research and development designed to
+ enhance the United States preeminence in launch vehicles;
+ (9) continue and complete on schedule the development and deployment of a
+ permanently manned, fully capable, space station;
+ (10) develop an advanced, high pressure space suit to support extravehicular
+ activity that will be required for Space Station Freedom when Assembly
+ Complete is reached;
+ (11) establish a dual capability for logistics and resupply of the space
+ station utilizing the space shuttle and expendable launch vehicles, including
+ commercial services if available;
+ (12) continue to seek opportunities for international cooperation in space
+ and fully support international cooperative agreements;
+ (13) maintain an aggressive program of aeronautical research and technology
+ development designed to enhance the United States preeminence in civil and
+ military aviation and improve the safety and efficiency of the United States
+ air transportation system;
+ (14) conduct a program of technology maturation, including flight
+ demonstration in 1997, to prove the feasibility of an air-breathing,
+ hypersonic aerospace plane capable of single-stage-to-orbit operation and
+ hypersonic cruise in the atmosphere;
+ (15) seek innovative technologies that will make possible advanced human
+ exploration initiatives, such as the establishment of a lunar base and the
+ succeeding mission to Mars, and provide high yield technology advancements
+ for the national economy; and
+ (16) enhance the human resources of the Nation and the quality of education.
+SEC. 103. AUTHORIZATION OF APPROPRIATIONS.
+ (a) AUTHORIZATIONS- There are authorized to be appropriated to the National
+ Aeronautics and Space Administration the following amounts:
+ (1) For `research and development', for the following programs:
+ (A) United States International Space Station Freedom:
+ (i) Notwithstanding section 201(a)(1)(A) of the National Aeronautics and
+ Space Administration Authorization Act, Fiscal Year 1989, not more than
+ $2,451,000,000 shall be made available for fiscal year 1991.
+ (ii) Such sums as are necessary from funds authorized for the United States
+ International Space Station Freedom shall be used to initiate a flight
+ test of the solar dynamic power program. By May 1, 1991, the Administrator
+ shall submit to the Committee on Commerce, Science, and Transportation of
+ the Senate and the Committee on Science, Space, and Technology of the House
+ of Representatives a report on the implementation plan for the conduct of
+ a flight test of the solar dynamic power program.
+ (B) Space transportation capability development, $723,400,000 for fiscal
+ year 1991. Of such funds, $10,000,000 shall be used only for supporting
+ heavy-lift launch vehicle studies, which shall include study of commercially
+ developed variants as well as other appropriate concepts, rather than
+ studying Shuttle-derived heavy-lift launch vehicles alone.
+ (C) Physics and astronomy, $985,000,000 for fiscal year 1991.
+ (D) Life sciences, $168,400,000 for fiscal year 1991. Of the amounts
+ authorized for such purposes, by this or any other Act, for fiscal year 1991--
+ (i) $5,000,000 shall be used for the development of payloads for the Lifesat
+ program; and
+ (ii) not less than $400,000 shall be used for space food processing studies
+ and bioregenerative modeling assessments.
+ (E) Planetary exploration, $337,200,000 for fiscal year 1991.
+ (F) Earth sciences:
+ (i) $542,500,000 for fiscal year 1991, of which $5,000,000 shall be made
+ available for the conduct of an advanced sensor technology demonstration
+ program, $35,000,000 shall be made available for Earth Probes, including the
+ development of the Total Ozone Mapping Spectrometer, and $44,300,000 shall
+ be made available for Modeling and Data Analysis, including the development
+ of Earth Science Data Directories and remote sensing data conversion.
+ (ii) Notwithstanding section 201(a)(1)(A) of the National Aeronautics and
+ Space Administration Authorization Act, Fiscal Year 1989, not more than
+ $132,000,000 may be made available for the Earth Observing System Platform
+ for fiscal year 1991.
+ (G) Materials processing in space, $97,300,000 for fiscal year 1991.
+ (H) Communications, $52,800,000 for fiscal year 1991, including not more than
+ $2,000,000 for experimenter ground stations for the Advanced Communications
+ Technology Satellite, but only if the experimenter receiving funds obtains
+ at least an equal amount of funds from sources other than the National
+ Aeronautics and Space Administration.
+ (I) Information systems, $36,800,000 for fiscal year 1991.
+ (J) Technology utilization, $24,400,000 for fiscal year 1991.
+ (K) Commercial use of space, $76,600,000 for fiscal year 1991.
+ (L) Aeronautical research and technology, $537,000,000 for fiscal year 1991.
+ (M) Transatmospheric research and technology, $119,000,000 for fiscal
+ year 1991.
+ (N) Space research and technology, $412,900,000 for fiscal year 1991. Of
+ the amounts authorized for the Exploration Technology program, by this
+ or any other Act, for fiscal year 1991, at least 10 percent shall be for
+ university contracts and grants.
+ (O) Exploration mission studies, $21,000,000 for fiscal year 1991, which
+ is authorized for studies conducted by the National Aeronautics and Space
+ Administration. The Administrator shall provide to the Committee on Science,
+ Space, and Technology of the House of Representatives and the Committee on
+ Commerce, Science, and Transportation of the Senate, by March 15, 1991, a
+ report setting forth the goals for academic participation and enhancement
+ of the educational infrastructure with regard to the human exploration
+ initiative.
+ (P) Safety, reliability, and quality assurance, $33,000,000 for fiscal
+ year 1991.
+ (Q) Tracking and data advanced systems, $20,000,000 for fiscal year 1991.
+ (R) University Space Science and Technology Academic Program, $50,100,000
+ for fiscal year 1991.
+ (S) Comet Rendezvous Asteroid Flyby/Cassini mission, not to exceed
+ $1,600,000,000, for development, launch, and 30 days of operations thereof,
+ to remain available until expended, of which--
+ (i) $490,000,000 shall be available for obligation after October 1, 1989;
+ (ii) an additional $370,000,000 shall be available for obligation 30 days
+ after the submission of a report summarizing the results of a preliminary
+ design review to the Committee on Science, Space, and Technology of the House
+ of Representatives and the Committee on Commerce, Science, and Transportation
+ of the Senate;
+ (iii) an additional $640,000,000 shall be available for obligation 30 days
+ after the submission of a report summarizing the results of a critical design
+ review to the Committee on Science, Space, and Technology of the House of
+ Representatives and the Committee on Commerce, Science, and Transportation
+ of the Senate; and
+ (iv) an additional $100,000,000 shall be available for obligation 30 days
+ after the submission of a report summarizing the results of a spacecraft
+ integration and systems test to the Committee on Science, Space, and
+ Technology of the House of Representatives and the Committee on Commerce,
+ Science, and Transportation of the Senate.
+A cost containment plan shall be submitted to the Committee on Science, Space,
+and Technology of the House of Representatives and the Committee on Commerce,
+Science, and Transportation of the Senate by January 31, 1991, and updated on
+July 31 and January 31 of each succeeding year until such funds are expended.
+ (2) For `space flight, control, and data communications', for the following
+ programs:
+ (A) Shuttle production and operational capability, $1,364,000,000 for fiscal
+ year 1991. Of such funds, $45,000,000 shall be used only for carrying out the
+ safety modifications recommended by the Aerospace Safety Advisory Panel and
+ for such other safety related elements of an Assured Shuttle Availability
+ Program as the Administrator considers necessary. By September 30, 1991,
+ the Administrator shall submit to the Committee on Science, Space, and
+ Technology of the House of Representatives and the Committee on Commerce,
+ Science, and Transportation of the Senate a full report on the completion
+ of planned safety enhancements.
+ (B) Shuttle transportation operations, $2,831,400,000 for fiscal year 1991,
+ of which $4,000,000 shall be made available for the provision of launch
+ services for eligible satellites in accordance with section 6 of the
+ Commercial Space Launch Act Amendments of 1988.
+ (C) Expendable launch vehicle services, $229,200,000 for fiscal year 1991.
+ (D) Space and ground network, communications, and data systems, $868,800,000
+ for fiscal year 1991.
+ (E) Tracking and data relay satellite system, $1,209,732,000 for fiscal year
+ 1991, which shall be used only for the purpose of reducing all outstanding
+ debt to the Federal Financing Bank.
+ (3) For `construction of facilities' for fiscal year 1991 as follows:
+ (A) Construction of Neutral Buoyancy Laboratory, Johnson Space Center,
+ $15,000,000.
+ (B) Construction of Space Station Processing Facility, Kennedy Space Center,
+ $25,000,000.
+ (C) Construction of Addition for Flight Training and Operations, Johnson
+ Space Center, $12,000,000.
+ (D) Rehabilitation of Mission Control Center Power and Control Systems,
+ Johnson Space Center, $8,500,000.
+ (E) Construction of Transporter/Canister Facility, Kennedy Space Center,
+ $5,500,000.
+ (F) Construction of Processing Control Center, Kennedy Space Center,
+ $9,400,000.
+ (G) Replacement of Heating, Ventilating, and Air Conditioning System,
+ Hypergolic Maintenance Facility, Kennedy Space Center, $2,100,000.
+ (H) Replacement of Operations and Checkout Building, West Cooling Tower,
+ Kennedy Space Center, $1,000,000.
+ (I) Restoration of Heavy Equipment Area, Kennedy Space Center, $900,000.
+ (J) Upgrade of Orbiter Processing Facility High Bay Heating, Ventilating,
+ and Air Conditioning System, Kennedy Space Center, $3,300,000.
+ (K) Upgrade of Yundum International Airport to Full Transoceanic Abort
+ Landing Site, Banjul, The Gambia, $3,400,000.
+ (L) Repair of Condensate System, Main Manufacturing Building, Michoud
+ Assembly Facility, $900,000.
+ (M) Construction of Project Engineering Facility, Marshall Space Flight
+ Center, $17,000,000.
+ (N) Restoration of Information and Electronic Systems Laboratory, Marshall
+ Space Flight Center, $4,000,000.
+ (O) Rehabilitation of Hydrogen Transfer Facility, Stennis Space Center,
+ $2,700,000.
+ (P) Restoration of Space Shuttle Main Engine Test Complex `A', Stennis
+ Space Center, $2,800,000.
+ (Q) Construction of Advanced Solid Rocket Motor Program Facilities, including
+ land acquisition, various locations, $92,000,000.
+ (R) Construction of Addition to Site Electrical Substation, Johnson Space
+ Center, $11,000,000.
+ (S) Addition to Administration and Engineering Building, Stennis Space
+ Center, $3,800,000.
+ (T) Construction of Earth Observing System Data Information System Facility,
+ Goddard Space Flight Center, $8,000,000.
+ (U) Construction of Detector Development Laboratory, Goddard Space Flight
+ Center, $3,100,000.
+ (V) Replacement of Chillers, Central Heating/Refrigeration Plant, Goddard
+ Space Flight Center, $4,000,000.
+ (W) Replacement/Modernization of Electrical Power Feeders, Goddard Space
+ Flight Center, $1,500,000.
+ (X) Construction of Observational Instruments Laboratory, Jet Propulsion
+ Laboratory, $14,000,000.
+ (Y) Refurbishment of 25-Foot Space Simulator, Jet Propulsion Laboratory,
+ $13,200,000.
+ (Z) Restoration of Utilities, Wallops Flight Facility, $5,200,000.
+ (AA) Modifications to the High Pressure Air System, Langley Research Center,
+ $12,000,000.
+ (BB) Modifications to Upgrade the 30 x 60-Foot Wind Tunnel, Langley Research
+ Center, $4,000,000.
+ (CC) Repairs to the Tunnel Shell, Unitary Plan Wind Tunnel, Langley Research
+ Center, $2,700,000.
+ (DD) Rehabilitation of Central Air System, Lewis Research Center, $7,900,000.
+ (EE) Rehabilitation of Propulsion Systems Laboratory, Lewis Research Center,
+ $6,000,000.
+ (FF) Construction of Liquid Hydrogen Structural Test Facility, Dryden Flight
+ Research Facility, $18,800,000.
+ (GG) Rehabilitation and Modification of the Electrical Distribution System,
+ Dryden Flight Research Facility, $4,000,000.
+ (HH) Construction of Addition for Light-Alloy Research Laboratory, Langley
+ Research Center, $4,600,000.
+ (II) Construction of Space Experiments Laboratory, Lewis Research Center,
+ $7,100,000.
+ (JJ) Refurbishment of Electric Power Laboratory, Lewis Research Center,
+ $8,900,000.
+ (KK) Construction of 34-Meter Multifrequency Antenna at Goldstone, CA,
+ Jet Propulsion Laboratory, $13,200,000.
+ (LL) Rehabilitation of 70-Meter Antenna Drive Gear Boxes in Australia,
+ Spain, and Goldstone, CA, Jet Propulsion Laboratory, $4,400,000.
+ (MM) Repair of facilities at various locations, not to exceed $1,000,000
+ per project, $30,000,000.
+ (NN) Rehabilitation and modification of facilities at various locations,
+ not to exceed $1,000,000 per project, $34,000,000.
+ (OO) Minor construction of new facilities and additions to existing facilities
+ at various locations, not to exceed $750,000 per project, $11,000,000.
+ (PP) Environmental compliance and restoration, $32,000,000.
+ (QQ) Facility planning and design not otherwise provided for, $28,000,000.
+ (4) For `research and program management', for fiscal year 1991,
+ $2,252,900,000.
+ (5) For `Inspector General', $11,000,000 for fiscal year 1991.
+ (b) LIMITATIONS- (1)(A) Notwithstanding paragraph (4), appropriations
+ authorized under this section for `research and development' and `space
+ flight, control, and data communications' may be used--
+ (i) for any items of a capital nature (other than acquisition of land)
+ which may be required at locations other than installations of the National
+ Aeronautics and Space Administration for the performance of research and
+ development contracts; and
+ (ii) for grants to nonprofit institutions of higher education, or to nonprofit
+ organizations whose primary purpose is the conduct of scientific research,
+ for purchase or construction of additional research facilities.
+Title to facilities described in clause (ii) shall be vested in the United
+States unless the Administrator determines that the national program of
+aeronautical and space activities will best be served by vesting title in
+any such grantee institution or organization. Each such grant shall be made
+under such conditions as the Administrator shall determine to be required
+to ensure that the United States will receive therefrom benefit adequate to
+justify the making of that grant.
+ (B) None of the funds appropriated for `research and development' and `space
+ flight, control, and data communications' pursuant to this title may be used
+ in accordance with this paragraph for the construction of any facility, the
+ estimated cost of which, including collateral equipment, exceeds $750,000,
+ unless the Administrator has notified the Committee on Science, Space, and
+ Technology of the House of Representatives and the Committee on Commerce,
+ Science, and Transportation of the Senate, of the nature, location, and
+ estimated cost of such facility.
+ (2) Any amount appropriated pursuant to this title for `research and
+ development', for `space flight, control and data communications', or for
+ `construction of facilities' may remain available until expended. Any amount
+ appropriated pursuant to this title for `research and program management'
+ for maintenance and operation of facilities, and for other services, shall
+ remain available through the next fiscal year after the fiscal year for
+ which such amount is appropriated.
+ (3) Appropriations made pursuant to subsection (a)(4) may be used, but not
+ to exceed $35,000, for scientific consultations or extraordinary expenses
+ upon the approval or authority of the Administrator, and his determination
+ shall be final and conclusive upon the accounting officers of the Government.
+ (4)(A) Funds appropriated pursuant to subsection (a) (1), (2), and (4)
+ may be used for the construction of new facilities and additions to, or
+ repair, rehabilitation, or modification of existing facilities, but only
+ if the cost of each such project, including collateral equipment, does not
+ exceed $200,000.
+ (B) Funds appropriated pursuant to subsection (a) (1) and (2) may be used
+ for unforeseen programmatic facility project needs, but only if the cost of
+ each such project, including collateral equipment, does not exceed $750,000.
+ (C) Funds appropriated pursuant to subsection (a)(4) may be used for repair,
+ rehabilitation, or modification of facilities controlled by the General
+ Services Administration, but only if the cost of each project, including
+ collateral equipment, does not exceed $500,000.
+SEC. 104. CONSTRUCTION OF FACILITIES REPROGRAMMING.
+ Authorization is hereby granted whereby any of the amounts prescribed in
+ section 103(a)(3) (A) through (QQ)--
+ (1) may be varied upward 10 percent, in the discretion of the Administrator
+ or the Administrator's designee, or
+ (2) following a report by the Administrator or the Administrator's
+ designee to the Committee on Science, Space, and Technology of the House of
+ Representatives and the Committee on Commerce, Science, and Transportation
+ of the Senate, on the circumstances of such, may be varied upward 25 percent
+ to meet unusual cost variations.
+The total cost of all work authorized under paragraphs (1) and (2) shall not
+exceed the total of amounts specified in section 103(a)(3) (A) through (QQ).
+SEC. 105. SPECIAL REPROGRAMMING AUTHORITY FOR CONSTRUCTION OF FACILITIES.
+ Where the Administrator determines that new developments or scientific
+ or engineering changes in the national program of aeronautical and
+ space activities have occurred; and that such changes require the use
+ of additional funds for the purposes of construction, expansion, or
+ modification of facilities at any location; and that deferral of such action
+ until the enactment of the next authorization Act would be inconsistent
+ with the interest of the Nation in aeronautical and space activities; the
+ Administrator may transfer not to exceed one-half of 1 percent of the funds
+ appropriated pursuant to section 103(a) (1) or (2) to the `construction of
+ facilities' appropriation for such purposes. The Administrator may also
+ use up to $10,000,000 of the amounts authorized under section 103(a)(3)
+ for such purposes. The funds so made available pursuant to this section
+ may be expended to acquire, construct, convert, rehabilitate, or install
+ permanent or temporary public works, including land acquisition, site
+ preparation, appurtenances, utilities, and equipment. No such funds may be
+ obligated until a period of 30 days has passed after the Administrator or
+ the Administrator's designee has transmitted to the Committee on Science,
+ Space, and Technology of the House of Representatives and the Committee
+ on Commerce, Science, and Transportation of the Senate a written report
+ describing the nature of the construction, its cost, and the reasons therefor.
+SEC. 106. CONSIDERATION BY COMMITTEES.
+ Notwithstanding any other provision of this title--
+ (1) no amount appropriated pursuant to this title may be used for any program
+ deleted by the Congress from requests as originally made to either the
+ Committee on Science, Space, and Technology of the House of Representatives
+ or the Committee on Commerce, Science, and Transportation of the Senate;
+ (2) no amount appropriated pursuant to this title may be used for any program
+ in excess of the amount actually authorized for that particular program by
+ section 103(a) (1), (2), and (4); and
+ (3) no amount appropriated pursuant to this title may be used for any
+ program which has not been presented to either such committee,
+unless a period of 30 days has passed after the receipt by each such committee
+of notice given by the Administrator containing a full and complete statement
+of the action proposed to be taken and the facts and circumstances relied
+upon in support of such proposed action. The National Aeronautics and Space
+Administration shall keep the Committee on Science, Space, and Technology
+of the House of Representatives and the Committee on Commerce, Science,
+and Transportation of the Senate fully and currently informed with respect
+to all activities and responsibilities within the jurisdiction of those
+committees. Any Federal department, agency, or independent establishment
+shall furnish any information requested by either committee relating to any
+such activity or responsibility.
+SEC. 107. AMENDMENTS TO THE NATIONAL AERONAUTICS AND SPACE ACT OF 1958.
+ Section 203(a) of the National Aeronautics and Space Act of 1958 (42
+ U.S.C. 2473(a)) is amended by--
+ (1) striking `and' at the end of paragraph (2);
+ (2) striking the period at the end of paragraph (3) and inserting in lieu
+ thereof a semicolon; and
+ (3) adding at the end the following new paragraphs:
+ `(4) seek and encourage, to the maximum extent possible, the fullest
+ commercial use of space; and
+ `(5) encourage and provide for Federal Government use of commercially
+ provided space services and hardware, consistent with the requirements of
+ the Federal Government.'.
+SEC. 108. NATIONAL SPACE COUNCIL AUTHORIZATION.
+ (a) There are authorized to be appropriated to carry out the activities
+ of the National Space Council established by section 501 of the National
+ Aeronautics and Space Administration Authorization Act, Fiscal Year 1989 (42
+ U.S.C. 2471), $1,363,000 for fiscal year 1991, of which not more than $1,000
+ shall be available for official reception and representation expenses. The
+ National Space Council shall reimburse other agencies for not less than
+ one-half of the personnel compensation costs of individuals detailed to it.
+ (b) It is the sense of Congress that the National Space Council should, by
+ October 1, 1991, establish guidelines and policy recommendations, including
+ the need for licensing, for the conduct of expendable launch vehicle
+ operations in which a Federal agency assumes substantial responsibility
+ for public safety, indemnification, and administrative oversight.
+SEC. 109. GEOGRAPHICAL DISTRIBUTION.
+ The Administrator shall distribute research and development funds
+ geographically in order to provide the broadest practicable participation
+ in the programs of the National Aeronautics and Space Administration.
+SEC. 110. BUY AMERICAN.
+ (a) GENERAL RULE- The Administrator shall award to a domestic firm a contract
+ that, under the use of competitive procedures, would be awarded to a foreign
+ firm, if--
+ (1) the final product of the domestic firm will be completely assembled in
+ the United States;
+ (2) when completely assembled, not less than 51 percent of the final product
+ of the domestic firm will be domestically produced; and
+ (3) the difference between the bids submitted by the foreign and domestic
+ firms is not more than 6 percent.
+ (b) EXCEPTIONS- This section shall not apply to the extent to which--
+ (1) such applicability would not be in the public interest;
+ (2) compelling national security considerations require otherwise; or
+ (3) the United States Trade Representative determines that such an award
+ would be in violation of the General Agreement on Tariffs and Trade or an
+ international agreement to which the United States is a party.
+ (c) DEFINITIONS- For purposes of this section--
+ (1) the term `domestic firm' means a business entity that is incorporated in
+ the United States and that conducts business operations in the United States;
+ (2) the term `foreign firm' means a business entity not described in paragraph
+ (1).
+ (d) LIMITATION- This section shall apply only to contracts for which--
+ (1) amounts are made available pursuant to this title; and
+ (2) solicitations for bids are issued after the date of enactment of this Act.
+SEC. 111. ADVANCED SOLID ROCKET MOTOR.
+ The Administrator shall submit to the Committee on Science, Space, and
+ Technology of the House of Representatives and the Committee on Commerce,
+ Science, and Transportation of the Senate the following:
+ (1) A report on the projected cost to complete the design, development,
+ and qualification of the Advanced Solid Rocket Motor. The first report shall
+ be submitted by March 1, 1991, and thereafter with the National Aeronautics
+ and Space Administration's annual budget request.
+ (2) An annual report on the projected unit cost of the flight motors.
+ (3) An annual report on the increase in space shuttle payload capability
+ provided by the Advanced Solid Rocket Motor. The report shall include the
+ original baseline payload capability, adjustments to that baseline capability,
+ and the projected payload capability.
+ (4) An assessment by the National Research Council by July 1, 1991, of the
+ quality assurance and testing program that will ensure the achievement of
+ safety and reliability for the Advanced Solid Rocket Motor.
+SEC. 112. SPACE SHUTTLE USE POLICY.
+ (a)(1) It shall be the policy of the United States to use the Space
+ Shuttle for purposes that (i) require the presence of man, (ii) require
+ the unique capabilities of the Space Shuttle or (iii) when other compelling
+ circumstances exist.
+ (2) The term `compelling circumstances' includes, but is not limited to,
+ occasions when the Administrator determines, in consultation with the
+ Secretary of Defense and the Secretary of State, that important national
+ security or foreign policy interests would be served by a Shuttle launch.
+ (3) The policy stated in subsection (a)(1) shall not preclude the use of
+ available cargo space, on a Space Shuttle mission otherwise consistent with
+ the policy described under subsection (a)(1), for the purpose of carrying
+ secondary payloads (as defined by the Administrator) that do not require
+ the presence of man if such payloads are consistent with the requirements of
+ research, development, demonstration, scientific, commercial, and educational
+ programs authorized by the Administrator.
+ (b) The Administrator shall, within six months after the date of enactment
+ of this Act, submit a report to the Congress setting forth a plan for the
+ implementation of the policy described in subsection (a)(1). Such plan
+ shall include--
+ (1) details of the implementation plan;
+ (2) a list of purposes that meet such policy;
+ (3) a proposed schedule for the implementation of such policy;
+ (4) an estimate of the costs to the United States of implementing such
+ policy; and
+ (5) a process for informing the Congress in a timely and regular manner of
+ how the plan is being implemented.
+ (c) At least annually, the Administrator shall submit to the Congress a
+ report certifying that the payloads scheduled to be launched on the space
+ shuttle for the next four years are consistent with the policy set forth in
+ subsection (a)(1). For each payload scheduled to be launched from the space
+ shuttle, which do not require the presence of man, the Administrator shall,
+ in the certified report to Congress, state the specific circumstances
+ which justified the use of the space shuttle. If, during the period
+ between scheduled reports to the Congress, any additions are made to the
+ list of certified payloads intended to be launched from the Shuttle, the
+ Administrator shall inform the Congress of the additions and the reasons
+ therefor within 45 days of the change.
+ (d) The report described in subsection (c) shall also include those National
+ Aeronautics and Space Administration payloads designed solely to fly on
+ the space shuttle which have begun the phase C/D of its development cycle.
+SEC. 113. LIFE SCIENCES STRATEGIC PLAN.
+ (a) FINDINGS- The Congress finds that--
+ (1) the current knowledge base in life sciences is not compatible with the
+ National Aeronautics and Space Administration's current objectives in space,
+ and the National Aeronautics and Space Administration lacks an adequate
+ strategic plan to acquire a knowledge base;
+ (2) it is critical to the success of manned missions in space, be they
+ commercial operations of microgravity laboratories or manned missions to
+ Mars, that a realistic appraisal of the influences of the space environment
+ on biological systems is completed and appropriate protective countermeasures
+ developed;
+ (3) the space station is rapidly approaching design maturity without a
+ corresponding development of the physiological and other human factors
+ knowledge base necessary for long-term manned operations in space; and
+ (4) space station laboratory hardware specifications are being fixed before
+ fully establishing the objectives and requirements for life sciences research.
+ (b) STRATEGIC PLAN- The Administration shall--
+ (1) review currently proposed manned space flight missions in order to--
+ (A) identify the physiological and other human factors knowledge base
+ necessary to determine the human capacity to adapt to and perform
+ effectively in the space environment according to mission requirements,
+ including identifying which life sciences parameters must be measured and
+ which technologies, processes, and procedures must be developed; and
+ (B) develop a schedule indicating when specific components of information,
+ technologies, processes, or procedures identified under subparagraph
+ (A) will need to be acquired or developed in order to verify that human
+ adaptability requirements of manned space flight missions can be achieved;
+ (2) develop a strategy plan for life sciences research and technology
+ development sufficient to accomplish the life sciences knowledge base
+ acquisition schedule developed under paragraph (1)(B), including--
+ (A) a crew certification plan setting acceptable crew conditioning standards
+ for Extended Duration Orbiter operations and verifying countermeasures
+ sufficient to meet those standards before actual Extended Duration Orbiter
+ operations; and
+ (B) a life sciences implementation plan for the design and development of
+ the space station, to be provided as part of the Preliminary Design Review
+ for the space station, and to include crew adaptability standards; and
+ (3) verify the physiological and technical feasibility of the life sciences
+ implementation plan developed under paragraph (2)(B), as part of the Critical
+ Design Review for the space station.
+SEC. 114. STUDY ON INTERNATIONAL COOPERATION IN PLANETARY EXPLORATION.
+ (a) FINDINGS- The Congress finds that--
+ (1) the President on July 20, 1989, established the long-range goal of
+ establishing a lunar base, followed by manned exploration of Mars in the
+ early twenty-first century;
+ (2) the United States and the Soviet Union, in cooperation with other
+ countries, are currently planning further unmanned missions to the Moon
+ and to Mars with the possible goal of landing a human on Mars;
+ (3) a series of international missions to expand human presence beyond Earth
+ orbit would further a spirit of, and follow through on the commitment made in,
+ the 1987 agreement between the Soviet Union and the United States for space
+ cooperation, as well as the successful cooperative agreements the United
+ States has pursued with over one hundred countries since its inception,
+ including the agreement with Japan, Canada, and the European countries for
+ Space Station Freedom;
+ (4) international manned missions beyond Earth orbit could further encourage
+ a cooperative approach in world affairs unrelated to activities in space;
+ (5) international manned missions beyond Earth orbit could save the individual
+ nations involved tens of billions of dollars over national missions; and
+ (6) a multilateral effort for manned missions to establish a lunar colony,
+ a Mars mission, and any other missions that have the goal of establishing
+ human presence beyond Earth's orbit and possibly landing a human on Mars
+ would lead to greater understanding of our universe and greater sensitivity
+ to our own planet.
+ (b) STUDY- The National Space Council shall conduct a study on International
+ Cooperation in Planetary Exploration (hereafter in this section referred
+ to as the `study').
+ (c) PURPOSE OF STUDY- The purpose of the study is--
+ (1) to develop an inventory of technologies and intentions of all national
+ space agencies with regard to lunar and planetary exploration, both manned
+ and unmanned;
+ (2) to seek ways, through direct communication with appropriate officials
+ of other nations or otherwise, to enhance the planning and exchange of
+ information and data among the United States, the Soviet Union, European
+ countries, Canada, Japan, and other interested countries with respect to
+ unmanned projects beyond Earth orbit, in anticipation of later international
+ manned missions to the Moon and to other bodies, including the possible
+ goal of an international manned mission to Mars;
+ (3) to prepare a detailed proposal that most efficiently uses the resources
+ of the national space agencies in cooperative endeavors to establish human
+ presence beyond Earth orbit;
+ (4) to develop priority goals that accomplish unmet needs that could not
+ be achieved by any individual country;
+ (5) to explore the possibilities of international unmanned probes to the
+ Moon and Mars, and the possibilities for international manned missions
+ beyond Earth's orbit; and
+ (6) to devise strategies for such cooperation that would prevent the unwanted
+ transfer of technology.
+In developing the inventory under paragraph (1), and in preparing the detailed
+proposal under paragraph (3), consideration shall be given to the potential
+contributions of commercial providers of space goods and services.
+ (d) REPORT- The National Space Council shall, within one year after the
+ date of the enactment of this Act, prepare and submit to Congress a report--
+ (1) outlining a preliminary strategy for cooperation among the United
+ States, the Soviet Union, European countries, Canada, Japan, and other
+ interested countries, based on their respective national strengths, with
+ respect to unmanned projects beyond Earth orbit, in anticipation of later
+ international manned missions to the Moon and to other bodies, including
+ the possible goal of an international manned mission to Mars;
+ (2) including a conceptual design of a possible international manned mission,
+ in coordination with the preliminary strategy referred to in paragraph (1),
+ with target dates and a breakdown of responsibilities by nation;
+ (3) containing an inventory of planned and anticipated missions, manned
+ and unmanned, that are being considered by national space agencies and
+ commercial providers of space goods and services; and
+ (4) containing an inventory of space exploration  technologies that either--
+ (A) are not immediately available in the United States but are available
+ from other nations; or
+ (B) are available in the United States but are available from other nations
+ in equal or superior form.
+SEC. 115. OFFICE OF SPACE COMMERCE.
+ (a) AUTHORIZATION- There are authorized to be appropriated to the Secretary
+ of Commerce for the Office of Space Commerce, $487,000 for fiscal year 1991.
+ (b) REPORT TO CONGRESS- Commencing in fiscal year 1992, and every fiscal
+ year thereafter, the Secretary of Commerce shall submit to the Committee
+ on Commerce, Science, and Transportation of the Senate and the Committee on
+ Science, Space, and Technology of the House of Representatives a report of
+ the activities of the Office of Space Commerce, including planned programs
+ and expenditures.
+SEC. 116. NATIONAL AERO-SPACE PLANE PROGRAM.
+ (a) NATIONAL AERO-SPACE PLANE PROGRAM- The Secretary of Defense (hereafter
+ in this section referred to as the `Secretary') and the Administrator shall
+ jointly pursue on a high priority basis a National Aero-Space Plane program
+ whose objective shall be the development and demonstration, by 1997, of
+ a primarily air breathing single-stage-to-orbit and long range hypersonic
+ cruise research flight vehicle. The program shall be a research program,
+ and to the extent practicable technological information developed shall be
+ transferred to the military and to the domestic civil aviation and other
+ private industries.
+ (b) MANAGEMENT PLAN-
+ (1) The Secretary and the Adminstrator shall jointly develop a management
+ plan for the program established under subsection (a), which shall include
+ goals, major tasks, anticipated schedules, organizational structure, funding
+ profiles, details of the respective responsibilities of the Secretary and
+ the Administrator, and resource procurement strategies.
+ (2) The management plan developed pursuant to paragraph (1) shall be submitted
+ to the Congress within 120 days after the date of enactment of this Act.
+SEC. 117. COMMERCIAL SPACE LAUNCH ACT AMENDMENTS.
+ (a) AUTHORIZATION- Section 24 of the Commercial Space Launch Act (49
+ U.S.C. App. 2623) is amended by adding at the end thereof the following:
+ `There are authorized to be appropriated to the Secretary to carry out this
+ Act $4,517,000 for fiscal year 1991, of which $250,000 shall be made available
+ for the provision of launch services for eligible satellites in accordance
+ with section 6 of the Commercial Space Launch Act Amendments of 1988.'.
+ (b) ACQUISITION BY STATE GOVERNMENTS- Section 15(a) of the Commercial
+ Space Launch Act (49 U.S.C. App. 2614(a)) is amended by inserting `and
+ State governments' after `by the private sector'.
+ (c) CONGRESSIONAL FINDINGS- Section 2 of the Commercial Space Launch Act
+ (49 U.S.C. App. 2601) is amended--
+ (1) by striking `and' at the end of paragraph (6);
+ (2) by striking the period at the end of paragraph (7) and inserting in
+ lieu thereof a semicolon; and
+ (3) by adding at the end the following new paragraphs;
+ `(8) space transportation, including the establishment and operation of
+ launch sites and complementary facilities, the provision of launch services,
+ the establishment of support facilities, and the provision of support
+ services, is an important element of the Nation's transportation system,
+ and in connection with the commerce of the United States there is a need
+ to develop a strong space transportation infrastructure with significant
+ private sector involvement; and
+ `(9) the participation of State governments in encouraging and facilitating
+ private sector involvement in space-related activity, particularly through
+ the establishment of space transportation-related infrastructure, including
+ launch sites, complementary facilities, and launch site support facilities,
+ is in the national interest and is of significant public benefit.'.
+ (d) CONGRESSIONAL STATEMENT OF PURPOSE- Section 3 of the Commercial Space
+ Launch Act (49 U.S.C. App. 2602) is amended--
+ (1) by striking `and' at the end of paragraph (2);
+ (2) by striking the period at the end of paragraph (3) and inserting in
+ lieu thereof `; and'; and
+ (3) by inserting at the end the following new paragraph:
+ `(4) to facilitate the strengthening and expansion of the United States
+ space transportation infrastructure, including the enhancement of United
+ States launch sites, as well as launch site support facilities, with Federal,
+ State, and private sector involvement, to support the full range of United
+ States space-related activities.'.
+ (e) GENERAL RESPONSIBILITIES OF SECRETARY- Section 5(a) of the Commercial
+ Space Launch Act (49 U.S.C. App. 2604(a)) is amended--
+ (1) by striking `and' at the end of paragraph (1);
+ (2) by striking the period at the end of paragraph (2) and inserting in
+ lieu thereof `; and';
+ (3) by adding at the end the following new paragraph:
+ `(3) work to facilitate private sector involvement in commercial space
+ transportation activity, and to promote public-private partnerships involving
+ the Federal Government, State governments, and the private sector to build,
+ expand, modernize, or operate space launch infrastructure.'.
+SEC. 118. SPACE DEBRIS.
+ (a) FINDINGS- The Congress finds that--
+ (1) if space users fail to act soon to reduce their contribution to debris
+ in space, orbital debris could severely restrict the use of some orbits
+ within a decade;
+ (2) the lack of adequate data on the orbital distribution and size of debris
+ will continue to hamper efforts to reduce the threat that debris poses to
+ spacecraft; and
+ (3) existing international treaties and agreements are inadequate for
+ minimizing the generation of orbital debris or controlling its effects.
+ (b) SENSE OF CONGRESS- It is the sense of Congress that the goal of United
+ States policy should be that--
+ (1) the space related activities of the United States should be conducted
+ in a manner that does not increase the amount of orbital space debris; and
+ (2) the United States should engage other spacefaring Nations to develop an
+ agreement on the conduct of space activities that ensures that the amount
+ of orbital space debris is not increased.
+SEC. 119. SUPPORT FOR SPACE SHUTTLE ORBITER PRODUCTION LINE.
+ The Administrator is authorized to expend excess funds appropriated for
+ orbiter production under section 101(g) of the joint resolution entitled
+ `Joint Resolution making continuing appropriations for the fiscal year
+ 1987, and for other purposes' (100 Stat. 3341-242) to maintain the space
+ shuttle orbiter production line and related production lines of orbiter
+ subcontractors.
+SEC. 120. INDUSTRIAL APPLICATION CENTERS.
+ In any agreement entered into by the National Aeronautics and Space
+ Administration for an Industrial Application Center, the center shall be
+ allowed to retain all client income without any deductions from appropriated
+ funds received or to be received by that center.
+SEC. 121. USERS' ADVISORY GROUP.
+ (a) ESTABLISHMENT- (1) The National Space Council shall establish a Users'
+ Advisory Group composed of non-Federal representatives of industries and
+ other persons involved in aeronautical and space activities.
+ (2) The Vice President shall name a chairman of the Users' Advisory Group.
+ (3) The National Space Council shall from time to time, but not less than
+ once a year, meet with the Users' Advisory Group.
+ (4) The function of the Users' Advisory Group shall be to ensure that the
+ interests of industries and other non-Federal entities involved in space
+ activities, including in particular commercial entities, are adequately
+ represented in the National Space Council.
+ (5) The Users' Advisory Group may be assisted by personnel detailed to the
+ National Space Council.
+ (b) EXEMPTION- The Users' Advisory Group shall not be subject to section
+ 14(a)(2) of the Federal Advisory Committee Act.
+SEC. 122. SCIENTIFIC BALLOON LAUNCH SITE.
+ The Administrator may purchase approximately 8 acres within section 16,
+ Township 3 North, Range 26 East, N.M.P.M., De Baca County, New Mexico,
+ to use as a balloon launching facility.
+SEC. 123. PEACEFUL USES OF SPACE STATION.
+ No civil space station authorized under section 103(a)(1) of this Act may
+ be used to carry or place in orbit any nuclear weapon or any other weapon
+ of mass destruction, to install any such weapon on any celestial body, or
+ to station any such weapon in space in any other manner. This civil space
+ station may be used only for peaceful purposes.
+SEC. 124. SMALL BUSINESS INNOVATION RESEARCH PROGRAM.
+ The Administrator may utilize up to 5 percent of the funds provided for
+ the Small Business Innovation Research Program for program management and
+ promotional activities.
+SEC. 125. PROPULSION STRATEGIC ASSESSMENT.
+ By July 1, 1991, the Administrator shall submit to the Committee on Science,
+ Space, and Technology of the House of Representatives and the Committee on
+ Commerce, Science, and Transportation of the Senate an assessment by the
+ National Research Council of the requirements, benefits, technological
+ feasibility, and roles of Earth-to-orbit propulsion system options that
+ could be developed in support of the national space program including the
+ assembly and operation of the Space Station and potential space activities
+ beyond the year 2000.
+SEC. 126. NATIONAL CIVIL REMOTE-SENSING ADVISORY COMMITTEE.
+ Not later than 90 days after the date of enactment of this Act, the Director
+ of the Office of Science and Technology Policy shall report to the Congress
+ on the advisability of establishing a permanent National Civil Remote-Sensing
+ Advisory Committee. The report should address concerns related to national
+ security, conflict of interest, and duplication of existing authorities. In
+ preparing the report, the Director shall assess the effectiveness of a
+ National Civil Remote-Sensing Advisory Committee comprised of interested
+ private-sector persons (including remote-sensing data users, data vendors,
+ technology developers, system operators, information management and
+ telecommunications specialists, and social scientists) which would--
+ (1) provide advice and policy recommendations to the President,
+ the President's Science Advisor, the National Aeronautics and Space
+ Administration, the National Oceanic and Atmospheric Administration, and
+ relevant committees of the Congress on the development of a national civil
+ remote-sensing policy that would be responsive to both user needs and global
+ developments, in terms of--
+ (A) coordinating land, oceanic, and atmospheric remote-sensing systems,
+ including ground stations;
+ (B) coordinating research and development, applications, and commercial
+ remote-sensing activities;
+ (C) fostering effective integration of satellite, aerial, and in situ
+ data; and
+ (D) assessing current institutional arrangements for the management,
+ exploitation, and sharing of both real-time and archived data;
+ (2) provide recommendations on the conduct of cooperative test and
+ applications demonstration projects designed to manage environmental
+ pollution and the use of natural resources; and
+ (3) coordinate with the  United States Global Change Research Program on
+ issues of mutual concern.
+SEC. 127. DEFINITION.
+ For purposes of this title, the term `Administrator' means the Administrator
+ of the National Aeronautics and Space Administration.
+TITLE II--LAUNCH SERVICES PURCHASE
+SEC. 201. SHORT TITLE.
+ This title may be cited as the `Launch Services Purchase Act of 1990'.
+SEC. 202. FINDINGS.
+ The Congress finds that--
+ (1) the United States commercial launch industry is technically capable of
+ providing reliable and cost efficient access to space and is an essential
+ component of national efforts to assure access to space for Government and
+ commercial users;
+ (2) the Federal Government should encourage, facilitate, and promote the
+ United States commercial launch industry, including the development and
+ enhancement of commercial launch facilities, in order to ensure United
+ States economic preeminence in space;
+ (3) the interests of the United States will be served if the commercial
+ launch industry is competitive in the international marketplace;
+ (4) commercial vehicles are effective means to challenge foreign competition;
+ (5) the use by the Federal Government of performance specifically in lieu
+ of detailed specifications relating to vehicle design, construction, and
+ operation will facilitate the efficient operation of the United States
+ commercial launch industry;
+ (6) the procurement of commercial launch services in a commercially reasonable
+ manner permits a reduced level of Federal Government regulation and oversight
+ and economies of scale which may result in significant cost savings to the
+ commercial launch industry and to the United States.
+ (7) it is the general policy of the Federal Government to purchase needed
+ goods and services, including launch services, from the private sector to
+ the fullest extent feasible; and
+ (8) predictable access to National Aeronautics and Space Administration
+ launch markets would encourage continuing United States private sector
+ investment in space and related activities.
+SEC. 203. DEFINITIONS.
+ For the purposes of this title--
+ (1) the term `commercial provider' means any person providing launch services,
+ but does not include the Federal Government;
+ (2) the term `launch services' means activities involved in the preparation
+ of a launch vehicle and its payload for space transport and the conduct of
+ transporting a payload;
+ (3) the term `launch vehicle' means any vehicle constructed for the purpose
+ of operating in, or placing a payload in, outer space; and
+ (4) the term `payload' means an object which a person undertakes to place
+ in outer space by means of a launch vehicle, and includes subcomponents of
+ the launch vehicle specifically designed or adapted for that object.
+SEC. 204. REQUIREMENT TO PROCURE COMMERCIAL LAUNCH SERVICES.
+ (a) IN GENERAL- Except as otherwise provided in this section, the National
+ Aeronautics and Space Administration shall purchase launch services for
+ its primary payloads from commercial providers whenever such services are
+ required in the course of its activities.
+ (b) EXCEPTIONS- The National Aeronautics and Space Administration shall
+ not be required to purchase launch services as provided in subsection (a)
+ if, on a case by case basis the Administrator of the National Aeronautics
+ and Space Administration determines that--
+ (1) the payload requires the unique capabilities of the space shuttle;
+ (2) cost effective commercial launch services to meet specific mission
+ requirements are not reasonably available and would not be available when
+ required;
+ (3) the use of commercial launch services poses an unacceptable risk of
+ loss of a unique scientific opportunity; or
+ (4) the payload serves national security or foreign policy purposes.
+Upon any such determination, the Administrator shall, within 30 days, notify
+in writing the Committee on Science, Space, and Technology of the House of
+Representatives and the Committee on Commerce, Science, and Transportation
+of the Senate of the determination and its rationale.
+ (c) NATIONAL AERONAUTICS AND SPACE ADMINISTRATION LAUNCH VEHICLES- Launch
+ vehicles shall be acquired or owned by the National Aeronautics and Space
+ Administration only--
+ (1) as required under circumstances described in subsection (b); or
+ (2) by the National Aeronautics and Space Administration for conducting
+ research and development on, and testing of, launch technology.
+ (d) PHASE-IN PERIOD- Subsections (a) and (c) shall not apply to launch
+ services and launch vehicles purchased by the National Aeronautics and
+ Space Administration before the date of enactment of this Act.
+ (e) HISTORICAL PURPOSES- This title shall not be interpreted to prohibit
+ the National Aeronautics and Space Administration from acquiring, owning,
+ or maintaining launch vehicles solely for historical display purposes.
+SEC. 205. PURCHASE OF LAUNCH SERVICES.
+ (a) FULL AND OPEN COMPETITION- (1) Contracts to provide launch services to
+ the National Aeronautics and Space Administration under section 204 shall
+ be awarded on the basis of full, fair, and open competition, consistent
+ with section 2304 of title 10, United States Code, and section 311 of the
+ National Aeronautics and Space Act of 1958.
+ (2) The National Aeronautics and Space Administration shall limit its
+ requirements for submission of cost or pricing data in support of a bid or
+ proposal to that data which is reasonably required to protect the interests
+ of the United States.
+ (b) SPECIFICATION SYSTEMS- Reasonable performance specifications, not
+ detailed Government design or construction specifications, shall be used to
+ the maximum extent feasible to define requirements for a commercial provider
+ bidding to provide launch services. This subsection shall not preclude the
+ National Aeronautics and Space Administration from requiring compliance
+ with applicable safety standards.
+SEC. 206. OTHER ACTIVITIES OF THE NATIONAL AERONAUTICS AND SPACE
+ADMINISTRATION.
+ (a) COMMERCIAL PAYLOADS ON THE SPACE SHUTTLE- Commercial payloads may not
+ be accepted for launch as primary payloads on the space shuttle unless
+ the Administrator of the National Aeronautics and Space Administration
+ determines that--
+ (1) the payload requires the unique capabilities of the space shuttle; or
+ (2) launching of the payload on the space shuttle is important for either
+ national security or foreign policy purposes.
+ (b) REPORT- By March 15, 1991, the Administrator, in consultation with
+ the Office of Federal Procurement Policy, shall submit to the Committee
+ on Science, Space, and Technology of the House of Representatives and the
+ Committee on Commerce, Science, and Transportation of the Senate a report
+ outlining the minimal requirements for documentation and other administrative
+ data needed to procure launch services in a commercially reasonable manner,
+ including--
+ (1) the need for data to integrate a payload with a launch vehicle;
+ (2) the need for data to carry out mission-specific modifications to the
+ launch vehicle;
+ (3) the need for notification to the National Aeronautics and Space
+ Administration of changes, delays, or difficulties in the construction or
+ preparation of a launch vehicle that may affect the delivery of its payload
+ to its destination at the time and under the conditions provided for under
+ the contract between the United States and its contractors;
+ (4) the need for data to protect public health and safety; and
+ (5) the need for cost or pricing data for the fulfillment of a contract.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

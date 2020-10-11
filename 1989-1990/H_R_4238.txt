@@ -1,0 +1,303 @@
+ 
+--H.R.4238--
+H.R.4238
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Public Health Service Act to extend various programs with
+respect to
+vaccine-preventable diseases.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Vaccine and Immunization Amendments of 1990'.
+SEC. 2. GRANTS FOR IMMUNIZATIONS.
+ (a) EXTENSION OF GENERAL PROGRAM- Section 317(j)(1) of the Public Health
+ Service Act (42 U.S.C. 247B(j)(1)) is amended--
+ (1) in subparagraph (A), by striking `there are authorized' and all that
+ follows in the first sentence and inserting the following: `there are
+ authorized to be appropriated $205,000,000 for fiscal year 1991, and such
+ sums as may be necessary for each of the fiscal years 1992 through 1995.';
+ (2) in subparagraph (B), by striking `after the date' and all that follows
+ and inserting the following: `after October 1, 1990, there are authorized
+ to be appropriated such sums as may be necessary.'; and
+ (3) by striking subparagraph (C).
+ (b) DEMONSTRATION PROJECTS FOR OUTREACH PROGRAMS-
+ (1) IN GENERAL- The Secretary of Health and Human Services, acting through
+ the Director of the Centers for Disease Control, may make grants to public
+ and nonprofit private entities for the purpose of carrying out demonstration
+ projects--
+ (A) to provide, without charge, immunizations against vaccine-preventable
+ diseases to children not more than 2 years of age who reside in communities
+ whose population includes a significant number of low-income individuals; and
+ (B) to provide outreach services to identify such children and to inform
+ the parents (or other guardians) of the children of the availability from
+ the entities of the immunizations specified in subparagraph (A).
+ (2) AUTHORIZATION OF APPROPRIATIONS- For the purpose of carrying out paragraph
+ (1), there are authorized to be appropriated such sums as may be necessary
+ for each of the fiscal years 1991 through 1993.
+SEC. 3. SUPPLY OF VACCINES.
+ (a) IN GENERAL- The Secretary of Health and Human Services, acting through
+ the Director of the Centers for Disease Control, shall acquire and maintain
+ a supply of vaccines sufficient to provide vaccinations throughout a 6-month
+ period. Any proceeds received by the Secretary from the sale of vaccines
+ from such supply shall be available to the Secretary for the purpose of
+ purchasing vaccines for the supply. Such proceeds shall remain available
+ for such purpose until expended.
+ (b) AUTHORIZATION OF APPROPRIATIONS- For the purpose of carrying out
+ subsection (a), there are authorized to be appropriated $5,000,000 for
+ fiscal year 1991, and such sums as may be necessary for each of the fiscal
+ years 1992 through 1995.
+SEC. 4. EXTENSION OF NATIONAL VACCINE PROGRAM.
+ Section 2106 of the Public Health Service Act (42 U.S.C. 300aa-6) is amended--
+ (1) in subsection (a), by striking `there are authorized' and all that
+ follows and inserting the following: `there are authorized to be appropriated
+ $4,000,000 for fiscal year 1991, and such sums as may be necessary for each
+ of the fiscal years 1992 through 1995.'; and
+ (2) in subsection (b), by striking `there are authorized' and all that
+ follows and inserting the following: `there are authorized to be appropriated
+ $30,000,000 for fiscal year 1991, and such sums as may be necessary for
+ each of the fiscal years 1992 through 1995.'.
+SEC. 5. TECHNICAL AMENDMENTS.
+ (a) SECTION 2111- Section 2111 of the Public Health Service Act (42
+ U.S.C. 300aa-11) is amended--
+ (1) in subsection (a)(2)(A), by striking `unless' and all that follows in
+ that subsection and inserting the following:
+`unless a petition has been filed, in accordance with section 2116, for
+compensation under the Program for such injury or death and--
+ `(i)(I) the United States Claims Court has issued a judgment under section
+ 2112 on such petition, and
+ `(II) such person elects under section 2121(a) to file such an action, or
+ `(ii) such person elects to withdraw such petition under section 2121(b)
+ or such petition is considered withdrawn under such section.',
+ (2) in subsection (a)(5)(A), by striking `without prejudice' the second
+ time it occurs,
+ (3) in subsection (a)(5)(B), by striking `plaintiff who' and inserting
+ `plaintiff',
+ (4) in subsection (d), by striking `(d) except as provided in paragraph
+ (3),' before `(d) ADDITIONAL INFORMATION', and
+ (5) in subsection (e), by striking `(e)' before `(e) SCHEDULE'.
+ (b) SECTION 2112-
+ (1) SUSPENSION OF PROCEEDINGS- Section 2112(d)(3) of the Public Health Service
+ Act (42 U.S.C. 300aa-12(d)(3)) is amended by adding at the end the following:
+ `(D) If, in reviewing proceedings on petitions for vaccine-related injuries
+ or deaths associated with the administration of vaccines before the effective
+ date of this part, the chief special master determines that the number of
+ filings and resultant workload place an undue burden on the parties or the
+ special master involved in such proceedings, the chief special master may,
+ in the interest of justice, suspend proceedings on any petition for up to
+ 180 days in addition to the suspension time under subparagraph (C).'.
+ (2) NOTICE- Section 2112 of the Public Health Service Act (42 U.S.C. 300aa-12)
+ is amended by adding at the end the following:
+ `(g) NOTICE-  If--
+ `(1) a special master fails to make a decision on a petition within the
+ 240 days prescribed by subsection (d)(3)(A)(ii) (excluding (A) any period
+ of suspension under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the
+ petition is before a special master as a result of a remand under subsection
+ (e)(2)(C)), or
+ `(2) the United States Claims Court fails to enter a judgment under this
+ section on a petition within 420 days (excluding (A) any period of suspension
+ under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the petition is
+ before a special master as a result of a remand under subsection (e)(2)(C))
+ after the date on which the petition was filed,
+the special master or court shall notify the petitioner under such petition
+that the petitioner may withdraw the petition under section 2121(b) and the
+petition will be considered withdrawn under such section if the petitioner,
+the special master, or the court do not take certain actions.'.
+ (c) SECTION 2113- Section 2113(c) of the Public Health Service Act (42
+ U.S.C. 300aa-13(c)) is amended by inserting `the' after `special masters of'.
+ (d) SECTION 2115- Section 2115 of the Public Health Service Act (42
+ U.S.C. 300aa-15) is amended--
+ (1) in subsection (e)(2), by striking `the Program,' the second time it
+ occurs and all that follows through `limited to the costs' and inserting the
+ following: `the Program, in awarding compensation on such petition the special
+ master or court may include an amount of compensation limited to the costs',
+ (2) in subsection (f)--
+ (A) in the second sentence of paragraph (2), by striking `section 2121(b)'
+ and inserting `section 2121(a)', and
+ (B) in the last sentence of paragraph (4)(B), by striking `subsection (i)'
+ and inserting `subsection (j)' and by striking `section 2111(a)' and inserting
+ `the limitation on civil actions prescribed by section 2121(a)', and
+ (3) in the first sentence of subsection (j), by inserting before the period
+ `, and $80,000,000 for each succeeding fiscal year in which a payment of
+ compensation is required under subsection (f)(4)(B)'.
+ (e) SECTION 2116- Section 2116 of the Public Health Service Act (42
+ U.S.C. 300aa-16) is amended--
+ (1) in subsection (a)(1)--
+ (A) by striking `24 months' and inserting `28 months', and
+ (B) by inserting before the comma at the end the following: `and no such
+ petition may be filed if the first symptom or manifestation of onset or
+ of the significant aggravation of such injury occurred more than 36 months
+ after the date of administration of the vaccine', and
+ (2) in subsection (c), by striking `and ending on the date a final judgment
+ is entered on the petition' and inserting `and ending on the date (1)
+ an election is made under section 2121(a) to file the civil action, (2)
+ an election is made under section 2121(b) to withdraw the petition, or (3)
+ the petition is considered withdrawn under section 2121(b)'.
+ (f) SECTION 2121-
+ (1) LIMITATION ON ACTIONS- Section 2121(a) of the Public Health Service Act
+ (42 U.S.C. 300aa-21(a)) is amended--
+ (A) by inserting before the last sentence the following: `If a person
+ elects to receive compensation under a judgment of the court in an action
+ for a vaccine-related injury or death associated with the administration
+ of a vaccine before the effective date of this part or is deemed to have
+ accepted the judgment of the court in such an action, such person may not
+ bring or maintain a civil action for damages against a vaccine administrator
+ or manufacturer for the vaccine-related injury or death for which the
+ judgment was entered.', and
+ (B) by inserting after `actions' in the last sentence the following: `for
+ vaccine-related injuries or deaths associated with the administration of
+ a vaccine after the effective date of this part'.
+ (2) WITHDRAWAL OF PETITION- Section 2121(b) of the Public Health Service Act
+ (42 U.S.C. 300aa-21(b)) is amended to read as follows:
+ `(b) WITHDRAWAL OF PETITION-
+ `(1) A petitioner under a petition filed under section 2111 may submit to the
+ United States Claims Court a notice in writing withdrawing the petition if--
+ `(A) a special master fails to make a decision on such petition within the
+ 240 days prescribed by section 2112(d)(3)(A)(ii) (excluding (i) any period
+ of suspension under section 2112(d)(3)(C) or 2112(d)(3)(D), and (ii) any
+ days the petition is before a special master as a result of a remand under
+ section 2112(e)(2)(C)), or
+ `(B) the court fails to enter a judgment under section 2112 on the petition
+ within 420 days (excluding (i) any period of suspension under section
+ 2112(d)(3)(C) or 2112(d)(3)(D), and (ii) any days the petition is before a
+ special master as a result of a remand under section 2112(e)(2)(C)) after
+ the date on which the petition was filed.
+Such a notice shall be filed within 30 days of the provision of the notice
+required by section 2112(g). If such a notice is not filed before the
+expiration of such 30 days, the petition with respect to which the notice
+was to be filed shall be considered withdrawn under this paragraph.
+ `(2) If a special master or the court does not enter a decision or make
+ a judgment on a petition filed under section 2111 within 30 days of the
+ provision of the notice in accordance with section 2112(g), the special
+ master or court shall no longer have jurisdiction over such petition and
+ such petition shall be considered as withdrawn under paragraph (1).'.
+ (g) SECTION 322- Section 322 of the National Childhood Vaccine Injury Act
+ of 1986 (42 U.S.C. 300aa-1 note) is amended--
+ (1) in subsection (a)--
+ (A) by striking `of title XXI' and inserting `part A or B of subtitle 2 of
+ title XXI', and
+ (B) by striking `such title XXI' and inserting `both such parts', and
+ (2) by adding at the end the following:
+ `(c) REVIEW UNDER SECTION 2112(f)- If the review authorized by section
+ 2112(f) is held invalid because the judgment of the United States Claims
+ Court being reviewed did not arise from a case or controversy under Article
+ III of the Constitution, such judgment shall be reviewed by a 3-judge panel
+ of the United States Claims Court. Such panel shall not include the judge
+ who participated in such judgment.'.
+ (h) EFFECTIVE DATE- The amendments made by subsections (f)(1) and (g) shall
+ take effect as of November 14, 1986, and the amendments made by subsections
+ (a) through (e) and subsection (f)(2) shall take effect as of September
+ 30, 1990.
+ (i) AUTHORIZATION OF APPROPRIATIONS- Section 6601(r) of the Omnibus
+ Reconciliation Act of 1989 (Public Law 101-239) is amended--
+ (1) in paragraph (1), by striking `$1,500,000 for each of the fiscal years
+ 1990 and 1991', and inserting `$2,500,000 for each of the fiscal years 1991
+ and 1992',
+ (2) in paragraph (2), by striking `$1,500,000 for each of the fiscal years
+ 1990 and 1991', and inserting `$2,500,000 for each of the fiscal years 1991
+ and 1992', and
+ (3) in paragraph (3), by striking `$1,500,000 for each of the fiscal years
+ 1990 and 1991', and inserting `$2,500,000 for each of the fiscal years 1991
+ and 1992'.
+ (j) RECORDS AND REPORTS- Section 301(e) of the Federal Food, Drug, and
+ Cosmetic Act (21 U.S.C. 331(e)) is amended by striking out `or (j)' and
+ inserting in lieu thereof `or (k)'.
+ (k) COMMISSIONED CORPS-
+ (1) APPOINTMENT OF COMMISSIONED OFFICER- Section 206(a) of the Public Health
+ Service Act (42 U.S.C. 207(a)) is amended by inserting after the first
+ sentence the following new sentence:  `During the period of appointment to
+ the position of Assistant Secretary for Health, a commissioned officer of
+ the Public Health Service shall have the grade corresponding to the grade
+ of General of the Army.'.
+ (2) CONFORMING AMENDMENT- Section 201(a) of title 37, United States Code,
+ is amended by inserting `Assistant Secretary for Health.' in the fourth
+ column of the table corresponding with pay grade O-10.
+ (3) EFFECTIVE DATE- The amendments made by paragraphs (1) and (2) shall
+ take effect on the first day of the month immediately following the month
+ in which this Act was enacted.
+SEC. 6. TECHNICAL AMENDENTS IN CERTAIN PROGRAMS PROVIDING SERVICES REGARDING
+ACQUIRED IMMUNE DEFICIENCY SYNDROME.
+ (a) FORMULA FOR EMERGENCY RELIEF GRANTS- Section 2603(a)(3) of the Public
+ Health Service Act, as added by section 101(3) of Public Law 101-381,
+ is amended to read as follows:
+ `(3) AMOUNT OF GRANT-
+ `(A) IN GENERAL-
+ `(i) Subject to the extent of amounts made available in appropriations Acts,
+ a grant made for purposes of this paragraph to an eligible area shall be
+ made in an amount equal to the product of--
+ `(I) an amount equal to the amount available for distribution under paragraph
+ (2) for the fiscal year involved; and
+ `(II) the percentage constituted by the ratio of the distribution factor
+ for the eligible area to the sum of the respective distribution factors
+ for all eligible areas.
+ `(ii) For purposes of clause (i)(II), the term `distribution factor' means
+ the sum of--
+ `(I) an amount equal to the product of 3 and the amount determined under
+ subparagraph (B) for the eligible area involved; and
+ `(II) an amount equal to the product of the amount determined under
+ subparagraph (B) for the eligible area and the amount determined under
+ subparagraph (C) for the area.
+ `(B) AMOUNT RELATING TO CUMULATIVE NUMBER OF CASES- The amount determined
+ in this subparagraph is an amount equal to the ratio of--
+ `(i) an amount equal to the cumulative number of cases of acquired immune
+ deficiency syndrome in the eligible area involved, as indicated by the number
+ of such cases reported to and confirmed by the Director of the Centers for
+ Disease Control by the applicable date specified in section 2601(a); to
+ `(ii) an amount equal to the sum of the respective amounts determined under
+ clause (i) for each eligible area for which an application for a grant for
+ purposes of this paragraph has been approved.
+ `(C) AMOUNT RELATING TO PER CAPITA INCIDENCE OF CASES- The amount determined
+ in this subparagraph is an amount equal to the ratio of--
+ `(i) the  per capita incidence of cumulative cases of acquired immune
+ deficiency syndrome in the eligible area involved (computed on the basis
+ of the most recently available data on the population of the area); to
+ `(ii) the  per capita incidence of cumulative such cases in all eligible
+ areas for which applications for grants for purposes of this paragraph have
+ been approved (computed on the basis of the most recently available data
+ on the population of the areas).'.
+ (b) SET-ASIDE REGARDING CATEGORICAL GRANTS TO CERTAIN ENTITIES FOR EARLY
+ INTERVENTION SERVICES- Section 2649(c) of the Public Health Service Act,
+ as added by section 301(a) of Public Law 101-381, is amended--
+ (1) by striking `(c) CERTAIN ALLOCATIONS' and all that follows through
+ `After determining' and inserting the following:
+ `(c) CERTAIN ALLOCATIONS BY SECRETARY-
+ `(1) DISCRETIONARY GRANTS TO CERTAIN STATES- After determining'; and
+ (2) by adding at the end the following new paragraph:
+ `(2) GRANTS TO CERTAIN POLITICAL SUBDIVISIONS-
+ `(A)(i) In the case of a State containing any political subdivision
+ described in clause (ii), the Secretary shall, subject to subparagraph
+ (B), make a reduction in the amount of the allotment under subsection (a)
+ for the State for each fiscal year in an amount necessary for carrying out
+ subparagraphs (B) and (C) with respect to the political subdivision. Any
+ such reduction shall be in addition to the reduction required in paragraph
+ (1) for the fiscal year involved.
+ `(ii) The political subdivision referred to in clause (i) is any political
+ subdivision that received a cooperative agreement from the Secretary,
+ acting through the Director of the Centers for Disease Control, for fiscal
+ year 1990 for programs to provide counseling and testing with respect to
+ acquired immune deficiency syndrome.
+ `(B) In the case of a State described in subparagraph (A), the Secretary
+ shall, from the amounts made available as a result of reductions under such
+ subparagraph, make a grant each fiscal year to each political subdivision
+ described in such subparagraph that exists in the State if the political
+ subdivision involved agrees that the provisions of subparts II and III will
+ apply to the political subdivision to the same extent and in the same manner
+ as such subparts apply to entities receiving grants under section 2651(a).
+ `(C) Grants under subparagraph (B) for a fiscal year for a political
+ subdivision shall be provided in an amount equal to the amount received
+ by the political subdivision in fiscal year 1990 under the cooperative
+ agreement described in subparagraph (A).'.
+ (c) MISCELLANEOUS AMENDMENT- Section 2647(c) of the Public Health Service
+ Act, as added by section 301(a) of Public Law 101-381, is amended--
+ (1) in the first sentence, by striking `are adequate' and inserting the
+ following: `certifies to the Secretary that the laws of the State are
+ adequate'; and
+ (2) in the second sentence, by striking `subsection (a)' and inserting
+ `subsection (a),'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

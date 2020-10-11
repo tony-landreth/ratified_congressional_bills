@@ -1,0 +1,148 @@
+ 
+--S.2628--
+S.2628
+One Hundred First Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-third day
+of January,
+one thousand nine hundred and ninety
+An Act
+To amend the Public Health Service Act to reauthorize certain National
+Institute of Mental Health grants and to improve provisions concerning the
+State comprehensive mental health services plan, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Mental Health Amendments of 1990'.
+SEC. 2. REAUTHORIZATION OF DEMONSTRATION GRANTS FOR HEALTH SERVICES.
+ (a) IN GENERAL- Section 520(a) of the Public Health Service Act (42
+ U.S.C. 290cc-13(a)) is amended to read as follows:
+ `(a) SERIOUSLY MENTALLY ILL INDIVIDUALS, AND CHILDREN AND ADOLESCENTS WITH
+ SERIOUS EMOTIONAL AND MENTAL DISTURBANCES-
+ `(1) IN GENERAL- The Secretary, acting through the Director of the National
+ Institute of Mental Health, may make grants to States, political subdivisions
+ of States, and nonprofit private agencies for--
+ `(A) mental health services demonstration projects for the planning,
+ coordination and improvement of community services (including outreach and
+ consumer-run self-help services) for seriously mentally ill individuals and
+ their families, seriously emotionally and mentally disturbed children and
+ youth and their families, and seriously mentally ill homeless and elderly
+ individuals;
+ `(B) demonstration projects for the prevention of youth suicide;
+ `(C) demonstration projects for the improvement of the recognition,
+ assessment, treatment and clinical management of depressive disorders;
+ `(D) demonstration projects for programs to prevent the occurrence of sex
+ offenses, and for the provision of treatment and psychological assistance
+ to the victims of sex offenses; and
+ `(E) demonstration projects for programs to provide mental health services
+ to victims of family violence.
+ `(2) MENTAL HEALTH SERVICES- Mental health services provided under paragraph
+ (1)(A) should encompass a range of delivery systems designed to permit
+ individuals to receive treatment in the most therapeutically appropriate,
+ least restrictive setting. Grants shall be awarded under such paragraph for--
+ `(A) research demonstration programs concerning such services; and
+ `(B) systems improvements to assist States and local entities to develop
+ appropriate comprehensive mental health systems for adults with serious
+ long-term mental illness and children and adolescents with serious emotional
+ and mental disturbance.'.
+ (b) AUTHORIZATION OF APPROPRIATIONS- Section 520(e)(1) of the Public Health
+ Service Act (42 U.S.C. 290cc-13(e)(1)) is amended to read as follows:
+ `(1) For the purposes of carrying out this section, there are authorized
+ to be appropriated $40,000,000 for fiscal year 1991, and such sums as may
+ be necessary for each of the fiscal years 1992 and 1993.'.
+SEC. 3. STATE COMPREHENSIVE MENTAL HEALTH SERVICES PLAN.
+ (a) FUNDING FOR PLANS-
+ (1) AUTHORIZATION OF APPROPRIATIONS- Section 1924(c) of the Public Health
+ Service Act (42 U.S.C. 300x-10(c)) is amended by inserting before the
+ period the following: `, and $5,000,000 for each of the fiscal years 1991
+ through 1993'.
+ (2) ESTABLISHMENT OF AUTHORITY FOR USE OF FUNDS UNDER SUBPART 1- Section
+ 1915 of the Public Health Service Act (42 U.S.C. 300x-3) is amended by
+ adding at the end the following new subsection:
+ `(e) Amounts paid to a State under section 1914 may be used by the State for
+ the purpose of developing and implementing State comprehensive mental health
+ plans in accordance with section 1925. With respect to compliance with the
+ limitation established in subsection (d), none of the expenditures by the
+ State for the purpose described in the preceding sentence from amounts
+ received under section 1914 may be considered to have been expended for
+ administering the amounts.'.
+ (b) REQUIREMENTS FOR PLANS- Section 1925 of the Public Health Service Act
+ (42 U.S.C. 300x-11) is amended--
+ (1) by striking `chronically mentally ill individual' each place such term
+ appears and inserting `individual with a serious mental illness';
+ (2) by striking `chronically mentally ill individuals' each place such term
+ appears and inserting `individuals with serious mental illnesses';
+ (3) in subsection (b)--
+ (A) in paragraph (1), by inserting before the period the following: `and
+ children with serious emotional and mental disorders';
+ (B) in paragraph (3), by striking `describe services to be provided' and
+ inserting the following: `describe services, available treatment options,
+ and available resources (including Federal, State and local public services
+ and resources, and to the extent practicable, private services and resources)
+ to be provided';
+ (C) by redesignating paragraphs (5) through (8) as paragraphs (6) through
+ (9), respectively;
+ (D) by striking paragraph (4) and inserting the following new paragraphs:
+ `(4) The State plan shall describe health and mental health services,
+ rehabilitation services, employment services, housing services, educational
+ services, medical and dental care, and other support services to be provided
+ to individuals and children with serious emotional and mental disorders
+ with Federal, State and local public and private resources to enable such
+ individuals to function outside of inpatient or residential institutions to
+ the maximum extent of their capabilities, including services to be provided
+ by local school systems under the Education of the Handicapped Act.
+ `(5) The State plan shall describe the financial resources and staffing
+ necessary to implement the requirements of such plan.'; and
+ (E) by adding at the end the following new paragraph:
+ `(10) The State plan shall describe a system of integrated social services,
+ educational services, juvenile services, substance abuse services which
+ together with health and mental health services, should be provided in order
+ for children and adolescents with serious emotional and mental disorders
+ to receive care appropriate for their multiple needs, including services to
+ be provided by local school systems under the Education of the Handicapped
+ Act.'; and
+ (4) by adding at the end the following new subsections:
+ `(e) The State shall utilize the State mental health planning council
+ described in section 1916(e), or establish a new council with comparable
+ membership requirements, to advise, review, monitor and evaluate all aspects
+ of the development and implementation of the State plan. The comments of
+ such council shall be formally transmitted to the Governor of the State
+ prior to the submission of such plan to the Secretary and such comments
+ should be transmitted to the Secretary together with such plan.
+ `(f) Not later than March 30 of each year, the Secretary shall prepare
+ and submit, to the appropriate Committees of Congress, a report concerning
+ the development and implementation of the State plans. Such reports shall
+ include--
+ `(1) the status of the implementation of such plans by the States;
+ `(2) a description of the extent of the participation of the councils
+ described in subsection (e) in such development and implementation;
+ `(3) a description of the coordinated services for children and adults
+ conducted under such plans;
+ `(4) the extent to which State and local public, and private resources are
+ utilized in the enhancement and delivery of designated services; and
+ `(5) a quantitative measurement of the improvement in services projected
+ and achieved under the plan.'.
+ (c) ENFORCEMENT- Section 1926 of the Public Health Service Act (42
+ U.S.C. 300x-12) is amended--
+ (1) in subsection (b)--
+ (A) by striking `1991' and inserting `1992'; and
+ (B) by striking `1990' and inserting `1991';
+ (2) in subsection (c), in the first sentence--
+ (A) by striking `1992' and inserting `1993'; and
+ (B) by striking `1991' and inserting `1992';
+ (3) in subsection (d), in the second sentence, by striking `the State is
+ permitted to expend for administrative expenses' and inserting `that the State
+ received under subpart 1, as such subpart existed on October 1, 1985'; and
+ (4) in subsection (e)--
+ (A) by striking `for any fiscal year' and inserting `during the period
+ covered by the plan';
+ (B) by striking `for such fiscal year' and inserting `during such period'; and
+ (C) by inserting before the period the following: `, taking into consideration
+ savings on inpatient hospitalization that can reasonably be anticipated to
+ result from a well designed and implemented plan'.
+ (d) MISCELLANEOUS TECHNICAL AMENDMENT- Section 902(c) of the Public Health
+ Service Act (42 U.S.C. 299a(c)) is amended by striking `subsection (b)'
+ and inserting `subsection (a)'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

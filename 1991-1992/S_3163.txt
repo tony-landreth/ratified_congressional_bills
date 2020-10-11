@@ -1,0 +1,105 @@
+ 
+--S.3163--
+S.3163
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To amend the Federal Food, Drug, and Cosmetic Act to coordinate Federal and
+State regulation of wholesale drug distribution, and for other purposes.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE AND REFERENCE.
+ (a) SHORT TITLE- This Act may be cited as the `Prescription Drug Amendments
+ of 1992'.
+ (b) REFERENCE- Whenever in this Act an amendment or repeal is expressed in
+ terms of an amendment to, or repeal of, a section or other provision, the
+ reference shall be considered to be made to a section or other provision
+ of the Federal Food, Drug, and Cosmetic Act.
+SEC. 2. DISTRIBUTOR REGISTRATION.
+ (a) REQUIREMENT- Section 503(e)(2)(A) (21 U.S.C. 353(e)(2)(A)) is amended
+ by inserting before the period the following: `or has registered with the
+ Secretary in accordance with paragraph (3)'.
+ (b) REGISTRATION- Section 503(e) (21 U.S.C. 353(e)) is amended by
+ redesignating paragraph (3) as paragraph (4) and by inserting after paragraph
+ (2) the following:
+ `(3) Any person who engages in the wholesale distribution in interstate
+ commerce of drugs that are subject to subsection (b) in a State that does
+ not have a program that meets the guidelines established under paragraph
+ (2)(B) shall register with the Secretary the following:
+ `(A) The person's name and place of business.
+ `(B) The name of each establishment the person owns or operates that is
+ engaged in the wholesale distribution of drugs in a State that does not
+ have a program to license persons engaged in such distribution.'.
+ (c) TECHNICAL- Section 503(f)(1)(B) (21 U.S.C. 353(f)(1)(B)) is amended by
+ striking out `and order' and inserting in lieu thereof `an order'.
+ (d) SUNSET- Effective September 14, 1994, the amendments made by subsections
+ (a) and (b) shall no longer be in effect.
+SEC. 3. PENALTY CLARIFICATION.
+ (a) SCIENTER- Paragraph (1) of section 303(b) (21 U.S.C. 333(b)) is amended
+ to read as follows:
+ `(b)(1) Notwithstanding subsection (a), any person who violates section
+ 301(t) by--
+ `(A) knowingly importing a drug in violation of section 801(d)(1),
+ `(B) knowingly selling, purchasing, or trading a drug or drug sample or
+ knowingly offering to sell, purchase, or trade a drug or drug sample,
+ in violation of section 503(c)(1),
+ `(C) knowingly selling, purchasing, or trading a coupon, knowingly offering
+ to sell, purchase, or trade such a coupon, or knowingly counterfeiting such
+ a coupon, in violation of section 503(c)(2), or
+ `(D) knowingly distributing drugs in violation of section 503(e)(2)(A),
+shall be imprisoned for not more than 10 years or fined not more than $250,000,
+or both.'.
+ (b) CLARIFICATION- Section 303 (21 U.S.C. 333) is amended--
+ (1) in subparagraphs (A) and (B)(i) of subsection (b)(4), by striking out `the
+ arrest and conviction of' each time it occurs and inserting in lieu thereof
+ `the institution of a criminal proceeding against, and conviction of,';
+ (2) in subparagraph (B)(i) of subsection (b)(4), by striking out `the
+ arrest of' and inserting in lieu thereof `the institution of a criminal
+ proceeding against';
+ (3) in subsection (b)(5), by striking out `the arrest and conviction of'
+ and inserting in lieu thereof `the institution of a criminal proceeding
+ against, and conviction of,';
+ (4) in subsections (c) and (d), by striking out `subsection (a) of this
+ section' and inserting in lieu thereof `subsection (a)(1) of this section';
+ and
+ (5) in subsection (d), by striking out `, and no person' and all that
+ follows through `mislead'.
+SEC. 4. DRUG SAMPLES.
+ Section 503 (21 U.S.C. 353) is amended--
+ (1) in subsection (d), by amending paragraph (1) to read as follows:
+ `(d)(1) Except as provided in paragraphs (2) and (3), no person may distribute
+ any drug sample. For purposes of this subsection, the term `distribute'
+ does not include the providing of a drug sample to a patient by a--
+ `(A) practitioner licensed to prescribe such drug,
+ `(B) health care professional acting at the direction and under the
+ supervision of such a practitioner, or
+ `(C) pharmacy of a hospital or of another health care entity that is acting at
+ the direction of such a practitioner and that received such sample pursuant
+ to paragraph (2) or (3).'.
+ (2) in paragraphs (2) and (3) of subsection (d), by striking out `distributor'
+ each place it occurs and inserting in lieu thereof `authorized distributor
+ of record' and in subsection (d)(3) by striking out `distributors' each place
+ it occurs and inserting in lieu thereof `authorized distributors of record';
+ (3) in subsection (e), by amending paragraph (1) to read as follows:
+ `(e)(1)(A) Each person who is engaged in the wholesale distribution of a drug
+ subject to subsection (b) and who is not the manufacturer or an authorized
+ distributor of record of such drug shall, before each wholesale distribution
+ of such drug (including each distribution to an authorized distributor of
+ record or to a retail pharmacy), provide to the person who receives the drug
+ a statement (in such form and containing such information as the Secretary
+ may require) identifying each prior sale, purchase, or trade of such drug
+ (including the date of the transaction and the names and addresses of all
+ parties to the transaction).
+ `(B) Each manufacturer of a drug subject to subsection (b) shall maintain
+ at its corporate offices a current list of the authorized distributors of
+ record of such drug.'; and
+ (4) in subsection (e)(4) (as so redesignated by section 2(c)), by inserting
+ before the dash the following: `and subsection (d)'.
+SEC. 5. TECHNICAL AMENDMENT.
+ Section 801(d)(1) (21 U.S.C. 381(d)(1)) is amended by striking out `person
+ who manufactured' and inserting in lieu thereof `manufacturer of'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

@@ -1,0 +1,315 @@
+ 
+--S.767--
+S.767
+One Hundred First Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Tuesday, the third day of January,
+one thousand nine hundred and eighty-nine
+An Act
+To make technical corrections to the Business Opportunity Development Reform
+Act of 1988.
+ Be it enacted by the Senate and House of Representatives of the United
+ States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+ This Act may be cited as the `Business Opportunity Development Reform Act
+ Technical Corrections Act'.
+SEC. 2. TABLE OF CONTENTS.
+ The table of contents of the Business Opportunity Development Reform Act
+ of 1988 (hereinafter referred to as `the Act') is amended--
+ (1) in item 713, by striking `Procurements' and inserting `Procurement'; and
+ (2) in item 722, by striking `participating' and inserting `participation'.
+SEC. 3. DEFINITIONS.
+ Section 2 of the Act is amended--
+ (1) by redesignating paragraphs (3) through (7) as paragraphs (4) through
+ (8), respectively;
+ (2) by inserting after paragraph (2) the following new paragraph:
+ `(3) the term `Business Opportunity Specialist' means the Administration
+ employee responsible for providing business development assistance to Program
+ Participants pursuant to sections 7(j) and 8(a) of the Small Business Act
+ (15 U.S.C. 636(j), 637(a));'; and
+ (3) in paragraph (6), as redesignated--
+ (A) by striking `Small Business' and inserting `Minority Small Business', and
+ (B) by inserting before the semicolon the following: `, unless otherwise
+ indicated'.
+SEC. 4. PROGRAM ELIGIBILITY.
+ Section 7(j)(11) of the Small Business Act (15 U.S.C. 636(j)(11)) is amended--
+ (1) by striking subparagraph (B) and inserting the following:
+ `(B)(i) Except as provided in clause (iii), no individual who was determined
+ pursuant to section 8(a) to be socially and economically disadvantaged
+ before the effective date of this subparagraph shall be permitted to assert
+ such disadvantage with respect to any other concern making application for
+ certification after such effective date.
+ `(ii) Except as provided in clause (iii), any individual upon whom
+ eligibility is based pursuant to section 8(a)(4) shall be permitted to
+ assert such eligibility for only one small business concern.
+ `(iii) A socially and economically disadvantaged Indian tribe may own more
+ than one small business concern eligible for assistance pursuant to section
+ 7(j)(10) and section 8(a) if--
+ `(I) the Indian tribe does not own another firm in the same industry which has
+ been determined to be eligible to receive contracts under this program, and
+ `(II) the individuals responsible for the management and daily operations
+ of the concern do not manage more than two Program Participants.';
+ (2) in the first sentence of subparagraph (E), by striking `Office of the
+ Associate Administrator for Minority Small Business' and inserting `Office
+ of Minority Small Business';
+ (3) in the second sentence of subparagraph (E), by striking `such Associate
+ Administrator' and inserting `the Associate Administrator for Minority
+ Small Business and Capital Ownership Development';
+ (4) in subparagraph (F)(v), by striking `with the Associate Administrator'
+ and inserting `to the Associate Administrator';
+ (5) in subparagraph (F), by striking clause (vi) and inserting:
+ `(vi) make recommendations to the Associate Administrator for Minority
+ Small Business and Capital Ownership Development concerning protests from
+ applicants that have been denied program admission;';
+ (6) in subparagraph (F)(viii), by striking `subparagraph (H)' and inserting
+ `subparagraph (I)';
+ (7) in subparagraph (G)(ii), by striking `participants' and inserting
+ `Participants';
+ (8) by redesignating subparagraph (H) as subparagraph (I); and
+ (9) by inserting after subparagraph (G) the following:
+ `(H) Not later than 90 days after receipt of a completed application for
+ Program certification, the Associate Administrator for Minority Small
+ Business and Capital Ownership Development shall certify a small business
+ concern as a Program Participant or shall deny such application.'.
+SEC. 5. BUSINESS PLANS.
+ (a) IN GENERAL- Section 7(j)(10)(A)(i) of the Small Business Act (15
+ U.S.C. 636(j)(10)(A)(i)) is amended by striking `which sets forth' and
+ inserting `which set forth'.
+ (b) CONTENTS OF PLAN- Section 7(j)(10)(D) of the Small Business Act (15
+ U.S.C. 636(j)(10)(D)) is amended--
+ (1) in the first sentence of clause (i), by striking `business opportunity
+ specialist' and inserting `Business Opportunity Specialist';
+ (2) in clause (ii)(II), by striking `small business concerns' and inserting
+ `the small business concern';
+ (3) in clause (iii), by inserting before the end period the following:
+ `relating to attaining business activity from sources other than contracts
+ awarded pursuant to section 8(a)';
+ (4) in clause (iv), by striking `contact awards' and inserting `contract
+ awards'; and
+ (5) in clause (iv)(I), by inserting before the second comma the following:
+ `relating to attaining business activity from sources other than contracts
+ awarded pursuant to section 8(a)'.
+SEC. 6. ELIGIBILITY REVIEWS AND ELIGIBILITY OF NATIVE HAWAIIANS.
+ (a) ELIGIBILITY REVIEW- Section 7(j)(10)(J)(i) of the Small Business Act
+ (15 U.S.C. 636(j)(10)(J)(i)) is amended by striking `suspended or terminated'
+ and inserting `suspended'.
+ (b) ELIGIBILITY OF NATIVE HAWAIIANS- Section 8(a)(15) of the Small Business
+ Act (15 U.S.C. 637(a)(15)) is amended by striking `organizations' and
+ inserting `Organization'.
+ (c) Section 207(b) of the Act is amended by striking `(15
+ U.S.C. 631(e)(2)(C))' and inserting `(15 U.S.C. 631(e)(1)(C))'.
+ (d) DEFINITION OF `SOCIALLY AND ECONOMICALLY DISADVANTAGED SMALL
+ BUSINESS CONCERN'- Section 8(a)(4)(A) of the Small Business Act (15
+ U.S.C. 637(a)(4)(A)) is amended--
+ (1) in clause (i), by inserting `unconditionally' after `per centum'; and
+ (2) in clause (ii), by inserting `unconditionally' before `owned by'.
+SEC. 7. TERMINATION AND GRADUATION STANDARDS.
+ (a) IN GENERAL- Section 7(j)(10) of the Small Business Act (15
+ U.S.C. 636(j)(10)) is amended--
+ (1) by striking subparagraph (E)(ii) and inserting:
+ `(ii) completes the period of Program participation as prescribed by paragraph
+ (15);';
+ (2) by striking the first subparagraph (F); and
+ (3) in subparagraph (F), by striking the first sentence and inserting
+ the following: `For purposes of this section and section 8(a), the term
+ `terminated' and the term `termination' means the total denial or suspension
+ of assistance under this paragraph or under section 8(a) prior to the
+ graduation of the participating small business concern or prior to the
+ expiration of the maximum program participation term.'.
+ (b) ECONOMIC DISADVANTAGE- Section 8(a)(6)(C)(iii) of the Small Business Act
+ (15 U.S.C. 637(a)(6)(C)(iii)) is amended by striking out `section 7(j)(10)(H)'
+ and inserting `section 7(j)(10)(G)'.
+SEC. 8. STAGES OF PROGRAM PARTICIPATION.
+ (a) IN GENERAL- Section 7(j)(12) of the Small Business Act (15
+ U.S.C. 636(j)(12)) is amended--
+ (1) in subparagraph (A), by striking `development' and inserting
+ `developmental'; and
+ (2) in subparagraph (B), by inserting `in its effort' after `to assist
+ the concern'.
+ (b) DEVELOPMENTAL STAGE- Section 7(j)(13)(E) of the Small Business Act
+ (15 U.S.C. 636(j)(13)(E)) is amended by striking the second sentence and
+ inserting the following: `Such assistance may be made without regard to
+ section 18(a). Assistance may be made by direct payment to the training
+ provider or by reimbursing the Program Participant or the Participant's
+ employee, if such reimbursement is found to be reasonable and appropriate.'.
+SEC. 9. LOANS.
+ Section 7(a)(20) of the Small Business Act (15 U.S.C. 636(a)(20)) is amended
+ in subparagraph (C)(iv), by inserting `is' before `amortized'.
+SEC. 10. CONTRACTUAL ASSISTANCE.
+ (a) CITATION- Section 303(a) of the Act is amended by striking `15
+ U.S.C. 363(j)(10)' and inserting `15 U.S.C. 636(j)(10)'.
+ (b) COMPETITIVE BUSINESS MIX- Section 7(j)(10) of the Small Business Act
+ (15 U.S.C. 636(j)(10)) is amended by striking `(i) During the developmental
+ stage' and inserting `(I)(i) During the developmental stage'.
+ (c) COMPETITIVE THRESHOLDS- Section 8(a)(1)(D)(i) of the Small Business Act
+ (15 U.S.C. 637(a)(1)(D)(i)) is amended by striking `program participants'
+ and inserting `Program Participants'.
+ (d) OPTIONS- Section 303(f)(2) of the Act is amended by inserting `active'
+ before `contracts previously awarded'.
+ (e) NON-MANUFACTURER RULE- Section 8(a)(17)(B) of the Small Business Act
+ (15 U.S.C. 637(a)(17)(B)) is amended--
+ (1) by redesignating clauses (ii) and (iii) as clauses (iii) and (iv),
+ respectively, and
+ (2) by inserting after clause (i) the following:
+ `(ii) be a small business concern under the numerical size standard for the
+ Standard Industrial Classification Code assigned to the contract solicitation
+ on which the offer is being made;'.
+SEC. 11. STATUS OF THE ASSOCIATE ADMINISTRATOR FOR MINORITY SMALL BUSINESS
+AND CAPITAL OWNERSHIP DEVELOPMENT.
+ (a) IN GENERAL- Section 401(a) of the Act is amended by striking `In Section'
+ and inserting `Section'.
+ (b) CAREER POSITION- Section 401(b) of the Act is amended by striking
+ `of the Act' and inserting `of the Small Business Act'.
+SEC. 12. PROHIBITED ACTIONS AND EMPLOYEE RESPONSIBILITIES.
+ Section 8(a)(18)(A) of the Small Business Act (15 U.S.C. 637(a)(18)(A))
+ is amended by striking `certified'.
+SEC. 13. POLITICALLY MOTIVATED ACTIVITIES.
+ Section 8(a)(19)(B) of the Small Business Act (15 U.S.C. 637(a)(19)(B))
+ is amended by striking `, imposed by the Administrator,'.
+SEC. 14. REPORTS BY PROGRAM PARTICIPANTS.
+ Section 8(a)(20)(A) of the Small Business Act (15 U.S.C. 637(a)(20)(A))
+ is amended by striking `business opportunity specialist' and inserting
+ `Business Opportunity Specialist'.
+SEC. 15. CONGRESSIONALLY REQUESTED INVESTIGATIONS.
+ Section 10(e)(2) of the Small Business Act (15 U.S.C. 639(e)(2)) is amended
+ by striking `of the disposition of the matter' and inserting `, of the
+ disposition of the request'.
+SEC. 16. CONTRACT PERFORMANCE.
+ Section 8(a)(21) of the Small Business Act (15 U.S.C. 637(a)(21)) is amended--
+ (1) in subparagraph (B), by striking `The Administrator may, as a matter of
+ discretion and on a nondelegable basis, waive the requirements of subparagraph
+ (A) if requested to do so prior to the actual relinquishment of ownership
+ or control. In addition to the requirement of the preceding sentence,
+ a waiver may be given only if any of the following conditions exist:' and
+ inserting the following: `The Administrator may, on a nondelegable basis,
+ waive the requirements of subparagraph (A) only if one of the following
+ conditions exist:'; and
+ (2) by redesignating subparagraphs (C) and (D) as subparagraphs (D) and
+ (E), respectively, and by inserting after subparagraph (B) the following:
+ `(C) The Administrator may waive the requirements of subparagraph (A) if--
+ `(i) in the case of subparagraph (B) (i), (ii) and (iv), he is requested
+ to do so prior to the actual relinquishment of ownership or control; and
+ `(ii) in the case of subparagraph (B)(iii), he is requested to do so as
+ soon as possible after the incapacity or death occurs.'.
+SEC. 17. DUE PROCESS RIGHTS.
+ Section 8(a)(9) of the Small Business Act (15 U.S.C. 637(a)(9)) is amended--
+ (1) in subparagraph (A), by striking `Administrator' and inserting
+ `Administration';
+ (2) in subparagraph (B)(iii), by striking `section 7(j)(10)(H)' and inserting
+ `section 7(j)(10)(G)'; and
+ (3) in subparagraph (C), by striking `Administrator's' and inserting
+ `Administration's'.
+SEC. 18. EMPLOYEE TRAINING AND EVALUATION.
+ Section 410 of the Act is amended--
+ (1) in subsection (a), by striking `Training Requirements for Business
+ Specialists' and inserting `Training Requirements for Business Opportunity
+ Specialists'; and
+ (2) in subsection (c)(2), by striking `subsection (a)' and inserting
+ `subsection (b)'.
+SEC. 19. PRESIDENTIAL REPORT ON CONTRACTING GOALS.
+ Section 15(h)(2)(A) of the Small Business Act (15 U.S.C. 644(h)(2)(A))
+ is amended by inserting `individuals' after `economically disadvantaged'.
+SEC. 20. COMMISSION ON MINORITY BUSINESS DEVELOPMENT.
+ Section 505 of the Act is amended--
+ (1) in subsection (b)(1)(B)(ii), by striking `program participants' each
+ place it appears and inserting `Program Participants';
+ (2) in subsection (b)(1)(C), by striking `subparagraph (B)' and inserting
+ `subparagraph (A)';
+ (3) in subsection (b)(2)(C), by striking `each such subparagraph' and
+ inserting `paragraph (1)';
+ (4) in subsection (c)(3), by striking `such subparagraphs' and inserting
+ `subparagraphs (B), (C), and (D)';
+ (5) in subsection (c)(6)(B), by striking `paragraph 2' and inserting
+ `subsection (b)(2)';
+ (6) in subsection (d)(1)(B), by striking `531(b)' and inserting `5311(b)';
+ (7) by adding at the end of subsection (d) the following:
+ `(C) To facilitate the expeditious initiation of the Commission's activities,
+ the Administrator of the Small Business Administration shall designate an
+ Executive Secretary and provide such additional interim staff and support
+ services as the Administrator deems appropriate until the time of the
+ Commission's organizational meeting and the designation of its Executive
+ Director, or such longer time as may be agreed upon by the Administrator
+ and the Chairperson of the Commission.';
+ (8) in subsection (f), by striking `cease to exist on' and inserting `cease
+ to exist within 90 days after'; and
+ (9) in subsection (g), by striking `authorized in the section' and inserting
+ `authorized in this section'.
+SEC. 21. RELATIONSHIP WITH OTHER PROCUREMENT PROGRAMS.
+ Section 15(m)(1)(A) of the Small Business Act (15 U.S.C. 644(m)(1)(A))
+ is amended by striking `procedure' and inserting `procedures'.
+SEC. 22. INDIAN TRIBE EXEMPTIONS.
+ Section 602 of the Act is amended--
+ (1) in subsection (a), by striking `Section 8(a)(16) of the Small Business
+ Act' and inserting `Section 8(a)(1)(D) of the Small Business Act,';
+ (2) in subsection (b)(2)(B), by inserting after `reservation' `or former
+ reservation of such tribe as determined by the Secretary of the Interior';
+ (3) in subsection (b)(2)(C), by inserting `, or such former reservation'
+ before the semicolon; and
+ (4) by striking subsection (d) and redesignating subsection (e) as subsection
+ (d).
+SEC. 23. SMALL BUSINESS COMPETITIVENESS DEMONSTRATION PROGRAM.
+ Section 711(a) of the Act is amended by inserting `in this title' after
+ `referred to'.
+SEC. 24. ENHANCED SMALL BUSINESS PARTICIPATION GOALS.
+ Section 712(b)(1) of the Act is amended by striking `section 718' and
+ inserting `section 717'.
+SEC. 25. PROCUREMENT PROCEDURES AND REPORTING.
+ (a) PROCUREMENT PROCEDURES- Section 713(a) of the Act is amended by striking
+ `$25,000 or more' and inserting `more than $25,000'.
+ (b) REPORTING- Section 714(c)(2) of the Act is amended by striking `section
+ 712(d)' and inserting `section 712(c)'.
+SEC. 26. DESIGNATED INDUSTRY GROUPS.
+ Section 717(b)(2) of the Act is amended to read as follows:
+ `(2) Major Group 16 (Heavy Construction Other Than Building
+ Construction--Contractors) (excluding dredging);'.
+SEC. 27. DEFINITION OF PARTICIPATING AGENCY.
+ Section 718(c) of the Act is amended--
+ (1) by redesignating paragraphs (5) through (9) as paragraphs (6) through
+ (10), respectively, and by inserting after paragraph (4) the following
+ new paragraph:
+ `(5) the Department of the Interior,'; and
+ (2) in paragraph (8), as redesignated, by inserting `with' before `the
+ Public Building Service'.
+SEC. 28. ALTERNATIVE PROGRAM FOR CLOTHING AND TEXTILES.
+ Section 721 of the Act is amended--
+ (1) by inserting `(10 U.S.C. 2301 note)' after `Fiscal Year 1987' in
+ subsection (a)(2)(B); and
+ (2) by adding at the end thereof the following:
+ `(c) PROGRAM TERM- The Program shall commence on January 1, 1989, and
+ terminate on September 30, 1992.
+ `(d) REPORT- The Secretary of Defense shall issue reports to the Congress
+ on the operations of the program established pursuant to this section. Such
+ reports shall detail the effects of the program on the mobilization base and
+ on small business concerns and small business concerns owned and controlled
+ by socially and economically disadvantaged individuals. Interim reports shall
+ be submitted every 6 months during the term of the program to the Committees
+ on Armed Services and Small Business of the House of Representatives and
+ the Senate.'.
+SEC. 29. EXPANDING SMALL BUSINESS PARTICIPATION IN DREDGING.
+ Section 722 of the Act is amended--
+ (1) in subsection (a), by adding before the end period the following:
+ `solicited on or after January 1, 1989';
+ (2) in subsection (d)(1)(B), by inserting `foster' before `joint ventures';
+ (3) in subsection (d)(1)(C), by inserting `foster' before `subcontracting
+ through'; and
+ (4) in subsection (f), by inserting `, regarding compliance with this section'
+ at the end of paragraph (1), and by striking paragraph (3).
+SEC. 30. REGULATIONS.
+ Section 801(3) of the Act is amended by striking `two hundred and ten days'
+ and inserting `270 days'.
+SEC. 31. AMENDMENTS TO EFFECTIVE DATES.
+ Section 803 of the Act is amended--
+ (1) in subsection (b)(3)(B), by striking `Sections 302 and' and inserting
+ `Section';
+ (2) in subsection (b), by redesignating paragraphs (2) and (3) as paragraphs
+ (3) and (4), respectively, and by inserting after paragraph (1) the following
+ new paragraph:
+ `(2) Section 302 shall take effect on June 1, 1989.'; and
+ (3) in paragraph (1) of subsection (b), by striking `June 1, 1989' and
+ inserting `August 15, 1989'.
+SEC. 32. EFFECTIVE DATES OF THIS ACT.
+ The amendments made by this Act shall apply as if included in the Business
+ Opportunity Development Reform Act of 1988.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.

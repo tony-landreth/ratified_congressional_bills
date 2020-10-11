@@ -1,0 +1,1609 @@
+ 
+--H.R.6125--
+H.R.6125
+One Hundred Second Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+An Act
+To enhance the financial safety and soundness of the banks and associations of
+the Farm Credit System, and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+  (a) SHORT TITLE- This Act may be cited as the `Farm Credit Banks and
+  Associations Safety and Soundness Act of 1992'.
+  (b) TABLE OF CONTENTS- The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. References to the Farm Credit Act of 1971.
+TITLE I--IMPROVEMENTS TO FARM CREDIT SYSTEM SAFETY AND SOUNDNESS
+Sec. 101. Definition of permanent capital.
+Sec. 102. Qualifications of Farm Credit Administration Board members.
+TITLE II--FARM CREDIT SYSTEM INSURANCE CORPORATION
+Sec. 201. Farm Credit System Insurance Corporation.
+Sec. 202. Statutory successor to Assistance Board agreements.
+Sec. 203. Use of Farm Credit Administration personnel.
+Sec. 204. GAO reports on risk-based insurance premiums, access to association
+capital, supplemental premiums, and consolidation.
+TITLE III--REPAYMENT OF FARM CREDIT SYSTEM DEBT OBLIGATIONS
+Sec. 301. Capital preservation.
+Sec. 302. Preferred stock.
+Sec. 303. Systemwide repayment obligation.
+Sec. 304. Repayment of Treasury-paid interest.
+Sec. 305. Transfer of obligations from associations to banks; other matters.
+Sec. 306. Defaults.
+Sec. 307. Authority of Financial Assistance Corporation.
+Sec. 308. Technical amendments.
+TITLE IV--CLARIFICATION OF CERTAIN AUTHORITIES
+Sec. 401. Clarification of the status and powers of certain institutions of
+the Farm Credit System.
+TITLE V--MISCELLANEOUS
+Sec. 501. Valuation reserves of production credit associations.
+Sec. 502. Risk management participation authority.
+Sec. 503. Equity voting for one director of each bank for cooperatives.
+Sec. 504. Technical amendment.
+Sec. 505. Expansion of water and sewer lending authority of banks for
+cooperatives.
+Sec. 506. Eligibility to borrow from a bank for cooperatives.
+Sec. 507. Non-voting representative on board of Funding Corporation.
+Sec. 508. Repeal of prohibition against guarantee of certain instruments
+of indebtedness.
+Sec. 509. Compensation of bank directors.
+Sec. 510. Clarification of treatment of Farm Credit Administration operating
+expenses.
+Sec. 511. Approval of competitive charters.
+Sec. 512. Examinations.
+Sec. 513. Authority to examine System institutions.
+Sec. 514. Financial disclosure and conflict of interest reporting by directors,
+officers, and employees of Farm Credit System institutions.
+Sec. 515. One-time EFAP assistance.
+Sec. 516. Technical corrections.
+SEC. 2. REFERENCES TO THE FARM CREDIT ACT OF 1971.
+  Whenever in this Act an amendment or repeal is expressed in terms of an
+  amendment to, or repeal of, a section or other provision, the reference
+  shall be considered to be made to a section or other provision of the
+  Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), except to the extent
+  otherwise provided.
+TITLE I--IMPROVEMENTS TO FARM CREDIT SYSTEM SAFETY AND SOUNDNESS
+SEC. 101. DEFINITION OF PERMANENT CAPITAL.
+  Paragraph (1) of section 4.3A(a) (12 U.S.C. 2154a(a)(1)) is amended to
+  read as follows:
+  `(1) PERMANENT CAPITAL- The term `permanent capital' means--
+  `(A) current year retained earnings;
+  `(B) allocated and unallocated earnings (which, in the case of earnings
+  allocated in any form by a System bank to any association or other
+  recipient and retained by the bank, shall be considered, in whole or in
+  part, permanent capital of the bank or of any such association or other
+  recipient as provided under an agreement between the bank and each such
+  association or other recipient);
+  `(C) all surplus (less allowances for losses);
+  `(D) stock issued by a System institution, except--
+  `(i) stock that may be retired by the holder of the stock on repayment of
+  the holder's loan, or otherwise at the option or request of the holder; or
+  `(ii) stock that is protected under section 4.9A or is otherwise not at
+  risk; and
+  `(E) any other debt or equity instruments or other accounts that the Farm
+  Credit Administration determines appropriate to be considered permanent
+  capital.'.
+SEC. 102. QUALIFICATIONS OF FARM CREDIT ADMINISTRATION BOARD MEMBERS.
+  Section 5.8 (12 U.S.C. 2242) is amended by adding at the end the following
+  new subsection:
+  `(e) The President shall appoint members of the Board who--
+  `(1) are experienced or knowledgeable in agricultural economics and
+  financial reporting and disclosure;
+  `(2) are experienced or knowledgeable in the regulation of financial
+  entities; or
+  `(3) have a strong financial, legal, or regulatory background.'.
+TITLE II--FARM CREDIT SYSTEM INSURANCE CORPORATION
+SEC. 201. FARM CREDIT SYSTEM INSURANCE CORPORATION.
+  (a) IN GENERAL- Section 5.53 (12 U.S.C. 2277a-2) is amended to read
+  as follows:
+`SEC. 5.53. BOARD OF DIRECTORS.
+  `(a) IN GENERAL-
+  `(1) ESTABLISHMENT- The management of the Corporation shall be vested in a
+  Board of Directors (referred to in this section as the `Board'). The Board
+  shall establish policies for the Corporation. The Board shall provide for
+  the performance of all the powers and duties vested in the Corporation.
+  `(2) APPOINTMENT- The Board shall consist of three members, who shall be
+  citizens of the United States and broadly representative of the public
+  interest. Members of the Board shall be appointed by the President, by
+  and with the advice and consent of the Senate. Not more than two members
+  of the Board shall be members of the same political party.
+  `(3) CHAIRPERSON- Of the persons appointed to the Board, one shall be
+  designated by the President to serve as Chairperson of the Board for the
+  duration of the term of the member.
+  `(4) POSTEMPLOYMENT PROHIBITION- A member of the Board shall be ineligible
+  during the time the member is in office and for 2 years thereafter to
+  hold any office, position, or employment in any institution of the Farm
+  Credit System.
+  `(b) TERM OF OFFICE-
+  `(1) IN GENERAL- The term of office of each member of the Board shall be 6
+  years, except that the terms of the two members, other than the Chairperson,
+  first appointed under subsection (a) shall expire, one on the expiration
+  of 2 years after the date of appointment, and one on the expiration of 4
+  years after the date of appointment.
+  `(2) SUCCESSION- Members of the Board shall not be appointed to succeed
+  themselves, except that the members first appointed under subsection (a)
+  for a term of less than 6 years may be reappointed for a full 6-year term
+  and members appointed to fill unexpired terms of 3 years or less may be
+  reappointed for a full 6-year term.
+  `(3) VACANCIES- Any vacancy shall be filled for the unexpired term on like
+  appointment. Any member of the Board shall continue to serve as a member
+  after the expiration of the term of the member until a successor has been
+  appointed and qualified.
+  `(c) ORGANIZATION-
+  `(1) OATH- Each member of the Board, within 15 days after notice of
+  appointment, shall subscribe to the oath of office.
+  `(2) QUORUM- The Board may transact business if a vacancy exists, if a
+  quorum is present. A quorum shall consist of two members of the Board.
+  `(3) MEETING- The Board shall hold meetings at such times and places as
+  the Board may fix and determine. The meetings shall be held on the call
+  of the Chairperson or any two Board members.
+  `(4) RULES; RECORDS- The Board shall adopt such rules as the Board considers
+  appropriate for the transaction of business by the Board, and shall keep
+  permanent and accurate records and minutes of the actions and proceedings
+  of the Board.
+  `(d) COMPENSATION-
+  `(1) IN GENERAL- The members of the Board shall devote their full time
+  and attention to the business of the Board.
+  `(2) CHAIRPERSON- The Chairperson of the Board shall receive compensation at
+  the rate prescribed for level III of the Executive Schedule under section
+  5314 of title 5, United States Code.
+  `(3) OTHER MEMBERS- Each of the other members of the Board shall receive
+  compensation at the rate prescribed for level IV of the Executive Schedule
+  under section 5315 of title 5, United States Code.
+  `(4) EXPENSES- Each member of the Board shall be reimbursed for necessary
+  travel, subsistence, and other expenses in the discharge of the official
+  duties of the member without regard to other laws with respect to allowance
+  for travel and subsistence of officers and employees of the United States.'.
+  (b) CONFORMING AMENDMENTS-
+  (1) CHAIRPERSON- Section 5314 of title 5, United States Code, is amended
+  by adding at the end the following new item:
+  `Chairperson, Board of Directors of the Farm Credit System Insurance
+  Corporation.'.
+  (2) MEMBERS- Section 5315 of such title is amended by adding at the end
+  the following new item:
+  `Members, Board of Directors of the Farm Credit System Insurance
+  Corporation.'.
+  (c) EFFECTIVE DATE-
+  (1) IN GENERAL- The amendments made by this section shall become effective
+  on January 1, 1996.
+  (2) TRANSITIONAL PROVISION- The Board of Directors of the Farm Credit System
+  Insurance Corporation as established by section 5.53 of the Farm Credit Act
+  of 1971 (12 U.S.C. 2277a-2) (as it existed before the amendments made by
+  subsection (a) of this section) shall continue in existence and continue
+  to manage the Farm Credit System Insurance Corporation until at least two
+  members are appointed by the President, by and with the advice and consent
+  of the Senate, to the new Board established by section 5.53 of such Act
+  (as amended by subsection (a) of this section).
+SEC. 202. STATUTORY SUCCESSOR TO ASSISTANCE BOARD AGREEMENTS.
+  (a) IN GENERAL- Section 5.58(2) (12 U.S.C. 2277a-7(2)) is amended by adding
+  at the end the following new sentence: `The Corporation shall succeed to
+  the rights of the Farm Credit System Assistance Board under agreements
+  between the Farm Credit System Assistance Board and System institutions
+  certifying the institutions as eligible to issue preferred stock pursuant
+  to title VI on the termination of the Assistance Board on the date provided
+  in section 6.12.'.
+  (b) CONFORMING AMENDMENTS- Section 5.35(4) (12 U.S.C. 2271(4)) is amended--
+  (1) by striking `and' at the end of subparagraph (A);
+  (2) by striking the period at the end of subparagraph (B) and inserting
+  `; and'; and
+  (3) by adding at the end the following new subparagraph:
+  `(C) after December 31, 1992, mean any significant noncompliance by a
+  System institution (as determined by the Farm Credit Administration, in
+  consultation with the Farm Credit System Insurance Corporation) with any
+  term or condition imposed on the institution by the Farm Credit System
+  Assistance Board under section 6.6 or by the Farm Credit System Insurance
+  Corporation under section 5.61.'.
+SEC. 203. USE OF FARM CREDIT ADMINISTRATION PERSONNEL.
+  Section 5.59(a) (12 U.S.C. 2277a-8(a)) is amended by adding at the end
+  the following new paragraph:
+  `(5) USE OF FARM CREDIT ADMINISTRATION PERSONNEL- To the extent practicable,
+  the Corporation shall use the personnel and resources of the Farm Credit
+  Administration to minimize duplication of effort and to reduce costs.'.
+SEC. 204. GAO REPORTS ON RISK-BASED INSURANCE PREMIUMS, ACCESS TO ASSOCIATION
+CAPITAL, SUPPLEMENTAL PREMIUMS, AND CONSOLIDATION.
+  (a) IN GENERAL- The Comptroller General of the United States shall
+  investigate, review, and evaluate the feasibility and appropriateness,
+  and report to the Committee on Agriculture of the House of Representatives
+  and the Committee on Agriculture, Nutrition, and Forestry of the Senate,
+  on the advantages and disadvantages of providing the Farm Credit System
+  Insurance Corporation with--
+  (1) the authority to directly or indirectly assess associations to ensure
+  that all System capital is available to prevent losses to investors,
+  including a study of--
+  (A) the effects of direct assessments by the Insurance Corporation on
+  associations, including interest rate charges to borrowers;
+  (B) the effects of requiring that banks pass along the cost of insurance
+  premiums to owner associations and other financing institutions having a
+  discount relationship with the bank;
+  (C) the effects of requiring owner associations to purchase stock in the
+  district bank, if needed, to prevent a bank from having to return to the
+  Insurance Corporation for financial assistance once the assistance has
+  been given;
+  (D) the effects of the purchase of stock from funds of the association
+  (through funds obtained from other than the district bank) or allowing the
+  bank to increase the direct line of credit to the association in order to
+  fund the purchase; and
+  (E) the effect that authorizing the Insurance Corporation to assess the
+  association could have on the association's incentives for building capital;
+  (2) the authority to collect supplemental insurance premiums under certain
+  circumstances, including a study of--
+  (A) the possibility of the Insurance Fund being depleted more rapidly than
+  it could be replenished under the current premium structure;
+  (B) the effects of the depletion under alternate economic scenarios and
+  the probability of the occurrence of each of those scenarios;
+  (C) the effects on capital accumulation and interest rates of levying a
+  supplemental premium; and
+  (D) limitations on any authority to levy supplemental premiums and the
+  underlying basis for the limitations; and
+  (3) the authority to establish an insurance premium rate structure that
+  would take into account, on an institution-by-institution basis, asset
+  quality risk, interest rate risk, earnings, and capital.
+  (b) REPORT ON CONSOLIDATION-
+  (1) IN GENERAL- The Comptroller General of the United States shall evaluate
+  and report to the Committee on Agriculture of the House of Representatives
+  and the Committee on Agriculture, Nutrition, and Forestry of the Senate on
+  whether there are likely to be benefits to farmer and rancher borrowers
+  of the Farm Credit System institutions of merging the 10 district Farm
+  Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into
+  fewer regional Farm Credit Banks.
+  (2) FACTORS- In preparing the report, the Comptroller General shall
+  consider--
+  (A) the potential reduction in services to farmers and ranchers;
+  (B) the potential benefits of jointly providing services to farmers and
+  ranchers among these proposed regional districts;
+  (C) any economy of scale effects on a district-by-district basis;
+  (D) the potential impact on the cooperative nature of the Farm Credit System;
+  (E) the potential impact on bank and association relationships; and
+  (F) the potential impact on System-wide bond issuances.
+  (c) POTENTIAL SAVINGS- The Comptroller General of the United States shall
+  evaluate and report to the appropriate committees of Congress on the
+  potential savings to the Farm Credit System and its shareholders that
+  might occur if System institutions and the Farm Credit Administration
+  were required to comply with General Services Administration standards
+  for office space, furniture, and equipment.
+  (d) DEADLINE- The reports required under this section shall be provided
+  to Congress not later than 12 months after the date of enactment of this Act.
+TITLE III--REPAYMENT OF FARM CREDIT SYSTEM DEBT OBLIGATIONS
+SEC. 301. CAPITAL PRESERVATION.
+  Section 6.9(e)(3) (12 U.S.C. 2278a-9(e)(3)) is amended--
+  (1) by striking subparagraph (C) and inserting the following new
+  subparagraph:
+  `(C) PAYMENT OF PRINCIPAL-
+  `(i) IN GENERAL- After the end of the 15-year period beginning on the date
+  of the issuance of any obligation issued to carry out this subsection,
+  the banks operating under this Act shall pay to the Financial Assistance
+  Corporation, on demand, an amount equal to the outstanding principal of
+  the obligation. Each bank shall pay a proportion of the principal equal to--
+  `(I) the average accruing loan volume of the bank for the preceding 15
+  years; divided by
+  `(II) the average accruing loan volume of all banks of the System for the
+  same period.
+  `(ii) BANKS LEAVING SYSTEM- Any bank leaving the Farm Credit System
+  pursuant to section 7.10 shall be required, under regulations of the Farm
+  Credit Administration, to pay to the Financial Assistance Corporation the
+  estimated present value of the payment required under this subparagraph
+  had the bank remained in the System.
+  `(iii) BANKS UNDERGOING LIQUIDATION- With respect to any bank undergoing
+  liquidation under this Act, a liability to the Financial Assistance
+  Corporation in the amount of the payment required under this subparagraph
+  (calculated as if the bank had left the System on the date it was placed
+  in liquidation) shall be recognized as a claim in favor of the Financial
+  Assistance Corporation against the estate of the bank.
+  `(iv) OBLIGATIONS OF OTHER BANKS- The obligations of other banks shall not
+  be reduced in anticipation of any recoveries under this subparagraph from
+  banks leaving the System or in liquidation, but the Financial Assistance
+  Corporation shall apply the recoveries, when received, and all earnings
+  on the recoveries, to reduce the other banks' payment obligations, or,
+  to the extent the recoveries are received after the other banks have met
+  their entire payment obligation, shall refund the recoveries, when received,
+  to the other banks in proportion to the other banks' payments.';
+  (2) by redesignating subparagraph (D) as subparagraph (E);
+  (3) by inserting after subparagraph (C) the following new subparagraph:
+  `(D) ANNUAL PAYMENTS-
+  `(i) IN GENERAL- In order to provide for the orderly funding and discharge
+  over time of the obligation of each System bank to the Financial Assistance
+  Corporation under subparagraph (C), each System bank shall enter into or
+  continue in effect an agreement with the Financial Assistance Corporation
+  under which the bank will make annual annuity-type payments to the Financial
+  Assistance Corporation, beginning no later than December 31, 1992 (except
+  for any bank that did not meet its interim capital requirement on December
+  31, 1990, in which case the bank shall begin making the payments no later
+  than December 31, 1993) in amounts designed to accumulate, in total,
+  including earnings on the amounts, to 90 percent of the bank's ultimate
+  obligation. The Financial Assistance Corporation shall partially discharge
+  the bank from its obligation under subparagraph (C) to the extent of each
+  such payment and the earnings on the payment as earned.
+  `(ii) CAPITAL REQUIREMENTS- The agreement shall not require payments to be
+  made to the extent that making a particular payment or part of a payment
+  would cause the bank to fail to satisfy applicable regulatory permanent
+  capital requirements, but shall provide for recalculation of subsequent
+  payments accordingly.
+  `(iii) INVESTMENT; AVAILABILITY- The funds received by the Financial
+  Assistance Corporation pursuant to the agreements shall be invested in
+  eligible investments as defined in section 6.25(a)(1). The funds and the
+  earnings on the funds shall be available only for the payment of the
+  principal of the bonds issued by the Financial Assistance Corporation
+  under this subsection.'; and
+  (4) in subparagraph (E) (as redesignated by paragraph (2)), by inserting
+  before the period at the end the following: `, nor shall the obligation
+  to make future annuity payments to the Financial Assistance Corporation
+  under subparagraph (D) be considered a liability of any System bank'.
+SEC. 302. PREFERRED STOCK.
+  Subparagraph (B) of section 6.26(d)(1) (12 U.S.C. 2278b-6(d)(1)(B)) is
+  amended to read as follows:
+  `(B) PAYMENTS BY INSTITUTIONS-
+  `(i) IN GENERAL- Except as provided in subparagraph (C), in order to enable
+  the Financial Assistance Corporation to repay the obligation referred to
+  in subparagraph (A), each institution that issued preferred stock under
+  section 6.27(a) with respect to the obligation (or the successor to the
+  institution) shall pay to the Financial Assistance Corporation, before
+  the maturity date of the obligation, an amount equal to the par value of
+  the stock outstanding for the institution.
+  `(ii) ANNUAL APPROPRIATION- Except as provided in clause (iii), each
+  year beginning in 1992, as soon as practicable following the end of the
+  prior year, each such institution (except institutions in receivership
+  and institutions that have previously redeemed their preferred stock)
+  shall appropriate from its earnings in the prior year to an appropriated
+  unallocated surplus account with respect to preferred stock, the sum of--
+  `(I) the greater of--
+  `(aa) such amount as the institution may be required to appropriate under
+  any assistance agreement the institution has with the Farm Credit System
+  Assistance Board or the Farm Credit System Insurance Corporation; or
+  `(bb) the amount that, if appropriated to the account in equal amounts in
+  each year thereafter until the maturity of the obligation referred to in
+  subparagraph (A), would cause the amount in the account to equal the par
+  value of the preferred stock issued by the institution with respect to
+  the obligation; plus
+  `(II) any amount that had been appropriated to the account in a previous
+  year but had thereafter been offset by losses.
+  `(iii) LIMITATION- An annual appropriation shall not be made to the
+  extent that the appropriation would exceed the institution's net income
+  (as determined pursuant to generally accepted accounting principles)
+  in that year or to the extent that the appropriation would cause the
+  institution's preferred stock to be impaired.
+  `(iv) USE- The amount in the appropriated unallocated surplus account shall
+  be unavailable to pay dividends or other allocations or distributions to
+  shareholders or holders of participation certificates. The account shall be
+  senior to all other unallocated surplus accounts but junior to all preferred
+  and common stock for purposes of the application of operating losses.
+  `(v) PREFERRED STOCK- The appropriations of surplus by an institution shall
+  not affect the treatment of its preferred stock (and of the appropriated
+  unallocated surplus) as equity for purposes of regulatory permanent capital
+  requirements.'.
+SEC. 303. SYSTEMWIDE REPAYMENT OBLIGATION.
+  Subparagraph (C) of section 6.26(d)(1) (12 U.S.C. 2278b-6(d)(1)(C)) is
+  amended to read as follows:
+  `(C) SYSTEMWIDE REPAYMENT-
+  `(i) IN GENERAL- In order to enable the Financial Assistance Corporation to
+  repay the obligations issued to provide assistance under subsections (c) and
+  (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011
+  note) and section 4.9A(c) of this Act, or issued to provide funds to cover
+  the expenses of the Assistance Board or the Financial Assistance Corporation
+  under sections 6.7(a) and 6.24, respectively, of this Act, each System bank
+  shall pay to the Financial Assistance Corporation a proportion, as calculated
+  by the Financial Assistance Corporation, of the obligation equal to--
+  `(I) the average accruing retail loan volume of the bank and its affiliated
+  associations for the preceding 15 years; divided by
+  `(II) the average accruing retail loan volume of all such banks and their
+  affiliated associations for the same period.
+  `(ii) EXPENSE ITEM- The annual increase in the present value of the estimated
+  obligation of each bank to the Financial Assistance Corporation under this
+  subparagraph shall be recorded each year as an expense item, in accordance
+  with generally accepted accounting principles, on the books of the bank.
+  `(iii) PASS THROUGH- A bank may (and, to the extent necessary to satisfy
+  its obligations, shall) pass on (either directly, or indirectly through
+  loan pricing or otherwise) all or part of the amount necessary to satisfy
+  the payment requirement to its affiliated direct lender associations based
+  on proportionate average accruing retail loan volumes for the preceding
+  15 years, except that the bank shall remain primarily liable for the amount.
+  `(iv) BANKS LEAVING SYSTEM- Any bank leaving the Farm Credit System
+  pursuant to section 7.10 shall be required, under regulations of the Farm
+  Credit Administration, to pay to the Financial Assistance Corporation the
+  estimated present value of the payment required under this subparagraph had
+  the bank remained in the System. A liability to the Financial Assistance
+  Corporation in this amount (calculated as if the bank had left the System
+  on the date it was placed in liquidation) shall be recognized as a claim
+  in favor of the Financial Assistance Corporation against the estate of
+  any bank undergoing liquidation. The obligations of other banks shall not
+  be reduced in anticipation of any such recoveries from banks leaving the
+  System or in liquidation, but the Financial Assistance Corporation shall
+  apply the recoveries, when received, and all earnings on the recoveries,
+  to reduce the other banks' payment obligations, or, to the extent the
+  recoveries are received after the other banks have met their entire payment
+  obligation, shall refund the recoveries, when received, to the other banks
+  in proportion to the other banks' payments.
+  `(v) ASSOCIATIONS TERMINATING SYSTEM STATUS OR IN LIQUIDATION- Any
+  association leaving the Farm Credit System pursuant to section 7.10 shall
+  be required, under regulations of the Farm Credit Administration, to pay
+  to its supervising bank a share, based on the association's retail loan
+  volume relative to the retail loan volume of the bank and its affiliated
+  associations had the association remained in the System, of the present
+  value of the future payment obligation of its supervising bank. A liability
+  to the bank in this amount (calculated as if the association had left
+  the System on the date it was placed in liquidation) shall be recognized
+  as a claim in favor of the bank against the estate of any association
+  undergoing liquidation.'.
+SEC. 304. REPAYMENT OF TREASURY-PAID INTEREST.
+  (a) IN GENERAL- Paragraph (5) of section 6.26(c) (12 U.S.C. 2278b-6(c)(5))
+  is amended to read as follows:
+  `(5) Repayment of treasury-paid interest-
+  `(A) IN GENERAL- On the maturity date of the last-maturing debt obligation
+  issued under subsection (a), the Financial Assistance Corporation shall
+  repay to the Secretary of the Treasury the total amount of any annual
+  interest charges on the debt obligations that Farm Credit System institutions
+  (other than the Financial Assistance Corporation) have not previously paid,
+  and the Financial Assistance Corporation shall not be required to pay any
+  additional interest charges on the payments.
+  `(B) ASSESSMENT- In order to provide for the orderly funding by the banks of
+  the System of the repayment by the Financial Assistance Corporation to the
+  Secretary of the Treasury, the Financial Assistance Corporation shall assess
+  each System bank, on or about December 31 of each year beginning in 1992, and
+  each System bank shall promptly pay to the Financial Assistance Corporation,
+  an annual annuity type payment in an amount designed to accumulate, in total,
+  including earnings thereon, the amount of the bank's ultimate obligation
+  (as determined by the Corporation on a fair and equitable basis), and no
+  greater than .0006 nor less than .0004 times the bank's and its affiliated
+  associations' average accruing retail loan volume for the preceding year,
+  subject to--
+  `(i) upward or downward adjustment, as appropriate, by the Financial
+  Assistance Corporation during each of the last 5 years prior to the date
+  the Financial Assistance Corporation is obligated to make the repayment,
+  in order to ensure that the Financial Assistance Corporation will have
+  the amount of funds needed to make the repayment on the due date; and
+  `(ii) reduction or termination in any year when the funds paid to the
+  Financial Assistance Corporation, including any anticipated future earnings
+  on the funds, are sufficient to make the repayment on the due date.
+  `(C) INVESTMENT OF FUNDS- The Financial Assistance Corporation shall invest
+  funds derived from the investment in eligible investments as defined
+  in section 6.25(a)(1). The funds and the earnings on the funds shall be
+  available only for the repayment to the Secretary of the Treasury provided
+  for in subparagraph (A).
+  `(D) PASS THROUGH- A bank may (and, to the extent necessary to satisfy its
+  obligations, shall) pass on (either directly, or indirectly through loan
+  pricing or otherwise) all or part of the assessments to its affiliated
+  direct lender associations based on proportionate average accruing retail
+  loan volumes for the preceding year, but the bank shall remain primarily
+  liable for the amounts.
+  `(E) LIABILITY-
+  `(i) BANKS TERMINATING SYSTEM STATUS OR IN LIQUIDATION- Any bank terminating
+  System status pursuant to section 7.10 shall be required, under regulations
+  of the Farm Credit Administration, to pay to the Financial Assistance
+  Corporation the estimated present value of all future such assessments
+  against the bank had the bank remained in the System. A liability to the
+  Financial Assistance Corporation in this amount (calculated as if the bank
+  had left the System on the date the bank was placed in liquidation) shall
+  be recognized as a claim in favor of the Financial Assistance Corporation
+  against the estate of any bank undergoing liquidation.
+  `(ii) NO ANTICIPATORY REDUCTIONS IN OTHER OBLIGATIONS- The obligations of
+  other banks shall not be reduced in anticipation of any recoveries under
+  this subparagraph from banks leaving the System or in liquidation.
+  `(iii) REFUND OF RECOVERIES- The Financial Assistance Corporation shall
+  apply the recoveries, when received, and all earnings on the recoveries,
+  to reduce the other banks' payment obligations, or, to the extent the
+  recoveries are received after the other banks have met their entire payment
+  obligation, shall refund the recoveries, when received, to the other banks
+  in proportion to the other banks' payments.
+  `(F) ASSOCIATIONS TERMINATING SYSTEM STATUS OR IN LIQUIDATION- Any
+  association terminating System status pursuant to section 7.10 shall be
+  required, under regulations of the Farm Credit Administration, to pay
+  to its supervising bank a share, based on the association's retail loan
+  volume relative to the retail loan volume of the bank and its affiliated
+  associations had the association remained in the System, of the estimated
+  present value of all future such assessments against the bank. A liability
+  to the bank in this amount (calculated as if the association had left
+  the System on the date it was placed in liquidation) shall be recognized
+  as a claim in favor of the bank against the estate of any association
+  undergoing liquidation.
+  `(G) CAPITAL REQUIREMENTS-
+  `(i) IN GENERAL- Until the date that is 5 years prior to the date on which
+  the Financial Assistance Corporation is required to repay the Secretary of
+  the Treasury pursuant to subparagraph (A), all assessments paid by banks
+  to the Financial Assistance Corporation pursuant to subparagraph (B),
+  and any part of the obligation to pay future assessments to the Financial
+  Assistance Corporation under subparagraph (B) that is recognized as an
+  expense on the books of any System bank or association, shall nonetheless
+  be included in the capital of the bank or association for purposes of
+  determining its compliance with regulatory capital requirements.
+  `(ii) DURING THE FINAL 5 YEARS PRIOR TO REPAYMENT- During the--
+  `(I) period beginning 5 years, and ending 4 years, prior to the date
+  on which the Financial Assistance Corporation is required to repay the
+  Secretary of the Treasury pursuant to subparagraph (A), 60 percent;
+  `(II) period beginning 4 years, and ending 3 years, prior to the date
+  on which the Financial Assistance Corporation is required to repay the
+  Secretary of the Treasury pursuant to subparagraph (A), 30 percent; and
+  `(III) period beginning 3 years prior to the date on which the Financial
+  Assistance Corporation is required to repay the Secretary of the Treasury
+  pursuant to subparagraph (A), 0 percent,
+of all assessments paid by banks to the Financial Assistance Corporation
+pursuant to subparagraph (B), and of any part of the obligation to pay future
+assessments to the Financial Assistance Corporation under subparagraph (B) that
+is recognized as an expense on the books of any System bank or association,
+shall nonetheless be included in the capital of the bank or association for
+purposes of determining its compliance with regulatory capital requirements.'.
+  (b) CONFORMING AMENDMENT- Section 6.28 (12 U.S.C. 2278b-8) is amended by
+  striking subsection (b) and redesignating subsection (c) as subsection (b).
+SEC. 305. TRANSFER OF OBLIGATIONS FROM ASSOCIATIONS TO BANKS; OTHER MATTERS.
+  Section 6.26 (12 U.S.C. 2278b-6) is amended--
+  (1) in subsection (c)--
+  (A) in the subparagraph heading of paragraph (2)(B), by striking
+  `INSTITUTIONS' and inserting `BANKS';
+  (B) by striking `institutions' each place it appears in paragraphs (2)(B),
+  (3), and (4) and inserting `banks'; and
+  (C) in paragraph (2), by striking subparagraphs (C) and (D) and inserting
+  the following new subparagraph:
+  `(C) ALLOCATION- During each year of the second 5-year period, each System
+  bank shall pay to the Financial Assistance Corporation a proportion, as
+  calculated by the Financial Assistance Corporation, of the interest due
+  from System banks under this paragraph equal to--
+  `(i) the amount of the average accruing retail loan volume of the bank
+  and its affiliated associations for the preceding year; divided by
+  `(ii) the total average accruing retail loan volume of all such banks and
+  their affiliated associations for the preceding year.';
+  (2) in subsection (d)(1)--
+  (A) by striking subparagraph (D); and
+  (B) by redesignating subparagraph (E) as subparagraph (D); and
+  (3) by adding at the end the following new subsection:
+  `(e) ADMINISTRATION-
+  `(1) DEFINITION OF RETAIL LOAN VOLUME- As used in this section, the
+  term `retail loan volume' means all loans (as defined in accordance with
+  generally accepted accounting principles) by a System bank or association,
+  excluding loans by such a bank or association to another System institution.
+  `(2) CALCULATION OF AVERAGE ANNUAL LOAN VOLUMES- For purposes of this
+  section and section 6.9, average annual loan volumes shall be calculated
+  using month-end balances.
+  `(3) EXCLUSION OF BANKS UNDERGOING LIQUIDATION- For purposes of this
+  section and section 6.9, the term `bank' shall not include a bank that
+  had entered liquidation prior to the date of enactment of this subsection.'.
+SEC. 306. DEFAULTS.
+  Section 6.26(d) (12 U.S.C. 2278b-6(d)) is amended--
+  (1) in paragraph (3)--
+  (A) in subparagraph (A)--
+  (i) by striking the heading and inserting the following: `CERTAIN PRINCIPAL
+  AND INTEREST OBLIGATIONS- ';
+  (ii) in clause (i)--
+  (I) by inserting after `subsection (a),' the following: `on the payment
+  of principal or interest due under subparagraphs (B) and (C) of section
+  6.9(e)(3), on the payment of principal due under paragraph (1)(C), or on
+  the payment of an assessment due under subsection (c)(5)(B),';
+  (II) by striking `of the interest' both places it appears; and
+  (III) by striking `institution' each place it appears and inserting `bank';
+  (iii) in clause (ii)--
+  (I) by striking `of interest';
+  (II) by striking `institution' and inserting `bank'; and
+  (III) by striking `such uncollected interest' and inserting `any uncollected
+  amount'; and
+  (iv) in clause (iii), by striking `added' and all that follows through
+  the period at the end and inserting `allocated to other System banks in
+  accordance with the allocation mechanism applicable under this Act to the
+  particular defaulted obligation.';
+  (B) in subparagraph (B), by striking the subparagraph heading and inserting
+  the following new heading: `PRINCIPAL OF BONDS ISSUED TO FUND PURCHASE OF
+  PREFERRED STOCK- '; and
+  (C) in subparagraph (C)--
+  (i) in the heading, by striking `INSTITUTIONS' and inserting `BANKS';
+  (ii) by striking `institution' and inserting `bank';
+  (iii) by striking `institutions' both places it appears and inserting
+  `banks'; and
+  (iv) by striking `the amount of any interest' and inserting `any amounts';
+  and
+  (2) in paragraph (4)--
+  (A) in subparagraph (A), by inserting `or section 6.9(e)(3)(A)' after
+  `subsection (a)';
+  (B) in subparagraph (B)--
+  (i) in clause (i)--
+  (I) by striking the clause heading and inserting the following new heading:
+  `CERTAIN PRINCIPAL AND INTEREST OBLIGATIONS- ';
+  (II) by inserting after `subsection (c),' the following: `on the payment
+  of principal or interest due under subparagraphs (B) and (C) of section
+  6.9(e)(3), on the payment of principal due under paragraph (1)(C), or on
+  the payment of an assessment due under subsection (c)(5)(B),'; and
+  (III) by striking `institution' each place it appears and inserting
+  `bank'; and
+  (ii) in clause (ii), by striking the clause heading and inserting the
+  following new heading: `PRINCIPAL OF BONDS ISSUED TO FUND PURCHASE OF
+  PREFERRED STOCK- '.
+SEC. 307. AUTHORITY OF FINANCIAL ASSISTANCE CORPORATION.
+  (a) PURPOSE- Section 6.21 (12 U.S.C. 2278b-1) is amended by inserting
+  before the period at the end the following: `and to assist, pursuant to
+  section 6.9(e) and subsections (c) through (g) of section 6.26, in the
+  repayment by System institutions to those persons who provided funds in
+  connection with the program'.
+  (b) TERMINATION- Section 6.31(a) (12 U.S.C. 2278b-11(a)) is amended
+  by striking `terminate on' and inserting the following: `terminate on
+  the complete discharge by the Financial Assistance Corporation of its
+  responsibilities under section 6.9(e) and subsections (c) through (g)
+  of section 6.26 with regard to repayments by System institutions, but in
+  no event later than 2 years following'.
+SEC. 308. TECHNICAL AMENDMENTS.
+  (a) TECHNICAL AMENDMENT TO THE FOOD, AGRICULTURE, CONSERVATION, AND TRADE ACT
+  AMENDMENTS OF 1991- Section 204(3) of the Food, Agriculture, Conservation,
+  and Trade Act Amendments of 1991 (Public Law 102-237; 105 Stat. 1855)
+  is amended by striking `in section 1221(1)(D) (16 U.S.C. 3821(1)(D))'
+  and inserting `in section 1221(a)(1)(D) (16 U.S.C. 3821(a)(1)(D))'.
+  (b) TECHNICAL AMENDMENTS TO THE FARM CREDIT ACT OF 1971-
+  (1) Section 8.3(c)(13) of the Farm Credit Act of 1971 (12
+  U.S.C. 2279aa-3(c)(13)) is amended by striking `8.11(g)' and inserting
+  `8.11(e)'.
+  (2) Section 8.11(a)(1)(B)(ii) of such Act (12 U.S.C. 2279aa-11(a)(1)(B)(ii))
+  is amended by striking `the date of enactment of this section' and inserting
+  `December 13, 1991'.
+  (3) Section 8.32 of such Act (12 U.S.C. 2279bb-1) is amended--
+  (A) in each of subsections (a), (b)(1)(D), and (b)(2), by striking `the
+  date of the enactment of this section' each place the term appears and
+  inserting `December 13, 1991'; and
+  (B) in subsection (b)(1)(E), by striking `the date of the enactment of
+  such Act' and inserting `December 13, 1991'.
+TITLE IV--CLARIFICATION OF CERTAIN AUTHORITIES
+SEC. 401. CLARIFICATION OF THE STATUS AND POWERS OF CERTAIN INSTITUTIONS OF
+THE FARM CREDIT SYSTEM.
+  (a) CLARIFICATION OF AUTHORITY REGARDING REMAINING FEDERAL INTERMEDIATE
+  CREDIT BANK- Section 410 of the Agricultural Credit Act of 1987 (12
+  U.S.C. 2011 note) is amended by adding at the end the following new
+  subsection:
+  `(e) CLARIFICATION OF AUTHORITY REGARDING REMAINING FEDERAL INTERMEDIATE
+  CREDIT BANK-
+  `(1) NEGOTIATED MERGER-
+  `(A) REQUIREMENT-
+  `(i) IN GENERAL- Not later than June 30, 1993, except as provided in
+  subparagraph (C), the Federal Intermediate Credit Bank of Jackson (as
+  chartered on the date of enactment of this subsection) shall merge with
+  a Farm Credit Bank pursuant to the procedures prescribed by section 7.12
+  of the Farm Credit Act of 1971 (12 U.S.C. 2279f).
+  `(ii) MERGER OF ENTIRE BANK- Notwithstanding subparagraph (B), or any other
+  provision of law, the Farm Credit Administration shall approve a merger
+  of the Federal Intermediate Credit Bank of Jackson only if the Bank (as
+  chartered on the date of enactment of this subsection, except as provided in
+  subparagraph (B)(ii)(II)(bb)) merges in its entirety with a Farm Credit Bank.
+  `(iii) LIMITED LENDING AUTHORITY- Notwithstanding any provision of the Farm
+  Credit Act of 1971 (12 U.S.C. 2001 et seq.), the Farm Credit Bank resulting
+  from a merger under this subsection shall have only the lending authorities
+  in the States of Alabama, Louisiana, and Mississippi that the constituent
+  banks exercised in such States immediately prior to the merger, except as
+  may be provided in section 5.17(a)(2) of such Act (12 U.S.C. 2252(a)(2)).
+  `(B) OPERATING AND MERGER AUTHORITY-
+  `(i) IN GENERAL- Except as provided in clause (ii), the Federal Intermediate
+  Credit Bank of Jackson may operate subject to such provisions of part A of
+  title II of the Farm Credit Act of 1971 (as in effect immediately before
+  the amendment made by section 401 took effect) and such provisions of the
+  Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) (as in effect after the
+  amendment), as the Farm Credit Administration deems appropriate to carry
+  out the purposes of this subsection and such Act. This subparagraph shall
+  take effect as if it had become law at the same time as the amendment made
+  by section 401 and shall remain in effect until the Bank's merger with a
+  Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+  `(ii) LIMITATION ON OPERATING AUTHORITY-
+  `(I) IN GENERAL- Notwithstanding clause (i) and subparagraph (A)(ii), the
+  authority of the Federal Intermediate Credit Bank of Jackson to operate as
+  provided under clause (i) shall expire, and the Farm Credit Administration
+  shall revoke the Bank's charter, immediately on the Bank's merger with a
+  Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+  `(II) DISTRICT BOUNDARY MODIFICATION- Notwithstanding clause (i), the
+  authority of the Federal Intermediate Credit Bank of Jackson shall not
+  include the authority for the Bank to modify, nor shall the Farm Credit
+  Administration approve such a modification to, the boundaries of the
+  Fifth Farm Credit District to reaffiliate any portion of the District with
+  another Farm Credit Bank, except--
+  `(aa) in the case of the merger of the entire Bank as an entity with a
+  Farm Credit Bank such that the entire chartered territory of the Federal
+  Intermediate Credit Bank of Jackson (except as provided in item (bb))
+  is merged with the Farm Credit Bank; and
+  `(bb) in the case of the reaffiliation of the Northwest Louisiana Production
+  Credit Association with another farm credit district pursuant to the Farm
+  Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations
+  under such Act.
+  `(iii) LIMITATION ON AUTHORITY TO MERGE-
+  `(I) IN GENERAL- Notwithstanding clause (i), the authority of the Federal
+  Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as
+  provided under clause (i) shall expire, and the Farm Credit Administration
+  shall revoke the Bank's charter, immediately on the Bank's merger with a
+  Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+  `(II) BANK INTEGRITY- Notwithstanding clause (i), the authority of the
+  Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit
+  Bank shall be limited to a merger of the Federal Intermediate Credit Bank
+  of Jackson (as chartered on the date of enactment of this subsection to
+  include the territory in the States of Alabama, Louisiana, and Mississippi,
+  except as provided in clause (ii)(II)(bb)) as a whole entity such that
+  the entire chartered territory of the Federal Intermediate Credit Bank of
+  Jackson is merged with the Farm Credit Bank.
+  `(III) LIMITATION- Beginning on the date of an order issued by the Farm
+  Credit Administration under subparagraph (D), the authority of the Federal
+  Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank shall
+  be limited to the arbitrated merger provided for in paragraph (2).
+  `(C) EXTENSION-
+  `(i) LETTER OF INTENT- If no later than June 30, 1993, the Federal
+  Intermediate Credit Bank of Jackson delivers to the Farm Credit
+  Administration a letter of intent to merge with a Farm Credit Bank,
+  summarizing the terms and conditions of the merger (including, but not
+  limited to, board composition, capital structure, exchange, or transfer
+  of equities, and termination) signed by the chief executive officer and
+  the members of the boards of directors of the Federal Intermediate Credit
+  Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration
+  shall, on its determination that the letter of intent represents a bona
+  fide good faith agreement in principle between the two banks to merge,
+  and that there is at least a reasonable prospect that the merger will be
+  completed in an expeditious manner, grant a one-time extension, until a
+  date certain not later than October 31, 1993, of the requirement under
+  subparagraph (A). Any extension provided under this subparagraph may be
+  conditioned on such terms and conditions as the Farm Credit Administration
+  determines necessary to ensure that the merger described in the letter of
+  intent is completed by the closing date of the extension.
+  `(ii) COMPLIANCE- If the Farm Credit Administration grants an extension under
+  clause (i), it shall issue an order under subparagraph (D) immediately if--
+  `(I) the Federal Intermediate Credit Bank of Jackson, or the Farm Credit
+  Bank that is a signatory to the letter of intent under clause (i), provides
+  written notification to the Farm Credit Administration that the bank does
+  not intend to complete the merger described in the letter of intent;
+  `(II) the Farm Credit Administration determines that the Federal Intermediate
+  Credit Bank of Jackson is not complying with any term or condition on
+  which an extension under clause (i) was conditioned; or
+  `(III) the Farm Credit Administration determines that the Federal
+  Intermediate Credit Bank of Jackson is not pursuing in good faith the
+  merger provided for in the letter of intent.
+If the Farm Credit Administration issues an order under subparagraph (D)
+pursuant to this clause, the Federal Intermediate Credit Bank of Jackson shall
+be deemed to have failed to comply with the requirements of subparagraph (A).
+  `(D) FAILURE TO MERGE; ISSUANCE OF ORDER- If the Federal Intermediate
+  Credit Bank of Jackson fails to comply, or notifies the Farm Credit
+  Administration in writing that it does not intend to comply, with the
+  requirements of subparagraph (A), the Farm Credit Administration shall,
+  within 5 days after the date specified in subparagraph (A), or such other
+  date specified by the Farm Credit Administration under subparagraph (C),
+  issue, notwithstanding any other provision of law, an order requiring the
+  Federal Intermediate Credit Bank of Jackson to merge with the Farm Credit
+  Bank of Texas in accordance with paragraph (2).
+  `(2) ARBITRATED MERGER-
+  `(A) IN GENERAL- Not later than 30 days after the issuance of an order by the
+  Farm Credit Administration under paragraph (1)(D), an arbitrator (or panel
+  of arbitrators) shall be named by the American Arbitration Association in
+  accordance with the Commercial Arbitration Rules of the American Arbitration
+  Association to serve as the arbitrator referred to in this paragraph.
+  `(B) DUTIES- The arbitrator shall determine the terms and conditions of
+  the merger required under an order issued under paragraph (1)(D), such
+  that the terms and conditions are fair and equitable to the two banks,
+  their affiliated associations, the stockholders and borrowers of the
+  associations, and the other institutions of the Farm Credit System, and
+  are designed to protect or enhance the safety and soundness of the Farm
+  Credit System. The arbitrator shall have the authority to hire staff and
+  secure the services of consultants as necessary to discharge the duties
+  of the arbitrator under this paragraph.
+  `(C) EXPENSES- Notwithstanding any other provision of law, the compensation
+  and expenses of the arbitrator, the fees and expenses of the American
+  Arbitration Association, and any expenses associated with the referendum
+  required under subparagraph (F) shall be paid from the Farm Credit Assistance
+  Fund established under section 6.25 of the Farm Credit Act of 1971 (12
+  U.S.C. 2278b-5).
+  `(D) DEVELOPMENT OF MERGER PLANS-
+  `(i) IN GENERAL- Not later than 100 days after the issuance of an order by
+  the Farm Credit Administration under paragraph (1)(D), the arbitrator shall
+  develop and submit for certification to the Farm Credit Administration
+  a plan specifying the terms and conditions of the merger of the two
+  banks required under this paragraph, such that the terms and conditions
+  are fair and equitable to the two banks, their affiliated associations,
+  the stockholders or farmer-borrowers of the associations, and the other
+  institutions of the Farm Credit System, and are designed to protect or
+  enhance the safety and soundness of the Farm Credit System. In devising
+  the plan, the arbitrator shall, to the extent practicable, achieve the
+  following objectives:
+  `(I) Implementation of the preferences expressed by the affected and
+  interested parties in submissions under clause (ii).
+  `(II) Valuation of assets fairly, equitably, and consistently for all
+  parties involved.
+  `(III) Establishment of capitalization and funding terms in a manner that
+  treats farmer-borrowers and stockholders in the two involved farm credit
+  districts equitably and takes account of risk.
+  `(IV) Ensure the viability of the resulting Farm Credit Bank and associations
+  of the bank and the ability of the resulting bank and associations of the
+  bank to lend to eligible borrowers at reasonable and competitive rates
+  of interest.
+  `(ii) SUBMISSION OF VIEWS AND INFORMATION- The arbitrator shall receive from
+  affected and interested parties written submissions, in accordance with
+  fair and reasonable procedures established by the arbitrator, regarding
+  the terms and conditions of an appropriate plan for the merger of the two
+  banks required under this paragraph. The Federal Intermediate Credit Bank of
+  Jackson, the Farm Credit Bank of Texas, and their affiliated associations
+  shall make available all books, records, financial information, and other
+  material that the arbitrator determines is necessary to the development of
+  the plan or the fulfillment of any other requirement under this paragraph. A
+  copy of any submission or information provided to the arbitrator by any party
+  under this paragraph shall be furnished to the Federal Intermediate Credit
+  Bank of Jackson or the Farm Credit Bank of Texas on the written request
+  of the bank and at the bank's expense. The arbitrator shall provide both
+  banks with a reasonable opportunity to review and respond to any submission
+  or information provided by any party.
+  `(iii) CONTENT OF PLAN; FARM CREDIT BANK- The plan developed and submitted
+  under clause (i) shall include provisions regarding the following matters:
+  `(I) The initial composition, following the merger, of the board of
+  directors of the resulting Farm Credit Bank (which shall be subject to
+  change thereafter in accordance with the Farm Credit Act of 1971 (12
+  U.S.C. 2001 et seq.) and any applicable regulations).
+  `(II) The valuation, for purposes of the merger, of the assets and
+  liabilities of the merging banks.
+  `(III) The terms and conditions on which the shares of capital stock of
+  the Federal Intermediate Credit Bank of Jackson and, if necessary, the
+  Farm Credit Bank of Texas, will be converted into shares of the resulting
+  Farm Credit Bank.
+  `(IV) The capital structure and capitalization levels of the resulting
+  Farm Credit Bank and the affiliated associations of the Farm Credit Bank
+  in the States of Alabama, Louisiana, and Mississippi as the arbitrator
+  determines necessary to carry out the purposes of this paragraph (which
+  shall be subject to change thereafter in accordance with the Farm Credit
+  Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+  `(V) The terms of financing agreements between any production credit
+  associations or agricultural credit associations described in clause
+  (iv), and the resulting Farm Credit Bank (which shall be subject to change
+  thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001
+  et seq.) and any applicable regulations).
+  `(VI) Any other terms and conditions or other matters that the arbitrator
+  considers necessary.
+  `(iv) CONTENT OF PLAN; AGRICULTURAL CREDIT ASSOCIATIONS- If the arbitrator
+  determines that the chartering of agricultural credit associations in the
+  States of Alabama, Louisiana, and Mississippi will be in the best interests
+  of the farmers, ranchers, and aquatic producers eligible to borrow from
+  Farm Credit System associations, the plan required under this subparagraph
+  shall also include, based on submissions from the Federal Intermediate
+  Credit Bank of Jackson and the Farm Credit Bank of Texas, provisions for
+  the establishment of agricultural credit associations to operate in the
+  States, subject to approval in the referendum under subparagraph (F). Such
+  provisions shall include provisions regarding the following matters:
+  `(I) A proposal for the establishment of an agricultural credit association
+  in each of the geographic areas specified in subparagraph (F)(iii) (the
+  charters of which, if validly issued under subparagraph (G)(i) pursuant
+  to approval in the referendum under subparagraph (F), shall be subject
+  to change thereafter in accordance with the Farm Credit Act of 1971 (12
+  U.S.C. 2001 et seq.) and any applicable regulations).
+  `(II) The initial composition, if the proposal for the establishment of
+  agricultural credit associations is approved, of the board of directors of
+  each such agricultural credit association (which shall be subject to change
+  thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001
+  et seq.) and any applicable regulations).
+  `(III) The valuation, for purposes of the proposed merger of the production
+  credit association and the Federal land bank association in each of the
+  geographic areas specified in subparagraph (F)(iii), of the assets and
+  liabilities of the associations.
+  `(IV) The terms and conditions on which the shares of capital stock of
+  any associations that may merge under the plan to form agricultural credit
+  associations will be converted into shares of the resulting agricultural
+  credit associations.
+  `(V) The capital structure and capitalization levels of the resulting
+  Farm Credit Bank and such affiliated associations of the Farm Credit Bank
+  in the States of Alabama, Louisiana, and Mississippi as the arbitrator
+  determines necessary to carry out the purposes of this paragraph (which
+  capital structure and capitalization levels shall be subject to change
+  thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001
+  et seq.) and any applicable regulations).
+  `(VI) The terms of financing agreements between any agricultural credit
+  associations and the resulting Farm Credit Bank (which shall be subject
+  to change thereafter in accordance with the Farm Credit Act of 1971 (12
+  U.S.C. 2001 et seq.) and any applicable regulations).
+  `(VII) Any other terms and conditions or other matters that the arbitrator
+  considers necessary.
+  `(v) CONSULTATION WITH INSURANCE CORPORATION- The arbitrator shall consult
+  with the Farm Credit System Insurance Corporation regarding the valuation
+  of the assets and liabilities under the plan of merger, the capitalization
+  of the Farm Credit System institutions resulting under the plan, and any
+  other matters relevant to the assistance to be provided by the Insurance
+  Corporation to facilitate the merger under subparagraph (H).
+  `(E) CERTIFICATION OF PLAN- Not later than 30 days after the receipt of
+  the plan developed by the arbitrator, the Farm Credit Administration shall--
+  `(i) certify; or
+  `(ii) recommend to the arbitrator revisions to the plan that, if incorporated
+  into the plan, will allow the Farm Credit Administration to certify,
+that the resulting bank and any resulting associations are proposed to be
+organized in such a fashion that they will, on implementation of the plan,
+operate in compliance with applicable laws and regulations. The arbitrator
+and the Farm Credit Administration shall work cooperatively to ensure the
+expeditious issuance of the certification. If the Farm Credit Administration
+recommends to the arbitrator revisions to the plan that, if incorporated into
+the plan, will allow the Farm Credit Administration to certify the plan, the
+arbitrator shall, not later than 15 days after receipt of the recommended
+revisions, incorporate the revisions into the plan as the arbitrator deems
+appropriate to secure the certification.
+  `(F) REFERENDUM ON ASSOCIATION STRUCTURE-
+  `(i) IN GENERAL- Not later than 170 days after the issuance of an order
+  by the Farm Credit Administration under paragraph (1)(D), the American
+  Arbitration Association shall conduct, and compile and forward to the Farm
+  Credit Administration the results of, a vote of current farmer-borrowers of
+  the production credit associations and the Federal land bank associations
+  in the States of Alabama, Louisiana, and Mississippi, in accordance with
+  the Election Rules of the American Arbitration Association, to determine
+  whether the farmer-borrowers of each association in the geographic areas
+  described in clause (iii) prefer to have credit delivered--
+  `(I) in the case of production credit association farmer-borrowers,
+  through a production credit association or through an agricultural credit
+  association as proposed in the plan; and
+  `(II) in the case of Federal land bank association farmer-borrowers,
+  through a Federal land bank association or through an agricultural credit
+  association as proposed in the plan.
+Each farmer-borrower shall be entitled to one vote. The arbitrator shall
+establish record dates and other procedures for conducting the referendum. The
+Federal Intermediate Credit Bank of Jackson, the Farm Credit Bank of Texas,
+and their affiliated associations shall cooperate in the conduct of the
+referendum, as determined necessary by the Arbitrator.
+  `(ii) DISCLOSURE- The arbitrator shall send to farmer-borrowers eligible to
+  vote under this subparagraph, with their ballot, a statement describing the
+  potential consequences to the farmer-borrowers, and to the associations from
+  which they borrow, of voting to charter an agricultural credit association
+  and setting forth factors that farmer-borrowers should consider relevant
+  to the choice between credit delivery through the current association
+  structure and the chartering of an agricultural credit association. The
+  arbitrator shall develop the disclosure materials in cooperation with
+  the Farm Credit Administration and ensure that the materials are not
+  inconsistent with applicable laws and regulations.
+  `(iii) TABULATION OF RESULTS- The results of the vote under this
+  subparagraph shall be compiled separately for production credit association
+  farmer-borrowers and Federal land bank association farmer-borrowers in
+  each of the following seven geographic areas:
+  `(I) The area served by the Federal Land Bank Association of South
+  Mississippi.
+  `(II) The area served by the Federal Land Bank Association of North
+  Mississippi.
+  `(III) The area served by the Federal Land Bank Association of South Alabama.
+  `(IV) The area served by the Federal Land Bank Association of North Alabama.
+  `(V) The area served by the Federal Land Bank Association of South Louisiana.
+  `(VI) The area served by both the Federal Land Bank Association of North
+  Louisiana and the First South Production Credit Association.
+  `(VII) The area served by both the Federal Land Bank Association of North
+  Louisiana and the Northwest Louisiana Production Credit Association.
+  `(iv) PUBLICATION OF RESULTS- The results of the vote under this
+  subparagraph, as tabulated by the American Arbitration Association, shall
+  be made promptly available to the public in a manner determined appropriate
+  by the Farm Credit Administration.
+  `(G) IMPLEMENTATION- Not later than 10 days after the date of the receipt
+  of the results of the referendum conducted under subparagraph (F), the Farm
+  Credit Administration shall issue such charters or charter amendments and
+  take such other regulatory actions as may be necessary to implement the
+  merger or mergers as provided for under the certified plan. In this regard,
+  the Farm Credit Administration shall--
+  `(i) issue a charter or charter amendment and take any such other
+  regulatory actions as may be necessary to provide for the establishment of
+  an agricultural credit association in each of the geographic areas described
+  in subparagraph (F)(iii) where a majority of the farmer-borrowers of both
+  the production credit association and the Federal land bank association
+  voted under subparagraph (F)(i) that they preferred to have credit delivered
+  through an agricultural credit association (which charter shall be subject
+  to change thereafter in accordance with the Farm Credit Act of 1971 (12
+  U.S.C. 2001 et seq.) and any applicable regulations); and
+  `(ii) not issue a charter or charter amendment or take any such other
+  regulatory action to provide for the establishment of an agricultural credit
+  association in any of the geographic areas described in subparagraph (F)(iii)
+  where less than a majority of the farmer-borrowers of the production credit
+  association or the Federal land bank association voted in the referendum
+  under subparagraph (F)(i) that they preferred to have credit delivered
+  through an agricultural credit association (provided that the charter
+  of any remaining association in such geographic area shall be subject
+  to change thereafter in accordance with the Farm Credit Act of 1971 (12
+  U.S.C. 2001 et seq.) and any applicable regulations).
+  `(H) FACILITATION-
+  `(i) IN GENERAL- Beginning on the date of the issuance of an order by the
+  Farm Credit Administration under paragraph (1)(D), the Farm Credit System
+  Insurance Corporation shall expend amounts from the Farm Credit Insurance
+  Fund to the extent necessary to facilitate the merger prescribed in the plan.
+  `(ii) MAINTENANCE OF BOOK VALUE- Assistance provided by the Corporation
+  under this subparagraph shall be in amounts not to exceed that required to
+  maintain book value per share of stockholders' equity at the same value
+  reflected on the most recent audited financial statements of the Federal
+  Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas
+  prior to or effective with the date of the merger.
+  `(iii) OTHER ASSISTANCE- Until the expiration of 5 years from the effective
+  date of a merger authorized by this subsection, or the final resolution
+  of any litigation against the Federal Intermediate Credit Bank of Jackson
+  or any of its stockholders pending on the date of the enactment of this
+  subsection, whichever is later, the Corporation shall guarantee prompt
+  payment of any loss experienced by the merged bank, which loss is caused
+  by the failure of any association-stockholder of the merged bank that was a
+  stockholder of the Federal Intermediate Credit Bank of Jackson immediately
+  prior to the merger, or any successor to the association, to pay when due
+  any obligation of principal or interest owed by the association or its
+  successor to the resulting bank.
+  `(iv) TERMS AND CONDITIONS- Assistance provided by the Corporation under
+  this subparagraph shall be on such terms and conditions as the Corporation
+  deems appropriate to facilitate the merger.
+  `(I) SAFETY AND SOUNDNESS-
+  `(i) IN GENERAL- Except as provided in clause (ii), if at any time prior
+  to the completion of the merger required under this subsection the Farm
+  Credit Administration determines that the Federal Intermediate Credit Bank
+  of Jackson is being operated in an unsafe or unsound manner (as determined
+  in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)),
+  the Farm Credit Administration, after consultation with the respective
+  boards of directors of the affected banks and taking into consideration
+  the purposes of this subsection, may require the Federal Intermediate
+  Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such
+  terms and conditions as the Farm Credit Administration may prescribe. The
+  Farm Credit System Insurance Corporation shall expend amounts in the Farm
+  Credit Insurance Fund to the extent necessary to facilitate the merger
+  prescribed under this subparagraph, including the provision of assistance
+  as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971
+  (12 U.S.C. 2277a-10(a)(2)(A)(iii)), on such terms and conditions as the
+  Corporation deems appropriate.
+  `(ii) ARBITRATED MERGER- If at any time after the Farm Credit Administration
+  issues an order under paragraph (1)(D), but prior to the completion of
+  the merger required under this subsection, the Farm Credit Administration
+  determines that the Federal Intermediate Credit Bank of Jackson is being
+  operated in an unsafe or unsound manner (as determined in accordance with
+  the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit
+  Administration shall, after consultation with the boards of directors of
+  the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of
+  Texas, take such action as it deems necessary pursuant to the authorities
+  provided under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) to
+  return the operation of the Federal Intermediate Credit Bank of Jackson
+  to a safe and sound condition, pending the completion of the merger under
+  paragraph (2).
+  `(J) MERGER PLAN FOR AGRICULTURAL CREDIT ASSOCIATIONS- In any of the States
+  of Alabama, Louisiana, or Mississippi where all of the associations are
+  chartered as agricultural credit associations, the boards of directors
+  of each such association in each State are encouraged to submit to the
+  farmer-borrowers of each such association for their approval a plan for
+  merging the associations into one statewide agricultural credit association,
+  in accordance with the applicable provisions of the Farm Credit Act of 1971
+  (12 U.S.C. 2001 et seq.).
+  `(K) DEFINITIONS- As used in this paragraph:
+  `(i) AGRICULTURAL CREDIT ASSOCIATION- The term `agricultural credit
+  association' means an association having the same authorities, attributes,
+  and obligations as, and for all purposes an agricultural credit association
+  resulting from the implementation of the plan under this paragraph shall
+  be deemed to be, an association resulting from the merger of a production
+  credit association and a Federal land bank association under section 7.8
+  of the Farm Credit Act of 1971 (12 U.S.C. 2279c-1).
+  `(ii) FARMER-BORROWER- The term `farmer-borrower' means a borrower from
+  a Farm Credit System association in the State of Alabama, Louisiana, or
+  Mississippi who holds voting stock, or is eligible to hold voting stock,
+  in the association or a stockholder in any such association.
+  `(3) REVIEW-
+  `(A) IN GENERAL- Actions and determinations of the arbitrator, the Farm
+  Credit Administration, or the Farm Credit System Insurance Corporation
+  pursuant to this subsection shall not be subject to judicial review except
+  as provided in this paragraph, nor shall they be subject to the requirements
+  of subchapter II of chapter 5 or chapter 7 of title 5, United States Code.
+  `(B) AGENCY DETERMINATIONS-
+  `(i) IN GENERAL- Any petition for review of a determination or other action
+  of the Farm Credit Administration or the Farm Credit System Insurance
+  Corporation under this subsection shall be filed in the United States Court
+  of Appeals for the District of Columbia Circuit not later than 10 days
+  after the determination, or the petition shall be barred. The court shall
+  have exclusive jurisdiction to determine the proceeding in accordance with
+  standard procedures as supplemented by procedures hereinafter provided and
+  no other district court or court of appeals of the United States shall have
+  jurisdiction over any such challenge in any proceeding instituted prior
+  to, on, or after the date of enactment of this subsection. The review
+  of any determination or action of the Farm Credit Administration or the
+  Farm Credit System Insurance Corporation under this subsection shall be
+  based on the examination of all of the information before the Farm Credit
+  Administration or the Farm Credit System Insurance Corporation, as the
+  case may be, at the time the determination was made. The court reviewing
+  the determination or action shall not enter a stay or order of mandamus
+  unless the court has determined, after notice and a hearing before a
+  panel of the court, that the agency action complained of was arbitrary,
+  capricious, an abuse of discretion, or otherwise not in accordance with law.
+  `(ii) PROCEDURES- Notwithstanding any other provision of law, the court
+  may set rules governing the procedures of any such proceeding that set
+  page limits on briefs and time limits for filing briefs and motions and
+  other actions that are shorter than the limits specified in the Federal
+  Rules of Civil or Appellate Procedure.
+  `(iii) EXPEDITED REVIEW- Any such proceeding before the court shall
+  be assigned for hearing and completed at the earliest possible date,
+  and shall be expedited in every way. The court shall render its final
+  decision relative to any challenge not later than 50 days from the date
+  the challenge is brought unless the court determines that a longer period
+  of time is required to satisfy the requirements of the Constitution.
+  `(C) ARBITRATOR DETERMINATIONS-
+  `(i) IN GENERAL- Except as otherwise provided in this paragraph, any
+  petition for review of a determination or other action of the arbitrator
+  named under paragraph (2) shall be filed in accordance with the United
+  States Arbitration Act (9 U.S.C. 1 et seq.). Such Act shall apply to the
+  arbitration conducted pursuant to paragraph (2) to the same extent as if
+  the arbitration were established in a contract evidencing a transaction
+  in commerce between the Federal Intermediate Credit Bank of Jackson and
+  the Farm Credit Bank of Texas.
+  `(ii) PROCEDURES- Notwithstanding the United States Arbitration Act (9
+  U.S.C. 1 et seq.), any petition for review of a determination or other
+  action of the arbitrator under this subsection shall be filed not later
+  than 10 days after the determination, or the petition shall be barred. The
+  court specified under such Act shall have exclusive jurisdiction to
+  determine the proceeding in accordance with the applicable procedures
+  under such Act, as supplemented by procedures hereinafter provided, and
+  no other district court shall have jurisdiction over any such challenge
+  in any such proceeding. Notwithstanding any other provision of law, the
+  court may set rules governing the procedures of any such proceeding that
+  set page limits on briefs and time limits for filing briefs and motions
+  and other actions that are shorter than the limits specified in the United
+  States Arbitration Act or the Federal Rules of Civil or Appellate Procedure.
+  `(iii) EXPEDITED REVIEW- Any such proceeding before the court shall
+  be assigned for hearing and completed at the earliest possible date,
+  and shall be expedited in every way. The court shall render its final
+  decision relative to any challenge as soon as possible in accordance
+  with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later
+  than 30 days from the date the challenge is brought, whichever is sooner,
+  unless the court determines that a longer period of time is required to
+  satisfy the requirements of the Constitution.'.
+  (b) LONG-TERM LENDING AUTHORITY OF THE FARM CREDIT BANK OF TEXAS WITH
+  RESPECT TO THE STATES OF ALABAMA, LOUISIANA, AND MISSISSIPPI-
+  (1) IN GENERAL- Notwithstanding any other provision of law, the Farm
+  Credit Bank of Texas may act in accordance with the exclusive charter of
+  the bank, as amended by the Farm Credit Administration on February 7, 1989,
+  and effective February 9, 1989 (except to the extent that the charter may
+  be further amended by the Farm Credit Administration in accordance with its
+  general authorities under the Farm Credit Act of 1971 (12 U.S.C. 2001 et
+  seq.), subject to such limitations on the issuance of competitive charters
+  as may be provided in section 5.17 of such Act (12 U.S.C. 2252)).
+  (2) EFFECTIVE DATE- Paragraph (1) shall take effect as if such paragraph
+  had become law on February 7, 1989.
+  (c) DENIAL OF COMPETITIVE CHARTERS- Section 5.17(a)(2) (12 U.S.C. 2252(a)(2))
+  is amended--
+  (1) by inserting `(A)' after `(2)'; and
+  (2) by adding at the end the following new subparagraphs:
+  `(B) The Farm Credit Administration shall not issue a charter to, or approve
+  an amendment to the charter of, any institution of the Farm Credit System
+  to operate under title I or II that would authorize the institution to
+  exercise lending authority, whether directly or indirectly as an agent of
+  a Farm Credit Bank, in a territory in which the charter of another such
+  institution authorizes the other institution to exercise like authority,
+  whether directly or indirectly as an agent of a Farm Credit Bank, except
+  with the approval of--
+  `(i) in a case affecting only the charter of one or more associations--
+  `(I) a majority of the shareholders (present and voting or voting by proxy)
+  of each of the associations that would have like lending authority (whether
+  directly or indirectly as an agent of a Farm Credit Bank) in any of that
+  territory if the charter action were taken; and
+  `(II) a majority of the board of directors of the Farm Credit Bank with
+  which the affected associations are affiliated; or
+  `(ii) in a case affecting the charter of one or more banks--
+  `(I) a majority of the shareholders (present and voting or voting by proxy)
+  of the affiliated associations of each of the banks that would have like
+  lending authority in any of that territory if the charter action were taken;
+  `(II) a majority of the shareholders (present and voting or voting by proxy)
+  of each of the banks that would have like lending authority in any of that
+  territory if the charter action were taken; and
+  `(III) a majority vote of the boards of directors of each of the banks
+  that would have like lending authority in any of that territory if the
+  charter action were taken.
+  `(C) Subparagraph (B) shall apply only in those geographic areas where, due
+  to the failure of a Federal intermediate credit bank to merge in accordance
+  with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011
+  note), the Federal intermediate credit bank or its successor is chartered to
+  provide short- and intermediate-term credit, and a neighboring Farm Credit
+  Bank that is not the successor to the Federal intermediate credit bank is
+  chartered to provide long-term credit, in the same geographic territory.'.
+TITLE V--MISCELLANEOUS
+SEC. 501. VALUATION RESERVES OF PRODUCTION CREDIT ASSOCIATIONS.
+  Subsection (b) of section 2.3 (12 U.S.C. 2074(b)) is amended to read
+  as follows:
+  `(b) APPLICATION OF EARNINGS- At the end of each fiscal year, each
+  production credit association shall apply the amount of the earnings of
+  the association for the fiscal year in excess of the operating expenses
+  of the association (including provision for valuation reserves against
+  loan assets in accordance with generally accepted accounting principles)--
+  `(1) first, to the restoration of the impairment (if any) of capital; and
+  `(2) second, to the establishment and maintenance of the surplus accounts,
+  the minimum aggregate amount of which shall be prescribed by the Farm
+  Credit Bank.'.
+SEC. 502. RISK MANAGEMENT PARTICIPATION AUTHORITY.
+  Section 3.1(11) (12 U.S.C. 2122(11)) is amended--
+  (1) by inserting `(A)' after `(11)'; and
+  (2) by adding at the end the following new subparagraph:
+  `(B)(i) Participate in any loan of a type otherwise authorized under
+  this title that is made to a similar entity by any institution in the
+  business of extending credit, including purchases of participations in
+  loans to finance international trade transactions involving the sale of
+  agricultural commodities or the products thereof, except that--
+  `(I) a bank for cooperatives may not participate in a loan--
+  `(aa) if the participation would cause the total amount of all loan
+  participations by the bank under this subparagraph involving a single
+  credit risk to exceed 10 percent of the bank's total capital; or
+  `(bb) if the participation by the bank will itself equal or exceed 50 percent
+  of the principal of the loan or, when taken together with participations
+  in the loan by the other banks for cooperatives under this subparagraph,
+  will cause the cumulative amount of the participations by all banks for
+  cooperatives in the loan to equal or exceed 50 percent of the principal
+  of the loan;
+  `(II) a bank for cooperatives may not participate in a loan to a similar
+  entity under this subparagraph if the similar entity has a loan or loan
+  commitment outstanding with a Farm Credit Bank or an association chartered
+  under this Act, unless agreed to by the Bank or association; and
+  `(III) the cumulative amount of participations that a bank for cooperatives
+  may have outstanding under this subparagraph at any time may not exceed
+  15 percent of the bank's total assets.
+  `(ii) As used in this subparagraph, the term `similar entity' means
+  an entity that, while not eligible for a loan under section 3.8, is
+  functionally similar to an entity eligible for a loan under section 3.8
+  in that it derives a majority of its income from, or has a majority of
+  its assets invested in, the conduct of activities functionally similar to
+  those conducted by the entity.
+  `(iii) With respect to similar entities that are eligible to borrow from
+  a Farm Credit Bank or association under title I or II, the authority of
+  a bank for cooperatives to participate in loans to the entities under
+  this subparagraph shall be subject to the prior approval of the Farm
+  Credit Bank or Banks in whose chartered territory the entity is eligible
+  to borrow. The approval may be granted on an annual basis and under such
+  terms and conditions as may be agreed on between the bank for cooperatives
+  and the Farm Credit Bank or Banks that serve the territory.'.
+SEC. 503. EQUITY VOTING FOR ONE DIRECTOR OF EACH BANK FOR COOPERATIVES.
+  Section 3.2(a) of the Farm Credit Act of 1971 (12 U.S.C. 2123(a))
+  is amended--
+  (1) by inserting `(1)' after `(a)'; and
+  (2) by adding at the end the following new paragraph:
+  `(2)(A) If approved by the stockholders through a bylaw amendment,
+  the nomination and election of one member from a bank for cooperatives
+  (other than the National Bank for Cooperatives) shall be carried out with
+  each voting stockholder of a bank for cooperatives having one vote, plus
+  a number of votes (or fractional part thereof) equal to--
+  `(i) the number of stockholders eligible to vote; multiplied by
+  `(ii) the percentage (or fractional part thereof) of the total equity
+  interest (including allocated, but not unallocated, surplus and reserves)
+  in the bank of all stockholders held by the individual voting stockholder
+  at the close of the immediately preceding fiscal year of the bank.
+  `(B) The total number of votes under this paragraph shall be the number
+  of voting stockholders of a bank for cooperatives multiplied by two.'.
+SEC. 504. TECHNICAL AMENDMENT.
+  The first sentence of section 3.7(a) (12 U.S.C. 2128(a)) is amended by
+  inserting `at any time (whether or not they have a loan from the bank
+  outstanding)' after `technical and financial assistance'.
+SEC. 505. EXPANSION OF WATER AND SEWER LENDING AUTHORITY OF BANKS FOR
+COOPERATIVES.
+  Section 3.7(f) (12 U.S.C. 2128(f)) is amended--
+  (1) by striking `the installation, expansion, or improvement of' and
+  inserting `installing, maintaining, expanding, improving, or operating'; and
+  (2) by striking `to extend' and inserting `extending'.
+SEC. 506. ELIGIBILITY TO BORROW FROM A BANK FOR COOPERATIVES.
+  Section 3.8(b)(1) (12 U.S.C. 2129(b)(1)) is amended by adding at the end
+  the following new subparagraph:
+  `(E) Any creditworthy private entity that satisfies the requirements for
+  a service cooperative under paragraphs (1), (2), and (4) of subsection
+  (a) and subsidiaries of the entity, if the entity is organized to benefit
+  agriculture in furtherance of the welfare of its farmer-members and is
+  operated on a not-for-profit basis.'.
+SEC. 507. NON-VOTING REPRESENTATIVE ON BOARD OF FUNDING CORPORATION.
+  Paragraph (2) of section 4.9(d) (12 U.S.C. 2160(d)(2)) is amended to read
+  as follows:
+  `(2) NON-VOTING REPRESENTATIVES-
+  `(A) ASSISTANCE BOARD- During the period in which the Assistance Board
+  is in existence, the board of directors of the Assistance Board shall
+  designate one of its directors to serve as a non-voting representative to
+  the board of directors of the Corporation.
+  `(B) MEETINGS- The person designated by the Assistance Board under
+  subparagraph (A) may attend and participate in all deliberations of the
+  board of directors of the Corporation.
+  `(C) TERMINATION OF ASSISTANCE BOARD- After termination of the Assistance
+  Board, neither the Assistance Board nor its successor, the Farm Credit
+  System Insurance Corporation, shall have any representation on the board
+  of directors of the Corporation.'.
+SEC. 508. REPEAL OF PROHIBITION AGAINST GUARANTEE OF CERTAIN INSTRUMENTS
+OF INDEBTEDNESS.
+  Section 4.16 (12 U.S.C. 2204) is repealed.
+SEC. 509. COMPENSATION OF BANK DIRECTORS.
+  Section 4.21 (12 U.S.C. 2209) is amended to read as follows:
+`SEC. 4.21. COMPENSATION OF BANK DIRECTORS.
+  `(a) IN GENERAL- The Farm Credit Administration shall monitor the
+  compensation of members of the board of directors of a System bank received
+  as compensation for serving as a director of the bank to ensure that the
+  amount of the compensation does not exceed a level of $20,000 per year,
+  as adjusted to reflect changes in the Consumer Price Index for all urban
+  consumers published by the Bureau of Labor Statistics, unless the Farm
+  Credit Administration determines that such level adversely affects the
+  safety and soundness of the bank.
+  `(b) WAIVER- The Farm Credit Administration may waive the limitation
+  prescribed in subsection (a) under exceptional circumstances, as
+  determined in accordance with regulations promulgated by the Farm Credit
+  Administration.'.
+SEC. 510. CLARIFICATION OF TREATMENT OF FARM CREDIT ADMINISTRATION OPERATING
+EXPENSES.
+  Section 5.15(b)(1) (12 U.S.C. 2250(b)(1)) is amended--
+  (1) by inserting `, for purposes of sequestration,' after `regard'; and
+  (2) by striking `or any other law'.
+SEC. 511. APPROVAL OF COMPETITIVE CHARTERS.
+  Section 5.17(a) (12 U.S.C. 2252(a)) is amended by adding at the end the
+  following new paragraphs:
+  `(13)(A) Subject to subparagraph (B), the Farm Credit Administration may
+  approve an amendment to the charter of any institution of the Farm Credit
+  System operating under title I or II, which would authorize the institution
+  to exercise lending authority in any territory--
+  `(i) in the geographic area served by an association that was reassigned
+  pursuant to section 433 of the Agricultural Credit Act of 1987 (12
+  U.S.C. 2071 note) (where the geographic area was a part of the association's
+  territory as of the date of the reassignment); and
+  `(ii) in which the charter of an institution that is not seeking the
+  charter amendment authorizes the institution to exercise the type of
+  lending authority that is the subject of the charter request.
+  `(B) The Farm Credit Administration may approve a charter amendment under
+  subparagraph (A) only on the approval of--
+  `(i) the respective boards of directors of the associations that, if the
+  charter request is approved, would exercise like lending authority in any
+  of the territory that is the subject of the charter request;
+  `(ii) a majority of the stockholders of each association described in clause
+  (i) voting, in person or by proxy, at a duly authorized stockholders'
+  meeting; and
+  `(iii) the respective boards of directors of the Farm Credit Banks that,
+  if the charter request is approved, would exercise, either directly or
+  through associations, like lending authority in any of the territory
+  described in subparagraph (A)(i).
+  `(14)(A) Subject to subparagraph (B), the Farm Credit Administration may
+  approve a request to charter an association of the Farm Credit System to
+  operate under title II where the proposed charter--
+  `(i) will include any of the geographic area included in the territory
+  served by an association that was reassigned pursuant to section 433
+  of the Agricultural Credit Act of 1987 (12 U.S.C. 2071 note) (where the
+  geographic area was a part of the association's territory as of the date
+  of the reassignment); and
+  `(ii) will authorize the association to exercise lending authority in any
+  territory in the geographic area in which the charter of an association
+  that is not requesting the charter authorizes the association to exercise
+  the type of lending authority that is the subject of the charter  request.
+  `(B) The Farm Credit Administration may approve a charter request under
+  subparagraph (A) only on the approval of--
+  `(i) the respective boards of directors of the associations that, if the
+  charter request is approved, would exercise like lending authority in any
+  of the territory that is the subject of the charter request;
+  `(ii) a majority vote of the stockholders (if any) of each association
+  described in clause (i) voting, in person or by proxy, at a duly authorized
+  stockholder's meeting; and
+  `(iii) the respective boards of directors of the Farm Credit Banks that,
+  if the charter request is approved, would exercise, either directly or
+  through associations, like lending authority in any of the territory
+  described in subparagraph (A)(i).'.
+SEC. 512. EXAMINATIONS.
+  The third sentence of section 5.19(a) (12 U.S.C. 2254(a)) is amended by
+  striking `shall include' and inserting `may include, if appropriate'.
+SEC. 513. AUTHORITY TO EXAMINE SYSTEM INSTITUTIONS.
+  (a) AUTHORITY OF FARM CREDIT SYSTEM INSURANCE CORPORATION- Section 5.59
+  (12 U.S.C. 2277a-8) is amended--
+  (1) in the section heading, by striking `insured system banks' and inserting
+  `system institutions'; and
+  (2) by striking subsection (b) and inserting the following new subsection:
+  `(b) EXAMINATION OF SYSTEM INSTITUTIONS-
+  `(1) EXAMINATION AUTHORITY-
+  `(A) IN GENERAL- If the Board of Directors considers it necessary to examine
+  an insured System bank, a production credit association, an association
+  making direct loans under the authority provided under section 7.6, or
+  any System institution in receivership, the Board may, using Farm Credit
+  Administration examiners, conduct the examination using reports and other
+  information on the System institution prepared or held by the Farm Credit
+  Administration.
+  `(B) REQUEST FOR ADDITIONAL EXAMINATION OR OTHER INFORMATION- If the Board
+  determines that such reports or information are not adequate to enable the
+  Corporation to carry out the duties of the Corporation under this subsection,
+  the Board shall request the Farm Credit Administration to examine or to
+  obtain other information from or about the System institution and provide to
+  the Corporation the resulting examination report or such other information.
+  `(2) APPOINTMENT OF EXAMINERS- If the Farm Credit Administration informs the
+  Corporation that the Farm Credit Administration is unable to comply with a
+  request made under paragraph (1)(B) with respect to a System institution,
+  the Board may appoint examiners to examine the institution.
+  `(3) POWERS AND REPORT- Each examiner appointed under paragraph (2) shall
+  make such examination of the affairs of the System institution as the Board
+  may direct, and shall make a full and detailed report of the examination
+  to the Corporation.
+  `(4) APPOINTMENT OF CLAIM AGENTS- The Board of Directors of the Corporation
+  shall appoint claim agents who may investigate and examine all claims for
+  insured obligations.'.
+  (b) DUTIES OF THE FARM CREDIT ADMINISTRATION- Section 5.19 (12 U.S.C. 2254)
+  is amended by adding at the end the following new subsection:
+  `(d) On receipt of a request made under section 5.59(b)(1)(B) with respect
+  to a System institution, the Farm Credit Administration shall--
+  `(1) furnish for the confidential use of the Farm Credit System Insurance
+  Corporation reports of examination of the institution and other reports
+  or information on the institution; and
+  `(2)(A) examine, or obtain other information on, the institution and furnish
+  for the confidential use of the Farm Credit System Insurance Corporation
+  the report of the examination and such other information; or
+  `(B) if the Farm Credit Administration Board determines that compliance
+  with the request would substantially impair the ability of the Farm Credit
+  Administration to carry out the other duties and responsibilities of the
+  Farm Credit Administration under this Act, notify the Board of Directors
+  of the Farm Credit System Insurance Corporation that the Farm Credit
+  Administration will be unable to comply with the request.'.
+SEC. 514. FINANCIAL DISCLOSURE AND CONFLICT OF INTEREST REPORTING BY DIRECTORS,
+OFFICERS, AND EMPLOYEES OF FARM CREDIT SYSTEM INSTITUTIONS.
+  (a) FINDINGS- Congress finds that--
+  (1) the disclosure of the compensation paid to, loans made to, and
+  transactions made with a Farm Credit System institution by, directors
+  and senior officers of the institution provides the stockholders of the
+  institutions with information necessary to better manage the institutions,
+  provides the Farm Credit Administration with information necessary to
+  efficiently and effectively regulate the institutions, and enhances the
+  financial integrity of the Farm Credit System by making the information
+  available to potential investors;
+  (2) the reporting of potential conflicts of interest by directors, officers,
+  and employees of institutions of the Farm Credit System benefits the
+  stockholders of the institutions, helps to ensure the financial viability
+  of the institutions, provides information valuable to the Farm Credit
+  Administration in periodic examinations of the institutions, and therefore
+  enhances the safety and soundness of the Farm Credit System; and
+  (3) the directors, officers, or employees of some Farm Credit System
+  institutions may not be subject to the regulations of the Farm Credit
+  Administration requiring the disclosure of the financial information and
+  the reporting of the potential conflicts of interest.
+  (b) PURPOSE- It is the purpose of this section to ensure that the information
+  reported by the directors, officers, and employees of Farm Credit System
+  institutions under regulations of the Farm Credit Administration requiring
+  the disclosure of financial information and the reporting of potential
+  conflicts of interest--
+  (1) provides the stockholders of all Farm Credit System institutions
+  with information to assist the stockholders in making informed decisions
+  regarding the operation of the institutions;
+  (2) provides investors and potential investors with information necessary
+  to assist them in making investment decisions regarding Farm Credit System
+  obligations or institutions; and
+  (3) provides the Farm Credit Administration with information necessary
+  to allow the Farm Credit Administration to effectively and efficiently
+  examine and regulate all Farm Credit System institutions and thus enhance
+  the safety and soundness of the Farm Credit System.
+  (c) REVIEW- Not later than 120 days after the date of enactment of this
+  Act, the Farm Credit Administration shall complete a review of the current
+  regulations of the Farm Credit Administration regarding the disclosure
+  of financial information and the reporting of potential conflicts of
+  interest by the directors, officers, and employees of Farm Credit System
+  institutions. Consistent with the purpose of this section as provided in
+  subsection (b), the review shall address whether the regulations--
+  (1) are adequate to fulfill the purpose of this section and such other
+  purposes as the Farm Credit Administration determines to be consistent with
+  the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), and other applicable
+  law, and to be otherwise necessary or appropriate;
+  (2) currently require the disclosure of financial information and the
+  reporting of potential conflicts of interest by the directors, officers,
+  and employees of all Farm Credit System institutions; and
+  (3) currently require the disclosure or reporting of the information by
+  all of the appropriate directors, officers, or employees of Farm Credit
+  System institutions.
+  (d) IMPLEMENTATION- Not later than 360 days after the date of enactment of
+  this Act, the Farm Credit Administration shall amend its current financial
+  disclosure and conflict of interest regulations as the Administration
+  determines necessary to carry out the purpose of this section and to address
+  any deficiencies in the regulations that the Farm Credit Administration
+  determines necessary pursuant to the review conducted under subsection (c).
+SEC. 515. ONE-TIME EFAP ASSISTANCE.
+  (a) USE OF ACCOUNT- The Secretary of Agriculture shall use the account in
+  which funds appropriated under section 214 of the Emergency Food Assistance
+  Act of 1983 (Public Law 98-8; 7 U.S.C. 612c note) are credited or deposited,
+  or another account established for the use of the Secretary of Agriculture,
+  for the purpose of purchasing, processing and distributing additional
+  commodities for the emergency food assistance program established under
+  such Act (7 U.S.C. 612c note) as required by this section.
+  (b) USE OF RECEIPTS-
+  (1) IN GENERAL- Not later than 10 days after the date of enactment of this
+  Act, the Director of the Office of Management and Budget shall--
+  (A) calculate the estimated present value of the future receipts available
+  to the Federal Government, under procedures or definitions established in
+  the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), as a result
+  of enactment of this Act and the amendments made by this Act; and
+  (B) advise the Secretary of Agriculture, the Committee on Agriculture of
+  the House of Representatives, and the Committee on Agriculture, Nutrition,
+  and Forestry of the Senate of the dollar amount of that value.
+  (2) CREDIT- Not later than 20 days after the date of enactment of this Act,
+  an amount equal to the dollar amount of that value shall be credited to,
+  or deposited in, the account referred to in subsection (a) by the Secretary
+  of the Treasury.
+  (c) REQUIRED PURCHASE OF COMMODITIES BY THE SECRETARY OF AGRICULTURE-
+  (1) IN GENERAL- The Secretary of Agriculture shall--
+  (A) use all of the funds provided to the Secretary under subsection (a) to
+  purchase, process, and distribute additional commodities for the emergency
+  food assistance program; and
+  (B) allot the additional commodities to States in accordance with the
+  application of the allocation formula established in section 214(f) of the
+  Emergency Food Assistance Act of 1983 (Public Law 98-8; 7 U.S.C. 612c note)
+  to the total value of the additional commodities.
+  (2) TYPES AND VARIETIES- The additional commodities shall be of the types
+  and varieties required under section 214(d) of such Act.
+  (3) REALLOCATION- The additional commodities may be reallocated under
+  procedures established by the Secretary of Agriculture in accordance with
+  section 214(g) of such Act.
+  (d) ENTITLEMENT TO RECEIVE COMMODITIES- Each State shall be entitled to
+  receive during fiscal year 1993 its allotment of the additional commodities
+  purchased by the Secretary of Agriculture under this section.
+  (e) TERMINATION OF AUTHORITY- The authority provided to carry out this
+  section shall terminate on September 30, 1993.
+SEC. 516. TECHNICAL CORRECTIONS.
+  (a) CORRECTION OF REFERENCE TO SECTION 1236 OF THE FOOD SECURITY ACT OF 1985-
+  The matter under the heading `CONSTRUCTION AND ANADROMOUS FISH' of title
+  I of the Department of the Interior and Related Agencies Appropriations
+  Act, 1991 (Public Law 101-512; 104 Stat. 1918) is amended by striking
+  `title 16 U.S.C. section 3832(a)(6)' and inserting `section 1232(a)(6)
+  of the Food Security Act of 1985 (16 U.S.C. 3832(a)(6))'.
+  (b) SECTION 1245(b) OF THE FOOD SECURITY ACT OF 1985-
+  (1) CORRECTION- Section 1245(b) of the Food Security Act of 1985 (16
+  U.S.C. 3845(b)) is amended by striking `(A) through (G)' and inserting
+  `A through G'.
+  (2) EFFECTIVE DATE- The amendment made by paragraph (1) shall take effect
+  immediately after section 1443 of the Food, Agriculture, Conservation,
+  and Trade Act of 1990 (Public Law 101-624; 104 Stat. 3602) took effect.
+  (c) SECTION 307(a)(6)(B) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  (1) CORRECTION- Section 307(a)(6)(B) of the Consolidated Farm and Rural
+  Development Act (7 U.S.C. 1927(a)(6)(B)) is amended by striking clause
+  (ii), and by redesignating clauses (iii) through (viii) as clauses (ii)
+  through (vii), respectively.
+  (2) EFFECTIVE DATE- The amendments made by paragraph (1) of this subsection
+  shall take effect at the same time as the amendments made by section 501(a)
+  of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991
+  (Public Law 102-237; 105 Stat. 1865) took effect.
+  (d) SECTION 310B(c) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT
+  ACT- Section 310B(c) (7 U.S.C. 1932(c)) is amended by striking `business
+  enterprises,' and inserting `business enterprises or the creation, expansion,
+  and operation of rural distance learning networks or rural learning programs
+  that provide educational instruction or job training instruction related
+  to potential employment or job advancement to adult students,'.
+  (e) SECTION 310D(a) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  (1) CORRECTION- Section 310D(a) of the Consolidated Farm and Rural
+  Development Act (7 U.S.C. 1934(a)) is amended by striking `304(d)(1)'
+  and inserting `304(a)(1)'.
+  (2) EFFECTIVE DATE- The amendment made by paragraph (1) of this subsection
+  shall take effect at the same time as the amendments made by section 501(a)
+  of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991
+  (Public Law 102-237; 105 Stat. 1865) took effect.
+  (f) SECTION 312(a) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  (1) REPLACEMENT OF UNEXECUTABLE AMENDMENT MADE BY THE FOOD, AGRICULTURE,
+  CONSERVATION, AND TRADE ACT OF 1990-
+  (A) CORRECTION- Subsection (b) of section 1818 of the Food, Agriculture,
+  Conservation, and Trade Act of 1990 (Public Law 101-624; 104 Stat. 3830)
+  is amended to read as follows:
+  `(b) OPERATING LOAN PURPOSES- The first sentence of section 312(a)
+  (7 U.S.C. 1942(a)) is amended--
+  `(1) by striking `and' at the end of clause (11); and
+  `(2) by inserting `, and (13) borrower training under section 359' before
+  the period at the end.'.
+  (B) EFFECTIVE DATE- The amendment made by subparagraph (A) shall take
+  effect as if included in the Food, Agriculture, Conservation, and Trade
+  Act of 1990 at the time such Act became law.
+  (2) REPEAL OF UNEXECUTABLE AMENDMENT MADE BY THE FOOD, AGRICULTURE,
+  CONSERVATION, AND TRADE ACT AMENDMENTS OF 1991- Subsection (b) of section
+  501 of the Food, Agriculture, Conservation, and Trade Act Amendments of
+  1991 (Public Law 102-237; 105 Stat. 1866) is repealed. The Consolidated
+  Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied
+  and administered as if such subsection had never become law.
+  (g) AMENDMENTS TO SECTION 331E OF THE CONSOLIDATED FARM AND RURAL
+  DEVELOPMENT ACT-
+  (1) CORRECTION- Section 331E of the Consolidated Farm and Rural Development
+  Act (7 U.S.C. 1981e) is amended--
+  (A) in subsection (a), by striking `Disaster Relief Act of 1974' and
+  inserting `Robert T. Stafford Disaster Relief and Emergency Assistance Act
+  (42 U.S.C. 5121 et seq.)'; and
+  (B) in subsection (b), by inserting `Robert T. Stafford' before `Disaster
+  Relief'.
+  (2) EFFECTIVE DATE- The amendments made by paragraph (1) of this subsection
+  shall take effect immediately after section 501(d) of the Food, Agriculture,
+  Conservation, and Trade Act Amendments of 1991 (Public Law 102-237; 105
+  Stat. 1866) took effect.
+  (h) SECTION 335(e)(1)(A)(i) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT
+  ACT-
+  (1) CORRECTIONS TO AMENDMENT MADE BY THE FOOD, AGRICULTURE, CONSERVATION,
+  AND TRADE ACT AMENDMENTS OF 1991- Section 501(f)(1) of the Food, Agriculture,
+  Conservation, and Trade Act Amendments of 1991 (Public Law 102-237; 105
+  Stat. 1867) is amended--
+  (A) by inserting `the first place such term appears' before `and all that
+  follows'; and
+  (B) by striking `borrower-owner (as defined in subparagraph (F))' and
+  inserting `the borrower-owner (as defined in subparagraph (F))'.
+  (2) EFFECTIVE DATE- The amendments made by paragraph (1) of this subsection
+  shall take effect immediately after section 501(f) of the Food, Agriculture,
+  Conservation, and Trade Act of 1990 took effect.
+  (i) SECTION 352(a) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  Section 352(a) of the Consolidated Farm and Rural Development Act (7
+  U.S.C. 2000(a)) is amended by redesignating the second paragraph (4)
+  as paragraph (5).
+  (j) SECTION 352(b)(2) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  (1) CORRECTION- Section 352(b)(2) of the Consolidated Farm and Rural
+  Development Act (7 U.S.C. 2000(b)(2)) is amended by striking `borrower's'
+  and inserting `borrower-owner's'.
+  (2) EFFECTIVE DATE- The amendment made by paragraph (1) of this subsection
+  shall take effect at the same time as the amendments made by section 501(f)
+  of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991
+  (Public Law 102-237; 105 Stat. 1867) took effect.
+  (k) SECTION 702(h)(2) OF THE FOOD, AGRICULTURE, CONSERVATION, AND TRADE
+  ACT AMENDMENTS OF 1991- Section 702(h)(2) of the Food, Agriculture,
+  Conservation, and Trade Act Amendments of 1991 (Public Law 102-237; 105
+  Stat. 1881) is amended by inserting `section' before `2388(h)(3)'.
+  (l) SECTION 306C(b)(1) OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT-
+  Section 306C(b)(1) of the Consolidated Farm and Rural Development Act (7
+  U.S.C. 1926c(b)(1)) is amended by striking `or connecting such systems
+  to the residences of such individuals' and inserting `, connecting the
+  systems to the residences of the individuals, or installing plumbing and
+  fixtures within the residences of the individuals to facilitate the use
+  of the water supply and waste disposal systems'.
+  (m) SECTION 306C OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT- Section
+  306C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926c)
+  is amended by adding at the end the following new subsection:
+  `(f) REGULATIONS- Not later than 30 days after the date of enactment of
+  this subsection, the Secretary shall issue interim final regulations,
+  with a request for public comments, implementing this section.'.
+Speaker of the House of Representatives.
+Vice President of the United States and
+President of the Senate.
